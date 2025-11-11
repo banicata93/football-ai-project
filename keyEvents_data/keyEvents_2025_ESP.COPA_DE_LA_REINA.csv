@@ -1,0 +1,215 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13673,759819,1,46332321,94,1,120,2',0,0,Vega Montesinos (Alhama) Yellow Card at 2',Vega Montesinos Yellow Card,21137,0.0,0.0,0.0,0.0,0.0,0.0,1,409774,2025-11-06 06:15:41
+13673,759819,2,46332344,98,1,660,11',1,0,Estefanía Lima (Alhama) Penalty - Scored at 11',Estefanía Lima Penalty - Scored,21137,0.0,0.0,0.0,0.0,0.0,0.0,1,333581,2025-11-06 06:15:41
+13673,759819,3,46332369,70,1,1080,18',1,0,Javiera Toro (Alhama) Goal at 18',Javiera Toro Goal,21137,0.0,0.0,0.0,0.0,0.0,0.0,1,264854,2025-11-07 06:14:04
+13673,759819,4,46332518,76,2,2700,45',0,0,Aitana Zumarraga (Alhama) Substitution at 45',Aitana Zumarraga Substitution,21137,0.0,0.0,0.0,0.0,0.0,0.0,1,354961,2025-11-06 06:15:41
+13673,759819,4,46332518,76,2,2700,45',0,0,Aitana Zumarraga (Alhama) Substitution at 45',Aitana Zumarraga Substitution,21137,0.0,0.0,0.0,0.0,0.0,0.0,2,409774,2025-11-06 06:15:41
+13673,759819,5,46332738,76,2,3720,62',0,0,Leonie Bourret (Sport Extremadura) Substitution at 62',Leonie Bourret Substitution,131386,0.0,0.0,0.0,0.0,0.0,0.0,1,414469,2025-11-06 06:15:41
+13673,759819,5,46332738,76,2,3720,62',0,0,Leonie Bourret (Sport Extremadura) Substitution at 62',Leonie Bourret Substitution,131386,0.0,0.0,0.0,0.0,0.0,0.0,2,414247,2025-11-06 06:15:41
+13673,759819,6,46332638,94,2,3900,65',0,0,Mariana Diaz Leal (Alhama) Yellow Card at 65',Mariana Diaz Leal Yellow Card,21137,0.0,0.0,0.0,0.0,0.0,0.0,1,328685,2025-11-06 06:15:41
+13673,759819,7,46332648,94,2,3960,66',0,0,Ana Velázquez (Alhama) Yellow Card at 66',Ana Velázquez Yellow Card,21137,0.0,0.0,0.0,0.0,0.0,0.0,1,329681,2025-11-06 06:15:41
+13673,759819,8,46332658,70,2,4080,68',1,0,Anlly Taborda (Sport Extremadura) Goal at 68',Anlly Taborda Goal,131386,0.0,0.0,0.0,0.0,0.0,0.0,1,414154,2025-11-06 06:15:41
+13673,759819,9,46332670,76,2,4200,70',0,0,Marta Gestera (Alhama) Substitution at 70',Marta Gestera Substitution,21137,0.0,0.0,0.0,0.0,0.0,0.0,1,381372,2025-11-07 06:14:04
+13673,759819,10,46341267,76,2,4200,70',0,0,Encarni (Alhama) Substitution at 70',Encarni Substitution,21137,0.0,0.0,0.0,0.0,0.0,0.0,1,349931,2025-11-07 06:14:04
+13673,759819,9,46332670,76,2,4200,70',0,0,Marta Gestera (Alhama) Substitution at 70',Marta Gestera Substitution,21137,0.0,0.0,0.0,0.0,0.0,0.0,2,328685,2025-11-07 06:14:04
+13673,759819,10,46341267,76,2,4200,70',0,0,Encarni (Alhama) Substitution at 70',Encarni Substitution,21137,0.0,0.0,0.0,0.0,0.0,0.0,2,333581,2025-11-07 06:14:04
+13673,759819,11,46332718,76,2,4800,80',0,0,Kuki (Alhama) Substitution at 80',Kuki Substitution,21137,0.0,0.0,0.0,0.0,0.0,0.0,1,333492,2025-11-07 06:14:04
+13673,759819,11,46332718,76,2,4800,80',0,0,Kuki (Alhama) Substitution at 80',Kuki Substitution,21137,0.0,0.0,0.0,0.0,0.0,0.0,2,333568,2025-11-07 06:14:04
+13673,759819,13,46332762,76,2,5160,86',0,0,Marta Revuelta (Sport Extremadura) Substitution at 86',Marta Revuelta Substitution,131386,0.0,0.0,0.0,0.0,0.0,0.0,1,414251,2025-11-07 06:14:04
+13673,759819,12,46332761,76,2,5160,86',0,0,Félicité Hamidouche (Sport Extremadura) Substitution at 86',Félicité Hamidouche Substitution,131386,0.0,0.0,0.0,0.0,0.0,0.0,1,414242,2025-11-07 06:14:04
+13673,759819,12,46332761,76,2,5160,86',0,0,Félicité Hamidouche (Sport Extremadura) Substitution at 86',Félicité Hamidouche Substitution,131386,0.0,0.0,0.0,0.0,0.0,0.0,2,414244,2025-11-07 06:14:04
+13673,759819,13,46332762,76,2,5160,86',0,0,Marta Revuelta (Sport Extremadura) Substitution at 86',Marta Revuelta Substitution,131386,0.0,0.0,0.0,0.0,0.0,0.0,2,414153,2025-11-07 06:14:04
+13673,759819,14,46332775,76,2,5400,90'+5',0,0,Alba Santamaría (Alhama) Substitution at 95',Alba Santamaría Substitution,21137,0.0,0.0,0.0,0.0,0.0,0.0,1,334539,2025-11-07 06:14:04
+13673,759819,15,46332776,94,2,5400,90'+5',0,0,Carla Castiñeyras (Alhama) Yellow Card at 95',Carla Castiñeyras Yellow Card,21137,0.0,0.0,0.0,0.0,0.0,0.0,1,409772,2025-11-07 06:14:04
+13673,759819,14,46332775,76,2,5400,90'+5',0,0,Alba Santamaría (Alhama) Substitution at 95',Alba Santamaría Substitution,21137,0.0,0.0,0.0,0.0,0.0,0.0,2,333571,2025-11-07 06:14:04
+13673,759820,1,46332549,98,1,360,6',1,0,Marisa (Deportivo La Coruña) Penalty - Scored at 6',Marisa Penalty - Scored,21145,0.0,0.0,0.0,0.0,0.0,0.0,1,377249,2025-11-06 06:15:41
+13673,759820,2,46332630,70,1,1200,20',1,0,Marisa (Deportivo La Coruña) Goal at 20',Marisa Goal,21145,0.0,0.0,0.0,0.0,0.0,0.0,1,377249,2025-11-06 06:15:41
+13673,759820,4,46332901,76,2,2700,45',0,0,Natalia Herrera (Guiniguada Apolinario) Substitution at 45',Natalia Herrera Substitution,22346,0.0,0.0,0.0,0.0,0.0,0.0,1,414018,2025-11-06 06:15:41
+13673,759820,3,46332733,70,1,2700,45'+1',1,0,Raquel Quintana (Guiniguada Apolinario) Goal at 46',Raquel Quintana Goal,22346,0.0,0.0,0.0,0.0,0.0,0.0,1,334550,2025-11-06 06:15:41
+13673,759820,4,46332901,76,2,2700,45',0,0,Natalia Herrera (Guiniguada Apolinario) Substitution at 45',Natalia Herrera Substitution,22346,0.0,0.0,0.0,0.0,0.0,0.0,2,414010,2025-11-06 06:15:41
+13673,759820,6,46333225,76,2,3420,57',0,0,Lucía Rivas (Deportivo La Coruña) Substitution at 57',Lucía Rivas Substitution,21145,0.0,0.0,0.0,0.0,0.0,0.0,1,386757,2025-11-06 06:15:41
+13673,759820,5,46333175,76,2,3420,57',0,0,Samara Ortíz (Deportivo La Coruña) Substitution at 57',Samara Ortíz Substitution,21145,0.0,0.0,0.0,0.0,0.0,0.0,1,390865,2025-11-06 06:15:41
+13673,759820,7,46333226,76,2,3420,57',0,0,Esperanza Pizarro (Deportivo La Coruña) Substitution at 57',Esperanza Pizarro Substitution,21145,0.0,0.0,0.0,0.0,0.0,0.0,1,286612,2025-11-06 06:15:41
+13673,759820,7,46333226,76,2,3420,57',0,0,Esperanza Pizarro (Deportivo La Coruña) Substitution at 57',Esperanza Pizarro Substitution,21145,0.0,0.0,0.0,0.0,0.0,0.0,2,390870,2025-11-06 06:15:41
+13673,759820,7,46333226,76,2,3420,57',0,0,Esperanza Pizarro (Deportivo La Coruña) Substitution at 57',Esperanza Pizarro Substitution,21145,0.0,0.0,0.0,0.0,0.0,0.0,2,261110,2025-11-06 06:15:41
+13673,759820,5,46333175,76,2,3420,57',0,0,Samara Ortíz (Deportivo La Coruña) Substitution at 57',Samara Ortíz Substitution,21145,0.0,0.0,0.0,0.0,0.0,0.0,2,328627,2025-11-06 06:15:41
+13673,759820,6,46333225,76,2,3420,57',0,0,Lucía Rivas (Deportivo La Coruña) Substitution at 57',Lucía Rivas Substitution,21145,0.0,0.0,0.0,0.0,0.0,0.0,2,249104,2025-11-06 06:15:41
+13673,759820,8,46333314,76,2,3900,65',0,0,Melisa Mendoza (Guiniguada Apolinario) Substitution at 65',Melisa Mendoza Substitution,22346,0.0,0.0,0.0,0.0,0.0,0.0,1,414022,2025-11-06 06:15:41
+13673,759820,8,46333314,76,2,3900,65',0,0,Melisa Mendoza (Guiniguada Apolinario) Substitution at 65',Melisa Mendoza Substitution,22346,0.0,0.0,0.0,0.0,0.0,0.0,2,414019,2025-11-06 06:15:41
+13673,759820,9,46333338,76,2,4080,68',0,0,Marina Artero (Deportivo La Coruña) Substitution at 68',Marina Artero Substitution,21145,0.0,0.0,0.0,0.0,0.0,0.0,1,344361,2025-11-06 06:15:41
+13673,759820,9,46333338,76,2,4080,68',0,0,Marina Artero (Deportivo La Coruña) Substitution at 68',Marina Artero Substitution,21145,0.0,0.0,0.0,0.0,0.0,0.0,2,333463,2025-11-06 06:15:41
+13673,759820,10,46333508,70,2,4560,76',1,0,Floriangel Apóstol (Deportivo La Coruña) Goal at 76',Floriangel Apóstol Goal,21145,0.0,0.0,0.0,0.0,0.0,0.0,1,393898,2025-11-06 06:15:41
+13673,759820,13,46333565,76,2,4620,77',0,0,Joana García (Guiniguada Apolinario) Substitution at 77',Joana García Substitution,22346,0.0,0.0,0.0,0.0,0.0,0.0,1,376320,2025-11-06 06:15:41
+13673,759820,11,46333536,76,2,4620,77',0,0,Lucía Lorenzo (Guiniguada Apolinario) Substitution at 77',Lucía Lorenzo Substitution,22346,0.0,0.0,0.0,0.0,0.0,0.0,1,414017,2025-11-06 06:15:41
+13673,759820,12,46333549,76,2,4620,77',0,0,Sheila Patiño (Guiniguada Apolinario) Substitution at 77',Sheila Patiño Substitution,22346,0.0,0.0,0.0,0.0,0.0,0.0,1,414014,2025-11-06 06:15:41
+13673,759820,12,46333549,76,2,4620,77',0,0,Sheila Patiño (Guiniguada Apolinario) Substitution at 77',Sheila Patiño Substitution,22346,0.0,0.0,0.0,0.0,0.0,0.0,2,414009,2025-11-06 06:15:41
+13673,759820,13,46333565,76,2,4620,77',0,0,Joana García (Guiniguada Apolinario) Substitution at 77',Joana García Substitution,22346,0.0,0.0,0.0,0.0,0.0,0.0,2,362387,2025-11-06 06:15:41
+13673,759820,11,46333536,76,2,4620,77',0,0,Lucía Lorenzo (Guiniguada Apolinario) Substitution at 77',Lucía Lorenzo Substitution,22346,0.0,0.0,0.0,0.0,0.0,0.0,2,414021,2025-11-06 06:15:41
+13673,759820,14,46333577,76,2,4740,79',0,0,Carmen Carballada (Deportivo La Coruña) Substitution at 79',Carmen Carballada Substitution,21145,0.0,0.0,0.0,0.0,0.0,0.0,1,389780,2025-11-06 06:15:41
+13673,759820,14,46333577,76,2,4740,79',0,0,Carmen Carballada (Deportivo La Coruña) Substitution at 79',Carmen Carballada Substitution,21145,0.0,0.0,0.0,0.0,0.0,0.0,2,377249,2025-11-06 06:15:41
+13673,759820,15,46333578,94,2,4920,82',0,0,Sheila Patiño (Guiniguada Apolinario) Yellow Card at 82',Sheila Patiño Yellow Card,22346,0.0,0.0,0.0,0.0,0.0,0.0,1,414014,2025-11-06 06:15:41
+13673,759820,16,46333632,94,2,5100,85',0,0,Carmen Carballada (Deportivo La Coruña) Yellow Card at 85',Carmen Carballada Yellow Card,21145,0.0,0.0,0.0,0.0,0.0,0.0,1,389780,2025-11-08 06:14:23
+13673,759821,1,46337520,70,1,240,4',1,0,Natasa Andonova (Madrid CFF) Goal at 4',Natasa Andonova Goal,21425,0.0,0.0,0.0,0.0,0.0,0.0,1,335790,2025-11-07 06:14:04
+13673,759821,2,46337577,70,1,360,6',1,0,Camila Pescatore (Sporting de Huelva) Goal at 6',Camila Pescatore Goal,21377,0.0,0.0,0.0,0.0,0.0,0.0,1,361712,2025-11-07 06:14:04
+13673,759821,3,46338352,70,1,1920,32',1,0,Bárbara López (Madrid CFF) Goal at 32',Bárbara López Goal,21425,0.0,0.0,0.0,0.0,0.0,0.0,1,349954,2025-11-07 06:14:04
+13673,759821,4,46338393,70,1,2220,37',1,0,Emilie Nautnes (Madrid CFF) Goal at 37',Emilie Nautnes Goal,21425,0.0,0.0,0.0,0.0,0.0,0.0,1,280993,2025-11-07 06:14:04
+13673,759821,5,46339274,70,2,3180,53',1,0,Natasa Andonova (Madrid CFF) Goal at 53',Natasa Andonova Goal,21425,0.0,0.0,0.0,0.0,0.0,0.0,1,335790,2025-11-07 06:14:04
+13673,759821,6,46339495,70,2,3480,58',1,0,Bárbara López (Madrid CFF) Goal at 58',Bárbara López Goal,21425,0.0,0.0,0.0,0.0,0.0,0.0,1,349954,2025-11-07 06:14:04
+13673,759821,9,46339767,76,2,3720,62',0,0,Yanira Morán (Sporting de Huelva) Substitution at 62',Yanira Morán Substitution,21377,0.0,0.0,0.0,0.0,0.0,0.0,1,334538,2025-11-07 06:14:04
+13673,759821,10,46339768,76,2,3720,62',0,0,África González (Sporting de Huelva) Substitution at 62',África González Substitution,21377,0.0,0.0,0.0,0.0,0.0,0.0,1,334445,2025-11-07 06:14:04
+13673,759821,8,46339766,76,2,3720,62',0,0,Andrea López (Sporting de Huelva) Substitution at 62',Andrea López Substitution,21377,0.0,0.0,0.0,0.0,0.0,0.0,1,227205,2025-11-07 06:14:04
+13673,759821,7,46339729,76,2,3720,62',0,0,Alba Quintana (Sporting de Huelva) Substitution at 62',Alba Quintana Substitution,21377,0.0,0.0,0.0,0.0,0.0,0.0,1,334536,2025-11-07 06:14:04
+13673,759821,7,46339729,76,2,3720,62',0,0,Alba Quintana (Sporting de Huelva) Substitution at 62',Alba Quintana Substitution,21377,0.0,0.0,0.0,0.0,0.0,0.0,2,414147,2025-11-07 06:14:04
+13673,759821,8,46339766,76,2,3720,62',0,0,Andrea López (Sporting de Huelva) Substitution at 62',Andrea López Substitution,21377,0.0,0.0,0.0,0.0,0.0,0.0,2,414150,2025-11-07 06:14:04
+13673,759821,10,46339768,76,2,3720,62',0,0,África González (Sporting de Huelva) Substitution at 62',África González Substitution,21377,0.0,0.0,0.0,0.0,0.0,0.0,2,414148,2025-11-07 06:14:04
+13673,759821,9,46339767,76,2,3720,62',0,0,Yanira Morán (Sporting de Huelva) Substitution at 62',Yanira Morán Substitution,21377,0.0,0.0,0.0,0.0,0.0,0.0,2,414151,2025-11-07 06:14:04
+13673,759821,11,46339803,76,2,3840,64',0,0,Estefanía Banini (Madrid CFF) Substitution at 64',Estefanía Banini Substitution,21425,0.0,0.0,0.0,0.0,0.0,0.0,1,284171,2025-11-07 06:14:04
+13673,759821,14,46339806,76,2,3840,64',0,0,Kamilla Melgard (Madrid CFF) Substitution at 64',Kamilla Melgard Substitution,21425,0.0,0.0,0.0,0.0,0.0,0.0,1,390022,2025-11-07 06:14:04
+13673,759821,12,46339804,76,2,3840,64',0,0,Ángela Sosa (Madrid CFF) Substitution at 64',Ángela Sosa Substitution,21425,0.0,0.0,0.0,0.0,0.0,0.0,1,282852,2025-11-07 06:14:04
+13673,759821,13,46339805,76,2,3840,64',0,0,Malou Rylov (Madrid CFF) Substitution at 64',Malou Rylov Substitution,21425,0.0,0.0,0.0,0.0,0.0,0.0,1,315068,2025-11-07 06:14:04
+13673,759821,14,46339806,76,2,3840,64',0,0,Kamilla Melgard (Madrid CFF) Substitution at 64',Kamilla Melgard Substitution,21425,0.0,0.0,0.0,0.0,0.0,0.0,2,335799,2025-11-07 06:14:04
+13673,759821,12,46339804,76,2,3840,64',0,0,Ángela Sosa (Madrid CFF) Substitution at 64',Ángela Sosa Substitution,21425,0.0,0.0,0.0,0.0,0.0,0.0,2,328078,2025-11-07 06:14:04
+13673,759821,11,46339803,76,2,3840,64',0,0,Estefanía Banini (Madrid CFF) Substitution at 64',Estefanía Banini Substitution,21425,0.0,0.0,0.0,0.0,0.0,0.0,2,344371,2025-11-07 06:14:04
+13673,759821,13,46339805,76,2,3840,64',0,0,Malou Rylov (Madrid CFF) Substitution at 64',Malou Rylov Substitution,21425,0.0,0.0,0.0,0.0,0.0,0.0,2,280993,2025-11-07 06:14:04
+13673,759821,15,46340097,76,2,4500,75',0,0,Nuria Mendoza (Madrid CFF) Substitution at 75',Nuria Mendoza Substitution,21425,0.0,0.0,0.0,0.0,0.0,0.0,1,286342,2025-11-07 06:14:04
+13673,759821,16,46340155,76,2,4500,75',0,0,Alba Estevez (Sporting de Huelva) Substitution at 75',Alba Estevez Substitution,21377,0.0,0.0,0.0,0.0,0.0,0.0,1,384421,2025-11-07 06:14:04
+13673,759821,16,46340155,76,2,4500,75',0,0,Alba Estevez (Sporting de Huelva) Substitution at 75',Alba Estevez Substitution,21377,0.0,0.0,0.0,0.0,0.0,0.0,2,328641,2025-11-07 06:14:04
+13673,759821,15,46340097,76,2,4500,75',0,0,Nuria Mendoza (Madrid CFF) Substitution at 75',Nuria Mendoza Substitution,21425,0.0,0.0,0.0,0.0,0.0,0.0,2,340754,2025-11-07 06:14:04
+13673,759821,17,46340183,70,2,4620,77',1,0,Malou Rylov (Madrid CFF) Goal at 77',Malou Rylov Goal,21425,0.0,0.0,0.0,0.0,0.0,0.0,1,315068,2025-11-07 06:14:04
+13673,759821,18,46340346,70,2,5400,90'+2',1,0,Malou Rylov (Madrid CFF) Goal at 92',Malou Rylov Goal,21425,0.0,0.0,0.0,0.0,0.0,0.0,1,315068,2025-11-07 06:14:04
+13673,759822,1,46340785,94,1,840,14',0,0,Fatoumata Kanteh (Sevilla) Yellow Card at 14',Fatoumata Kanteh Yellow Card,21424,0.0,0.0,0.0,0.0,0.0,0.0,1,333540,2025-11-07 06:14:04
+13673,759822,1,46340823,94,1,840,14',0,0,Alice Marques (Sevilla) Yellow Card at 14',Alice Marques Yellow Card,21424,0.0,0.0,0.0,0.0,0.0,0.0,1,344392,2025-11-08 06:14:23
+13673,759822,2,46340976,94,1,1200,20',0,0,Sheila Garrido (Real Oviedo) Yellow Card at 20',Sheila Garrido Yellow Card,21138,0.0,0.0,0.0,0.0,0.0,0.0,1,373745,2025-11-08 06:14:23
+13673,759822,3,46341089,70,1,1380,23',1,0,Rosa Márquez (Sevilla) Goal at 23',Rosa Márquez Goal,21424,0.0,0.0,0.0,0.0,0.0,0.0,1,288447,2025-11-08 06:14:23
+13673,759822,4,46341230,94,1,1680,28',0,0,Alba López (Sevilla) Yellow Card at 28',Alba López Yellow Card,21424,0.0,0.0,0.0,0.0,0.0,0.0,1,375055,2025-11-08 06:14:23
+13673,759822,5,46342020,76,2,2700,45',0,0,Isabel Álvarez (Sevilla) Substitution at 45',Isabel Álvarez Substitution,21424,0.0,0.0,0.0,0.0,0.0,0.0,1,335770,2025-11-08 06:14:23
+13673,759822,6,46342021,76,2,2700,45',0,0,Débora García (Sevilla) Substitution at 45',Débora García Substitution,21424,0.0,0.0,0.0,0.0,0.0,0.0,1,286335,2025-11-08 06:14:23
+13673,759822,6,46342021,76,2,2700,45',0,0,Débora García (Sevilla) Substitution at 45',Débora García Substitution,21424,0.0,0.0,0.0,0.0,0.0,0.0,2,375055,2025-11-08 06:14:23
+13673,759822,5,46342020,76,2,2700,45',0,0,Isabel Álvarez (Sevilla) Substitution at 45',Isabel Álvarez Substitution,21424,0.0,0.0,0.0,0.0,0.0,0.0,2,344392,2025-11-08 06:14:23
+13673,759822,7,46342481,70,2,3600,60',1,0,Alba Cerrato (Sevilla) Goal at 60',Alba Cerrato Goal,21424,0.0,0.0,0.0,0.0,0.0,0.0,1,350313,2025-11-08 06:14:23
+13673,759822,9,46342625,76,2,3780,63',0,0,Gema Ginés (Real Oviedo) Substitution at 63',Gema Ginés Substitution,21138,0.0,0.0,0.0,0.0,0.0,0.0,1,334423,2025-11-08 06:14:23
+13673,759822,8,46342596,76,2,3780,63',0,0,Nerea Lombardero (Real Oviedo) Substitution at 63',Nerea Lombardero Substitution,21138,0.0,0.0,0.0,0.0,0.0,0.0,1,380406,2025-11-08 06:14:23
+13673,759822,10,46342626,76,2,3780,63',0,0,Nati Cano (Real Oviedo) Substitution at 63',Nati Cano Substitution,21138,0.0,0.0,0.0,0.0,0.0,0.0,1,366361,2025-11-08 06:14:23
+13673,759822,8,46342596,76,2,3780,63',0,0,Nerea Lombardero (Real Oviedo) Substitution at 63',Nerea Lombardero Substitution,21138,0.0,0.0,0.0,0.0,0.0,0.0,2,333501,2025-11-08 06:14:23
+13673,759822,10,46342626,76,2,3780,63',0,0,Nati Cano (Real Oviedo) Substitution at 63',Nati Cano Substitution,21138,0.0,0.0,0.0,0.0,0.0,0.0,2,373745,2025-11-08 06:14:23
+13673,759822,9,46342625,76,2,3780,63',0,0,Gema Ginés (Real Oviedo) Substitution at 63',Gema Ginés Substitution,21138,0.0,0.0,0.0,0.0,0.0,0.0,2,333562,2025-11-08 06:14:23
+13673,759822,11,46342678,76,2,3900,65',0,0,Millaray Cortez (Sevilla) Substitution at 65',Millaray Cortez Substitution,21424,0.0,0.0,0.0,0.0,0.0,0.0,1,354540,2025-11-08 06:14:23
+13673,759822,11,46342678,76,2,3900,65',0,0,Millaray Cortez (Sevilla) Substitution at 65',Millaray Cortez Substitution,21424,0.0,0.0,0.0,0.0,0.0,0.0,2,334516,2025-11-08 06:14:23
+13673,759822,12,46342724,94,2,3960,66',0,0,Raissa Mbappé (Real Oviedo) Yellow Card at 66',Raissa Mbappé Yellow Card,21138,0.0,0.0,0.0,0.0,0.0,0.0,1,414135,2025-11-08 06:14:23
+13673,759822,13,46342853,70,2,4140,69',1,0,Stephanie Blanco (Real Oviedo) Goal at 69',Stephanie Blanco Goal,21138,0.0,0.0,0.0,0.0,0.0,0.0,1,296489,2025-11-08 06:14:23
+13673,759822,14,46342967,76,2,4320,72',0,0,Andrea Alvarez (Sevilla) Substitution at 72',Andrea Alvarez Substitution,21424,0.0,0.0,0.0,0.0,0.0,0.0,1,320239,2025-11-08 06:14:23
+13673,759822,14,46342967,76,2,4320,72',0,0,Andrea Alvarez (Sevilla) Substitution at 72',Andrea Alvarez Substitution,21424,0.0,0.0,0.0,0.0,0.0,0.0,2,347396,2025-11-08 06:14:23
+13673,759822,15,46342968,76,2,4380,73',0,0,Ana de Teresa (Real Oviedo) Substitution at 73',Ana de Teresa Substitution,21138,0.0,0.0,0.0,0.0,0.0,0.0,1,333490,2025-11-08 06:14:23
+13673,759822,15,46342968,76,2,4380,73',0,0,Ana de Teresa (Real Oviedo) Substitution at 73',Ana de Teresa Substitution,21138,0.0,0.0,0.0,0.0,0.0,0.0,2,292657,2025-11-08 06:14:23
+13673,759822,16,46343136,76,2,4620,77',0,0,Laurina (Real Oviedo) Substitution at 77',Laurina Substitution,21138,0.0,0.0,0.0,0.0,0.0,0.0,1,333522,2025-11-08 06:14:23
+13673,759822,16,46343136,76,2,4620,77',0,0,Laurina (Real Oviedo) Substitution at 77',Laurina Substitution,21138,0.0,0.0,0.0,0.0,0.0,0.0,2,414135,2025-11-08 06:14:23
+13673,759822,17,46343174,76,2,4740,79',0,0,Raquel Morcillo (Sevilla) Substitution at 79',Raquel Morcillo Substitution,21424,0.0,0.0,0.0,0.0,0.0,0.0,1,334528,2025-11-08 06:14:23
+13673,759822,17,46343174,76,2,4740,79',0,0,Raquel Morcillo (Sevilla) Substitution at 79',Raquel Morcillo Substitution,21424,0.0,0.0,0.0,0.0,0.0,0.0,2,333540,2025-11-08 06:14:23
+13673,759822,18,46343467,94,2,5100,85',0,0,Eva Díez Lois (Real Oviedo) Yellow Card at 85',Eva Díez Lois Yellow Card,21138,0.0,0.0,0.0,0.0,0.0,0.0,1,295952,2025-11-08 06:14:23
+13673,759822,19,46343721,70,2,5400,90'+1',1,0,Eva Díez Lois (Real Oviedo) Goal at 91',Eva Díez Lois Goal,21138,0.0,0.0,0.0,0.0,0.0,0.0,1,295952,2025-11-08 06:14:23
+13673,759822,20,46343891,70,2,5400,90'+8',1,0,Andrea Alvarez (Sevilla) Goal at 98',Andrea Alvarez Goal,21424,0.0,0.0,0.0,0.0,0.0,0.0,1,320239,2025-11-08 06:14:23
+13673,759823,1,46332426,70,1,2100,35',1,0,Iria Castro (Dux Logroño) Goal at 35',Iria Castro Goal,21175,0.0,0.0,0.0,0.0,0.0,0.0,1,395648,2025-11-06 06:15:41
+13673,759823,2,46332432,94,1,2460,41',0,0,Aina Torres (CE Europa) Yellow Card at 41',Aina Torres Yellow Card,21656,0.0,0.0,0.0,0.0,0.0,0.0,1,411068,2025-11-06 06:15:41
+13673,759823,3,46332444,70,1,2700,45'+2',1,0,Sara López (CE Europa) Goal at 47',Sara López Goal,21656,0.0,0.0,0.0,0.0,0.0,0.0,1,333555,2025-11-06 06:15:41
+13673,759823,4,46332552,94,2,3060,51',0,0,Nancy Amoh (Dux Logroño) Yellow Card at 51',Nancy Amoh Yellow Card,21175,0.0,0.0,0.0,0.0,0.0,0.0,1,406705,2025-11-06 06:15:41
+13673,759823,5,46332580,76,2,3480,58',0,0,Lorena Valderas (Dux Logroño) Substitution at 58',Lorena Valderas Substitution,21175,0.0,0.0,0.0,0.0,0.0,0.0,1,329688,2025-11-06 06:15:41
+13673,759823,6,46332588,76,2,3480,58',0,0,Paula Rubio (Dux Logroño) Substitution at 58',Paula Rubio Substitution,21175,0.0,0.0,0.0,0.0,0.0,0.0,1,376531,2025-11-06 06:15:41
+13673,759823,6,46332588,76,2,3480,58',0,0,Paula Rubio (Dux Logroño) Substitution at 58',Paula Rubio Substitution,21175,0.0,0.0,0.0,0.0,0.0,0.0,2,394440,2025-11-06 06:15:41
+13673,759823,5,46332580,76,2,3480,58',0,0,Lorena Valderas (Dux Logroño) Substitution at 58',Lorena Valderas Substitution,21175,0.0,0.0,0.0,0.0,0.0,0.0,2,406705,2025-11-06 06:15:41
+13673,759823,7,46332589,76,2,3540,59',0,0,Miriam Labrador (CE Europa) Substitution at 59',Miriam Labrador Substitution,21656,0.0,0.0,0.0,0.0,0.0,0.0,1,411080,2025-11-06 06:15:41
+13673,759823,7,46332589,76,2,3540,59',0,0,Miriam Labrador (CE Europa) Substitution at 59',Miriam Labrador Substitution,21656,0.0,0.0,0.0,0.0,0.0,0.0,2,411068,2025-11-06 06:15:41
+13673,759823,8,46332597,94,2,3600,60',0,0,Anna Bové (CE Europa) Yellow Card at 60',Anna Bové Yellow Card,21656,0.0,0.0,0.0,0.0,0.0,0.0,1,401007,2025-11-06 06:15:41
+13673,759823,9,46332625,76,2,3900,65',0,0,Paula Partido (Dux Logroño) Substitution at 65',Paula Partido Substitution,21175,0.0,0.0,0.0,0.0,0.0,0.0,1,329071,2025-11-06 06:15:41
+13673,759823,9,46332625,76,2,3900,65',0,0,Paula Partido (Dux Logroño) Substitution at 65',Paula Partido Substitution,21175,0.0,0.0,0.0,0.0,0.0,0.0,2,327586,2025-11-06 06:15:41
+13673,759823,10,46332650,76,2,4080,68',0,0,Laura Galcerán (CE Europa) Substitution at 68',Laura Galcerán Substitution,21656,0.0,0.0,0.0,0.0,0.0,0.0,1,277775,2025-11-06 06:15:41
+13673,759823,10,46332650,76,2,4080,68',0,0,Laura Galcerán (CE Europa) Substitution at 68',Laura Galcerán Substitution,21656,0.0,0.0,0.0,0.0,0.0,0.0,2,334490,2025-11-06 06:15:41
+13673,759823,12,46332722,76,2,5100,85',0,0,Ainhoa Plaza (CE Europa) Substitution at 85',Ainhoa Plaza Substitution,21656,0.0,0.0,0.0,0.0,0.0,0.0,1,377196,2025-11-06 06:15:41
+13673,759823,11,46332721,76,2,5100,85',0,0,Haizea (CE Europa) Substitution at 85',Haizea Substitution,21656,0.0,0.0,0.0,0.0,0.0,0.0,1,339824,2025-11-06 06:15:41
+13673,759823,11,46332721,76,2,5100,85',0,0,Haizea (CE Europa) Substitution at 85',Haizea Substitution,21656,0.0,0.0,0.0,0.0,0.0,0.0,2,355067,2025-11-06 06:15:41
+13673,759823,12,46332722,76,2,5100,85',0,0,Ainhoa Plaza (CE Europa) Substitution at 85',Ainhoa Plaza Substitution,21656,0.0,0.0,0.0,0.0,0.0,0.0,2,354933,2025-11-06 06:15:41
+13673,759823,13,46332723,76,2,5160,86',0,0,Júlia Gómez (CE Europa) Substitution at 86',Júlia Gómez Substitution,21656,0.0,0.0,0.0,0.0,0.0,0.0,1,394482,2025-11-06 06:15:41
+13673,759823,13,46332723,76,2,5160,86',0,0,Júlia Gómez (CE Europa) Substitution at 86',Júlia Gómez Substitution,21656,0.0,0.0,0.0,0.0,0.0,0.0,2,354934,2025-11-06 06:15:41
+13673,759823,14,46332802,76,3,5400,90',0,0,Adama Congo (Dux Logroño) Substitution at 90',Adama Congo Substitution,21175,0.0,0.0,0.0,0.0,0.0,0.0,1,411264,2025-11-06 06:15:41
+13673,759823,14,46332802,76,3,5400,90',0,0,Adama Congo (Dux Logroño) Substitution at 90',Adama Congo Substitution,21175,0.0,0.0,0.0,0.0,0.0,0.0,2,286623,2025-11-06 06:15:41
+13673,759823,15,46332982,94,3,6060,101',0,0,Natalia Cebolla (Dux Logroño) Yellow Card at 101',Natalia Cebolla Yellow Card,21175,0.0,0.0,0.0,0.0,0.0,0.0,1,395644,2025-11-06 06:15:41
+13673,759823,16,46333293,76,4,6780,113',0,0,Madinatou Rouamba (Dux Logroño) Substitution at 113',Madinatou Rouamba Substitution,21175,0.0,0.0,0.0,0.0,0.0,0.0,1,411265,2025-11-06 06:15:41
+13673,759823,16,46333293,76,4,6780,113',0,0,Madinatou Rouamba (Dux Logroño) Substitution at 113',Madinatou Rouamba Substitution,21175,0.0,0.0,0.0,0.0,0.0,0.0,2,407404,2025-11-06 06:15:41
+13673,759823,17,46333380,76,4,7020,117',0,0,Carla Sánchez (CE Europa) Substitution at 117',Carla Sánchez Substitution,21656,0.0,0.0,0.0,0.0,0.0,0.0,1,414262,2025-11-06 06:15:41
+13673,759823,17,46333380,76,4,7020,117',0,0,Carla Sánchez (CE Europa) Substitution at 117',Carla Sánchez Substitution,21656,0.0,0.0,0.0,0.0,0.0,0.0,2,401007,2025-11-06 06:15:41
+13673,759823,18,46333413,94,4,7080,118',0,0,Lorena Valderas (Dux Logroño) Yellow Card at 118',Lorena Valderas Yellow Card,21175,0.0,0.0,0.0,0.0,0.0,0.0,1,329688,2025-11-06 06:15:41
+13673,759823,19,46333500,94,4,7200,120',0,0,Ainhoa Plaza (CE Europa) Yellow Card at 120',Ainhoa Plaza Yellow Card,21656,0.0,0.0,0.0,0.0,0.0,0.0,1,377196,2025-11-06 06:15:41
+13673,759824,1,46327315,70,1,360,6',1,0,Cristina Baudet (Espanyol) Goal at 6',Cristina Baudet Goal,21154,0.0,0.0,0.0,0.0,0.0,0.0,1,286332,2025-11-05 06:15:57
+13673,759824,2,46327442,70,1,1860,31',1,0,Danielle Marcano (Valencia) Goal at 31',Danielle Marcano Goal,21374,0.0,0.0,0.0,0.0,0.0,0.0,1,224883,2025-11-05 06:15:57
+13673,759824,3,46327774,76,2,2700,45',0,0,Júlia Guerra (Espanyol) Substitution at 45',Júlia Guerra Substitution,21154,0.0,0.0,0.0,0.0,0.0,0.0,1,328654,2025-11-05 06:15:57
+13673,759824,3,46327774,76,2,2700,45',0,0,Júlia Guerra (Espanyol) Substitution at 45',Júlia Guerra Substitution,21154,0.0,0.0,0.0,0.0,0.0,0.0,2,334478,2025-11-05 06:15:57
+13673,759824,5,46327887,76,2,3780,63',0,0,Paula Arana (Espanyol) Substitution at 63',Paula Arana Substitution,21154,0.0,0.0,0.0,0.0,0.0,0.0,1,333474,2025-11-05 06:15:57
+13673,759824,4,46327882,76,2,3780,63',0,0,Naima García (Espanyol) Substitution at 63',Naima García Substitution,21154,0.0,0.0,0.0,0.0,0.0,0.0,1,354909,2025-11-05 06:15:57
+13673,759824,5,46327887,76,2,3780,63',0,0,Paula Arana (Espanyol) Substitution at 63',Paula Arana Substitution,21154,0.0,0.0,0.0,0.0,0.0,0.0,2,302454,2025-11-05 06:15:57
+13673,759824,4,46327882,76,2,3780,63',0,0,Naima García (Espanyol) Substitution at 63',Naima García Substitution,21154,0.0,0.0,0.0,0.0,0.0,0.0,2,309848,2025-11-05 06:15:57
+13673,759824,6,46327888,76,2,3840,64',0,0,Gema Climent (Valencia) Substitution at 64',Gema Climent Substitution,21374,0.0,0.0,0.0,0.0,0.0,0.0,1,335786,2025-11-05 06:15:57
+13673,759824,7,46327889,76,2,3840,64',0,0,Leyre Monente (Valencia) Substitution at 64',Leyre Monente Substitution,21374,0.0,0.0,0.0,0.0,0.0,0.0,1,333472,2025-11-05 06:15:57
+13673,759824,6,46327888,76,2,3840,64',0,0,Gema Climent (Valencia) Substitution at 64',Gema Climent Substitution,21374,0.0,0.0,0.0,0.0,0.0,0.0,2,340756,2025-11-05 06:15:57
+13673,759824,7,46327889,76,2,3840,64',0,0,Leyre Monente (Valencia) Substitution at 64',Leyre Monente Substitution,21374,0.0,0.0,0.0,0.0,0.0,0.0,2,320401,2025-11-05 06:15:57
+13673,759824,8,46327902,94,2,3900,65',0,0,Mar Torrás (Espanyol) Yellow Card at 65',Mar Torrás Yellow Card,21154,0.0,0.0,0.0,0.0,0.0,0.0,1,355048,2025-11-05 06:15:57
+13673,759824,9,46327923,76,2,4200,70',0,0,Estefanía Botero (Espanyol) Substitution at 70',Estefanía Botero Substitution,21154,0.0,0.0,0.0,0.0,0.0,0.0,1,354950,2025-11-05 06:15:57
+13673,759824,9,46327923,76,2,4200,70',0,0,Estefanía Botero (Espanyol) Substitution at 70',Estefanía Botero Substitution,21154,0.0,0.0,0.0,0.0,0.0,0.0,2,333515,2025-11-05 06:15:57
+13673,759824,10,46327992,76,2,4860,81',0,0,Laura Martínez (Espanyol) Substitution at 81',Laura Martínez Substitution,21154,0.0,0.0,0.0,0.0,0.0,0.0,1,334446,2025-11-05 06:15:57
+13673,759824,10,46327992,76,2,4860,81',0,0,Laura Martínez (Espanyol) Substitution at 81',Laura Martínez Substitution,21154,0.0,0.0,0.0,0.0,0.0,0.0,2,334425,2025-11-05 06:15:57
+13673,759824,11,46328000,76,2,4920,82',0,0,Marina Martí (Valencia) Substitution at 82',Marina Martí Substitution,21374,0.0,0.0,0.0,0.0,0.0,0.0,1,334487,2025-11-05 06:15:57
+13673,759824,11,46328000,76,2,4920,82',0,0,Marina Martí (Valencia) Substitution at 82',Marina Martí Substitution,21374,0.0,0.0,0.0,0.0,0.0,0.0,2,414238,2025-11-05 06:15:57
+13673,759824,12,46328001,76,2,4980,83',0,0,Marta Constantino (Valencia) Substitution at 83',Marta Constantino Substitution,21374,0.0,0.0,0.0,0.0,0.0,0.0,1,350941,2025-11-05 06:15:57
+13673,759824,12,46328001,76,2,4980,83',0,0,Marta Constantino (Valencia) Substitution at 83',Marta Constantino Substitution,21374,0.0,0.0,0.0,0.0,0.0,0.0,2,414236,2025-11-05 06:15:57
+13673,759824,13,46328147,76,2,5040,84',0,0,Cristina Tormo (Valencia) Substitution at 84',Cristina Tormo Substitution,21374,0.0,0.0,0.0,0.0,0.0,0.0,1,414413,2025-11-05 06:15:57
+13673,759824,13,46328147,76,2,5040,84',0,0,Cristina Tormo (Valencia) Substitution at 84',Cristina Tormo Substitution,21374,0.0,0.0,0.0,0.0,0.0,0.0,2,392350,2025-11-05 06:15:57
+13673,759824,14,46328148,70,2,5100,85',1,0,Cristina Baudet (Espanyol) Goal at 85',Cristina Baudet Goal,21154,0.0,0.0,0.0,0.0,0.0,0.0,1,286332,2025-11-05 06:15:57
+13673,759824,15,46328226,94,2,5400,90',0,0,Laura Martínez (Espanyol) Yellow Card at 90',Laura Martínez Yellow Card,21154,0.0,0.0,0.0,0.0,0.0,0.0,1,334446,2025-11-05 06:15:57
+13673,759824,16,46328252,94,2,5400,90'+1',0,0,Rebecca Elloh (Valencia) Yellow Card at 91',Rebecca Elloh Yellow Card,21374,0.0,0.0,0.0,0.0,0.0,0.0,1,219894,2025-11-05 06:15:57
+13673,759825,1,46327420,94,1,1560,26',0,0,Maite Fernández (Osasuna) Yellow Card at 26',Maite Fernández Yellow Card,21151,0.0,0.0,0.0,0.0,0.0,0.0,1,414060,2025-11-05 06:15:57
+13673,759825,2,46327444,70,1,1860,31',1,0,Lorena Navarro (FC Badalona) Goal at 31',Lorena Navarro Goal,21149,0.0,0.0,0.0,0.0,0.0,0.0,1,328115,2025-11-05 06:15:57
+13673,759825,3,46327473,70,1,2280,38',1,0,Paula Sánchez (FC Badalona) Goal at 38',Paula Sánchez Goal,21149,0.0,0.0,0.0,0.0,0.0,0.0,1,355080,2025-11-05 06:15:57
+13673,759825,4,46327782,76,2,2700,45',0,0,Zaira Bendoiro (Osasuna) Substitution at 45',Zaira Bendoiro Substitution,21151,0.0,0.0,0.0,0.0,0.0,0.0,1,414409,2025-11-05 06:15:57
+13673,759825,4,46327782,76,2,2700,45',0,0,Zaira Bendoiro (Osasuna) Substitution at 45',Zaira Bendoiro Substitution,21151,0.0,0.0,0.0,0.0,0.0,0.0,2,414411,2025-11-05 06:15:57
+13673,759825,6,46327859,76,2,3540,59',0,0,Ane Ansa (Osasuna) Substitution at 59',Ane Ansa Substitution,21151,0.0,0.0,0.0,0.0,0.0,0.0,1,414410,2025-11-08 06:14:23
+13673,759825,7,46327860,76,2,3540,59',0,0,Andrea Doncel (Osasuna) Substitution at 59',Andrea Doncel Substitution,21151,0.0,0.0,0.0,0.0,0.0,0.0,1,414408,2025-11-08 06:14:23
+13673,759825,5,46327846,76,2,3540,59',0,0,Laura Teruel (Osasuna) Substitution at 59',Laura Teruel Substitution,21151,0.0,0.0,0.0,0.0,0.0,0.0,1,354944,2025-11-05 06:15:57
+13673,759825,7,46327860,76,2,3540,59',0,0,Andrea Doncel (Osasuna) Substitution at 59',Andrea Doncel Substitution,21151,0.0,0.0,0.0,0.0,0.0,0.0,2,414059,2025-11-08 06:14:23
+13673,759825,5,46327846,76,2,3540,59',0,0,Laura Teruel (Osasuna) Substitution at 59',Laura Teruel Substitution,21151,0.0,0.0,0.0,0.0,0.0,0.0,2,414058,2025-11-05 06:15:57
+13673,759825,6,46327859,76,2,3540,59',0,0,Ane Ansa (Osasuna) Substitution at 59',Ane Ansa Substitution,21151,0.0,0.0,0.0,0.0,0.0,0.0,2,354965,2025-11-08 06:14:23
+13673,759825,9,46327905,76,2,3900,65',0,0,Elena Julve (FC Badalona) Substitution at 65',Elena Julve Substitution,21149,0.0,0.0,0.0,0.0,0.0,0.0,1,328640,2025-11-05 06:15:57
+13673,759825,10,46327906,76,2,3900,65',0,0,María Llompart (FC Badalona) Substitution at 65',María Llompart Substitution,21149,0.0,0.0,0.0,0.0,0.0,0.0,1,333496,2025-11-05 06:15:57
+13673,759825,8,46327893,76,2,3900,65',0,0,Berta Doltra (FC Badalona) Substitution at 65',Berta Doltra Substitution,21149,0.0,0.0,0.0,0.0,0.0,0.0,1,380815,2025-11-05 06:15:57
+13673,759825,8,46327893,76,2,3900,65',0,0,Berta Doltra (FC Badalona) Substitution at 65',Berta Doltra Substitution,21149,0.0,0.0,0.0,0.0,0.0,0.0,2,286328,2025-11-05 06:15:57
+13673,759825,9,46327905,76,2,3900,65',0,0,Elena Julve (FC Badalona) Substitution at 65',Elena Julve Substitution,21149,0.0,0.0,0.0,0.0,0.0,0.0,2,270060,2025-11-05 06:15:57
+13673,759825,10,46327906,76,2,3900,65',0,0,María Llompart (FC Badalona) Substitution at 65',María Llompart Substitution,21149,0.0,0.0,0.0,0.0,0.0,0.0,2,328098,2025-11-05 06:15:57
+13673,759825,11,46327931,70,2,4260,71',1,0,Irina Uribe (FC Badalona) Goal at 71',Irina Uribe Goal,21149,0.0,0.0,0.0,0.0,0.0,0.0,1,349027,2025-11-05 06:15:57
+13673,759825,12,46327958,76,2,4620,77',0,0,Sara Sola (FC Badalona) Substitution at 77',Sara Sola Substitution,21149,0.0,0.0,0.0,0.0,0.0,0.0,1,328655,2025-11-05 06:15:57
+13673,759825,12,46327958,76,2,4620,77',0,0,Sara Sola (FC Badalona) Substitution at 77',Sara Sola Substitution,21149,0.0,0.0,0.0,0.0,0.0,0.0,2,355080,2025-11-05 06:15:57
+13673,759825,13,46327987,76,2,4800,80',0,0,Margarita Giménez (FC Badalona) Substitution at 80',Margarita Giménez Substitution,21149,0.0,0.0,0.0,0.0,0.0,0.0,1,394352,2025-11-05 06:15:57
+13673,759825,13,46327987,76,2,4800,80',0,0,Margarita Giménez (FC Badalona) Substitution at 80',Margarita Giménez Substitution,21149,0.0,0.0,0.0,0.0,0.0,0.0,2,333523,2025-11-05 06:15:57
+13673,759825,14,46328155,76,2,5100,85',0,0,Saioa Larumbe (Osasuna) Substitution at 85',Saioa Larumbe Substitution,21151,0.0,0.0,0.0,0.0,0.0,0.0,1,354959,2025-11-05 06:15:57
+13673,759825,14,46328155,76,2,5100,85',0,0,Saioa Larumbe (Osasuna) Substitution at 85',Saioa Larumbe Substitution,21151,0.0,0.0,0.0,0.0,0.0,0.0,2,376359,2025-11-05 06:15:57
+13673,759826,1,46332127,70,1,2340,39',1,0,Ainhoa Guallar (Alavés) Goal at 39',Ainhoa Guallar Goal,21378,0.0,0.0,0.0,0.0,0.0,0.0,1,376357,2025-11-06 06:15:41
+13673,759826,2,46332147,76,2,2700,45',0,0,Pierina Núñez (Levante) Substitution at 45',Pierina Núñez Substitution,21426,0.0,0.0,0.0,0.0,0.0,0.0,1,340512,2025-11-06 06:15:41
+13673,759826,3,46332148,76,2,2700,45',0,0,Chinyere Kalu (Levante) Substitution at 45',Chinyere Kalu Substitution,21426,0.0,0.0,0.0,0.0,0.0,0.0,1,395775,2025-11-06 06:15:41
+13673,759826,2,46332147,76,2,2700,45',0,0,Pierina Núñez (Levante) Substitution at 45',Pierina Núñez Substitution,21426,0.0,0.0,0.0,0.0,0.0,0.0,2,411263,2025-11-06 06:15:41
+13673,759826,3,46332148,76,2,2700,45',0,0,Chinyere Kalu (Levante) Substitution at 45',Chinyere Kalu Substitution,21426,0.0,0.0,0.0,0.0,0.0,0.0,2,407239,2025-11-06 06:15:41
+13673,759826,4,46332154,94,2,3420,57',0,0,Raiderlin Carrasco (Levante) Yellow Card at 57',Raiderlin Carrasco Yellow Card,21426,0.0,0.0,0.0,0.0,0.0,0.0,1,343666,2025-11-06 06:15:41
+13673,759826,5,46332155,76,2,3600,60',0,0,Paula León (Alavés) Substitution at 60',Paula León Substitution,21378,0.0,0.0,0.0,0.0,0.0,0.0,1,373762,2025-11-06 06:15:41
+13673,759826,5,46332155,76,2,3600,60',0,0,Paula León (Alavés) Substitution at 60',Paula León Substitution,21378,0.0,0.0,0.0,0.0,0.0,0.0,2,370549,2025-11-06 06:15:41
+13673,759826,6,46332157,70,2,4200,70',1,0,Carmen Sobrón (Alavés) Goal at 70',Carmen Sobrón Goal,21378,0.0,0.0,0.0,0.0,0.0,0.0,1,354972,2025-11-06 06:15:41
+13673,759826,7,46332159,76,2,4260,71',0,0,Naolia Traoré (Levante) Substitution at 71',Naolia Traoré Substitution,21426,0.0,0.0,0.0,0.0,0.0,0.0,1,383910,2025-11-06 06:15:41
+13673,759826,7,46332159,76,2,4260,71',0,0,Naolia Traoré (Levante) Substitution at 71',Naolia Traoré Substitution,21426,0.0,0.0,0.0,0.0,0.0,0.0,2,329687,2025-11-06 06:15:41
+13673,759826,8,46332160,76,2,4320,72',0,0,Almudena Rivero (Alavés) Substitution at 72',Almudena Rivero Substitution,21378,0.0,0.0,0.0,0.0,0.0,0.0,1,335839,2025-11-06 06:15:41
+13673,759826,9,46332162,76,2,4320,72',0,0,Daniela Fernandez (Levante) Substitution at 72',Daniela Fernandez Substitution,21426,0.0,0.0,0.0,0.0,0.0,0.0,1,392160,2025-11-06 06:15:41
+13673,759826,8,46332160,76,2,4320,72',0,0,Almudena Rivero (Alavés) Substitution at 72',Almudena Rivero Substitution,21378,0.0,0.0,0.0,0.0,0.0,0.0,2,414137,2025-11-06 06:15:41
+13673,759826,9,46332162,76,2,4320,72',0,0,Daniela Fernandez (Levante) Substitution at 72',Daniela Fernandez Substitution,21426,0.0,0.0,0.0,0.0,0.0,0.0,2,349940,2025-11-06 06:15:41
+13673,759826,10,46332163,70,2,4440,74',1,0,Merche Izal (Alavés) Goal at 74',Merche Izal Goal,21378,0.0,0.0,0.0,0.0,0.0,0.0,1,354962,2025-11-06 06:15:41
+13673,759826,11,46332164,76,2,4560,76',0,0,Inés Rizo (Levante) Substitution at 76',Inés Rizo Substitution,21426,0.0,0.0,0.0,0.0,0.0,0.0,1,385177,2025-11-06 06:15:41
+13673,759826,11,46332164,76,2,4560,76',0,0,Inés Rizo (Levante) Substitution at 76',Inés Rizo Substitution,21426,0.0,0.0,0.0,0.0,0.0,0.0,2,335792,2025-11-06 06:15:41
+13673,759826,12,46332166,70,2,4860,81',1,0,Paula León (Alavés) Goal at 81',Paula León Goal,21378,0.0,0.0,0.0,0.0,0.0,0.0,1,373762,2025-11-06 06:15:41
+13673,759826,15,46332170,76,2,4920,82',0,0,Elene Errasti (Alavés) Substitution at 82',Elene Errasti Substitution,21378,0.0,0.0,0.0,0.0,0.0,0.0,1,333455,2025-11-06 06:15:41
+13673,759826,14,46332169,76,2,4920,82',0,0,Laia Parera (Alavés) Substitution at 82',Laia Parera Substitution,21378,0.0,0.0,0.0,0.0,0.0,0.0,1,348935,2025-11-06 06:15:41
+13673,759826,13,46332168,76,2,4920,82',0,0,Claudia Fernández (Alavés) Substitution at 82',Claudia Fernández Substitution,21378,0.0,0.0,0.0,0.0,0.0,0.0,1,335815,2025-11-06 06:15:41
+13673,759826,14,46332169,76,2,4920,82',0,0,Laia Parera (Alavés) Substitution at 82',Laia Parera Substitution,21378,0.0,0.0,0.0,0.0,0.0,0.0,2,335817,2025-11-06 06:15:41
+13673,759826,13,46332168,76,2,4920,82',0,0,Claudia Fernández (Alavés) Substitution at 82',Claudia Fernández Substitution,21378,0.0,0.0,0.0,0.0,0.0,0.0,2,333457,2025-11-06 06:15:41
+13673,759826,15,46332170,76,2,4920,82',0,0,Elene Errasti (Alavés) Substitution at 82',Elene Errasti Substitution,21378,0.0,0.0,0.0,0.0,0.0,0.0,2,354972,2025-11-06 06:15:41

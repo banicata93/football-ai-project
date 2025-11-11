@@ -1,0 +1,61 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13644,754172,1,46044226,94,1,1980,33',0,0,Federico Pereira (Toluca) Yellow Card at 33',Federico Pereira Yellow Card,223,0.0,0.0,0.0,0.0,0.0,0.0,1,288735,2025-10-03 05:15:40
+13644,754172,2,46044228,94,1,2040,34',0,0,Marcel Ruiz (Toluca) Yellow Card at 34',Marcel Ruiz Yellow Card,223,0.0,0.0,0.0,0.0,0.0,0.0,1,272395,2025-10-03 05:15:40
+13644,754172,3,46044229,98,1,2160,36',1,0,Diego Fagundez (LA Galaxy) Penalty - Scored at 36',Diego Fagundez Penalty - Scored,187,0.0,0.0,0.0,0.0,0.0,0.0,1,156187,2025-10-03 05:15:40
+13644,754172,4,46044231,94,1,2280,38',0,0,Gabriel Pec (LA Galaxy) Yellow Card at 38',Gabriel Pec Yellow Card,187,0.0,0.0,0.0,0.0,0.0,0.0,1,295005,2025-10-07 05:28:29
+13644,754172,6,46044238,76,2,2700,45',0,0,Santiago Simón (Toluca) Substitution at 45',Santiago Simón Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,297057,2025-10-03 05:15:40
+13644,754172,5,46044234,94,1,2700,45'+2',0,0,Edwin Cerrillo (LA Galaxy) Yellow Card at 47',Edwin Cerrillo Yellow Card,187,0.0,0.0,0.0,0.0,0.0,0.0,1,286198,2025-10-03 05:15:40
+13644,754172,6,46044238,76,2,2700,45',0,0,Santiago Simón (Toluca) Substitution at 45',Santiago Simón Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,233104,2025-10-03 05:15:40
+13644,754172,7,46044241,70,2,3180,53',1,0,Nicolás Castro (Toluca) Goal at 53',Nicolás Castro Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,57149,2025-10-03 05:15:40
+13644,754172,8,46044244,94,2,3720,62',0,0,Jesús Gallardo (Toluca) Yellow Card at 62',Jesús Gallardo Yellow Card,223,0.0,0.0,0.0,0.0,0.0,0.0,1,132098,2025-10-03 05:15:40
+13644,754172,11,46044251,76,2,4200,70',0,0,John Nelson (LA Galaxy) Substitution at 70',John Nelson Substitution,187,0.0,0.0,0.0,0.0,0.0,0.0,1,225615,2025-10-03 05:15:40
+13644,754172,10,46044249,76,2,4200,70',0,0,Maruicio Cuevas (LA Galaxy) Substitution at 70',Maruicio Cuevas Substitution,187,0.0,0.0,0.0,0.0,0.0,0.0,1,287252,2025-10-03 05:15:40
+13644,754172,9,46044248,76,2,4200,70',0,0,Juan Domínguez (Toluca) Substitution at 70',Juan Domínguez Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,356574,2025-10-03 05:15:40
+13644,754172,9,46044248,76,2,4200,70',0,0,Juan Domínguez (Toluca) Substitution at 70',Juan Domínguez Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,346329,2025-10-03 05:15:40
+13644,754172,9,46044248,76,2,4200,70',0,0,Juan Domínguez (Toluca) Substitution at 70',Juan Domínguez Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,106687,2025-10-03 05:15:40
+13644,754172,9,46044248,76,2,4200,70',0,0,Juan Domínguez (Toluca) Substitution at 70',Juan Domínguez Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,101311,2025-10-03 05:15:40
+13644,754172,11,46044251,76,2,4200,70',0,0,John Nelson (LA Galaxy) Substitution at 70',John Nelson Substitution,187,0.0,0.0,0.0,0.0,0.0,0.0,2,297050,2025-10-03 05:15:40
+13644,754172,10,46044249,76,2,4200,70',0,0,Maruicio Cuevas (LA Galaxy) Substitution at 70',Maruicio Cuevas Substitution,187,0.0,0.0,0.0,0.0,0.0,0.0,2,238050,2025-10-03 05:15:40
+13644,754172,9,46044248,76,2,4200,70',0,0,Juan Domínguez (Toluca) Substitution at 70',Juan Domínguez Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,282615,2025-10-03 05:15:40
+13644,754172,9,46044248,76,2,4200,70',0,0,Juan Domínguez (Toluca) Substitution at 70',Juan Domínguez Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,233130,2025-10-03 05:15:40
+13644,754172,12,46044250,76,2,4260,71',0,0,Matheus Nascimento (LA Galaxy) Substitution at 71',Matheus Nascimento Substitution,187,0.0,0.0,0.0,0.0,0.0,0.0,1,304659,2025-10-03 05:15:40
+13644,754172,12,46044250,76,2,4260,71',0,0,Matheus Nascimento (LA Galaxy) Substitution at 71',Matheus Nascimento Substitution,187,0.0,0.0,0.0,0.0,0.0,0.0,2,366047,2025-10-03 05:15:40
+13644,754172,13,46044253,94,2,4680,78',0,0,Carlos Garcés (LA Galaxy) Yellow Card at 78',Carlos Garcés Yellow Card,187,0.0,0.0,0.0,0.0,0.0,0.0,1,133963,2025-10-03 05:15:40
+13644,754172,13,46044253,94,2,4680,78',0,0,Carlos Garcés (LA Galaxy) Yellow Card at 78',Carlos Garcés Yellow Card,187,0.0,0.0,0.0,0.0,0.0,0.0,1,266542,2025-10-03 05:15:40
+13644,754172,14,46044255,94,2,4800,80',0,0,Joseph Paintsil (LA Galaxy) Yellow Card at 80',Joseph Paintsil Yellow Card,187,0.0,0.0,0.0,0.0,0.0,0.0,1,256843,2025-10-03 05:15:40
+13644,754172,15,46044259,70,2,5040,84',1,0,Gabriel Pec (LA Galaxy) Goal at 84',Gabriel Pec Goal,187,0.0,0.0,0.0,0.0,0.0,0.0,1,295005,2025-10-07 05:28:29
+13644,754172,16,46044263,76,2,5100,85',0,0,Helinho  (Toluca) Substitution at 85',Helinho  Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,266679,2025-10-03 05:15:40
+13644,754172,16,46044263,76,2,5100,85',0,0,Helinho  (Toluca) Substitution at 85',Helinho  Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,57149,2025-10-03 05:15:40
+13644,754172,18,46055734,94,2,5220,87',0,0,Santiago Simón (Toluca) Yellow Card at 87',Santiago Simón Yellow Card,223,0.0,0.0,0.0,0.0,0.0,0.0,1,297057,2025-10-04 05:15:03
+13644,754172,17,46044264,94,2,5220,87',0,0,Matheus Nascimento (LA Galaxy) Yellow Card at 87',Matheus Nascimento Yellow Card,187,0.0,0.0,0.0,0.0,0.0,0.0,1,304659,2025-10-03 05:15:40
+13644,754172,19,46044266,70,2,5280,88',1,0,Franco Romero (Toluca) Goal at 88',Franco Romero Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,128422,2025-10-04 05:15:03
+13644,754172,22,46056183,76,2,5400,90'+5',0,0,Miguel Berry (LA Galaxy) Substitution at 95',Miguel Berry Substitution,187,0.0,0.0,0.0,0.0,0.0,0.0,1,246766,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,255942,2025-10-04 05:15:03
+13644,754172,21,46044269,70,2,5400,90'+3',1,0,Federico Pereira (Toluca) Goal at 93',Federico Pereira Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,288735,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,392825,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,398955,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,399136,2025-10-04 05:15:03
+13644,754172,22,46056183,76,2,5400,90'+5',0,0,Miguel Berry (LA Galaxy) Substitution at 95',Miguel Berry Substitution,187,0.0,0.0,0.0,0.0,0.0,0.0,2,287568,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,361585,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,244704,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,353128,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,340894,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,337186,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,332358,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,321362,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,289499,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,285061,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,269506,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,265388,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,258271,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,374001,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,233439,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,198322,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,191648,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,189480,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,184087,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,181866,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,176945,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,139718,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,130829,2025-10-04 05:15:03
+13644,754172,20,46044268,76,2,5400,90'+1',0,0,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,358463,2025-10-04 05:15:03

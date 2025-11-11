@@ -1,0 +1,30 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12845,717322,1,43841818,94,1,1920,32',0,0,Sean Zawadzki (Columbus Crew) Yellow Card at 32',Sean Zawadzki Yellow Card,183,0.0,0.0,0.0,0.0,0.0,0.0,1,296221.0,2024-09-27 05:39:08
+12845,717322,3,43841937,76,2,3660,61',0,0,Diego Valdés (América) Substitution at 61',Diego Valdés Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,48063.0,2024-09-27 05:39:08
+12845,717322,2,43841936,76,2,3660,61',0,0,Víctor Dávila (América) Substitution at 61',Víctor Dávila Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,204923.0,2024-09-27 05:39:08
+12845,717322,4,43841938,76,2,3660,61',0,0,Rodrigo Aguirre (América) Substitution at 61',Rodrigo Aguirre Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,159042.0,2024-09-27 05:39:08
+12845,717322,3,43841937,76,2,3660,61',0,0,Diego Valdés (América) Substitution at 61',Diego Valdés Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,215874.0,2024-09-27 05:39:08
+12845,717322,3,43841937,76,2,3660,61',0,0,Diego Valdés (América) Substitution at 61',Diego Valdés Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,331570.0,2024-09-27 05:39:08
+12845,717322,3,43841937,76,2,3660,61',0,0,Diego Valdés (América) Substitution at 61',Diego Valdés Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,70983.0,2024-09-27 05:39:08
+12845,717322,4,43841938,76,2,3660,61',0,0,Rodrigo Aguirre (América) Substitution at 61',Rodrigo Aguirre Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,2,93184.0,2024-09-27 05:39:08
+12845,717322,2,43841936,76,2,3660,61',0,0,Víctor Dávila (América) Substitution at 61',Víctor Dávila Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,2,144325.0,2024-09-27 05:39:08
+12845,717322,3,43841937,76,2,3660,61',0,0,Diego Valdés (América) Substitution at 61',Diego Valdés Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,2,212824.0,2024-09-27 05:39:08
+12845,717322,5,43841953,70,2,4080,68',1,0,Víctor Dávila (América) Goal at 68',Víctor Dávila Goal,227,0.0,0.0,0.0,0.0,0.0,0.0,1,204923.0,2024-09-27 05:39:08
+12845,717322,6,43842000,70,2,4620,77',1,0,Malte Amundsen (Columbus Crew) Goal at 77',Malte Amundsen Goal,183,0.0,0.0,0.0,0.0,0.0,0.0,1,271075.0,2024-09-27 05:39:08
+12845,717322,7,43842004,76,2,4680,78',0,0,Alexandru Matan (Columbus Crew) Substitution at 78',Alexandru Matan Substitution,183,0.0,0.0,0.0,0.0,0.0,0.0,1,239736.0,2024-09-27 05:39:08
+12845,717322,8,43842005,76,2,4680,78',0,0,Jacen Russell-Rowe (Columbus Crew) Substitution at 78',Jacen Russell-Rowe Substitution,183,0.0,0.0,0.0,0.0,0.0,0.0,1,297121.0,2024-09-27 05:39:08
+12845,717322,7,43842004,76,2,4680,78',0,0,Alexandru Matan (Columbus Crew) Substitution at 78',Alexandru Matan Substitution,183,0.0,0.0,0.0,0.0,0.0,0.0,2,296221.0,2024-09-27 05:39:08
+12845,717322,8,43842005,76,2,4680,78',0,0,Jacen Russell-Rowe (Columbus Crew) Substitution at 78',Jacen Russell-Rowe Substitution,183,0.0,0.0,0.0,0.0,0.0,0.0,2,216966.0,2024-09-27 05:39:08
+12845,717322,8,43842005,76,2,4680,78',0,0,Jacen Russell-Rowe (Columbus Crew) Substitution at 78',Jacen Russell-Rowe Substitution,183,0.0,0.0,0.0,0.0,0.0,0.0,2,235061.0,2024-09-27 05:39:08
+12845,717322,10,43842016,76,2,4860,81',0,0,Javairo Dilrosun (América) Substitution at 81',Javairo Dilrosun Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,258971.0,2024-09-27 05:39:08
+12845,717322,9,43842015,76,2,4860,81',0,0,Richard Sánchez (América) Substitution at 81',Richard Sánchez Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,251986.0,2024-09-27 05:39:08
+12845,717322,9,43842015,76,2,4860,81',0,0,Richard Sánchez (América) Substitution at 81',Richard Sánchez Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,157147.0,2024-09-27 05:39:08
+12845,717322,10,43842016,76,2,4860,81',0,0,Javairo Dilrosun (América) Substitution at 81',Javairo Dilrosun Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,2,228730.0,2024-09-27 05:39:08
+12845,717322,9,43842015,76,2,4860,81',0,0,Richard Sánchez (América) Substitution at 81',Richard Sánchez Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,2,159839.0,2024-09-27 05:39:08
+12845,717322,9,43842015,76,2,4860,81',0,0,Richard Sánchez (América) Substitution at 81',Richard Sánchez Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,2,137439.0,2024-09-27 05:39:08
+12845,717322,11,43842017,76,2,5160,86',0,0,Aziel Jackson (Columbus Crew) Substitution at 86',Aziel Jackson Substitution,183,0.0,0.0,0.0,0.0,0.0,0.0,1,318536.0,2024-09-27 05:39:08
+12845,717322,11,43842017,76,2,5160,86',0,0,Aziel Jackson (Columbus Crew) Substitution at 86',Aziel Jackson Substitution,183,0.0,0.0,0.0,0.0,0.0,0.0,2,235817.0,2024-09-27 05:39:08
+12845,717322,12,43842018,76,2,5220,87',0,0,DeJuan Jones (Columbus Crew) Substitution at 87',DeJuan Jones Substitution,183,0.0,0.0,0.0,0.0,0.0,0.0,1,249985.0,2024-09-27 05:39:08
+12845,717322,12,43842018,76,2,5220,87',0,0,DeJuan Jones (Columbus Crew) Substitution at 87',DeJuan Jones Substitution,183,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-09-27 05:39:08
+12845,717322,13,43842020,76,2,5280,88',0,0,Marcelo Herrera (Columbus Crew) Substitution at 88',Marcelo Herrera Substitution,183,0.0,0.0,0.0,0.0,0.0,0.0,1,66049.0,2024-09-27 05:39:08
+12845,717322,13,43842020,76,2,5280,88',0,0,Marcelo Herrera (Columbus Crew) Substitution at 88',Marcelo Herrera Substitution,183,0.0,0.0,0.0,0.0,0.0,0.0,2,317021.0,2024-09-27 05:39:08

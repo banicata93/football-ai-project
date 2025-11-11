@@ -1,0 +1,29 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+12998,723487,1,44623618,98,Bruno Henrique (Flamengo) Penalty - Scored at 13',Bruno Henrique Penalty - Scored,1,780,13',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,201683,Bruno Henrique,2025-02-05 05:44:01
+12998,723487,2,44624508,70,Bruno Henrique (Flamengo) Goal at 20',Bruno Henrique Goal,1,1200,20',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,201683,Bruno Henrique,2025-02-05 05:44:01
+12998,723487,3,44624831,94,Erick Pulgar (Flamengo) Yellow Card at 47',Erick Pulgar Yellow Card,1,2700,45'+2',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,202533,Erick Pulgar,2025-02-03 14:52:50
+12998,723487,4,44624993,76,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,2,2700,45',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,268700,Vitinho,2025-02-05 05:44:01
+12998,723487,4,44624993,76,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,2,2700,45',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,359977,Mateo Ponte,2025-02-05 05:44:01
+12998,723487,5,44625277,94,Igor Jesus (Botafogo) Yellow Card at 68',Igor Jesus Yellow Card,2,4080,68',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,287869,Igor Jesus,2025-02-05 05:44:01
+12998,723487,6,44625300,94,Nicolás de la Cruz (Flamengo) Yellow Card at 68',Nicolás de la Cruz Yellow Card,2,4080,68',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,251889,Nicolás de la Cruz,2025-02-03 14:52:50
+12998,723487,7,44625334,76,Giorgian de Arrascaeta (Flamengo) Substitution at 71',Giorgian de Arrascaeta Substitut,2,4260,71',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,179767,Giorgian de Arrascaeta,2025-02-03 14:52:50
+12998,723487,7,44625334,76,Giorgian de Arrascaeta (Flamengo) Substitution at 71',Giorgian de Arrascaeta Substitut,2,4260,71',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277352,Gonzalo Plata,2025-02-03 14:52:50
+12998,723487,8,44625446,76,Luiz Araújo (Flamengo) Substitution at 80',Luiz Araújo Substitution,2,4800,80',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,234765,Luiz Araújo,2025-02-03 14:52:50
+12998,723487,9,44625447,76,Juninho (Flamengo) Substitution at 80',Juninho Substitution,2,4800,80',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239983,Juninho,2025-02-05 05:44:01
+12998,723487,10,44625448,76,Rafael Lobato (Botafogo) Substitution at 80',Rafael Lobato Substitution,2,4800,80',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,361652,Rafael Lobato,2025-02-03 14:52:50
+12998,723487,10,44625448,76,Rafael Lobato (Botafogo) Substitution at 80',Rafael Lobato Substitution,2,4800,80',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,314841,Matheus Martins,2025-02-03 14:52:50
+12998,723487,9,44625447,76,Juninho (Flamengo) Substitution at 80',Juninho Substitution,2,4800,80',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,201683,Bruno Henrique,2025-02-05 05:44:01
+12998,723487,8,44625446,76,Luiz Araújo (Flamengo) Substitution at 80',Luiz Araújo Substitution,2,4800,80',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,255617,Michael Delgado,2025-02-03 14:52:50
+12998,723487,11,44625458,70,Luiz Araújo (Flamengo) Goal at 83',Luiz Araújo Goal,2,4980,83',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,234765,Luiz Araújo,2025-02-03 14:52:50
+12998,723487,12,44625477,94,Luiz Araújo (Flamengo) Yellow Card at 84',Luiz Araújo Yellow Card,2,5040,84',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,234765,Luiz Araújo,2025-02-03 14:52:50
+12998,723487,13,44625481,94,Alex Telles (Botafogo) Yellow Card at 85',Alex Telles Yellow Card,2,5100,85',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,199734,Alex Telles,2025-02-03 14:52:50
+12998,723487,14,44625497,76,Patrick de Paula (Botafogo) Substitution at 86',Patrick de Paula Substitution,2,5160,86',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,301543,Patrick de Paula,2025-02-03 14:52:50
+12998,723487,14,44625497,76,Patrick de Paula (Botafogo) Substitution at 86',Patrick de Paula Substitution,2,5160,86',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,177219,Jefferson Savarino,2025-02-03 14:52:50
+12998,723487,15,44625498,70,Patrick de Paula (Botafogo) Goal at 87',Patrick de Paula Goal,2,5220,87',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,301543,Patrick de Paula,2025-02-03 14:52:50
+12998,723487,16,44625515,94,Alexander Barboza (Botafogo) Yellow Card at 90',Alexander Barboza Yellow Card,2,5400,90',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,222631,Alexander Barboza,2025-02-03 14:52:50
+12998,723487,17,44625526,76,Evertton (Flamengo) Substitution at 92',Evertton Substitution,2,5400,90'+2',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334752,Evertton,2025-02-05 05:44:01
+12998,723487,18,44625527,76,Danilo (Flamengo) Substitution at 93',Danilo Substitution,2,5400,90'+3',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,170369,Danilo,2025-02-05 05:44:01
+12998,723487,19,44625528,76,Kayke (Botafogo) Substitution at 93',Kayke Substitution,2,5400,90'+3',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,381279,Kayke,2025-02-03 14:52:50
+12998,723487,17,44625526,76,Evertton (Flamengo) Substitution at 92',Evertton Substitution,2,5400,90'+2',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,251889,Nicolás de la Cruz,2025-02-05 05:44:01
+12998,723487,18,44625527,76,Danilo (Flamengo) Substitution at 93',Danilo Substitution,2,5400,90'+3',819,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,145405,Léo Pereira,2025-02-05 05:44:01
+12998,723487,19,44625528,76,Kayke (Botafogo) Substitution at 93',Kayke Substitution,2,5400,90'+3',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,236596,Artur,2025-02-03 14:52:50

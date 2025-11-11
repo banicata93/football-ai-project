@@ -1,0 +1,473 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13315,735405,1,45421563,94,1,2340,39',0,0,Don-Angelo Konadu (Netherlands U19) Yellow Card at 39',Don-Angelo Konadu Yellow Card,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,386841.0,2025-06-27 04:57:50
+13315,735405,2,45421580,94,1,2700,45',0,0,Andrés Cuenca (Spain U19) Yellow Card at 45',Andrés Cuenca Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,376421.0,2025-06-27 04:57:50
+13315,735405,3,45421694,94,2,3180,53',0,0,Daniel Muñoz (Spain U19) Yellow Card at 53',Daniel Muñoz Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,146679.0,2025-06-27 04:57:50
+13315,735405,4,45421733,94,2,3480,58',0,0,Tygo Land (Netherlands U19) Yellow Card at 58',Tygo Land Yellow Card,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,355957.0,2025-06-27 04:57:50
+13315,735405,5,45421756,97,2,3720,62',1,0,Raúl Jiménez (Spain U19) Own Goal at 62',Raúl Jiménez Own Goal,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,167060.0,2025-06-27 04:57:50
+13315,735405,5,45421756,97,2,3720,62',1,0,Raúl Jiménez (Spain U19) Own Goal at 62',Raúl Jiménez Own Goal,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,394417.0,2025-06-27 04:57:50
+13315,735405,7,45421799,76,2,3960,66',0,0,Quim Junyent (Spain U19) Substitution at 66',Quim Junyent Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,376425.0,2025-06-27 04:57:50
+13315,735405,6,45421798,94,2,3960,66',0,0,Jano Monserrate (Spain U19) Yellow Card at 66',Jano Monserrate Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388080.0,2025-06-27 04:57:50
+13315,735405,8,45421800,76,2,3960,66',0,0,Daniel Díaz (Spain U19) Substitution at 66',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,354986.0,2025-06-27 04:57:50
+13315,735405,8,45421800,76,2,3960,66',0,0,Daniel Díaz (Spain U19) Substitution at 66',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,363029.0,2025-06-27 04:57:50
+13315,735405,8,45421800,76,2,3960,66',0,0,Daniel Díaz (Spain U19) Substitution at 66',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,387496.0,2025-06-27 04:57:50
+13315,735405,7,45421799,76,2,3960,66',0,0,Quim Junyent (Spain U19) Substitution at 66',Quim Junyent Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,405521.0,2025-06-27 04:57:50
+13315,735405,8,45421800,76,2,3960,66',0,0,Daniel Díaz (Spain U19) Substitution at 66',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388079.0,2025-06-27 04:57:50
+13315,735405,9,45421863,94,2,4500,75',0,0,Ayoub Oufkir (Netherlands U19) Yellow Card at 75',Ayoub Oufkir Yellow Card,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,389354.0,2025-06-27 04:57:50
+13315,735405,10,45421867,94,2,4620,77',0,0,Alexis Olmedo (Spain U19) Yellow Card at 77',Alexis Olmedo Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388287.0,2025-06-27 04:57:50
+13315,735405,11,45421868,76,2,4620,77',0,0,Peio Huestamendia (Spain U19) Substitution at 77',Peio Huestamendia Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,376420.0,2025-06-27 04:57:50
+13315,735405,12,45421882,76,2,4620,77',0,0,Jan Virgili (Spain U19) Substitution at 77',Jan Virgili Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,403592.0,2025-06-27 04:57:50
+13315,735405,12,45421882,76,2,4620,77',0,0,Jan Virgili (Spain U19) Substitution at 77',Jan Virgili Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,375875.0,2025-06-27 04:57:50
+13315,735405,11,45421868,76,2,4620,77',0,0,Peio Huestamendia (Spain U19) Substitution at 77',Peio Huestamendia Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388080.0,2025-06-27 04:57:50
+13315,735405,13,45421883,76,2,4680,78',0,0,Kasper Boogaard (Netherlands U19) Substitution at 78',Kasper Boogaard Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,380174.0,2025-06-27 04:57:50
+13315,735405,13,45421883,76,2,4680,78',0,0,Kasper Boogaard (Netherlands U19) Substitution at 78',Kasper Boogaard Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,355957.0,2025-06-27 04:57:50
+13315,735405,14,45421903,76,2,4920,82',0,0,Mats Rots (Netherlands U19) Substitution at 82',Mats Rots Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,359744.0,2025-06-27 04:57:50
+13315,735405,14,45421903,76,2,4920,82',0,0,Mats Rots (Netherlands U19) Substitution at 82',Mats Rots Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,390072.0,2025-06-27 04:57:50
+13315,735405,15,45421930,76,2,5040,84',0,0,Alejandro Granados (Spain U19) Substitution at 84',Alejandro Granados Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,363216.0,2025-06-27 04:57:50
+13315,735405,15,45421930,76,2,5040,84',0,0,Alejandro Granados (Spain U19) Substitution at 84',Alejandro Granados Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,376421.0,2025-06-27 04:57:50
+13315,735405,17,45422021,94,2,5400,90'+6',0,0,Jan Virgili (Spain U19) Yellow Card at 96',Jan Virgili Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,403592.0,2025-06-27 04:57:50
+13315,735405,21,45422455,94,2,5400,90'+7',0,0,Zepiqueno Redmond (Netherlands U19) Yellow Card at 97',Zepiqueno Redmond Yellow Card,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,343200.0,2025-06-27 04:57:50
+13315,735405,20,45422454,94,2,5400,90'+7',0,0,Mats Rots (Netherlands U19) Yellow Card at 97',Mats Rots Yellow Card,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,359744.0,2025-06-27 04:57:50
+13315,735405,16,45422014,76,2,5400,90'+4',0,0,Owen Panneflek (Netherlands U19) Substitution at 94',Owen Panneflek Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,394464.0,2025-06-27 04:57:50
+13315,735405,18,45422450,94,2,5400,90'+7',0,0,Quim Junyent (Spain U19) Yellow Card at 97',Quim Junyent Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,376425.0,2025-06-27 04:57:50
+13315,735405,19,45422453,94,2,5400,90'+7',0,0,Izan Merino (Spain U19) Yellow Card at 97',Izan Merino Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,371564.0,2025-06-27 04:57:50
+13315,735405,16,45422014,76,2,5400,90'+4',0,0,Owen Panneflek (Netherlands U19) Substitution at 94',Owen Panneflek Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,386841.0,2025-06-27 04:57:50
+13316,735403,1,45413539,70,1,1680,28',1,0,Max Moerstedt (Germany U19) Goal at 28',Max Moerstedt Goal,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372035.0,2025-06-24 04:35:04
+13316,735403,2,45413540,174,1,2100,35',0,0,Antonio Cordero (Spain U19) Penalty - Saved at 35',Antonio Cordero Penalty - Saved,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,375875.0,2025-06-24 04:35:04
+13316,735403,3,45413541,94,1,2640,44',0,0,Mateo Kritzer (Germany U19) Yellow Card at 44',Mateo Kritzer Yellow Card,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,381470.0,2025-06-24 04:35:04
+13316,735403,4,45413542,94,2,3540,59',0,0,Alexis Olmedo (Spain U19) Yellow Card at 59',Alexis Olmedo Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388287.0,2025-06-24 04:35:04
+13316,735403,5,45413543,70,2,3660,61',1,0,Pablo García (Spain U19) Goal at 61',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,46803.0,2025-06-24 04:35:04
+13316,735403,5,45413543,70,2,3660,61',1,0,Pablo García (Spain U19) Goal at 61',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,412106.0,2025-06-24 04:35:04
+13316,735403,5,45413543,70,2,3660,61',1,0,Pablo García (Spain U19) Goal at 61',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,399278.0,2025-06-24 04:35:04
+13316,735403,5,45413543,70,2,3660,61',1,0,Pablo García (Spain U19) Goal at 61',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388563.0,2025-06-24 04:35:04
+13316,735403,5,45413543,70,2,3660,61',1,0,Pablo García (Spain U19) Goal at 61',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388056.0,2025-06-24 04:35:04
+13316,735403,5,45413543,70,2,3660,61',1,0,Pablo García (Spain U19) Goal at 61',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,375763.0,2025-06-24 04:35:04
+13316,735403,5,45413543,70,2,3660,61',1,0,Pablo García (Spain U19) Goal at 61',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,154513.0,2025-06-24 04:35:04
+13316,735403,6,45413544,76,2,4020,67',0,0,Daniel Díaz (Spain U19) Substitution at 67',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,354986.0,2025-06-24 04:35:04
+13316,735403,7,45413545,76,2,4020,67',0,0,Tomás Marqués (Spain U19) Substitution at 67',Tomás Marqués Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,403590.0,2025-06-24 04:35:04
+13316,735403,6,45413544,76,2,4020,67',0,0,Daniel Díaz (Spain U19) Substitution at 67',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,363029.0,2025-06-24 04:35:04
+13316,735403,6,45413544,76,2,4020,67',0,0,Daniel Díaz (Spain U19) Substitution at 67',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,387496.0,2025-06-24 04:35:04
+13316,735403,6,45413544,76,2,4020,67',0,0,Daniel Díaz (Spain U19) Substitution at 67',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388287.0,2025-06-24 04:35:04
+13316,735403,7,45413545,76,2,4020,67',0,0,Tomás Marqués (Spain U19) Substitution at 67',Tomás Marqués Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,405521.0,2025-06-24 04:35:04
+13316,735403,8,45413546,76,2,4140,69',0,0,Robert Ramsak (Germany U19) Substitution at 69',Robert Ramsak Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372038.0,2025-06-24 04:35:04
+13316,735403,8,45413546,76,2,4140,69',0,0,Robert Ramsak (Germany U19) Substitution at 69',Robert Ramsak Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,364897.0,2025-06-24 04:35:04
+13316,735403,9,45413547,76,2,4560,76',0,0,Maximilian Hennig (Germany U19) Substitution at 76',Maximilian Hennig Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372030.0,2025-06-24 04:35:04
+13316,735403,9,45413547,76,2,4560,76',0,0,Maximilian Hennig (Germany U19) Substitution at 76',Maximilian Hennig Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,372034.0,2025-06-24 04:35:04
+13316,735403,10,45413548,70,2,4680,78',1,0,Said El Mala (Germany U19) Goal at 78',Said El Mala Goal,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,380795.0,2025-06-24 04:35:04
+13316,735403,12,45413550,76,2,4860,81',0,0,Quim Junyent (Spain U19) Substitution at 81',Quim Junyent Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,376425.0,2025-06-24 04:35:04
+13316,735403,11,45413549,76,2,4860,81',0,0,Jan Virgili (Spain U19) Substitution at 81',Jan Virgili Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,403592.0,2025-06-24 04:35:04
+13316,735403,12,45413550,76,2,4860,81',0,0,Quim Junyent (Spain U19) Substitution at 81',Quim Junyent Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388080.0,2025-06-24 04:35:04
+13316,735403,11,45413549,76,2,4860,81',0,0,Jan Virgili (Spain U19) Substitution at 81',Jan Virgili Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,375875.0,2025-06-24 04:35:04
+13316,735403,13,45413551,94,2,4980,83',0,0,Leopold Wurm (Germany U19) Yellow Card at 83',Leopold Wurm Yellow Card,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,367987.0,2025-06-24 04:35:04
+13316,735403,14,45413552,76,2,5280,88',0,0,Gonzalo Pastor (Spain U19) Substitution at 88',Gonzalo Pastor Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,395627.0,2025-06-24 04:35:04
+13316,735403,14,45413552,76,2,5280,88',0,0,Gonzalo Pastor (Spain U19) Substitution at 88',Gonzalo Pastor Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388079.0,2025-06-24 04:35:04
+13316,735403,15,45413553,70,2,5400,90'+1',1,0,Pablo García (Spain U19) Goal at 91',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,46803.0,2025-06-24 04:35:04
+13316,735403,15,45413553,70,2,5400,90'+1',1,0,Pablo García (Spain U19) Goal at 91',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,412106.0,2025-06-24 04:35:04
+13316,735403,15,45413553,70,2,5400,90'+1',1,0,Pablo García (Spain U19) Goal at 91',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,399278.0,2025-06-24 04:35:04
+13316,735403,15,45413553,70,2,5400,90'+1',1,0,Pablo García (Spain U19) Goal at 91',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388563.0,2025-06-24 04:35:04
+13316,735403,15,45413553,70,2,5400,90'+1',1,0,Pablo García (Spain U19) Goal at 91',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388056.0,2025-06-24 04:35:04
+13316,735403,15,45413553,70,2,5400,90'+1',1,0,Pablo García (Spain U19) Goal at 91',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,375763.0,2025-06-24 04:35:04
+13316,735403,15,45413553,70,2,5400,90'+1',1,0,Pablo García (Spain U19) Goal at 91',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,154513.0,2025-06-24 04:35:04
+13316,735403,20,45413557,94,2,5400,90'+8',0,0,Daniel Muñoz (Spain U19) Yellow Card at 98',Daniel Muñoz Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,146679.0,2025-06-24 04:35:04
+13316,735403,17,45413554,70,2,5400,90'+5',1,0,Pablo García (Spain U19) Goal at 95',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,412106.0,2025-06-24 04:35:04
+13316,735403,17,45413554,70,2,5400,90'+5',1,0,Pablo García (Spain U19) Goal at 95',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,399278.0,2025-06-24 04:35:04
+13316,735403,17,45413554,70,2,5400,90'+5',1,0,Pablo García (Spain U19) Goal at 95',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388563.0,2025-06-24 04:35:04
+13316,735403,17,45413554,70,2,5400,90'+5',1,0,Pablo García (Spain U19) Goal at 95',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388056.0,2025-06-24 04:35:04
+13316,735403,17,45413554,70,2,5400,90'+5',1,0,Pablo García (Spain U19) Goal at 95',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,375763.0,2025-06-24 04:35:04
+13316,735403,17,45413554,70,2,5400,90'+5',1,0,Pablo García (Spain U19) Goal at 95',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,154513.0,2025-06-24 04:35:04
+13316,735403,21,45413558,97,2,5400,90'+9',1,0,Andrés Cuenca (Spain U19) Own Goal at 99',Andrés Cuenca Own Goal,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,376421.0,2025-06-24 04:35:04
+13316,735403,18,45413555,76,2,5400,90'+6',0,0,Lukas Reich (Germany U19) Substitution at 96',Lukas Reich Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,405546.0,2025-06-24 04:35:04
+13316,735403,16,45413578,94,2,5400,90'+2',0,0,Omar Janneh (Spain U19) Yellow Card at 92',Omar Janneh Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388079.0,2025-06-24 04:35:04
+13316,735403,19,45413556,76,2,5400,90'+6',0,0,Jarzinho Malanga (Germany U19) Substitution at 96',Jarzinho Malanga Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372027.0,2025-06-24 04:35:04
+13316,735403,17,45413554,70,2,5400,90'+5',1,0,Pablo García (Spain U19) Goal at 95',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,46803.0,2025-06-24 04:35:04
+13316,735403,19,45413556,76,2,5400,90'+6',0,0,Jarzinho Malanga (Germany U19) Substitution at 96',Jarzinho Malanga Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,376559.0,2025-06-24 04:35:04
+13316,735403,18,45413555,76,2,5400,90'+6',0,0,Lukas Reich (Germany U19) Substitution at 96',Lukas Reich Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,372033.0,2025-06-24 04:35:04
+13316,735403,22,45413559,94,3,5580,93',0,0,Tomás Marqués (Spain U19) Yellow Card at 93',Tomás Marqués Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,403590.0,2025-06-24 04:35:04
+13316,735403,24,45413561,76,3,5760,96',0,0,Jofre Torrents (Spain U19) Substitution at 96',Jofre Torrents Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,403588.0,2025-06-24 04:35:04
+13316,735403,23,45413560,94,3,5760,96',0,0,Jarzinho Malanga (Germany U19) Yellow Card at 96',Jarzinho Malanga Yellow Card,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372027.0,2025-06-24 04:35:04
+13316,735403,24,45413561,76,3,5760,96',0,0,Jofre Torrents (Spain U19) Substitution at 96',Jofre Torrents Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,146679.0,2025-06-24 04:35:04
+13316,735403,25,45413562,70,3,5820,97',1,0,Tomás Marqués (Spain U19) Goal at 97',Tomás Marqués Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,403590.0,2025-06-24 04:35:04
+13316,735403,26,45413563,70,3,6240,104',1,0,Max Moerstedt (Germany U19) Goal at 104',Max Moerstedt Goal,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372035.0,2025-06-24 04:35:04
+13316,735403,27,45413565,70,4,6420,107',1,0,Max Moerstedt (Germany U19) Goal at 107',Max Moerstedt Goal,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372035.0,2025-06-24 04:35:04
+13316,735403,28,45413566,70,4,6780,113',1,0,Jan Virgili (Spain U19) Goal at 113',Jan Virgili Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,403592.0,2025-06-24 04:35:04
+13316,735403,29,45413567,94,4,6900,115',0,0,Max Moerstedt (Germany U19) Yellow Card at 115',Max Moerstedt Yellow Card,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372035.0,2025-06-24 04:35:04
+13316,735403,30,45413568,70,4,7140,119',1,0,Pablo García (Spain U19) Goal at 119',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,46803.0,2025-06-24 04:35:04
+13316,735403,30,45413568,70,4,7140,119',1,0,Pablo García (Spain U19) Goal at 119',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388056.0,2025-06-24 04:35:04
+13316,735403,30,45413568,70,4,7140,119',1,0,Pablo García (Spain U19) Goal at 119',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,375763.0,2025-06-24 04:35:04
+13316,735403,30,45413568,70,4,7140,119',1,0,Pablo García (Spain U19) Goal at 119',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,412106.0,2025-06-24 04:35:04
+13316,735403,30,45413568,70,4,7140,119',1,0,Pablo García (Spain U19) Goal at 119',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,399278.0,2025-06-24 04:35:04
+13316,735403,30,45413568,70,4,7140,119',1,0,Pablo García (Spain U19) Goal at 119',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388563.0,2025-06-24 04:35:04
+13316,735403,30,45413568,70,4,7140,119',1,0,Pablo García (Spain U19) Goal at 119',Pablo García Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,154513.0,2025-06-24 04:35:04
+13316,735403,32,45413570,94,4,7200,120',0,0,Paris Brunner (Germany U19) Yellow Card at 120',Paris Brunner Yellow Card,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,365789.0,2025-06-24 04:35:04
+13316,735403,31,45413569,94,4,7200,120',0,0,Izan Merino (Spain U19) Yellow Card at 120',Izan Merino Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,371564.0,2025-06-24 04:35:04
+13316,735404,1,45413573,94,1,1140,19',0,0,Don-Angelo Konadu (Netherlands U19) Yellow Card at 19',Don-Angelo Konadu Yellow Card,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,386841.0,2025-06-24 04:35:04
+13316,735404,3,45413575,70,1,2100,35',1,0,Don-Angelo Konadu (Netherlands U19) Goal at 35',Don-Angelo Konadu Goal,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,386841.0,2025-06-24 04:35:04
+13316,735404,2,45413574,94,1,2100,35',0,0,Luca Szimionas (Romania U19) Yellow Card at 35',Luca Szimionas Yellow Card,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405526.0,2025-06-24 04:35:04
+13316,735404,4,45413576,70,1,2520,42',1,0,Kees Smit (Netherlands U19) Goal at 42',Kees Smit Goal,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,353365.0,2025-06-24 04:35:04
+13316,735404,5,45413577,94,1,2640,44',0,0,Remus Gutea (Romania U19) Yellow Card at 44',Remus Gutea Yellow Card,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,355530.0,2025-06-24 04:35:04
+13316,735404,7,45413592,76,2,2700,45',0,0,Mario Baraitaru (Romania U19) Substitution at 45',Mario Baraitaru Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405531.0,2025-06-24 04:35:04
+13316,735404,6,45413590,76,2,2700,45',0,0,David Pacuraru (Romania U19) Substitution at 45',David Pacuraru Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405530.0,2025-06-24 04:35:04
+13316,735404,8,45413593,76,2,2700,45',0,0,David Barbu (Romania U19) Substitution at 45',David Barbu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,384330.0,2025-06-24 04:35:04
+13316,735404,8,45413593,76,2,2700,45',0,0,David Barbu (Romania U19) Substitution at 45',David Barbu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,405529.0,2025-06-24 04:35:04
+13316,735404,7,45413592,76,2,2700,45',0,0,Mario Baraitaru (Romania U19) Substitution at 45',Mario Baraitaru Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,363251.0,2025-06-24 04:35:04
+13316,735404,6,45413590,76,2,2700,45',0,0,David Pacuraru (Romania U19) Substitution at 45',David Pacuraru Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,405522.0,2025-06-24 04:35:04
+13316,735404,9,45413625,70,2,3180,53',1,0,Aymen Sliti (Netherlands U19) Goal at 53',Aymen Sliti Goal,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,388327.0,2025-06-24 04:35:04
+13316,735404,10,45413650,76,2,3420,57',0,0,Luca Basceanu (Romania U19) Substitution at 57',Luca Basceanu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,379326.0,2025-06-24 04:35:04
+13316,735404,10,45413650,76,2,3420,57',0,0,Luca Basceanu (Romania U19) Substitution at 57',Luca Basceanu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,355530.0,2025-06-24 04:35:04
+13316,735404,11,45413661,76,2,3480,58',0,0,Owen Panneflek (Netherlands U19) Substitution at 58',Owen Panneflek Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,394464.0,2025-06-24 04:35:04
+13316,735404,13,45413667,76,2,3480,58',0,0,Kasper Boogaard (Netherlands U19) Substitution at 58',Kasper Boogaard Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,380174.0,2025-06-24 04:35:04
+13316,735404,12,45413662,76,2,3480,58',0,0,Zepiqueno Redmond (Netherlands U19) Substitution at 58',Zepiqueno Redmond Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,343200.0,2025-06-24 04:35:04
+13316,735404,12,45413662,76,2,3480,58',0,0,Zepiqueno Redmond (Netherlands U19) Substitution at 58',Zepiqueno Redmond Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,388327.0,2025-06-24 04:35:04
+13316,735404,11,45413661,76,2,3480,58',0,0,Owen Panneflek (Netherlands U19) Substitution at 58',Owen Panneflek Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,386841.0,2025-06-24 04:35:04
+13316,735404,13,45413667,76,2,3480,58',0,0,Kasper Boogaard (Netherlands U19) Substitution at 58',Kasper Boogaard Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,390072.0,2025-06-24 04:35:04
+13316,735404,14,45413707,70,2,4080,68',1,0,David Barbu (Romania U19) Goal at 68',David Barbu Goal,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,384330.0,2025-06-24 04:35:04
+13316,735404,15,45413713,94,2,4200,70',0,0,David Matei (Romania U19) Yellow Card at 70',David Matei Yellow Card,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405527.0,2025-06-24 04:35:04
+13316,735404,16,45413719,94,2,4320,72',0,0,Givairo Read (Netherlands U19) Yellow Card at 72',Givairo Read Yellow Card,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,337084.0,2025-06-24 04:35:04
+13316,735404,17,45413731,76,2,4620,77',0,0,Vlad Danciutiu (Romania U19) Substitution at 77',Vlad Danciutiu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405525.0,2025-06-24 04:35:04
+13316,735404,17,45413731,76,2,4620,77',0,0,Vlad Danciutiu (Romania U19) Substitution at 77',Vlad Danciutiu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,334364.0,2025-06-24 04:35:04
+13316,735404,18,45413732,76,2,4680,78',0,0,Lucas Vennegoor Of Hesselink (Netherlands U19) Substitution at 78',Lucas Vennegoor Of Hesselink Sub,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,379839.0,2025-06-24 04:35:04
+13316,735404,18,45413732,76,2,4680,78',0,0,Lucas Vennegoor Of Hesselink (Netherlands U19) Substitution at 78',Lucas Vennegoor Of Hesselink Sub,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,353365.0,2025-06-24 04:35:04
+13317,735391,1,45386008,70,1,780,13',1,0,Vuk Vlahovic (Montenegro U19) Goal at 13',Vuk Vlahovic Goal,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,403060.0,2025-06-14 05:26:42
+13317,735391,2,45386027,94,1,2460,41',0,0,Bojan Damjanovic (Montenegro U19) Yellow Card at 41',Bojan Damjanovic Yellow Card,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,365469.0,2025-06-14 05:26:42
+13317,735391,3,45386028,76,2,3480,58',0,0,Danilo Cetkovic (Montenegro U19) Substitution at 58',Danilo Cetkovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,403055.0,2025-06-14 05:26:42
+13317,735391,3,45386028,76,2,3480,58',0,0,Danilo Cetkovic (Montenegro U19) Substitution at 58',Danilo Cetkovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,2,382569.0,2025-06-14 05:26:42
+13317,735391,4,45386029,94,2,3600,60',0,0,Vuk Vlahovic (Montenegro U19) Yellow Card at 60',Vuk Vlahovic Yellow Card,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,403060.0,2025-06-14 05:26:42
+13317,735391,6,45386031,76,2,3660,61',0,0,David Barbu (Romania U19) Substitution at 61',David Barbu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,384330.0,2025-06-14 05:26:42
+13317,735391,7,45386032,76,2,3660,61',0,0,Vlad Danciutiu (Romania U19) Substitution at 61',Vlad Danciutiu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405525.0,2025-06-14 05:26:42
+13317,735391,5,45386030,76,2,3660,61',0,0,Luca Basceanu (Romania U19) Substitution at 61',Luca Basceanu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,379326.0,2025-06-14 05:26:42
+13317,735391,7,45386032,76,2,3660,61',0,0,Vlad Danciutiu (Romania U19) Substitution at 61',Vlad Danciutiu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,405529.0,2025-06-14 05:26:42
+13317,735391,6,45386031,76,2,3660,61',0,0,David Barbu (Romania U19) Substitution at 61',David Barbu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,334364.0,2025-06-14 05:26:42
+13317,735391,5,45386030,76,2,3660,61',0,0,Luca Basceanu (Romania U19) Substitution at 61',Luca Basceanu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,405530.0,2025-06-14 05:26:42
+13317,735391,8,45386033,70,2,3780,63',1,0,Emanuel-Pavel Marincau (Romania U19) Goal at 63',Emanuel-Pavel Marincau Goal,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405523.0,2025-06-14 05:26:42
+13317,735391,9,45386034,76,2,4440,74',0,0,Filip Perovic (Montenegro U19) Substitution at 74',Filip Perovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,403056.0,2025-06-14 05:26:42
+13317,735391,9,45386034,76,2,4440,74',0,0,Filip Perovic (Montenegro U19) Substitution at 74',Filip Perovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,2,382572.0,2025-06-14 05:26:42
+13317,735391,10,45386035,76,2,4500,75',0,0,Remus Gutea (Romania U19) Substitution at 75',Remus Gutea Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,355530.0,2025-06-14 05:26:42
+13317,735391,10,45386035,76,2,4500,75',0,0,Remus Gutea (Romania U19) Substitution at 75',Remus Gutea Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,405522.0,2025-06-14 05:26:42
+13317,735391,11,45386036,76,2,4740,79',0,0,Mario Baraitaru (Romania U19) Substitution at 79',Mario Baraitaru Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405531.0,2025-06-14 05:26:42
+13317,735391,11,45386036,76,2,4740,79',0,0,Mario Baraitaru (Romania U19) Substitution at 79',Mario Baraitaru Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,405523.0,2025-06-14 05:26:42
+13317,735391,12,45386037,76,2,4980,83',0,0,Lazar Sekularac (Montenegro U19) Substitution at 83',Lazar Sekularac Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,403043.0,2025-06-14 05:26:42
+13317,735391,12,45386037,76,2,4980,83',0,0,Lazar Sekularac (Montenegro U19) Substitution at 83',Lazar Sekularac Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,2,403060.0,2025-06-14 05:26:42
+13317,735391,13,45386038,70,2,5400,90',1,0,David Barbu (Romania U19) Goal at 90',David Barbu Goal,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,384330.0,2025-06-14 05:26:42
+13317,735392,1,45385975,97,1,2700,45',1,0,Oscar Gadeberg-Buur (Denmark U19) Own Goal at 45',Oscar Gadeberg-Buur Own Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,380427.0,2025-06-14 05:26:42
+13317,735392,2,45385976,76,2,3420,57',0,0,Villum Berthelsen (Denmark U19) Substitution at 57',Villum Berthelsen Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,401465.0,2025-06-14 05:26:42
+13317,735392,2,45385976,76,2,3420,57',0,0,Villum Berthelsen (Denmark U19) Substitution at 57',Villum Berthelsen Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,362071.0,2025-06-14 05:26:42
+13317,735392,3,45385978,76,2,4140,69',0,0,Alejandro Granados (Spain U19) Substitution at 69',Alejandro Granados Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,363216.0,2025-06-14 05:26:42
+13317,735392,3,45385978,76,2,4140,69',0,0,Alejandro Granados (Spain U19) Substitution at 69',Alejandro Granados Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388080.0,2025-06-14 05:26:42
+13317,735392,5,45385980,76,2,4200,70',0,0,Mathias Kaarsbo (Denmark U19) Substitution at 70',Mathias Kaarsbo Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,403681.0,2025-06-14 05:26:42
+13317,735392,4,45385979,76,2,4200,70',0,0,Peio Huestamendia (Spain U19) Substitution at 70',Peio Huestamendia Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,376420.0,2025-06-14 05:26:42
+13317,735392,6,45385981,76,2,4200,70',0,0,Nikolaj Juul-Sandberg (Denmark U19) Substitution at 70',Nikolaj Juul-Sandberg Substituti,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,403039.0,2025-06-14 05:26:42
+13317,735392,4,45385979,76,2,4200,70',0,0,Peio Huestamendia (Spain U19) Substitution at 70',Peio Huestamendia Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,46803.0,2025-06-14 05:26:42
+13317,735392,6,45385981,76,2,4200,70',0,0,Nikolaj Juul-Sandberg (Denmark U19) Substitution at 70',Nikolaj Juul-Sandberg Substituti,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,405519.0,2025-06-14 05:26:42
+13317,735392,5,45385980,76,2,4200,70',0,0,Mathias Kaarsbo (Denmark U19) Substitution at 70',Mathias Kaarsbo Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,386359.0,2025-06-14 05:26:42
+13317,735392,4,45385979,76,2,4200,70',0,0,Peio Huestamendia (Spain U19) Substitution at 70',Peio Huestamendia Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,412106.0,2025-06-14 05:26:42
+13317,735392,4,45385979,76,2,4200,70',0,0,Peio Huestamendia (Spain U19) Substitution at 70',Peio Huestamendia Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,399278.0,2025-06-14 05:26:42
+13317,735392,4,45385979,76,2,4200,70',0,0,Peio Huestamendia (Spain U19) Substitution at 70',Peio Huestamendia Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388563.0,2025-06-14 05:26:42
+13317,735392,4,45385979,76,2,4200,70',0,0,Peio Huestamendia (Spain U19) Substitution at 70',Peio Huestamendia Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388056.0,2025-06-14 05:26:42
+13317,735392,4,45385979,76,2,4200,70',0,0,Peio Huestamendia (Spain U19) Substitution at 70',Peio Huestamendia Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,375763.0,2025-06-14 05:26:42
+13317,735392,4,45385979,76,2,4200,70',0,0,Peio Huestamendia (Spain U19) Substitution at 70',Peio Huestamendia Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,154513.0,2025-06-14 05:26:42
+13317,735392,7,45385982,76,2,4260,71',0,0,Frederik Emmery (Denmark U19) Substitution at 71',Frederik Emmery Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,384470.0,2025-06-14 05:26:42
+13317,735392,7,45385982,76,2,4260,71',0,0,Frederik Emmery (Denmark U19) Substitution at 71',Frederik Emmery Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,383963.0,2025-06-14 05:26:42
+13317,735392,8,45385984,94,2,4620,77',0,0,Alejandro Granados (Spain U19) Yellow Card at 77',Alejandro Granados Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,363216.0,2025-06-14 05:26:42
+13317,735392,9,45385986,94,2,4740,79',0,0,Mathias Kaarsbo (Denmark U19) Yellow Card at 79',Mathias Kaarsbo Yellow Card,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,403681.0,2025-06-14 05:26:42
+13317,735392,11,45385988,76,2,4980,83',0,0,Jan Virgili (Spain U19) Substitution at 83',Jan Virgili Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,403592.0,2025-06-14 05:26:42
+13317,735392,10,45385987,76,2,4980,83',0,0,Quim Junyent (Spain U19) Substitution at 83',Quim Junyent Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,376425.0,2025-06-14 05:26:42
+13317,735392,11,45385988,76,2,4980,83',0,0,Jan Virgili (Spain U19) Substitution at 83',Jan Virgili Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,405521.0,2025-06-14 05:26:42
+13317,735392,10,45385987,76,2,4980,83',0,0,Quim Junyent (Spain U19) Substitution at 83',Quim Junyent Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388287.0,2025-06-14 05:26:42
+13317,735392,12,45385989,76,2,5160,86',0,0,Jonathan Agyekum (Denmark U19) Substitution at 86',Jonathan Agyekum Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,405520.0,2025-06-14 05:26:42
+13317,735392,12,45385989,76,2,5160,86',0,0,Jonathan Agyekum (Denmark U19) Substitution at 86',Jonathan Agyekum Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,380839.0,2025-06-14 05:26:42
+13317,735392,13,45385990,76,2,5400,90'+1',0,0,Gonzalo Pastor (Spain U19) Substitution at 91',Gonzalo Pastor Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,395627.0,2025-06-14 05:26:42
+13317,735392,13,45385990,76,2,5400,90'+1',0,0,Gonzalo Pastor (Spain U19) Substitution at 91',Gonzalo Pastor Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,375875.0,2025-06-14 05:26:42
+13317,735393,1,45387669,70,1,660,11',1,0,Tom Watson (England U19) Goal at 11',Tom Watson Goal,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,403702.0,2025-06-15 05:11:26
+13317,735393,1,45387669,70,1,660,11',1,0,Tom Watson (England U19) Goal at 11',Tom Watson Goal,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,356957.0,2025-06-15 05:11:26
+13317,735393,2,45387670,70,1,1080,18',1,0,Alexander Røssing-Lelesiit (Norway U19) Goal at 18',Alexander Røssing-Lelesiit Goal,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,384471.0,2025-06-15 05:11:26
+13317,735393,3,45387671,94,1,1440,24',0,0,Kadan Young (England U19) Yellow Card at 24',Kadan Young Yellow Card,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,353195.0,2025-06-15 05:11:26
+13317,735393,4,45387672,70,1,2700,45',1,0,Sondre Granaas (Norway U19) Goal at 45',Sondre Granaas Goal,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,379152.0,2025-06-15 05:11:26
+13317,735393,5,45387673,76,2,2700,45',0,0,Caleb Kporha (England U19) Substitution at 45',Caleb Kporha Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,358084.0,2025-06-15 05:11:26
+13317,735393,5,45387673,76,2,2700,45',0,0,Caleb Kporha (England U19) Substitution at 45',Caleb Kporha Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,349075.0,2025-06-15 05:11:26
+13317,735393,6,45387674,76,2,3360,56',0,0,Troy Nyhammer (Norway U19) Substitution at 56',Troy Nyhammer Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,354800.0,2025-06-15 05:11:26
+13317,735393,6,45387674,76,2,3360,56',0,0,Troy Nyhammer (Norway U19) Substitution at 56',Troy Nyhammer Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,384471.0,2025-06-15 05:11:26
+13317,735393,7,45387675,94,2,3600,60',0,0,Josh King (England U19) Yellow Card at 60',Josh King Yellow Card,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,409541.0,2025-06-15 05:11:26
+13317,735393,7,45387675,94,2,3600,60',0,0,Josh King (England U19) Yellow Card at 60',Josh King Yellow Card,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,390633.0,2025-06-15 05:11:26
+13317,735393,8,45387676,76,2,3900,65',0,0,Karsten Ekorness (Norway U19) Substitution at 65',Karsten Ekorness Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,405550.0,2025-06-15 05:11:26
+13317,735393,9,45387677,76,2,3900,65',0,0,Sigurd Jacobsen Prestmo (Norway U19) Substitution at 65',Sigurd Jacobsen Prestmo Substitu,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,399710.0,2025-06-15 05:11:26
+13317,735393,8,45387676,76,2,3900,65',0,0,Karsten Ekorness (Norway U19) Substitution at 65',Karsten Ekorness Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,359501.0,2025-06-15 05:11:26
+13317,735393,9,45387677,76,2,3900,65',0,0,Sigurd Jacobsen Prestmo (Norway U19) Substitution at 65',Sigurd Jacobsen Prestmo Substitu,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,383883.0,2025-06-15 05:11:26
+13317,735393,10,45387678,76,2,4500,75',0,0,Jesse Derry (England U19) Substitution at 75',Jesse Derry Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,373759.0,2025-06-15 05:11:26
+13317,735393,10,45387678,76,2,4500,75',0,0,Jesse Derry (England U19) Substitution at 75',Jesse Derry Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,403702.0,2025-06-15 05:11:26
+13317,735393,10,45387678,76,2,4500,75',0,0,Jesse Derry (England U19) Substitution at 75',Jesse Derry Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,356957.0,2025-06-15 05:11:26
+13317,735393,11,45387679,76,2,4560,76',0,0,Samuel Amo-Ameyaw (England U19) Substitution at 76',Samuel Amo-Ameyaw Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,350501.0,2025-06-15 05:11:26
+13317,735393,11,45387679,76,2,4560,76',0,0,Samuel Amo-Ameyaw (England U19) Substitution at 76',Samuel Amo-Ameyaw Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,353195.0,2025-06-15 05:11:26
+13317,735393,12,45387680,94,2,4680,78',0,0,Jonathan Norbye (Norway U19) Yellow Card at 78',Jonathan Norbye Yellow Card,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,384500.0,2025-06-27 04:57:50
+13317,735393,13,45387681,98,2,4800,80',1,0,Mikey Moore (England U19) Penalty - Scored at 80',Mikey Moore Penalty - Scored,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,365332.0,2025-06-15 05:11:26
+13317,735393,14,45387682,76,2,4860,81',0,0,Magnus Holte (Norway U19) Substitution at 81',Magnus Holte Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,350606.0,2025-06-15 05:11:26
+13317,735393,14,45387682,76,2,4860,81',0,0,Magnus Holte (Norway U19) Substitution at 81',Magnus Holte Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,333793.0,2025-06-15 05:11:26
+13317,735393,15,45387683,76,2,4920,82',0,0,Fillip Botnen (Norway U19) Substitution at 82',Fillip Botnen Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,403023.0,2025-06-15 05:11:26
+13317,735393,16,45387684,76,2,4920,82',0,0,Ethan Wheatley (England U19) Substitution at 82',Ethan Wheatley Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,368547.0,2025-06-15 05:11:26
+13317,735393,16,45387684,76,2,4920,82',0,0,Ethan Wheatley (England U19) Substitution at 82',Ethan Wheatley Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,409541.0,2025-06-15 05:11:26
+13317,735393,16,45387684,76,2,4920,82',0,0,Ethan Wheatley (England U19) Substitution at 82',Ethan Wheatley Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,390633.0,2025-06-15 05:11:26
+13317,735393,15,45387683,76,2,4920,82',0,0,Fillip Botnen (Norway U19) Substitution at 82',Fillip Botnen Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,405548.0,2025-06-15 05:11:26
+13317,735393,17,45387685,76,2,5220,87',0,0,Joseph Johnson (England U19) Substitution at 87',Joseph Johnson Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,200911.0,2025-06-15 05:11:26
+13317,735393,17,45387685,76,2,5220,87',0,0,Joseph Johnson (England U19) Substitution at 87',Joseph Johnson Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,352820.0,2025-06-15 05:11:26
+13317,735394,1,45387723,70,1,2580,43',1,0,Ayoub Oufkir (Netherlands U19) Goal at 43',Ayoub Oufkir Goal,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,389354.0,2025-06-15 05:11:26
+13317,735394,3,45387751,76,2,2700,45',0,0,Kasper Boogaard (Netherlands U19) Substitution at 45',Kasper Boogaard Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,380174.0,2025-06-15 05:11:26
+13317,735394,2,45387728,76,1,2700,45'+4',0,0,Leopold Wurm (Germany U19) Substitution at 49',Leopold Wurm Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,367987.0,2025-06-15 05:11:26
+13317,735394,2,45387728,76,1,2700,45'+4',0,0,Leopold Wurm (Germany U19) Substitution at 49',Leopold Wurm Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,386444.0,2025-06-15 05:11:26
+13317,735394,3,45387751,76,2,2700,45',0,0,Kasper Boogaard (Netherlands U19) Substitution at 45',Kasper Boogaard Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,390072.0,2025-06-15 05:11:26
+13317,735394,4,45387762,76,2,3540,59',0,0,Assan Ouédraogo (Germany U19) Substitution at 59',Assan Ouédraogo Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,364897.0,2025-06-15 05:11:26
+13317,735394,4,45387762,76,2,3540,59',0,0,Assan Ouédraogo (Germany U19) Substitution at 59',Assan Ouédraogo Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,365788.0,2025-06-15 05:11:26
+13317,735394,5,45387765,76,2,3960,66',0,0,Owen Panneflek (Netherlands U19) Substitution at 66',Owen Panneflek Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,394464.0,2025-06-15 05:11:26
+13317,735394,5,45387765,76,2,3960,66',0,0,Owen Panneflek (Netherlands U19) Substitution at 66',Owen Panneflek Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,388327.0,2025-06-15 05:11:26
+13317,735394,6,45387771,76,2,4740,79',0,0,Charles Herrmann (Germany U19) Substitution at 79',Charles Herrmann Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372031.0,2025-06-15 05:11:26
+13317,735394,7,45387772,76,2,4740,79',0,0,Jarzinho Malanga (Germany U19) Substitution at 79',Jarzinho Malanga Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372027.0,2025-06-15 05:11:26
+13317,735394,7,45387772,76,2,4740,79',0,0,Jarzinho Malanga (Germany U19) Substitution at 79',Jarzinho Malanga Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,372036.0,2025-06-15 05:11:26
+13317,735394,6,45387771,76,2,4740,79',0,0,Charles Herrmann (Germany U19) Substitution at 79',Charles Herrmann Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,380795.0,2025-06-15 05:11:26
+13317,735394,8,45387792,76,2,5340,89',0,0,Sven Van Der Plas (Netherlands U19) Substitution at 89',Sven Van Der Plas Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,376843.0,2025-06-15 05:11:26
+13317,735394,8,45387792,76,2,5340,89',0,0,Sven Van Der Plas (Netherlands U19) Substitution at 89',Sven Van Der Plas Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,343924.0,2025-06-15 05:11:26
+13317,735394,11,45387797,70,2,5400,90'+3',1,0,Kees Smit (Netherlands U19) Goal at 93',Kees Smit Goal,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,353365.0,2025-06-16 05:09:24
+13317,735394,9,45387793,70,2,5400,90'+1',1,0,Ayoub Oufkir (Netherlands U19) Goal at 91',Ayoub Oufkir Goal,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,389354.0,2025-06-15 05:11:26
+13317,735394,10,45392777,94,2,5400,90'+2',0,0,Lucas Vennegoor Of Hesselink (Netherlands U19) Yellow Card at 92',Lucas Vennegoor Of Hesselink Yel,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,379839.0,2025-06-16 05:09:24
+13317,735395,1,45397778,70,1,180,3',1,0,Antonio Cordero (Spain U19) Goal at 3',Antonio Cordero Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,375875.0,2025-06-17 05:08:18
+13317,735395,2,45397779,94,1,420,7',0,0,Daniel Muñoz (Spain U19) Yellow Card at 7',Daniel Muñoz Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,146679.0,2025-06-17 05:08:18
+13317,735395,3,45397780,94,1,1380,23',0,0,David Matei (Romania U19) Yellow Card at 23',David Matei Yellow Card,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405527.0,2025-06-17 05:08:18
+13317,735395,4,45397781,76,1,2580,43',0,0,Ionut Cercel (Romania U19) Substitution at 43',Ionut Cercel Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,363251.0,2025-06-17 05:08:18
+13317,735395,4,45397781,76,1,2580,43',0,0,Ionut Cercel (Romania U19) Substitution at 43',Ionut Cercel Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,369874.0,2025-06-17 05:08:18
+13317,735395,5,45397782,94,1,2700,45'+3',0,0,Izan Merino (Spain U19) Yellow Card at 48',Izan Merino Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,371564.0,2025-06-17 05:08:18
+13317,735395,6,45397784,76,2,2700,45',0,0,Remus Gutea (Romania U19) Substitution at 45',Remus Gutea Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,355530.0,2025-06-17 05:08:18
+13317,735395,7,45397785,76,2,2700,45',0,0,David Pacuraru (Romania U19) Substitution at 45',David Pacuraru Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405530.0,2025-06-17 05:08:18
+13317,735395,7,45397785,76,2,2700,45',0,0,David Pacuraru (Romania U19) Substitution at 45',David Pacuraru Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,405527.0,2025-06-17 05:08:18
+13317,735395,6,45397784,76,2,2700,45',0,0,Remus Gutea (Romania U19) Substitution at 45',Remus Gutea Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,379326.0,2025-06-17 05:08:18
+13317,735395,8,45397791,94,2,2880,48',0,0,Luca Szimionas (Romania U19) Yellow Card at 48',Luca Szimionas Yellow Card,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405526.0,2025-06-17 05:08:18
+13317,735395,9,45397792,70,2,2940,49',1,0,Luca Szimionas (Romania U19) Goal at 49',Luca Szimionas Goal,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405526.0,2025-06-17 05:08:18
+13317,735395,10,45397795,94,2,3120,52',0,0,Pablo García (Spain U19) Yellow Card at 52',Pablo García Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,46803.0,2025-06-17 05:08:18
+13317,735395,10,45397795,94,2,3120,52',0,0,Pablo García (Spain U19) Yellow Card at 52',Pablo García Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,412106.0,2025-06-17 05:08:18
+13317,735395,10,45397795,94,2,3120,52',0,0,Pablo García (Spain U19) Yellow Card at 52',Pablo García Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,399278.0,2025-06-17 05:08:18
+13317,735395,10,45397795,94,2,3120,52',0,0,Pablo García (Spain U19) Yellow Card at 52',Pablo García Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388563.0,2025-06-17 05:08:18
+13317,735395,10,45397795,94,2,3120,52',0,0,Pablo García (Spain U19) Yellow Card at 52',Pablo García Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388056.0,2025-06-17 05:08:18
+13317,735395,10,45397795,94,2,3120,52',0,0,Pablo García (Spain U19) Yellow Card at 52',Pablo García Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,375763.0,2025-06-17 05:08:18
+13317,735395,10,45397795,94,2,3120,52',0,0,Pablo García (Spain U19) Yellow Card at 52',Pablo García Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,154513.0,2025-06-17 05:08:18
+13317,735395,11,45397800,76,2,3360,56',0,0,Daniel Díaz (Spain U19) Substitution at 56',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,387496.0,2025-06-17 05:08:18
+13317,735395,11,45397800,76,2,3360,56',0,0,Daniel Díaz (Spain U19) Substitution at 56',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,363029.0,2025-06-17 05:08:18
+13317,735395,11,45397800,76,2,3360,56',0,0,Daniel Díaz (Spain U19) Substitution at 56',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,354986.0,2025-06-17 05:08:18
+13317,735395,12,45397802,76,2,3360,56',0,0,Quim Junyent (Spain U19) Substitution at 56',Quim Junyent Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,376425.0,2025-06-17 05:08:18
+13317,735395,11,45397800,76,2,3360,56',0,0,Daniel Díaz (Spain U19) Substitution at 56',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,46803.0,2025-06-17 05:08:18
+13317,735395,12,45397802,76,2,3360,56',0,0,Quim Junyent (Spain U19) Substitution at 56',Quim Junyent Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,376420.0,2025-06-17 05:08:18
+13317,735395,11,45397800,76,2,3360,56',0,0,Daniel Díaz (Spain U19) Substitution at 56',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,412106.0,2025-06-17 05:08:18
+13317,735395,11,45397800,76,2,3360,56',0,0,Daniel Díaz (Spain U19) Substitution at 56',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,399278.0,2025-06-17 05:08:18
+13317,735395,11,45397800,76,2,3360,56',0,0,Daniel Díaz (Spain U19) Substitution at 56',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388563.0,2025-06-17 05:08:18
+13317,735395,11,45397800,76,2,3360,56',0,0,Daniel Díaz (Spain U19) Substitution at 56',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388056.0,2025-06-17 05:08:18
+13317,735395,11,45397800,76,2,3360,56',0,0,Daniel Díaz (Spain U19) Substitution at 56',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,375763.0,2025-06-17 05:08:18
+13317,735395,11,45397800,76,2,3360,56',0,0,Daniel Díaz (Spain U19) Substitution at 56',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,154513.0,2025-06-17 05:08:18
+13317,735395,13,45397823,94,2,3840,64',0,0,Emanuel-Pavel Marincau (Romania U19) Yellow Card at 64',Emanuel-Pavel Marincau Yellow Ca,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405523.0,2025-06-17 05:08:18
+13317,735395,14,45397831,70,2,4020,67',1,0,Jon Martín (Spain U19) Goal at 67',Jon Martín Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,366885.0,2025-06-17 05:08:18
+13317,735395,15,45397833,76,2,4200,70',0,0,Vlad Danciutiu (Romania U19) Substitution at 70',Vlad Danciutiu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405525.0,2025-06-17 05:08:18
+13317,735395,16,45397834,76,2,4200,70',0,0,Ioan Vermesan (Romania U19) Substitution at 70',Ioan Vermesan Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,334364.0,2025-06-17 05:08:18
+13317,735395,15,45397833,76,2,4200,70',0,0,Vlad Danciutiu (Romania U19) Substitution at 70',Vlad Danciutiu Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,384330.0,2025-06-17 05:08:18
+13317,735395,16,45397834,76,2,4200,70',0,0,Ioan Vermesan (Romania U19) Substitution at 70',Ioan Vermesan Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,405529.0,2025-06-17 05:08:18
+13317,735395,17,45397843,70,2,4380,73',1,0,Jano Monserrate (Spain U19) Goal at 73',Jano Monserrate Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388080.0,2025-06-17 05:08:18
+13317,735395,18,45397849,76,2,4680,78',0,0,Tomás Marqués (Spain U19) Substitution at 78',Tomás Marqués Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,403590.0,2025-06-17 05:08:18
+13317,735395,18,45397849,76,2,4680,78',0,0,Tomás Marqués (Spain U19) Substitution at 78',Tomás Marqués Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388080.0,2025-06-17 05:08:18
+13317,735395,19,45397864,76,2,4980,83',0,0,Jofre Torrents (Spain U19) Substitution at 83',Jofre Torrents Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,403588.0,2025-06-17 05:08:18
+13317,735395,19,45397864,76,2,4980,83',0,0,Jofre Torrents (Spain U19) Substitution at 83',Jofre Torrents Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,146679.0,2025-06-17 05:08:18
+13317,735395,20,45397865,76,2,5040,84',0,0,Gonzalo Pastor (Spain U19) Substitution at 84',Gonzalo Pastor Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,395627.0,2025-06-17 05:08:18
+13317,735395,20,45397865,76,2,5040,84',0,0,Gonzalo Pastor (Spain U19) Substitution at 84',Gonzalo Pastor Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,371564.0,2025-06-17 05:08:18
+13317,735396,1,45397760,70,1,540,9',1,0,Villum Berthelsen (Denmark U19) Goal at 9',Villum Berthelsen Goal,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,401465.0,2025-06-17 05:08:18
+13317,735396,2,45397761,70,1,1920,32',1,0,Mike Themsen (Denmark U19) Goal at 32',Mike Themsen Goal,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,380839.0,2025-06-17 05:08:18
+13317,735396,3,45397762,94,1,2340,39',0,0,Danilo Vukanic (Montenegro U19) Yellow Card at 39',Danilo Vukanic Yellow Card,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,403050.0,2025-06-17 05:08:18
+13317,735396,4,45397763,94,1,2580,43',0,0,Aleksa Karadzic (Montenegro U19) Yellow Card at 43',Aleksa Karadzic Yellow Card,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,405534.0,2025-06-17 05:08:18
+13317,735396,7,45397766,76,2,2700,45',0,0,Tobias Slotsager (Denmark U19) Substitution at 45',Tobias Slotsager Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,341268.0,2025-06-17 05:08:18
+13317,735396,5,45397764,76,2,2700,45',0,0,Nikolaj Juul-Sandberg (Denmark U19) Substitution at 45',Nikolaj Juul-Sandberg Substituti,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,403039.0,2025-06-17 05:08:18
+13317,735396,6,45397765,76,2,2700,45',0,0,Jonathan Agyekum (Denmark U19) Substitution at 45',Jonathan Agyekum Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,405520.0,2025-06-17 05:08:18
+13317,735396,7,45397766,76,2,2700,45',0,0,Tobias Slotsager (Denmark U19) Substitution at 45',Tobias Slotsager Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,383942.0,2025-06-17 05:08:18
+13317,735396,5,45397764,76,2,2700,45',0,0,Nikolaj Juul-Sandberg (Denmark U19) Substitution at 45',Nikolaj Juul-Sandberg Substituti,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,387494.0,2025-06-17 05:08:18
+13317,735396,6,45397765,76,2,2700,45',0,0,Jonathan Agyekum (Denmark U19) Substitution at 45',Jonathan Agyekum Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,345568.0,2025-06-17 05:08:18
+13317,735396,8,45397767,70,2,3120,52',1,0,Mike Themsen (Denmark U19) Goal at 52',Mike Themsen Goal,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,380839.0,2025-06-17 05:08:18
+13317,735396,10,45397769,76,2,3420,57',0,0,Stefan Djukanovic (Montenegro U19) Substitution at 57',Stefan Djukanovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,382569.0,2025-06-17 05:08:18
+13317,735396,9,45397768,76,2,3420,57',0,0,Andrej Kostic (Montenegro U19) Substitution at 57',Andrej Kostic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,382572.0,2025-06-17 05:08:18
+13317,735396,9,45397768,76,2,3420,57',0,0,Andrej Kostic (Montenegro U19) Substitution at 57',Andrej Kostic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,2,403056.0,2025-06-17 05:08:18
+13317,735396,10,45397769,76,2,3420,57',0,0,Stefan Djukanovic (Montenegro U19) Substitution at 57',Stefan Djukanovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,2,403050.0,2025-06-17 05:08:18
+13317,735396,11,45397770,76,2,3480,58',0,0,Danilo Cetkovic (Montenegro U19) Substitution at 58',Danilo Cetkovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,403055.0,2025-06-17 05:08:18
+13317,735396,11,45397770,76,2,3480,58',0,0,Danilo Cetkovic (Montenegro U19) Substitution at 58',Danilo Cetkovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,2,382571.0,2025-06-17 05:08:18
+13317,735396,12,45397771,76,2,3660,61',0,0,Julius Nielsen (Denmark U19) Substitution at 61',Julius Nielsen Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,383963.0,2025-06-17 05:08:18
+13317,735396,12,45397771,76,2,3660,61',0,0,Julius Nielsen (Denmark U19) Substitution at 61',Julius Nielsen Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,387497.0,2025-06-17 05:08:18
+13317,735396,13,45399451,70,2,4080,68',1,0,Jonathan Agyekum (Denmark U19) Goal at 68',Jonathan Agyekum Goal,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,405520.0,2025-06-18 05:00:47
+13317,735396,14,45397774,70,2,4440,74',1,0,Jonathan Agyekum (Denmark U19) Goal at 74',Jonathan Agyekum Goal,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,405520.0,2025-06-18 05:00:47
+13317,735396,15,45397775,76,2,4500,75',0,0,Vuk Vlahovic (Montenegro U19) Substitution at 75',Vuk Vlahovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,403060.0,2025-06-18 05:00:47
+13317,735396,15,45397775,76,2,4500,75',0,0,Vuk Vlahovic (Montenegro U19) Substitution at 75',Vuk Vlahovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,2,387182.0,2025-06-18 05:00:47
+13317,735396,16,45397776,76,2,4680,78',0,0,Mathias Kaarsbo (Denmark U19) Substitution at 78',Mathias Kaarsbo Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,403681.0,2025-06-18 05:00:47
+13317,735396,16,45397776,76,2,4680,78',0,0,Mathias Kaarsbo (Denmark U19) Substitution at 78',Mathias Kaarsbo Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,380839.0,2025-06-18 05:00:47
+13317,735396,17,45397777,76,2,5100,85',0,0,Petar Jaukovic (Montenegro U19) Substitution at 85',Petar Jaukovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,405535.0,2025-06-18 05:00:47
+13317,735396,17,45397777,76,2,5100,85',0,0,Petar Jaukovic (Montenegro U19) Substitution at 85',Petar Jaukovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,2,385627.0,2025-06-18 05:00:47
+13317,735397,1,45399680,70,1,420,7',1,0,Noah Darvich (Germany U19) Goal at 7',Noah Darvich Goal,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372032.0,2025-06-18 05:00:47
+13317,735397,2,45399731,94,1,1500,25',0,0,Winners Osawe (Germany U19) Yellow Card at 25',Winners Osawe Yellow Card,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372036.0,2025-06-18 05:00:47
+13317,735397,3,45399752,70,1,1860,31',1,0,Said El Mala (Germany U19) Goal at 31',Said El Mala Goal,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,380795.0,2025-06-18 05:00:47
+13317,735397,4,45399765,70,1,2100,35',1,0,Josh King (England U19) Goal at 35',Josh King Goal,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,409541.0,2025-06-18 05:00:47
+13317,735397,4,45399765,70,1,2100,35',1,0,Josh King (England U19) Goal at 35',Josh King Goal,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,390633.0,2025-06-18 05:00:47
+13317,735397,5,45399779,70,1,2460,41',1,0,Max Moerstedt (Germany U19) Goal at 41',Max Moerstedt Goal,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372035.0,2025-06-18 05:00:47
+13317,735397,6,45399789,70,1,2640,44',1,0,Leopold Wurm (Germany U19) Goal at 44',Leopold Wurm Goal,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,367987.0,2025-06-18 05:00:47
+13317,735397,7,45399816,76,2,2700,45',0,0,Kadan Young (England U19) Substitution at 45',Kadan Young Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,353195.0,2025-06-18 05:00:47
+13317,735397,7,45399816,76,2,2700,45',0,0,Kadan Young (England U19) Substitution at 45',Kadan Young Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,350501.0,2025-06-18 05:00:47
+13317,735397,8,45399817,70,2,2880,48',1,0,Said El Mala (Germany U19) Goal at 48',Said El Mala Goal,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,380795.0,2025-06-18 05:00:47
+13317,735397,9,45399818,94,2,3060,51',0,0,Said El Mala (Germany U19) Yellow Card at 51',Said El Mala Yellow Card,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,380795.0,2025-06-18 05:00:47
+13317,735397,10,45399819,70,2,3120,52',1,0,Ethan Wheatley (England U19) Goal at 52',Ethan Wheatley Goal,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,368547.0,2025-06-18 05:00:47
+13317,735397,11,45399820,70,2,3300,55',1,0,Reiss-Alexander Russell-Denny (England U19) Goal at 55',Reiss-Alexander Russell-Denny Go,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,372596.0,2025-06-18 05:00:47
+13317,735397,12,45399821,70,2,3600,60',1,0,Zach Abbott (England U19) Goal at 60',Zach Abbott Goal,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,348303.0,2025-06-18 05:00:47
+13317,735397,13,45399822,76,2,3660,61',0,0,Assan Ouédraogo (Germany U19) Substitution at 61',Assan Ouédraogo Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,364897.0,2025-06-18 05:00:47
+13317,735397,13,45399822,76,2,3660,61',0,0,Assan Ouédraogo (Germany U19) Substitution at 61',Assan Ouédraogo Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,372032.0,2025-06-18 05:00:47
+13317,735397,14,45399823,70,2,3780,63',1,0,Jesse Derry (England U19) Goal at 63',Jesse Derry Goal,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,373759.0,2025-06-18 05:00:47
+13317,735397,15,45399824,94,2,3960,66',0,0,Kjell-Arik Wätjen (Germany U19) Yellow Card at 66',Kjell-Arik Wätjen Yellow Card,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,365788.0,2025-06-18 05:00:47
+13317,735397,16,45399825,94,2,4080,68',0,0,Josh King (England U19) Yellow Card at 68',Josh King Yellow Card,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,409541.0,2025-06-18 05:00:47
+13317,735397,16,45399825,94,2,4080,68',0,0,Josh King (England U19) Yellow Card at 68',Josh King Yellow Card,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,390633.0,2025-06-18 05:00:47
+13317,735397,17,45399826,76,2,4500,75',0,0,Charles Herrmann (Germany U19) Substitution at 75',Charles Herrmann Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372031.0,2025-06-18 05:00:47
+13317,735397,17,45399826,76,2,4500,75',0,0,Charles Herrmann (Germany U19) Substitution at 75',Charles Herrmann Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,380795.0,2025-06-18 05:00:47
+13317,735397,19,45399828,76,2,4620,77',0,0,Shim Mheuka (England U19) Substitution at 77',Shim Mheuka Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,372013.0,2025-06-18 05:00:47
+13317,735397,18,45399827,76,2,4620,77',0,0,Tom Watson (England U19) Substitution at 77',Tom Watson Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,403702.0,2025-06-18 05:00:47
+13317,735397,18,45399827,76,2,4620,77',0,0,Tom Watson (England U19) Substitution at 77',Tom Watson Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,356957.0,2025-06-18 05:00:47
+13317,735397,19,45399828,76,2,4620,77',0,0,Shim Mheuka (England U19) Substitution at 77',Shim Mheuka Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,409541.0,2025-06-18 05:00:47
+13317,735397,19,45399828,76,2,4620,77',0,0,Shim Mheuka (England U19) Substitution at 77',Shim Mheuka Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,390633.0,2025-06-18 05:00:47
+13317,735397,18,45399827,76,2,4620,77',0,0,Tom Watson (England U19) Substitution at 77',Tom Watson Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,373759.0,2025-06-18 05:00:47
+13317,735397,20,45399829,94,2,4860,81',0,0,Tom Watson (England U19) Yellow Card at 81',Tom Watson Yellow Card,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,403702.0,2025-06-18 05:00:47
+13317,735397,20,45399829,94,2,4860,81',0,0,Tom Watson (England U19) Yellow Card at 81',Tom Watson Yellow Card,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,356957.0,2025-06-18 05:00:47
+13317,735397,21,45399830,76,2,5100,85',0,0,Mateo Kritzer (Germany U19) Substitution at 85',Mateo Kritzer Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,381470.0,2025-06-18 05:00:47
+13317,735397,21,45399830,76,2,5100,85',0,0,Mateo Kritzer (Germany U19) Substitution at 85',Mateo Kritzer Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,365788.0,2025-06-18 05:00:47
+13317,735397,22,45399831,76,2,5340,89',0,0,Harrison Murray-Campbell (England U19) Substitution at 89',Harrison Murray-Campbell Substit,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,355866.0,2025-06-18 05:00:47
+13317,735397,23,45399832,76,2,5340,89',0,0,Justin Oboavwoduo (England U19) Substitution at 89',Justin Oboavwoduo Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,349101.0,2025-06-18 05:00:47
+13317,735397,22,45399831,76,2,5340,89',0,0,Harrison Murray-Campbell (England U19) Substitution at 89',Harrison Murray-Campbell Substit,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,372596.0,2025-06-18 05:00:47
+13317,735397,23,45399832,76,2,5340,89',0,0,Justin Oboavwoduo (England U19) Substitution at 89',Justin Oboavwoduo Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,348303.0,2025-06-18 05:00:47
+13317,735398,1,45399453,76,2,2700,45',0,0,Magnus Holte (Norway U19) Substitution at 45',Magnus Holte Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,350606.0,2025-06-18 05:00:47
+13317,735398,2,45399454,76,2,2700,45',0,0,Lars Remmem (Norway U19) Substitution at 45',Lars Remmem Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,383883.0,2025-06-18 05:00:47
+13317,735398,2,45399454,76,2,2700,45',0,0,Lars Remmem (Norway U19) Substitution at 45',Lars Remmem Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,399710.0,2025-06-18 05:00:47
+13317,735398,1,45399453,76,2,2700,45',0,0,Magnus Holte (Norway U19) Substitution at 45',Magnus Holte Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,333793.0,2025-06-18 05:00:47
+13317,735398,3,45399455,94,2,3300,55',0,0,Sondre Granaas (Norway U19) Yellow Card at 55',Sondre Granaas Yellow Card,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,379152.0,2025-06-18 05:00:47
+13317,735398,4,45399456,76,2,3480,58',0,0,Jesper Reitan- Sunde (Norway U19) Substitution at 58',Jesper Reitan- Sunde Substitutio,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-06-18 05:00:47
+13317,735398,4,45399456,76,2,3480,58',0,0,Jesper Reitan- Sunde (Norway U19) Substitution at 58',Jesper Reitan- Sunde Substitutio,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,384471.0,2025-06-18 05:00:47
+13317,735398,5,45399457,76,2,3540,59',0,0,Mathias Øren (Norway U19) Substitution at 59',Mathias Øren Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,405548.0,2025-06-18 05:00:47
+13317,735398,5,45399457,76,2,3540,59',0,0,Mathias Øren (Norway U19) Substitution at 59',Mathias Øren Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,384500.0,2025-06-18 05:00:47
+13317,735398,6,45399458,70,2,3900,65',1,0,Kees Smit (Netherlands U19) Goal at 65',Kees Smit Goal,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,353365.0,2025-06-18 05:00:47
+13317,735398,7,45399459,76,2,4260,71',0,0,Mats Rots (Netherlands U19) Substitution at 71',Mats Rots Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,359744.0,2025-06-18 05:00:47
+13317,735398,7,45399459,76,2,4260,71',0,0,Mats Rots (Netherlands U19) Substitution at 71',Mats Rots Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,337084.0,2025-06-18 05:00:47
+13317,735398,8,45399460,76,2,4680,78',0,0,Kasper Boogaard (Netherlands U19) Substitution at 78',Kasper Boogaard Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,380174.0,2025-06-18 05:00:47
+13317,735398,8,45399460,76,2,4680,78',0,0,Kasper Boogaard (Netherlands U19) Substitution at 78',Kasper Boogaard Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,390072.0,2025-06-18 05:00:47
+13317,735398,9,45399461,76,2,4740,79',0,0,Niklas Fuglestad (Norway U19) Substitution at 79',Niklas Fuglestad Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,386923.0,2025-06-18 05:00:47
+13317,735398,10,45399462,76,2,4740,79',0,0,Owen Panneflek (Netherlands U19) Substitution at 79',Owen Panneflek Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,394464.0,2025-06-18 05:00:47
+13317,735398,10,45399462,76,2,4740,79',0,0,Owen Panneflek (Netherlands U19) Substitution at 79',Owen Panneflek Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,388327.0,2025-06-18 05:00:47
+13317,735398,9,45399461,76,2,4740,79',0,0,Niklas Fuglestad (Norway U19) Substitution at 79',Niklas Fuglestad Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,405551.0,2025-06-18 05:00:47
+13317,735398,11,45399463,70,2,4980,83',1,0,Don-Angelo Konadu (Netherlands U19) Goal at 83',Don-Angelo Konadu Goal,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,386841.0,2025-06-18 05:00:47
+13317,735398,12,45399464,76,2,5220,87',0,0,Sven Van Der Plas (Netherlands U19) Substitution at 87',Sven Van Der Plas Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,376843.0,2025-06-18 05:00:47
+13317,735398,12,45399464,76,2,5220,87',0,0,Sven Van Der Plas (Netherlands U19) Substitution at 87',Sven Van Der Plas Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,343924.0,2025-06-18 05:00:47
+13317,735399,1,45402709,70,1,2040,34',1,0,Remus Gutea (Romania U19) Goal at 34',Remus Gutea Goal,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,355530.0,2025-06-20 04:58:55
+13317,735399,2,45402713,94,1,2700,45'+1',0,0,Mike Themsen (Denmark U19) Yellow Card at 46',Mike Themsen Yellow Card,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,380839.0,2025-06-20 04:58:55
+13317,735399,3,45402716,76,2,2700,45',0,0,Laurits Pedersen (Denmark U19) Substitution at 45',Laurits Pedersen Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,362071.0,2025-06-20 04:58:55
+13317,735399,3,45402716,76,2,2700,45',0,0,Laurits Pedersen (Denmark U19) Substitution at 45',Laurits Pedersen Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,401465.0,2025-06-20 04:58:55
+13317,735399,4,45402718,94,2,3060,51',0,0,Ionut Cercel (Romania U19) Yellow Card at 51',Ionut Cercel Yellow Card,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,363251.0,2025-06-20 04:58:55
+13317,735399,5,45402720,94,2,3240,54',0,0,David Barbu (Romania U19) Yellow Card at 54',David Barbu Yellow Card,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,384330.0,2025-06-20 04:58:55
+13317,735399,6,45402721,94,2,3360,56',0,0,Tobias Slotsager (Denmark U19) Yellow Card at 56',Tobias Slotsager Yellow Card,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,341268.0,2025-06-20 04:58:55
+13317,735399,7,45402730,70,2,3480,58',1,0,David Barbu (Romania U19) Goal at 58',David Barbu Goal,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,384330.0,2025-06-20 04:58:55
+13317,735399,8,45402740,76,2,3660,61',0,0,Luka Callo (Denmark U19) Substitution at 61',Luka Callo Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,383942.0,2025-06-20 04:58:55
+13317,735399,8,45402740,76,2,3660,61',0,0,Luka Callo (Denmark U19) Substitution at 61',Luka Callo Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,341268.0,2025-06-20 04:58:55
+13317,735399,9,45402741,76,2,3720,62',0,0,Olti Hyseni (Denmark U19) Substitution at 62',Olti Hyseni Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,386359.0,2025-06-20 04:58:55
+13317,735399,10,45402745,76,2,3720,62',0,0,Nikolaj Juul-Sandberg (Denmark U19) Substitution at 62',Nikolaj Juul-Sandberg Substituti,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,403039.0,2025-06-20 04:58:55
+13317,735399,10,45402745,76,2,3720,62',0,0,Nikolaj Juul-Sandberg (Denmark U19) Substitution at 62',Nikolaj Juul-Sandberg Substituti,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,387497.0,2025-06-20 04:58:55
+13317,735399,9,45402741,76,2,3720,62',0,0,Olti Hyseni (Denmark U19) Substitution at 62',Olti Hyseni Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,405520.0,2025-06-20 04:58:55
+13317,735399,11,45402746,76,2,3780,63',0,0,Mario Baraitaru (Romania U19) Substitution at 63',Mario Baraitaru Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405531.0,2025-06-20 04:58:55
+13317,735399,11,45402746,76,2,3780,63',0,0,Mario Baraitaru (Romania U19) Substitution at 63',Mario Baraitaru Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,363251.0,2025-06-20 04:58:55
+13317,735399,12,45402750,94,2,3840,64',0,0,Laurits Pedersen (Denmark U19) Yellow Card at 64',Laurits Pedersen Yellow Card,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,362071.0,2025-06-20 04:58:55
+13317,735399,13,45402769,76,2,4260,71',0,0,Jason Kodor (Romania U19) Substitution at 71',Jason Kodor Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405529.0,2025-06-20 04:58:55
+13317,735399,14,45402770,76,2,4260,71',0,0,Ianis Tarba (Romania U19) Substitution at 71',Ianis Tarba Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405522.0,2025-06-20 04:58:55
+13317,735399,15,45402771,76,2,4260,71',0,0,Raul Marita (Romania U19) Substitution at 71',Raul Marita Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405524.0,2025-06-20 04:58:55
+13317,735399,13,45402769,76,2,4260,71',0,0,Jason Kodor (Romania U19) Substitution at 71',Jason Kodor Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,384330.0,2025-06-20 04:58:55
+13317,735399,15,45402771,76,2,4260,71',0,0,Raul Marita (Romania U19) Substitution at 71',Raul Marita Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,355530.0,2025-06-20 04:58:55
+13317,735399,14,45402770,76,2,4260,71',0,0,Ianis Tarba (Romania U19) Substitution at 71',Ianis Tarba Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,405530.0,2025-06-20 04:58:55
+13317,735399,16,45402778,94,2,4500,75',0,0,Ioan Vermesan (Romania U19) Yellow Card at 75',Ioan Vermesan Yellow Card,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,334364.0,2025-06-20 04:58:55
+13317,735399,17,45402781,70,2,4620,77',1,0,Ioan Vermesan (Romania U19) Goal at 77',Ioan Vermesan Goal,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,334364.0,2025-06-20 04:58:55
+13317,735399,18,45402782,76,2,4680,78',0,0,Julius Berthel Askou (Denmark U19) Substitution at 78',Julius Berthel Askou Substitutio,22257,0.0,0.0,0.0,0.0,0.0,0.0,1,405519.0,2025-06-20 04:58:55
+13317,735399,18,45402782,76,2,4680,78',0,0,Julius Berthel Askou (Denmark U19) Substitution at 78',Julius Berthel Askou Substitutio,22257,0.0,0.0,0.0,0.0,0.0,0.0,2,387494.0,2025-06-20 04:58:55
+13317,735399,19,45402788,76,2,4800,80',0,0,Matei Marin (Romania U19) Substitution at 80',Matei Marin Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,1,405528.0,2025-06-20 04:58:55
+13317,735399,19,45402788,76,2,4800,80',0,0,Matei Marin (Romania U19) Substitution at 80',Matei Marin Substitution,11690,0.0,0.0,0.0,0.0,0.0,0.0,2,405526.0,2025-06-20 04:58:55
+13317,735400,1,45402694,70,1,840,14',1,0,Quim Junyent (Spain U19) Goal at 14',Quim Junyent Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,376425.0,2025-06-20 04:58:55
+13317,735400,2,45402695,70,1,960,16',1,0,Jan Virgili (Spain U19) Goal at 16',Jan Virgili Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,403592.0,2025-06-20 04:58:55
+13317,735400,3,45402708,70,1,1620,27',1,0,Quim Junyent (Spain U19) Goal at 27',Quim Junyent Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,376425.0,2025-06-20 04:58:55
+13317,735400,4,45402710,70,1,2100,35',1,0,Peio Huestamendia (Spain U19) Goal at 35',Peio Huestamendia Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,376420.0,2025-06-20 04:58:55
+13317,735400,5,45402711,94,1,2400,40',0,0,Danilo Cetkovic (Montenegro U19) Yellow Card at 40',Danilo Cetkovic Yellow Card,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,403055.0,2025-06-20 04:58:55
+13317,735400,7,45402714,76,2,2700,45',0,0,Tomas Djurovic (Montenegro U19) Substitution at 45',Tomas Djurovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,405533.0,2025-06-20 04:58:55
+13317,735400,6,45402712,94,1,2700,45',0,0,Andrés Cuenca (Spain U19) Yellow Card at 45',Andrés Cuenca Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,376421.0,2025-06-20 04:58:55
+13317,735400,8,45402715,76,2,2700,45',0,0,Daniel Muñoz (Spain U19) Substitution at 45',Daniel Muñoz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,146679.0,2025-06-20 04:58:55
+13317,735400,9,45402717,76,2,2700,45',0,0,Alexis Olmedo (Spain U19) Substitution at 45',Alexis Olmedo Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388287.0,2025-06-20 04:58:55
+13317,735400,8,45402715,76,2,2700,45',0,0,Daniel Muñoz (Spain U19) Substitution at 45',Daniel Muñoz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,376421.0,2025-06-20 04:58:55
+13317,735400,7,45402714,76,2,2700,45',0,0,Tomas Djurovic (Montenegro U19) Substitution at 45',Tomas Djurovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,2,403044.0,2025-06-20 04:58:55
+13317,735400,9,45402717,76,2,2700,45',0,0,Alexis Olmedo (Spain U19) Substitution at 45',Alexis Olmedo Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,366885.0,2025-06-20 04:58:55
+13317,735400,10,45402719,76,2,3180,53',0,0,Stefan Djukanovic (Montenegro U19) Substitution at 53',Stefan Djukanovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,382569.0,2025-06-20 04:58:55
+13317,735400,10,45402719,76,2,3180,53',0,0,Stefan Djukanovic (Montenegro U19) Substitution at 53',Stefan Djukanovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,2,382571.0,2025-06-20 04:58:55
+13317,735400,11,45402747,76,2,3780,63',0,0,Daniel Díaz (Spain U19) Substitution at 63',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,387496.0,2025-06-20 04:58:55
+13317,735400,11,45402747,76,2,3780,63',0,0,Daniel Díaz (Spain U19) Substitution at 63',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,363029.0,2025-06-20 04:58:55
+13317,735400,11,45402747,76,2,3780,63',0,0,Daniel Díaz (Spain U19) Substitution at 63',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,354986.0,2025-06-20 04:58:55
+13317,735400,11,45402747,76,2,3780,63',0,0,Daniel Díaz (Spain U19) Substitution at 63',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,46803.0,2025-06-20 04:58:55
+13317,735400,11,45402747,76,2,3780,63',0,0,Daniel Díaz (Spain U19) Substitution at 63',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,412106.0,2025-06-20 04:58:55
+13317,735400,11,45402747,76,2,3780,63',0,0,Daniel Díaz (Spain U19) Substitution at 63',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,399278.0,2025-06-20 04:58:55
+13317,735400,11,45402747,76,2,3780,63',0,0,Daniel Díaz (Spain U19) Substitution at 63',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388563.0,2025-06-20 04:58:55
+13317,735400,11,45402747,76,2,3780,63',0,0,Daniel Díaz (Spain U19) Substitution at 63',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,388056.0,2025-06-20 04:58:55
+13317,735400,11,45402747,76,2,3780,63',0,0,Daniel Díaz (Spain U19) Substitution at 63',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,375763.0,2025-06-20 04:58:55
+13317,735400,11,45402747,76,2,3780,63',0,0,Daniel Díaz (Spain U19) Substitution at 63',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,154513.0,2025-06-20 04:58:55
+13317,735400,12,45402752,70,2,3900,65',1,0,Quim Junyent (Spain U19) Goal at 65',Quim Junyent Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,376425.0,2025-06-20 04:58:55
+13317,735400,13,45402755,76,2,3960,66',0,0,Andrej Kostic (Montenegro U19) Substitution at 66',Andrej Kostic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,382572.0,2025-06-20 04:58:55
+13317,735400,14,45402756,76,2,3960,66',0,0,Petar Jaukovic (Montenegro U19) Substitution at 66',Petar Jaukovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,405535.0,2025-06-20 04:58:55
+13317,735400,14,45402756,76,2,3960,66',0,0,Petar Jaukovic (Montenegro U19) Substitution at 66',Petar Jaukovic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,2,403060.0,2025-06-20 04:58:55
+13317,735400,13,45402755,76,2,3960,66',0,0,Andrej Kostic (Montenegro U19) Substitution at 66',Andrej Kostic Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,2,403050.0,2025-06-20 04:58:55
+13317,735400,15,45402796,76,2,4980,83',0,0,Jano Monserrate (Spain U19) Substitution at 83',Jano Monserrate Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,388080.0,2025-06-20 04:58:55
+13317,735400,16,45402797,76,2,4980,83',0,0,Antonio Cordero (Spain U19) Substitution at 83',Antonio Cordero Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1,375875.0,2025-06-20 04:58:55
+13317,735400,15,45402796,76,2,4980,83',0,0,Jano Monserrate (Spain U19) Substitution at 83',Jano Monserrate Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,363216.0,2025-06-20 04:58:55
+13317,735400,16,45402797,76,2,4980,83',0,0,Antonio Cordero (Spain U19) Substitution at 83',Antonio Cordero Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2,376425.0,2025-06-20 04:58:55
+13317,735400,17,45402811,76,2,5280,88',0,0,Lazar Zlaticanin (Montenegro U19) Substitution at 88',Lazar Zlaticanin Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,1,403058.0,2025-06-20 04:58:55
+13317,735400,17,45402811,76,2,5280,88',0,0,Lazar Zlaticanin (Montenegro U19) Substitution at 88',Lazar Zlaticanin Substitution,130876,0.0,0.0,0.0,0.0,0.0,0.0,2,385627.0,2025-06-20 04:58:55
+13317,735401,1,45404577,70,1,1320,22',1,0,Kees Smit (Netherlands U19) Goal at 22',Kees Smit Goal,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,353365.0,2025-06-21 04:53:21
+13317,735401,2,45404578,70,1,2100,35',1,0,Zepiqueno Redmond (Netherlands U19) Goal at 35',Zepiqueno Redmond Goal,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,343200.0,2025-06-21 04:53:21
+13317,735401,3,45404579,70,1,2520,42',1,0,Lucas Vennegoor Of Hesselink (Netherlands U19) Goal at 42',Lucas Vennegoor Of Hesselink Goa,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,379839.0,2025-06-21 04:53:21
+13317,735401,4,45404580,94,1,2580,43',0,0,Shane Van Aarle (Netherlands U19) Yellow Card at 43',Shane Van Aarle Yellow Card,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,379549.0,2025-06-21 04:53:21
+13317,735401,5,45404603,70,2,3120,52',1,0,Ethan Wheatley (England U19) Goal at 52',Ethan Wheatley Goal,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,368547.0,2025-06-21 04:53:21
+13317,735401,6,45404622,94,2,3720,62',0,0,Tygo Land (Netherlands U19) Yellow Card at 62',Tygo Land Yellow Card,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,355957.0,2025-06-21 04:53:21
+13317,735401,7,45404623,76,2,3900,65',0,0,Ayoub Oufkir (Netherlands U19) Substitution at 65',Ayoub Oufkir Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,389354.0,2025-06-21 04:53:21
+13317,735401,8,45404627,76,2,3900,65',0,0,Tim Braem (Netherlands U19) Substitution at 65',Tim Braem Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,388556.0,2025-06-21 04:53:21
+13317,735401,9,45404628,76,2,3900,65',0,0,Sven Van Der Plas (Netherlands U19) Substitution at 65',Sven Van Der Plas Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,376843.0,2025-06-21 04:53:21
+13317,735401,9,45404628,76,2,3900,65',0,0,Sven Van Der Plas (Netherlands U19) Substitution at 65',Sven Van Der Plas Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,380940.0,2025-06-21 04:53:21
+13317,735401,7,45404623,76,2,3900,65',0,0,Ayoub Oufkir (Netherlands U19) Substitution at 65',Ayoub Oufkir Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,353365.0,2025-06-21 04:53:21
+13317,735401,8,45404627,76,2,3900,65',0,0,Tim Braem (Netherlands U19) Substitution at 65',Tim Braem Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,355957.0,2025-06-21 04:53:21
+13317,735401,10,45404629,76,2,3960,66',0,0,Elijah Dijkstra (Netherlands U19) Substitution at 66',Elijah Dijkstra Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,343924.0,2025-06-21 04:53:21
+13317,735401,10,45404629,76,2,3960,66',0,0,Elijah Dijkstra (Netherlands U19) Substitution at 66',Elijah Dijkstra Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,337084.0,2025-06-21 04:53:21
+13317,735401,11,45404642,70,2,4140,69',1,0,Zepiqueno Redmond (Netherlands U19) Goal at 69',Zepiqueno Redmond Goal,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,343200.0,2025-06-21 04:53:21
+13317,735401,12,45404656,94,2,4560,76',0,0,Kadan Young (England U19) Yellow Card at 76',Kadan Young Yellow Card,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,353195.0,2025-06-21 04:53:21
+13317,735401,13,45404657,76,2,4620,77',0,0,Dies Janse (Netherlands U19) Substitution at 77',Dies Janse Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,1,368818.0,2025-06-21 04:53:21
+13317,735401,14,45404658,76,2,4620,77',0,0,Jesse Derry (England U19) Substitution at 77',Jesse Derry Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,373759.0,2025-06-21 04:53:21
+13317,735401,14,45404658,76,2,4620,77',0,0,Jesse Derry (England U19) Substitution at 77',Jesse Derry Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,403702.0,2025-06-21 04:53:21
+13317,735401,14,45404658,76,2,4620,77',0,0,Jesse Derry (England U19) Substitution at 77',Jesse Derry Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,356957.0,2025-06-21 04:53:21
+13317,735401,13,45404657,76,2,4620,77',0,0,Dies Janse (Netherlands U19) Substitution at 77',Dies Janse Substitution,18304,0.0,0.0,0.0,0.0,0.0,0.0,2,379549.0,2025-06-21 04:53:21
+13317,735401,15,45404672,76,2,5040,84',0,0,Justin Oboavwoduo (England U19) Substitution at 84',Justin Oboavwoduo Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,349101.0,2025-06-21 04:53:21
+13317,735401,15,45404672,76,2,5040,84',0,0,Justin Oboavwoduo (England U19) Substitution at 84',Justin Oboavwoduo Substitution,9777,0.0,0.0,0.0,0.0,0.0,0.0,2,368547.0,2025-06-21 04:53:21
+13317,735401,16,45404700,70,2,5400,90'+3',1,0,Jesse Derry (England U19) Goal at 93',Jesse Derry Goal,9777,0.0,0.0,0.0,0.0,0.0,0.0,1,373759.0,2025-06-21 04:53:21
+13317,735402,1,45404576,94,1,1140,19',0,0,Almugera Kabar (Germany U19) Yellow Card at 19',Almugera Kabar Yellow Card,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372034.0,2025-06-21 04:53:21
+13317,735402,2,45404581,94,1,2700,45'+1',0,0,Leopold Wurm (Germany U19) Yellow Card at 46',Leopold Wurm Yellow Card,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,367987.0,2025-06-21 04:53:21
+13317,735402,3,45404587,76,2,2700,45',0,0,Mikkel Hope (Norway U19) Substitution at 45',Mikkel Hope Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,359501.0,2025-06-21 04:53:21
+13317,735402,3,45404587,76,2,2700,45',0,0,Mikkel Hope (Norway U19) Substitution at 45',Mikkel Hope Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,405549.0,2025-06-21 04:53:21
+13317,735402,4,45404609,94,2,3300,55',0,0,Jesper Reitan- Sunde (Norway U19) Yellow Card at 55',Jesper Reitan- Sunde Yellow Card,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-06-21 04:53:21
+13317,735402,5,45404610,76,2,3420,57',0,0,Mateo Kritzer (Germany U19) Substitution at 57',Mateo Kritzer Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,381470.0,2025-06-21 04:53:21
+13317,735402,5,45404610,76,2,3420,57',0,0,Mateo Kritzer (Germany U19) Substitution at 57',Mateo Kritzer Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,365788.0,2025-06-21 04:53:21
+13317,735402,6,45404638,76,2,4080,68',0,0,Troy Nyhammer (Norway U19) Substitution at 68',Troy Nyhammer Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,354800.0,2025-06-21 04:53:21
+13317,735402,6,45404638,76,2,4080,68',0,0,Troy Nyhammer (Norway U19) Substitution at 68',Troy Nyhammer Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-06-21 04:53:21
+13317,735402,7,45404647,76,2,4260,71',0,0,Robert Ramsak (Germany U19) Substitution at 71',Robert Ramsak Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372038.0,2025-06-21 04:53:21
+13317,735402,7,45404647,76,2,4260,71',0,0,Robert Ramsak (Germany U19) Substitution at 71',Robert Ramsak Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,372027.0,2025-06-21 04:53:21
+13317,735402,8,45404650,70,2,4320,72',1,0,Sondre Granaas (Norway U19) Goal at 72',Sondre Granaas Goal,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,379152.0,2025-06-21 04:53:21
+13317,735402,9,45404703,94,2,4620,77',0,0,Fillip Botnen (Norway U19) Yellow Card at 77',Fillip Botnen Yellow Card,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,403023.0,2025-06-21 04:53:21
+13317,735402,11,45404663,76,2,4740,79',0,0,Maximilian Hennig (Germany U19) Substitution at 79',Maximilian Hennig Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,372030.0,2025-06-21 04:53:21
+13317,735402,10,45404662,76,2,4740,79',0,0,Luca Høyland (Norway U19) Substitution at 79',Luca Høyland Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,405551.0,2025-06-21 04:53:21
+13317,735402,12,45404664,76,2,4740,79',0,0,Assan Ouédraogo (Germany U19) Substitution at 79',Assan Ouédraogo Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,364897.0,2025-06-21 04:53:21
+13317,735402,10,45404662,76,2,4740,79',0,0,Luca Høyland (Norway U19) Substitution at 79',Luca Høyland Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,405550.0,2025-06-21 04:53:21
+13317,735402,12,45404664,76,2,4740,79',0,0,Assan Ouédraogo (Germany U19) Substitution at 79',Assan Ouédraogo Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,372034.0,2025-06-21 04:53:21
+13317,735402,11,45404663,76,2,4740,79',0,0,Maximilian Hennig (Germany U19) Substitution at 79',Maximilian Hennig Substitution,18305,0.0,0.0,0.0,0.0,0.0,0.0,2,376559.0,2025-06-21 04:53:21
+13317,735402,13,45404668,70,2,5100,85',1,0,Assan Ouédraogo (Germany U19) Goal at 85',Assan Ouédraogo Goal,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,364897.0,2025-06-21 04:53:21
+13317,735402,14,45404677,76,2,5220,87',0,0,William Osnes-Ringen (Norway U19) Substitution at 87',William Osnes-Ringen Substitutio,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,380622.0,2025-06-21 04:53:21
+13317,735402,15,45404681,76,2,5220,87',0,0,Niklas Fuglestad (Norway U19) Substitution at 87',Niklas Fuglestad Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,386923.0,2025-06-21 04:53:21
+13317,735402,15,45404681,76,2,5220,87',0,0,Niklas Fuglestad (Norway U19) Substitution at 87',Niklas Fuglestad Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,384471.0,2025-06-21 04:53:21
+13317,735402,14,45404677,76,2,5220,87',0,0,William Osnes-Ringen (Norway U19) Substitution at 87',William Osnes-Ringen Substitutio,19232,0.0,0.0,0.0,0.0,0.0,0.0,2,383883.0,2025-06-21 04:53:21
+13317,735402,16,45404689,94,2,5340,89',0,0,Niklas Fuglestad (Norway U19) Yellow Card at 89',Niklas Fuglestad Yellow Card,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,386923.0,2025-06-21 04:53:21
+13317,735402,19,45404702,94,2,5400,90'+2',0,0,Kjell-Arik Wätjen (Germany U19) Yellow Card at 92',Kjell-Arik Wätjen Yellow Card,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,365788.0,2025-06-21 04:53:21
+13317,735402,20,45405012,94,2,5400,90'+6',0,0,Jonathan Norbye (Norway U19) Yellow Card at 96',Jonathan Norbye Yellow Card,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,384500.0,2025-06-21 04:53:21
+13317,735402,18,45404701,94,2,5400,90'+2',0,0,Maximilian Herwerth (Germany U19) Yellow Card at 92',Maximilian Herwerth Yellow Card,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,376559.0,2025-06-21 04:53:21
+13317,735402,21,45405013,94,2,5400,90'+6',0,0,Sondre Granaas (Norway U19) Yellow Card at 96',Sondre Granaas Yellow Card,19232,0.0,0.0,0.0,0.0,0.0,0.0,1,379152.0,2025-06-21 04:53:21
+13317,735402,17,45404695,70,2,5400,90'+1',1,0,Said El Mala (Germany U19) Goal at 91',Said El Mala Goal,18305,0.0,0.0,0.0,0.0,0.0,0.0,1,380795.0,2025-06-21 04:53:21

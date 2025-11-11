@@ -1,0 +1,920 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13495,742157,1,45558201,94,1,720,12',0,0,Arron Darge (Cove Rangers) Yellow Card at 12',Arron Darge Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,290709.0,2025-08-03 04:42:04
+13495,742157,2,45558220,70,1,1140,19',1,0,Kurtis Guthrie (Queen of the South) Goal at 19',Kurtis Guthrie Goal,406,0.0,0.0,0.0,0.0,0.0,0.0,1,164474.0,2025-08-03 04:42:04
+13495,742157,3,45558367,94,1,2340,39',0,0,Liam Parker (Cove Rangers) Yellow Card at 39',Liam Parker Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,324849.0,2025-08-03 04:42:04
+13495,742157,4,45558368,94,1,2460,41',0,0,Kai Kennedy (Queen of the South) Yellow Card at 41',Kai Kennedy Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,277529.0,2025-08-03 04:42:04
+13495,742157,5,45558680,76,2,2700,45',0,0,David Eguaibor (Cove Rangers) Substitution at 45',David Eguaibor Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,406313.0,2025-08-03 04:42:04
+13495,742157,5,45558680,76,2,2700,45',0,0,David Eguaibor (Cove Rangers) Substitution at 45',David Eguaibor Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,139657.0,2025-08-03 04:42:04
+13495,742157,6,45558890,94,2,3300,55',0,0,Blair Yule (Cove Rangers) Yellow Card at 55',Blair Yule Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,153146.0,2025-08-03 04:42:04
+13495,742157,7,45559223,94,2,4080,68',0,0,Ross Stewart (Queen of the South) Yellow Card at 68',Ross Stewart Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,67802.0,2025-08-03 04:42:04
+13495,742157,7,45559223,94,2,4080,68',0,0,Ross Stewart (Queen of the South) Yellow Card at 68',Ross Stewart Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,251936.0,2025-08-03 04:42:04
+13495,742157,8,45559335,76,2,4440,74',0,0,Niall Rogerson (Queen of the South) Substitution at 74',Niall Rogerson Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,379182.0,2025-08-03 04:42:04
+13495,742157,8,45559335,76,2,4440,74',0,0,Niall Rogerson (Queen of the South) Substitution at 74',Niall Rogerson Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,388665.0,2025-08-03 04:42:04
+13495,742157,9,45559509,76,2,4800,80',0,0,Jack Stott (Queen of the South) Substitution at 80',Jack Stott Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,144432.0,2025-08-03 04:42:04
+13495,742157,9,45559509,76,2,4800,80',0,0,Jack Stott (Queen of the South) Substitution at 80',Jack Stott Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,292911.0,2025-08-03 04:42:04
+13495,742157,10,45559528,70,2,4860,81',1,0,Kai Kennedy (Queen of the South) Goal at 81',Kai Kennedy Goal,406,0.0,0.0,0.0,0.0,0.0,0.0,1,277529.0,2025-08-03 04:42:04
+13495,742157,11,45559609,94,2,4980,83',0,0,Michael Doyle (Cove Rangers) Yellow Card at 83',Michael Doyle Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,14666.0,2025-08-03 04:42:04
+13495,742157,11,45559609,94,2,4980,83',0,0,Michael Doyle (Cove Rangers) Yellow Card at 83',Michael Doyle Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,197106.0,2025-08-03 04:42:04
+13495,742157,12,45559702,94,2,5220,87',0,0,Layton Bisland (Cove Rangers) Yellow Card at 87',Layton Bisland Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,317304.0,2025-08-03 04:42:04
+13495,742157,14,45559797,76,2,5400,90'+1',0,0,Michael Hewitt (Queen of the South) Substitution at 91',Michael Hewitt Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,271185.0,2025-08-03 04:42:04
+13495,742157,13,45559771,76,2,5400,90'+1',0,0,Kemo Darboe (Queen of the South) Substitution at 91',Kemo Darboe Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,193758.0,2025-08-03 04:42:04
+13495,742157,13,45559771,76,2,5400,90'+1',0,0,Kemo Darboe (Queen of the South) Substitution at 91',Kemo Darboe Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,277529.0,2025-08-03 04:42:04
+13495,742157,14,45559797,76,2,5400,90'+1',0,0,Michael Hewitt (Queen of the South) Substitution at 91',Michael Hewitt Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,164474.0,2025-08-03 04:42:04
+13495,742158,1,45558430,70,1,2700,45'+1',1,0,Oliver Shaw (Hamilton Academical) Goal at 46',Oliver Shaw Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,223407.0,2025-08-03 04:42:04
+13495,742158,2,45559040,70,2,3720,62',1,0,Trialist C (Hamilton Academical) Goal at 62',Trialist C Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,276210.0,2025-08-03 04:42:04
+13495,742158,4,45559176,76,2,4020,67',0,0,Ross Clark (Montrose) Substitution at 67',Ross Clark Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,394832.0,2025-08-03 04:42:04
+13495,742158,4,45559176,76,2,4020,67',0,0,Ross Clark (Montrose) Substitution at 67',Ross Clark Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,388261.0,2025-08-03 04:42:04
+13495,742158,5,45559177,76,2,4020,67',0,0,Harry Craig (Montrose) Substitution at 67',Harry Craig Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,376256.0,2025-08-03 04:42:04
+13495,742158,3,45559175,76,2,4020,67',0,0,Blair Lyons (Montrose) Substitution at 67',Blair Lyons Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,250578.0,2025-08-03 04:42:04
+13495,742158,4,45559176,76,2,4020,67',0,0,Ross Clark (Montrose) Substitution at 67',Ross Clark Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,6213.0,2025-08-03 04:42:04
+13495,742158,5,45559177,76,2,4020,67',0,0,Harry Craig (Montrose) Substitution at 67',Harry Craig Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,77584.0,2025-08-03 04:42:04
+13495,742158,3,45559175,76,2,4020,67',0,0,Blair Lyons (Montrose) Substitution at 67',Blair Lyons Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,324917.0,2025-08-03 04:42:04
+13495,742158,6,45559233,94,2,4140,69',0,0,Lee Kilday (Hamilton Academical) Yellow Card at 69',Lee Kilday Yellow Card,409,0.0,0.0,0.0,0.0,0.0,0.0,1,155229.0,2025-08-03 04:42:04
+13495,742158,9,45559411,76,2,4560,76',0,0,Stuart Mckinstry (Hamilton Academical) Substitution at 76',Stuart Mckinstry Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,284083.0,2025-08-03 04:42:04
+13495,742158,8,45559410,76,2,4560,76',0,0,Munir Idris (Hamilton Academical) Substitution at 76',Munir Idris Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,408352.0,2025-08-03 04:42:04
+13495,742158,7,45559406,76,2,4560,76',0,0,Matheus Machado (Montrose) Substitution at 76',Matheus Machado Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,399530.0,2025-08-03 04:42:04
+13495,742158,7,45559406,76,2,4560,76',0,0,Matheus Machado (Montrose) Substitution at 76',Matheus Machado Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,287071.0,2025-08-03 04:42:04
+13495,742158,9,45559411,76,2,4560,76',0,0,Stuart Mckinstry (Hamilton Academical) Substitution at 76',Stuart Mckinstry Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-08-03 04:42:04
+13495,742158,7,45559406,76,2,4560,76',0,0,Matheus Machado (Montrose) Substitution at 76',Matheus Machado Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,153164.0,2025-08-03 04:42:04
+13495,742158,8,45559410,76,2,4560,76',0,0,Munir Idris (Hamilton Academical) Substitution at 76',Munir Idris Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,223407.0,2025-08-03 04:42:04
+13495,742158,10,45559653,76,2,5160,86',0,0,Craig Smith (Montrose) Substitution at 86',Craig Smith Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,385234.0,2025-08-03 04:42:04
+13495,742158,10,45559653,76,2,5160,86',0,0,Craig Smith (Montrose) Substitution at 86',Craig Smith Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,223909.0,2025-08-03 04:42:04
+13495,742158,10,45559653,76,2,5160,86',0,0,Craig Smith (Montrose) Substitution at 86',Craig Smith Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,150839.0,2025-08-03 04:42:04
+13495,742158,12,45559799,76,2,5400,90'+2',0,0,Michael Stone (Hamilton Academical) Substitution at 92',Michael Stone Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,4474.0,2025-08-03 04:42:04
+13495,742158,11,45559735,76,2,5400,90',0,0,Barry Maguire (Hamilton Academical) Substitution at 90',Barry Maguire Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,125080.0,2025-08-03 04:42:04
+13495,742158,12,45559799,76,2,5400,90'+2',0,0,Michael Stone (Hamilton Academical) Substitution at 92',Michael Stone Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,119000.0,2025-08-03 04:42:04
+13495,742158,11,45559735,76,2,5400,90',0,0,Barry Maguire (Hamilton Academical) Substitution at 90',Barry Maguire Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,276210.0,2025-08-03 04:42:04
+13495,742159,1,45558164,70,1,240,4',1,0,Billy McKay (Inverness Caledonian Thistle) Goal at 4',Billy McKay Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,138377.0,2025-08-03 04:42:04
+13495,742159,2,45558390,70,1,2280,38',1,0,Luis Longstaff (Inverness Caledonian Thistle) Goal at 38',Luis Longstaff Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,291645.0,2025-08-03 04:42:04
+13495,742159,3,45558934,70,2,3600,60',1,0,David Wotherspoon (Inverness Caledonian Thistle) Goal at 60',David Wotherspoon Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,137726.0,2025-08-03 04:42:04
+13495,742159,4,45559084,94,2,3900,65',0,0,Daniel Devine (Inverness Caledonian Thistle) Yellow Card at 65',Daniel Devine Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,157563.0,2025-08-03 04:42:04
+13495,742159,5,45559126,76,2,3960,66',0,0,James Graham (Kelty Hearts) Substitution at 66',James Graham Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,347341.0,2025-08-03 04:42:04
+13495,742159,5,45559126,76,2,3960,66',0,0,James Graham (Kelty Hearts) Substitution at 66',James Graham Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,366749.0,2025-08-03 04:42:04
+13495,742159,6,45559208,76,2,4140,69',0,0,Alfie Bavidge (Inverness Caledonian Thistle) Substitution at 69',Alfie Bavidge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,324735.0,2025-08-03 04:42:04
+13495,742159,6,45559208,76,2,4140,69',0,0,Alfie Bavidge (Inverness Caledonian Thistle) Substitution at 69',Alfie Bavidge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,138377.0,2025-08-03 04:42:04
+13495,742159,7,45559209,76,2,4200,70',0,0,Jordan Alonge (Inverness Caledonian Thistle) Substitution at 70',Jordan Alonge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,392184.0,2025-08-03 04:42:04
+13495,742159,7,45559209,76,2,4200,70',0,0,Jordan Alonge (Inverness Caledonian Thistle) Substitution at 70',Jordan Alonge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,137726.0,2025-08-03 04:42:04
+13495,742159,8,45559326,76,2,4500,75',0,0,Joseph Teasdale (Kelty Hearts) Substitution at 75',Joseph Teasdale Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366765.0,2025-08-03 04:42:04
+13495,742159,8,45559326,76,2,4500,75',0,0,Joseph Teasdale (Kelty Hearts) Substitution at 75',Joseph Teasdale Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,327817.0,2025-08-03 04:42:04
+13495,742159,9,45559446,94,2,4740,79',0,0,Luis Longstaff (Inverness Caledonian Thistle) Yellow Card at 79',Luis Longstaff Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,291645.0,2025-08-03 04:42:04
+13495,742159,10,45559513,76,2,4920,82',0,0,Murray Thomas (Kelty Hearts) Substitution at 82',Murray Thomas Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,266967.0,2025-08-03 04:42:04
+13495,742159,12,45559515,76,2,4920,82',0,0,Robbie Thompson (Inverness Caledonian Thistle) Substitution at 82',Robbie Thompson Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,176966.0,2025-08-03 04:42:04
+13495,742159,11,45559514,76,2,4920,82',0,0,Lewis Carrol (Kelty Hearts) Substitution at 82',Lewis Carrol Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366766.0,2025-08-03 04:42:04
+13495,742159,11,45559514,76,2,4920,82',0,0,Lewis Carrol (Kelty Hearts) Substitution at 82',Lewis Carrol Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,239235.0,2025-08-03 04:42:04
+13495,742159,10,45559513,76,2,4920,82',0,0,Murray Thomas (Kelty Hearts) Substitution at 82',Murray Thomas Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,179655.0,2025-08-03 04:42:04
+13495,742159,12,45559515,76,2,4920,82',0,0,Robbie Thompson (Inverness Caledonian Thistle) Substitution at 82',Robbie Thompson Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,267334.0,2025-08-03 04:42:04
+13495,742159,13,45559575,94,2,4980,83',0,0,Joseph Teasdale (Kelty Hearts) Yellow Card at 83',Joseph Teasdale Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366765.0,2025-08-03 04:42:04
+13495,742159,14,45559661,76,2,5340,89',0,0,Matthew Strachan (Inverness Caledonian Thistle) Substitution at 89',Matthew Strachan Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,341080.0,2025-08-03 04:42:04
+13495,742159,15,45559703,76,2,5340,89',0,0,Mitchell Robertson (Inverness Caledonian Thistle) Substitution at 89',Mitchell Robertson Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,243067.0,2025-08-03 04:42:04
+13495,742159,15,45559703,76,2,5340,89',0,0,Mitchell Robertson (Inverness Caledonian Thistle) Substitution at 89',Mitchell Robertson Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,168397.0,2025-08-03 04:42:04
+13495,742159,14,45559661,76,2,5340,89',0,0,Matthew Strachan (Inverness Caledonian Thistle) Substitution at 89',Matthew Strachan Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,291645.0,2025-08-03 04:42:04
+13495,742160,1,45558211,94,1,780,13',0,0,Alan Trouten (East Fife) Yellow Card at 13',Alan Trouten Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,30013.0,2025-08-03 04:42:04
+13495,742160,2,45558236,70,1,1200,20',1,0,Lewis Latona (East Fife) Goal at 20',Lewis Latona Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,353387.0,2025-08-03 04:42:04
+13495,742160,3,45558246,70,1,1380,23',1,0,David Wilson (Peterhead) Goal at 23',David Wilson Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291478.0,2025-08-03 04:42:04
+13495,742160,3,45558246,70,1,1380,23',1,0,David Wilson (Peterhead) Goal at 23',David Wilson Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,260620.0,2025-08-03 04:42:04
+13495,742160,3,45558246,70,1,1380,23',1,0,David Wilson (Peterhead) Goal at 23',David Wilson Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,259587.0,2025-08-03 04:42:04
+13495,742160,3,45558246,70,1,1380,23',1,0,David Wilson (Peterhead) Goal at 23',David Wilson Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,197374.0,2025-08-03 04:42:04
+13495,742160,4,45558274,94,1,1680,28',0,0,Mamadou Bah (East Fife) Yellow Card at 28',Mamadou Bah Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,387071.0,2025-08-03 04:42:04
+13495,742160,4,45558274,94,1,1680,28',0,0,Mamadou Bah (East Fife) Yellow Card at 28',Mamadou Bah Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,362297.0,2025-08-03 04:42:04
+13495,742160,5,45558275,98,1,1740,29',1,0,Kieran Shanks (Peterhead) Penalty - Scored at 29',Kieran Shanks Penalty - Scored,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291447.0,2025-08-03 04:42:04
+13495,742160,6,45558448,70,1,2580,43',1,0,Jason Brown (Peterhead) Goal at 43',Jason Brown Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,4903.0,2025-08-03 04:42:04
+13495,742160,7,45558728,76,2,2700,45',0,0,Liam Newton (East Fife) Substitution at 45',Liam Newton Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,299920.0,2025-08-03 04:42:04
+13495,742160,7,45558728,76,2,2700,45',0,0,Liam Newton (East Fife) Substitution at 45',Liam Newton Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,387071.0,2025-08-03 04:42:04
+13495,742160,7,45558728,76,2,2700,45',0,0,Liam Newton (East Fife) Substitution at 45',Liam Newton Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,362297.0,2025-08-03 04:42:04
+13495,742160,8,45559020,94,2,3360,56',0,0,Craig McGuffie (Peterhead) Yellow Card at 56',Craig McGuffie Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,206454.0,2025-08-03 04:42:04
+13495,742160,9,45559129,76,2,3720,62',0,0,Rob Jones (East Fife) Substitution at 62',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,26883.0,2025-08-03 04:42:04
+13495,742160,9,45559129,76,2,3720,62',0,0,Rob Jones (East Fife) Substitution at 62',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,322904.0,2025-08-03 04:42:04
+13495,742160,10,45559179,94,2,3780,63',0,0,Jack Brown (Peterhead) Yellow Card at 63',Jack Brown Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,255732.0,2025-08-03 04:42:04
+13495,742160,11,45559272,76,2,4020,67',0,0,Sebastian Ross (Peterhead) Substitution at 67',Sebastian Ross Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,239223.0,2025-08-03 04:42:04
+13495,742160,11,45559272,76,2,4020,67',0,0,Sebastian Ross (Peterhead) Substitution at 67',Sebastian Ross Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,173126.0,2025-08-03 04:42:04
+13495,742160,12,45559420,94,2,4320,72',0,0,Andrew McCarthy (Peterhead) Yellow Card at 72',Andrew McCarthy Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,239269.0,2025-08-03 04:42:04
+13495,742160,14,45559467,76,2,4440,74',0,0,Niall McGinn (Peterhead) Substitution at 74',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,82925.0,2025-08-03 04:42:04
+13495,742160,13,45559466,76,2,4440,74',0,0,Oliver Colloty (Peterhead) Substitution at 74',Oliver Colloty Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,362626.0,2025-08-03 04:42:04
+13495,742160,13,45559466,76,2,4440,74',0,0,Oliver Colloty (Peterhead) Substitution at 74',Oliver Colloty Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,291447.0,2025-08-03 04:42:04
+13495,742160,14,45559467,76,2,4440,74',0,0,Niall McGinn (Peterhead) Substitution at 74',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,206454.0,2025-08-03 04:42:04
+13495,742160,15,45559701,94,2,5040,84',0,0,Liam Newton (East Fife) Yellow Card at 84',Liam Newton Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,299920.0,2025-08-03 04:42:04
+13495,742160,16,45559818,70,2,5340,89',1,0,Jason Brown (Peterhead) Goal at 89',Jason Brown Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,4903.0,2025-08-03 04:42:04
+13495,742161,2,45597761,94,1,840,14',0,0,Liam Macfarlane (Alloa Athletic) Yellow Card at 14',Liam Macfarlane Yellow Card,403,0.0,0.0,0.0,0.0,0.0,0.0,1,325135.0,2025-08-10 04:46:38
+13495,742161,1,45597744,94,1,840,14',0,0,Andrew Munro (East Fife) Yellow Card at 14',Andrew Munro Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,194882.0,2025-08-10 04:46:38
+13495,742161,3,45598340,94,1,2040,34',0,0,Cameron O'Donnel (Alloa Athletic) Yellow Card at 34',Cameron O'Donnel Yellow Card,403,0.0,0.0,0.0,0.0,0.0,0.0,1,290169.0,2025-08-10 04:46:38
+13495,742161,4,45598704,76,2,2700,45',0,0,Jess Norey (East Fife) Substitution at 45',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,365402.0,2025-08-10 04:46:38
+13495,742161,4,45598704,76,2,2700,45',0,0,Jess Norey (East Fife) Substitution at 45',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,84408.0,2025-08-10 04:46:38
+13495,742161,5,45598914,76,2,3240,54',0,0,Kalvin Orsi (Alloa Athletic) Substitution at 54',Kalvin Orsi Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,207443.0,2025-08-10 04:46:38
+13495,742161,5,45598914,76,2,3240,54',0,0,Kalvin Orsi (Alloa Athletic) Substitution at 54',Kalvin Orsi Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,290169.0,2025-08-10 04:46:38
+13495,742161,6,45598981,94,2,3360,56',0,0,David Mckay (Alloa Athletic) Yellow Card at 56',David Mckay Yellow Card,403,0.0,0.0,0.0,0.0,0.0,0.0,1,6857.0,2025-08-10 04:46:38
+13495,742161,7,45599154,94,2,3600,60',0,0,Lewis Latona (East Fife) Yellow Card at 60',Lewis Latona Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,353387.0,2025-08-10 04:46:38
+13495,742161,9,45599352,76,2,3960,66',0,0,Daniel Church (Alloa Athletic) Substitution at 66',Daniel Church Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,39037.0,2025-08-10 04:46:38
+13495,742161,8,45599351,76,2,3960,66',0,0,Conor Sammon (Alloa Athletic) Substitution at 66',Conor Sammon Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,121832.0,2025-08-10 04:46:38
+13495,742161,9,45599352,76,2,3960,66',0,0,Daniel Church (Alloa Athletic) Substitution at 66',Daniel Church Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,6857.0,2025-08-10 04:46:38
+13495,742161,8,45599351,76,2,3960,66',0,0,Conor Sammon (Alloa Athletic) Substitution at 66',Conor Sammon Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,347933.0,2025-08-10 04:46:38
+13495,742161,10,45599552,70,2,4380,73',1,0,David Devine (Alloa Athletic) Goal at 73',David Devine Goal,403,0.0,0.0,0.0,0.0,0.0,0.0,1,288582.0,2025-08-10 04:46:38
+13495,742161,11,45599938,94,2,4980,83',0,0,Kalvin Orsi (Alloa Athletic) Yellow Card at 83',Kalvin Orsi Yellow Card,403,0.0,0.0,0.0,0.0,0.0,0.0,1,207443.0,2025-08-10 04:46:38
+13495,742161,13,45600127,76,2,5220,87',0,0,Reis Peggie (East Fife) Substitution at 87',Reis Peggie Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,260603.0,2025-08-10 04:46:38
+13495,742161,12,45600126,76,2,5220,87',0,0,Gregor Nicol (East Fife) Substitution at 87',Gregor Nicol Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,322904.0,2025-08-10 04:46:38
+13495,742161,12,45600126,76,2,5220,87',0,0,Gregor Nicol (East Fife) Substitution at 87',Gregor Nicol Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,26883.0,2025-08-10 04:46:38
+13495,742161,13,45600127,76,2,5220,87',0,0,Reis Peggie (East Fife) Substitution at 87',Reis Peggie Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,158096.0,2025-08-10 04:46:38
+13495,742161,14,45600267,94,2,5400,90'+1',0,0,Steven Hetherington (Alloa Athletic) Yellow Card at 91',Steven Hetherington Yellow Card,403,0.0,0.0,0.0,0.0,0.0,0.0,1,162858.0,2025-08-10 04:46:38
+13495,742161,15,45600383,94,2,5400,90'+4',0,0,Stefan Scougall (Alloa Athletic) Yellow Card at 94',Stefan Scougall Yellow Card,403,0.0,0.0,0.0,0.0,0.0,0.0,1,153015.0,2025-08-10 04:46:38
+13495,742162,1,45597736,94,1,900,15',0,0,Liam Sole (Inverness Caledonian Thistle) Yellow Card at 15',Liam Sole Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,267334.0,2025-08-10 04:46:38
+13495,742162,2,45598371,94,1,2160,36',0,0,Andrew McCarthy (Peterhead) Yellow Card at 36',Andrew McCarthy Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,239269.0,2025-08-10 04:46:38
+13495,742162,3,45598434,70,1,2340,39',1,0,David Wotherspoon (Inverness Caledonian Thistle) Goal at 39',David Wotherspoon Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,137726.0,2025-08-10 04:46:38
+13495,742162,4,45598950,70,2,3300,55',1,0,Liam Sole (Inverness Caledonian Thistle) Goal at 55',Liam Sole Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,267334.0,2025-08-10 04:46:38
+13495,742162,7,45599163,76,2,3600,60',0,0,Paul Allan (Inverness Caledonian Thistle) Substitution at 60',Paul Allan Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,31873.0,2025-08-10 04:46:38
+13495,742162,5,45599107,76,2,3600,60',0,0,Craig McGuffie (Peterhead) Substitution at 60',Craig McGuffie Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,206454.0,2025-08-10 04:46:38
+13495,742162,6,45599113,76,2,3600,60',0,0,Sebastian Ross (Peterhead) Substitution at 60',Sebastian Ross Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,239223.0,2025-08-10 04:46:38
+13495,742162,7,45599163,76,2,3600,60',0,0,Paul Allan (Inverness Caledonian Thistle) Substitution at 60',Paul Allan Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,26027.0,2025-08-10 04:46:38
+13495,742162,6,45599113,76,2,3600,60',0,0,Sebastian Ross (Peterhead) Substitution at 60',Sebastian Ross Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,173126.0,2025-08-10 04:46:38
+13495,742162,5,45599107,76,2,3600,60',0,0,Craig McGuffie (Peterhead) Substitution at 60',Craig McGuffie Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,255732.0,2025-08-10 04:46:38
+13495,742162,8,45599164,76,2,3660,61',0,0,Alfie Bavidge (Inverness Caledonian Thistle) Substitution at 61',Alfie Bavidge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,324735.0,2025-08-10 04:46:38
+13495,742162,8,45599164,76,2,3660,61',0,0,Alfie Bavidge (Inverness Caledonian Thistle) Substitution at 61',Alfie Bavidge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,267334.0,2025-08-10 04:46:38
+13495,742162,10,45599522,76,2,4260,71',0,0,Niall McGinn (Peterhead) Substitution at 71',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,82925.0,2025-08-10 04:46:38
+13495,742162,9,45599497,76,2,4260,71',0,0,Oliver Colloty (Peterhead) Substitution at 71',Oliver Colloty Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,362626.0,2025-08-10 04:46:38
+13495,742162,9,45599497,76,2,4260,71',0,0,Oliver Colloty (Peterhead) Substitution at 71',Oliver Colloty Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,291447.0,2025-08-10 04:46:38
+13495,742162,10,45599522,76,2,4260,71',0,0,Niall McGinn (Peterhead) Substitution at 71',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,291446.0,2025-08-10 04:46:38
+13495,742162,11,45599869,94,2,4860,81',0,0,Luis Longstaff (Inverness Caledonian Thistle) Yellow Card at 81',Luis Longstaff Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,291645.0,2025-08-10 04:46:38
+13495,742162,12,45599882,76,2,4920,82',0,0,Adam Carnwath (Peterhead) Substitution at 82',Adam Carnwath Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,376984.0,2025-08-10 04:46:38
+13495,742162,12,45599882,76,2,4920,82',0,0,Adam Carnwath (Peterhead) Substitution at 82',Adam Carnwath Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,239269.0,2025-08-10 04:46:38
+13495,742162,13,45599966,94,2,4980,83',0,0,Remi Savage (Inverness Caledonian Thistle) Yellow Card at 83',Remi Savage Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,291632.0,2025-08-10 04:46:38
+13495,742162,14,45600105,76,2,5280,88',0,0,Chanka Zimba (Inverness Caledonian Thistle) Substitution at 88',Chanka Zimba Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,312007.0,2025-08-10 04:46:38
+13495,742162,14,45600105,76,2,5280,88',0,0,Chanka Zimba (Inverness Caledonian Thistle) Substitution at 88',Chanka Zimba Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,138377.0,2025-08-10 04:46:38
+13495,742162,15,45600300,76,2,5400,90'+3',0,0,Jordan Alonge (Inverness Caledonian Thistle) Substitution at 93',Jordan Alonge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,392184.0,2025-08-10 04:46:38
+13495,742162,15,45600300,76,2,5400,90'+3',0,0,Jordan Alonge (Inverness Caledonian Thistle) Substitution at 93',Jordan Alonge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,137726.0,2025-08-10 04:46:38
+13495,742163,1,45597742,70,1,1020,17',1,0,Luke Mccarvel (Kelty Hearts) Goal at 17',Luke Mccarvel Goal,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,362339.0,2025-08-10 04:46:38
+13495,742163,2,45597771,94,1,1080,18',0,0,Kerr Waddell (Montrose) Yellow Card at 18',Kerr Waddell Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,235455.0,2025-08-10 04:46:38
+13495,742163,3,45597809,94,1,1200,20',0,0,Jack Wyllie (Kelty Hearts) Yellow Card at 20',Jack Wyllie Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,397290.0,2025-08-10 04:46:38
+13495,742163,4,45598308,70,1,2160,36',1,0,Kieran Freeman (Montrose) Goal at 36',Kieran Freeman Goal,414,0.0,0.0,0.0,0.0,0.0,0.0,1,150839.0,2025-08-10 04:46:38
+13495,742163,5,45598362,94,1,2340,39',0,0,Innes Murray (Kelty Hearts) Yellow Card at 39',Innes Murray Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,239235.0,2025-08-10 04:46:38
+13495,742163,6,45598577,94,1,2700,45'+2',0,0,Blair Lyons (Montrose) Yellow Card at 47',Blair Lyons Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,250578.0,2025-08-10 04:46:38
+13495,742163,7,45599111,93,2,3780,63',0,0,Jack Wyllie (Kelty Hearts) Red Card at 63',Jack Wyllie Red Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,397290.0,2025-08-10 04:46:38
+13495,742163,9,45599434,94,2,3840,64',0,0,Terry Masson (Montrose) Yellow Card at 64',Terry Masson Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,77584.0,2025-08-10 04:46:38
+13495,742163,8,45599169,76,2,3840,64',0,0,Matheus Machado (Montrose) Substitution at 64',Matheus Machado Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,399530.0,2025-08-10 04:46:38
+13495,742163,8,45599169,76,2,3840,64',0,0,Matheus Machado (Montrose) Substitution at 64',Matheus Machado Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,287071.0,2025-08-10 04:46:38
+13495,742163,8,45599169,76,2,3840,64',0,0,Matheus Machado (Montrose) Substitution at 64',Matheus Machado Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,6213.0,2025-08-10 04:46:38
+13495,742163,10,45599462,76,2,4320,72',0,0,Michael Tidser (Montrose) Substitution at 72',Michael Tidser Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,144362.0,2025-08-10 04:46:38
+13495,742163,10,45599462,76,2,4320,72',0,0,Michael Tidser (Montrose) Substitution at 72',Michael Tidser Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,77584.0,2025-08-10 04:46:38
+13495,742163,11,45599608,76,2,4620,77',0,0,Joseph Teasdale (Kelty Hearts) Substitution at 77',Joseph Teasdale Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366765.0,2025-08-10 04:46:38
+13495,742163,11,45599608,76,2,4620,77',0,0,Joseph Teasdale (Kelty Hearts) Substitution at 77',Joseph Teasdale Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,362339.0,2025-08-10 04:46:38
+13495,742163,12,45599781,94,2,4860,81',0,0,Corey Armour (Kelty Hearts) Yellow Card at 81',Corey Armour Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,346993.0,2025-08-10 04:46:38
+13495,742163,13,45599965,76,2,5160,86',0,0,Lewis Carrol (Kelty Hearts) Substitution at 86',Lewis Carrol Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366766.0,2025-08-10 04:46:38
+13495,742163,13,45599965,76,2,5160,86',0,0,Lewis Carrol (Kelty Hearts) Substitution at 86',Lewis Carrol Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,223417.0,2025-08-10 04:46:38
+13495,742163,14,45600042,94,2,5340,89',0,0,Murray Thomas (Kelty Hearts) Yellow Card at 89',Murray Thomas Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,266967.0,2025-08-10 04:46:38
+13495,742163,15,45600123,76,2,5400,90',0,0,Scott Mercer (Kelty Hearts) Substitution at 90',Scott Mercer Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,179655.0,2025-08-10 04:46:38
+13495,742163,16,45600284,70,2,5400,90'+5',1,0,Joseph Teasdale (Kelty Hearts) Goal at 95',Joseph Teasdale Goal,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366765.0,2025-08-10 04:46:38
+13495,742163,15,45600123,76,2,5400,90',0,0,Scott Mercer (Kelty Hearts) Substitution at 90',Scott Mercer Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,239235.0,2025-08-10 04:46:38
+13495,742164,1,45597983,70,1,1680,28',1,0,Connot Smith (Hamilton Academical) Goal at 28',Connot Smith Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,261410.0,2025-08-10 04:46:38
+13495,742164,2,45598411,70,1,2340,39',1,0,Trialist B (Hamilton Academical) Goal at 39',Trialist B Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,276209.0,2025-08-10 04:46:38
+13495,742164,3,45598716,70,2,2760,46',1,0,Reece Lyon (Queen of the South) Goal at 46',Reece Lyon Goal,406,0.0,0.0,0.0,0.0,0.0,0.0,1,277539.0,2025-08-10 04:46:38
+13495,742164,4,45598839,94,2,3000,50',0,0,Ben Johnstone (Queen of the South) Yellow Card at 50',Ben Johnstone Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,260598.0,2025-08-10 04:46:38
+13495,742164,5,45598892,70,2,3180,53',1,0,Connot Smith (Hamilton Academical) Goal at 53',Connot Smith Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,261410.0,2025-08-10 04:46:38
+13495,742164,6,45599124,70,2,3660,61',1,0,Steven Bradley (Hamilton Academical) Goal at 61',Steven Bradley Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,243340.0,2025-08-12 04:48:43
+13495,742164,7,45599249,76,2,3840,64',0,0,Jack Stott (Queen of the South) Substitution at 64',Jack Stott Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,144432.0,2025-08-10 04:46:38
+13495,742164,8,45599250,76,2,3840,64',0,0,Freddie O'Donoghue (Queen of the South) Substitution at 64',Freddie O'Donoghue Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,390647.0,2025-08-10 04:46:38
+13495,742164,8,45599250,76,2,3840,64',0,0,Freddie O'Donoghue (Queen of the South) Substitution at 64',Freddie O'Donoghue Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,365996.0,2025-08-10 04:46:38
+13495,742164,7,45599249,76,2,3840,64',0,0,Jack Stott (Queen of the South) Substitution at 64',Jack Stott Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,260598.0,2025-08-10 04:46:38
+13495,742164,9,45599461,76,2,4260,71',0,0,Tony Gallacher (Hamilton Academical) Substitution at 71',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,223057.0,2025-08-10 04:46:38
+13495,742164,9,45599461,76,2,4260,71',0,0,Tony Gallacher (Hamilton Academical) Substitution at 71',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,157908.0,2025-08-10 04:46:38
+13495,742164,11,45599715,76,2,4680,78',0,0,Stuart Mckinstry (Hamilton Academical) Substitution at 78',Stuart Mckinstry Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,284083.0,2025-08-10 04:46:38
+13495,742164,10,45599713,94,2,4680,78',0,0,Oliver Shaw (Hamilton Academical) Yellow Card at 78',Oliver Shaw Yellow Card,409,0.0,0.0,0.0,0.0,0.0,0.0,1,223407.0,2025-08-10 04:46:38
+13495,742164,12,45599716,76,2,4680,78',0,0,Barry Maguire (Hamilton Academical) Substitution at 78',Barry Maguire Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,125080.0,2025-08-10 04:46:38
+13495,742164,11,45599715,76,2,4680,78',0,0,Stuart Mckinstry (Hamilton Academical) Substitution at 78',Stuart Mckinstry Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,119000.0,2025-08-10 04:46:38
+13495,742164,12,45599716,76,2,4680,78',0,0,Barry Maguire (Hamilton Academical) Substitution at 78',Barry Maguire Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,223407.0,2025-08-10 04:46:38
+13495,742164,15,45599963,76,2,5040,84',0,0,Michael Stone (Hamilton Academical) Substitution at 84',Michael Stone Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,4474.0,2025-08-10 04:46:38
+13495,742164,14,45599962,76,2,5040,84',0,0,Liam Morgan (Hamilton Academical) Substitution at 84',Liam Morgan Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,354405.0,2025-08-10 04:46:38
+13495,742164,13,45599961,76,2,5040,84',0,0,Euan Ross (Queen of the South) Substitution at 84',Euan Ross Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,379454.0,2025-08-10 04:46:38
+13495,742164,14,45599962,76,2,5040,84',0,0,Liam Morgan (Hamilton Academical) Substitution at 84',Liam Morgan Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,261410.0,2025-08-10 04:46:38
+13495,742164,13,45599961,76,2,5040,84',0,0,Euan Ross (Queen of the South) Substitution at 84',Euan Ross Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,164474.0,2025-08-10 04:46:38
+13495,742164,15,45599963,76,2,5040,84',0,0,Michael Stone (Hamilton Academical) Substitution at 84',Michael Stone Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,243340.0,2025-08-10 04:46:38
+13495,742164,16,45600185,94,2,5340,89',0,0,Michael Stone (Hamilton Academical) Yellow Card at 89',Michael Stone Yellow Card,409,0.0,0.0,0.0,0.0,0.0,0.0,1,4474.0,2025-08-10 04:46:38
+13495,742165,1,45597602,70,1,360,6',1,0,Dale Carrick (Stenhousemuir) Goal at 6',Dale Carrick Goal,405,0.0,0.0,0.0,0.0,0.0,0.0,1,176836.0,2025-08-10 04:46:38
+13495,742165,2,45598842,94,2,3000,50',0,0,Arron Darge (Cove Rangers) Yellow Card at 50',Arron Darge Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,290709.0,2025-08-10 04:46:38
+13495,742165,3,45599199,76,2,3720,62',0,0,Matthew Aitken (Stenhousemuir) Substitution at 62',Matthew Aitken Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,212362.0,2025-08-10 04:46:38
+13495,742165,3,45599199,76,2,3720,62',0,0,Matthew Aitken (Stenhousemuir) Substitution at 62',Matthew Aitken Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,366706.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,409767.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,387928.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,365486.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,351286.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291085.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291084.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291083.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291082.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291081.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291080.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291079.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291078.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291077.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291076.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291075.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291074.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291073.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291072.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291071.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291070.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291069.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291067.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,291066.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,289644.0,2025-08-10 04:46:38
+13495,742165,4,45599557,94,2,4320,72',0,0,Trialist A (Cove Rangers) Yellow Card at 72',Trialist A Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,245521.0,2025-08-10 04:46:38
+13495,742165,5,45599623,94,2,4380,73',0,0,Michael Doyle (Cove Rangers) Yellow Card at 73',Michael Doyle Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,14666.0,2025-08-10 04:46:38
+13495,742165,5,45599623,94,2,4380,73',0,0,Michael Doyle (Cove Rangers) Yellow Card at 73',Michael Doyle Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,197106.0,2025-08-10 04:46:38
+13495,742165,6,45599780,94,2,4680,78',0,0,Ross Meechan (Stenhousemuir) Yellow Card at 78',Ross Meechan Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,162845.0,2025-08-10 04:46:38
+13495,742165,7,45599854,76,2,4860,81',0,0,Scott McGill (Stenhousemuir) Substitution at 81',Scott McGill Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,290707.0,2025-08-10 04:46:38
+13495,742165,7,45599854,76,2,4860,81',0,0,Scott McGill (Stenhousemuir) Substitution at 81',Scott McGill Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,176836.0,2025-08-10 04:46:38
+13495,742165,8,45600037,76,2,5160,86',0,0,Justin Eguaibor (Cove Rangers) Substitution at 86',Justin Eguaibor Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,407597.0,2025-08-10 04:46:38
+13495,742165,8,45600037,76,2,5160,86',0,0,Justin Eguaibor (Cove Rangers) Substitution at 86',Justin Eguaibor Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,324916.0,2025-08-10 04:46:38
+13495,742165,9,45600089,76,2,5220,87',0,0,Nicky Jamieson (Stenhousemuir) Substitution at 87',Nicky Jamieson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,190512.0,2025-08-10 04:46:38
+13495,742165,9,45600089,76,2,5220,87',0,0,Nicky Jamieson (Stenhousemuir) Substitution at 87',Nicky Jamieson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,12821.0,2025-08-10 04:46:38
+13495,742165,10,45600134,94,2,5280,88',0,0,David Eguaibor (Cove Rangers) Yellow Card at 88',David Eguaibor Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,406313.0,2025-08-10 04:46:38
+13495,742166,1,45662982,70,1,240,4',1,0,Ewan Loudon (Montrose) Goal at 4',Ewan Loudon Goal,414,0.0,0.0,0.0,0.0,0.0,0.0,1,324917.0,2025-08-17 04:58:25
+13495,742166,2,45663140,70,1,480,8',1,0,David Eguaibor (Cove Rangers) Goal at 8',David Eguaibor Goal,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,406313.0,2025-08-17 04:58:25
+13495,742166,3,45663577,93,1,1260,21',0,0,Keir Bertie (Montrose) Red Card at 21',Keir Bertie Red Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,346441.0,2025-08-17 04:58:25
+13495,742166,4,45664404,70,1,2520,42',1,0,David Eguaibor (Cove Rangers) Goal at 42',David Eguaibor Goal,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,406313.0,2025-08-17 04:58:25
+13495,742166,5,45664966,94,2,2820,47',0,0,Craig Smith (Montrose) Yellow Card at 47',Craig Smith Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,385234.0,2025-08-17 04:58:25
+13495,742166,5,45664966,94,2,2820,47',0,0,Craig Smith (Montrose) Yellow Card at 47',Craig Smith Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,223909.0,2025-08-17 04:58:25
+13495,742166,6,45665289,94,2,3300,55',0,0,Blair Yule (Cove Rangers) Yellow Card at 55',Blair Yule Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,153146.0,2025-08-17 04:58:25
+13495,742166,7,45665290,70,2,3360,56',1,0,Callum Sandilands (Montrose) Goal at 56',Callum Sandilands Goal,414,0.0,0.0,0.0,0.0,0.0,0.0,1,346189.0,2025-08-17 04:58:25
+13495,742166,8,45665458,94,2,3540,59',0,0,David Eguaibor (Cove Rangers) Yellow Card at 59',David Eguaibor Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,406313.0,2025-08-17 04:58:25
+13495,742166,9,45665459,76,2,3540,59',0,0,Jackson Mylchreest (Cove Rangers) Substitution at 59',Jackson Mylchreest Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,347007.0,2025-08-17 04:58:25
+13495,742166,9,45665459,76,2,3540,59',0,0,Jackson Mylchreest (Cove Rangers) Substitution at 59',Jackson Mylchreest Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,407597.0,2025-08-17 04:58:25
+13495,742166,10,45665710,94,2,3840,64',0,0,Layton Bisland (Cove Rangers) Yellow Card at 64',Layton Bisland Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,317304.0,2025-08-17 04:58:25
+13495,742166,11,45665833,70,2,4020,67',1,0,Ewan Loudon (Montrose) Goal at 67',Ewan Loudon Goal,414,0.0,0.0,0.0,0.0,0.0,0.0,1,324917.0,2025-08-17 04:58:25
+13495,742166,12,45666121,76,2,4320,72',0,0,Craig Brown (Montrose) Substitution at 72',Craig Brown Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,6213.0,2025-08-17 04:58:25
+13495,742166,13,45666122,76,2,4320,72',0,0,Craig Wighton (Montrose) Substitution at 72',Craig Wighton Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,192030.0,2025-08-17 04:58:25
+13495,742166,12,45666121,76,2,4320,72',0,0,Craig Brown (Montrose) Substitution at 72',Craig Brown Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,394832.0,2025-08-17 04:58:25
+13495,742166,12,45666121,76,2,4320,72',0,0,Craig Brown (Montrose) Substitution at 72',Craig Brown Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,388261.0,2025-08-17 04:58:25
+13495,742166,13,45666122,76,2,4320,72',0,0,Craig Wighton (Montrose) Substitution at 72',Craig Wighton Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,250578.0,2025-08-17 04:58:25
+13495,742166,14,45666182,76,2,4380,73',0,0,Mackenzie Strachan (Cove Rangers) Substitution at 73',Mackenzie Strachan Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,324916.0,2025-08-17 04:58:25
+13495,742166,14,45666182,76,2,4380,73',0,0,Mackenzie Strachan (Cove Rangers) Substitution at 73',Mackenzie Strachan Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,290709.0,2025-08-17 04:58:25
+13495,742166,15,45666627,76,2,5040,84',0,0,Michael Tidser (Montrose) Substitution at 84',Michael Tidser Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,144362.0,2025-08-17 04:58:25
+13495,742166,16,45666697,76,2,5040,84',0,0,Ali Shrive (Montrose) Substitution at 84',Ali Shrive Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,364997.0,2025-08-17 04:58:25
+13495,742166,15,45666627,76,2,5040,84',0,0,Michael Tidser (Montrose) Substitution at 84',Michael Tidser Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,77584.0,2025-08-17 04:58:25
+13495,742166,16,45666697,76,2,5040,84',0,0,Ali Shrive (Montrose) Substitution at 84',Ali Shrive Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,324917.0,2025-08-17 04:58:25
+13495,742166,17,45666788,94,2,5160,86',0,0,Jackson Mylchreest (Cove Rangers) Yellow Card at 86',Jackson Mylchreest Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,347007.0,2025-08-17 04:58:25
+13495,742166,18,45666898,76,2,5280,88',0,0,Aidan Quinn (Montrose) Substitution at 88',Aidan Quinn Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,302082.0,2025-08-17 04:58:25
+13495,742166,18,45666898,76,2,5280,88',0,0,Aidan Quinn (Montrose) Substitution at 88',Aidan Quinn Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,385234.0,2025-08-17 04:58:25
+13495,742166,18,45666898,76,2,5280,88',0,0,Aidan Quinn (Montrose) Substitution at 88',Aidan Quinn Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,223909.0,2025-08-17 04:58:25
+13495,742166,19,45667115,70,2,5400,90'+4',1,0,David Eguaibor (Cove Rangers) Goal at 94',David Eguaibor Goal,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,406313.0,2025-08-17 04:58:25
+13495,742167,1,45663315,70,1,900,15',1,0,Scott Robinson (Hamilton Academical) Goal at 15',Scott Robinson Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,119000.0,2025-08-17 04:58:25
+13495,742167,2,45663745,94,1,1680,28',0,0,Sam Culbert (East Fife) Yellow Card at 28',Sam Culbert Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,347283.0,2025-08-17 04:58:25
+13495,742167,5,45664872,76,2,2700,45',0,0,Rob Jones (East Fife) Substitution at 45',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,26883.0,2025-08-17 04:58:25
+13495,742167,3,45664517,94,1,2700,45',0,0,Scott Robinson (Hamilton Academical) Yellow Card at 45',Scott Robinson Yellow Card,409,0.0,0.0,0.0,0.0,0.0,0.0,1,119000.0,2025-08-17 04:58:25
+13495,742167,4,45664863,76,2,2700,45',0,0,Kieran Millar (East Fife) Substitution at 45',Kieran Millar Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,158096.0,2025-08-17 04:58:25
+13495,742167,4,45664863,76,2,2700,45',0,0,Kieran Millar (East Fife) Substitution at 45',Kieran Millar Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,387071.0,2025-08-17 04:58:25
+13495,742167,4,45664863,76,2,2700,45',0,0,Kieran Millar (East Fife) Substitution at 45',Kieran Millar Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,362297.0,2025-08-17 04:58:25
+13495,742167,5,45664872,76,2,2700,45',0,0,Rob Jones (East Fife) Substitution at 45',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,353387.0,2025-08-17 04:58:25
+13495,742167,6,45665040,174,2,3000,50',0,0,Alan Trouten (East Fife) Penalty - Saved at 50',Alan Trouten Penalty - Saved,421,0.0,0.0,0.0,0.0,0.0,0.0,1,30013.0,2025-08-17 04:58:25
+13495,742167,7,45665083,70,2,3120,52',1,0,Rob Jones (East Fife) Goal at 52',Rob Jones Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,26883.0,2025-08-17 04:58:25
+13495,742167,8,45665165,70,2,3180,53',1,0,Rob Jones (East Fife) Goal at 53',Rob Jones Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,26883.0,2025-08-17 04:58:25
+13495,742167,9,45665820,76,2,4080,68',0,0,Reis Peggie (East Fife) Substitution at 68',Reis Peggie Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,260603.0,2025-08-17 04:58:25
+13495,742167,9,45665820,76,2,4080,68',0,0,Reis Peggie (East Fife) Substitution at 68',Reis Peggie Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,190432.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,223057.0,2025-08-17 04:58:25
+13495,742167,10,45666184,76,2,4500,75',0,0,Barry Maguire (Hamilton Academical) Substitution at 75',Barry Maguire Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,125080.0,2025-08-17 04:58:25
+13495,742167,10,45666184,76,2,4500,75',0,0,Barry Maguire (Hamilton Academical) Substitution at 75',Barry Maguire Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,119000.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,325962.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,325959.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,306282.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,301351.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,290587.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,290576.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,290042.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,276336.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,275110.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,272024.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,269133.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,262795.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,261242.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,260885.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,254371.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,253684.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,251394.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,250885.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,248818.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,246663.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,246662.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,241088.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,235107.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,234132.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,233849.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,233529.0,2025-08-17 04:58:25
+13495,742167,11,45666268,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,233150.0,2025-08-17 04:58:25
+13495,742167,12,45666357,76,2,4620,77',0,0,Liam Morgan (Hamilton Academical) Substitution at 77',Liam Morgan Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,354405.0,2025-08-17 04:58:25
+13495,742167,13,45666358,76,2,4620,77',0,0,Jess Norey (East Fife) Substitution at 77',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,365402.0,2025-08-17 04:58:25
+13495,742167,12,45666357,76,2,4620,77',0,0,Liam Morgan (Hamilton Academical) Substitution at 77',Liam Morgan Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,157908.0,2025-08-17 04:58:25
+13495,742167,13,45666358,76,2,4620,77',0,0,Jess Norey (East Fife) Substitution at 77',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,299920.0,2025-08-17 04:58:25
+13495,742167,14,45666641,76,2,5040,84',0,0,Stuart Mckinstry (Hamilton Academical) Substitution at 84',Stuart Mckinstry Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,284083.0,2025-08-17 04:58:25
+13495,742167,14,45666641,76,2,5040,84',0,0,Stuart Mckinstry (Hamilton Academical) Substitution at 84',Stuart Mckinstry Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,243340.0,2025-08-17 04:58:25
+13495,742167,15,45666814,94,2,5280,88',0,0,Rob Jones (East Fife) Yellow Card at 88',Rob Jones Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,26883.0,2025-08-17 04:58:25
+13495,742167,16,45666815,76,2,5280,88',0,0,Patrick Slattery (East Fife) Substitution at 88',Patrick Slattery Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,144447.0,2025-08-17 04:58:25
+13495,742167,16,45666815,76,2,5280,88',0,0,Patrick Slattery (East Fife) Substitution at 88',Patrick Slattery Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,347283.0,2025-08-17 04:58:25
+13495,742168,1,45663578,98,1,1320,22',1,0,Paul Allan (Inverness Caledonian Thistle) Penalty - Scored at 22',Paul Allan Penalty - Scored,253,0.0,0.0,0.0,0.0,0.0,0.0,1,31873.0,2025-08-17 04:58:25
+13495,742168,2,45664153,94,1,2040,34',0,0,Oscar Macintyre (Inverness Caledonian Thistle) Yellow Card at 34',Oscar Macintyre Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,324795.0,2025-08-17 04:58:25
+13495,742168,3,45664154,98,1,2100,35',1,0,Matthew Aitken (Stenhousemuir) Penalty - Scored at 35',Matthew Aitken Penalty - Scored,405,0.0,0.0,0.0,0.0,0.0,0.0,1,212362.0,2025-08-17 04:58:25
+13495,742168,4,45664387,94,1,2460,41',0,0,Ross Meechan (Stenhousemuir) Yellow Card at 41',Ross Meechan Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,162845.0,2025-08-17 04:58:25
+13495,742168,5,45664871,76,2,2700,45',0,0,Kelsey Ewen (Stenhousemuir) Substitution at 45',Kelsey Ewen Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,328053.0,2025-08-17 04:58:25
+13495,742168,5,45664871,76,2,2700,45',0,0,Kelsey Ewen (Stenhousemuir) Substitution at 45',Kelsey Ewen Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,322774.0,2025-08-17 04:58:25
+13495,742168,6,45665017,76,2,3000,50',0,0,Scott McGill (Stenhousemuir) Substitution at 50',Scott McGill Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,290707.0,2025-08-17 04:58:25
+13495,742168,6,45665017,76,2,3000,50',0,0,Scott McGill (Stenhousemuir) Substitution at 50',Scott McGill Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,13199.0,2025-08-17 04:58:25
+13495,742168,7,45665307,94,2,3360,56',0,0,Daniel Devine (Inverness Caledonian Thistle) Yellow Card at 56',Daniel Devine Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,157563.0,2025-08-17 04:58:25
+13495,742168,8,45665408,76,2,3540,59',0,0,Alfie Bavidge (Inverness Caledonian Thistle) Substitution at 59',Alfie Bavidge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,324735.0,2025-08-17 04:58:25
+13495,742168,8,45665408,76,2,3540,59',0,0,Alfie Bavidge (Inverness Caledonian Thistle) Substitution at 59',Alfie Bavidge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,31873.0,2025-08-17 04:58:25
+13495,742168,9,45665495,94,2,3660,61',0,0,Ewan O'Reilly (Stenhousemuir) Yellow Card at 61',Ewan O'Reilly Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,240728.0,2025-08-17 04:58:25
+13495,742168,10,45665969,76,2,4200,70',0,0,Ross Taylor (Stenhousemuir) Substitution at 70',Ross Taylor Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,12821.0,2025-08-17 04:58:25
+13495,742168,10,45665969,76,2,4200,70',0,0,Ross Taylor (Stenhousemuir) Substitution at 70',Ross Taylor Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,212362.0,2025-08-17 04:58:25
+13495,742168,12,45666289,76,2,4500,75',0,0,Jordan Alonge (Inverness Caledonian Thistle) Substitution at 75',Jordan Alonge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,392184.0,2025-08-17 04:58:25
+13495,742168,11,45666206,76,2,4500,75',0,0,Liam Sole (Inverness Caledonian Thistle) Substitution at 75',Liam Sole Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,267334.0,2025-08-17 04:58:25
+13495,742168,12,45666289,76,2,4500,75',0,0,Jordan Alonge (Inverness Caledonian Thistle) Substitution at 75',Jordan Alonge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,137726.0,2025-08-17 04:58:25
+13495,742168,11,45666206,76,2,4500,75',0,0,Liam Sole (Inverness Caledonian Thistle) Substitution at 75',Liam Sole Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,291645.0,2025-08-17 04:58:25
+13495,742168,13,45666376,76,2,4740,79',0,0,Chanka Zimba (Inverness Caledonian Thistle) Substitution at 79',Chanka Zimba Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,312007.0,2025-08-17 04:58:25
+13495,742168,13,45666376,76,2,4740,79',0,0,Chanka Zimba (Inverness Caledonian Thistle) Substitution at 79',Chanka Zimba Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,138377.0,2025-08-17 04:58:25
+13495,742168,14,45666435,94,2,4800,80',0,0,Scott McGill (Stenhousemuir) Yellow Card at 80',Scott McGill Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,290707.0,2025-08-17 04:58:25
+13495,742168,15,45666504,70,2,4860,81',1,0,Ross Taylor (Stenhousemuir) Goal at 81',Ross Taylor Goal,405,0.0,0.0,0.0,0.0,0.0,0.0,1,12821.0,2025-08-17 04:58:25
+13495,742168,16,45666671,76,2,5040,84',0,0,Nicky Jamieson (Stenhousemuir) Substitution at 84',Nicky Jamieson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,190512.0,2025-08-17 04:58:25
+13495,742168,16,45666671,76,2,5040,84',0,0,Nicky Jamieson (Stenhousemuir) Substitution at 84',Nicky Jamieson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,176836.0,2025-08-17 04:58:25
+13495,742170,1,45663281,76,1,900,15',0,0,Caleb Goldie (Peterhead) Substitution at 15',Caleb Goldie Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,365994.0,2025-08-17 04:58:25
+13495,742170,1,45663281,76,1,900,15',0,0,Caleb Goldie (Peterhead) Substitution at 15',Caleb Goldie Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,4903.0,2025-08-17 04:58:25
+13495,742170,2,45664069,70,1,2040,34',1,0,Kurtis Guthrie (Queen of the South) Goal at 34',Kurtis Guthrie Goal,406,0.0,0.0,0.0,0.0,0.0,0.0,1,164474.0,2025-08-17 04:58:25
+13495,742170,3,45664189,94,1,2220,37',0,0,Kai Kennedy (Queen of the South) Yellow Card at 37',Kai Kennedy Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,277529.0,2025-08-17 04:58:25
+13495,742170,4,45664493,94,1,2700,45',0,0,Taylor Charters (Queen of the South) Yellow Card at 45',Taylor Charters Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,293873.0,2025-08-17 04:58:25
+13495,742170,5,45665171,70,2,2820,47',1,0,Benjamin Luissint (Queen of the South) Goal at 47',Benjamin Luissint Goal,406,0.0,0.0,0.0,0.0,0.0,0.0,1,292911.0,2025-08-17 04:58:25
+13495,742170,6,45665344,70,2,3060,51',1,0,Kai Kennedy (Queen of the South) Goal at 51',Kai Kennedy Goal,406,0.0,0.0,0.0,0.0,0.0,0.0,1,277529.0,2025-08-17 04:58:25
+13495,742170,7,45665450,94,2,3180,53',0,0,Benjamin Luissint (Queen of the South) Yellow Card at 53',Benjamin Luissint Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,292911.0,2025-08-17 04:58:25
+13495,742170,8,45665737,76,2,3420,57',0,0,Oliver Colloty (Peterhead) Substitution at 57',Oliver Colloty Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,362626.0,2025-08-17 04:58:25
+13495,742170,9,45665738,76,2,3420,57',0,0,Jack Brown (Peterhead) Substitution at 57',Jack Brown Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,255732.0,2025-08-17 04:58:25
+13495,742170,9,45665738,76,2,3420,57',0,0,Jack Brown (Peterhead) Substitution at 57',Jack Brown Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,311111.0,2025-08-17 04:58:25
+13495,742170,8,45665737,76,2,3420,57',0,0,Oliver Colloty (Peterhead) Substitution at 57',Oliver Colloty Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,291446.0,2025-08-17 04:58:25
+13495,742170,10,45665739,76,2,3480,58',0,0,Niall McGinn (Peterhead) Substitution at 58',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,82925.0,2025-08-17 04:58:25
+13495,742170,11,45665740,76,2,3480,58',0,0,Cameron Smith (Peterhead) Substitution at 58',Cameron Smith Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,173126.0,2025-08-17 04:58:25
+13495,742170,11,45665740,76,2,3480,58',0,0,Cameron Smith (Peterhead) Substitution at 58',Cameron Smith Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,206454.0,2025-08-17 04:58:25
+13495,742170,10,45665739,76,2,3480,58',0,0,Niall McGinn (Peterhead) Substitution at 58',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,239223.0,2025-08-17 04:58:25
+13495,742170,12,45666761,70,2,4320,72',1,0,Taylor Charters (Queen of the South) Goal at 72',Taylor Charters Goal,406,0.0,0.0,0.0,0.0,0.0,0.0,1,293873.0,2025-08-17 04:58:25
+13495,742170,14,45666507,76,2,4500,75',0,0,Michael Hewitt (Queen of the South) Substitution at 75',Michael Hewitt Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,271185.0,2025-08-17 04:58:25
+13495,742170,13,45666506,76,2,4500,75',0,0,Ben Johnstone (Queen of the South) Substitution at 75',Ben Johnstone Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,260598.0,2025-08-17 04:58:25
+13495,742170,13,45666506,76,2,4500,75',0,0,Ben Johnstone (Queen of the South) Substitution at 75',Ben Johnstone Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,277539.0,2025-08-17 04:58:25
+13495,742170,14,45666507,76,2,4500,75',0,0,Michael Hewitt (Queen of the South) Substitution at 75',Michael Hewitt Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,388665.0,2025-08-17 04:58:25
+13495,742170,15,45666557,113,2,4560,76',0,0,Kieran Shanks (Peterhead) Penalty - Missed at 76',Kieran Shanks Penalty - Missed,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291447.0,2025-08-17 04:58:25
+13495,742170,16,45666666,94,2,4680,78',0,0,Caleb Goldie (Peterhead) Yellow Card at 78',Caleb Goldie Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,365994.0,2025-08-17 04:58:25
+13495,742170,17,45666667,94,2,4740,79',0,0,David Wilson (Peterhead) Yellow Card at 79',David Wilson Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291478.0,2025-08-17 04:58:25
+13495,742170,17,45666667,94,2,4740,79',0,0,David Wilson (Peterhead) Yellow Card at 79',David Wilson Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,260620.0,2025-08-17 04:58:25
+13495,742170,17,45666667,94,2,4740,79',0,0,David Wilson (Peterhead) Yellow Card at 79',David Wilson Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,259587.0,2025-08-17 04:58:25
+13495,742170,17,45666667,94,2,4740,79',0,0,David Wilson (Peterhead) Yellow Card at 79',David Wilson Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,197374.0,2025-08-17 04:58:25
+13495,742170,18,45666997,94,2,5100,85',0,0,Andrew McCarthy (Peterhead) Yellow Card at 85',Andrew McCarthy Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,239269.0,2025-08-17 04:58:25
+13495,742170,19,45667091,76,2,5280,88',0,0,Euan Ross (Queen of the South) Substitution at 88',Euan Ross Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,379454.0,2025-08-17 04:58:25
+13495,742170,20,45667092,76,2,5280,88',0,0,Freddie O'Donoghue (Queen of the South) Substitution at 88',Freddie O'Donoghue Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,390647.0,2025-08-17 04:58:25
+13495,742170,20,45667092,76,2,5280,88',0,0,Freddie O'Donoghue (Queen of the South) Substitution at 88',Freddie O'Donoghue Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,277529.0,2025-08-17 04:58:25
+13495,742170,19,45667091,76,2,5280,88',0,0,Euan Ross (Queen of the South) Substitution at 88',Euan Ross Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,164474.0,2025-08-17 04:58:25
+13495,742171,1,45731801,70,2,3240,54',1,0,David Devine (Alloa Athletic) Goal at 54',David Devine Goal,403,0.0,0.0,0.0,0.0,0.0,0.0,1,288582.0,2025-08-24 04:57:47
+13495,742171,2,45731863,76,2,3300,55',0,0,Michael Stone (Hamilton Academical) Substitution at 55',Michael Stone Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,4474.0,2025-08-24 04:57:47
+13495,742171,2,45731863,76,2,3300,55',0,0,Michael Stone (Hamilton Academical) Substitution at 55',Michael Stone Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,284083.0,2025-08-24 04:57:47
+13495,742171,3,45732401,76,2,3960,66',0,0,Conor Sammon (Alloa Athletic) Substitution at 66',Conor Sammon Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,121832.0,2025-08-24 04:57:47
+13495,742171,3,45732401,76,2,3960,66',0,0,Conor Sammon (Alloa Athletic) Substitution at 66',Conor Sammon Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,347933.0,2025-08-24 04:57:47
+13495,742171,4,45732782,94,2,4500,75',0,0,Michael Stone (Hamilton Academical) Yellow Card at 75',Michael Stone Yellow Card,409,0.0,0.0,0.0,0.0,0.0,0.0,1,4474.0,2025-08-24 04:57:47
+13495,742171,6,45732868,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,223057.0,2025-08-24 04:57:47
+13495,742171,5,45732827,76,2,4500,75',0,0,Cameron O'Donnel (Alloa Athletic) Substitution at 75',Cameron O'Donnel Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,290169.0,2025-08-24 04:57:47
+13495,742171,7,45732945,76,2,4500,75',0,0,Ewan Simpson (Hamilton Academical) Substitution at 75',Ewan Simpson Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,390678.0,2025-08-24 04:57:47
+13495,742171,7,45732945,76,2,4500,75',0,0,Ewan Simpson (Hamilton Academical) Substitution at 75',Ewan Simpson Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,261410.0,2025-08-24 04:57:47
+13495,742171,6,45732868,76,2,4500,75',0,0,Tony Gallacher (Hamilton Academical) Substitution at 75',Tony Gallacher Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,157908.0,2025-08-24 04:57:47
+13495,742171,5,45732827,76,2,4500,75',0,0,Cameron O'Donnel (Alloa Athletic) Substitution at 75',Cameron O'Donnel Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,275634.0,2025-08-24 04:57:47
+13495,742171,8,45733245,76,2,5100,85',0,0,David Mckay (Alloa Athletic) Substitution at 85',David Mckay Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,6857.0,2025-08-24 04:57:47
+13495,742171,8,45733245,76,2,5100,85',0,0,David Mckay (Alloa Athletic) Substitution at 85',David Mckay Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,288582.0,2025-08-24 04:57:47
+13495,742171,9,45733282,76,2,5160,86',0,0,Luke Donnelly (Alloa Athletic) Substitution at 86',Luke Donnelly Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,213517.0,2025-08-24 04:57:47
+13495,742171,9,45733282,76,2,5160,86',0,0,Luke Donnelly (Alloa Athletic) Substitution at 86',Luke Donnelly Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,153015.0,2025-08-24 04:57:47
+13495,742172,1,45731032,94,1,2280,38',0,0,Ewan Mcleod (East Fife) Yellow Card at 38',Ewan Mcleod Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,370588.0,2025-08-24 04:57:47
+13495,742172,2,45731053,70,1,2400,40',1,0,Andrew Munro (East Fife) Goal at 40',Andrew Munro Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,194882.0,2025-08-24 04:57:47
+13495,742172,3,45731256,70,1,2700,45',1,0,James Graham (Kelty Hearts) Goal at 45',James Graham Goal,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,347341.0,2025-08-24 04:57:47
+13495,742172,4,45731796,70,2,3120,52',1,0,Andrew Munro (East Fife) Goal at 52',Andrew Munro Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,194882.0,2025-08-24 04:57:47
+13495,742172,5,45732282,76,2,3720,62',0,0,Scott Mercer (Kelty Hearts) Substitution at 62',Scott Mercer Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,179655.0,2025-08-24 04:57:47
+13495,742172,6,45732283,76,2,3720,62',0,0,Joseph Teasdale (Kelty Hearts) Substitution at 62',Joseph Teasdale Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366765.0,2025-08-24 04:57:47
+13495,742172,5,45732282,76,2,3720,62',0,0,Scott Mercer (Kelty Hearts) Substitution at 62',Scott Mercer Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,266967.0,2025-08-24 04:57:47
+13495,742172,6,45732283,76,2,3720,62',0,0,Joseph Teasdale (Kelty Hearts) Substitution at 62',Joseph Teasdale Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,296138.0,2025-08-24 04:57:47
+13495,742172,7,45732459,76,2,3900,65',0,0,Tommy Goss (East Fife) Substitution at 65',Tommy Goss Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,306142.0,2025-08-24 04:57:47
+13495,742172,7,45732459,76,2,3900,65',0,0,Tommy Goss (East Fife) Substitution at 65',Tommy Goss Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,26883.0,2025-08-24 04:57:47
+13495,742172,8,45732574,76,2,4140,69',0,0,Lewis Latona (East Fife) Substitution at 69',Lewis Latona Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,353387.0,2025-08-24 04:57:47
+13495,742172,8,45732574,76,2,4140,69',0,0,Lewis Latona (East Fife) Substitution at 69',Lewis Latona Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,158096.0,2025-08-24 04:57:47
+13495,742172,9,45732917,76,2,4500,75',0,0,Reis Peggie (East Fife) Substitution at 75',Reis Peggie Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,260603.0,2025-08-24 04:57:47
+13495,742172,10,45732918,76,2,4500,75',0,0,Jess Norey (East Fife) Substitution at 75',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,365402.0,2025-08-24 04:57:47
+13495,742172,10,45732918,76,2,4500,75',0,0,Jess Norey (East Fife) Substitution at 75',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,370588.0,2025-08-24 04:57:47
+13495,742172,9,45732917,76,2,4500,75',0,0,Reis Peggie (East Fife) Substitution at 75',Reis Peggie Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,299920.0,2025-08-24 04:57:47
+13495,742172,11,45733693,93,2,5400,90'+5',0,0,Brian Easton (East Fife) Red Card at 95',Brian Easton Red Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,84408.0,2025-08-24 04:57:47
+13495,742172,15,45733794,94,2,5400,90'+7',0,0,Tommy Goss (East Fife) Yellow Card at 97',Tommy Goss Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,306142.0,2025-08-24 04:57:47
+13495,742172,13,45733726,94,2,5400,90'+5',0,0,Innes Murray (Kelty Hearts) Yellow Card at 95',Innes Murray Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,239235.0,2025-08-24 04:57:47
+13495,742172,14,45733762,76,2,5400,90'+5',0,0,Lewis Carrol (Kelty Hearts) Substitution at 95',Lewis Carrol Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366766.0,2025-08-24 04:57:47
+13495,742172,12,45733721,94,2,5400,90'+5',0,0,Michael McKenna (East Fife) Yellow Card at 95',Michael McKenna Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,206336.0,2025-08-24 04:57:47
+13495,742172,14,45733762,76,2,5400,90'+5',0,0,Lewis Carrol (Kelty Hearts) Substitution at 95',Lewis Carrol Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,347341.0,2025-08-24 04:57:47
+13495,742173,1,45730111,70,1,240,4',1,0,Alfie Bavidge (Inverness Caledonian Thistle) Goal at 4',Alfie Bavidge Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,324735.0,2025-08-24 04:57:47
+13495,742173,2,45730905,70,1,1980,33',1,0,Calum Macleod (Inverness Caledonian Thistle) Goal at 33',Calum Macleod Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,355495.0,2025-08-24 04:57:47
+13495,742173,3,45731576,76,2,2700,45',0,0,Michael Tidser (Montrose) Substitution at 45',Michael Tidser Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,144362.0,2025-08-24 04:57:47
+13495,742173,3,45731576,76,2,2700,45',0,0,Michael Tidser (Montrose) Substitution at 45',Michael Tidser Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,394832.0,2025-08-24 04:57:47
+13495,742173,3,45731576,76,2,2700,45',0,0,Michael Tidser (Montrose) Substitution at 45',Michael Tidser Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,388261.0,2025-08-24 04:57:47
+13495,742173,4,45732378,94,2,3840,64',0,0,Ewan Loudon (Montrose) Yellow Card at 64',Ewan Loudon Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,324917.0,2025-08-24 04:57:47
+13495,742173,5,45732654,76,2,4140,69',0,0,Liam Sole (Inverness Caledonian Thistle) Substitution at 69',Liam Sole Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,267334.0,2025-08-24 04:57:47
+13495,742173,5,45732654,76,2,4140,69',0,0,Liam Sole (Inverness Caledonian Thistle) Substitution at 69',Liam Sole Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,291645.0,2025-08-24 04:57:47
+13495,742173,6,45733006,76,2,4500,75',0,0,Robbie Thompson (Inverness Caledonian Thistle) Substitution at 75',Robbie Thompson Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,176966.0,2025-08-24 04:57:47
+13495,742173,6,45733006,76,2,4500,75',0,0,Robbie Thompson (Inverness Caledonian Thistle) Substitution at 75',Robbie Thompson Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,138377.0,2025-08-24 04:57:47
+13495,742173,10,45733039,76,2,4560,76',0,0,Harry Craig (Montrose) Substitution at 76',Harry Craig Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,376256.0,2025-08-24 04:57:47
+13495,742173,9,45733038,76,2,4560,76',0,0,Kyle Mcclenents (Montrose) Substitution at 76',Kyle Mcclenents Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,408760.0,2025-08-24 04:57:47
+13495,742173,8,45733037,76,2,4560,76',0,0,Graham Webster (Montrose) Substitution at 76',Graham Webster Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,153164.0,2025-08-24 04:57:47
+13495,742173,7,45733007,76,2,4560,76',0,0,Chanka Zimba (Inverness Caledonian Thistle) Substitution at 76',Chanka Zimba Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,312007.0,2025-08-24 04:57:47
+13495,742173,10,45733039,76,2,4560,76',0,0,Harry Craig (Montrose) Substitution at 76',Harry Craig Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,77584.0,2025-08-24 04:57:47
+13495,742173,7,45733007,76,2,4560,76',0,0,Chanka Zimba (Inverness Caledonian Thistle) Substitution at 76',Chanka Zimba Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,324735.0,2025-08-24 04:57:47
+13495,742173,8,45733037,76,2,4560,76',0,0,Graham Webster (Montrose) Substitution at 76',Graham Webster Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,250578.0,2025-08-24 04:57:47
+13495,742173,9,45733038,76,2,4560,76',0,0,Kyle Mcclenents (Montrose) Substitution at 76',Kyle Mcclenents Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,399530.0,2025-08-24 04:57:47
+13495,742173,9,45733038,76,2,4560,76',0,0,Kyle Mcclenents (Montrose) Substitution at 76',Kyle Mcclenents Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,287071.0,2025-08-24 04:57:47
+13495,742173,11,45733278,76,2,5040,84',0,0,Craig Brown (Montrose) Substitution at 84',Craig Brown Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,6213.0,2025-08-24 04:57:47
+13495,742173,11,45733278,76,2,5040,84',0,0,Craig Brown (Montrose) Substitution at 84',Craig Brown Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,302082.0,2025-08-24 04:57:47
+13495,742173,12,45733495,76,2,5400,90',0,0,Jordan Alonge (Inverness Caledonian Thistle) Substitution at 90',Jordan Alonge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,392184.0,2025-08-24 04:57:47
+13495,742173,12,45733495,76,2,5400,90',0,0,Jordan Alonge (Inverness Caledonian Thistle) Substitution at 90',Jordan Alonge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,26027.0,2025-08-24 04:57:47
+13495,742174,1,45730375,70,1,600,10',1,0,Max Barry (Peterhead) Goal at 10',Max Barry Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291446.0,2025-08-24 04:57:47
+13495,742174,2,45730464,94,1,780,13',0,0,Michael Doyle (Cove Rangers) Yellow Card at 13',Michael Doyle Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,14666.0,2025-08-24 04:57:47
+13495,742174,2,45730464,94,1,780,13',0,0,Michael Doyle (Cove Rangers) Yellow Card at 13',Michael Doyle Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,197106.0,2025-08-24 04:57:47
+13495,742174,3,45730786,70,1,1560,26',1,0,Kieran Shanks (Peterhead) Goal at 26',Kieran Shanks Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291447.0,2025-08-24 04:57:47
+13495,742174,4,45731991,94,2,3120,52',0,0,Layton Bisland (Cove Rangers) Yellow Card at 52',Layton Bisland Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,317304.0,2025-08-24 04:57:47
+13495,742174,5,45732458,70,2,3720,62',1,0,David Eguaibor (Cove Rangers) Goal at 62',David Eguaibor Goal,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,406313.0,2025-08-24 04:57:47
+13495,742174,6,45732576,76,2,3840,64',0,0,Sebastian Ross (Peterhead) Substitution at 64',Sebastian Ross Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,239223.0,2025-08-24 04:57:47
+13495,742174,6,45732576,76,2,3840,64',0,0,Sebastian Ross (Peterhead) Substitution at 64',Sebastian Ross Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,206454.0,2025-08-24 04:57:47
+13495,742174,7,45732748,94,2,4020,67',0,0,Blair Yule (Cove Rangers) Yellow Card at 67',Blair Yule Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,153146.0,2025-08-24 04:57:47
+13495,742174,8,45732951,93,2,4260,71',0,0,Blair Yule (Cove Rangers) Red Card at 71',Blair Yule Red Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,153146.0,2025-08-24 04:57:47
+13495,742174,9,45732952,94,2,4320,72',0,0,Cameron Smith (Peterhead) Yellow Card at 72',Cameron Smith Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,173126.0,2025-08-24 04:57:47
+13495,742174,10,45732953,94,2,4320,72',0,0,Mitchel Megginson (Cove Rangers) Yellow Card at 72',Mitchel Megginson Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,137801.0,2025-08-24 04:57:47
+13495,742174,11,45733040,76,2,4440,74',0,0,Jack Brown (Peterhead) Substitution at 74',Jack Brown Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,255732.0,2025-08-24 04:57:47
+13495,742174,11,45733040,76,2,4440,74',0,0,Jack Brown (Peterhead) Substitution at 74',Jack Brown Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,173126.0,2025-08-24 04:57:47
+13495,742174,12,45733223,70,2,4740,79',1,0,Jack Brown (Peterhead) Goal at 79',Jack Brown Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,255732.0,2025-08-24 04:57:47
+13495,742174,13,45733320,76,2,4860,81',0,0,Niall McGinn (Peterhead) Substitution at 81',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,82925.0,2025-08-24 04:57:47
+13495,742174,14,45733349,76,2,4860,81',0,0,Oliver Colloty (Peterhead) Substitution at 81',Oliver Colloty Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,362626.0,2025-08-24 04:57:47
+13495,742174,14,45733349,76,2,4860,81',0,0,Oliver Colloty (Peterhead) Substitution at 81',Oliver Colloty Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,291447.0,2025-08-24 04:57:47
+13495,742174,13,45733320,76,2,4860,81',0,0,Niall McGinn (Peterhead) Substitution at 81',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,291446.0,2025-08-24 04:57:47
+13495,742174,15,45733548,94,2,5160,86',0,0,Dylan Forrest (Peterhead) Yellow Card at 86',Dylan Forrest Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291656.0,2025-08-24 04:57:47
+13495,742175,1,45730717,94,1,1560,26',0,0,Gregor Buchanan (Stenhousemuir) Yellow Card at 26',Gregor Buchanan Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,176462.0,2025-08-24 04:57:47
+13495,742175,2,45731118,94,1,2520,42',0,0,Ben Johnstone (Queen of the South) Yellow Card at 42',Ben Johnstone Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,260598.0,2025-08-24 04:57:47
+13495,742175,3,45732304,76,2,3720,62',0,0,Michael Hewitt (Queen of the South) Substitution at 62',Michael Hewitt Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,271185.0,2025-08-24 04:57:47
+13495,742175,3,45732304,76,2,3720,62',0,0,Michael Hewitt (Queen of the South) Substitution at 62',Michael Hewitt Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,365996.0,2025-08-24 04:57:47
+13495,742175,4,45732485,94,2,3900,65',0,0,Scott McGill (Stenhousemuir) Yellow Card at 65',Scott McGill Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,290707.0,2025-08-24 04:57:47
+13495,742175,5,45732749,76,2,4260,71',0,0,Nicky Jamieson (Stenhousemuir) Substitution at 71',Nicky Jamieson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,190512.0,2025-08-24 04:57:47
+13495,742175,5,45732749,76,2,4260,71',0,0,Nicky Jamieson (Stenhousemuir) Substitution at 71',Nicky Jamieson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,290707.0,2025-08-24 04:57:47
+13495,742175,6,45732750,76,2,4320,72',0,0,Matthew Aitken (Stenhousemuir) Substitution at 72',Matthew Aitken Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,212362.0,2025-08-24 04:57:47
+13495,742175,7,45732751,76,2,4320,72',0,0,Freddie O'Donoghue (Queen of the South) Substitution at 72',Freddie O'Donoghue Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,390647.0,2025-08-24 04:57:47
+13495,742175,6,45732750,76,2,4320,72',0,0,Matthew Aitken (Stenhousemuir) Substitution at 72',Matthew Aitken Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,12821.0,2025-08-24 04:57:47
+13495,742175,7,45732751,76,2,4320,72',0,0,Freddie O'Donoghue (Queen of the South) Substitution at 72',Freddie O'Donoghue Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,260598.0,2025-08-24 04:57:47
+13495,742175,8,45733400,76,2,5160,86',0,0,Kinlay Bilham (Stenhousemuir) Substitution at 86',Kinlay Bilham Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,322774.0,2025-08-24 04:57:47
+13495,742175,8,45733400,76,2,5160,86',0,0,Kinlay Bilham (Stenhousemuir) Substitution at 86',Kinlay Bilham Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,366706.0,2025-08-24 04:57:47
+13495,742175,9,45733472,94,2,5280,88',0,0,Reece Lyon (Queen of the South) Yellow Card at 88',Reece Lyon Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,277539.0,2025-08-24 04:57:47
+13495,742175,10,45733503,94,2,5340,89',0,0,Matthew Aitken (Stenhousemuir) Yellow Card at 89',Matthew Aitken Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,212362.0,2025-08-24 04:57:47
+13495,742175,11,45733640,94,2,5400,90'+3',0,0,Kinlay Bilham (Stenhousemuir) Yellow Card at 93',Kinlay Bilham Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,322774.0,2025-08-24 04:57:47
+13495,742176,1,45796224,76,2,4260,71',0,0,Stuart Mckinstry (Hamilton Academical) Substitution at 71',Stuart Mckinstry Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,284083.0,2025-08-31 05:07:50
+13495,742176,2,45796225,76,2,4260,71',0,0,Bobby Mcluckie (Hamilton Academical) Substitution at 71',Bobby Mcluckie Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,346188.0,2025-08-31 05:07:50
+13495,742176,1,45796224,76,2,4260,71',0,0,Stuart Mckinstry (Hamilton Academical) Substitution at 71',Stuart Mckinstry Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,157908.0,2025-08-31 05:07:50
+13495,742176,2,45796225,76,2,4260,71',0,0,Bobby Mcluckie (Hamilton Academical) Substitution at 71',Bobby Mcluckie Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,390678.0,2025-08-31 05:07:50
+13495,742176,3,45796284,94,2,4380,73',0,0,Mitchel Megginson (Cove Rangers) Yellow Card at 73',Mitchel Megginson Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,137801.0,2025-08-31 05:07:50
+13495,742176,4,45796526,76,2,5160,86',0,0,Cole Donaldson (Cove Rangers) Substitution at 86',Cole Donaldson Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,387350.0,2025-08-31 05:07:50
+13495,742176,4,45796526,76,2,5160,86',0,0,Cole Donaldson (Cove Rangers) Substitution at 86',Cole Donaldson Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,347007.0,2025-08-31 05:07:50
+13495,742176,5,45823963,94,2,5400,90'+3',0,0,Connot Smith (Hamilton Academical) Yellow Card at 93',Connot Smith Yellow Card,409,0.0,0.0,0.0,0.0,0.0,0.0,1,261410.0,2025-09-05 05:16:55
+13495,742177,1,45790599,94,1,960,16',0,0,Remi Savage (Inverness Caledonian Thistle) Yellow Card at 16',Remi Savage Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,291632.0,2025-08-31 05:07:50
+13495,742177,2,45791862,76,2,2700,45',0,0,Calum Adamson (Alloa Athletic) Substitution at 45',Calum Adamson Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,285387.0,2025-08-31 05:07:50
+13495,742177,2,45791862,76,2,2700,45',0,0,Calum Adamson (Alloa Athletic) Substitution at 45',Calum Adamson Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,153015.0,2025-08-31 05:07:50
+13495,742177,3,45792659,76,2,3720,62',0,0,Chanka Zimba (Inverness Caledonian Thistle) Substitution at 62',Chanka Zimba Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,312007.0,2025-08-31 05:07:50
+13495,742177,3,45792659,76,2,3720,62',0,0,Chanka Zimba (Inverness Caledonian Thistle) Substitution at 62',Chanka Zimba Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,137726.0,2025-08-31 05:07:50
+13495,742177,4,45792964,76,2,4080,68',0,0,Liam Sole (Inverness Caledonian Thistle) Substitution at 68',Liam Sole Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,267334.0,2025-08-31 05:07:50
+13495,742177,4,45792964,76,2,4080,68',0,0,Liam Sole (Inverness Caledonian Thistle) Substitution at 68',Liam Sole Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,291645.0,2025-08-31 05:07:50
+13495,742177,5,45793166,70,2,4320,72',1,0,Liam Sole (Inverness Caledonian Thistle) Goal at 72',Liam Sole Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,267334.0,2025-08-31 05:07:50
+13495,742177,6,45793346,76,2,4560,76',0,0,Luke Donnelly (Alloa Athletic) Substitution at 76',Luke Donnelly Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,213517.0,2025-08-31 05:07:50
+13495,742177,6,45793346,76,2,4560,76',0,0,Luke Donnelly (Alloa Athletic) Substitution at 76',Luke Donnelly Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,207443.0,2025-08-31 05:07:50
+13495,742177,7,45793743,94,2,5100,85',0,0,Steven Buchanan (Alloa Athletic) Yellow Card at 85',Steven Buchanan Yellow Card,403,0.0,0.0,0.0,0.0,0.0,0.0,1,345183.0,2025-08-31 05:07:50
+13495,742177,9,45793817,76,2,5100,85',0,0,Adam Mackinnon (Inverness Caledonian Thistle) Substitution at 85',Adam Mackinnon Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,291498.0,2025-08-31 05:07:50
+13495,742177,8,45793816,76,2,5100,85',0,0,Robbie Thompson (Inverness Caledonian Thistle) Substitution at 85',Robbie Thompson Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,176966.0,2025-08-31 05:07:50
+13495,742177,8,45793816,76,2,5100,85',0,0,Robbie Thompson (Inverness Caledonian Thistle) Substitution at 85',Robbie Thompson Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,324735.0,2025-08-31 05:07:50
+13495,742177,9,45793817,76,2,5100,85',0,0,Adam Mackinnon (Inverness Caledonian Thistle) Substitution at 85',Adam Mackinnon Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,138377.0,2025-08-31 05:07:50
+13495,742177,10,45793823,76,2,5160,86',0,0,Lewis Bruin (Alloa Athletic) Substitution at 86',Lewis Bruin Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,397572.0,2025-08-31 05:07:50
+13495,742177,10,45793823,76,2,5160,86',0,0,Lewis Bruin (Alloa Athletic) Substitution at 86',Lewis Bruin Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,345183.0,2025-08-31 05:07:50
+13495,742177,11,45794039,94,2,5400,90',0,0,Robbie Thompson (Inverness Caledonian Thistle) Yellow Card at 90',Robbie Thompson Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,176966.0,2025-08-31 05:07:50
+13495,742178,1,45790401,70,1,780,13',1,0,Aidan Quinn (Montrose) Goal at 13',Aidan Quinn Goal,414,0.0,0.0,0.0,0.0,0.0,0.0,1,302082.0,2025-08-31 05:07:50
+13495,742178,2,45790584,76,1,1080,18',0,0,Adam Carnwath (Peterhead) Substitution at 18',Adam Carnwath Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,376984.0,2025-08-31 05:07:50
+13495,742178,2,45790584,76,1,1080,18',0,0,Adam Carnwath (Peterhead) Substitution at 18',Adam Carnwath Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,292263.0,2025-08-31 05:07:50
+13495,742178,3,45790700,70,1,1380,23',1,0,Blair Lyons (Montrose) Goal at 23',Blair Lyons Goal,414,0.0,0.0,0.0,0.0,0.0,0.0,1,250578.0,2025-08-31 05:07:50
+13495,742178,4,45791008,70,1,2040,34',1,0,Kieran Shanks (Peterhead) Goal at 34',Kieran Shanks Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291447.0,2025-08-31 05:07:50
+13495,742178,5,45791860,76,2,2700,45',0,0,Ross Clark (Montrose) Substitution at 45',Ross Clark Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,394832.0,2025-08-31 05:07:50
+13495,742178,5,45791860,76,2,2700,45',0,0,Ross Clark (Montrose) Substitution at 45',Ross Clark Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,388261.0,2025-08-31 05:07:50
+13495,742178,5,45791860,76,2,2700,45',0,0,Ross Clark (Montrose) Substitution at 45',Ross Clark Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,77584.0,2025-08-31 05:07:50
+13495,742178,6,45792164,174,2,3060,51',0,0,Ewan Loudon (Montrose) Penalty - Saved at 51',Ewan Loudon Penalty - Saved,414,0.0,0.0,0.0,0.0,0.0,0.0,1,324917.0,2025-08-31 05:07:50
+13495,742178,7,45792568,94,2,3540,59',0,0,Kieran Freeman (Montrose) Yellow Card at 59',Kieran Freeman Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,150839.0,2025-08-31 05:07:50
+13495,742178,8,45792945,76,2,4080,68',0,0,Lewis Gibson (Montrose) Substitution at 68',Lewis Gibson Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,347398.0,2025-08-31 05:07:50
+13495,742178,8,45792945,76,2,4080,68',0,0,Lewis Gibson (Montrose) Substitution at 68',Lewis Gibson Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,261431.0,2025-08-31 05:07:50
+13495,742178,8,45792945,76,2,4080,68',0,0,Lewis Gibson (Montrose) Substitution at 68',Lewis Gibson Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,144362.0,2025-08-31 05:07:50
+13495,742178,9,45793021,76,2,4140,69',0,0,Niall McGinn (Peterhead) Substitution at 69',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,82925.0,2025-08-31 05:07:50
+13495,742178,10,45793022,76,2,4140,69',0,0,Sebastian Ross (Peterhead) Substitution at 69',Sebastian Ross Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,239223.0,2025-08-31 05:07:50
+13495,742178,10,45793022,76,2,4140,69',0,0,Sebastian Ross (Peterhead) Substitution at 69',Sebastian Ross Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,206454.0,2025-08-31 05:07:50
+13495,742178,9,45793021,76,2,4140,69',0,0,Niall McGinn (Peterhead) Substitution at 69',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,291446.0,2025-08-31 05:07:50
+13495,742178,11,45793189,94,2,4380,73',0,0,Evan Towler (Montrose) Yellow Card at 73',Evan Towler Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,324750.0,2025-08-31 05:07:50
+13495,742178,12,45793365,94,2,4560,76',0,0,Lewis Gibson (Montrose) Yellow Card at 76',Lewis Gibson Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,347398.0,2025-08-31 05:07:50
+13495,742178,12,45793365,94,2,4560,76',0,0,Lewis Gibson (Montrose) Yellow Card at 76',Lewis Gibson Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,261431.0,2025-08-31 05:07:50
+13495,742178,13,45793593,76,2,4800,80',0,0,Oliver Colloty (Peterhead) Substitution at 80',Oliver Colloty Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,362626.0,2025-08-31 05:07:50
+13495,742178,14,45793594,76,2,4800,80',0,0,Jack Brown (Peterhead) Substitution at 80',Jack Brown Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,255732.0,2025-08-31 05:07:50
+13495,742178,13,45793593,76,2,4800,80',0,0,Oliver Colloty (Peterhead) Substitution at 80',Oliver Colloty Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,311111.0,2025-08-31 05:07:50
+13495,742178,14,45793594,76,2,4800,80',0,0,Jack Brown (Peterhead) Substitution at 80',Jack Brown Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,173126.0,2025-08-31 05:07:50
+13495,742178,16,45793892,76,2,5280,88',0,0,Harry Craig (Montrose) Substitution at 88',Harry Craig Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,376256.0,2025-08-31 05:07:50
+13495,742178,15,45793891,76,2,5280,88',0,0,Matheus Machado (Montrose) Substitution at 88',Matheus Machado Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,399530.0,2025-08-31 05:07:50
+13495,742178,15,45793891,76,2,5280,88',0,0,Matheus Machado (Montrose) Substitution at 88',Matheus Machado Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,287071.0,2025-08-31 05:07:50
+13495,742178,15,45793891,76,2,5280,88',0,0,Matheus Machado (Montrose) Substitution at 88',Matheus Machado Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,250578.0,2025-08-31 05:07:50
+13495,742178,16,45793892,76,2,5280,88',0,0,Harry Craig (Montrose) Substitution at 88',Harry Craig Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,153164.0,2025-08-31 05:07:50
+13495,742178,17,45794017,94,2,5400,90',0,0,Ross Clark (Montrose) Yellow Card at 90',Ross Clark Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,394832.0,2025-08-31 05:07:50
+13495,742178,17,45794017,94,2,5400,90',0,0,Ross Clark (Montrose) Yellow Card at 90',Ross Clark Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,388261.0,2025-08-31 05:07:50
+13495,742179,1,45790675,70,1,1260,21',1,0,Kurtis Guthrie (Queen of the South) Goal at 21',Kurtis Guthrie Goal,406,0.0,0.0,0.0,0.0,0.0,0.0,1,164474.0,2025-08-31 05:07:50
+13495,742179,2,45790852,94,1,1560,26',0,0,Brody Paterson (Kelty Hearts) Yellow Card at 26',Brody Paterson Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,291502.0,2025-08-31 05:07:50
+13495,742179,3,45791545,94,1,2700,45'+1',0,0,Innes Murray (Kelty Hearts) Yellow Card at 46',Innes Murray Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,239235.0,2025-08-31 05:07:50
+13495,742179,4,45792219,70,2,3180,53',1,0,Aaron Arnott (Kelty Hearts) Goal at 53',Aaron Arnott Goal,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,308681.0,2025-08-31 05:07:50
+13495,742179,5,45792680,76,2,3780,63',0,0,Benjamin Luissint (Queen of the South) Substitution at 63',Benjamin Luissint Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,292911.0,2025-08-31 05:07:50
+13495,742179,5,45792680,76,2,3780,63',0,0,Benjamin Luissint (Queen of the South) Substitution at 63',Benjamin Luissint Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,260598.0,2025-08-31 05:07:50
+13495,742179,6,45792923,76,2,4020,67',0,0,Joseph Teasdale (Kelty Hearts) Substitution at 67',Joseph Teasdale Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366765.0,2025-08-31 05:07:50
+13495,742179,6,45792923,76,2,4020,67',0,0,Joseph Teasdale (Kelty Hearts) Substitution at 67',Joseph Teasdale Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,296138.0,2025-08-31 05:07:50
+13495,742179,7,45792979,94,2,4140,69',0,0,Jack Stott (Queen of the South) Yellow Card at 69',Jack Stott Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,144432.0,2025-08-31 05:07:50
+13495,742179,8,45793179,94,2,4380,73',0,0,Kai Kennedy (Queen of the South) Yellow Card at 73',Kai Kennedy Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,277529.0,2025-08-31 05:07:50
+13495,742179,10,45793662,76,2,4980,83',0,0,Scott Mercer (Kelty Hearts) Substitution at 83',Scott Mercer Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,179655.0,2025-08-31 05:07:50
+13495,742179,9,45793661,76,2,4980,83',0,0,Freddie O'Donoghue (Queen of the South) Substitution at 83',Freddie O'Donoghue Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,390647.0,2025-08-31 05:07:50
+13495,742179,9,45793661,76,2,4980,83',0,0,Freddie O'Donoghue (Queen of the South) Substitution at 83',Freddie O'Donoghue Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,41258.0,2025-08-31 05:07:50
+13495,742179,10,45793662,76,2,4980,83',0,0,Scott Mercer (Kelty Hearts) Substitution at 83',Scott Mercer Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,144039.0,2025-08-31 05:07:50
+13495,742179,12,45793783,76,2,5160,86',0,0,Murray Thomas (Kelty Hearts) Substitution at 86',Murray Thomas Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,266967.0,2025-08-31 05:07:50
+13495,742179,11,45793782,76,2,5160,86',0,0,Lewis Carrol (Kelty Hearts) Substitution at 86',Lewis Carrol Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366766.0,2025-08-31 05:07:50
+13495,742179,11,45793782,76,2,5160,86',0,0,Lewis Carrol (Kelty Hearts) Substitution at 86',Lewis Carrol Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,397290.0,2025-08-31 05:07:50
+13495,742179,12,45793783,76,2,5160,86',0,0,Murray Thomas (Kelty Hearts) Substitution at 86',Murray Thomas Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,347341.0,2025-08-31 05:07:50
+13495,742179,13,45793886,70,2,5280,88',1,0,Reece Lyon (Queen of the South) Goal at 88',Reece Lyon Goal,406,0.0,0.0,0.0,0.0,0.0,0.0,1,277539.0,2025-08-31 05:07:50
+13495,742179,14,45794093,76,2,5400,90'+2',0,0,Cole Burke (Queen of the South) Substitution at 92',Cole Burke Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,388266.0,2025-08-31 05:07:50
+13495,742179,14,45794093,76,2,5400,90'+2',0,0,Cole Burke (Queen of the South) Substitution at 92',Cole Burke Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,144432.0,2025-08-31 05:07:50
+13495,742180,1,45791049,94,1,1980,33',0,0,Gregor Buchanan (Stenhousemuir) Yellow Card at 33',Gregor Buchanan Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-08-31 05:07:50
+13495,742180,2,45791830,76,2,2700,45',0,0,Kinlay Bilham (Stenhousemuir) Substitution at 45',Kinlay Bilham Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,322774.0,2025-08-31 05:07:50
+13495,742180,2,45791830,76,2,2700,45',0,0,Kinlay Bilham (Stenhousemuir) Substitution at 45',Kinlay Bilham Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,328053.0,2025-08-31 05:07:50
+13495,742180,3,45792168,94,2,3120,52',0,0,Ross Meechan (Stenhousemuir) Yellow Card at 52',Ross Meechan Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,162845.0,2025-08-31 05:07:50
+13495,742180,4,45792442,94,2,3480,58',0,0,Sam Culbert (East Fife) Yellow Card at 58',Sam Culbert Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,347283.0,2025-08-31 05:07:50
+13495,742180,5,45792520,94,2,3600,60',0,0,Conor McManus (East Fife) Yellow Card at 60',Conor McManus Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,221694.0,2025-08-31 05:07:50
+13495,742180,7,45792700,94,2,3780,63',0,0,Liam Newton (East Fife) Yellow Card at 63',Liam Newton Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,299920.0,2025-08-31 05:07:50
+13495,742180,6,45792699,94,2,3780,63',0,0,Scott McGill (Stenhousemuir) Yellow Card at 63',Scott McGill Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,290707.0,2025-08-31 05:07:50
+13495,742180,9,45792770,76,2,3900,65',0,0,Reis Peggie (East Fife) Substitution at 65',Reis Peggie Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,260603.0,2025-08-31 05:07:50
+13495,742180,8,45792769,76,2,3900,65',0,0,Jess Norey (East Fife) Substitution at 65',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,365402.0,2025-08-31 05:07:50
+13495,742180,9,45792770,76,2,3900,65',0,0,Reis Peggie (East Fife) Substitution at 65',Reis Peggie Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,347283.0,2025-08-31 05:07:50
+13495,742180,8,45792769,76,2,3900,65',0,0,Jess Norey (East Fife) Substitution at 65',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,353387.0,2025-08-31 05:07:50
+13495,742180,10,45792997,76,2,4140,69',0,0,Michael Anderson (Stenhousemuir) Substitution at 69',Michael Anderson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,13199.0,2025-08-31 05:07:50
+13495,742180,10,45792997,76,2,4140,69',0,0,Michael Anderson (Stenhousemuir) Substitution at 69',Michael Anderson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,366706.0,2025-08-31 05:07:50
+13495,742180,11,45793092,76,2,4260,71',0,0,Rob Jones (East Fife) Substitution at 71',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,26883.0,2025-08-31 05:07:50
+13495,742180,11,45793092,76,2,4260,71',0,0,Rob Jones (East Fife) Substitution at 71',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,306142.0,2025-08-31 05:07:50
+13495,742180,12,45793149,93,2,4380,73',0,0,Andrew Munro (East Fife) Red Card at 73',Andrew Munro Red Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,194882.0,2025-08-31 05:07:50
+13495,742180,13,45793170,70,2,4440,74',1,0,Ewan O'Reilly (Stenhousemuir) Goal at 74',Ewan O'Reilly Goal,405,0.0,0.0,0.0,0.0,0.0,0.0,1,240728.0,2025-08-31 05:07:50
+13495,742180,14,45793252,76,2,4440,74',0,0,Mamadou Bah (East Fife) Substitution at 74',Mamadou Bah Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,387071.0,2025-08-31 05:07:50
+13495,742180,14,45793252,76,2,4440,74',0,0,Mamadou Bah (East Fife) Substitution at 74',Mamadou Bah Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,362297.0,2025-08-31 05:07:50
+13495,742180,14,45793252,76,2,4440,74',0,0,Mamadou Bah (East Fife) Substitution at 74',Mamadou Bah Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,299920.0,2025-08-31 05:07:50
+13495,742180,15,45793257,76,2,4500,75',0,0,Matthew Aitken (Stenhousemuir) Substitution at 75',Matthew Aitken Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,212362.0,2025-08-31 05:07:50
+13495,742180,15,45793257,76,2,4500,75',0,0,Matthew Aitken (Stenhousemuir) Substitution at 75',Matthew Aitken Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,176836.0,2025-08-31 05:07:50
+13495,742180,16,45793658,76,2,4980,83',0,0,Nicky Jamieson (Stenhousemuir) Substitution at 83',Nicky Jamieson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,190512.0,2025-08-31 05:07:50
+13495,742180,16,45793658,76,2,4980,83',0,0,Nicky Jamieson (Stenhousemuir) Substitution at 83',Nicky Jamieson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,12821.0,2025-08-31 05:07:50
+13495,742180,17,45793903,94,2,5280,88',0,0,Kinlay Bilham (Stenhousemuir) Yellow Card at 88',Kinlay Bilham Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,322774.0,2025-08-31 05:07:50
+13495,742180,18,45793904,70,2,5340,89',1,0,Nathan Austin (East Fife) Goal at 89',Nathan Austin Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,190432.0,2025-08-31 05:07:50
+13495,742181,1,45869472,94,1,1740,29',0,0,Cameron Smith (Peterhead) Yellow Card at 29',Cameron Smith Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,173126.0,2025-09-14 05:27:43
+13495,742181,2,45869516,70,1,1800,30',1,0,Craig McGuffie (Peterhead) Goal at 30',Craig McGuffie Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,206454.0,2025-09-14 05:27:43
+13495,742181,3,45870105,70,1,2580,43',1,0,Oliver Shaw (Hamilton Academical) Goal at 43',Oliver Shaw Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,223407.0,2025-09-14 05:27:43
+13495,742181,4,45871113,94,2,3300,55',0,0,Stuart Mckinstry (Hamilton Academical) Yellow Card at 55',Stuart Mckinstry Yellow Card,409,0.0,0.0,0.0,0.0,0.0,0.0,1,284083.0,2025-09-14 05:27:43
+13495,742181,5,45871463,70,2,3720,62',1,0,Cameron Smith (Peterhead) Goal at 62',Cameron Smith Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,173126.0,2025-09-14 05:27:43
+13495,742181,7,45871687,76,2,3960,66',0,0,David Wilson (Peterhead) Substitution at 66',David Wilson Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291478.0,2025-09-14 05:27:43
+13495,742181,7,45871687,76,2,3960,66',0,0,David Wilson (Peterhead) Substitution at 66',David Wilson Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,260620.0,2025-09-14 05:27:43
+13495,742181,7,45871687,76,2,3960,66',0,0,David Wilson (Peterhead) Substitution at 66',David Wilson Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,259587.0,2025-09-14 05:27:43
+13495,742181,7,45871687,76,2,3960,66',0,0,David Wilson (Peterhead) Substitution at 66',David Wilson Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,197374.0,2025-09-14 05:27:43
+13495,742181,6,45871686,76,2,3960,66',0,0,Jack Brown (Peterhead) Substitution at 66',Jack Brown Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,255732.0,2025-09-14 05:27:43
+13495,742181,6,45871686,76,2,3960,66',0,0,Jack Brown (Peterhead) Substitution at 66',Jack Brown Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,239269.0,2025-09-14 05:27:43
+13495,742181,7,45871687,76,2,3960,66',0,0,David Wilson (Peterhead) Substitution at 66',David Wilson Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,376984.0,2025-09-14 05:27:43
+13495,742181,8,45871968,76,2,4260,71',0,0,Niall McGinn (Peterhead) Substitution at 71',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,82925.0,2025-09-14 05:27:43
+13495,742181,8,45871968,76,2,4260,71',0,0,Niall McGinn (Peterhead) Substitution at 71',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,291446.0,2025-09-14 05:27:43
+13495,742181,9,45871969,76,2,4320,72',0,0,Sebastian Ross (Peterhead) Substitution at 72',Sebastian Ross Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,239223.0,2025-09-14 05:27:43
+13495,742181,9,45871969,76,2,4320,72',0,0,Sebastian Ross (Peterhead) Substitution at 72',Sebastian Ross Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,206454.0,2025-09-14 05:27:43
+13495,742181,10,45872168,94,2,4500,75',0,0,Cale Loughrey (Hamilton Academical) Yellow Card at 75',Cale Loughrey Yellow Card,409,0.0,0.0,0.0,0.0,0.0,0.0,1,308530.0,2025-09-14 05:27:43
+13495,742181,12,45872247,94,2,4620,77',0,0,Dylan Forrest (Peterhead) Yellow Card at 77',Dylan Forrest Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291656.0,2025-09-14 05:27:43
+13495,742181,11,45872246,94,2,4620,77',0,0,Scott Robinson (Hamilton Academical) Yellow Card at 77',Scott Robinson Yellow Card,409,0.0,0.0,0.0,0.0,0.0,0.0,1,119000.0,2025-09-14 05:27:43
+13495,742181,13,45872458,76,2,4860,81',0,0,Bobby Mcluckie (Hamilton Academical) Substitution at 81',Bobby Mcluckie Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,346188.0,2025-09-14 05:27:43
+13495,742181,13,45872458,76,2,4860,81',0,0,Bobby Mcluckie (Hamilton Academical) Substitution at 81',Bobby Mcluckie Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,223407.0,2025-09-14 05:27:43
+13495,742181,14,45872604,94,2,4980,83',0,0,Kyle MacDonald (Hamilton Academical) Yellow Card at 83',Kyle MacDonald Yellow Card,409,0.0,0.0,0.0,0.0,0.0,0.0,1,168204.0,2025-09-14 05:27:43
+13495,742181,15,45872605,76,2,5040,84',0,0,Oliver Colloty (Peterhead) Substitution at 84',Oliver Colloty Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,362626.0,2025-09-14 05:27:43
+13495,742181,15,45872605,76,2,5040,84',0,0,Oliver Colloty (Peterhead) Substitution at 84',Oliver Colloty Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,173126.0,2025-09-14 05:27:43
+13495,742181,16,45872860,94,2,5220,87',0,0,Kieran Shanks (Peterhead) Yellow Card at 87',Kieran Shanks Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291447.0,2025-09-14 05:27:43
+13495,742181,17,45872884,70,2,5340,89',1,0,Stuart Mckinstry (Hamilton Academical) Goal at 89',Stuart Mckinstry Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,284083.0,2025-09-14 05:27:43
+13495,742182,1,45874503,76,1,1020,17',0,0,Jackson Mylchreest (Cove Rangers) Substitution at 17',Jackson Mylchreest Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,347007.0,2025-09-14 05:27:43
+13495,742182,1,45874503,76,1,1020,17',0,0,Jackson Mylchreest (Cove Rangers) Substitution at 17',Jackson Mylchreest Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,260284.0,2025-09-14 05:27:43
+13495,742182,2,45874589,94,1,1320,22',0,0,Jackson Mylchreest (Cove Rangers) Yellow Card at 22',Jackson Mylchreest Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,347007.0,2025-09-14 05:27:43
+13495,742182,3,45874950,94,1,2700,45',0,0,Mitchel Megginson (Cove Rangers) Yellow Card at 45',Mitchel Megginson Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,137801.0,2025-09-14 05:27:43
+13495,742182,4,45875462,76,2,3660,61',0,0,Chanka Zimba (Inverness Caledonian Thistle) Substitution at 61',Chanka Zimba Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,312007.0,2025-09-14 05:27:43
+13495,742182,5,45875487,76,2,3660,61',0,0,Luis Longstaff (Inverness Caledonian Thistle) Substitution at 61',Luis Longstaff Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,291645.0,2025-09-14 05:27:43
+13495,742182,5,45875487,76,2,3660,61',0,0,Luis Longstaff (Inverness Caledonian Thistle) Substitution at 61',Luis Longstaff Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,324735.0,2025-09-14 05:27:43
+13495,742182,4,45875462,76,2,3660,61',0,0,Chanka Zimba (Inverness Caledonian Thistle) Substitution at 61',Chanka Zimba Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,138377.0,2025-09-14 05:27:43
+13495,742182,6,45875576,70,2,3960,66',1,0,Calum Macleod (Inverness Caledonian Thistle) Goal at 66',Calum Macleod Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,355495.0,2025-09-14 05:27:43
+13495,742182,7,45875744,76,2,4500,75',0,0,Paul Allan (Inverness Caledonian Thistle) Substitution at 75',Paul Allan Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,31873.0,2025-09-14 05:27:43
+13495,742182,7,45875744,76,2,4500,75',0,0,Paul Allan (Inverness Caledonian Thistle) Substitution at 75',Paul Allan Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,137726.0,2025-09-14 05:27:43
+13495,742182,8,45875804,94,2,4800,80',0,0,Alfie Stewart (Inverness Caledonian Thistle) Yellow Card at 80',Alfie Stewart Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,26027.0,2025-09-14 05:27:43
+13495,742182,9,45875928,94,2,5160,86',0,0,Liam Parker (Cove Rangers) Yellow Card at 86',Liam Parker Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,324849.0,2025-09-14 05:27:43
+13495,742182,12,45876076,94,2,5400,90'+6',0,0,David Eguaibor (Cove Rangers) Yellow Card at 96',David Eguaibor Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,406313.0,2025-09-14 05:27:43
+13495,742182,10,45876003,76,2,5400,90'+3',0,0,Adam Mackinnon (Inverness Caledonian Thistle) Substitution at 93',Adam Mackinnon Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,291498.0,2025-09-14 05:27:43
+13495,742182,11,45876040,94,2,5400,90'+5',0,0,Liam Sole (Inverness Caledonian Thistle) Yellow Card at 95',Liam Sole Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,267334.0,2025-09-14 05:27:43
+13495,742182,10,45876003,76,2,5400,90'+3',0,0,Adam Mackinnon (Inverness Caledonian Thistle) Substitution at 93',Adam Mackinnon Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,267334.0,2025-09-14 05:27:43
+13495,742183,1,45868691,94,1,420,7',0,0,Ross Taylor (Stenhousemuir) Yellow Card at 7',Ross Taylor Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,12821.0,2025-09-14 05:27:43
+13495,742183,2,45869411,98,1,1680,28',1,0,Ewan O'Reilly (Stenhousemuir) Penalty - Scored at 28',Ewan O'Reilly Penalty - Scored,405,0.0,0.0,0.0,0.0,0.0,0.0,1,240728.0,2025-09-14 05:27:43
+13495,742183,3,45869447,94,1,1740,29',0,0,Innes Murray (Kelty Hearts) Yellow Card at 29',Innes Murray Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,239235.0,2025-09-14 05:27:43
+13495,742183,4,45869807,94,1,2280,38',0,0,Jack Brydon (Kelty Hearts) Yellow Card at 38',Jack Brydon Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,316544.0,2025-09-14 05:27:43
+13495,742183,6,45870715,76,2,2700,45',0,0,Cooper Masson (Kelty Hearts) Substitution at 45',Cooper Masson Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366749.0,2025-09-14 05:27:43
+13495,742183,5,45870714,76,2,2700,45',0,0,Lewis Carrol (Kelty Hearts) Substitution at 45',Lewis Carrol Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366766.0,2025-09-14 05:27:43
+13495,742183,5,45870714,76,2,2700,45',0,0,Lewis Carrol (Kelty Hearts) Substitution at 45',Lewis Carrol Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,266967.0,2025-09-14 05:27:43
+13495,742183,6,45870715,76,2,2700,45',0,0,Cooper Masson (Kelty Hearts) Substitution at 45',Cooper Masson Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,296138.0,2025-09-14 05:27:43
+13495,742183,7,45871279,76,2,3480,58',0,0,Ricco Diack (Kelty Hearts) Substitution at 58',Ricco Diack Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,338524.0,2025-09-14 05:27:43
+13495,742183,7,45871279,76,2,3480,58',0,0,Ricco Diack (Kelty Hearts) Substitution at 58',Ricco Diack Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,366765.0,2025-09-14 05:27:43
+13495,742183,8,45871879,76,2,4080,68',0,0,Matthew Aitken (Stenhousemuir) Substitution at 68',Matthew Aitken Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,212362.0,2025-09-14 05:27:43
+13495,742183,8,45871879,76,2,4080,68',0,0,Matthew Aitken (Stenhousemuir) Substitution at 68',Matthew Aitken Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,12821.0,2025-09-14 05:27:43
+13495,742183,9,45872052,76,2,4200,70',0,0,Grant Leitch (Kelty Hearts) Substitution at 70',Grant Leitch Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,407433.0,2025-09-14 05:27:43
+13495,742183,9,45872052,76,2,4200,70',0,0,Grant Leitch (Kelty Hearts) Substitution at 70',Grant Leitch Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,291502.0,2025-09-14 05:27:43
+13495,742183,10,45872360,76,2,4680,78',0,0,Michael Anderson (Stenhousemuir) Substitution at 78',Michael Anderson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,13199.0,2025-09-14 05:27:43
+13495,742183,10,45872360,76,2,4680,78',0,0,Michael Anderson (Stenhousemuir) Substitution at 78',Michael Anderson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,176836.0,2025-09-14 05:27:43
+13495,742183,11,45872627,94,2,4980,83',0,0,Matthew Aitken (Stenhousemuir) Yellow Card at 83',Matthew Aitken Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,212362.0,2025-09-14 05:27:43
+13495,742183,12,45873059,76,2,5340,89',0,0,Oliver Simpson (Stenhousemuir) Substitution at 89',Oliver Simpson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,388275.0,2025-09-14 05:27:43
+13495,742183,12,45873059,76,2,5340,89',0,0,Oliver Simpson (Stenhousemuir) Substitution at 89',Oliver Simpson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,290707.0,2025-09-14 05:27:43
+13495,742183,13,45873167,76,2,5400,90'+2',0,0,Bailey Campbell (Kelty Hearts) Substitution at 92',Bailey Campbell Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,409747.0,2025-09-14 05:27:43
+13495,742183,14,45873328,94,2,5400,90'+7',0,0,Ewan O'Reilly (Stenhousemuir) Yellow Card at 97',Ewan O'Reilly Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,240728.0,2025-09-14 05:27:43
+13495,742183,13,45873167,76,2,5400,90'+2',0,0,Bailey Campbell (Kelty Hearts) Substitution at 92',Bailey Campbell Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,347341.0,2025-09-14 05:27:43
+13495,742184,1,45869314,70,1,1500,25',1,0,Tommy Goss (East Fife) Goal at 25',Tommy Goss Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,306142.0,2025-09-14 05:27:43
+13495,742184,2,45869821,94,1,2280,38',0,0,Jack Stott (Queen of the South) Yellow Card at 38',Jack Stott Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,144432.0,2025-09-14 05:27:43
+13495,742184,3,45870289,70,1,2700,45'+2',1,0,Reece Lyon (Queen of the South) Goal at 47',Reece Lyon Goal,406,0.0,0.0,0.0,0.0,0.0,0.0,1,277539.0,2025-09-14 05:27:43
+13495,742184,4,45870755,70,2,2760,46',1,0,Nathan Austin (East Fife) Goal at 46',Nathan Austin Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,190432.0,2025-09-14 05:27:43
+13495,742184,5,45871901,94,2,4200,70',0,0,Tommy Goss (East Fife) Yellow Card at 70',Tommy Goss Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,306142.0,2025-09-14 05:27:43
+13495,742184,6,45872079,76,2,4380,73',0,0,Rob Jones (East Fife) Substitution at 73',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,26883.0,2025-09-14 05:27:43
+13495,742184,6,45872079,76,2,4380,73',0,0,Rob Jones (East Fife) Substitution at 73',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,190432.0,2025-09-14 05:27:43
+13495,742184,7,45872223,94,2,4560,76',0,0,Lewis Latona (East Fife) Yellow Card at 76',Lewis Latona Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,353387.0,2025-09-14 05:27:43
+13495,742184,9,45872366,94,2,4680,78',0,0,Kurtis Guthrie (Queen of the South) Yellow Card at 78',Kurtis Guthrie Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,164474.0,2025-09-14 05:27:43
+13495,742184,8,45872365,94,2,4680,78',0,0,Jack Hannah (Queen of the South) Yellow Card at 78',Jack Hannah Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,388665.0,2025-09-14 05:27:43
+13495,742184,10,45872367,76,2,4740,79',0,0,Jess Norey (East Fife) Substitution at 79',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,365402.0,2025-09-14 05:27:43
+13495,742184,10,45872367,76,2,4740,79',0,0,Jess Norey (East Fife) Substitution at 79',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,347283.0,2025-09-14 05:27:43
+13495,742184,11,45872423,76,2,4860,81',0,0,Freddie O'Donoghue (Queen of the South) Substitution at 81',Freddie O'Donoghue Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,390647.0,2025-09-14 05:27:43
+13495,742184,11,45872423,76,2,4860,81',0,0,Freddie O'Donoghue (Queen of the South) Substitution at 81',Freddie O'Donoghue Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,144432.0,2025-09-14 05:27:43
+13495,742184,12,45872618,94,2,4980,83',0,0,Mamadou Bah (East Fife) Yellow Card at 83',Mamadou Bah Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,387071.0,2025-09-14 05:27:43
+13495,742184,12,45872618,94,2,4980,83',0,0,Mamadou Bah (East Fife) Yellow Card at 83',Mamadou Bah Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,362297.0,2025-09-14 05:27:43
+13495,742184,13,45872826,94,2,5220,87',0,0,Michael Hewitt (Queen of the South) Yellow Card at 87',Michael Hewitt Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,271185.0,2025-09-14 05:27:43
+13495,742184,14,45872944,94,2,5340,89',0,0,Ewan Mcleod (East Fife) Yellow Card at 89',Ewan Mcleod Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,370588.0,2025-09-14 05:27:43
+13495,742184,15,45873003,76,2,5400,90',0,0,Liam Newton (East Fife) Substitution at 90',Liam Newton Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,299920.0,2025-09-14 05:27:43
+13495,742184,15,45873003,76,2,5400,90',0,0,Liam Newton (East Fife) Substitution at 90',Liam Newton Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,260603.0,2025-09-14 05:27:43
+13495,742185,1,45869275,94,1,1380,23',0,0,Evan Towler (Montrose) Yellow Card at 23',Evan Towler Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,324750.0,2025-09-14 05:27:43
+13495,742185,2,45869490,76,1,1800,30',0,0,Keir Bertie (Montrose) Substitution at 30',Keir Bertie Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,346441.0,2025-09-14 05:27:43
+13495,742185,2,45869490,76,1,1800,30',0,0,Keir Bertie (Montrose) Substitution at 30',Keir Bertie Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,324750.0,2025-09-14 05:27:43
+13495,742185,3,45871582,76,2,3720,62',0,0,Craig Brown (Montrose) Substitution at 62',Craig Brown Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,6213.0,2025-09-14 05:27:43
+13495,742185,4,45871583,76,2,3720,62',0,0,Connor May (Montrose) Substitution at 62',Connor May Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,409976.0,2025-09-14 05:27:43
+13495,742185,4,45871583,76,2,3720,62',0,0,Connor May (Montrose) Substitution at 62',Connor May Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,324917.0,2025-09-14 05:27:43
+13495,742185,3,45871582,76,2,3720,62',0,0,Craig Brown (Montrose) Substitution at 62',Craig Brown Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,250578.0,2025-09-14 05:27:43
+13495,742185,5,45871792,76,2,3960,66',0,0,Luke Donnelly (Alloa Athletic) Substitution at 66',Luke Donnelly Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,213517.0,2025-09-14 05:27:43
+13495,742185,5,45871792,76,2,3960,66',0,0,Luke Donnelly (Alloa Athletic) Substitution at 66',Luke Donnelly Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,121832.0,2025-09-14 05:27:43
+13495,742185,6,45871841,76,2,4020,67',0,0,Calum Adamson (Alloa Athletic) Substitution at 67',Calum Adamson Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,285387.0,2025-09-14 05:27:43
+13495,742185,6,45871841,76,2,4020,67',0,0,Calum Adamson (Alloa Athletic) Substitution at 67',Calum Adamson Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,275634.0,2025-09-14 05:27:43
+13495,742185,7,45872023,94,2,4260,71',0,0,Connor May (Montrose) Yellow Card at 71',Connor May Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,409976.0,2025-09-14 05:27:43
+13495,742185,8,45872268,94,2,4560,76',0,0,Kieran Freeman (Montrose) Yellow Card at 76',Kieran Freeman Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,150839.0,2025-09-14 05:27:43
+13495,742185,9,45872451,70,2,4680,78',1,0,Aidan Quinn (Montrose) Goal at 78',Aidan Quinn Goal,414,0.0,0.0,0.0,0.0,0.0,0.0,1,302082.0,2025-09-14 05:27:43
+13495,742185,10,45872689,94,2,4980,83',0,0,Lewis Gibson (Montrose) Yellow Card at 83',Lewis Gibson Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,347398.0,2025-09-14 05:27:43
+13495,742185,10,45872689,94,2,4980,83',0,0,Lewis Gibson (Montrose) Yellow Card at 83',Lewis Gibson Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,261431.0,2025-09-14 05:27:43
+13495,742185,11,45872726,76,2,5040,84',0,0,Luke Rankin (Alloa Athletic) Substitution at 84',Luke Rankin Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,347933.0,2025-09-14 05:27:43
+13495,742185,11,45872726,76,2,5040,84',0,0,Luke Rankin (Alloa Athletic) Substitution at 84',Luke Rankin Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,345183.0,2025-09-14 05:27:43
+13495,742185,12,45873182,76,2,5400,90'+2',0,0,Ryan Williamson (Montrose) Substitution at 92',Ryan Williamson Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,190418.0,2025-09-14 05:27:43
+13495,742185,12,45873182,76,2,5400,90'+2',0,0,Ryan Williamson (Montrose) Substitution at 92',Ryan Williamson Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,347398.0,2025-09-14 05:27:43
+13495,742185,12,45873182,76,2,5400,90'+2',0,0,Ryan Williamson (Montrose) Substitution at 92',Ryan Williamson Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,261431.0,2025-09-14 05:27:43
+13495,742186,1,45924064,70,1,540,9',1,0,Chanka Zimba (Inverness Caledonian Thistle) Goal at 9',Chanka Zimba Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,312007.0,2025-09-21 05:17:53
+13495,742186,2,45924690,94,1,1860,31',0,0,Remi Savage (Inverness Caledonian Thistle) Yellow Card at 31',Remi Savage Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,291632.0,2025-09-21 05:17:53
+13495,742186,3,45924977,94,1,2220,37',0,0,Daniel Devine (Inverness Caledonian Thistle) Yellow Card at 37',Daniel Devine Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,157563.0,2025-09-21 05:17:53
+13495,742186,5,45925149,94,1,2460,41',0,0,Joe Chalmers (Inverness Caledonian Thistle) Yellow Card at 41',Joe Chalmers Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,168397.0,2025-09-21 05:17:53
+13495,742186,4,45925085,94,1,2460,41',0,0,Calum Macleod (Inverness Caledonian Thistle) Yellow Card at 41',Calum Macleod Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,355495.0,2025-09-21 05:17:53
+13495,742186,6,45925407,94,1,2700,45'+2',0,0,Oscar Macintyre (Inverness Caledonian Thistle) Yellow Card at 47',Oscar Macintyre Yellow Card,253,0.0,0.0,0.0,0.0,0.0,0.0,1,324795.0,2025-09-21 05:17:53
+13495,742186,7,45926125,94,2,3060,51',0,0,Ben Johnstone (Queen of the South) Yellow Card at 51',Ben Johnstone Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,260598.0,2025-09-21 05:17:53
+13495,742186,8,45927022,94,2,4200,70',0,0,Michael Hewitt (Queen of the South) Yellow Card at 70',Michael Hewitt Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,271185.0,2025-09-21 05:17:53
+13495,742186,9,45927541,76,2,4800,80',0,0,Adam Mackinnon (Inverness Caledonian Thistle) Substitution at 80',Adam Mackinnon Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,291498.0,2025-09-21 05:17:53
+13495,742186,10,45927542,76,2,4800,80',0,0,Billy McKay (Inverness Caledonian Thistle) Substitution at 80',Billy McKay Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,138377.0,2025-09-21 05:17:53
+13495,742186,9,45927541,76,2,4800,80',0,0,Adam Mackinnon (Inverness Caledonian Thistle) Substitution at 80',Adam Mackinnon Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,26027.0,2025-09-21 05:17:53
+13495,742186,10,45927542,76,2,4800,80',0,0,Billy McKay (Inverness Caledonian Thistle) Substitution at 80',Billy McKay Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,267334.0,2025-09-21 05:17:53
+13495,742186,11,45927794,76,2,5220,87',0,0,Freddie O'Donoghue (Queen of the South) Substitution at 87',Freddie O'Donoghue Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,390647.0,2025-09-21 05:17:53
+13495,742186,11,45927794,76,2,5220,87',0,0,Freddie O'Donoghue (Queen of the South) Substitution at 87',Freddie O'Donoghue Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,144432.0,2025-09-21 05:17:53
+13495,742186,12,45928070,70,2,5400,90'+4',1,0,Luis Longstaff (Inverness Caledonian Thistle) Goal at 94',Luis Longstaff Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,291645.0,2025-09-21 05:17:53
+13495,742187,1,45923929,70,1,300,5',1,0,Kyle MacDonald (Hamilton Academical) Goal at 5',Kyle MacDonald Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,168204.0,2025-09-21 05:17:53
+13495,742187,2,45924121,70,1,720,12',1,0,Connot Smith (Hamilton Academical) Goal at 12',Connot Smith Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,261410.0,2025-09-21 05:17:53
+13495,742187,3,45924154,94,1,840,14',0,0,Alexander Ferguson (Kelty Hearts) Yellow Card at 14',Alexander Ferguson Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,296138.0,2025-09-21 05:17:53
+13495,742187,4,45924346,98,1,1200,20',1,0,Oliver Shaw (Hamilton Academical) Penalty - Scored at 20',Oliver Shaw Penalty - Scored,409,0.0,0.0,0.0,0.0,0.0,0.0,1,223407.0,2025-09-21 05:17:53
+13495,742187,5,45924518,76,1,1560,26',0,0,Joseph Teasdale (Kelty Hearts) Substitution at 26',Joseph Teasdale Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366765.0,2025-09-21 05:17:53
+13495,742187,5,45924518,76,1,1560,26',0,0,Joseph Teasdale (Kelty Hearts) Substitution at 26',Joseph Teasdale Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,296138.0,2025-09-21 05:17:53
+13495,742187,6,45924790,93,1,2100,35',0,0,Aaron Arnott (Kelty Hearts) Red Card at 35',Aaron Arnott Red Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,308681.0,2025-09-21 05:17:53
+13495,742187,7,45925021,94,1,2400,40',0,0,Cale Loughrey (Hamilton Academical) Yellow Card at 40',Cale Loughrey Yellow Card,409,0.0,0.0,0.0,0.0,0.0,0.0,1,308530.0,2025-09-21 05:17:53
+13495,742187,8,45925665,76,2,2700,45',0,0,Bobby Mcluckie (Hamilton Academical) Substitution at 45',Bobby Mcluckie Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,346188.0,2025-09-21 05:17:53
+13495,742187,8,45925665,76,2,2700,45',0,0,Bobby Mcluckie (Hamilton Academical) Substitution at 45',Bobby Mcluckie Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,284083.0,2025-09-21 05:17:53
+13495,742187,9,45925893,94,2,3060,51',0,0,James Graham (Kelty Hearts) Yellow Card at 51',James Graham Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,347341.0,2025-09-21 05:17:53
+13495,742187,10,45925987,70,2,3240,54',1,0,Connot Smith (Hamilton Academical) Goal at 54',Connot Smith Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,261410.0,2025-09-21 05:17:53
+13495,742187,11,45926283,76,2,3480,58',0,0,Murray Thomas (Kelty Hearts) Substitution at 58',Murray Thomas Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,266967.0,2025-09-21 05:17:53
+13495,742187,11,45926283,76,2,3480,58',0,0,Murray Thomas (Kelty Hearts) Substitution at 58',Murray Thomas Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,366766.0,2025-09-21 05:17:53
+13495,742187,12,45927024,76,2,4380,73',0,0,Robbie Cole (Kelty Hearts) Substitution at 73',Robbie Cole Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,327817.0,2025-09-21 05:17:53
+13495,742187,12,45927024,76,2,4380,73',0,0,Robbie Cole (Kelty Hearts) Substitution at 73',Robbie Cole Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,338524.0,2025-09-21 05:17:53
+13495,742187,13,45927473,76,2,4920,82',0,0,Steven Bradley (Hamilton Academical) Substitution at 82',Steven Bradley Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-09-21 05:17:53
+13495,742187,13,45927473,76,2,4920,82',0,0,Steven Bradley (Hamilton Academical) Substitution at 82',Steven Bradley Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,308530.0,2025-09-21 05:17:53
+13495,742187,14,45927759,76,2,5280,88',0,0,Darian MacKinnon (Hamilton Academical) Substitution at 88',Darian MacKinnon Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,176450.0,2025-09-21 05:17:53
+13495,742187,16,45927761,76,2,5280,88',0,0,Aaron Eadie (Hamilton Academical) Substitution at 88',Aaron Eadie Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,390992.0,2025-09-21 05:17:53
+13495,742187,15,45927760,76,2,5280,88',0,0,Marcus Syme (Hamilton Academical) Substitution at 88',Marcus Syme Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,398020.0,2025-09-21 05:17:53
+13495,742187,14,45927759,76,2,5280,88',0,0,Darian MacKinnon (Hamilton Academical) Substitution at 88',Darian MacKinnon Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,119000.0,2025-09-21 05:17:53
+13495,742187,16,45927761,76,2,5280,88',0,0,Aaron Eadie (Hamilton Academical) Substitution at 88',Aaron Eadie Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,223407.0,2025-09-21 05:17:53
+13495,742187,15,45927760,76,2,5280,88',0,0,Marcus Syme (Hamilton Academical) Substitution at 88',Marcus Syme Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,366794.0,2025-09-21 05:17:53
+13495,742188,1,45924097,70,1,660,11',1,0,Kurtis Roberts (Alloa Athletic) Goal at 11',Kurtis Roberts Goal,403,0.0,0.0,0.0,0.0,0.0,0.0,1,275634.0,2025-09-21 05:17:53
+13495,742188,2,45925907,76,1,1740,29',0,0,Jackson Mylchreest (Cove Rangers) Substitution at 29',Jackson Mylchreest Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,347007.0,2025-09-21 05:17:53
+13495,742188,2,45925907,76,1,1740,29',0,0,Jackson Mylchreest (Cove Rangers) Substitution at 29',Jackson Mylchreest Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,407597.0,2025-09-21 05:17:53
+13495,742188,3,45924890,70,1,2220,37',1,0,David Devine (Alloa Athletic) Goal at 37',David Devine Goal,403,0.0,0.0,0.0,0.0,0.0,0.0,1,288582.0,2025-09-21 05:17:53
+13495,742188,4,45926579,76,2,3900,65',0,0,Milosz Ochmanski (Cove Rangers) Substitution at 65',Milosz Ochmanski Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,347294.0,2025-09-21 05:17:53
+13495,742188,4,45926579,76,2,3900,65',0,0,Milosz Ochmanski (Cove Rangers) Substitution at 65',Milosz Ochmanski Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,324916.0,2025-09-21 05:17:53
+13495,742188,5,45926808,70,2,4140,69',1,0,Mitchel Megginson (Cove Rangers) Goal at 69',Mitchel Megginson Goal,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,137801.0,2025-09-21 05:17:53
+13495,742188,6,45926991,76,2,4380,73',0,0,Conor Sammon (Alloa Athletic) Substitution at 73',Conor Sammon Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,121832.0,2025-09-21 05:17:53
+13495,742188,6,45926991,76,2,4380,73',0,0,Conor Sammon (Alloa Athletic) Substitution at 73',Conor Sammon Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,213517.0,2025-09-21 05:17:53
+13495,742188,7,45927058,76,2,4440,74',0,0,Calum Adamson (Alloa Athletic) Substitution at 74',Calum Adamson Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,285387.0,2025-09-21 05:17:53
+13495,742188,8,45927059,76,2,4440,74',0,0,Lewis Stewart (Alloa Athletic) Substitution at 74',Lewis Stewart Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,392317.0,2025-09-21 05:17:53
+13495,742188,8,45927059,76,2,4440,74',0,0,Lewis Stewart (Alloa Athletic) Substitution at 74',Lewis Stewart Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,345183.0,2025-09-21 05:17:53
+13495,742188,7,45927058,76,2,4440,74',0,0,Calum Adamson (Alloa Athletic) Substitution at 74',Calum Adamson Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,275634.0,2025-09-21 05:17:53
+13495,742188,9,45927679,94,2,5220,87',0,0,Michael Doyle (Cove Rangers) Yellow Card at 87',Michael Doyle Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,14666.0,2025-09-21 05:17:53
+13495,742188,9,45927679,94,2,5220,87',0,0,Michael Doyle (Cove Rangers) Yellow Card at 87',Michael Doyle Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,197106.0,2025-09-21 05:17:53
+13495,742188,10,45927788,94,2,5340,89',0,0,Steven Hetherington (Alloa Athletic) Yellow Card at 89',Steven Hetherington Yellow Card,403,0.0,0.0,0.0,0.0,0.0,0.0,1,162858.0,2025-09-21 05:17:53
+13495,742188,11,45927918,94,2,5400,90'+2',0,0,David Eguaibor (Cove Rangers) Yellow Card at 92',David Eguaibor Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,406313.0,2025-09-21 05:17:53
+13495,742189,1,45924129,70,1,720,12',1,0,Brian Easton (East Fife) Goal at 12',Brian Easton Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,84408.0,2025-09-21 05:17:53
+13495,742189,2,45924620,94,1,1680,28',0,0,Terry Masson (Montrose) Yellow Card at 28',Terry Masson Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,77584.0,2025-09-21 05:17:53
+13495,742189,3,45924698,70,1,1860,31',1,0,Graham Webster (Montrose) Goal at 31',Graham Webster Goal,414,0.0,0.0,0.0,0.0,0.0,0.0,1,153164.0,2025-09-21 05:17:53
+13495,742189,4,45924860,94,1,2100,35',0,0,Reis Peggie (East Fife) Yellow Card at 35',Reis Peggie Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,260603.0,2025-09-21 05:17:53
+13495,742189,5,45925823,94,2,2880,48',0,0,Andrew Steeves (Montrose) Yellow Card at 48',Andrew Steeves Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,153853.0,2025-09-21 05:17:53
+13495,742189,6,45926521,94,2,3720,62',0,0,Lewis Latona (East Fife) Yellow Card at 62',Lewis Latona Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,353387.0,2025-09-21 05:17:53
+13495,742189,7,45926671,76,2,3900,65',0,0,Jess Norey (East Fife) Substitution at 65',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,365402.0,2025-09-21 05:17:53
+13495,742189,8,45926672,76,2,3900,65',0,0,Liam Newton (East Fife) Substitution at 65',Liam Newton Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,299920.0,2025-09-21 05:17:53
+13495,742189,8,45926672,76,2,3900,65',0,0,Liam Newton (East Fife) Substitution at 65',Liam Newton Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,260603.0,2025-09-21 05:17:53
+13495,742189,7,45926671,76,2,3900,65',0,0,Jess Norey (East Fife) Substitution at 65',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,353387.0,2025-09-21 05:17:53
+13495,742189,9,45926974,76,2,4200,70',0,0,Ryan Williamson (Montrose) Substitution at 70',Ryan Williamson Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,190418.0,2025-09-21 05:17:53
+13495,742189,10,45926975,76,2,4200,70',0,0,Blair Lyons (Montrose) Substitution at 70',Blair Lyons Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,250578.0,2025-09-21 05:17:53
+13495,742189,9,45926974,76,2,4200,70',0,0,Ryan Williamson (Montrose) Substitution at 70',Ryan Williamson Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,150839.0,2025-09-21 05:17:53
+13495,742189,10,45926975,76,2,4200,70',0,0,Blair Lyons (Montrose) Substitution at 70',Blair Lyons Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,324917.0,2025-09-21 05:17:53
+13495,742189,11,45927194,76,2,4560,76',0,0,Rob Jones (East Fife) Substitution at 76',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,26883.0,2025-09-21 05:17:53
+13495,742189,11,45927194,76,2,4560,76',0,0,Rob Jones (East Fife) Substitution at 76',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,306142.0,2025-09-21 05:17:53
+13495,742189,12,45927409,76,2,4800,80',0,0,Gus Stevenson (Montrose) Substitution at 80',Gus Stevenson Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,365869.0,2025-09-21 05:17:53
+13495,742189,12,45927409,76,2,4800,80',0,0,Gus Stevenson (Montrose) Substitution at 80',Gus Stevenson Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,77584.0,2025-09-21 05:17:53
+13495,742189,13,45927821,76,2,5340,89',0,0,Connor May (Montrose) Substitution at 89',Connor May Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,409976.0,2025-09-21 05:17:53
+13495,742189,13,45927821,76,2,5340,89',0,0,Connor May (Montrose) Substitution at 89',Connor May Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,347398.0,2025-09-21 05:17:53
+13495,742189,13,45927821,76,2,5340,89',0,0,Connor May (Montrose) Substitution at 89',Connor May Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,261431.0,2025-09-21 05:17:53
+13495,742190,1,45924467,70,1,1440,24',1,0,Dale Carrick (Stenhousemuir) Goal at 24',Dale Carrick Goal,405,0.0,0.0,0.0,0.0,0.0,0.0,1,176836.0,2025-09-21 05:17:53
+13495,742190,2,45925086,70,1,2520,42',1,0,Andrew McCarthy (Peterhead) Goal at 42',Andrew McCarthy Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,239269.0,2025-09-21 05:17:53
+13495,742190,3,45925671,76,2,2700,45',0,0,Caleb Goldie (Peterhead) Substitution at 45',Caleb Goldie Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,365994.0,2025-09-21 05:17:53
+13495,742190,3,45925671,76,2,2700,45',0,0,Caleb Goldie (Peterhead) Substitution at 45',Caleb Goldie Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,376984.0,2025-09-21 05:17:53
+13495,742190,4,45925736,94,2,2820,47',0,0,Finn Robson (Stenhousemuir) Yellow Card at 47',Finn Robson Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,311110.0,2025-09-21 05:17:53
+13495,742190,5,45925868,94,2,2940,49',0,0,Cameron Smith (Peterhead) Yellow Card at 49',Cameron Smith Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,173126.0,2025-09-21 05:17:53
+13495,742190,6,45925952,98,2,3120,52',1,0,Ewan O'Reilly (Stenhousemuir) Penalty - Scored at 52',Ewan O'Reilly Penalty - Scored,405,0.0,0.0,0.0,0.0,0.0,0.0,1,240728.0,2025-09-21 05:17:53
+13495,742190,7,45926204,70,2,3300,55',1,0,Ewan O'Reilly (Stenhousemuir) Goal at 55',Ewan O'Reilly Goal,405,0.0,0.0,0.0,0.0,0.0,0.0,1,240728.0,2025-09-21 05:17:53
+13495,742190,8,45926625,76,2,3840,64',0,0,Niall McGinn (Peterhead) Substitution at 64',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,82925.0,2025-09-21 05:17:53
+13495,742190,8,45926625,76,2,3840,64',0,0,Niall McGinn (Peterhead) Substitution at 64',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,239223.0,2025-09-21 05:17:53
+13495,742190,9,45926686,76,2,3900,65',0,0,Michael Anderson (Stenhousemuir) Substitution at 65',Michael Anderson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,13199.0,2025-09-21 05:17:53
+13495,742190,9,45926686,76,2,3900,65',0,0,Michael Anderson (Stenhousemuir) Substitution at 65',Michael Anderson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,311110.0,2025-09-21 05:17:53
+13495,742190,10,45926790,94,2,4020,67',0,0,Aaron Steele (Peterhead) Yellow Card at 67',Aaron Steele Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,61878.0,2025-09-21 05:17:53
+13495,742190,11,45927054,76,2,4380,73',0,0,Jack Brown (Peterhead) Substitution at 73',Jack Brown Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,255732.0,2025-09-21 05:17:53
+13495,742190,11,45927054,76,2,4380,73',0,0,Jack Brown (Peterhead) Substitution at 73',Jack Brown Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,291446.0,2025-09-21 05:17:53
+13495,742190,12,45927176,94,2,4500,75',0,0,Ross Taylor (Stenhousemuir) Yellow Card at 75',Ross Taylor Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,12821.0,2025-09-21 05:17:53
+13495,742190,13,45927272,76,2,4620,77',0,0,Matthew Aitken (Stenhousemuir) Substitution at 77',Matthew Aitken Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,212362.0,2025-09-21 05:17:53
+13495,742190,13,45927272,76,2,4620,77',0,0,Matthew Aitken (Stenhousemuir) Substitution at 77',Matthew Aitken Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,176836.0,2025-09-21 05:17:53
+13495,742190,15,45927463,76,2,4800,80',0,0,Fraser Mackie (Peterhead) Substitution at 80',Fraser Mackie Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,366763.0,2025-09-21 05:17:53
+13495,742190,14,45927392,76,2,4800,80',0,0,Zeke Cameron (Stenhousemuir) Substitution at 80',Zeke Cameron Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,388282.0,2025-09-21 05:17:53
+13495,742190,14,45927392,76,2,4800,80',0,0,Zeke Cameron (Stenhousemuir) Substitution at 80',Zeke Cameron Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,12821.0,2025-09-21 05:17:53
+13495,742190,15,45927463,76,2,4800,80',0,0,Fraser Mackie (Peterhead) Substitution at 80',Fraser Mackie Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,291656.0,2025-09-21 05:17:53
+13495,742190,16,45927531,94,2,4920,82',0,0,Ross Meechan (Stenhousemuir) Yellow Card at 82',Ross Meechan Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,162845.0,2025-09-21 05:17:53
+13495,742190,17,45927532,94,2,4920,82',0,0,Kieran Shanks (Peterhead) Yellow Card at 82',Kieran Shanks Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291447.0,2025-09-21 05:17:53
+13495,742190,18,45927688,94,2,5160,86',0,0,Scott McGill (Stenhousemuir) Yellow Card at 86',Scott McGill Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,290707.0,2025-09-21 05:17:53
+13495,742190,20,45927753,76,2,5220,87',0,0,Findlay Gray (Stenhousemuir) Substitution at 87',Findlay Gray Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,291515.0,2025-09-21 05:17:53
+13495,742190,19,45927752,76,2,5220,87',0,0,Kelsey Ewen (Stenhousemuir) Substitution at 87',Kelsey Ewen Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,328053.0,2025-09-21 05:17:53
+13495,742190,19,45927752,76,2,5220,87',0,0,Kelsey Ewen (Stenhousemuir) Substitution at 87',Kelsey Ewen Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,162845.0,2025-09-21 05:17:53
+13495,742190,20,45927753,76,2,5220,87',0,0,Findlay Gray (Stenhousemuir) Substitution at 87',Findlay Gray Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,290707.0,2025-09-21 05:17:53
+13495,742191,1,45988893,70,1,1500,25',1,0,Oliver Shaw (Hamilton Academical) Goal at 25',Oliver Shaw Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,223407.0,2025-09-28 05:17:28
+13495,742191,2,45990908,94,2,3840,64',0,0,Lee Kilday (Hamilton Academical) Yellow Card at 64',Lee Kilday Yellow Card,409,0.0,0.0,0.0,0.0,0.0,0.0,1,155229.0,2025-09-28 05:17:28
+13495,742191,3,45991115,94,2,3900,65',0,0,Ross Taylor (Stenhousemuir) Yellow Card at 65',Ross Taylor Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,12821.0,2025-09-28 05:17:28
+13495,742191,4,45991116,76,2,3900,65',0,0,Bradley Stevenson (Hamilton Academical) Substitution at 65',Bradley Stevenson Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-09-30 05:15:30
+13495,742191,4,45991116,76,2,3900,65',0,0,Bradley Stevenson (Hamilton Academical) Substitution at 65',Bradley Stevenson Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,346188.0,2025-09-30 05:15:30
+13495,742191,5,45991254,76,2,4080,68',0,0,Oliver Simpson (Stenhousemuir) Substitution at 68',Oliver Simpson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,388275.0,2025-09-28 05:17:28
+13495,742191,5,45991254,76,2,4080,68',0,0,Oliver Simpson (Stenhousemuir) Substitution at 68',Oliver Simpson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,322774.0,2025-09-28 05:17:28
+13495,742191,6,45991261,76,2,4140,69',0,0,Dale Carrick (Stenhousemuir) Substitution at 69',Dale Carrick Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,176836.0,2025-09-28 05:17:28
+13495,742191,6,45991261,76,2,4140,69',0,0,Dale Carrick (Stenhousemuir) Substitution at 69',Dale Carrick Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,212362.0,2025-09-28 05:17:28
+13495,742191,7,45991754,76,2,4680,78',0,0,Finn Robson (Stenhousemuir) Substitution at 78',Finn Robson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,311110.0,2025-09-28 05:17:28
+13495,742191,7,45991754,76,2,4680,78',0,0,Finn Robson (Stenhousemuir) Substitution at 78',Finn Robson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,290707.0,2025-09-28 05:17:28
+13495,742191,8,45991941,70,2,4920,82',1,0,Kevin O'Hara (Hamilton Academical) Goal at 82',Kevin O'Hara Goal,409,0.0,0.0,0.0,0.0,0.0,0.0,1,206526.0,2025-09-28 05:17:28
+13495,742191,10,45992113,76,2,5040,84',0,0,Zeke Cameron (Stenhousemuir) Substitution at 84',Zeke Cameron Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,388282.0,2025-09-28 05:17:28
+13495,742191,9,45992072,94,2,5040,84',0,0,Greg Buchan (Stenhousemuir) Yellow Card at 84',Greg Buchan Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-09-30 05:15:30
+13495,742191,10,45992113,76,2,5040,84',0,0,Zeke Cameron (Stenhousemuir) Substitution at 84',Zeke Cameron Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,366706.0,2025-09-28 05:17:28
+13495,742191,11,45992114,76,2,5100,85',0,0,Findlay Gray (Stenhousemuir) Substitution at 85',Findlay Gray Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,291515.0,2025-09-28 05:17:28
+13495,742191,11,45992114,76,2,5100,85',0,0,Findlay Gray (Stenhousemuir) Substitution at 85',Findlay Gray Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,12821.0,2025-09-28 05:17:28
+13495,742191,12,45992235,76,2,5280,88',0,0,Cian Newbury (Hamilton Academical) Substitution at 88',Cian Newbury Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,340222.0,2025-09-28 05:17:28
+13495,742191,12,45992235,76,2,5280,88',0,0,Cian Newbury (Hamilton Academical) Substitution at 88',Cian Newbury Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,119000.0,2025-09-28 05:17:28
+13495,742191,14,45992462,76,2,5400,90'+1',0,0,Stuart Mckinstry (Hamilton Academical) Substitution at 91',Stuart Mckinstry Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,284083.0,2025-09-28 05:17:28
+13495,742191,15,45992463,76,2,5400,90'+2',0,0,Liam Morgan (Hamilton Academical) Substitution at 92',Liam Morgan Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,354405.0,2025-09-28 05:17:28
+13495,742191,13,45992399,76,2,5400,90'+1',0,0,Stephen Hendrie (Hamilton Academical) Substitution at 91',Stephen Hendrie Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,1,157908.0,2025-09-28 05:17:28
+13495,742191,16,45992545,94,2,5400,90'+3',0,0,Oliver Simpson (Stenhousemuir) Yellow Card at 93',Oliver Simpson Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,388275.0,2025-09-28 05:17:28
+13495,742191,13,45992399,76,2,5400,90'+1',0,0,Stephen Hendrie (Hamilton Academical) Substitution at 91',Stephen Hendrie Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,155229.0,2025-09-28 05:17:28
+13495,742191,14,45992462,76,2,5400,90'+1',0,0,Stuart Mckinstry (Hamilton Academical) Substitution at 91',Stuart Mckinstry Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,223407.0,2025-09-28 05:17:28
+13495,742191,15,45992463,76,2,5400,90'+2',0,0,Liam Morgan (Hamilton Academical) Substitution at 92',Liam Morgan Substitution,409,0.0,0.0,0.0,0.0,0.0,0.0,2,206526.0,2025-09-28 05:17:28
+13495,742192,1,45988831,94,1,1260,21',0,0,Kerr Waddell (Montrose) Yellow Card at 21',Kerr Waddell Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,235455.0,2025-09-28 05:17:28
+13495,742192,2,45990170,76,2,2700,45',0,0,Callum Penman (Queen of the South) Substitution at 45',Callum Penman Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,365996.0,2025-09-28 05:17:28
+13495,742192,2,45990170,76,2,2700,45',0,0,Callum Penman (Queen of the South) Substitution at 45',Callum Penman Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,293873.0,2025-09-28 05:17:28
+13495,742192,3,45990455,76,2,3120,52',0,0,Brennan Dickenson (Queen of the South) Substitution at 52',Brennan Dickenson Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,177341.0,2025-09-28 05:17:28
+13495,742192,3,45990455,76,2,3120,52',0,0,Brennan Dickenson (Queen of the South) Substitution at 52',Brennan Dickenson Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,390647.0,2025-09-28 05:17:28
+13495,742192,4,45991033,70,2,3660,61',1,0,Graham Webster (Montrose) Goal at 61',Graham Webster Goal,414,0.0,0.0,0.0,0.0,0.0,0.0,1,153164.0,2025-09-28 05:17:28
+13495,742192,5,45991191,76,2,3840,64',0,0,Kai Kennedy (Queen of the South) Substitution at 64',Kai Kennedy Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,277529.0,2025-09-28 05:17:28
+13495,742192,5,45991191,76,2,3840,64',0,0,Kai Kennedy (Queen of the South) Substitution at 64',Kai Kennedy Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,260598.0,2025-09-28 05:17:28
+13495,742192,6,45991688,70,2,4380,73',1,0,Kieran Freeman (Montrose) Goal at 73',Kieran Freeman Goal,414,0.0,0.0,0.0,0.0,0.0,0.0,1,150839.0,2025-09-28 05:17:28
+13495,742192,7,45991878,94,2,4560,76',0,0,Lewis Gibson (Montrose) Yellow Card at 76',Lewis Gibson Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,347398.0,2025-09-28 05:17:28
+13495,742192,7,45991878,94,2,4560,76',0,0,Lewis Gibson (Montrose) Yellow Card at 76',Lewis Gibson Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,261431.0,2025-09-28 05:17:28
+13495,742192,8,45991879,76,2,4620,77',0,0,Billy Gray (Queen of the South) Substitution at 77',Billy Gray Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,408762.0,2025-09-28 05:17:28
+13495,742192,8,45991879,76,2,4620,77',0,0,Billy Gray (Queen of the South) Substitution at 77',Billy Gray Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,41258.0,2025-09-28 05:17:28
+13495,742192,9,45991997,76,2,4740,79',0,0,Connor May (Montrose) Substitution at 79',Connor May Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,409976.0,2025-09-28 05:17:28
+13495,742192,10,45992043,76,2,4740,79',0,0,Matheus Machado (Montrose) Substitution at 79',Matheus Machado Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,399530.0,2025-09-28 05:17:28
+13495,742192,10,45992043,76,2,4740,79',0,0,Matheus Machado (Montrose) Substitution at 79',Matheus Machado Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,287071.0,2025-09-28 05:17:28
+13495,742192,9,45991997,76,2,4740,79',0,0,Connor May (Montrose) Substitution at 79',Connor May Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,347398.0,2025-09-28 05:17:28
+13495,742192,9,45991997,76,2,4740,79',0,0,Connor May (Montrose) Substitution at 79',Connor May Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,261431.0,2025-09-28 05:17:28
+13495,742192,10,45992043,76,2,4740,79',0,0,Matheus Machado (Montrose) Substitution at 79',Matheus Machado Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,250578.0,2025-09-28 05:17:28
+13495,742192,11,45992107,70,2,4860,81',1,0,Brennan Dickenson (Queen of the South) Goal at 81',Brennan Dickenson Goal,406,0.0,0.0,0.0,0.0,0.0,0.0,1,177341.0,2025-09-28 05:17:28
+13495,742192,12,45992170,94,2,4980,83',0,0,Kieran Freeman (Montrose) Yellow Card at 83',Kieran Freeman Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,150839.0,2025-09-28 05:17:28
+13495,742192,14,45992361,94,2,5160,86',0,0,Ross Stewart (Queen of the South) Yellow Card at 86',Ross Stewart Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,67802.0,2025-09-28 05:17:28
+13495,742192,13,45992360,76,2,5160,86',0,0,Ryan Williamson (Montrose) Substitution at 86',Ryan Williamson Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,190418.0,2025-09-28 05:17:28
+13495,742192,14,45992361,94,2,5160,86',0,0,Ross Stewart (Queen of the South) Yellow Card at 86',Ross Stewart Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,251936.0,2025-09-28 05:17:28
+13495,742192,13,45992360,76,2,5160,86',0,0,Ryan Williamson (Montrose) Substitution at 86',Ryan Williamson Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,150839.0,2025-09-28 05:17:28
+13495,742192,15,45992663,76,2,5400,90'+3',0,0,Sean Dillon (Montrose) Substitution at 93',Sean Dillon Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,1,24770.0,2025-09-28 05:17:28
+13495,742192,16,45992796,94,2,5400,90'+6',0,0,Brennan Dickenson (Queen of the South) Yellow Card at 96',Brennan Dickenson Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,177341.0,2025-09-28 05:17:28
+13495,742192,17,45992797,94,2,5400,90'+6',0,0,Keir Bertie (Montrose) Yellow Card at 96',Keir Bertie Yellow Card,414,0.0,0.0,0.0,0.0,0.0,0.0,1,346441.0,2025-09-28 05:17:28
+13495,742192,15,45992663,76,2,5400,90'+3',0,0,Sean Dillon (Montrose) Substitution at 93',Sean Dillon Substitution,414,0.0,0.0,0.0,0.0,0.0,0.0,2,6213.0,2025-09-28 05:17:28
+13495,742193,1,45988697,70,1,1020,17',1,0,David Wotherspoon (Inverness Caledonian Thistle) Goal at 17',David Wotherspoon Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,137726.0,2025-09-28 05:17:28
+13495,742193,2,45989651,70,1,2580,43',1,0,Nathan Austin (East Fife) Goal at 43',Nathan Austin Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,190432.0,2025-09-28 05:17:28
+13495,742193,3,45990186,76,2,2700,45',0,0,Tommy Goss (East Fife) Substitution at 45',Tommy Goss Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,306142.0,2025-09-28 05:17:28
+13495,742193,3,45990186,76,2,2700,45',0,0,Tommy Goss (East Fife) Substitution at 45',Tommy Goss Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,353387.0,2025-09-28 05:17:28
+13495,742193,4,45990702,76,2,3420,57',0,0,Mamadou Bah (East Fife) Substitution at 57',Mamadou Bah Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,387071.0,2025-09-28 05:17:28
+13495,742193,4,45990702,76,2,3420,57',0,0,Mamadou Bah (East Fife) Substitution at 57',Mamadou Bah Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,362297.0,2025-09-28 05:17:28
+13495,742193,4,45990702,76,2,3420,57',0,0,Mamadou Bah (East Fife) Substitution at 57',Mamadou Bah Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,84408.0,2025-09-28 05:17:28
+13495,742193,5,45990781,76,2,3480,58',0,0,Alfie Bavidge (Inverness Caledonian Thistle) Substitution at 58',Alfie Bavidge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,324735.0,2025-09-28 05:17:28
+13495,742193,5,45990781,76,2,3480,58',0,0,Alfie Bavidge (Inverness Caledonian Thistle) Substitution at 58',Alfie Bavidge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,312007.0,2025-09-28 05:17:28
+13495,742193,6,45991129,70,2,3720,62',1,0,David Wotherspoon (Inverness Caledonian Thistle) Goal at 62',David Wotherspoon Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,137726.0,2025-09-28 05:17:28
+13495,742193,7,45991299,70,2,3900,65',1,0,Alfie Stewart (Inverness Caledonian Thistle) Goal at 65',Alfie Stewart Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,26027.0,2025-09-28 05:17:28
+13495,742193,8,45991913,76,2,4620,77',0,0,Jess Norey (East Fife) Substitution at 77',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,365402.0,2025-09-28 05:17:28
+13495,742193,9,45991914,76,2,4620,77',0,0,Liam Newton (East Fife) Substitution at 77',Liam Newton Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,299920.0,2025-09-28 05:17:28
+13495,742193,8,45991913,76,2,4620,77',0,0,Jess Norey (East Fife) Substitution at 77',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,260603.0,2025-09-28 05:17:28
+13495,742193,9,45991914,76,2,4620,77',0,0,Liam Newton (East Fife) Substitution at 77',Liam Newton Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,370588.0,2025-09-28 05:17:28
+13495,742193,10,45992142,76,2,4920,82',0,0,Paul Allan (Inverness Caledonian Thistle) Substitution at 82',Paul Allan Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,31873.0,2025-09-28 05:17:28
+13495,742193,11,45992143,76,2,4920,82',0,0,Adam Mackinnon (Inverness Caledonian Thistle) Substitution at 82',Adam Mackinnon Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,291498.0,2025-09-28 05:17:28
+13495,742193,10,45992142,76,2,4920,82',0,0,Paul Allan (Inverness Caledonian Thistle) Substitution at 82',Paul Allan Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,26027.0,2025-09-28 05:17:28
+13495,742193,11,45992143,76,2,4920,82',0,0,Adam Mackinnon (Inverness Caledonian Thistle) Substitution at 82',Adam Mackinnon Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,267334.0,2025-09-28 05:17:28
+13495,742193,12,45992309,76,2,5160,86',0,0,Rob Jones (East Fife) Substitution at 86',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,26883.0,2025-09-28 05:17:28
+13495,742193,12,45992309,76,2,5160,86',0,0,Rob Jones (East Fife) Substitution at 86',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,190432.0,2025-09-28 05:17:28
+13495,742193,13,45992478,76,2,5280,88',0,0,Gregor Nicol (East Fife) Substitution at 88',Gregor Nicol Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,322904.0,2025-09-28 05:17:28
+13495,742193,13,45992478,76,2,5280,88',0,0,Gregor Nicol (East Fife) Substitution at 88',Gregor Nicol Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,347283.0,2025-09-28 05:17:28
+13495,742193,17,45992887,70,2,5400,90'+9',1,0,Alfie Bavidge (Inverness Caledonian Thistle) Goal at 99',Alfie Bavidge Goal,253,0.0,0.0,0.0,0.0,0.0,0.0,1,324735.0,2025-09-28 05:17:28
+13495,742193,16,45992818,76,2,5400,90'+6',0,0,Jordan Alonge (Inverness Caledonian Thistle) Substitution at 96',Jordan Alonge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,392184.0,2025-09-28 05:17:28
+13495,742193,14,45992632,76,2,5400,90'+2',0,0,Patrick Slattery (East Fife) Substitution at 92',Patrick Slattery Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,144447.0,2025-09-28 05:17:28
+13495,742193,15,45992817,76,2,5400,90'+6',0,0,Billy McKay (Inverness Caledonian Thistle) Substitution at 96',Billy McKay Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,1,138377.0,2025-09-28 05:17:28
+13495,742193,15,45992817,76,2,5400,90'+6',0,0,Billy McKay (Inverness Caledonian Thistle) Substitution at 96',Billy McKay Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,137726.0,2025-09-28 05:17:28
+13495,742193,16,45992818,76,2,5400,90'+6',0,0,Jordan Alonge (Inverness Caledonian Thistle) Substitution at 96',Jordan Alonge Substitution,253,0.0,0.0,0.0,0.0,0.0,0.0,2,291645.0,2025-09-28 05:17:28
+13495,742193,14,45992632,76,2,5400,90'+2',0,0,Patrick Slattery (East Fife) Substitution at 92',Patrick Slattery Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,158096.0,2025-09-28 05:17:28
+13495,742194,1,45988462,70,1,600,10',1,0,Max Barry (Peterhead) Goal at 10',Max Barry Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291446.0,2025-09-28 05:17:28
+13495,742194,2,45988756,70,1,1140,19',1,0,Kieran Shanks (Peterhead) Goal at 19',Kieran Shanks Goal,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291447.0,2025-09-28 05:17:28
+13495,742194,3,45988890,94,1,1380,23',0,0,Dylan Forrest (Peterhead) Yellow Card at 23',Dylan Forrest Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291656.0,2025-09-28 05:17:28
+13495,742194,4,45988912,70,1,1440,24',1,0,Steven Buchanan (Alloa Athletic) Goal at 24',Steven Buchanan Goal,403,0.0,0.0,0.0,0.0,0.0,0.0,1,345183.0,2025-09-28 05:17:28
+13495,742194,5,45989300,94,1,2040,34',0,0,Charlie Dewar (Alloa Athletic) Yellow Card at 34',Charlie Dewar Yellow Card,403,0.0,0.0,0.0,0.0,0.0,0.0,1,388276.0,2025-09-28 05:17:28
+13495,742194,6,45990662,94,2,3300,55',0,0,Kieran Shanks (Peterhead) Yellow Card at 55',Kieran Shanks Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,291447.0,2025-09-28 05:17:28
+13495,742194,7,45990869,76,2,3540,59',0,0,Craig McGuffie (Peterhead) Substitution at 59',Craig McGuffie Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,206454.0,2025-09-28 05:17:28
+13495,742194,7,45990869,76,2,3540,59',0,0,Craig McGuffie (Peterhead) Substitution at 59',Craig McGuffie Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,239223.0,2025-09-28 05:17:28
+13495,742194,8,45991229,76,2,3840,64',0,0,Calum Adamson (Alloa Athletic) Substitution at 64',Calum Adamson Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,285387.0,2025-09-28 05:17:28
+13495,742194,8,45991229,76,2,3840,64',0,0,Calum Adamson (Alloa Athletic) Substitution at 64',Calum Adamson Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,153015.0,2025-09-28 05:17:28
+13495,742194,9,45992064,76,2,4800,80',0,0,Luke Rankin (Alloa Athletic) Substitution at 80',Luke Rankin Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,347933.0,2025-09-28 05:17:28
+13495,742194,9,45992064,76,2,4800,80',0,0,Luke Rankin (Alloa Athletic) Substitution at 80',Luke Rankin Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,213517.0,2025-09-28 05:17:28
+13495,742194,10,45992324,94,2,5100,85',0,0,Calum Adamson (Alloa Athletic) Yellow Card at 85',Calum Adamson Yellow Card,403,0.0,0.0,0.0,0.0,0.0,0.0,1,285387.0,2025-09-28 05:17:28
+13495,742194,11,45992395,76,2,5160,86',0,0,Conor Sammon (Alloa Athletic) Substitution at 86',Conor Sammon Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,121832.0,2025-09-28 05:17:28
+13495,742194,11,45992395,76,2,5160,86',0,0,Conor Sammon (Alloa Athletic) Substitution at 86',Conor Sammon Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,288582.0,2025-09-28 05:17:28
+13495,742194,14,45992720,76,2,5400,90'+3',0,0,Niall McGinn (Peterhead) Substitution at 93',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,82925.0,2025-09-28 05:17:28
+13495,742194,13,45992642,94,2,5400,90'+2',0,0,Flynn Duffy (Peterhead) Yellow Card at 92',Flynn Duffy Yellow Card,416,0.0,0.0,0.0,0.0,0.0,0.0,1,311111.0,2025-09-28 05:17:28
+13495,742194,12,45992564,76,2,5400,90',0,0,Jack Brown (Peterhead) Substitution at 90',Jack Brown Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,1,255732.0,2025-09-28 05:17:28
+13495,742194,12,45992564,76,2,5400,90',0,0,Jack Brown (Peterhead) Substitution at 90',Jack Brown Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,291447.0,2025-09-28 05:17:28
+13495,742194,14,45992720,76,2,5400,90'+3',0,0,Niall McGinn (Peterhead) Substitution at 93',Niall McGinn Substitution,416,0.0,0.0,0.0,0.0,0.0,0.0,2,291446.0,2025-09-28 05:17:28
+13495,742195,2,45988140,98,1,120,2',1,0,Innes Murray (Kelty Hearts) Penalty - Scored at 2',Innes Murray Penalty - Scored,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,239235.0,2025-09-28 05:17:28
+13495,742195,1,45988139,94,1,120,2',0,0,Justin Eguaibor (Cove Rangers) Yellow Card at 2',Justin Eguaibor Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,407597.0,2025-09-28 05:17:28
+13495,742195,3,45988656,76,1,1080,18',0,0,Lewis Carrol (Kelty Hearts) Substitution at 18',Lewis Carrol Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366766.0,2025-09-28 05:17:28
+13495,742195,3,45988656,76,1,1080,18',0,0,Lewis Carrol (Kelty Hearts) Substitution at 18',Lewis Carrol Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,168949.0,2025-09-28 05:17:28
+13495,742195,4,45988826,94,1,1320,22',0,0,Liam Parker (Cove Rangers) Yellow Card at 22',Liam Parker Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,324849.0,2025-09-28 05:17:28
+13495,742195,5,45989102,94,1,1860,31',0,0,Ricco Diack (Kelty Hearts) Yellow Card at 31',Ricco Diack Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,338524.0,2025-09-28 05:17:28
+13495,742195,6,45989160,94,1,1980,33',0,0,Arron Darge (Cove Rangers) Yellow Card at 33',Arron Darge Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,290709.0,2025-09-28 05:17:28
+13495,742195,7,45990820,76,2,3480,58',0,0,Mackenzie Strachan (Cove Rangers) Substitution at 58',Mackenzie Strachan Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,324916.0,2025-09-28 05:17:28
+13495,742195,7,45990820,76,2,3480,58',0,0,Mackenzie Strachan (Cove Rangers) Substitution at 58',Mackenzie Strachan Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,290709.0,2025-09-28 05:17:28
+13495,742195,8,45991101,94,2,3600,60',0,0,Craig Clay (Kelty Hearts) Yellow Card at 60',Craig Clay Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,144039.0,2025-09-28 05:17:28
+13495,742195,9,45991340,76,2,3900,65',0,0,Joseph Teasdale (Kelty Hearts) Substitution at 65',Joseph Teasdale Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366765.0,2025-09-28 05:17:28
+13495,742195,9,45991340,76,2,3900,65',0,0,Joseph Teasdale (Kelty Hearts) Substitution at 65',Joseph Teasdale Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,338524.0,2025-09-28 05:17:28
+13495,742195,10,45991684,76,2,4320,72',0,0,Darren Mcinally (Kelty Hearts) Substitution at 72',Darren Mcinally Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,348307.0,2025-09-28 05:17:28
+13495,742195,11,45991737,76,2,4320,72',0,0,Lewis Moore (Kelty Hearts) Substitution at 72',Lewis Moore Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,217339.0,2025-09-28 05:17:28
+13495,742195,10,45991684,76,2,4320,72',0,0,Darren Mcinally (Kelty Hearts) Substitution at 72',Darren Mcinally Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,296138.0,2025-09-28 05:17:28
+13495,742195,11,45991737,76,2,4320,72',0,0,Lewis Moore (Kelty Hearts) Substitution at 72',Lewis Moore Substitution,18018,0.0,0.0,0.0,0.0,0.0,0.0,2,347341.0,2025-09-28 05:17:28
+13495,742195,12,45992449,94,2,5280,88',0,0,Ryan Adamson (Kelty Hearts) Yellow Card at 88',Ryan Adamson Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,121674.0,2025-09-28 05:17:28
+13495,742195,14,45992677,70,2,5400,90'+2',1,0,Joseph Teasdale (Kelty Hearts) Goal at 92',Joseph Teasdale Goal,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366765.0,2025-09-28 05:17:28
+13495,742195,13,45992596,94,2,5400,90'+1',0,0,Lewis Carrol (Kelty Hearts) Yellow Card at 91',Lewis Carrol Yellow Card,18018,0.0,0.0,0.0,0.0,0.0,0.0,1,366766.0,2025-09-28 05:17:28
+13495,742210,1,45558204,70,1,900,15',1,0,Dale Carrick (Stenhousemuir) Goal at 15',Dale Carrick Goal,405,0.0,0.0,0.0,0.0,0.0,0.0,1,176836.0,2025-08-03 04:42:04
+13495,742210,2,45558437,70,1,2580,43',1,0,Steven Buchanan (Alloa Athletic) Goal at 43',Steven Buchanan Goal,403,0.0,0.0,0.0,0.0,0.0,0.0,1,345183.0,2025-08-03 04:42:04
+13495,742210,3,45558472,94,1,2700,45'+2',0,0,Ryan Duncan (Stenhousemuir) Yellow Card at 47',Ryan Duncan Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,43235.0,2025-08-03 04:42:04
+13495,742210,4,45558761,70,2,3060,51',1,0,Kurtis Roberts (Alloa Athletic) Goal at 51',Kurtis Roberts Goal,403,0.0,0.0,0.0,0.0,0.0,0.0,1,275634.0,2025-08-03 04:42:04
+13495,742210,5,45558928,94,2,3420,57',0,0,Michael Anderson (Stenhousemuir) Yellow Card at 57',Michael Anderson Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,13199.0,2025-08-03 04:42:04
+13495,742210,6,45559163,76,2,3960,66',0,0,Cameron Rowley (Stenhousemuir) Substitution at 66',Cameron Rowley Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,378620.0,2025-08-03 04:42:04
+13495,742210,7,45559164,76,2,3960,66',0,0,Corey O' Donnell (Stenhousemuir) Substitution at 66',Corey O' Donnell Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,322900.0,2025-08-03 04:42:04
+13495,742210,7,45559164,76,2,3960,66',0,0,Corey O' Donnell (Stenhousemuir) Substitution at 66',Corey O' Donnell Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,12821.0,2025-08-03 04:42:04
+13495,742210,6,45559163,76,2,3960,66',0,0,Cameron Rowley (Stenhousemuir) Substitution at 66',Cameron Rowley Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,322774.0,2025-08-03 04:42:04
+13495,742210,8,45559293,76,2,4260,71',0,0,Kalvin Orsi (Alloa Athletic) Substitution at 71',Kalvin Orsi Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,207443.0,2025-08-03 04:42:04
+13495,742210,8,45559293,76,2,4260,71',0,0,Kalvin Orsi (Alloa Athletic) Substitution at 71',Kalvin Orsi Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,290169.0,2025-08-03 04:42:04
+13495,742210,9,45559294,76,2,4320,72',0,0,Conor Sammon (Alloa Athletic) Substitution at 72',Conor Sammon Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,1,121832.0,2025-08-03 04:42:04
+13495,742210,9,45559294,76,2,4320,72',0,0,Conor Sammon (Alloa Athletic) Substitution at 72',Conor Sammon Substitution,403,0.0,0.0,0.0,0.0,0.0,0.0,2,347933.0,2025-08-03 04:42:04
+13495,742210,10,45559383,76,2,4560,76',0,0,Peter Mendy (Stenhousemuir) Substitution at 76',Peter Mendy Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,360258.0,2025-08-03 04:42:04
+13495,742210,11,45559384,76,2,4560,76',0,0,Nicky Jamieson (Stenhousemuir) Substitution at 76',Nicky Jamieson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,190512.0,2025-08-03 04:42:04
+13495,742210,11,45559384,76,2,4560,76',0,0,Nicky Jamieson (Stenhousemuir) Substitution at 76',Nicky Jamieson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,43235.0,2025-08-03 04:42:04
+13495,742210,10,45559383,76,2,4560,76',0,0,Peter Mendy (Stenhousemuir) Substitution at 76',Peter Mendy Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,240728.0,2025-08-03 04:42:04
+13495,742210,12,45559649,76,2,5160,86',0,0,Oliver Simpson (Stenhousemuir) Substitution at 86',Oliver Simpson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,388275.0,2025-08-03 04:42:04
+13495,742210,12,45559649,76,2,5160,86',0,0,Oliver Simpson (Stenhousemuir) Substitution at 86',Oliver Simpson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,162845.0,2025-08-03 04:42:04

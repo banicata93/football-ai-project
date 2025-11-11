@@ -1,0 +1,32 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+13355,735805,1,45334403,94,Sergio Akieme (Stade de Reims) Yellow Card at 38',Sergio Akieme Yellow Card,1,2280,38',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,231918,Sergio Akieme,2025-05-31 04:50:33
+13355,735805,2,45334432,70,Ange Tia (Stade de Reims) Goal at 57',Ange Tia Goal,2,3420,57',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,372081,Ange Tia,2025-05-31 04:50:33
+13355,735805,3,45334440,76,Pape Diallo (Metz) Substitution at 63',Pape Diallo Substitution,2,3780,63',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,362253,Pape Diallo,2025-05-31 04:50:33
+13355,735805,4,45334442,76,Alpha Touré (Metz) Substitution at 63',Alpha Touré Substitution,2,3780,63',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,376483,Alpha Touré,2025-05-31 04:50:33
+13355,735805,3,45334440,76,Pape Diallo (Metz) Substitution at 63',Pape Diallo Substitution,2,3780,63',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,321999,Kevin Guiton,2025-05-31 04:50:33
+13355,735805,4,45334442,76,Alpha Touré (Metz) Substitution at 63',Alpha Touré Substitution,2,3780,63',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,265200,Jessy Deminguet,2025-05-31 04:50:33
+13355,735805,5,45334443,94,Ange Tia (Stade de Reims) Yellow Card at 64',Ange Tia Yellow Card,2,3840,64',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,372081,Ange Tia,2025-05-31 04:50:33
+13355,735805,6,45334444,76,Valentin Atangana (Stade de Reims) Substitution at 65',Valentin Atangana Substitution,2,3900,65',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,359165,Valentin Atangana,2025-05-31 04:50:33
+13355,735805,7,45334445,76,Mamadou Diakhon (Stade de Reims) Substitution at 65',Mamadou Diakhon Substitution,2,3900,65',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,362875,Mamadou Diakhon,2025-05-31 04:50:33
+13355,735805,6,45334444,76,Valentin Atangana (Stade de Reims) Substitution at 65',Valentin Atangana Substitution,2,3900,65',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,375052,Amadou Koné,2025-05-31 04:50:33
+13355,735805,7,45334445,76,Mamadou Diakhon (Stade de Reims) Substitution at 65',Mamadou Diakhon Substitution,2,3900,65',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,372081,Ange Tia,2025-05-31 04:50:33
+13355,735805,8,45334446,76,Idrissa Gueye (Metz) Substitution at 71',Idrissa Gueye Substitution,2,4260,71',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,377170,Idrissa Gueye,2025-05-31 04:50:33
+13355,735805,8,45334446,76,Idrissa Gueye (Metz) Substitution at 71',Idrissa Gueye Substitution,2,4260,71',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,382759,Morgan Bokele,2025-05-31 04:50:33
+13355,735805,9,45334447,76,Jordan Pefok (Stade de Reims) Substitution at 72',Jordan Pefok Substitution,2,4320,72',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,216035,Jordan Pefok,2025-05-31 04:50:33
+13355,735805,9,45334447,76,Jordan Pefok (Stade de Reims) Substitution at 72',Jordan Pefok Substitution,2,4320,72',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,329483,Oumar Diakité,2025-05-31 04:50:33
+13355,735805,10,45334450,76,John Finn (Stade de Reims) Substitution at 77',John Finn Substitution,2,4620,77',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,313053,John Finn,2025-05-31 04:50:33
+13355,735805,11,45334452,76,Hiroki Sekine (Stade de Reims) Substitution at 77',Hiroki Sekine Substitution,2,4620,77',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,365686,Hiroki Sekine,2025-05-31 04:50:33
+13355,735805,10,45334450,76,John Finn (Stade de Reims) Substitution at 77',John Finn Substitution,2,4620,77',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,345470,Mory Gbane,2025-05-31 04:50:33
+13355,735805,11,45334452,76,Hiroki Sekine (Stade de Reims) Substitution at 77',Hiroki Sekine Substitution,2,4620,77',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,238897,Buta ,2025-05-31 04:50:33
+13355,735805,12,45334453,70,Matthieu Udol (Metz) Goal at 78',Matthieu Udol Goal,2,4680,78',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,233199,Matthieu Udol,2025-05-31 04:50:33
+13355,735805,13,45334457,76,Abdoulie Jallow (Metz) Substitution at 84',Abdoulie Jallow Substitution,2,5040,84',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,259020,Abdoulie Jallow,2025-05-31 04:50:33
+13355,735805,13,45334457,76,Abdoulie Jallow (Metz) Substitution at 84',Abdoulie Jallow Substitution,2,5040,84',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,276451,Cheick Tidiane Sabaly,2025-05-31 04:50:33
+13355,735805,14,45334458,94,Urie-Michel Mboula (Metz) Yellow Card at 85',Urie-Michel Mboula Yellow Card,2,5100,85',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,370501,Urie-Michel Mboula,2025-05-31 04:50:33
+13355,735805,15,45334459,94,Keito Nakamura (Stade de Reims) Yellow Card at 87',Keito Nakamura Yellow Card,2,5220,87',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,265953,Keito Nakamura,2025-05-31 04:50:33
+13355,735805,16,45334465,76,Maxime Colin (Metz) Substitution at 103',Maxime Colin Substitution,3,6180,103',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,150283,Maxime Colin,2025-05-31 04:50:33
+13355,735805,16,45334465,76,Maxime Colin (Metz) Substitution at 103',Maxime Colin Substitution,3,6180,103',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,257052,Koffi Kouao,2025-05-31 04:50:33
+13355,735805,17,45334466,76,Nhoa Sangui (Stade de Reims) Substitution at 105',Nhoa Sangui Substitution,4,6300,105',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,371471,Nhoa Sangui,2025-05-31 04:50:33
+13355,735805,17,45334466,76,Nhoa Sangui (Stade de Reims) Substitution at 105',Nhoa Sangui Substitution,4,6300,105',3243,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,231918,Sergio Akieme,2025-05-31 04:50:33
+13355,735805,18,45334467,70,Alpha Touré (Metz) Goal at 110',Alpha Touré Goal,4,6600,110',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,376483,Alpha Touré,2025-05-31 04:50:33
+13355,735805,19,45334468,70,Gauthier Hein (Metz) Goal at 114',Gauthier Hein Goal,4,6840,114',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239905,Gauthier Hein,2025-05-31 04:50:33
+13355,735805,20,45334469,94,Gauthier Hein (Metz) Yellow Card at 115',Gauthier Hein Yellow Card,4,6900,115',177,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239905,Gauthier Hein,2025-05-31 04:50:33

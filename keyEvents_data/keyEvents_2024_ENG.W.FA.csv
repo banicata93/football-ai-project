@@ -1,0 +1,819 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12973,735350,1,45285424,98,1,2700,45',1,0,Sandy Baltimore (Chelsea) Penalty - Scored at 45',Sandy Baltimore Penalty - Scored,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,295673.0,2025-05-19 04:56:11
+12973,735350,2,45285639,76,2,2700,45',0,0,Ella Toone (Manchester United) Substitution at 45',Ella Toone Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,294255.0,2025-05-19 04:56:11
+12973,735350,2,45285639,76,2,2700,45',0,0,Ella Toone (Manchester United) Substitution at 45',Ella Toone Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,294257.0,2025-05-19 04:56:11
+12973,735350,3,45285786,94,2,3000,50',0,0,Leah Galton (Manchester United) Yellow Card at 50',Leah Galton Yellow Card,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,294256.0,2025-05-19 04:56:11
+12973,735350,4,45285818,94,2,3180,53',0,0,Grace Clinton (Manchester United) Yellow Card at 53',Grace Clinton Yellow Card,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,306883.0,2025-05-19 04:56:11
+12973,735350,5,45285883,94,2,3360,56',0,0,Erin Cuthbert (Chelsea) Yellow Card at 56',Erin Cuthbert Yellow Card,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,257545.0,2025-05-19 04:56:11
+12973,735350,6,45286010,76,2,3720,62',0,0,Catarina Macario (Chelsea) Substitution at 62',Catarina Macario Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,261568.0,2025-05-19 04:56:11
+12973,735350,6,45286010,76,2,3720,62',0,0,Catarina Macario (Chelsea) Substitution at 62',Catarina Macario Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,288680.0,2025-05-19 04:56:11
+12973,735350,7,45286181,76,2,4200,70',0,0,Melvine Malard (Manchester United) Substitution at 70',Melvine Malard Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,295670.0,2025-05-19 04:56:11
+12973,735350,7,45286181,76,2,4200,70',0,0,Melvine Malard (Manchester United) Substitution at 70',Melvine Malard Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,293411.0,2025-05-19 04:56:11
+12973,735350,8,45286226,94,2,4320,72',0,0,Gabby George (Manchester United) Yellow Card at 72',Gabby George Yellow Card,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,268536.0,2025-05-19 04:56:11
+12973,735350,9,45286298,76,2,4500,75',0,0,Wieke Kaptein (Chelsea) Substitution at 75',Wieke Kaptein Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,315453.0,2025-05-19 04:56:11
+12973,735350,9,45286298,76,2,4500,75',0,0,Wieke Kaptein (Chelsea) Substitution at 75',Wieke Kaptein Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,313088.0,2025-05-19 04:56:11
+12973,735350,10,45286337,76,2,4560,76',0,0,Anna Sandberg (Manchester United) Substitution at 76',Anna Sandberg Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,359233.0,2025-05-19 04:56:11
+12973,735350,10,45286337,76,2,4560,76',0,0,Anna Sandberg (Manchester United) Substitution at 76',Anna Sandberg Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,268536.0,2025-05-19 04:56:11
+12973,735350,11,45286485,76,2,4860,81',0,0,Rachel Williams (Manchester United) Substitution at 81',Rachel Williams Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,134423.0,2025-05-19 04:56:11
+12973,735350,12,45286486,76,2,4860,81',0,0,Lisa Naalsund (Manchester United) Substitution at 81',Lisa Naalsund Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,268103.0,2025-05-19 04:56:11
+12973,735350,11,45286485,76,2,4860,81',0,0,Rachel Williams (Manchester United) Substitution at 81',Rachel Williams Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-05-19 04:56:11
+12973,735350,12,45286486,76,2,4860,81',0,0,Lisa Naalsund (Manchester United) Substitution at 81',Lisa Naalsund Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,283107.0,2025-05-19 04:56:11
+12973,735350,13,45286571,70,2,5040,84',1,0,Catarina Macario (Chelsea) Goal at 84',Catarina Macario Goal,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,261568.0,2025-05-19 04:56:11
+12973,735350,18,45286784,76,2,5400,90'+4',0,0,Johanna Rytting Kaneryd (Chelsea) Substitution at 94',Johanna Rytting Kaneryd Substitu,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,264735.0,2025-05-19 04:56:11
+12973,735350,17,45286783,76,2,5400,90'+4',0,0,Sjoeke Nüsken (Chelsea) Substitution at 94',Sjoeke Nüsken Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,314382.0,2025-05-19 04:56:11
+12973,735350,15,45286731,70,2,5400,90'+1',1,0,Sandy Baltimore (Chelsea) Goal at 91',Sandy Baltimore Goal,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,295673.0,2025-05-19 04:56:11
+12973,735350,14,45286715,94,2,5400,90',0,0,Sandy Baltimore (Chelsea) Yellow Card at 90',Sandy Baltimore Yellow Card,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,295673.0,2025-05-19 04:56:11
+12973,735350,16,45286768,76,2,5400,90'+4',0,0,Guro Reiten (Chelsea) Substitution at 94',Guro Reiten Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,257483.0,2025-05-19 04:56:11
+12973,735350,16,45286768,76,2,5400,90'+4',0,0,Guro Reiten (Chelsea) Substitution at 94',Guro Reiten Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,295673.0,2025-05-19 04:56:11
+12973,735350,17,45286783,76,2,5400,90'+4',0,0,Sjoeke Nüsken (Chelsea) Substitution at 94',Sjoeke Nüsken Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,257545.0,2025-05-19 04:56:11
+12973,735350,18,45286784,76,2,5400,90'+4',0,0,Johanna Rytting Kaneryd (Chelsea) Substitution at 94',Johanna Rytting Kaneryd Substitu,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,188448.0,2025-05-19 04:56:11
+12974,734202,1,45041752,70,1,1260,21',1,0,Olivia Smith (Liverpool) Goal at 21',Olivia Smith Goal,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,279337.0,2025-04-13 05:23:05
+12974,734202,2,45041839,94,1,2220,37',0,0,Grace Fisk (Liverpool) Yellow Card at 37',Grace Fisk Yellow Card,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,261669.0,2025-04-13 05:23:05
+12974,734202,3,45041898,70,1,2700,45'+2',1,0,Erin Cuthbert (Chelsea) Goal at 47',Erin Cuthbert Goal,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,257545.0,2025-04-13 05:23:05
+12974,734202,4,45042114,76,2,3660,61',0,0,Sophie Román Haug (Liverpool) Substitution at 61',Sophie Román Haug Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,280992.0,2025-04-13 05:23:05
+12974,734202,4,45042114,76,2,3660,61',0,0,Sophie Román Haug (Liverpool) Substitution at 61',Sophie Román Haug Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,287518.0,2025-04-13 05:23:05
+12974,734202,5,45042177,76,2,3960,66',0,0,Sjoeke Nüsken (Chelsea) Substitution at 66',Sjoeke Nüsken Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,314382.0,2025-04-13 05:23:05
+12974,734202,5,45042177,76,2,3960,66',0,0,Sjoeke Nüsken (Chelsea) Substitution at 66',Sjoeke Nüsken Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,288680.0,2025-04-13 05:23:05
+12974,734202,6,45042261,94,2,4440,74',0,0,Rachael Laws (Liverpool) Yellow Card at 74',Rachael Laws Yellow Card,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,230835.0,2025-04-13 05:23:05
+12974,734202,7,45042278,94,2,4620,77',0,0,Sandy Baltimore (Chelsea) Yellow Card at 77',Sandy Baltimore Yellow Card,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,295673.0,2025-04-13 05:23:05
+12974,734202,8,45042362,76,2,5280,88',0,0,Jasmine Matthews (Liverpool) Substitution at 88',Jasmine Matthews Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,312477.0,2025-04-13 05:23:05
+12974,734202,8,45042362,76,2,5280,88',0,0,Jasmine Matthews (Liverpool) Substitution at 88',Jasmine Matthews Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,279337.0,2025-04-13 05:23:05
+12974,734202,11,45042460,76,2,5400,90'+6',0,0,Guro Reiten (Chelsea) Substitution at 96',Guro Reiten Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,257483.0,2025-04-13 05:23:05
+12974,734202,12,45042461,76,2,5400,90'+6',0,0,Mia Enderby (Liverpool) Substitution at 96',Mia Enderby Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,325841.0,2025-04-13 05:23:05
+12974,734202,10,45042459,76,2,5400,90'+6',0,0,Catarina Macario (Chelsea) Substitution at 96',Catarina Macario Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,261568.0,2025-04-13 05:23:05
+12974,734202,9,45042428,70,2,5400,90'+4',1,0,Aggie Beever-Jones (Chelsea) Goal at 94',Aggie Beever-Jones Goal,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,313088.0,2025-04-13 05:23:05
+12974,734202,12,45042461,76,2,5400,90'+6',0,0,Mia Enderby (Liverpool) Substitution at 96',Mia Enderby Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,389652.0,2025-04-13 05:23:05
+12974,734202,10,45042459,76,2,5400,90'+6',0,0,Catarina Macario (Chelsea) Substitution at 96',Catarina Macario Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,313088.0,2025-04-13 05:23:05
+12974,734202,11,45042460,76,2,5400,90'+6',0,0,Guro Reiten (Chelsea) Substitution at 96',Guro Reiten Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,315453.0,2025-04-13 05:23:05
+12974,734203,1,45060934,70,1,360,6',1,0,Celin Bizet (Manchester United) Goal at 6',Celin Bizet Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-04-14 05:17:47
+12974,734203,2,45061274,70,1,1320,22',1,0,Grace Clinton (Manchester United) Goal at 22',Grace Clinton Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,306883.0,2025-04-14 05:17:47
+12974,734203,3,45061306,76,1,1500,25',0,0,Naomi Layzell (Manchester City) Substitution at 25',Naomi Layzell Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,306881.0,2025-04-14 05:17:47
+12974,734203,3,45061306,76,1,1500,25',0,0,Naomi Layzell (Manchester City) Substitution at 25',Naomi Layzell Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,276165.0,2025-04-14 05:17:47
+12974,734203,4,45062177,94,2,3360,56',0,0,Grace Clinton (Manchester United) Yellow Card at 56',Grace Clinton Yellow Card,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,306883.0,2025-04-14 05:17:47
+12974,734203,5,45062279,94,2,4020,67',0,0,Phallon Tullis-Joyce (Manchester United) Yellow Card at 67',Phallon Tullis-Joyce Yellow Card,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,208938.0,2025-04-14 05:17:47
+12974,734203,6,45062304,76,2,4140,69',0,0,Dominique Janssen (Manchester United) Substitution at 69',Dominique Janssen Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,219947.0,2025-04-14 05:17:47
+12974,734203,6,45062304,76,2,4140,69',0,0,Dominique Janssen (Manchester United) Substitution at 69',Dominique Janssen Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,306883.0,2025-04-14 05:17:47
+12974,734203,7,45062399,94,2,4620,77',0,0,Maya Le Tissier (Manchester United) Yellow Card at 77',Maya Le Tissier Yellow Card,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,312462.0,2025-04-14 05:17:47
+12974,734203,8,45062423,94,2,4740,79',0,0,Naomi Layzell (Manchester City) Yellow Card at 79',Naomi Layzell Yellow Card,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,306881.0,2025-04-14 05:17:47
+12974,734203,10,45062472,76,2,4920,82',0,0,Lisa Naalsund (Manchester United) Substitution at 82',Lisa Naalsund Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,268103.0,2025-04-14 05:17:47
+12974,734203,11,45062473,76,2,4920,82',0,0,Laura Wienroither (Manchester City) Substitution at 82',Laura Wienroither Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,268324.0,2025-04-14 05:17:47
+12974,734203,9,45062471,76,2,4920,82',0,0,Anna Sandberg (Manchester United) Substitution at 82',Anna Sandberg Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,359233.0,2025-04-14 05:17:47
+12974,734203,11,45062473,76,2,4920,82',0,0,Laura Wienroither (Manchester City) Substitution at 82',Laura Wienroither Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,390468.0,2025-04-14 05:17:47
+12974,734203,10,45062472,76,2,4920,82',0,0,Lisa Naalsund (Manchester United) Substitution at 82',Lisa Naalsund Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,294255.0,2025-04-14 05:17:47
+12974,734203,9,45062471,76,2,4920,82',0,0,Anna Sandberg (Manchester United) Substitution at 82',Anna Sandberg Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,268536.0,2025-04-14 05:17:47
+12974,734203,12,45062553,76,2,5220,87',0,0,Melvine Malard (Manchester United) Substitution at 87',Melvine Malard Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,295670.0,2025-04-14 05:17:47
+12974,734203,13,45062554,76,2,5220,87',0,0,Aoife Mannion (Manchester United) Substitution at 87',Aoife Mannion Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,293411.0,2025-04-14 05:17:47
+12974,734203,12,45062553,76,2,5220,87',0,0,Melvine Malard (Manchester United) Substitution at 87',Melvine Malard Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,267765.0,2025-04-14 05:17:47
+12974,734203,13,45062554,76,2,5220,87',0,0,Aoife Mannion (Manchester United) Substitution at 87',Aoife Mannion Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-04-14 05:17:47
+12975,732581,1,44843279,94,1,2460,41',0,0,Felicity Gibbons (Crystal Palace) Yellow Card at 41',Felicity Gibbons Yellow Card,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,312463.0,2025-03-10 04:51:21
+12975,732581,1,44860082,94,1,2460,41',0,0,Felicity Gibbons (Crystal Palace) Yellow Card at 41',Felicity Gibbons Yellow Card,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,312463.0,2025-03-13 04:51:12
+12975,732581,3,44843650,76,2,2700,45',0,0,Sjoeke Nüsken (Chelsea) Substitution at 45',Sjoeke Nüsken Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,314382.0,2025-03-10 04:51:21
+12975,732581,2,44860083,76,2,2700,45',0,0,Sjoeke Nüsken (Chelsea) Substitution at 45',Sjoeke Nüsken Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,314382.0,2025-03-13 04:51:12
+12975,732581,2,44843649,76,2,2700,45',0,0,Johanna Rytting Kaneryd (Chelsea) Substitution at 45',Johanna Rytting Kaneryd Substitu,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,264735.0,2025-03-10 04:51:21
+12975,732581,3,44860084,76,2,2700,45',0,0,Johanna Rytting Kaneryd (Chelsea) Substitution at 45',Johanna Rytting Kaneryd Substitu,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,264735.0,2025-03-13 04:51:12
+12975,732581,2,44843649,76,2,2700,45',0,0,Johanna Rytting Kaneryd (Chelsea) Substitution at 45',Johanna Rytting Kaneryd Substitu,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,351356.0,2025-03-10 04:51:21
+12975,732581,3,44860084,76,2,2700,45',0,0,Johanna Rytting Kaneryd (Chelsea) Substitution at 45',Johanna Rytting Kaneryd Substitu,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,351356.0,2025-03-13 04:51:12
+12975,732581,3,44843650,76,2,2700,45',0,0,Sjoeke Nüsken (Chelsea) Substitution at 45',Sjoeke Nüsken Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,315453.0,2025-03-10 04:51:21
+12975,732581,2,44860083,76,2,2700,45',0,0,Sjoeke Nüsken (Chelsea) Substitution at 45',Sjoeke Nüsken Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,315453.0,2025-03-13 04:51:12
+12975,732581,5,44843784,76,2,3180,53',0,0,Abbie Larkin (Crystal Palace) Substitution at 53',Abbie Larkin Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,336368.0,2025-03-10 04:51:21
+12975,732581,4,44860085,76,2,3180,53',0,0,Abbie Larkin (Crystal Palace) Substitution at 53',Abbie Larkin Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,336368.0,2025-03-13 04:51:12
+12975,732581,6,44843785,94,2,3180,53',0,0,Shae Yanez (Crystal Palace) Yellow Card at 53',Shae Yanez Yellow Card,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,224886.0,2025-03-10 04:51:21
+12975,732581,6,44860087,94,2,3180,53',0,0,Shae Yanez (Crystal Palace) Yellow Card at 53',Shae Yanez Yellow Card,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,224886.0,2025-03-13 04:51:12
+12975,732581,4,44843783,76,2,3180,53',0,0,Isibeal Atkinson (Crystal Palace) Substitution at 53',Isibeal Atkinson Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,328245.0,2025-03-10 04:51:21
+12975,732581,5,44860086,76,2,3180,53',0,0,Isibeal Atkinson (Crystal Palace) Substitution at 53',Isibeal Atkinson Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,328245.0,2025-03-13 04:51:12
+12975,732581,4,44843783,76,2,3180,53',0,0,Isibeal Atkinson (Crystal Palace) Substitution at 53',Isibeal Atkinson Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,314575.0,2025-03-10 04:51:21
+12975,732581,5,44860086,76,2,3180,53',0,0,Isibeal Atkinson (Crystal Palace) Substitution at 53',Isibeal Atkinson Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,314575.0,2025-03-13 04:51:12
+12975,732581,5,44843784,76,2,3180,53',0,0,Abbie Larkin (Crystal Palace) Substitution at 53',Abbie Larkin Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,300434.0,2025-03-10 04:51:21
+12975,732581,4,44860085,76,2,3180,53',0,0,Abbie Larkin (Crystal Palace) Substitution at 53',Abbie Larkin Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,300434.0,2025-03-13 04:51:12
+12975,732581,7,44843827,76,2,3300,55',0,0,Mayra Ramírez (Chelsea) Substitution at 55',Mayra Ramírez Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,288680.0,2025-03-10 04:51:21
+12975,732581,7,44860088,76,2,3300,55',0,0,Mayra Ramírez (Chelsea) Substitution at 55',Mayra Ramírez Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,288680.0,2025-03-13 04:51:12
+12975,732581,7,44843827,76,2,3300,55',0,0,Mayra Ramírez (Chelsea) Substitution at 55',Mayra Ramírez Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,313088.0,2025-03-10 04:51:21
+12975,732581,7,44860088,76,2,3300,55',0,0,Mayra Ramírez (Chelsea) Substitution at 55',Mayra Ramírez Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,313088.0,2025-03-13 04:51:12
+12975,732581,8,44843973,70,2,3840,64',1,0,Lauren James (Chelsea) Goal at 64',Lauren James Goal,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,294253.0,2025-03-10 04:51:21
+12975,732581,8,44860089,70,2,3840,64',1,0,Lauren James (Chelsea) Goal at 64',Lauren James Goal,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,294253.0,2025-03-13 04:51:12
+12975,732581,9,44844086,76,2,4440,74',0,0,Oriane Jean-François (Chelsea) Substitution at 74',Oriane Jean-François Substitutio,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,317637.0,2025-03-10 04:51:21
+12975,732581,9,44860090,76,2,4440,74',0,0,Oriane Jean-François (Chelsea) Substitution at 74',Oriane Jean-François Substitutio,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,317637.0,2025-03-13 04:51:12
+12975,732581,9,44844086,76,2,4440,74',0,0,Oriane Jean-François (Chelsea) Substitution at 74',Oriane Jean-François Substitutio,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,257545.0,2025-03-10 04:51:21
+12975,732581,9,44860090,76,2,4440,74',0,0,Oriane Jean-François (Chelsea) Substitution at 74',Oriane Jean-François Substitutio,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,257545.0,2025-03-13 04:51:12
+12975,732581,10,44844113,94,2,4560,76',0,0,Lily Woodham (Crystal Palace) Yellow Card at 76',Lily Woodham Yellow Card,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,288977.0,2025-03-10 04:51:21
+12975,732581,10,44860091,94,2,4560,76',0,0,Lily Woodham (Crystal Palace) Yellow Card at 76',Lily Woodham Yellow Card,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,288977.0,2025-03-13 04:51:12
+12975,732581,11,44860092,76,2,4620,77',0,0,Katie Stengel (Crystal Palace) Substitution at 77',Katie Stengel Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,290269.0,2025-03-13 04:51:12
+12975,732581,11,44860092,76,2,4620,77',0,0,Katie Stengel (Crystal Palace) Substitution at 77',Katie Stengel Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,349219.0,2025-03-13 04:51:12
+12975,732581,11,44860092,76,2,4620,77',0,0,Katie Stengel (Crystal Palace) Substitution at 77',Katie Stengel Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,264628.0,2025-03-13 04:51:12
+12975,732581,11,44844130,76,2,4680,78',0,0,Katie Stengel (Crystal Palace) Substitution at 78',Katie Stengel Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,290269.0,2025-03-10 04:51:21
+12975,732581,11,44844130,76,2,4680,78',0,0,Katie Stengel (Crystal Palace) Substitution at 78',Katie Stengel Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,349219.0,2025-03-10 04:51:21
+12975,732581,11,44844130,76,2,4680,78',0,0,Katie Stengel (Crystal Palace) Substitution at 78',Katie Stengel Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,264628.0,2025-03-10 04:51:21
+12975,732581,12,44844141,76,2,4800,80',0,0,Elise Hughes (Crystal Palace) Substitution at 80',Elise Hughes Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,265532.0,2025-03-10 04:51:21
+12975,732581,12,44860093,76,2,4800,80',0,0,Elise Hughes (Crystal Palace) Substitution at 80',Elise Hughes Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,265532.0,2025-03-13 04:51:12
+12975,732581,12,44844141,76,2,4800,80',0,0,Elise Hughes (Crystal Palace) Substitution at 80',Elise Hughes Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,288977.0,2025-03-10 04:51:21
+12975,732581,12,44860093,76,2,4800,80',0,0,Elise Hughes (Crystal Palace) Substitution at 80',Elise Hughes Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,288977.0,2025-03-13 04:51:12
+12975,732581,13,44844171,76,2,4980,83',0,0,Niamh Charles (Chelsea) Substitution at 83',Niamh Charles Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,312480.0,2025-03-10 04:51:21
+12975,732581,13,44860094,76,2,4980,83',0,0,Niamh Charles (Chelsea) Substitution at 83',Niamh Charles Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,312480.0,2025-03-13 04:51:12
+12975,732581,13,44844171,76,2,4980,83',0,0,Niamh Charles (Chelsea) Substitution at 83',Niamh Charles Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,294253.0,2025-03-10 04:51:21
+12975,732581,13,44860094,76,2,4980,83',0,0,Niamh Charles (Chelsea) Substitution at 83',Niamh Charles Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,294253.0,2025-03-13 04:51:12
+12975,732581,14,44844327,94,2,5400,90'+7',0,0,Molly-Mae Sharpe (Crystal Palace) Yellow Card at 97',Molly-Mae Sharpe Yellow Card,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,324879.0,2025-03-10 04:51:21
+12975,732581,14,44860095,94,2,5400,90'+7',0,0,Elise Hughes (Crystal Palace) Yellow Card at 97',Elise Hughes Yellow Card,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,265532.0,2025-03-13 04:51:12
+12975,732582,1,44842958,94,1,1080,18',0,0,Marie Hobinger (Liverpool) Yellow Card at 18',Marie Hobinger Yellow Card,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,314199.0,2025-03-10 04:51:21
+12975,732582,2,44843236,94,1,2340,39',0,0,Jasmine Matthews (Liverpool) Yellow Card at 39',Jasmine Matthews Yellow Card,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,312477.0,2025-03-10 04:51:21
+12975,732582,4,44843617,76,2,2700,45',0,0,Frida Maanum (Arsenal) Substitution at 45',Frida Maanum Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,259331.0,2025-03-10 04:51:21
+12975,732582,3,44843396,94,1,2700,45'+4',0,0,Gemma Bonner (Liverpool) Yellow Card at 49',Gemma Bonner Yellow Card,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,188447.0,2025-03-10 04:51:21
+12975,732582,4,44843617,76,2,2700,45',0,0,Frida Maanum (Arsenal) Substitution at 45',Frida Maanum Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,2,280982.0,2025-03-10 04:51:21
+12975,732582,5,44843747,94,2,3240,54',0,0,Katie McCabe (Arsenal) Yellow Card at 54',Katie McCabe Yellow Card,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,219079.0,2025-03-10 04:51:21
+12975,732582,6,44843920,76,2,3720,62',0,0,Gemma Evans (Liverpool) Substitution at 62',Gemma Evans Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,259312.0,2025-03-10 04:51:21
+12975,732582,6,44843920,76,2,3720,62',0,0,Gemma Evans (Liverpool) Substitution at 62',Gemma Evans Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,312477.0,2025-03-10 04:51:21
+12975,732582,7,44844112,97,2,4680,78',1,0,Daphne van Domselaar (Arsenal) Own Goal at 78',Daphne van Domselaar Own Goal,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,309903.0,2025-03-10 04:51:21
+12975,732582,9,44844146,76,2,4980,83',0,0,Stina Blackstenius (Arsenal) Substitution at 83',Stina Blackstenius Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,240274.0,2025-03-10 04:51:21
+12975,732582,8,44844145,76,2,4980,83',0,0,Lia Wälti (Arsenal) Substitution at 83',Lia Wälti Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,220015.0,2025-03-10 04:51:21
+12975,732582,9,44844146,76,2,4980,83',0,0,Stina Blackstenius (Arsenal) Substitution at 83',Stina Blackstenius Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,2,176041.0,2025-03-10 04:51:21
+12975,732582,8,44844145,76,2,4980,83',0,0,Lia Wälti (Arsenal) Substitution at 83',Lia Wälti Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,2,288907.0,2025-03-10 04:51:21
+12975,732582,11,44844196,76,2,5280,88',0,0,Yana Daniels (Liverpool) Substitution at 88',Yana Daniels Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,257593.0,2025-03-10 04:51:21
+12975,732582,10,44844195,76,2,5280,88',0,0,Amanda Ilestedt (Arsenal) Substitution at 88',Amanda Ilestedt Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,188004.0,2025-03-10 04:51:21
+12975,732582,11,44844196,76,2,5280,88',0,0,Yana Daniels (Liverpool) Substitution at 88',Yana Daniels Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,389652.0,2025-03-10 04:51:21
+12975,732582,10,44844195,76,2,5280,88',0,0,Amanda Ilestedt (Arsenal) Substitution at 88',Amanda Ilestedt Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,2,158678.0,2025-03-10 04:51:21
+12975,732583,1,44841905,94,1,2520,42',0,0,Gracie Prior (Manchester City) Yellow Card at 42',Gracie Prior Yellow Card,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,353342.0,2025-03-10 04:51:21
+12975,732583,1,44863027,94,1,2520,42',0,0,Gracie Prior (Manchester City) Yellow Card at 42',Gracie Prior Yellow Card,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,353342.0,2025-03-14 04:55:32
+12975,732583,2,44842101,70,2,3180,53',1,0,Khadija Shaw (Manchester City) Goal at 53',Khadija Shaw Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,261947.0,2025-03-10 04:51:21
+12975,732583,2,44863028,70,2,3180,53',1,0,Khadija Shaw (Manchester City) Goal at 53',Khadija Shaw Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,261947.0,2025-03-14 04:55:32
+12975,732583,3,44842177,76,2,3780,63',0,0,Rachel Daly (Aston Villa) Substitution at 63',Rachel Daly Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,248769.0,2025-03-10 04:51:21
+12975,732583,3,44863029,76,2,3780,63',0,0,Rachel Daly (Aston Villa) Substitution at 63',Rachel Daly Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,248769.0,2025-03-14 04:55:32
+12975,732583,3,44842177,76,2,3780,63',0,0,Rachel Daly (Aston Villa) Substitution at 63',Rachel Daly Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,312467.0,2025-03-10 04:51:21
+12975,732583,3,44863029,76,2,3780,63',0,0,Rachel Daly (Aston Villa) Substitution at 63',Rachel Daly Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,312467.0,2025-03-14 04:55:32
+12975,732583,4,44863030,70,2,4260,71',1,0,Jess Park (Manchester City) Goal at 71',Jess Park Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-03-14 04:55:32
+12975,732583,6,44842299,76,2,4320,72',0,0,Kirsty Hanson (Aston Villa) Substitution at 72',Kirsty Hanson Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,294252.0,2025-03-10 04:51:21
+12975,732583,5,44842298,76,2,4320,72',0,0,Noelle Maritz (Aston Villa) Substitution at 72',Noelle Maritz Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,220024.0,2025-03-10 04:51:21
+12975,732583,5,44863031,76,2,4320,72',0,0,Noelle Maritz (Aston Villa) Substitution at 72',Noelle Maritz Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,220024.0,2025-03-14 04:55:32
+12975,732583,4,44842246,70,2,4320,72',1,0,Jess Park (Manchester City) Goal at 72',Jess Park Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-03-10 04:51:21
+12975,732583,6,44842299,76,2,4320,72',0,0,Kirsty Hanson (Aston Villa) Substitution at 72',Kirsty Hanson Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,257469.0,2025-03-10 04:51:21
+12975,732583,5,44842298,76,2,4320,72',0,0,Noelle Maritz (Aston Villa) Substitution at 72',Noelle Maritz Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,312456.0,2025-03-10 04:51:21
+12975,732583,5,44863031,76,2,4320,72',0,0,Noelle Maritz (Aston Villa) Substitution at 72',Noelle Maritz Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,312456.0,2025-03-14 04:55:32
+12975,732583,6,44863032,76,2,4380,73',0,0,Kirsty Hanson (Aston Villa) Substitution at 73',Kirsty Hanson Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,294252.0,2025-03-14 04:55:32
+12975,732583,6,44863032,76,2,4380,73',0,0,Kirsty Hanson (Aston Villa) Substitution at 73',Kirsty Hanson Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,257469.0,2025-03-14 04:55:32
+12975,732583,7,44842412,76,2,4800,80',0,0,Kerolin (Manchester City) Substitution at 80',Kerolin Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,281475.0,2025-03-11 04:51:50
+12975,732583,7,44863033,76,2,4800,80',0,0,Kerolin (Manchester City) Substitution at 80',Kerolin Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,281475.0,2025-03-14 04:55:32
+12975,732583,7,44842412,76,2,4800,80',0,0,Kerolin (Manchester City) Substitution at 80',Kerolin Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,261947.0,2025-03-11 04:51:50
+12975,732583,7,44863033,76,2,4800,80',0,0,Kerolin (Manchester City) Substitution at 80',Kerolin Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,261947.0,2025-03-14 04:55:32
+12975,732583,9,44863035,76,2,4860,81',0,0,Jordan Nobbs (Aston Villa) Substitution at 81',Jordan Nobbs Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,178854.0,2025-03-14 04:55:32
+12975,732583,8,44842413,76,2,4860,81',0,0,Missy Bo Kearns (Aston Villa) Substitution at 81',Missy Bo Kearns Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,323523.0,2025-03-10 04:51:21
+12975,732583,8,44863034,76,2,4860,81',0,0,Missy Bo Kearns (Aston Villa) Substitution at 81',Missy Bo Kearns Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,323523.0,2025-03-14 04:55:32
+12975,732583,9,44863035,76,2,4860,81',0,0,Jordan Nobbs (Aston Villa) Substitution at 81',Jordan Nobbs Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,338756.0,2025-03-14 04:55:32
+12975,732583,8,44842413,76,2,4860,81',0,0,Missy Bo Kearns (Aston Villa) Substitution at 81',Missy Bo Kearns Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,317630.0,2025-03-10 04:51:21
+12975,732583,8,44863034,76,2,4860,81',0,0,Missy Bo Kearns (Aston Villa) Substitution at 81',Missy Bo Kearns Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,317630.0,2025-03-14 04:55:32
+12975,732583,9,44842414,76,2,4920,82',0,0,Jordan Nobbs (Aston Villa) Substitution at 82',Jordan Nobbs Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,178854.0,2025-03-10 04:51:21
+12975,732583,9,44842414,76,2,4920,82',0,0,Jordan Nobbs (Aston Villa) Substitution at 82',Jordan Nobbs Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,338756.0,2025-03-10 04:51:21
+12975,732583,11,44842460,76,2,5040,84',0,0,Naomi Layzell (Manchester City) Substitution at 84',Naomi Layzell Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,306881.0,2025-03-10 04:51:21
+12975,732583,11,44863037,76,2,5040,84',0,0,Naomi Layzell (Manchester City) Substitution at 84',Naomi Layzell Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,306881.0,2025-03-14 04:55:32
+12975,732583,10,44842459,76,2,5040,84',0,0,Laura Blindkilde Brown (Manchester City) Substitution at 84',Laura Blindkilde Brown Substitut,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,298641.0,2025-03-10 04:51:21
+12975,732583,10,44863036,76,2,5040,84',0,0,Laura Blindkilde Brown (Manchester City) Substitution at 84',Laura Blindkilde Brown Substitut,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,298641.0,2025-03-14 04:55:32
+12975,732583,10,44842459,76,2,5040,84',0,0,Laura Blindkilde Brown (Manchester City) Substitution at 84',Laura Blindkilde Brown Substitut,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,219945.0,2025-03-10 04:51:21
+12975,732583,10,44863036,76,2,5040,84',0,0,Laura Blindkilde Brown (Manchester City) Substitution at 84',Laura Blindkilde Brown Substitut,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,219945.0,2025-03-14 04:55:32
+12975,732583,11,44842460,76,2,5040,84',0,0,Naomi Layzell (Manchester City) Substitution at 84',Naomi Layzell Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,353342.0,2025-03-10 04:51:21
+12975,732583,11,44863037,76,2,5040,84',0,0,Naomi Layzell (Manchester City) Substitution at 84',Naomi Layzell Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,353342.0,2025-03-14 04:55:32
+12975,732583,12,44842514,76,2,5340,89',0,0,Laura Wienroither (Manchester City) Substitution at 89',Laura Wienroither Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,268324.0,2025-03-10 04:51:21
+12975,732583,12,44863038,76,2,5340,89',0,0,Laura Wienroither (Manchester City) Substitution at 89',Laura Wienroither Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,268324.0,2025-03-14 04:55:32
+12975,732583,12,44842514,76,2,5340,89',0,0,Laura Wienroither (Manchester City) Substitution at 89',Laura Wienroither Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,309904.0,2025-03-10 04:51:21
+12975,732583,12,44863038,76,2,5340,89',0,0,Laura Wienroither (Manchester City) Substitution at 89',Laura Wienroither Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,309904.0,2025-03-14 04:55:32
+12975,732584,1,44832760,70,1,420,7',1,0,Leah Galton (Manchester United) Goal at 7',Leah Galton Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,294256.0,2025-03-09 05:51:43
+12975,732584,3,44833379,76,2,2700,45',0,0,Jenna Dear (Sunderland) Substitution at 45',Jenna Dear Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,347083.0,2025-03-09 05:51:43
+12975,732584,4,44833380,76,2,2700,45',0,0,Louise Griffiths (Sunderland) Substitution at 45',Louise Griffiths Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,323641.0,2025-03-09 05:51:43
+12975,732584,2,44833137,70,1,2700,45'+2',1,0,Maya Le Tissier (Manchester United) Goal at 47',Maya Le Tissier Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,312462.0,2025-03-09 05:51:43
+12975,732584,4,44833380,76,2,2700,45',0,0,Louise Griffiths (Sunderland) Substitution at 45',Louise Griffiths Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,2,323642.0,2025-03-09 05:51:43
+12975,732584,3,44833379,76,2,2700,45',0,0,Jenna Dear (Sunderland) Substitution at 45',Jenna Dear Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,2,325856.0,2025-03-09 05:51:43
+12975,732584,5,44833573,94,2,3660,61',0,0,Natasha Fenton (Sunderland) Yellow Card at 61',Natasha Fenton Yellow Card,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,323322.0,2025-03-09 05:51:43
+12975,732584,6,44833574,94,2,3660,61',0,0,Leah Galton (Manchester United) Yellow Card at 61',Leah Galton Yellow Card,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,294256.0,2025-03-09 05:51:43
+12975,732584,7,44833575,76,2,3720,62',0,0,Katy Watson (Sunderland) Substitution at 62',Katy Watson Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,334800.0,2025-03-09 05:51:43
+12975,732584,8,44833576,76,2,3720,62',0,0,Ellen Jones (Sunderland) Substitution at 62',Ellen Jones Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,301445.0,2025-03-09 05:51:43
+12975,732584,8,44833576,76,2,3720,62',0,0,Ellen Jones (Sunderland) Substitution at 62',Ellen Jones Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,2,268163.0,2025-03-09 05:51:43
+12975,732584,7,44833575,76,2,3720,62',0,0,Katy Watson (Sunderland) Substitution at 62',Katy Watson Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,2,325853.0,2025-03-09 05:51:43
+12975,732584,10,44833578,76,2,3780,63',0,0,Dominique Janssen (Manchester United) Substitution at 63',Dominique Janssen Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,219947.0,2025-03-09 05:51:43
+12975,732584,9,44833577,76,2,3780,63',0,0,Rachel Williams (Manchester United) Substitution at 63',Rachel Williams Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,134423.0,2025-03-09 05:51:43
+12975,732584,11,44833579,76,2,3780,63',0,0,Anna Sandberg (Manchester United) Substitution at 63',Anna Sandberg Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,359233.0,2025-03-09 05:51:43
+12975,732584,10,44833578,76,2,3780,63',0,0,Dominique Janssen (Manchester United) Substitution at 63',Dominique Janssen Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,294257.0,2025-03-09 05:51:43
+12975,732584,11,44833579,76,2,3780,63',0,0,Anna Sandberg (Manchester United) Substitution at 63',Anna Sandberg Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,268536.0,2025-03-09 05:51:43
+12975,732584,9,44833577,76,2,3780,63',0,0,Rachel Williams (Manchester United) Substitution at 63',Rachel Williams Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,295670.0,2025-03-09 05:51:43
+12975,732584,12,44833670,70,2,4200,70',1,0,Louise Griffiths (Sunderland) Goal at 70',Louise Griffiths Goal,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,323641.0,2025-03-09 05:51:43
+12975,732584,13,44833927,70,2,5400,90'+1',1,0,Ella Toone (Manchester United) Goal at 91',Ella Toone Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,294255.0,2025-03-09 05:51:43
+12976,730077,1,44665304,76,2,2700,45',0,0,Ria Oling (Crystal Palace) Substitution at 45',Ria Oling Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,267672.0,2025-02-10 05:49:41
+12976,730077,1,44665304,76,2,2700,45',0,0,Ria Oling (Crystal Palace) Substitution at 45',Ria Oling Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,300434.0,2025-02-10 05:49:41
+12976,730077,2,44665574,76,2,3540,59',0,0,Katie Barker (Newcastle United) Substitution at 59',Katie Barker Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,1,323634.0,2025-02-10 05:49:41
+12976,730077,3,44665575,76,2,3540,59',0,0,Rachel Furness (Newcastle United) Substitution at 59',Rachel Furness Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,1,314476.0,2025-02-10 05:49:41
+12976,730077,3,44665575,76,2,3540,59',0,0,Rachel Furness (Newcastle United) Substitution at 59',Rachel Furness Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,2,204658.0,2025-02-10 05:49:41
+12976,730077,2,44665574,76,2,3540,59',0,0,Katie Barker (Newcastle United) Substitution at 59',Katie Barker Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,2,337040.0,2025-02-10 05:49:41
+12976,730077,4,44665626,76,2,3840,64',0,0,My Cato (Crystal Palace) Substitution at 64',My Cato Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,392348.0,2025-02-10 05:49:41
+12976,730077,4,44665626,76,2,3840,64',0,0,My Cato (Crystal Palace) Substitution at 64',My Cato Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,285187.0,2025-02-10 05:49:41
+12976,730077,5,44665627,76,2,3900,65',0,0,Jasmine Mcquade (Newcastle United) Substitution at 65',Jasmine Mcquade Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,1,378461.0,2025-02-10 05:49:41
+12976,730077,5,44665627,76,2,3900,65',0,0,Jasmine Mcquade (Newcastle United) Substitution at 65',Jasmine Mcquade Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,2,323658.0,2025-02-10 05:49:41
+12976,730077,6,44665731,76,2,4380,73',0,0,Abbie Larkin (Crystal Palace) Substitution at 73',Abbie Larkin Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,336368.0,2025-02-10 05:49:41
+12976,730077,6,44665731,76,2,4380,73',0,0,Abbie Larkin (Crystal Palace) Substitution at 73',Abbie Larkin Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,262811.0,2025-02-10 05:49:41
+12976,730077,7,44665853,70,2,4860,81',1,0,Ashleigh Weerden (Crystal Palace) Goal at 81',Ashleigh Weerden Goal,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,314575.0,2025-02-10 05:49:41
+12976,730077,8,44665933,76,2,5100,85',0,0,Ava Chapman (Newcastle United) Substitution at 85',Ava Chapman Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,1,397107.0,2025-02-10 05:49:41
+12976,730077,8,44665933,76,2,5100,85',0,0,Ava Chapman (Newcastle United) Substitution at 85',Ava Chapman Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,2,312455.0,2025-02-10 05:49:41
+12976,730077,9,44666021,70,2,5400,90'+4',1,0,Abbie Larkin (Crystal Palace) Goal at 94',Abbie Larkin Goal,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,336368.0,2025-02-10 05:49:41
+12976,730077,10,44666056,76,2,5400,90'+5',0,0,Clarissa Laris­ey (Crystal Palace) Substitution at 95',Clarissa Laris­ey Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,349219.0,2025-02-10 05:49:41
+12976,730077,10,44666056,76,2,5400,90'+5',0,0,Clarissa Laris­ey (Crystal Palace) Substitution at 95',Clarissa Laris­ey Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,264628.0,2025-02-10 05:49:41
+12976,730077,11,44666057,76,2,5400,90'+5',0,0,Elise Hughes (Crystal Palace) Substitution at 95',Elise Hughes Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,265532.0,2025-02-10 05:49:41
+12976,730077,10,44666056,76,2,5400,90'+5',0,0,Clarissa Laris­ey (Crystal Palace) Substitution at 95',Clarissa Laris­ey Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,314575.0,2025-02-10 05:49:41
+12976,730077,11,44666057,76,2,5400,90'+5',0,0,Elise Hughes (Crystal Palace) Substitution at 95',Elise Hughes Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,290269.0,2025-02-10 05:49:41
+12976,730078,1,44665735,70,1,1920,32',1,0,Laia Codina (Arsenal) Goal at 32',Laia Codina Goal,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,295638.0,2025-02-10 05:49:41
+12976,730078,2,44666137,76,2,2700,45',0,0,Lia Wälti (Arsenal) Substitution at 45',Lia Wälti Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,220015.0,2025-02-10 05:49:41
+12976,730078,3,44666138,76,2,2700,45',0,0,Chantelle Boye-Hlorkah (London City) Substitution at 45',Chantelle Boye-Hlorkah Substitut,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,312483.0,2025-02-10 05:49:41
+12976,730078,3,44666138,76,2,2700,45',0,0,Chantelle Boye-Hlorkah (London City) Substitution at 45',Chantelle Boye-Hlorkah Substitut,21053,0.0,0.0,0.0,0.0,0.0,0.0,2,313531.0,2025-02-10 05:49:41
+12976,730078,2,44666137,76,2,2700,45',0,0,Lia Wälti (Arsenal) Substitution at 45',Lia Wälti Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,2,292633.0,2025-02-10 05:49:41
+12976,730078,4,44666340,76,2,3300,55',0,0,Maddi Wilde (London City) Substitution at 55',Maddi Wilde Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,325574.0,2025-02-10 05:49:41
+12976,730078,4,44666340,76,2,3300,55',0,0,Maddi Wilde (London City) Substitution at 55',Maddi Wilde Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,2,278928.0,2025-02-10 05:49:41
+12976,730078,5,44666559,76,2,4200,70',0,0,Stina Blackstenius (Arsenal) Substitution at 70',Stina Blackstenius Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,240274.0,2025-02-10 05:49:41
+12976,730078,5,44666559,76,2,4200,70',0,0,Stina Blackstenius (Arsenal) Substitution at 70',Stina Blackstenius Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,2,158678.0,2025-02-10 05:49:41
+12976,730078,6,44666592,94,2,4380,73',0,0,Kosovare Asllani (London City) Yellow Card at 73',Kosovare Asllani Yellow Card,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,140019.0,2025-02-10 05:49:41
+12976,730078,7,44666604,94,2,4440,74',0,0,Georgia Brougham (London City) Yellow Card at 74',Georgia Brougham Yellow Card,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,312458.0,2025-02-10 05:49:41
+12976,730078,8,44666661,76,2,4620,77',0,0,Charlene Meyong (London City) Substitution at 77',Charlene Meyong Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,281742.0,2025-02-10 05:49:41
+12976,730078,8,44666661,76,2,4620,77',0,0,Charlene Meyong (London City) Substitution at 77',Charlene Meyong Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,2,140019.0,2025-02-10 05:49:41
+12976,730078,9,44666670,76,2,4740,79',0,0,Emily Fox (Arsenal) Substitution at 79',Emily Fox Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,263684.0,2025-02-10 05:49:41
+12976,730078,9,44666670,76,2,4740,79',0,0,Emily Fox (Arsenal) Substitution at 79',Emily Fox Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,2,350679.0,2025-02-10 05:49:41
+12976,730078,10,44666716,70,2,4860,81',1,0,Stina Blackstenius (Arsenal) Goal at 81',Stina Blackstenius Goal,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,240274.0,2025-02-10 05:49:41
+12976,730078,11,44666813,76,2,5100,85',0,0,Shen Mengyu (London City) Substitution at 85',Shen Mengyu Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,319207.0,2025-02-10 05:49:41
+12976,730078,11,44666813,76,2,5100,85',0,0,Shen Mengyu (London City) Substitution at 85',Shen Mengyu Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,2,211733.0,2025-02-10 05:49:41
+12976,730078,12,44666814,76,2,5160,86',0,0,Lucy Fitzgerald (London City) Substitution at 86',Lucy Fitzgerald Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,324785.0,2025-02-10 05:49:41
+12976,730078,12,44666814,76,2,5160,86',0,0,Lucy Fitzgerald (London City) Substitution at 86',Lucy Fitzgerald Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,2,211618.0,2025-02-10 05:49:41
+12976,730078,13,44666853,76,2,5280,88',0,0,Amanda Ilestedt (Arsenal) Substitution at 88',Amanda Ilestedt Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,188004.0,2025-02-10 05:49:41
+12976,730078,13,44666853,76,2,5280,88',0,0,Amanda Ilestedt (Arsenal) Substitution at 88',Amanda Ilestedt Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,2,288907.0,2025-02-10 05:49:41
+12976,730078,14,44666969,94,2,5400,90'+4',0,0,Amanda Ilestedt (Arsenal) Yellow Card at 94',Amanda Ilestedt Yellow Card,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,188004.0,2025-02-10 05:49:41
+12976,730079,1,44665757,76,1,1920,32',0,0,Olivia Bramley (Portsmouth) Substitution at 32',Olivia Bramley Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,1,379854.0,2025-02-10 05:49:41
+12976,730079,1,44665757,76,1,1920,32',0,0,Olivia Bramley (Portsmouth) Substitution at 32',Olivia Bramley Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,2,332053.0,2025-02-10 05:49:41
+12976,730079,2,44665783,70,1,2040,34',1,0,Jenna Dear (Sunderland) Goal at 34',Jenna Dear Goal,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,347083.0,2025-02-10 05:49:41
+12976,730079,4,44665995,76,1,2700,45'+2',0,0,Scarlett Williams (Portsmouth) Substitution at 47',Scarlett Williams Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,1,332683.0,2025-02-10 05:49:41
+12976,730079,5,44666014,94,1,2700,45'+5',0,0,Scarlett Williams (Portsmouth) Yellow Card at 50',Scarlett Williams Yellow Card,21064,0.0,0.0,0.0,0.0,0.0,0.0,1,332683.0,2025-02-10 05:49:41
+12976,730079,3,44665978,70,1,2700,45'+1',1,0,Emily Scarr (Sunderland) Goal at 46',Emily Scarr Goal,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,325853.0,2025-02-10 05:49:41
+12976,730079,4,44665995,76,1,2700,45'+2',0,0,Scarlett Williams (Portsmouth) Substitution at 47',Scarlett Williams Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,2,323596.0,2025-02-10 05:49:41
+12976,730079,6,44666564,94,2,3780,63',0,0,Megan Hornby (Portsmouth) Yellow Card at 63',Megan Hornby Yellow Card,21064,0.0,0.0,0.0,0.0,0.0,0.0,1,307490.0,2025-02-10 05:49:41
+12976,730079,7,44666605,94,2,4020,67',0,0,Jenna Dear (Sunderland) Yellow Card at 67',Jenna Dear Yellow Card,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,347083.0,2025-02-10 05:49:41
+12976,730079,8,44666697,76,2,4320,72',0,0,Katy Watson (Sunderland) Substitution at 72',Katy Watson Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,334800.0,2025-02-10 05:49:41
+12976,730079,8,44666697,76,2,4320,72',0,0,Katy Watson (Sunderland) Substitution at 72',Katy Watson Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,2,331050.0,2025-02-10 05:49:41
+12976,730079,10,44666718,76,2,4380,73',0,0,Ava Rowbotham (Portsmouth) Substitution at 73',Ava Rowbotham Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,1,323582.0,2025-02-10 05:49:41
+12976,730079,9,44666717,76,2,4380,73',0,0,Daisy Mclachlan (Portsmouth) Substitution at 73',Daisy Mclachlan Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,1,337035.0,2025-02-10 05:49:41
+12976,730079,10,44666718,76,2,4380,73',0,0,Ava Rowbotham (Portsmouth) Substitution at 73',Ava Rowbotham Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,2,363229.0,2025-02-10 05:49:41
+12976,730079,9,44666717,76,2,4380,73',0,0,Daisy Mclachlan (Portsmouth) Substitution at 73',Daisy Mclachlan Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,2,379215.0,2025-02-10 05:49:41
+12976,730079,11,44666910,76,2,4920,82',0,0,Libby Mcinnes (Sunderland) Substitution at 82',Libby Mcinnes Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,325856.0,2025-02-10 05:49:41
+12976,730079,11,44666910,76,2,4920,82',0,0,Libby Mcinnes (Sunderland) Substitution at 82',Libby Mcinnes Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,2,301445.0,2025-02-10 05:49:41
+12976,730079,12,44667010,93,2,5340,89',0,0,Scarlett Williams (Portsmouth) Red Card at 89',Scarlett Williams Red Card,21064,0.0,0.0,0.0,0.0,0.0,0.0,1,332683.0,2025-02-10 05:49:41
+12976,730079,13,44667073,76,2,5400,90'+5',0,0,Keira Flannery (Sunderland) Substitution at 95',Keira Flannery Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,346487.0,2025-02-10 05:49:41
+12976,730079,13,44667073,76,2,5400,90'+5',0,0,Keira Flannery (Sunderland) Substitution at 95',Keira Flannery Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,2,325856.0,2025-02-10 05:49:41
+12976,730080,1,44664804,94,1,2340,39',0,0,Alejandra Bernabe (Liverpool) Yellow Card at 39',Alejandra Bernabe Yellow Card,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,311207.0,2025-02-10 05:49:41
+12976,730080,4,44665001,76,2,2700,45',0,0,Mia Enderby (Liverpool) Substitution at 45',Mia Enderby Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,325841.0,2025-02-10 05:49:41
+12976,730080,5,44665002,76,2,2700,45',0,0,Marie Hobinger (Liverpool) Substitution at 45',Marie Hobinger Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,314199.0,2025-02-10 05:49:41
+12976,730080,3,44665000,76,2,2700,45',0,0,Leanne Kiernan (Liverpool) Substitution at 45',Leanne Kiernan Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,287518.0,2025-02-10 05:49:41
+12976,730080,2,44664999,76,2,2700,45',0,0,Lucy Parry (Liverpool) Substitution at 45',Lucy Parry Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,323518.0,2025-02-10 05:49:41
+12976,730080,2,44664999,76,2,2700,45',0,0,Lucy Parry (Liverpool) Substitution at 45',Lucy Parry Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,257593.0,2025-02-10 05:49:41
+12976,730080,3,44665000,76,2,2700,45',0,0,Leanne Kiernan (Liverpool) Substitution at 45',Leanne Kiernan Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,389652.0,2025-02-10 05:49:41
+12976,730080,4,44665001,76,2,2700,45',0,0,Mia Enderby (Liverpool) Substitution at 45',Mia Enderby Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,311207.0,2025-02-10 05:49:41
+12976,730080,5,44665002,76,2,2700,45',0,0,Marie Hobinger (Liverpool) Substitution at 45',Marie Hobinger Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,384503.0,2025-02-10 05:49:41
+12976,730080,7,44665119,76,2,3300,55',0,0,Rhianne Rush (Rugby Borough) Substitution at 55',Rhianne Rush Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,334170.0,2025-02-10 05:49:41
+12976,730080,6,44665118,76,2,3300,55',0,0,Saskia Morris (Rugby Borough) Substitution at 55',Saskia Morris Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,398591.0,2025-02-10 05:49:41
+12976,730080,7,44665119,76,2,3300,55',0,0,Rhianne Rush (Rugby Borough) Substitution at 55',Rhianne Rush Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,2,323474.0,2025-02-10 05:49:41
+12976,730080,6,44665118,76,2,3300,55',0,0,Saskia Morris (Rugby Borough) Substitution at 55',Saskia Morris Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,2,337034.0,2025-02-10 05:49:41
+12976,730080,8,44665178,76,2,3660,61',0,0,Yasmin Mosby (Rugby Borough) Substitution at 61',Yasmin Mosby Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,330523.0,2025-02-10 05:49:41
+12976,730080,8,44665178,76,2,3660,61',0,0,Yasmin Mosby (Rugby Borough) Substitution at 61',Yasmin Mosby Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,2,334170.0,2025-02-10 05:49:41
+12976,730080,9,44665461,70,2,5040,84',1,0,Marie Hobinger (Liverpool) Goal at 84',Marie Hobinger Goal,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,314199.0,2025-02-10 05:49:41
+12976,730080,11,44665567,76,2,5220,87',0,0,Mai Moncaster (Rugby Borough) Substitution at 87',Mai Moncaster Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,323500.0,2025-02-10 05:49:41
+12976,730080,10,44665566,76,2,5220,87',0,0,Lily Greenslade (Rugby Borough) Substitution at 87',Lily Greenslade Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,328960.0,2025-02-10 05:49:41
+12976,730080,11,44665567,76,2,5220,87',0,0,Mai Moncaster (Rugby Borough) Substitution at 87',Mai Moncaster Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,2,306890.0,2025-02-10 05:49:41
+12976,730080,10,44665566,76,2,5220,87',0,0,Lily Greenslade (Rugby Borough) Substitution at 87',Lily Greenslade Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,2,358233.0,2025-02-10 05:49:41
+12976,730080,12,44665568,76,2,5340,89',0,0,Gemma Evans (Liverpool) Substitution at 89',Gemma Evans Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,259312.0,2025-02-10 05:49:41
+12976,730080,12,44665568,76,2,5340,89',0,0,Gemma Evans (Liverpool) Substitution at 89',Gemma Evans Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,280992.0,2025-02-10 05:49:41
+12976,730080,13,44665610,70,2,5400,90'+2',1,0,Mia Enderby (Liverpool) Goal at 92',Mia Enderby Goal,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,325841.0,2025-02-10 05:49:41
+12976,730081,1,44665557,70,1,1080,18',1,0,Leila Ouahabi (Manchester City) Goal at 18',Leila Ouahabi Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,249105.0,2025-02-10 05:49:41
+12976,730081,1,44863041,70,1,1080,18',1,0,Leila Ouahabi (Manchester City) Goal at 18',Leila Ouahabi Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,249105.0,2025-04-05 08:46:00
+12976,730081,2,44665699,70,1,1740,29',1,0,Kerolin (Manchester City) Goal at 29',Kerolin Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,281475.0,2025-02-10 05:49:41
+12976,730081,2,44863042,70,1,1740,29',1,0,Kerolin (Manchester City) Goal at 29',Kerolin Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,281475.0,2025-04-05 08:46:00
+12976,730081,4,44666134,76,2,2700,45',0,0,Khadija Shaw (Manchester City) Substitution at 45',Khadija Shaw Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,261947.0,2025-02-10 05:49:41
+12976,730081,3,44863043,76,2,2700,45',0,0,Khadija Shaw (Manchester City) Substitution at 45',Khadija Shaw Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,261947.0,2025-04-05 08:46:00
+12976,730081,3,44666133,76,2,2700,45',0,0,Naomi Layzell (Manchester City) Substitution at 45',Naomi Layzell Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,306881.0,2025-02-10 05:49:41
+12976,730081,4,44863044,76,2,2700,45',0,0,Naomi Layzell (Manchester City) Substitution at 45',Naomi Layzell Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,306881.0,2025-04-05 08:46:00
+12976,730081,5,44666135,76,2,2700,45',0,0,Lily Murphy (Manchester City) Substitution at 45',Lily Murphy Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,390468.0,2025-02-10 05:49:41
+12976,730081,5,44863045,76,2,2700,45',0,0,Lily Murphy (Manchester City) Substitution at 45',Lily Murphy Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,390468.0,2025-04-05 08:46:00
+12976,730081,6,44666136,76,2,2700,45',0,0,Laura Blindkilde Brown (Manchester City) Substitution at 45',Laura Blindkilde Brown Substitut,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,298641.0,2025-02-10 05:49:41
+12976,730081,6,44863046,76,2,2700,45',0,0,Laura Blindkilde Brown (Manchester City) Substitution at 45',Laura Blindkilde Brown Substitut,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,298641.0,2025-04-05 08:46:00
+12976,730081,3,44666133,76,2,2700,45',0,0,Naomi Layzell (Manchester City) Substitution at 45',Naomi Layzell Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,309904.0,2025-02-10 05:49:41
+12976,730081,6,44666136,76,2,2700,45',0,0,Laura Blindkilde Brown (Manchester City) Substitution at 45',Laura Blindkilde Brown Substitut,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,219951.0,2025-02-10 05:49:41
+12976,730081,4,44863044,76,2,2700,45',0,0,Naomi Layzell (Manchester City) Substitution at 45',Naomi Layzell Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,309904.0,2025-04-05 08:46:00
+12976,730081,6,44863046,76,2,2700,45',0,0,Laura Blindkilde Brown (Manchester City) Substitution at 45',Laura Blindkilde Brown Substitut,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,219951.0,2025-04-05 08:46:00
+12976,730081,5,44666135,76,2,2700,45',0,0,Lily Murphy (Manchester City) Substitution at 45',Lily Murphy Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,281475.0,2025-02-10 05:49:41
+12976,730081,5,44863045,76,2,2700,45',0,0,Lily Murphy (Manchester City) Substitution at 45',Lily Murphy Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,281475.0,2025-04-05 08:46:00
+12976,730081,4,44666134,76,2,2700,45',0,0,Khadija Shaw (Manchester City) Substitution at 45',Khadija Shaw Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,276165.0,2025-02-10 05:49:41
+12976,730081,3,44863043,76,2,2700,45',0,0,Khadija Shaw (Manchester City) Substitution at 45',Khadija Shaw Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,276165.0,2025-04-05 08:46:00
+12976,730081,8,44666353,76,2,3360,56',0,0,Missy Goodwin (Leicester City) Substitution at 56',Missy Goodwin Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,294600.0,2025-02-10 05:49:41
+12976,730081,7,44666352,76,2,3360,56',0,0,Nelly Las (Leicester City) Substitution at 56',Nelly Las Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,386685.0,2025-02-10 05:49:41
+12976,730081,7,44863047,76,2,3360,56',0,0,Nelly Las (Leicester City) Substitution at 56',Nelly Las Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,386685.0,2025-04-05 08:46:00
+12976,730081,7,44666352,76,2,3360,56',0,0,Nelly Las (Leicester City) Substitution at 56',Nelly Las Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,323496.0,2025-02-10 05:49:41
+12976,730081,7,44863047,76,2,3360,56',0,0,Nelly Las (Leicester City) Substitution at 56',Nelly Las Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,323496.0,2025-04-05 08:46:00
+12976,730081,8,44666353,76,2,3360,56',0,0,Missy Goodwin (Leicester City) Substitution at 56',Missy Goodwin Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,270127.0,2025-02-10 05:49:41
+12976,730081,8,44863048,76,2,3420,57',0,0,Missy Goodwin (Leicester City) Substitution at 57',Missy Goodwin Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,294600.0,2025-04-05 08:46:00
+12976,730081,8,44863048,76,2,3420,57',0,0,Missy Goodwin (Leicester City) Substitution at 57',Missy Goodwin Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,270127.0,2025-04-05 08:46:00
+12976,730081,9,44666394,70,2,3540,59',1,0,Khadija Shaw (Manchester City) Goal at 59',Khadija Shaw Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,261947.0,2025-02-10 05:49:41
+12976,730081,9,44863049,70,2,3540,59',1,0,Khadija Shaw (Manchester City) Goal at 59',Khadija Shaw Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,261947.0,2025-04-05 08:46:00
+12976,730081,11,44666484,76,2,3840,64',0,0,Janice Cayman (Leicester City) Substitution at 64',Janice Cayman Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,257569.0,2025-02-10 05:49:41
+12976,730081,11,44863051,76,2,3840,64',0,0,Janice Cayman (Leicester City) Substitution at 64',Janice Cayman Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,257569.0,2025-04-05 08:46:00
+12976,730081,10,44666483,76,2,3840,64',0,0,Sammy Kaczmar (Leicester City) Substitution at 64',Sammy Kaczmar Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,394496.0,2025-02-10 05:49:41
+12976,730081,10,44863050,76,2,3840,64',0,0,Sammy Kaczmar (Leicester City) Substitution at 64',Sammy Kaczmar Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,394496.0,2025-04-05 08:46:00
+12976,730081,11,44666484,76,2,3840,64',0,0,Janice Cayman (Leicester City) Substitution at 64',Janice Cayman Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,256223.0,2025-02-10 05:49:41
+12976,730081,11,44863051,76,2,3840,64',0,0,Janice Cayman (Leicester City) Substitution at 64',Janice Cayman Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,256223.0,2025-04-05 08:46:00
+12976,730081,10,44666483,76,2,3840,64',0,0,Sammy Kaczmar (Leicester City) Substitution at 64',Sammy Kaczmar Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,344373.0,2025-02-10 05:49:41
+12976,730081,10,44863050,76,2,3840,64',0,0,Sammy Kaczmar (Leicester City) Substitution at 64',Sammy Kaczmar Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,344373.0,2025-04-05 08:46:00
+12976,730081,12,44666504,94,2,3900,65',0,0,Sari Kees (Leicester City) Yellow Card at 65',Sari Kees Yellow Card,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,330334.0,2025-02-10 05:49:41
+12976,730081,12,44863052,94,2,3960,66',0,0,Sari Kees (Leicester City) Yellow Card at 66',Sari Kees Yellow Card,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,330334.0,2025-04-05 08:46:00
+12976,730081,13,44666626,76,2,4500,75',0,0,Laura Wienroither (Manchester City) Substitution at 75',Laura Wienroither Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,268324.0,2025-02-10 05:49:41
+12976,730081,13,44863053,76,2,4500,75',0,0,Laura Wienroither (Manchester City) Substitution at 75',Laura Wienroither Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,268324.0,2025-04-05 08:46:00
+12976,730081,13,44666626,76,2,4500,75',0,0,Laura Wienroither (Manchester City) Substitution at 75',Laura Wienroither Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,286338.0,2025-02-10 05:49:41
+12976,730081,13,44863053,76,2,4500,75',0,0,Laura Wienroither (Manchester City) Substitution at 75',Laura Wienroither Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,286338.0,2025-04-05 08:46:00
+12976,730081,14,44666627,76,2,4560,76',0,0,Simone Sherwood (Leicester City) Substitution at 76',Simone Sherwood Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,376668.0,2025-02-10 05:49:41
+12976,730081,14,44863054,76,2,4560,76',0,0,Simone Sherwood (Leicester City) Substitution at 76',Simone Sherwood Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,376668.0,2025-04-05 08:46:00
+12976,730081,14,44666627,76,2,4560,76',0,0,Simone Sherwood (Leicester City) Substitution at 76',Simone Sherwood Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,323495.0,2025-02-10 05:49:41
+12976,730081,14,44863054,76,2,4560,76',0,0,Simone Sherwood (Leicester City) Substitution at 76',Simone Sherwood Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,323495.0,2025-04-05 08:46:00
+12976,730081,15,44666721,70,2,4920,82',1,0,Nelly Las (Leicester City) Goal at 82',Nelly Las Goal,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,386685.0,2025-02-10 05:49:41
+12976,730081,15,44863055,70,2,4920,82',1,0,Nelly Las (Leicester City) Goal at 82',Nelly Las Goal,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,386685.0,2025-04-05 08:46:00
+12976,730082,1,44657425,70,1,1560,26',1,0,Elisabeth Terland (Manchester United) Goal at 26',Elisabeth Terland Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,298669.0,2025-02-09 05:52:49
+12976,730082,2,44657533,70,1,2160,36',1,0,Leah Galton (Manchester United) Goal at 36',Leah Galton Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,294256.0,2025-02-09 05:52:49
+12976,730082,3,44658028,76,2,2700,45',0,0,Lily Simkin (Wolverhampton) Substitution at 45',Lily Simkin Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,298408.0,2025-02-09 05:52:49
+12976,730082,3,44658028,76,2,2700,45',0,0,Lily Simkin (Wolverhampton) Substitution at 45',Lily Simkin Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,2,302569.0,2025-02-09 05:52:49
+12976,730082,4,44658011,70,2,3120,52',1,0,Aoife Mannion (Manchester United) Goal at 52',Aoife Mannion Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,293411.0,2025-02-09 05:52:49
+12976,730082,5,44658029,70,2,3240,54',1,0,Ella Toone (Manchester United) Goal at 54',Ella Toone Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,294255.0,2025-02-09 05:52:49
+12976,730082,6,44658085,94,2,3480,58',0,0,Tammie George (Wolverhampton) Yellow Card at 58',Tammie George Yellow Card,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,355224.0,2025-02-09 05:52:49
+12976,730082,7,44658108,76,2,3660,61',0,0,Gabby George (Manchester United) Substitution at 61',Gabby George Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,268536.0,2025-02-09 05:52:49
+12976,730082,8,44658109,76,2,3660,61',0,0,Rachel Williams (Manchester United) Substitution at 61',Rachel Williams Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,134423.0,2025-02-09 05:52:49
+12976,730082,9,44658110,76,2,3660,61',0,0,Geyse (Manchester United) Substitution at 61',Geyse Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,268325.0,2025-02-09 05:52:49
+12976,730082,9,44658110,76,2,3660,61',0,0,Geyse (Manchester United) Substitution at 61',Geyse Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,298669.0,2025-02-09 05:52:49
+12976,730082,8,44658109,76,2,3660,61',0,0,Rachel Williams (Manchester United) Substitution at 61',Rachel Williams Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,359233.0,2025-02-09 05:52:49
+12976,730082,7,44658108,76,2,3660,61',0,0,Gabby George (Manchester United) Substitution at 61',Gabby George Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,294256.0,2025-02-09 05:52:49
+12976,730082,10,44658152,76,2,3840,64',0,0,Josie Smith (Wolverhampton) Substitution at 64',Josie Smith Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,358055.0,2025-02-09 05:52:49
+12976,730082,10,44658152,76,2,3840,64',0,0,Josie Smith (Wolverhampton) Substitution at 64',Josie Smith Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,2,326883.0,2025-02-09 05:52:49
+12976,730082,11,44658153,76,2,3900,65',0,0,Racheal Quigley (Wolverhampton) Substitution at 65',Racheal Quigley Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,398574.0,2025-02-09 05:52:49
+12976,730082,11,44658153,76,2,3900,65',0,0,Racheal Quigley (Wolverhampton) Substitution at 65',Racheal Quigley Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,2,355191.0,2025-02-09 05:52:49
+12976,730082,12,44658232,76,2,4200,70',0,0,Simi Awujo (Manchester United) Substitution at 70',Simi Awujo Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,349220.0,2025-02-09 05:52:49
+12976,730082,12,44658232,76,2,4200,70',0,0,Simi Awujo (Manchester United) Substitution at 70',Simi Awujo Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,283107.0,2025-02-09 05:52:49
+12976,730082,13,44658345,76,2,4860,81',0,0,Mared Griffiths (Manchester United) Substitution at 81',Mared Griffiths Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,397508.0,2025-02-09 05:52:49
+12976,730082,14,44658346,76,2,4860,81',0,0,Summer Holmes (Wolverhampton) Substitution at 81',Summer Holmes Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,358011.0,2025-02-09 05:52:49
+12976,730082,13,44658345,76,2,4860,81',0,0,Mared Griffiths (Manchester United) Substitution at 81',Mared Griffiths Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,295670.0,2025-02-09 05:52:49
+12976,730082,14,44658346,76,2,4860,81',0,0,Summer Holmes (Wolverhampton) Substitution at 81',Summer Holmes Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,2,355224.0,2025-02-09 05:52:49
+12976,730082,15,44658382,76,2,4980,83',0,0,Jade Cross (Wolverhampton) Substitution at 83',Jade Cross Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,355223.0,2025-02-09 05:52:49
+12976,730082,15,44658382,76,2,4980,83',0,0,Jade Cross (Wolverhampton) Substitution at 83',Jade Cross Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,2,323383.0,2025-02-09 05:52:49
+12976,730082,16,44658446,70,2,5280,88',1,0,Mared Griffiths (Manchester United) Goal at 88',Mared Griffiths Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,397508.0,2025-02-09 05:52:49
+12976,730082,17,44658620,70,2,5400,90'+5',1,0,Mared Griffiths (Manchester United) Goal at 95',Mared Griffiths Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,397508.0,2025-02-09 05:52:49
+12976,730083,1,44651672,94,1,2160,36',0,0,Anna Patten (Aston Villa) Yellow Card at 36',Anna Patten Yellow Card,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,262611.0,2025-02-09 05:52:49
+12976,730083,2,44651734,70,1,2700,45',1,0,Nikita Parris (Brighton & Hove Albion) Goal at 45',Nikita Parris Goal,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,246314.0,2025-02-09 05:52:49
+12976,730083,3,44651749,70,1,2700,45'+2',1,0,Anna Patten (Aston Villa) Goal at 47',Anna Patten Goal,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,262611.0,2025-02-09 05:52:49
+12976,730083,4,44651935,70,2,3000,50',1,0,Rachel Daly (Aston Villa) Goal at 50',Rachel Daly Goal,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,248769.0,2025-02-09 05:52:49
+12976,730083,5,44651977,70,2,3300,55',1,0,Chasity Grant (Aston Villa) Goal at 55',Chasity Grant Goal,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,309858.0,2025-02-09 05:52:49
+12976,730083,6,44651990,94,2,3360,56',0,0,Maria Thorisdottir (Brighton & Hove Albion) Yellow Card at 56',Maria Thorisdottir Yellow Card,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,219987.0,2025-02-09 05:52:49
+12976,730083,7,44652064,76,2,3960,66',0,0,Dejana Stefanovic (Brighton & Hove Albion) Substitution at 66',Dejana Stefanovic Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,339641.0,2025-02-09 05:52:49
+12976,730083,7,44652064,76,2,3960,66',0,0,Dejana Stefanovic (Brighton & Hove Albion) Substitution at 66',Dejana Stefanovic Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,2,309978.0,2025-02-09 05:52:49
+12976,730083,11,44652068,76,2,4020,67',0,0,Katie Robinson (Aston Villa) Substitution at 67',Katie Robinson Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,312467.0,2025-02-09 05:52:49
+12976,730083,9,44652066,76,2,4020,67',0,0,Pauline Bremer (Brighton & Hove Albion) Substitution at 67',Pauline Bremer Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,219939.0,2025-02-09 05:52:49
+12976,730083,10,44652067,76,2,4020,67',0,0,Miri Taylor (Aston Villa) Substitution at 67',Miri Taylor Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,338756.0,2025-02-09 05:52:49
+12976,730083,8,44652065,76,2,4020,67',0,0,Marisa Olislagers (Brighton & Hove Albion) Substitution at 67',Marisa Olislagers Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,309906.0,2025-02-09 05:52:49
+12976,730083,10,44652067,76,2,4020,67',0,0,Miri Taylor (Aston Villa) Substitution at 67',Miri Taylor Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,178854.0,2025-02-09 05:52:49
+12976,730083,9,44652066,76,2,4020,67',0,0,Pauline Bremer (Brighton & Hove Albion) Substitution at 67',Pauline Bremer Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,2,325886.0,2025-02-09 05:52:49
+12976,730083,9,44652066,76,2,4020,67',0,0,Pauline Bremer (Brighton & Hove Albion) Substitution at 67',Pauline Bremer Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,2,312831.0,2025-02-09 05:52:49
+12976,730083,11,44652068,76,2,4020,67',0,0,Katie Robinson (Aston Villa) Substitution at 67',Katie Robinson Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,309858.0,2025-02-09 05:52:49
+12976,730083,8,44652065,76,2,4020,67',0,0,Marisa Olislagers (Brighton & Hove Albion) Substitution at 67',Marisa Olislagers Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,2,219990.0,2025-02-09 05:52:49
+12976,730083,12,44652103,70,2,4320,72',1,0,Nikita Parris (Brighton & Hove Albion) Goal at 72',Nikita Parris Goal,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,246314.0,2025-02-09 05:52:49
+12976,730083,13,44652154,76,2,4680,78',0,0,Danielle Turner (Aston Villa) Substitution at 78',Danielle Turner Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,312484.0,2025-02-09 05:52:49
+12976,730083,13,44652154,76,2,4680,78',0,0,Danielle Turner (Aston Villa) Substitution at 78',Danielle Turner Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,262611.0,2025-02-09 05:52:49
+12976,730083,14,44652195,94,2,4860,81',0,0,Sarah Mayling (Aston Villa) Yellow Card at 81',Sarah Mayling Yellow Card,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,312456.0,2025-02-09 05:52:49
+12976,730083,15,44652196,76,2,4920,82',0,0,Michelle Agyemang (Brighton & Hove Albion) Substitution at 82',Michelle Agyemang Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,350678.0,2025-02-09 05:52:49
+12976,730083,15,44652196,76,2,4920,82',0,0,Michelle Agyemang (Brighton & Hove Albion) Substitution at 82',Michelle Agyemang Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,2,314994.0,2025-02-09 05:52:49
+12976,730083,17,44652295,76,2,5280,88',0,0,Ebony Salmon (Aston Villa) Substitution at 88',Ebony Salmon Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,294246.0,2025-02-09 05:52:49
+12976,730083,16,44652294,76,2,5280,88',0,0,Missy Bo Kearns (Aston Villa) Substitution at 88',Missy Bo Kearns Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,323523.0,2025-02-09 05:52:49
+12976,730083,18,44652296,76,2,5280,88',0,0,Caitlin Hayes (Brighton & Hove Albion) Substitution at 88',Caitlin Hayes Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,367065.0,2025-02-09 05:52:49
+12976,730083,18,44652296,76,2,5280,88',0,0,Caitlin Hayes (Brighton & Hove Albion) Substitution at 88',Caitlin Hayes Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,2,219987.0,2025-02-09 05:52:49
+12976,730083,16,44652294,76,2,5280,88',0,0,Missy Bo Kearns (Aston Villa) Substitution at 88',Missy Bo Kearns Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,248769.0,2025-02-09 05:52:49
+12976,730083,17,44652295,76,2,5280,88',0,0,Ebony Salmon (Aston Villa) Substitution at 88',Ebony Salmon Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,257469.0,2025-02-09 05:52:49
+12976,730083,19,44652375,94,2,5400,90'+6',0,0,Jill Baijings (Aston Villa) Yellow Card at 96',Jill Baijings Yellow Card,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,317630.0,2025-02-09 05:52:49
+12976,730084,1,44666363,70,1,1020,17',1,0,Sara Holmgaard (Everton) Goal at 17',Sara Holmgaard Goal,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,287392.0,2025-02-10 05:49:41
+12976,730084,2,44666639,98,1,2160,36',1,0,Catarina Macario (Chelsea) Penalty - Scored at 36',Catarina Macario Penalty - Score,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,261568.0,2025-02-10 05:49:41
+12976,730084,3,44666829,70,1,2700,45'+2',1,0,Mayra Ramírez (Chelsea) Goal at 47',Mayra Ramírez Goal,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,288680.0,2025-02-10 05:49:41
+12976,730084,4,44667113,76,2,2700,45',0,0,Melissa Lawley (Everton) Substitution at 45',Melissa Lawley Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,255452.0,2025-02-10 05:49:41
+12976,730084,4,44667113,76,2,2700,45',0,0,Melissa Lawley (Everton) Substitution at 45',Melissa Lawley Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,2,361722.0,2025-02-10 05:49:41
+12976,730084,5,44667244,76,2,3480,58',0,0,Sandy Baltimore (Chelsea) Substitution at 58',Sandy Baltimore Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,295673.0,2025-02-10 05:49:41
+12976,730084,5,44667244,76,2,3480,58',0,0,Sandy Baltimore (Chelsea) Substitution at 58',Sandy Baltimore Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,312480.0,2025-02-10 05:49:41
+12976,730084,6,44667425,76,2,4140,69',0,0,Sjoeke Nüsken (Chelsea) Substitution at 69',Sjoeke Nüsken Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,314382.0,2025-02-10 05:49:41
+12976,730084,7,44667426,76,2,4140,69',0,0,Maika Hamano (Chelsea) Substitution at 69',Maika Hamano Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,351356.0,2025-02-10 05:49:41
+12976,730084,6,44667425,76,2,4140,69',0,0,Sjoeke Nüsken (Chelsea) Substitution at 69',Sjoeke Nüsken Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,261568.0,2025-02-10 05:49:41
+12976,730084,7,44667426,76,2,4140,69',0,0,Maika Hamano (Chelsea) Substitution at 69',Maika Hamano Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,264735.0,2025-02-10 05:49:41
+12976,730084,8,44667473,70,2,4260,71',1,0,Maika Hamano (Chelsea) Goal at 71',Maika Hamano Goal,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,351356.0,2025-02-10 05:49:41
+12976,730084,11,44667497,76,2,4320,72',0,0,Heather Payne (Everton) Substitution at 72',Heather Payne Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,291349.0,2025-02-10 05:49:41
+12976,730084,9,44667482,76,2,4320,72',0,0,Elise Stenevik (Everton) Substitution at 72',Elise Stenevik Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,349927.0,2025-02-10 05:49:41
+12976,730084,10,44667483,76,2,4320,72',0,0,Justine Vanhaevermaet (Everton) Substitution at 72',Justine Vanhaevermaet Substituti,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,293328.0,2025-02-10 05:49:41
+12976,730084,9,44667482,76,2,4320,72',0,0,Elise Stenevik (Everton) Substitution at 72',Elise Stenevik Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,2,303336.0,2025-02-10 05:49:41
+12976,730084,10,44667483,76,2,4320,72',0,0,Justine Vanhaevermaet (Everton) Substitution at 72',Justine Vanhaevermaet Substituti,19972,0.0,0.0,0.0,0.0,0.0,0.0,2,211151.0,2025-02-10 05:49:41
+12976,730084,11,44667497,76,2,4320,72',0,0,Heather Payne (Everton) Substitution at 72',Heather Payne Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,2,134349.0,2025-02-10 05:49:41
+12976,730084,12,44667588,76,2,4620,77',0,0,Oriane Jean-François (Chelsea) Substitution at 77',Oriane Jean-François Substitutio,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,317637.0,2025-02-10 05:49:41
+12976,730084,13,44667589,76,2,4620,77',0,0,Aggie Beever-Jones (Chelsea) Substitution at 77',Aggie Beever-Jones Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,313088.0,2025-02-10 05:49:41
+12976,730084,12,44667588,76,2,4620,77',0,0,Oriane Jean-François (Chelsea) Substitution at 77',Oriane Jean-François Substitutio,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,268099.0,2025-02-10 05:49:41
+12976,730084,13,44667589,76,2,4620,77',0,0,Aggie Beever-Jones (Chelsea) Substitution at 77',Aggie Beever-Jones Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,288680.0,2025-02-10 05:49:41
+12976,730084,14,44667664,76,2,4920,82',0,0,Karoline Olesen (Everton) Substitution at 82',Karoline Olesen Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,364520.0,2025-02-10 05:49:41
+12976,730084,14,44667664,76,2,4920,82',0,0,Karoline Olesen (Everton) Substitution at 82',Karoline Olesen Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,2,270037.0,2025-02-10 05:49:41
+12976,730084,15,44667813,98,2,5400,90'+2',1,0,Sandy Baltimore (Chelsea) Penalty - Scored at 92',Sandy Baltimore Penalty - Scored,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,295673.0,2025-02-10 05:49:41
+12977,724698,1,44504008,94,1,1440,24',0,0,Becky Anderson (Wolverhampton) Yellow Card at 24',Becky Anderson Yellow Card,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,323384.0,2025-01-13 05:36:05
+12977,724698,2,44504890,70,2,3660,61',1,0,Amber Hughes (Wolverhampton) Goal at 61',Amber Hughes Goal,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,323383.0,2025-01-13 05:36:05
+12977,724698,3,44505012,76,2,4080,68',0,0,Ella Pemberton (Cheltenham Town) Substitution at 68',Ella Pemberton Substitution,21059,0.0,0.0,0.0,0.0,0.0,0.0,1,398598.0,2025-01-13 05:36:05
+12977,724698,3,44505012,76,2,4080,68',0,0,Ella Pemberton (Cheltenham Town) Substitution at 68',Ella Pemberton Substitution,21059,0.0,0.0,0.0,0.0,0.0,0.0,2,330955.0,2025-01-13 05:36:05
+12977,724698,4,44505051,70,2,4200,70',1,0,Beth Merrick (Wolverhampton) Goal at 70',Beth Merrick Goal,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,355191.0,2025-01-13 05:36:05
+12977,724698,5,44505200,76,2,4680,78',0,0,Amelia Hiscoxis (Wolverhampton) Substitution at 78',Amelia Hiscoxis Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,398575.0,2025-01-13 05:36:05
+12977,724698,5,44505200,76,2,4680,78',0,0,Amelia Hiscoxis (Wolverhampton) Substitution at 78',Amelia Hiscoxis Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,2,306892.0,2025-01-13 05:36:05
+12977,724698,6,44505201,76,2,4740,79',0,0,Jade Cross (Wolverhampton) Substitution at 79',Jade Cross Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,355223.0,2025-01-13 05:36:05
+12977,724698,6,44505201,76,2,4740,79',0,0,Jade Cross (Wolverhampton) Substitution at 79',Jade Cross Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,2,355191.0,2025-01-13 05:36:05
+12977,724698,7,44505322,76,2,5040,84',0,0,Lilly Wellesley-Davies (Cheltenham Town) Substitution at 84',Lilly Wellesley-Davies Substitut,21059,0.0,0.0,0.0,0.0,0.0,0.0,1,398602.0,2025-01-13 05:36:05
+12977,724698,7,44505322,76,2,5040,84',0,0,Lilly Wellesley-Davies (Cheltenham Town) Substitution at 84',Lilly Wellesley-Davies Substitut,21059,0.0,0.0,0.0,0.0,0.0,0.0,2,398599.0,2025-01-13 05:36:05
+12977,724698,8,44505356,94,2,5160,86',0,0,Tammie George (Wolverhampton) Yellow Card at 86',Tammie George Yellow Card,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,355224.0,2025-01-13 05:36:05
+12977,724698,9,44505387,94,2,5340,89',0,0,Lilly Wellesley-Davies (Cheltenham Town) Yellow Card at 89',Lilly Wellesley-Davies Yellow Ca,21059,0.0,0.0,0.0,0.0,0.0,0.0,1,398602.0,2025-01-13 05:36:05
+12977,724698,10,44505412,76,2,5400,90',0,0,Kaitlyn Morgan-Hemmens (Cheltenham Town) Substitution at 90',Kaitlyn Morgan-Hemmens Substitut,21059,0.0,0.0,0.0,0.0,0.0,0.0,1,358256.0,2025-01-13 05:36:05
+12977,724698,11,44505413,76,2,5400,90'+1',0,0,Racheal Quigley (Wolverhampton) Substitution at 91',Racheal Quigley Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,398574.0,2025-01-13 05:36:05
+12977,724698,12,44505457,76,2,5400,90'+4',0,0,Ania Denham (Wolverhampton) Substitution at 94',Ania Denham Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,1,378422.0,2025-01-13 05:36:05
+12977,724698,13,44505458,94,2,5400,90'+5',0,0,Ffion Llewellyn (Cheltenham Town) Yellow Card at 95',Ffion Llewellyn Yellow Card,21059,0.0,0.0,0.0,0.0,0.0,0.0,1,323667.0,2025-01-13 05:36:05
+12977,724698,12,44505457,76,2,5400,90'+4',0,0,Ania Denham (Wolverhampton) Substitution at 94',Ania Denham Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,2,323383.0,2025-01-13 05:36:05
+12977,724698,11,44505413,76,2,5400,90'+1',0,0,Racheal Quigley (Wolverhampton) Substitution at 91',Racheal Quigley Substitution,21042,0.0,0.0,0.0,0.0,0.0,0.0,2,332788.0,2025-01-13 05:36:05
+12977,724698,10,44505412,76,2,5400,90',0,0,Kaitlyn Morgan-Hemmens (Cheltenham Town) Substitution at 90',Kaitlyn Morgan-Hemmens Substitut,21059,0.0,0.0,0.0,0.0,0.0,0.0,2,398602.0,2025-01-13 05:36:05
+12977,724699,1,44510145,70,1,360,6',1,0,Molly-Mae Sharpe (Crystal Palace) Goal at 6',Molly-Mae Sharpe Goal,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,324879.0,2025-01-15 05:37:48
+12977,724699,2,44510269,70,1,1740,29',1,0,Ashleigh Weerden (Crystal Palace) Goal at 29',Ashleigh Weerden Goal,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,314575.0,2025-01-15 05:37:48
+12977,724699,3,44510363,94,1,2400,40',0,0,Mille Gejl (Crystal Palace) Yellow Card at 40',Mille Gejl Yellow Card,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,285187.0,2025-01-15 05:37:48
+12977,724699,4,44511039,76,2,2700,45',0,0,Alyssa Aherne (Sheffield United) Substitution at 45',Alyssa Aherne Substitution,21038,0.0,0.0,0.0,0.0,0.0,0.0,1,356056.0,2025-01-15 05:37:48
+12977,724699,4,44511039,76,2,2700,45',0,0,Alyssa Aherne (Sheffield United) Substitution at 45',Alyssa Aherne Substitution,21038,0.0,0.0,0.0,0.0,0.0,0.0,2,377643.0,2025-01-15 05:37:48
+12977,724699,5,44511238,70,2,3120,52',1,0,Mille Gejl (Crystal Palace) Goal at 52',Mille Gejl Goal,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,285187.0,2025-01-15 05:37:48
+12977,724699,7,44511431,76,2,3420,57',0,0,Abbie Larkin (Crystal Palace) Substitution at 57',Abbie Larkin Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,336368.0,2025-01-15 05:37:48
+12977,724699,6,44511430,76,2,3420,57',0,0,Felicity Gibbons (Crystal Palace) Substitution at 57',Felicity Gibbons Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,312463.0,2025-01-15 05:37:48
+12977,724699,7,44511431,76,2,3420,57',0,0,Abbie Larkin (Crystal Palace) Substitution at 57',Abbie Larkin Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,324879.0,2025-01-15 05:37:48
+12977,724699,6,44511430,76,2,3420,57',0,0,Felicity Gibbons (Crystal Palace) Substitution at 57',Felicity Gibbons Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,140056.0,2025-01-15 05:37:48
+12977,724699,8,44511516,70,2,3660,61',1,0,Ashleigh Weerden (Crystal Palace) Goal at 61',Ashleigh Weerden Goal,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,314575.0,2025-01-15 05:37:48
+12977,724699,9,44511668,76,2,3900,65',0,0,Katie Stengel (Crystal Palace) Substitution at 65',Katie Stengel Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,290269.0,2025-01-15 05:37:48
+12977,724699,9,44511668,76,2,3900,65',0,0,Katie Stengel (Crystal Palace) Substitution at 65',Katie Stengel Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,288977.0,2025-01-15 05:37:48
+12977,724699,11,44511670,76,2,4080,68',0,0,Ruby Watts (Sheffield United) Substitution at 68',Ruby Watts Substitution,21038,0.0,0.0,0.0,0.0,0.0,0.0,1,398772.0,2025-01-15 05:37:48
+12977,724699,10,44511669,76,2,4080,68',0,0,Ellie Jones (Sheffield United) Substitution at 68',Ellie Jones Substitution,21038,0.0,0.0,0.0,0.0,0.0,0.0,1,384158.0,2025-01-15 05:37:48
+12977,724699,10,44511669,76,2,4080,68',0,0,Ellie Jones (Sheffield United) Substitution at 68',Ellie Jones Substitution,21038,0.0,0.0,0.0,0.0,0.0,0.0,2,329946.0,2025-01-15 05:37:48
+12977,724699,10,44511669,76,2,4080,68',0,0,Ellie Jones (Sheffield United) Substitution at 68',Ellie Jones Substitution,21038,0.0,0.0,0.0,0.0,0.0,0.0,2,280125.0,2025-01-15 05:37:48
+12977,724699,11,44511670,76,2,4080,68',0,0,Ruby Watts (Sheffield United) Substitution at 68',Ruby Watts Substitution,21038,0.0,0.0,0.0,0.0,0.0,0.0,2,211477.0,2025-01-15 05:37:48
+12977,724699,12,44511721,70,2,4260,71',1,0,My Cato (Crystal Palace) Goal at 71',My Cato Goal,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,392348.0,2025-01-15 05:37:48
+12977,724699,13,44511743,94,2,4380,73',0,0,Jade Bailey (Sheffield United) Yellow Card at 73',Jade Bailey Yellow Card,21038,0.0,0.0,0.0,0.0,0.0,0.0,1,323517.0,2025-01-15 05:37:48
+12977,724699,14,44511805,70,2,4440,74',1,0,Alyssa Aherne (Sheffield United) Goal at 74',Alyssa Aherne Goal,21038,0.0,0.0,0.0,0.0,0.0,0.0,1,356056.0,2025-01-15 05:37:48
+12977,724699,15,44511883,76,2,4740,79',0,0,Chloe Arthur (Crystal Palace) Substitution at 79',Chloe Arthur Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,257534.0,2025-01-15 05:37:48
+12977,724699,16,44511884,76,2,4740,79',0,0,Josie Green (Crystal Palace) Substitution at 79',Josie Green Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,259626.0,2025-01-15 05:37:48
+12977,724699,16,44511884,76,2,4740,79',0,0,Josie Green (Crystal Palace) Substitution at 79',Josie Green Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,296781.0,2025-01-15 05:37:48
+12977,724699,15,44511883,76,2,4740,79',0,0,Chloe Arthur (Crystal Palace) Substitution at 79',Chloe Arthur Substitution,21037,0.0,0.0,0.0,0.0,0.0,0.0,2,392348.0,2025-01-15 05:37:48
+12977,724699,17,44512006,76,2,5040,84',0,0,Olivia Edwards (Sheffield United) Substitution at 84',Olivia Edwards Substitution,21038,0.0,0.0,0.0,0.0,0.0,0.0,1,349623.0,2025-01-15 05:37:48
+12977,724699,17,44512006,76,2,5040,84',0,0,Olivia Edwards (Sheffield United) Substitution at 84',Olivia Edwards Substitution,21038,0.0,0.0,0.0,0.0,0.0,0.0,2,314505.0,2025-01-15 05:37:48
+12977,724699,18,44512007,76,2,5100,85',0,0,Chloe Salisbury (Sheffield United) Substitution at 85',Chloe Salisbury Substitution,21038,0.0,0.0,0.0,0.0,0.0,0.0,1,377644.0,2025-01-15 05:37:48
+12977,724699,18,44512007,76,2,5100,85',0,0,Chloe Salisbury (Sheffield United) Substitution at 85',Chloe Salisbury Substitution,21038,0.0,0.0,0.0,0.0,0.0,0.0,2,378053.0,2025-01-15 05:37:48
+12977,724699,19,44512195,97,2,5160,86',1,0,Jade Bailey (Sheffield United) Own Goal at 86',Jade Bailey Own Goal,21037,0.0,0.0,0.0,0.0,0.0,0.0,1,323517.0,2025-01-16 05:40:32
+12977,724700,1,44590727,76,1,600,10',0,0,Heather Payne (Everton) Substitution at 10',Heather Payne Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,291349.0,2025-01-30 14:50:51
+12977,724700,1,44590727,76,1,600,10',0,0,Heather Payne (Everton) Substitution at 10',Heather Payne Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,2,312482.0,2025-01-30 14:50:51
+12977,724700,2,44590733,94,1,2700,45'+4',0,0,Hayley Ladd (Everton) Yellow Card at 49',Hayley Ladd Yellow Card,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,259315.0,2025-01-30 14:50:51
+12977,724700,3,44590734,94,1,2700,45'+6',0,0,Sara Holmgaard (Everton) Yellow Card at 51',Sara Holmgaard Yellow Card,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,287392.0,2025-01-30 14:50:51
+12977,724700,4,44591110,70,2,2880,48',1,0,Kelly Gago (Everton) Goal at 48',Kelly Gago Goal,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,392349.0,2025-01-30 14:50:51
+12977,724700,6,44591577,76,2,3540,59',0,0,Lenna Gunning-Williams (Tottenham Hotspur) Substitution at 59',Lenna Gunning-Williams Substitut,20062,0.0,0.0,0.0,0.0,0.0,0.0,1,355373.0,2025-01-30 14:50:51
+12977,724700,5,44591576,76,2,3540,59',0,0,Rosella Ayane (Tottenham Hotspur) Substitution at 59',Rosella Ayane Substitution,20062,0.0,0.0,0.0,0.0,0.0,0.0,1,312494.0,2025-01-30 14:50:51
+12977,724700,6,44591577,76,2,3540,59',0,0,Lenna Gunning-Williams (Tottenham Hotspur) Substitution at 59',Lenna Gunning-Williams Substitut,20062,0.0,0.0,0.0,0.0,0.0,0.0,2,219818.0,2025-01-30 14:50:51
+12977,724700,5,44591576,76,2,3540,59',0,0,Rosella Ayane (Tottenham Hotspur) Substitution at 59',Rosella Ayane Substitution,20062,0.0,0.0,0.0,0.0,0.0,0.0,2,226804.0,2025-01-30 14:50:51
+12977,724700,7,44591679,76,2,3660,61',0,0,Justine Vanhaevermaet (Everton) Substitution at 61',Justine Vanhaevermaet Substituti,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,293328.0,2025-01-30 14:50:51
+12977,724700,7,44591679,76,2,3660,61',0,0,Justine Vanhaevermaet (Everton) Substitution at 61',Justine Vanhaevermaet Substituti,19972,0.0,0.0,0.0,0.0,0.0,0.0,2,270037.0,2025-01-30 14:50:51
+12977,724700,8,44591680,76,2,3720,62',0,0,Clare Wheeler (Everton) Substitution at 62',Clare Wheeler Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,300568.0,2025-01-30 14:50:51
+12977,724700,9,44591681,76,2,3720,62',0,0,Toni Payne (Everton) Substitution at 62',Toni Payne Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,211151.0,2025-01-30 14:50:51
+12977,724700,9,44591681,76,2,3720,62',0,0,Toni Payne (Everton) Substitution at 62',Toni Payne Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,2,361722.0,2025-01-30 14:50:51
+12977,724700,8,44591680,76,2,3720,62',0,0,Clare Wheeler (Everton) Substitution at 62',Clare Wheeler Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,2,364520.0,2025-01-30 14:50:51
+12977,724700,11,44592326,76,2,4680,78',0,0,Ashleigh Neville (Tottenham Hotspur) Substitution at 78',Ashleigh Neville Substitution,20062,0.0,0.0,0.0,0.0,0.0,0.0,1,294265.0,2025-01-30 14:50:51
+12977,724700,12,44592327,76,2,4680,78',0,0,Molly Bartrip (Tottenham Hotspur) Substitution at 78',Molly Bartrip Substitution,20062,0.0,0.0,0.0,0.0,0.0,0.0,1,312487.0,2025-01-30 14:50:51
+12977,724700,10,44592325,76,2,4680,78',0,0,Olivia Holdt (Tottenham Hotspur) Substitution at 78',Olivia Holdt Substitution,20062,0.0,0.0,0.0,0.0,0.0,0.0,1,314963.0,2025-01-30 14:50:51
+12977,724700,13,44592328,76,2,4680,78',0,0,Melissa Lawley (Everton) Substitution at 78',Melissa Lawley Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,255452.0,2025-01-30 14:50:51
+12977,724700,12,44592327,76,2,4680,78',0,0,Molly Bartrip (Tottenham Hotspur) Substitution at 78',Molly Bartrip Substitution,20062,0.0,0.0,0.0,0.0,0.0,0.0,2,311201.0,2025-01-30 14:50:51
+12977,724700,11,44592326,76,2,4680,78',0,0,Ashleigh Neville (Tottenham Hotspur) Substitution at 78',Ashleigh Neville Substitution,20062,0.0,0.0,0.0,0.0,0.0,0.0,2,314494.0,2025-01-30 14:50:51
+12977,724700,10,44592325,76,2,4680,78',0,0,Olivia Holdt (Tottenham Hotspur) Substitution at 78',Olivia Holdt Substitution,20062,0.0,0.0,0.0,0.0,0.0,0.0,2,294268.0,2025-01-30 14:50:51
+12977,724700,13,44592328,76,2,4680,78',0,0,Melissa Lawley (Everton) Substitution at 78',Melissa Lawley Substitution,19972,0.0,0.0,0.0,0.0,0.0,0.0,2,392349.0,2025-01-30 14:50:51
+12977,724700,14,44592566,70,2,5400,90'+2',1,0,Heather Payne (Everton) Goal at 92',Heather Payne Goal,19972,0.0,0.0,0.0,0.0,0.0,0.0,1,291349.0,2025-01-30 14:50:51
+12977,724701,1,44503273,70,1,240,4',1,0,Ellen Jones (Sunderland) Goal at 4',Ellen Jones Goal,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,301445.0,2025-01-13 05:36:05
+12977,724701,2,44503340,70,1,780,13',1,0,Eleanor Dale (Sunderland) Goal at 13',Eleanor Dale Goal,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,327279.0,2025-01-13 05:36:05
+12977,724701,3,44503458,70,1,1860,31',1,0,Eleanor Dale (Sunderland) Goal at 31',Eleanor Dale Goal,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,327279.0,2025-01-13 05:36:05
+12977,724701,4,44503497,98,1,2280,38',1,0,Sarah Stacey (Exeter City) Penalty - Scored at 38',Sarah Stacey Penalty - Scored,21087,0.0,0.0,0.0,0.0,0.0,0.0,1,333883.0,2025-01-13 05:36:05
+12977,724701,5,44503506,70,1,2400,40',1,0,Ellen Jones (Sunderland) Goal at 40',Ellen Jones Goal,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,301445.0,2025-01-13 05:36:05
+12977,724701,6,44503702,76,2,2700,45',0,0,Jenna Dear (Sunderland) Substitution at 45',Jenna Dear Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,347083.0,2025-01-13 05:36:05
+12977,724701,7,44503745,76,2,2700,45',0,0,Emily Scarr (Sunderland) Substitution at 45',Emily Scarr Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,325853.0,2025-01-13 05:36:05
+12977,724701,7,44503745,76,2,2700,45',0,0,Emily Scarr (Sunderland) Substitution at 45',Emily Scarr Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,2,334800.0,2025-01-13 05:36:05
+12977,724701,6,44503702,76,2,2700,45',0,0,Jenna Dear (Sunderland) Substitution at 45',Jenna Dear Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,2,325856.0,2025-01-13 05:36:05
+12977,724701,8,44503769,70,2,2940,49',1,0,Ellen Jones (Sunderland) Goal at 49',Ellen Jones Goal,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,301445.0,2025-01-13 05:36:05
+12977,724701,10,44503888,76,2,3360,56',0,0,Mollie Taylor (Exeter City) Substitution at 56',Mollie Taylor Substitution,21087,0.0,0.0,0.0,0.0,0.0,0.0,1,333880.0,2025-01-13 05:36:05
+12977,724701,9,44503887,76,2,3360,56',0,0,Fearne Slocombe (Exeter City) Substitution at 56',Fearne Slocombe Substitution,21087,0.0,0.0,0.0,0.0,0.0,0.0,1,357805.0,2025-01-13 05:36:05
+12977,724701,10,44503888,76,2,3360,56',0,0,Mollie Taylor (Exeter City) Substitution at 56',Mollie Taylor Substitution,21087,0.0,0.0,0.0,0.0,0.0,0.0,2,323433.0,2025-01-13 05:36:05
+12977,724701,9,44503887,76,2,3360,56',0,0,Fearne Slocombe (Exeter City) Substitution at 56',Fearne Slocombe Substitution,21087,0.0,0.0,0.0,0.0,0.0,0.0,2,323439.0,2025-01-13 05:36:05
+12977,724701,11,44503958,76,2,3720,62',0,0,Keira Flannery (Sunderland) Substitution at 62',Keira Flannery Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,346487.0,2025-01-13 05:36:05
+12977,724701,12,44503959,76,2,3720,62',0,0,Mary Mcateer (Sunderland) Substitution at 62',Mary Mcateer Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,331050.0,2025-01-13 05:36:05
+12977,724701,11,44503958,76,2,3720,62',0,0,Keira Flannery (Sunderland) Substitution at 62',Keira Flannery Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,2,268163.0,2025-01-13 05:36:05
+12977,724701,12,44503959,76,2,3720,62',0,0,Mary Mcateer (Sunderland) Substitution at 62',Mary Mcateer Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,2,301445.0,2025-01-13 05:36:05
+12977,724701,13,44504145,76,2,4560,76',0,0,Zoe Watkins (Exeter City) Substitution at 76',Zoe Watkins Substitution,21087,0.0,0.0,0.0,0.0,0.0,0.0,1,333879.0,2025-01-13 05:36:05
+12977,724701,13,44504145,76,2,4560,76',0,0,Zoe Watkins (Exeter City) Substitution at 76',Zoe Watkins Substitution,21087,0.0,0.0,0.0,0.0,0.0,0.0,2,323558.0,2025-01-13 05:36:05
+12977,724701,14,44504167,70,2,4680,78',1,0,Eleanor Dale (Sunderland) Goal at 78',Eleanor Dale Goal,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,327279.0,2025-01-13 05:36:05
+12977,724701,15,44504209,76,2,4800,80',0,0,Jess Sandland (Exeter City) Substitution at 80',Jess Sandland Substitution,21087,0.0,0.0,0.0,0.0,0.0,0.0,1,333881.0,2025-01-13 05:36:05
+12977,724701,16,44504283,76,2,4800,80',0,0,Georgie Gresham (Exeter City) Substitution at 80',Georgie Gresham Substitution,21087,0.0,0.0,0.0,0.0,0.0,0.0,1,328213.0,2025-01-13 05:36:05
+12977,724701,16,44504283,76,2,4800,80',0,0,Georgie Gresham (Exeter City) Substitution at 80',Georgie Gresham Substitution,21087,0.0,0.0,0.0,0.0,0.0,0.0,2,323674.0,2025-01-13 05:36:05
+12977,724701,15,44504209,76,2,4800,80',0,0,Jess Sandland (Exeter City) Substitution at 80',Jess Sandland Substitution,21087,0.0,0.0,0.0,0.0,0.0,0.0,2,332903.0,2025-01-13 05:36:05
+12977,724701,17,44504284,76,2,4980,83',0,0,Brianna Westrup (Sunderland) Substitution at 83',Brianna Westrup Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,320126.0,2025-01-13 05:36:05
+12977,724701,17,44504284,76,2,4980,83',0,0,Brianna Westrup (Sunderland) Substitution at 83',Brianna Westrup Substitution,21060,0.0,0.0,0.0,0.0,0.0,0.0,2,286890.0,2025-01-13 05:36:05
+12977,724701,18,44504289,70,2,5100,85',1,0,Eleanor Dale (Sunderland) Goal at 85',Eleanor Dale Goal,21060,0.0,0.0,0.0,0.0,0.0,0.0,1,327279.0,2025-01-13 05:36:05
+12977,724702,1,44503004,94,1,1140,19',0,0,Betty Barron-Clark (Fulham) Yellow Card at 19',Betty Barron-Clark Yellow Card,21252,0.0,0.0,0.0,0.0,0.0,0.0,1,398551.0,2025-01-13 05:36:05
+12977,724702,2,44503021,70,1,1500,25',1,0,Chantelle Boye-Hlorkah (London City) Goal at 25',Chantelle Boye-Hlorkah Goal,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,312483.0,2025-01-13 05:36:05
+12977,724702,3,44503027,70,1,1620,27',1,0,Chantelle Boye-Hlorkah (London City) Goal at 27',Chantelle Boye-Hlorkah Goal,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,312483.0,2025-01-13 05:36:05
+12977,724702,4,44503045,70,1,1980,33',1,0,Chantelle Boye-Hlorkah (London City) Goal at 33',Chantelle Boye-Hlorkah Goal,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,312483.0,2025-01-13 05:36:05
+12977,724702,7,44503281,76,2,2700,45',0,0,Maddi Wilde (London City) Substitution at 45',Maddi Wilde Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,325574.0,2025-01-13 05:36:05
+12977,724702,6,44503280,76,2,2700,45',0,0,Shen Mengyu (London City) Substitution at 45',Shen Mengyu Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,319207.0,2025-01-13 05:36:05
+12977,724702,5,44503279,76,2,2700,45',0,0,Julia Roddar (London City) Substitution at 45',Julia Roddar Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,211733.0,2025-01-13 05:36:05
+12977,724702,5,44503279,76,2,2700,45',0,0,Julia Roddar (London City) Substitution at 45',Julia Roddar Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,2,312458.0,2025-01-13 05:36:05
+12977,724702,7,44503281,76,2,2700,45',0,0,Maddi Wilde (London City) Substitution at 45',Maddi Wilde Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,2,316972.0,2025-01-13 05:36:05
+12977,724702,6,44503280,76,2,2700,45',0,0,Shen Mengyu (London City) Substitution at 45',Shen Mengyu Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,2,281742.0,2025-01-13 05:36:05
+12977,724702,8,44503331,76,2,3120,52',0,0,Tia Foreman (Fulham) Substitution at 52',Tia Foreman Substitution,21252,0.0,0.0,0.0,0.0,0.0,0.0,1,398571.0,2025-01-13 05:36:05
+12977,724702,8,44503331,76,2,3120,52',0,0,Tia Foreman (Fulham) Substitution at 52',Tia Foreman Substitution,21252,0.0,0.0,0.0,0.0,0.0,0.0,2,398554.0,2025-01-13 05:36:05
+12977,724702,9,44503384,98,2,3600,60',1,0,Kosovare Asllani (London City) Penalty - Scored at 60',Kosovare Asllani Penalty - Score,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,140019.0,2025-01-13 05:36:05
+12977,724702,11,44503420,76,2,3720,62',0,0,Georgia Heasman (Fulham) Substitution at 62',Georgia Heasman Substitution,21252,0.0,0.0,0.0,0.0,0.0,0.0,1,398560.0,2025-01-13 05:36:05
+12977,724702,12,44503421,76,2,3720,62',0,0,Lily Stevens (Fulham) Substitution at 62',Lily Stevens Substitution,21252,0.0,0.0,0.0,0.0,0.0,0.0,1,337037.0,2025-01-13 05:36:05
+12977,724702,10,44503419,76,2,3720,62',0,0,Amber Webber (Fulham) Substitution at 62',Amber Webber Substitution,21252,0.0,0.0,0.0,0.0,0.0,0.0,1,398545.0,2025-01-13 05:36:05
+12977,724702,12,44503421,76,2,3720,62',0,0,Lily Stevens (Fulham) Substitution at 62',Lily Stevens Substitution,21252,0.0,0.0,0.0,0.0,0.0,0.0,2,398551.0,2025-01-13 05:36:05
+12977,724702,11,44503420,76,2,3720,62',0,0,Georgia Heasman (Fulham) Substitution at 62',Georgia Heasman Substitution,21252,0.0,0.0,0.0,0.0,0.0,0.0,2,398566.0,2025-01-13 05:36:05
+12977,724702,10,44503419,76,2,3720,62',0,0,Amber Webber (Fulham) Substitution at 62',Amber Webber Substitution,21252,0.0,0.0,0.0,0.0,0.0,0.0,2,398557.0,2025-01-13 05:36:05
+12977,724702,13,44503426,70,2,3900,65',1,0,Isobel Goodwin (London City) Goal at 65',Isobel Goodwin Goal,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,313531.0,2025-01-13 05:36:05
+12977,724702,15,44503471,76,2,4440,74',0,0,Rofiat Imuran (London City) Substitution at 74',Rofiat Imuran Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,349549.0,2025-01-13 05:36:05
+12977,724702,16,44503472,76,2,4440,74',0,0,Lucy Fitzgerald (London City) Substitution at 74',Lucy Fitzgerald Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,324785.0,2025-01-13 05:36:05
+12977,724702,14,44503470,76,2,4440,74',0,0,Grace Neville (London City) Substitution at 74',Grace Neville Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,1,278928.0,2025-01-13 05:36:05
+12977,724702,15,44503471,76,2,4440,74',0,0,Rofiat Imuran (London City) Substitution at 74',Rofiat Imuran Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,2,269999.0,2025-01-13 05:36:05
+12977,724702,14,44503470,76,2,4440,74',0,0,Grace Neville (London City) Substitution at 74',Grace Neville Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,2,360438.0,2025-01-13 05:36:05
+12977,724702,16,44503472,76,2,4440,74',0,0,Lucy Fitzgerald (London City) Substitution at 74',Lucy Fitzgerald Substitution,21053,0.0,0.0,0.0,0.0,0.0,0.0,2,312483.0,2025-01-13 05:36:05
+12977,724702,17,44503594,76,2,5340,89',0,0,Madi Filer (Fulham) Substitution at 89',Madi Filer Substitution,21252,0.0,0.0,0.0,0.0,0.0,0.0,1,398563.0,2025-01-13 05:36:05
+12977,724702,18,44503595,76,2,5340,89',0,0,Sophia Roberts (Fulham) Substitution at 89',Sophia Roberts Substitution,21252,0.0,0.0,0.0,0.0,0.0,0.0,1,398570.0,2025-01-13 05:36:05
+12977,724702,17,44503594,76,2,5340,89',0,0,Madi Filer (Fulham) Substitution at 89',Madi Filer Substitution,21252,0.0,0.0,0.0,0.0,0.0,0.0,2,398553.0,2025-01-13 05:36:05
+12977,724702,18,44503595,76,2,5340,89',0,0,Sophia Roberts (Fulham) Substitution at 89',Sophia Roberts Substitution,21252,0.0,0.0,0.0,0.0,0.0,0.0,2,358019.0,2025-01-13 05:36:05
+12977,724703,1,44516979,70,1,780,13',1,0,Yuka Momiki (Leicester City) Goal at 13',Yuka Momiki Goal,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,256223.0,2025-01-16 05:40:32
+12977,724703,2,44517400,70,1,1740,29',1,0,Missy Goodwin (Leicester City) Goal at 29',Missy Goodwin Goal,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,294600.0,2025-01-16 05:40:32
+12977,724703,3,44517638,76,1,2400,40',0,0,Shannon O'Brien (Leicester City) Substitution at 40',Shannon O'Brien Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,323505.0,2025-01-16 05:40:32
+12977,724703,3,44517638,76,1,2400,40',0,0,Shannon O'Brien (Leicester City) Substitution at 40',Shannon O'Brien Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,323496.0,2025-01-16 05:40:32
+12977,724703,4,44517660,98,1,2520,42',1,0,Ravening (Stoke City) Penalty - Scored at 42',Ravening Penalty - Scored,21072,0.0,0.0,0.0,0.0,0.0,0.0,1,312767.0,2025-01-16 05:40:32
+12977,724703,5,44517698,94,1,2640,44',0,0,Evie Priestley (Stoke City) Yellow Card at 44',Evie Priestley Yellow Card,21072,0.0,0.0,0.0,0.0,0.0,0.0,1,357836.0,2025-01-16 05:40:32
+12977,724703,6,44518091,76,2,2700,45',0,0,Courtney Nevin (Leicester City) Substitution at 45',Courtney Nevin Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,300518.0,2025-01-16 05:40:32
+12977,724703,6,44518091,76,2,2700,45',0,0,Courtney Nevin (Leicester City) Substitution at 45',Courtney Nevin Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,219962.0,2025-01-16 05:40:32
+12977,724703,8,44518537,76,2,3720,62',0,0,Simone Sherwood (Leicester City) Substitution at 62',Simone Sherwood Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,376668.0,2025-01-16 05:40:32
+12977,724703,7,44518536,76,2,3720,62',0,0,Sam Tierney (Leicester City) Substitution at 62',Sam Tierney Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,323495.0,2025-01-16 05:40:32
+12977,724703,8,44518537,76,2,3720,62',0,0,Simone Sherwood (Leicester City) Substitution at 62',Simone Sherwood Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,257569.0,2025-01-16 05:40:32
+12977,724703,7,44518536,76,2,3720,62',0,0,Sam Tierney (Leicester City) Substitution at 62',Sam Tierney Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,302566.0,2025-01-16 05:40:32
+12977,724703,9,44518671,76,2,4020,67',0,0,Monique Watson (Stoke City) Substitution at 67',Monique Watson Substitution,21072,0.0,0.0,0.0,0.0,0.0,0.0,1,330524.0,2025-01-16 05:40:32
+12977,724703,9,44518671,76,2,4020,67',0,0,Monique Watson (Stoke City) Substitution at 67',Monique Watson Substitution,21072,0.0,0.0,0.0,0.0,0.0,0.0,2,398578.0,2025-01-16 05:40:32
+12977,724703,10,44518812,76,2,4320,72',0,0,Nelly Las (Leicester City) Substitution at 72',Nelly Las Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,386685.0,2025-01-16 05:40:32
+12977,724703,10,44518812,76,2,4320,72',0,0,Nelly Las (Leicester City) Substitution at 72',Nelly Las Substitution,21036,0.0,0.0,0.0,0.0,0.0,0.0,2,288888.0,2025-01-16 05:40:32
+12977,724703,11,44518883,70,2,4560,76',1,0,Yuka Momiki (Leicester City) Goal at 76',Yuka Momiki Goal,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,256223.0,2025-01-16 05:40:32
+12977,724703,12,44518935,76,2,4560,76',0,0,Delphi Cole (Stoke City) Substitution at 76',Delphi Cole Substitution,21072,0.0,0.0,0.0,0.0,0.0,0.0,1,336789.0,2025-01-16 05:40:32
+12977,724703,12,44518935,76,2,4560,76',0,0,Delphi Cole (Stoke City) Substitution at 76',Delphi Cole Substitution,21072,0.0,0.0,0.0,0.0,0.0,0.0,2,357836.0,2025-01-16 05:40:32
+12977,724703,13,44519185,70,2,5400,90'+2',1,0,Nelly Las (Leicester City) Goal at 92',Nelly Las Goal,21036,0.0,0.0,0.0,0.0,0.0,0.0,1,386685.0,2025-01-16 05:40:32
+12977,724704,1,44503999,70,1,1380,23',1,0,Nicola Potts (Rugby Borough) Goal at 23',Nicola Potts Goal,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,335022.0,2025-01-13 05:36:05
+12977,724704,2,44504054,70,1,1620,27',1,0,Ebony Wiseman (Rugby Borough) Goal at 27',Ebony Wiseman Goal,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,295929.0,2025-01-13 05:36:05
+12977,724704,3,44504266,70,1,2460,41',1,0,Mai Moncaster (Rugby Borough) Goal at 41',Mai Moncaster Goal,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,323500.0,2025-01-13 05:36:05
+12977,724704,5,44504685,76,2,2700,45',0,0,Inès Affri (London Bees) Substitution at 45',Inès Affri Substitution,21047,0.0,0.0,0.0,0.0,0.0,0.0,1,398614.0,2025-01-13 05:36:05
+12977,724704,4,44504351,70,1,2700,45'+2',1,0,Angelina Nixon (Rugby Borough) Goal at 47',Angelina Nixon Goal,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,326880.0,2025-01-13 05:36:05
+12977,724704,5,44504685,76,2,2700,45',0,0,Inès Affri (London Bees) Substitution at 45',Inès Affri Substitution,21047,0.0,0.0,0.0,0.0,0.0,0.0,2,398616.0,2025-01-13 05:36:05
+12977,724704,6,44504758,70,2,2940,49',1,0,Rhianne Rush (Rugby Borough) Goal at 49',Rhianne Rush Goal,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,334170.0,2025-01-13 05:36:05
+12977,724704,7,44504979,76,2,3540,59',0,0,Saskia Morris (Rugby Borough) Substitution at 59',Saskia Morris Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,398591.0,2025-01-13 05:36:05
+12977,724704,8,44504980,76,2,3540,59',0,0,Lily Greenslade (Rugby Borough) Substitution at 59',Lily Greenslade Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,328960.0,2025-01-13 05:36:05
+12977,724704,7,44504979,76,2,3540,59',0,0,Saskia Morris (Rugby Borough) Substitution at 59',Saskia Morris Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,2,280025.0,2025-01-13 05:36:05
+12977,724704,8,44504980,76,2,3540,59',0,0,Lily Greenslade (Rugby Borough) Substitution at 59',Lily Greenslade Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,2,330523.0,2025-01-13 05:36:05
+12977,724704,9,44505024,76,2,3720,62',0,0,Lily Whitelock (London Bees) Substitution at 62',Lily Whitelock Substitution,21047,0.0,0.0,0.0,0.0,0.0,0.0,1,398609.0,2025-01-13 05:36:05
+12977,724704,9,44505024,76,2,3720,62',0,0,Lily Whitelock (London Bees) Substitution at 62',Lily Whitelock Substitution,21047,0.0,0.0,0.0,0.0,0.0,0.0,2,347762.0,2025-01-13 05:36:05
+12977,724704,10,44505203,76,2,4320,72',0,0,Lucy Wood (Rugby Borough) Substitution at 72',Lucy Wood Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,323490.0,2025-01-13 05:36:05
+12977,724704,11,44505204,76,2,4320,72',0,0,Megan Shaw (Rugby Borough) Substitution at 72',Megan Shaw Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,358233.0,2025-01-13 05:36:05
+12977,724704,11,44505204,76,2,4320,72',0,0,Megan Shaw (Rugby Borough) Substitution at 72',Megan Shaw Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,2,323474.0,2025-01-13 05:36:05
+12977,724704,10,44505203,76,2,4320,72',0,0,Lucy Wood (Rugby Borough) Substitution at 72',Lucy Wood Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,2,323500.0,2025-01-13 05:36:05
+12977,724704,12,44505379,76,2,4860,81',0,0,Olivia Bartlett (London Bees) Substitution at 81',Olivia Bartlett Substitution,21047,0.0,0.0,0.0,0.0,0.0,0.0,1,398604.0,2025-01-13 05:36:05
+12977,724704,12,44505379,76,2,4860,81',0,0,Olivia Bartlett (London Bees) Substitution at 81',Olivia Bartlett Substitution,21047,0.0,0.0,0.0,0.0,0.0,0.0,2,328805.0,2025-01-13 05:36:05
+12977,724704,13,44505380,76,2,4920,82',0,0,Sarah Mcdermott (London Bees) Substitution at 82',Sarah Mcdermott Substitution,21047,0.0,0.0,0.0,0.0,0.0,0.0,1,398610.0,2025-01-13 05:36:05
+12977,724704,13,44505380,76,2,4920,82',0,0,Sarah Mcdermott (London Bees) Substitution at 82',Sarah Mcdermott Substitution,21047,0.0,0.0,0.0,0.0,0.0,0.0,2,398605.0,2025-01-13 05:36:05
+12977,724704,14,44505392,70,2,5040,84',1,0,Angelina Nixon (Rugby Borough) Goal at 84',Angelina Nixon Goal,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,326880.0,2025-01-13 05:36:05
+12977,724704,15,44505422,76,2,5100,85',0,0,Emily Wallace (Rugby Borough) Substitution at 85',Emily Wallace Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,1,337034.0,2025-01-13 05:36:05
+12977,724704,15,44505422,76,2,5100,85',0,0,Emily Wallace (Rugby Borough) Substitution at 85',Emily Wallace Substitution,22104,0.0,0.0,0.0,0.0,0.0,0.0,2,326880.0,2025-01-13 05:36:05
+12977,724705,1,44503383,70,1,1200,20',1,0,Jill Roord (Manchester City) Goal at 20',Jill Roord Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,219951.0,2025-01-13 05:36:05
+12977,724705,1,44863015,70,1,1200,20',1,0,Jill Roord (Manchester City) Goal at 20',Jill Roord Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,219951.0,2025-04-05 08:46:00
+12977,724705,2,44863016,94,2,3000,50',0,0,Grace Garrard (Ipswich Town) Yellow Card at 50',Grace Garrard Yellow Card,21068,0.0,0.0,0.0,0.0,0.0,0.0,1,310224.0,2025-04-05 08:46:00
+12977,724705,2,44503735,94,2,3060,51',0,0,Grace Garrard (Ipswich Town) Yellow Card at 51',Grace Garrard Yellow Card,21068,0.0,0.0,0.0,0.0,0.0,0.0,1,310224.0,2025-01-13 05:36:05
+12977,724705,3,44503811,70,2,3300,55',1,0,Laura Coombs (Manchester City) Goal at 55',Laura Coombs Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,229456.0,2025-01-13 05:36:05
+12977,724705,3,44863017,70,2,3300,55',1,0,Laura Coombs (Manchester City) Goal at 55',Laura Coombs Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,229456.0,2025-04-05 08:46:00
+12977,724705,6,44503907,76,2,3660,61',0,0,Laia Aleixandri (Manchester City) Substitution at 61',Laia Aleixandri Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,286338.0,2025-01-13 05:36:05
+12977,724705,6,44863020,76,2,3660,61',0,0,Laia Aleixandri (Manchester City) Substitution at 61',Laia Aleixandri Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,286338.0,2025-04-05 08:46:00
+12977,724705,5,44503906,76,2,3660,61',0,0,Jess Park (Manchester City) Substitution at 61',Jess Park Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-01-13 05:36:05
+12977,724705,5,44863019,76,2,3660,61',0,0,Jess Park (Manchester City) Substitution at 61',Jess Park Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-04-05 08:46:00
+12977,724705,4,44503905,76,2,3660,61',0,0,Vivianne Miedema (Manchester City) Substitution at 61',Vivianne Miedema Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,219945.0,2025-01-13 05:36:05
+12977,724705,4,44863018,76,2,3660,61',0,0,Vivianne Miedema (Manchester City) Substitution at 61',Vivianne Miedema Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,219945.0,2025-04-05 08:46:00
+12977,724705,5,44503906,76,2,3660,61',0,0,Jess Park (Manchester City) Substitution at 61',Jess Park Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,229456.0,2025-01-13 05:36:05
+12977,724705,5,44863019,76,2,3660,61',0,0,Jess Park (Manchester City) Substitution at 61',Jess Park Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,229456.0,2025-04-05 08:46:00
+12977,724705,4,44503905,76,2,3660,61',0,0,Vivianne Miedema (Manchester City) Substitution at 61',Vivianne Miedema Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,390468.0,2025-01-13 05:36:05
+12977,724705,4,44863018,76,2,3660,61',0,0,Vivianne Miedema (Manchester City) Substitution at 61',Vivianne Miedema Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,390468.0,2025-04-05 08:46:00
+12977,724705,6,44503907,76,2,3660,61',0,0,Laia Aleixandri (Manchester City) Substitution at 61',Laia Aleixandri Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,353342.0,2025-01-13 05:36:05
+12977,724705,6,44863020,76,2,3660,61',0,0,Laia Aleixandri (Manchester City) Substitution at 61',Laia Aleixandri Substitution,19257,0.0,0.0,0.0,0.0,0.0,0.0,2,353342.0,2025-04-05 08:46:00
+12977,724705,7,44503908,76,2,3720,62',0,0,Ella Rutherford (Ipswich Town) Substitution at 62',Ella Rutherford Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,1,325578.0,2025-01-13 05:36:05
+12977,724705,7,44863021,76,2,3720,62',0,0,Ella Rutherford (Ipswich Town) Substitution at 62',Ella Rutherford Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,1,325578.0,2025-04-05 08:46:00
+12977,724705,7,44503908,76,2,3720,62',0,0,Ella Rutherford (Ipswich Town) Substitution at 62',Ella Rutherford Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,2,323464.0,2025-01-13 05:36:05
+12977,724705,7,44863021,76,2,3720,62',0,0,Ella Rutherford (Ipswich Town) Substitution at 62',Ella Rutherford Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,2,323464.0,2025-04-05 08:46:00
+12977,724705,8,44504048,76,2,4260,71',0,0,Lucy Watson (Ipswich Town) Substitution at 71',Lucy Watson Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,1,325840.0,2025-01-13 05:36:05
+12977,724705,8,44863022,76,2,4260,71',0,0,Lucy Watson (Ipswich Town) Substitution at 71',Lucy Watson Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,1,325840.0,2025-04-05 08:46:00
+12977,724705,8,44504048,76,2,4260,71',0,0,Lucy Watson (Ipswich Town) Substitution at 71',Lucy Watson Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,2,323455.0,2025-01-13 05:36:05
+12977,724705,8,44863022,76,2,4260,71',0,0,Lucy Watson (Ipswich Town) Substitution at 71',Lucy Watson Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,2,323455.0,2025-04-05 08:46:00
+12977,724705,9,44504081,70,2,4560,76',1,0,Vivianne Miedema (Manchester City) Goal at 76',Vivianne Miedema Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,219945.0,2025-01-13 05:36:05
+12977,724705,9,44863023,70,2,4560,76',1,0,Vivianne Miedema (Manchester City) Goal at 76',Vivianne Miedema Goal,19257,0.0,0.0,0.0,0.0,0.0,0.0,1,219945.0,2025-04-05 08:46:00
+12977,724705,12,44504276,76,2,5220,87',0,0,Eloise King (Ipswich Town) Substitution at 87',Eloise King Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,1,323461.0,2025-01-13 05:36:05
+12977,724705,12,44863026,76,2,5220,87',0,0,Eloise King (Ipswich Town) Substitution at 87',Eloise King Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,1,323461.0,2025-04-05 08:46:00
+12977,724705,11,44504275,76,2,5220,87',0,0,Angela Addison (Ipswich Town) Substitution at 87',Angela Addison Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,1,294270.0,2025-01-13 05:36:05
+12977,724705,11,44863025,76,2,5220,87',0,0,Angela Addison (Ipswich Town) Substitution at 87',Angela Addison Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,1,294270.0,2025-04-05 08:46:00
+12977,724705,10,44504274,76,2,5220,87',0,0,Isabella Fisher (Ipswich Town) Substitution at 87',Isabella Fisher Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,1,386643.0,2025-01-13 05:36:05
+12977,724705,10,44863024,76,2,5220,87',0,0,Isabella Fisher (Ipswich Town) Substitution at 87',Isabella Fisher Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,1,386643.0,2025-04-05 08:46:00
+12977,724705,12,44504276,76,2,5220,87',0,0,Eloise King (Ipswich Town) Substitution at 87',Eloise King Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,2,310224.0,2025-01-13 05:36:05
+12977,724705,12,44863026,76,2,5220,87',0,0,Eloise King (Ipswich Town) Substitution at 87',Eloise King Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,2,310224.0,2025-04-05 08:46:00
+12977,724705,10,44504274,76,2,5220,87',0,0,Isabella Fisher (Ipswich Town) Substitution at 87',Isabella Fisher Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,2,323462.0,2025-01-13 05:36:05
+12977,724705,10,44863024,76,2,5220,87',0,0,Isabella Fisher (Ipswich Town) Substitution at 87',Isabella Fisher Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,2,323462.0,2025-04-05 08:46:00
+12977,724705,11,44504275,76,2,5220,87',0,0,Angela Addison (Ipswich Town) Substitution at 87',Angela Addison Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,2,330577.0,2025-01-13 05:36:05
+12977,724705,11,44863025,76,2,5220,87',0,0,Angela Addison (Ipswich Town) Substitution at 87',Angela Addison Substitution,21068,0.0,0.0,0.0,0.0,0.0,0.0,2,330577.0,2025-04-05 08:46:00
+12977,724706,1,44499649,70,1,1380,23',1,0,Melvine Malard (Manchester United) Goal at 23',Melvine Malard Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,295670.0,2025-01-12 05:37:12
+12977,724706,3,44500253,76,2,3480,58',0,0,Celin Bizet (Manchester United) Substitution at 58',Celin Bizet Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-01-12 05:37:12
+12977,724706,2,44500252,76,2,3480,58',0,0,Anna Sandberg (Manchester United) Substitution at 58',Anna Sandberg Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,359233.0,2025-01-12 05:37:12
+12977,724706,2,44500252,76,2,3480,58',0,0,Anna Sandberg (Manchester United) Substitution at 58',Anna Sandberg Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,268536.0,2025-01-12 05:37:12
+12977,724706,3,44500253,76,2,3480,58',0,0,Celin Bizet (Manchester United) Substitution at 58',Celin Bizet Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,268325.0,2025-01-12 05:37:12
+12977,724706,4,44500254,76,2,3540,59',0,0,Rachel Williams (Manchester United) Substitution at 59',Rachel Williams Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,134423.0,2025-01-12 05:37:12
+12977,724706,4,44500254,76,2,3540,59',0,0,Rachel Williams (Manchester United) Substitution at 59',Rachel Williams Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,295670.0,2025-01-12 05:37:12
+12977,724706,5,44500312,76,2,3900,65',0,0,Rhianne Oakley (West Bromwich Albion) Substitution at 65',Rhianne Oakley Substitution,21058,0.0,0.0,0.0,0.0,0.0,0.0,1,358363.0,2025-01-12 05:37:12
+12977,724706,5,44500312,76,2,3900,65',0,0,Rhianne Oakley (West Bromwich Albion) Substitution at 65',Rhianne Oakley Substitution,21058,0.0,0.0,0.0,0.0,0.0,0.0,2,325585.0,2025-01-12 05:37:12
+12977,724706,6,44500313,76,2,3960,66',0,0,Ella Toone (Manchester United) Substitution at 66',Ella Toone Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,294255.0,2025-01-12 05:37:12
+12977,724706,7,44500314,76,2,3960,66',0,0,Aoife Mannion (Manchester United) Substitution at 66',Aoife Mannion Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,293411.0,2025-01-12 05:37:12
+12977,724706,6,44500313,76,2,3960,66',0,0,Ella Toone (Manchester United) Substitution at 66',Ella Toone Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,298669.0,2025-01-12 05:37:12
+12977,724706,7,44500314,76,2,3960,66',0,0,Aoife Mannion (Manchester United) Substitution at 66',Aoife Mannion Substitution,20061,0.0,0.0,0.0,0.0,0.0,0.0,2,267765.0,2025-01-12 05:37:12
+12977,724706,8,44500415,70,2,4620,77',1,0,Celin Bizet (Manchester United) Goal at 77',Celin Bizet Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-01-16 05:40:32
+12977,724706,9,44500432,70,2,4740,79',1,0,Rachel Williams (Manchester United) Goal at 79',Rachel Williams Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,134423.0,2025-01-12 05:37:12
+12977,724706,10,44500468,76,2,4800,80',0,0,Mariam Mahmood (West Bromwich Albion) Substitution at 80',Mariam Mahmood Substitution,21058,0.0,0.0,0.0,0.0,0.0,0.0,1,332929.0,2025-01-12 05:37:12
+12977,724706,11,44500469,76,2,4800,80',0,0,Simran Jhamat (West Bromwich Albion) Substitution at 80',Simran Jhamat Substitution,21058,0.0,0.0,0.0,0.0,0.0,0.0,1,323353.0,2025-01-12 05:37:12
+12977,724706,10,44500468,76,2,4800,80',0,0,Mariam Mahmood (West Bromwich Albion) Substitution at 80',Mariam Mahmood Substitution,21058,0.0,0.0,0.0,0.0,0.0,0.0,2,357815.0,2025-01-12 05:37:12
+12977,724706,11,44500469,76,2,4800,80',0,0,Simran Jhamat (West Bromwich Albion) Substitution at 80',Simran Jhamat Substitution,21058,0.0,0.0,0.0,0.0,0.0,0.0,2,355227.0,2025-01-12 05:37:12
+12977,724706,12,44500498,70,2,4980,83',1,0,Ella Toone (Manchester United) Goal at 83',Ella Toone Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,294255.0,2025-01-12 05:37:12
+12977,724706,13,44500559,76,2,5220,87',0,0,Marli Rhodes-Andrews (West Bromwich Albion) Substitution at 87',Marli Rhodes-Andrews Substitutio,21058,0.0,0.0,0.0,0.0,0.0,0.0,1,378421.0,2025-01-12 05:37:12
+12977,724706,13,44500559,76,2,5220,87',0,0,Marli Rhodes-Andrews (West Bromwich Albion) Substitution at 87',Marli Rhodes-Andrews Substitutio,21058,0.0,0.0,0.0,0.0,0.0,0.0,2,294601.0,2025-01-12 05:37:12
+12977,724706,14,44500564,70,2,5340,89',1,0,Celin Bizet (Manchester United) Goal at 89',Celin Bizet Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-01-12 05:37:12
+12977,724706,15,44500598,70,2,5400,90'+1',1,0,Rachel Williams (Manchester United) Goal at 91',Rachel Williams Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,134423.0,2025-01-12 05:37:12
+12977,724706,16,44500649,70,2,5400,90'+5',1,0,Celin Bizet (Manchester United) Goal at 95',Celin Bizet Goal,20061,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-01-12 05:37:12
+12977,724707,1,44503548,76,1,2640,44',0,0,Jasmine Mcquade (Newcastle United) Substitution at 44',Jasmine Mcquade Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,1,378461.0,2025-01-13 05:36:05
+12977,724707,1,44503548,76,1,2640,44',0,0,Jasmine Mcquade (Newcastle United) Substitution at 44',Jasmine Mcquade Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,2,301360.0,2025-01-13 05:36:05
+12977,724707,2,44503979,94,2,3840,64',0,0,Millie Chandarana (Nottingham Forest) Yellow Card at 64',Millie Chandarana Yellow Card,21070,0.0,0.0,0.0,0.0,0.0,0.0,1,327981.0,2025-01-13 05:36:05
+12977,724707,3,44504004,76,2,3900,65',0,0,Shania Hayles (Newcastle United) Substitution at 65',Shania Hayles Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,1,312455.0,2025-01-13 05:36:05
+12977,724707,3,44504004,76,2,3900,65',0,0,Shania Hayles (Newcastle United) Substitution at 65',Shania Hayles Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,2,310195.0,2025-01-13 05:36:05
+12977,724707,4,44504075,76,2,4260,71',0,0,Amy Sims (Nottingham Forest) Substitution at 71',Amy Sims Substitution,21070,0.0,0.0,0.0,0.0,0.0,0.0,1,378415.0,2025-01-13 05:36:05
+12977,724707,4,44504075,76,2,4260,71',0,0,Amy Sims (Nottingham Forest) Substitution at 71',Amy Sims Substitution,21070,0.0,0.0,0.0,0.0,0.0,0.0,2,323640.0,2025-01-13 05:36:05
+12977,724707,5,44504120,70,2,4560,76',1,0,Jasmine Mcquade (Newcastle United) Goal at 76',Jasmine Mcquade Goal,21076,0.0,0.0,0.0,0.0,0.0,0.0,1,378461.0,2025-01-13 05:36:05
+12977,724707,6,44504224,76,2,4860,81',0,0,Holly Manders (Nottingham Forest) Substitution at 81',Holly Manders Substitution,21070,0.0,0.0,0.0,0.0,0.0,0.0,1,326166.0,2025-01-13 05:36:05
+12977,724707,6,44504224,76,2,4860,81',0,0,Holly Manders (Nottingham Forest) Substitution at 81',Holly Manders Substitution,21070,0.0,0.0,0.0,0.0,0.0,0.0,2,261983.0,2025-01-13 05:36:05
+12977,724707,7,44504298,76,2,5100,85',0,0,Ava Chapman (Newcastle United) Substitution at 85',Ava Chapman Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,1,397107.0,2025-01-13 05:36:05
+12977,724707,7,44504298,76,2,5100,85',0,0,Ava Chapman (Newcastle United) Substitution at 85',Ava Chapman Substitution,21076,0.0,0.0,0.0,0.0,0.0,0.0,2,377624.0,2025-01-13 05:36:05
+12977,724707,8,44504409,94,2,5400,90'+3',0,0,Kate Longhurst (Nottingham Forest) Yellow Card at 93',Kate Longhurst Yellow Card,21070,0.0,0.0,0.0,0.0,0.0,0.0,1,312495.0,2025-01-13 05:36:05
+12977,724708,1,44516842,76,1,2700,45'+5',0,0,Annie Hutchings (Portsmouth) Substitution at 50',Annie Hutchings Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,1,350623.0,2025-01-16 05:40:32
+12977,724708,1,44516842,76,1,2700,45'+5',0,0,Annie Hutchings (Portsmouth) Substitution at 50',Annie Hutchings Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,2,377186.0,2025-01-16 05:40:32
+12977,724708,2,44517407,70,2,3000,50',1,0,Emma Jones (Portsmouth) Goal at 50',Emma Jones Goal,21064,0.0,0.0,0.0,0.0,0.0,0.0,1,262843.0,2025-01-16 05:40:32
+12977,724708,3,44517554,70,2,3300,55',1,0,Sophie Quirk (Portsmouth) Goal at 55',Sophie Quirk Goal,21064,0.0,0.0,0.0,0.0,0.0,0.0,1,299890.0,2025-01-16 05:40:32
+12977,724708,4,44517670,76,2,3720,62',0,0,Tia Primmer (Blackburn Rovers) Substitution at 62',Tia Primmer Substitution,21040,0.0,0.0,0.0,0.0,0.0,0.0,1,330548.0,2025-01-16 05:40:32
+12977,724708,6,44517672,76,2,3720,62',0,0,Farah Crompton (Blackburn Rovers) Substitution at 62',Farah Crompton Substitution,21040,0.0,0.0,0.0,0.0,0.0,0.0,1,326278.0,2025-01-16 05:40:32
+12977,724708,5,44517671,76,2,3720,62',0,0,Georgia Walters (Blackburn Rovers) Substitution at 62',Georgia Walters Substitution,21040,0.0,0.0,0.0,0.0,0.0,0.0,1,317624.0,2025-01-16 05:40:32
+12977,724708,4,44517670,76,2,3720,62',0,0,Tia Primmer (Blackburn Rovers) Substitution at 62',Tia Primmer Substitution,21040,0.0,0.0,0.0,0.0,0.0,0.0,2,397094.0,2025-01-16 05:40:32
+12977,724708,5,44517671,76,2,3720,62',0,0,Georgia Walters (Blackburn Rovers) Substitution at 62',Georgia Walters Substitution,21040,0.0,0.0,0.0,0.0,0.0,0.0,2,298405.0,2025-01-16 05:40:32
+12977,724708,6,44517672,76,2,3720,62',0,0,Farah Crompton (Blackburn Rovers) Substitution at 62',Farah Crompton Substitution,21040,0.0,0.0,0.0,0.0,0.0,0.0,2,374346.0,2025-01-16 05:40:32
+12977,724708,7,44517679,70,2,3780,63',1,0,Tia Primmer (Blackburn Rovers) Goal at 63',Tia Primmer Goal,21040,0.0,0.0,0.0,0.0,0.0,0.0,1,330548.0,2025-01-16 05:40:32
+12977,724708,8,44517726,76,2,4020,67',0,0,Lily Dent (Portsmouth) Substitution at 67',Lily Dent Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,1,379215.0,2025-01-16 05:40:32
+12977,724708,9,44517727,70,2,4020,67',1,0,Sophie Barker (Portsmouth) Goal at 67',Sophie Barker Goal,21064,0.0,0.0,0.0,0.0,0.0,0.0,1,323482.0,2025-01-16 05:40:32
+12977,724708,8,44517726,76,2,4020,67',0,0,Lily Dent (Portsmouth) Substitution at 67',Lily Dent Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,2,262843.0,2025-01-16 05:40:32
+12977,724708,10,44518039,76,2,4920,82',0,0,Lucy Newell (Blackburn Rovers) Substitution at 82',Lucy Newell Substitution,21040,0.0,0.0,0.0,0.0,0.0,0.0,1,358077.0,2025-01-16 05:40:32
+12977,724708,10,44518039,76,2,4920,82',0,0,Lucy Newell (Blackburn Rovers) Substitution at 82',Lucy Newell Substitution,21040,0.0,0.0,0.0,0.0,0.0,0.0,2,332338.0,2025-01-16 05:40:32
+12977,724708,11,44518118,94,2,5160,86',0,0,Jemima Dahou (Blackburn Rovers) Yellow Card at 86',Jemima Dahou Yellow Card,21040,0.0,0.0,0.0,0.0,0.0,0.0,1,334904.0,2025-01-16 05:40:32
+12977,724708,12,44518318,76,2,5400,90'+5',0,0,Ava Rowbotham (Portsmouth) Substitution at 95',Ava Rowbotham Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,1,323582.0,2025-01-16 05:40:32
+12977,724708,12,44518318,76,2,5400,90'+5',0,0,Ava Rowbotham (Portsmouth) Substitution at 95',Ava Rowbotham Substitution,21064,0.0,0.0,0.0,0.0,0.0,0.0,2,323596.0,2025-01-16 05:40:32
+12977,724709,1,44590732,97,1,180,3',1,0,Camila Sáez (West Ham United) Own Goal at 3',Camila Sáez Own Goal,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,264860.0,2025-01-30 14:50:51
+12977,724709,2,44590859,70,1,1080,18',1,0,Leanne Kiernan (Liverpool) Goal at 18',Leanne Kiernan Goal,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,287518.0,2025-01-30 14:50:51
+12977,724709,3,44591608,93,1,2280,38',0,0,Amber Tysiak (West Ham United) Red Card at 38',Amber Tysiak Red Card,19975,0.0,0.0,0.0,0.0,0.0,0.0,1,312251.0,2025-01-30 14:50:51
+12977,724709,4,44591832,76,1,2580,43',0,0,Shelina Zadorsky (West Ham United) Substitution at 43',Shelina Zadorsky Substitution,19975,0.0,0.0,0.0,0.0,0.0,0.0,1,235712.0,2025-01-30 14:50:51
+12977,724709,4,44591832,76,1,2580,43',0,0,Shelina Zadorsky (West Ham United) Substitution at 43',Shelina Zadorsky Substitution,19975,0.0,0.0,0.0,0.0,0.0,0.0,2,298775.0,2025-01-30 14:50:51
+12977,724709,5,44592552,76,2,2700,45',0,0,Sophie Román Haug (Liverpool) Substitution at 45',Sophie Román Haug Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,280992.0,2025-01-30 14:50:51
+12977,724709,6,44592553,76,2,2700,45',0,0,Lucy Parry (Liverpool) Substitution at 45',Lucy Parry Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,323518.0,2025-01-30 14:50:51
+12977,724709,6,44592553,76,2,2700,45',0,0,Lucy Parry (Liverpool) Substitution at 45',Lucy Parry Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,323520.0,2025-01-30 14:50:51
+12977,724709,5,44592552,76,2,2700,45',0,0,Sophie Román Haug (Liverpool) Substitution at 45',Sophie Román Haug Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,279337.0,2025-01-30 14:50:51
+12977,724709,7,44592563,70,2,2880,48',1,0,Grace Fisk (Liverpool) Goal at 48',Grace Fisk Goal,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,261669.0,2025-01-30 14:50:51
+12977,724709,9,44592593,76,2,3360,56',0,0,Cornelia Kapocs (Liverpool) Substitution at 56',Cornelia Kapocs Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,389652.0,2025-01-30 14:50:51
+12977,724709,8,44592592,76,2,3360,56',0,0,Julia Bartel (Liverpool) Substitution at 56',Julia Bartel Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,338551.0,2025-01-30 14:50:51
+12977,724709,11,44592595,76,2,3360,56',0,0,Kirsty Smith (West Ham United) Substitution at 56',Kirsty Smith Substitution,19975,0.0,0.0,0.0,0.0,0.0,0.0,1,257540.0,2025-01-30 14:50:51
+12977,724709,10,44592594,76,2,3360,56',0,0,Seraina Piubel (West Ham United) Substitution at 56',Seraina Piubel Substitution,19975,0.0,0.0,0.0,0.0,0.0,0.0,1,330350.0,2025-01-30 14:50:51
+12977,724709,8,44592592,76,2,3360,56',0,0,Julia Bartel (Liverpool) Substitution at 56',Julia Bartel Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,264581.0,2025-01-30 14:50:51
+12977,724709,10,44592594,76,2,3360,56',0,0,Seraina Piubel (West Ham United) Substitution at 56',Seraina Piubel Substitution,19975,0.0,0.0,0.0,0.0,0.0,0.0,2,188069.0,2025-01-30 14:50:51
+12977,724709,9,44592593,76,2,3360,56',0,0,Cornelia Kapocs (Liverpool) Substitution at 56',Cornelia Kapocs Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,287518.0,2025-01-30 14:50:51
+12977,724709,11,44592595,76,2,3360,56',0,0,Kirsty Smith (West Ham United) Substitution at 56',Kirsty Smith Substitution,19975,0.0,0.0,0.0,0.0,0.0,0.0,2,310225.0,2025-01-30 14:50:51
+12977,724709,12,44592856,76,2,3900,65',0,0,Zara Shaw (Liverpool) Substitution at 65',Zara Shaw Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,384503.0,2025-01-30 14:50:51
+12977,724709,12,44592856,76,2,3900,65',0,0,Zara Shaw (Liverpool) Substitution at 65',Zara Shaw Substitution,19971,0.0,0.0,0.0,0.0,0.0,0.0,2,314199.0,2025-01-30 14:50:51
+12977,724709,13,44592857,76,2,3960,66',0,0,Emma Harries (West Ham United) Substitution at 66',Emma Harries Substitution,19975,0.0,0.0,0.0,0.0,0.0,0.0,1,312486.0,2025-01-30 14:50:51
+12977,724709,14,44592858,76,2,3960,66',0,0,Dagný Brynjarsdóttir (West Ham United) Substitution at 66',Dagný Brynjarsdóttir Substitutio,19975,0.0,0.0,0.0,0.0,0.0,0.0,1,259752.0,2025-01-30 14:50:51
+12977,724709,15,44592859,70,2,3960,66',1,0,Lucy Parry (Liverpool) Goal at 66',Lucy Parry Goal,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,323518.0,2025-01-30 14:50:51
+12977,724709,14,44592858,76,2,3960,66',0,0,Dagný Brynjarsdóttir (West Ham United) Substitution at 66',Dagný Brynjarsdóttir Substitutio,19975,0.0,0.0,0.0,0.0,0.0,0.0,2,349057.0,2025-01-30 14:50:51
+12977,724709,13,44592857,76,2,3960,66',0,0,Emma Harries (West Ham United) Substitution at 66',Emma Harries Substitution,19975,0.0,0.0,0.0,0.0,0.0,0.0,2,287317.0,2025-01-30 14:50:51
+12977,724709,16,44593035,70,2,4200,70',1,0,Samantha Kerr (Liverpool) Goal at 70',Samantha Kerr Goal,19971,0.0,0.0,0.0,0.0,0.0,0.0,1,311039.0,2025-01-30 14:50:51
+12977,724710,1,44505174,70,1,2400,40',1,0,Mayra Ramírez (Chelsea) Goal at 40',Mayra Ramírez Goal,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,288680.0,2025-01-13 05:36:05
+12977,724710,4,44505624,76,2,2700,45',0,0,Niamh Charles (Chelsea) Substitution at 45',Niamh Charles Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,312480.0,2025-01-13 05:36:05
+12977,724710,2,44505320,98,1,2700,45'+3',1,0,Guro Reiten (Chelsea) Penalty - Scored at 48',Guro Reiten Penalty - Scored,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,257483.0,2025-01-13 05:36:05
+12977,724710,3,44505623,76,2,2700,45',0,0,Wieke Kaptein (Chelsea) Substitution at 45',Wieke Kaptein Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,315453.0,2025-01-13 05:36:05
+12977,724710,5,44505625,76,2,2700,45',0,0,Aggie Beever-Jones (Chelsea) Substitution at 45',Aggie Beever-Jones Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,313088.0,2025-01-13 05:36:05
+12977,724710,4,44505624,76,2,2700,45',0,0,Niamh Charles (Chelsea) Substitution at 45',Niamh Charles Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,295673.0,2025-01-13 05:36:05
+12977,724710,3,44505623,76,2,2700,45',0,0,Wieke Kaptein (Chelsea) Substitution at 45',Wieke Kaptein Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,261568.0,2025-01-13 05:36:05
+12977,724710,5,44505625,76,2,2700,45',0,0,Aggie Beever-Jones (Chelsea) Substitution at 45',Aggie Beever-Jones Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,294253.0,2025-01-13 05:36:05
+12977,724710,6,44505658,70,2,2880,48',1,0,Aggie Beever-Jones (Chelsea) Goal at 48',Aggie Beever-Jones Goal,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,313088.0,2025-01-13 05:36:05
+12977,724710,7,44505803,76,2,3300,55',0,0,Sjoeke Nüsken (Chelsea) Substitution at 55',Sjoeke Nüsken Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,314382.0,2025-01-13 05:36:05
+12977,724710,8,44505804,76,2,3300,55',0,0,Maika Hamano (Chelsea) Substitution at 55',Maika Hamano Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,351356.0,2025-01-13 05:36:05
+12977,724710,8,44505804,76,2,3300,55',0,0,Maika Hamano (Chelsea) Substitution at 55',Maika Hamano Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,288680.0,2025-01-13 05:36:05
+12977,724710,7,44505803,76,2,3300,55',0,0,Sjoeke Nüsken (Chelsea) Substitution at 55',Sjoeke Nüsken Substitution,19970,0.0,0.0,0.0,0.0,0.0,0.0,2,257545.0,2025-01-13 05:36:05
+12977,724710,9,44505953,76,2,3720,62',0,0,Sophie O'Rourke (Charlton Athletic) Substitution at 62',Sophie O'Rourke Substitution,21035,0.0,0.0,0.0,0.0,0.0,0.0,1,323507.0,2025-01-13 05:36:05
+12977,724710,9,44505953,76,2,3720,62',0,0,Sophie O'Rourke (Charlton Athletic) Substitution at 62',Sophie O'Rourke Substitution,21035,0.0,0.0,0.0,0.0,0.0,0.0,2,304858.0,2025-01-13 05:36:05
+12977,724710,10,44505954,76,2,3780,63',0,0,Atlanta Primus (Charlton Athletic) Substitution at 63',Atlanta Primus Substitution,21035,0.0,0.0,0.0,0.0,0.0,0.0,1,242903.0,2025-01-13 05:36:05
+12977,724710,10,44505954,76,2,3780,63',0,0,Atlanta Primus (Charlton Athletic) Substitution at 63',Atlanta Primus Substitution,21035,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-01-13 05:36:05
+12977,724710,11,44506150,70,2,4380,73',1,0,Niamh Charles (Chelsea) Goal at 73',Niamh Charles Goal,19970,0.0,0.0,0.0,0.0,0.0,0.0,1,312480.0,2025-01-13 05:36:05
+12977,724710,13,44506240,76,2,4560,76',0,0,Mary Bashford (Charlton Athletic) Substitution at 76',Mary Bashford Substitution,21035,0.0,0.0,0.0,0.0,0.0,0.0,1,332044.0,2025-01-13 05:36:05
+12977,724710,12,44506239,76,2,4560,76',0,0,Glória Siber (Charlton Athletic) Substitution at 76',Glória Siber Substitution,21035,0.0,0.0,0.0,0.0,0.0,0.0,1,358014.0,2025-01-13 05:36:05
+12977,724710,13,44506240,76,2,4560,76',0,0,Mary Bashford (Charlton Athletic) Substitution at 76',Mary Bashford Substitution,21035,0.0,0.0,0.0,0.0,0.0,0.0,2,214159.0,2025-01-13 05:36:05
+12977,724710,12,44506239,76,2,4560,76',0,0,Glória Siber (Charlton Athletic) Substitution at 76',Glória Siber Substitution,21035,0.0,0.0,0.0,0.0,0.0,0.0,2,312471.0,2025-01-13 05:36:05
+12977,724710,15,44506597,94,2,5400,90'+3',0,0,Sophie O'Rourke (Charlton Athletic) Yellow Card at 93',Sophie O'Rourke Yellow Card,21035,0.0,0.0,0.0,0.0,0.0,0.0,1,323507.0,2025-01-13 05:36:05
+12977,724710,14,44506575,76,2,5400,90',0,0,Janis Chime (Charlton Athletic) Substitution at 90',Janis Chime Substitution,21035,0.0,0.0,0.0,0.0,0.0,0.0,1,397522.0,2025-01-13 05:36:05
+12977,724710,14,44506575,76,2,5400,90',0,0,Janis Chime (Charlton Athletic) Substitution at 90',Janis Chime Substitution,21035,0.0,0.0,0.0,0.0,0.0,0.0,2,306041.0,2025-01-13 05:36:05
+12977,724711,1,44590726,70,1,360,6',1,0,Bruna Vilamala (Brighton & Hove Albion) Goal at 6',Bruna Vilamala Goal,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,305984.0,2025-01-30 14:50:51
+12977,724711,2,44590728,98,1,1140,19',1,0,Michelle Agyemang (Brighton & Hove Albion) Penalty - Scored at 19',Michelle Agyemang Penalty - Scor,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,350678.0,2025-01-30 14:50:51
+12977,724711,3,44590729,70,1,1260,21',1,0,Guro Bergsvand (Brighton & Hove Albion) Goal at 21',Guro Bergsvand Goal,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,213937.0,2025-01-30 14:50:51
+12977,724711,5,44591103,76,2,2700,45',0,0,Nikita Parris (Brighton & Hove Albion) Substitution at 45',Nikita Parris Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,246314.0,2025-01-30 14:50:51
+12977,724711,4,44591102,76,2,2700,45',0,0,Dejana Stefanovic (Brighton & Hove Albion) Substitution at 45',Dejana Stefanovic Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,339641.0,2025-01-30 14:50:51
+12977,724711,4,44591102,76,2,2700,45',0,0,Dejana Stefanovic (Brighton & Hove Albion) Substitution at 45',Dejana Stefanovic Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,2,314994.0,2025-01-30 14:50:51
+12977,724711,5,44591103,76,2,2700,45',0,0,Nikita Parris (Brighton & Hove Albion) Substitution at 45',Nikita Parris Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,2,350678.0,2025-01-30 14:50:51
+12977,724711,6,44591610,76,2,3480,58',0,0,Rachel McLauchlan (Brighton & Hove Albion) Substitution at 58',Rachel McLauchlan Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,257536.0,2025-01-30 14:50:51
+12977,724711,7,44591611,76,2,3480,58',0,0,Poppy Pattinson (Brighton & Hove Albion) Substitution at 58',Poppy Pattinson Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,294247.0,2025-01-30 14:50:51
+12977,724711,6,44591610,76,2,3480,58',0,0,Rachel McLauchlan (Brighton & Hove Albion) Substitution at 58',Rachel McLauchlan Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,2,219939.0,2025-01-30 14:50:51
+12977,724711,7,44591611,76,2,3480,58',0,0,Poppy Pattinson (Brighton & Hove Albion) Substitution at 58',Poppy Pattinson Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,2,305984.0,2025-01-30 14:50:51
+12977,724711,8,44591813,76,2,3720,62',0,0,Eleanor Doyle (Durham) Substitution at 62',Eleanor Doyle Substitution,21045,0.0,0.0,0.0,0.0,0.0,0.0,1,291236.0,2025-01-30 14:50:51
+12977,724711,8,44591813,76,2,3720,62',0,0,Eleanor Doyle (Durham) Substitution at 62',Eleanor Doyle Substitution,21045,0.0,0.0,0.0,0.0,0.0,0.0,2,323638.0,2025-01-30 14:50:51
+12977,724711,9,44591814,76,2,3780,63',0,0,Hannah Blake (Durham) Substitution at 63',Hannah Blake Substitution,21045,0.0,0.0,0.0,0.0,0.0,0.0,1,298744.0,2025-01-30 14:50:51
+12977,724711,10,44591815,76,2,3780,63',0,0,Kaila Novak (Durham) Substitution at 63',Kaila Novak Substitution,21045,0.0,0.0,0.0,0.0,0.0,0.0,1,318874.0,2025-01-30 14:50:51
+12977,724711,9,44591814,76,2,3780,63',0,0,Hannah Blake (Durham) Substitution at 63',Hannah Blake Substitution,21045,0.0,0.0,0.0,0.0,0.0,0.0,2,334903.0,2025-01-30 14:50:51
+12977,724711,10,44591815,76,2,3780,63',0,0,Kaila Novak (Durham) Substitution at 63',Kaila Novak Substitution,21045,0.0,0.0,0.0,0.0,0.0,0.0,2,325824.0,2025-01-30 14:50:51
+12977,724711,11,44591938,94,2,4020,67',0,0,Michaela Foster (Durham) Yellow Card at 67',Michaela Foster Yellow Card,21045,0.0,0.0,0.0,0.0,0.0,0.0,1,262321.0,2025-01-30 14:50:51
+12977,724711,12,44592075,70,2,4260,71',1,0,Hannah Blake (Durham) Goal at 71',Hannah Blake Goal,21045,0.0,0.0,0.0,0.0,0.0,0.0,1,298744.0,2025-01-30 14:50:51
+12977,724711,13,44592138,94,2,4320,72',0,0,Grace Ayre (Durham) Yellow Card at 72',Grace Ayre Yellow Card,21045,0.0,0.0,0.0,0.0,0.0,0.0,1,325822.0,2025-01-30 14:50:51
+12977,724711,14,44592304,76,2,4620,77',0,0,Ella Wilson (Durham) Substitution at 77',Ella Wilson Substitution,21045,0.0,0.0,0.0,0.0,0.0,0.0,1,355217.0,2025-01-30 14:50:51
+12977,724711,14,44592304,76,2,4620,77',0,0,Ella Wilson (Durham) Substitution at 77',Ella Wilson Substitution,21045,0.0,0.0,0.0,0.0,0.0,0.0,2,325822.0,2025-01-30 14:50:51
+12977,724711,15,44592477,76,2,4920,82',0,0,Madison Haley (Brighton & Hove Albion) Substitution at 82',Madison Haley Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,261578.0,2025-01-30 14:50:51
+12977,724711,15,44592477,76,2,4920,82',0,0,Madison Haley (Brighton & Hove Albion) Substitution at 82',Madison Haley Substitution,19976,0.0,0.0,0.0,0.0,0.0,0.0,2,313706.0,2025-01-30 14:50:51
+12977,724711,16,44592540,76,2,5040,84',0,0,Anna King (Durham) Substitution at 84',Anna King Substitution,21045,0.0,0.0,0.0,0.0,0.0,0.0,1,377623.0,2025-01-30 14:50:51
+12977,724711,16,44592540,76,2,5040,84',0,0,Anna King (Durham) Substitution at 84',Anna King Substitution,21045,0.0,0.0,0.0,0.0,0.0,0.0,2,323510.0,2025-01-30 14:50:51
+12977,724711,17,44592576,70,2,5400,90'+6',1,0,Nikita Parris (Brighton & Hove Albion) Goal at 96',Nikita Parris Goal,19976,0.0,0.0,0.0,0.0,0.0,0.0,1,246314.0,2025-01-30 14:50:51
+12977,724712,1,44507303,70,1,180,3',1,0,Rachel Daly (Aston Villa) Goal at 3',Rachel Daly Goal,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,248769.0,2025-01-13 05:36:05
+12977,724712,2,44507355,70,1,360,6',1,0,Gabi Nunes (Aston Villa) Goal at 6',Gabi Nunes Goal,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,257469.0,2025-01-13 05:36:05
+12977,724712,3,44507370,70,1,480,8',1,0,Rachel Daly (Aston Villa) Goal at 8',Rachel Daly Goal,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,248769.0,2025-01-13 05:36:05
+12977,724712,4,44507544,70,1,1380,23',1,0,Paula Tomás (Aston Villa) Goal at 23',Paula Tomás Goal,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,335782.0,2025-01-13 05:36:05
+12977,724712,5,44507592,70,1,1560,26',1,0,Gabi Nunes (Aston Villa) Goal at 26',Gabi Nunes Goal,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,257469.0,2025-01-13 05:36:05
+12977,724712,8,44507817,76,2,2700,45',0,0,Kirsty Hanson (Aston Villa) Substitution at 45',Kirsty Hanson Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,294252.0,2025-01-13 05:36:05
+12977,724712,9,44507818,76,2,2700,45',0,0,Jill Baijings (Aston Villa) Substitution at 45',Jill Baijings Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,317630.0,2025-01-13 05:36:05
+12977,724712,7,44507816,76,2,2700,45',0,0,Chasity Grant (Aston Villa) Substitution at 45',Chasity Grant Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,309858.0,2025-01-13 05:36:05
+12977,724712,6,44507815,76,2,2700,45',0,0,Sophia Poor (Aston Villa) Substitution at 45',Sophia Poor Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,350626.0,2025-01-13 05:36:05
+12977,724712,8,44507817,76,2,2700,45',0,0,Kirsty Hanson (Aston Villa) Substitution at 45',Kirsty Hanson Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,294246.0,2025-01-13 05:36:05
+12977,724712,9,44507818,76,2,2700,45',0,0,Jill Baijings (Aston Villa) Substitution at 45',Jill Baijings Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,248769.0,2025-01-13 05:36:05
+12977,724712,6,44507815,76,2,2700,45',0,0,Sophia Poor (Aston Villa) Substitution at 45',Sophia Poor Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,209364.0,2025-01-13 05:36:05
+12977,724712,7,44507816,76,2,2700,45',0,0,Chasity Grant (Aston Villa) Substitution at 45',Chasity Grant Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,219769.0,2025-01-13 05:36:05
+12977,724712,10,44507832,70,2,2760,46',1,0,Chasity Grant (Aston Villa) Goal at 46',Chasity Grant Goal,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,309858.0,2025-01-13 05:36:05
+12977,724712,11,44507859,70,2,3360,56',1,0,Kirsty Hanson (Aston Villa) Goal at 56',Kirsty Hanson Goal,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,294252.0,2025-01-13 05:36:05
+12977,724712,13,44507863,76,2,3480,58',0,0,Annys Turner (Bristol Rovers) Substitution at 58',Annys Turner Substitution,22099,0.0,0.0,0.0,0.0,0.0,0.0,1,398692.0,2025-01-13 05:36:05
+12977,724712,12,44507862,76,2,3480,58',0,0,Emily Bayliss (Bristol Rovers) Substitution at 58',Emily Bayliss Substitution,22099,0.0,0.0,0.0,0.0,0.0,0.0,1,398679.0,2025-01-13 05:36:05
+12977,724712,13,44507863,76,2,3480,58',0,0,Annys Turner (Bristol Rovers) Substitution at 58',Annys Turner Substitution,22099,0.0,0.0,0.0,0.0,0.0,0.0,2,286888.0,2025-01-13 05:36:05
+12977,724712,12,44507862,76,2,3480,58',0,0,Emily Bayliss (Bristol Rovers) Substitution at 58',Emily Bayliss Substitution,22099,0.0,0.0,0.0,0.0,0.0,0.0,2,398672.0,2025-01-13 05:36:05
+12977,724712,14,44507885,70,2,3900,65',1,0,Gabi Nunes (Aston Villa) Goal at 65',Gabi Nunes Goal,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,257469.0,2025-01-13 05:36:05
+12977,724712,15,44507893,76,2,3960,66',0,0,Noelle Maritz (Aston Villa) Substitution at 66',Noelle Maritz Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,220024.0,2025-01-13 05:36:05
+12977,724712,15,44507893,76,2,3960,66',0,0,Noelle Maritz (Aston Villa) Substitution at 66',Noelle Maritz Substitution,20707,0.0,0.0,0.0,0.0,0.0,0.0,2,262611.0,2025-01-13 05:36:05
+12977,724712,16,44507899,76,2,4080,68',0,0,Emison Evans (Bristol Rovers) Substitution at 68',Emison Evans Substitution,22099,0.0,0.0,0.0,0.0,0.0,0.0,1,398678.0,2025-01-13 05:36:05
+12977,724712,16,44507899,76,2,4080,68',0,0,Emison Evans (Bristol Rovers) Substitution at 68',Emison Evans Substitution,22099,0.0,0.0,0.0,0.0,0.0,0.0,2,323356.0,2025-01-13 05:36:05
+12977,724712,17,44507926,94,2,4500,75',0,0,Emily Bayliss (Bristol Rovers) Yellow Card at 75',Emily Bayliss Yellow Card,22099,0.0,0.0,0.0,0.0,0.0,0.0,1,398679.0,2025-01-13 05:36:05
+12977,724712,18,44507952,70,2,4800,80',1,0,Jill Baijings (Aston Villa) Goal at 80',Jill Baijings Goal,20707,0.0,0.0,0.0,0.0,0.0,0.0,1,317630.0,2025-01-13 05:36:05
+12977,724712,19,44507960,76,2,4980,83',0,0,Abigail Todd (Bristol Rovers) Substitution at 83',Abigail Todd Substitution,22099,0.0,0.0,0.0,0.0,0.0,0.0,1,398691.0,2025-01-13 05:36:05
+12977,724712,19,44507960,76,2,4980,83',0,0,Abigail Todd (Bristol Rovers) Substitution at 83',Abigail Todd Substitution,22099,0.0,0.0,0.0,0.0,0.0,0.0,2,398677.0,2025-01-13 05:36:05
+12977,724712,20,44507961,76,2,5040,84',0,0,Connie Short (Bristol Rovers) Substitution at 84',Connie Short Substitution,22099,0.0,0.0,0.0,0.0,0.0,0.0,1,398680.0,2025-01-13 05:36:05
+12977,724712,20,44507961,76,2,5040,84',0,0,Connie Short (Bristol Rovers) Substitution at 84',Connie Short Substitution,22099,0.0,0.0,0.0,0.0,0.0,0.0,2,334770.0,2025-01-13 05:36:05
+12977,724713,1,44590731,70,1,180,3',1,0,Stina Blackstenius (Arsenal) Goal at 3',Stina Blackstenius Goal,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,240274.0,2025-01-30 14:50:51
+12977,724713,2,44590735,70,1,480,8',1,0,Frida Maanum (Arsenal) Goal at 8',Frida Maanum Goal,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,259331.0,2025-01-30 14:50:51
+12977,724713,3,44590790,70,1,960,16',1,0,Stina Blackstenius (Arsenal) Goal at 16',Stina Blackstenius Goal,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,240274.0,2025-01-30 14:50:51
+12977,724713,4,44591101,70,1,1500,25',1,0,Beth Mead (Arsenal) Goal at 25',Beth Mead Goal,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,280982.0,2025-01-30 14:50:51
+12977,724713,5,44591287,76,1,1500,25',0,0,Jessica Woolley (Bristol City) Substitution at 25',Jessica Woolley Substitution,19974,0.0,0.0,0.0,0.0,0.0,0.0,1,318763.0,2025-01-30 14:50:51
+12977,724713,5,44591287,76,1,1500,25',0,0,Jessica Woolley (Bristol City) Substitution at 25',Jessica Woolley Substitution,19974,0.0,0.0,0.0,0.0,0.0,0.0,2,324783.0,2025-01-30 14:50:51
+12977,724713,7,44592490,76,2,2700,45',0,0,Leah Williamson (Arsenal) Substitution at 45',Leah Williamson Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,268100.0,2025-01-30 14:50:51
+12977,724713,6,44592489,76,2,2700,45',0,0,Emily Fox (Arsenal) Substitution at 45',Emily Fox Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,263684.0,2025-01-30 14:50:51
+12977,724713,8,44592543,76,2,2700,45',0,0,Jess Simpson (Bristol City) Substitution at 45',Jess Simpson Substitution,19974,0.0,0.0,0.0,0.0,0.0,0.0,1,351331.0,2025-01-30 14:50:51
+12977,724713,7,44592490,76,2,2700,45',0,0,Leah Williamson (Arsenal) Substitution at 45',Leah Williamson Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,2,288907.0,2025-01-30 14:50:51
+12977,724713,8,44592543,76,2,2700,45',0,0,Jess Simpson (Bristol City) Substitution at 45',Jess Simpson Substitution,19974,0.0,0.0,0.0,0.0,0.0,0.0,2,318763.0,2025-01-30 14:50:51
+12977,724713,6,44592489,76,2,2700,45',0,0,Emily Fox (Arsenal) Substitution at 45',Emily Fox Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,2,219822.0,2025-01-30 14:50:51
+12977,724713,9,44592568,70,2,3240,54',1,0,Beth Mead (Arsenal) Goal at 54',Beth Mead Goal,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,280982.0,2025-01-30 14:50:51
+12977,724713,10,44592599,76,2,3540,59',0,0,Lia Wälti (Arsenal) Substitution at 59',Lia Wälti Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,220015.0,2025-01-30 14:50:51
+12977,724713,10,44592599,76,2,3540,59',0,0,Lia Wälti (Arsenal) Substitution at 59',Lia Wälti Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,2,257473.0,2025-01-30 14:50:51
+12977,724713,12,44592623,76,2,3660,61',0,0,Lia O'Leary (Bristol City) Substitution at 61',Lia O'Leary Substitution,19974,0.0,0.0,0.0,0.0,0.0,0.0,1,398541.0,2025-01-30 14:50:51
+12977,724713,13,44592624,76,2,3660,61',0,0,Amalie Thestrup (Bristol City) Substitution at 61',Amalie Thestrup Substitution,19974,0.0,0.0,0.0,0.0,0.0,0.0,1,324776.0,2025-01-30 14:50:51
+12977,724713,11,44592622,76,2,3660,61',0,0,Tianna Teisar (Bristol City) Substitution at 61',Tianna Teisar Substitution,19974,0.0,0.0,0.0,0.0,0.0,0.0,1,355219.0,2025-01-30 14:50:51
+12977,724713,13,44592624,76,2,3660,61',0,0,Amalie Thestrup (Bristol City) Substitution at 61',Amalie Thestrup Substitution,19974,0.0,0.0,0.0,0.0,0.0,0.0,2,259308.0,2025-01-30 14:50:51
+12977,724713,11,44592622,76,2,3660,61',0,0,Tianna Teisar (Bristol City) Substitution at 61',Tianna Teisar Substitution,19974,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-01-30 14:50:51
+12977,724713,12,44592623,76,2,3660,61',0,0,Lia O'Leary (Bristol City) Substitution at 61',Lia O'Leary Substitution,19974,0.0,0.0,0.0,0.0,0.0,0.0,2,325620.0,2025-01-30 14:50:51
+12977,724713,15,44593327,76,2,4740,79',0,0,Amanda Ilestedt (Arsenal) Substitution at 79',Amanda Ilestedt Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,188004.0,2025-01-30 14:50:51
+12977,724713,14,44593326,76,2,4740,79',0,0,Alessia Russo (Arsenal) Substitution at 79',Alessia Russo Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,1,263683.0,2025-01-30 14:50:51
+12977,724713,14,44593326,76,2,4740,79',0,0,Alessia Russo (Arsenal) Substitution at 79',Alessia Russo Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,2,280982.0,2025-01-30 14:50:51
+12977,724713,15,44593327,76,2,4740,79',0,0,Amanda Ilestedt (Arsenal) Substitution at 79',Amanda Ilestedt Substitution,19973,0.0,0.0,0.0,0.0,0.0,0.0,2,263682.0,2025-01-30 14:50:51

@@ -1,0 +1,105 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+12939,730107,1,44774167,70,Vangelis Pavlidis (Benfica) Goal at 39',Vangelis Pavlidis Goal,1,2340,39',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,220819,Vangelis Pavlidis,2025-02-28 05:55:18
+12939,730107,2,44774464,76,Fran Navarro (Braga) Substitution at 45',Fran Navarro Substitution,2,2700,45',2994,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,285434,Fran Navarro,2025-02-28 05:55:18
+12939,730107,3,44774465,76,Robson Bambu (Braga) Substitution at 45',Robson Bambu Substitution,2,2700,45',2994,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,269746,Robson Bambu,2025-03-01 05:51:17
+12939,730107,2,44774464,76,Fran Navarro (Braga) Substitution at 45',Fran Navarro Substitution,2,2700,45',2994,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,301262,Amine El Ouazzani,2025-02-28 05:55:18
+12939,730107,3,44774465,76,Robson Bambu (Braga) Substitution at 45',Robson Bambu Substitution,2,2700,45',2994,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,301417,Bright Arrey-Mbi,2025-03-01 05:51:17
+12939,730107,4,44774475,94,Álvaro Carreras (Benfica) Yellow Card at 46',Álvaro Carreras Yellow Card,2,2760,46',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,310637,Álvaro Carreras,2025-02-28 05:55:18
+12939,730107,5,44774548,76,Ismaël Gharbi (Braga) Substitution at 57',Ismaël Gharbi Substitution,2,3420,57',2994,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,317473,Ismaël Gharbi,2025-02-28 05:55:18
+12939,730107,5,44774548,76,Ismaël Gharbi (Braga) Substitution at 57',Ismaël Gharbi Substitution,2,3420,57',2994,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,50959,João Moutinho,2025-02-28 05:55:18
+12939,730107,7,44774602,76,Andrea Belotti (Benfica) Substitution at 66',Andrea Belotti Substitution,2,3960,66',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,170755,Andrea Belotti,2025-02-28 05:55:18
+12939,730107,6,44774601,76,Leandro Barreiro (Benfica) Substitution at 66',Leandro Barreiro Substitution,2,3960,66',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,271854,Leandro Barreiro,2025-02-28 05:55:18
+12939,730107,6,44774601,76,Leandro Barreiro (Benfica) Substitution at 66',Leandro Barreiro Substitution,2,3960,66',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,329691,Tomás Araújo,2025-02-28 05:55:18
+12939,730107,7,44774602,76,Andrea Belotti (Benfica) Substitution at 66',Andrea Belotti Substitution,2,3960,66',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,183640,Bruma,2025-02-28 05:55:18
+12939,730107,8,44774606,94,Ricardo Horta (Braga) Yellow Card at 68',Ricardo Horta Yellow Card,2,4080,68',2994,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,184423,Ricardo Horta,2025-02-28 05:55:18
+12939,730107,9,44774661,94,Fran Navarro (Braga) Yellow Card at 78',Fran Navarro Yellow Card,2,4680,78',2994,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,285434,Fran Navarro,2025-02-28 05:55:18
+12939,730107,10,44774662,76,Zeki Amdouni (Benfica) Substitution at 79',Zeki Amdouni Substitution,2,4740,79',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,320757,Zeki Amdouni,2025-02-28 05:55:18
+12939,730107,11,44774663,76,Andreas Schjelderup (Benfica) Substitution at 79',Andreas Schjelderup Substitution,2,4740,79',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,313415,Andreas Schjelderup,2025-02-28 05:55:18
+12939,730107,10,44774662,76,Zeki Amdouni (Benfica) Substitution at 79',Zeki Amdouni Substitution,2,4740,79',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,220819,Vangelis Pavlidis,2025-02-28 05:55:18
+12939,730107,11,44774663,76,Andreas Schjelderup (Benfica) Substitution at 79',Andreas Schjelderup Substitution,2,4740,79',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,329653,Samuel Dahl,2025-02-28 05:55:18
+12939,730107,12,44774688,76,Gabriel Martínez (Braga) Substitution at 84',Gabriel Martínez Substitution,2,5040,84',2994,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,98573,Gabriel Martínez,2025-02-28 05:55:18
+12939,730107,13,44774689,76,Diego Rodrigues (Braga) Substitution at 84',Diego Rodrigues Substitution,2,5040,84',2994,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,398386,Diego Rodrigues,2025-02-28 05:55:18
+12939,730107,12,44774688,76,Gabriel Martínez (Braga) Substitution at 84',Gabriel Martínez Substitution,2,5040,84',2994,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,184423,Ricardo Horta,2025-02-28 05:55:18
+12939,730107,13,44774689,76,Diego Rodrigues (Braga) Substitution at 84',Diego Rodrigues Substitution,2,5040,84',2994,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,240111,Uros Racic,2025-02-28 05:55:18
+12939,730107,14,44774727,94,Robson Bambu (Braga) Yellow Card at 91',Robson Bambu Yellow Card,2,5400,90'+1',2994,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,269746,Robson Bambu,2025-03-01 05:51:17
+12939,730107,15,44774728,76,João Rêgo (Benfica) Substitution at 92',João Rêgo Substitution,2,5400,90'+2',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,384419,João Rêgo,2025-03-01 05:51:17
+12939,730107,16,44774732,94,Nicolás Otamendi (Benfica) Yellow Card at 94',Nicolás Otamendi Yellow Card,2,5400,90'+4',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,119289,Nicolás Otamendi,2025-02-28 05:55:18
+12939,730107,15,44774728,76,João Rêgo (Benfica) Substitution at 92',João Rêgo Substitution,2,5400,90'+2',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,306789,Kerem Aktürkoglu,2025-03-01 05:51:17
+12939,730108,1,44776980,94,Conrad Harder (Sporting CP) Yellow Card at 7',Conrad Harder Yellow Card,1,420,7',2250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,362794,Conrad Harder,2025-02-28 05:55:18
+12939,730108,2,44777059,94,Santiago García (Gil Vicente) Yellow Card at 31',Santiago García Yellow Card,1,1860,31',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,332042,Santiago García,2025-02-28 05:55:18
+12939,730108,3,44777104,94,Zé Carlos (Gil Vicente) Yellow Card at 39',Zé Carlos Yellow Card,1,2340,39',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,304634,Zé Carlos,2025-02-28 05:55:18
+12939,730108,4,44777194,76,Viktor Gyökeres (Sporting CP) Substitution at 45',Viktor Gyökeres Substitution,2,2700,45',2250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,258906,Viktor Gyökeres,2025-02-28 05:55:18
+12939,730108,4,44777194,76,Viktor Gyökeres (Sporting CP) Substitution at 45',Viktor Gyökeres Substitution,2,2700,45',2250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,362794,Conrad Harder,2025-02-28 05:55:18
+12939,730108,5,44777227,76,Carlos Eduardo Borges Parente (Gil Vicente) Substitution at 61',Carlos Eduardo Borges Parente Su,2,3660,61',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,350244,Carlos Eduardo Borges Parente,2025-02-28 05:55:18
+12939,730108,5,44777227,76,Carlos Eduardo Borges Parente (Gil Vicente) Substitution at 61',Carlos Eduardo Borges Parente Su,2,3660,61',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,77266,Jorge Aguirre,2025-02-28 05:55:18
+12939,730108,6,44777247,94,Alexandre Brito (Sporting CP) Yellow Card at 65',Alexandre Brito Yellow Card,2,3900,65',2250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,397119,Alexandre Brito,2025-02-28 05:55:18
+12939,730108,7,44777251,70,Zeno Debast (Sporting CP) Goal at 68',Zeno Debast Goal,2,4080,68',2250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,314473,Zeno Debast,2025-02-28 05:55:18
+12939,730108,8,44777267,93,Zé Carlos (Gil Vicente) Red Card at 73',Zé Carlos Red Card,2,4380,73',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,304634,Zé Carlos,2025-02-28 05:55:18
+12939,730108,9,44777293,76,João Marques (Gil Vicente) Substitution at 77',João Marques Substitution,2,4620,77',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,347073,João Marques,2025-02-28 05:55:18
+12939,730108,10,44777294,76,Sergio Bermejo Lillo (Gil Vicente) Substitution at 77',Sergio Bermejo Lillo Substitutio,2,4620,77',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279658,Sergio Bermejo Lillo,2025-02-28 05:55:18
+12939,730108,10,44777294,76,Sergio Bermejo Lillo (Gil Vicente) Substitution at 77',Sergio Bermejo Lillo Substitutio,2,4620,77',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,283859,Kanya Fujimoto,2025-02-28 05:55:18
+12939,730108,9,44777293,76,João Marques (Gil Vicente) Substitution at 77',João Marques Substitution,2,4620,77',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,332042,Santiago García,2025-02-28 05:55:18
+12939,730108,11,44777295,94,Josué (Gil Vicente) Yellow Card at 79',Josué Yellow Card,2,4740,79',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,181862,Josué,2025-02-28 05:55:18
+12939,730108,13,44777311,76,Geny Catamo (Sporting CP) Substitution at 82',Geny Catamo Substitution,2,4920,82',2250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,296969,Geny Catamo,2025-02-28 05:55:18
+12939,730108,12,44777310,76,Kauã Oliveira (Sporting CP) Substitution at 82',Kauã Oliveira Substitution,2,4920,82',2250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,392210,Kauã Oliveira,2025-02-28 05:55:18
+12939,730108,12,44777310,76,Kauã Oliveira (Sporting CP) Substitution at 82',Kauã Oliveira Substitution,2,4920,82',2250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,397119,Alexandre Brito,2025-02-28 05:55:18
+12939,730108,13,44777311,76,Geny Catamo (Sporting CP) Substitution at 82',Geny Catamo Substitution,2,4920,82',2250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333209,Iván Fresneda,2025-02-28 05:55:18
+12939,730108,14,44777332,94,Zeno Debast (Sporting CP) Yellow Card at 87',Zeno Debast Yellow Card,2,5220,87',2250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,314473,Zeno Debast,2025-02-28 05:55:18
+12939,730108,15,44777333,76,Mohamed Bamba (Gil Vicente) Substitution at 87',Mohamed Bamba Substitution,2,5220,87',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,345529,Mohamed Bamba,2025-02-28 05:55:18
+12939,730108,16,44777334,76,Jonathan Mutombo (Gil Vicente) Substitution at 87',Jonathan Mutombo Substitution,2,5220,87',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,355033,Jonathan Mutombo,2025-02-28 05:55:18
+12939,730108,15,44777333,76,Mohamed Bamba (Gil Vicente) Substitution at 87',Mohamed Bamba Substitution,2,5220,87',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,286654,Jesús Castillo,2025-02-28 05:55:18
+12939,730108,16,44777334,76,Jonathan Mutombo (Gil Vicente) Substitution at 87',Jonathan Mutombo Substitution,2,5220,87',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,181862,Josué,2025-02-28 05:55:18
+12939,730108,17,44777359,76,Afonso Bastardo Moreira (Sporting CP) Substitution at 93',Afonso Bastardo Moreira Substitu,2,5400,90'+3',2250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,361258,Afonso Bastardo Moreira,2025-02-28 05:55:18
+12939,730108,18,44777379,94,Sergio Bermejo Lillo (Gil Vicente) Yellow Card at 99',Sergio Bermejo Lillo Yellow Card,2,5400,90'+9',3699,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279658,Sergio Bermejo Lillo,2025-02-28 05:55:18
+12939,730108,17,44777359,76,Afonso Bastardo Moreira (Sporting CP) Substitution at 93',Afonso Bastardo Moreira Substitu,2,5400,90'+3',2250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,376274,Geovany Quenda,2025-02-28 05:55:18
+12939,730109,1,44768295,94,Jorge Silva (Tirsense) Yellow Card at 9',Jorge Silva Yellow Card,1,540,9',21703,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,222741,Jorge Silva,2025-02-26 05:50:00
+12939,730109,2,44768830,94,Franco Almara (O Elvas) Yellow Card at 43',Franco Almara Yellow Card,1,2580,43',22066,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400685,Franco Almara,2025-02-26 05:50:00
+12939,730109,3,44768913,70,Junior Franco (Tirsense) Goal at 47',Junior Franco Goal,1,2700,45'+2',21703,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,351523,Junior Franco,2025-02-26 05:50:00
+12939,730109,4,44769259,76,Philemon Baffour (O Elvas) Substitution at 45',Philemon Baffour Substitution,2,2700,45',22066,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,318679,Philemon Baffour,2025-02-26 05:50:00
+12939,730109,4,44769259,76,Philemon Baffour (O Elvas) Substitution at 45',Philemon Baffour Substitution,2,2700,45',22066,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,392808,Babatude Segbenu Pinponsu,2025-02-26 05:50:00
+12939,730109,5,44769440,70,Daniel Rodrigues (Tirsense) Goal at 53',Daniel Rodrigues Goal,2,3180,53',21703,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,352427,Daniel Rodrigues,2025-02-26 05:50:00
+12939,730109,6,44769789,76,Luís Dias (O Elvas) Substitution at 64',Luís Dias Substitution,2,3840,64',22066,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400698,Luís Dias,2025-02-26 05:50:00
+12939,730109,6,44769789,76,Luís Dias (O Elvas) Substitution at 64',Luís Dias Substitution,2,3840,64',22066,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400686,João Bandeira,2025-02-26 05:50:00
+12939,730109,7,44769790,76,Henrique Silva (O Elvas) Substitution at 65',Henrique Silva Substitution,2,3900,65',22066,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,354061,Henrique Silva,2025-02-26 05:50:00
+12939,730109,7,44769790,76,Henrique Silva (O Elvas) Substitution at 65',Henrique Silva Substitution,2,3900,65',22066,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400694,Clésio Gomes,2025-02-26 05:50:00
+12939,730109,8,44769895,76,Giovanny Morais (Tirsense) Substitution at 72',Giovanny Morais Substitution,2,4320,72',21703,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400707,Giovanny Morais,2025-02-26 05:50:00
+12939,730109,9,44769896,76,Alex Reis (Tirsense) Substitution at 72',Alex Reis Substitution,2,4320,72',21703,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388103,Alex Reis,2025-02-26 05:50:00
+12939,730109,8,44769895,76,Giovanny Morais (Tirsense) Substitution at 72',Giovanny Morais Substitution,2,4320,72',21703,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,398003,Bernardo Dias Mesquita,2025-02-26 05:50:00
+12939,730109,9,44769896,76,Alex Reis (Tirsense) Substitution at 72',Alex Reis Substitution,2,4320,72',21703,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,218679,Julio Estevao Alves de Melo,2025-02-26 05:50:00
+12939,730109,10,44770050,76,Edu Vieira (O Elvas) Substitution at 79',Edu Vieira Substitution,2,4740,79',22066,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400699,Edu Vieira,2025-02-26 05:50:00
+12939,730109,11,44770051,76,Gonçalo Cabral (O Elvas) Substitution at 79',Gonçalo Cabral Substitution,2,4740,79',22066,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,374304,Gonçalo Cabral,2025-02-26 05:50:00
+12939,730109,10,44770050,76,Edu Vieira (O Elvas) Substitution at 79',Edu Vieira Substitution,2,4740,79',22066,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400685,Franco Almara,2025-02-26 05:50:00
+12939,730109,11,44770051,76,Gonçalo Cabral (O Elvas) Substitution at 79',Gonçalo Cabral Substitution,2,4740,79',22066,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400696,Harruna Iddriss,2025-02-26 05:50:00
+12939,730109,12,44770052,94,George Lucas Vieira Da Silva (O Elvas) Yellow Card at 81',George Lucas Vieira Da Silva Yel,2,4860,81',22066,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,398745,George Lucas Vieira Da Silva,2025-02-26 05:50:00
+12939,730109,13,44770109,76,Tulio (Tirsense) Substitution at 86',Tulio Substitution,2,5160,86',21703,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,354085,Tulio,2025-02-26 05:50:00
+12939,730109,14,44770110,76,Rui Maia (Tirsense) Substitution at 86',Rui Maia Substitution,2,5160,86',21703,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400687,Rui Maia,2025-02-26 05:50:00
+12939,730109,13,44770109,76,Tulio (Tirsense) Substitution at 86',Tulio Substitution,2,5160,86',21703,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,352358,Bruno Carvalho,2025-02-26 05:50:00
+12939,730109,14,44770110,76,Rui Maia (Tirsense) Substitution at 86',Rui Maia Substitution,2,5160,86',21703,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400706,Fontini,2025-02-26 05:50:00
+12939,730109,15,44770183,76,Gonçalo Cardoso (Tirsense) Substitution at 93',Gonçalo Cardoso Substitution,2,5400,90'+3',21703,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400689,Gonçalo Cardoso,2025-02-26 05:50:00
+12939,730109,15,44770183,76,Gonçalo Cardoso (Tirsense) Substitution at 93',Gonçalo Cardoso Substitution,2,5400,90'+3',21703,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,352427,Daniel Rodrigues,2025-02-26 05:50:00
+12940,723750,1,44511540,70,Tómané (SC Farense) Goal at 7',Tómané Goal,1,420,7',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,151321,Tómané,2025-01-16 05:40:17
+12940,723750,2,44512156,76,André Seruca (SC Farense) Substitution at 34',André Seruca Substitution,1,2040,34',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,351548,André Seruca,2025-01-16 05:40:17
+12940,723750,2,44512156,76,André Seruca (SC Farense) Substitution at 34',André Seruca Substitution,1,2040,34',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,169992,Neto,2025-01-16 05:40:17
+12940,723750,3,44512368,76,Zeki Amdouni (Benfica) Substitution at 40',Zeki Amdouni Substitution,1,2400,40',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,320757,Zeki Amdouni,2025-01-16 05:40:17
+12940,723750,3,44512368,76,Zeki Amdouni (Benfica) Substitution at 40',Zeki Amdouni Substitution,1,2400,40',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,108223,Ángel Di María,2025-01-16 05:40:17
+12940,723750,4,44512369,94,Raul (SC Farense) Yellow Card at 41',Raul Yellow Card,1,2460,41',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,201704,Raul,2025-01-16 05:40:17
+12940,723750,5,44512664,94,Tomás Ribeiro (SC Farense) Yellow Card at 49',Tomás Ribeiro Yellow Card,1,2700,45'+4',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,295853,Tomás Ribeiro,2025-01-16 05:40:17
+12940,723750,6,44513710,70,Andreas Schjelderup (Benfica) Goal at 56',Andreas Schjelderup Goal,2,3360,56',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,313415,Andreas Schjelderup,2025-01-16 05:40:17
+12940,723750,7,44513745,70,Arthur Cabral (Benfica) Goal at 58',Arthur Cabral Goal,2,3480,58',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,224103,Arthur Cabral,2025-01-16 05:40:17
+12940,723750,8,44513806,70,Alexander Bah (Benfica) Goal at 62',Alexander Bah Goal,2,3720,62',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,265944,Alexander Bah,2025-01-16 05:40:17
+12940,723750,9,44513890,76,Darío Poveda (SC Farense) Substitution at 66',Darío Poveda Substitution,2,3960,66',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,250929,Darío Poveda,2025-01-16 05:40:17
+12940,723750,10,44513891,76,Elves Baldé (SC Farense) Substitution at 66',Elves Baldé Substitution,2,3960,66',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,272584,Elves Baldé,2025-01-16 05:40:17
+12940,723750,11,44513892,76,Jaime Pinto (SC Farense) Substitution at 66',Jaime Pinto Substitution,2,3960,66',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,233173,Jaime Pinto,2025-01-16 05:40:17
+12940,723750,10,44513891,76,Elves Baldé (SC Farense) Substitution at 66',Elves Baldé Substitution,2,3960,66',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,177746,Marco Matias,2025-01-16 05:40:17
+12940,723750,11,44513892,76,Jaime Pinto (SC Farense) Substitution at 66',Jaime Pinto Substitution,2,3960,66',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,151321,Tómané,2025-01-16 05:40:17
+12940,723750,9,44513890,76,Darío Poveda (SC Farense) Substitution at 66',Darío Poveda Substitution,2,3960,66',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,241303,Mehdi Merghem,2025-01-16 05:40:17
+12940,723750,12,44513952,76,Vangelis Pavlidis (Benfica) Substitution at 75',Vangelis Pavlidis Substitution,2,4500,75',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,220819,Vangelis Pavlidis,2025-01-16 05:40:17
+12940,723750,13,44513953,76,Kerem Aktürkoglu (Benfica) Substitution at 75',Kerem Aktürkoglu Substitution,2,4500,75',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,306789,Kerem Aktürkoglu,2025-01-16 05:40:17
+12940,723750,12,44513952,76,Vangelis Pavlidis (Benfica) Substitution at 75',Vangelis Pavlidis Substitution,2,4500,75',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,224103,Arthur Cabral,2025-01-16 05:40:17
+12940,723750,13,44513953,76,Kerem Aktürkoglu (Benfica) Substitution at 75',Kerem Aktürkoglu Substitution,2,4500,75',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,313415,Andreas Schjelderup,2025-01-16 05:40:17
+12940,723750,14,44513968,76,Filipe Soares (SC Farense) Substitution at 77',Filipe Soares Substitution,2,4620,77',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,183972,Filipe Soares,2025-01-16 05:40:17
+12940,723750,14,44513968,76,Filipe Soares (SC Farense) Substitution at 77',Filipe Soares Substitution,2,4620,77',20740,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,351548,André Seruca,2025-01-16 05:40:17
+12940,723750,15,44513999,76,Adrian Bajrami (Benfica) Substitution at 88',Adrian Bajrami Substitution,2,5280,88',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,338057,Adrian Bajrami,2025-01-16 05:40:17
+12940,723750,16,44514000,76,Benjamín Rollheiser (Benfica) Substitution at 88',Benjamín Rollheiser Substitution,2,5280,88',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,269813,Benjamín Rollheiser,2025-01-16 05:40:17
+12940,723750,15,44513999,76,Adrian Bajrami (Benfica) Substitution at 88',Adrian Bajrami Substitution,2,5280,88',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,310637,Álvaro Carreras,2025-01-16 05:40:17
+12940,723750,16,44514000,76,Benjamín Rollheiser (Benfica) Substitution at 88',Benjamín Rollheiser Substitution,2,5280,88',1929,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,212900,Fredrik Aursnes,2025-01-16 05:40:17

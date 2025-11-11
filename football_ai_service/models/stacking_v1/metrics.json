@@ -1,0 +1,84 @@
+{
+  "xgboost": {
+    "validation": {
+      "1x2": {
+        "accuracy": 0.6626766840697822,
+        "log_loss": 1.0501485979584984
+      },
+      "ou25": {
+        "accuracy": 0.7691328154845282,
+        "log_loss": 0.4359696896557604,
+        "roc_auc": 0.8678570788279019
+      },
+      "btts": {
+        "accuracy": 0.7797020247039348,
+        "log_loss": 0.38560664897821967,
+        "roc_auc": 0.8967974750830909
+      }
+    },
+    "test": {
+      "1x2": {
+        "accuracy": 0.6490174370329366,
+        "log_loss": 1.1695419777513982
+      },
+      "ou25": {
+        "accuracy": 0.7624965402712427,
+        "log_loss": 0.4460186577458203,
+        "roc_auc": 0.861911667139562
+      },
+      "btts": {
+        "accuracy": 0.7737337392748409,
+        "log_loss": 0.38039333105508666,
+        "roc_auc": 0.8962176602769952
+      }
+    }
+  },
+  "logistic": {
+    "test": {
+      "1x2": {
+        "accuracy": 0.6455300304456131,
+        "log_loss": 4.414794808301954
+      },
+      "ou25": {
+        "accuracy": 0.7632438416828121,
+        "log_loss": 0.8311177524177815,
+        "roc_auc": 0.8660493536384684
+      },
+      "btts": {
+        "accuracy": 0.7741212288956546,
+        "log_loss": 0.6709507687549296,
+        "roc_auc": 0.8962519548301312
+      }
+    }
+  },
+  "comparison": [
+    {
+      "Task": "1X2",
+      "Weighted_Accuracy": 0.6549681704954332,
+      "Stacking_Accuracy": 0.6490174370329366,
+      "Accuracy_Improvement": -0.005950733462496638,
+      "Weighted_LogLoss": 0.8103863752434308,
+      "Stacking_LogLoss": 1.1695419777513982,
+      "LogLoss_Improvement": -0.3591556025079674
+    },
+    {
+      "Task": "OU25",
+      "Weighted_Accuracy": 0.7606974813174647,
+      "Stacking_Accuracy": 0.7624965402712427,
+      "Accuracy_Improvement": 0.0017990589537779655,
+      "Weighted_LogLoss": 0.49942301333010086,
+      "Stacking_LogLoss": 0.4460186577458203,
+      "LogLoss_Improvement": 0.05340435558428058
+    },
+    {
+      "Task": "BTTS",
+      "Weighted_Accuracy": 0.7757265430390258,
+      "Stacking_Accuracy": 0.7737337392748409,
+      "Accuracy_Improvement": -0.0019928037641848695,
+      "Weighted_LogLoss": 0.4465652526471632,
+      "Stacking_LogLoss": 0.38039333105508666,
+      "LogLoss_Improvement": 0.06617192159207652
+    }
+  ],
+  "training_date": "2025-11-11T12:18:04.198743"
+}

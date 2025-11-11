@@ -1,0 +1,55 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13371,735806,1,45306633,94,1,1620,27',0,0,Christian Conteh (TSV Eintracht Braunschweig) Yellow Card at 27',Christian Conteh Yellow Card,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,288371,2025-05-24 04:58:00
+13371,735806,2,45306857,70,2,2940,49',1,0,Lino Tempelmann (TSV Eintracht Braunschweig) Goal at 49',Lino Tempelmann Goal,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,268127,2025-05-24 04:58:00
+13371,735806,3,45306893,70,2,3660,61',1,0,Marvin Rittmüller (TSV Eintracht Braunschweig) Goal at 61',Marvin Rittmüller Goal,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,306060,2025-05-24 04:58:00
+13371,735806,4,45306895,76,2,3780,63',0,0,Fabio Di-Michele-Sanchez (TSV Eintracht Braunschweig) Substitution at 63',Fabio Di-Michele-Sanchez Substit,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,343950,2025-05-24 04:58:00
+13371,735806,4,45306895,76,2,3780,63',0,0,Fabio Di-Michele-Sanchez (TSV Eintracht Braunschweig) Substitution at 63',Fabio Di-Michele-Sanchez Substit,3067,0.0,0.0,0.0,0.0,0.0,0.0,2,288371,2025-05-24 04:58:00
+13371,735806,5,45306897,76,2,3900,65',0,0,Tim Civeja (Saarbrücken) Substitution at 65',Tim Civeja Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,290632,2025-05-24 04:58:00
+13371,735806,6,45306898,76,2,3900,65',0,0,Sebastian Vasiliadis (Saarbrücken) Substitution at 65',Sebastian Vasiliadis Substitutio,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,231688,2025-05-24 04:58:00
+13371,735806,6,45306898,76,2,3900,65',0,0,Sebastian Vasiliadis (Saarbrücken) Substitution at 65',Sebastian Vasiliadis Substitutio,18741,0.0,0.0,0.0,0.0,0.0,0.0,2,154077,2025-05-24 04:58:00
+13371,735806,5,45306897,76,2,3900,65',0,0,Tim Civeja (Saarbrücken) Substitution at 65',Tim Civeja Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,2,222769,2025-05-24 04:58:00
+13371,735806,8,45306902,76,2,4020,67',0,0,Levente Szabo (TSV Eintracht Braunschweig) Substitution at 67',Levente Szabo Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,305191,2025-05-24 04:58:00
+13371,735806,7,45306901,76,2,4020,67',0,0,Fabio Kaufmann (TSV Eintracht Braunschweig) Substitution at 67',Fabio Kaufmann Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,189552,2025-05-24 04:58:00
+13371,735806,8,45306902,76,2,4020,67',0,0,Levente Szabo (TSV Eintracht Braunschweig) Substitution at 67',Levente Szabo Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,2,136593,2025-05-24 04:58:00
+13371,735806,7,45306901,76,2,4020,67',0,0,Fabio Kaufmann (TSV Eintracht Braunschweig) Substitution at 67',Fabio Kaufmann Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,2,306060,2025-05-24 04:58:00
+13371,735806,9,45306965,76,2,4920,82',0,0,Patrick Schmidt (Saarbrücken) Substitution at 82',Patrick Schmidt Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,122430,2025-05-24 04:58:00
+13371,735806,9,45306965,76,2,4920,82',0,0,Patrick Schmidt (Saarbrücken) Substitution at 82',Patrick Schmidt Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,2,270265,2025-05-24 04:58:00
+13371,735806,10,45306969,76,2,5100,85',0,0,Walid Ould-Chikh (TSV Eintracht Braunschweig) Substitution at 85',Walid Ould-Chikh Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,306433,2025-05-24 04:58:00
+13371,735806,11,45306979,76,2,5100,85',0,0,Richmond Tachie (TSV Eintracht Braunschweig) Substitution at 85',Richmond Tachie Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,306495,2025-05-24 04:58:00
+13371,735806,10,45306969,76,2,5100,85',0,0,Walid Ould-Chikh (TSV Eintracht Braunschweig) Substitution at 85',Walid Ould-Chikh Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,2,364592,2025-05-24 04:58:00
+13371,735806,10,45306969,76,2,5100,85',0,0,Walid Ould-Chikh (TSV Eintracht Braunschweig) Substitution at 85',Walid Ould-Chikh Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,2,199877,2025-05-24 04:58:00
+13371,735806,11,45306979,76,2,5100,85',0,0,Richmond Tachie (TSV Eintracht Braunschweig) Substitution at 85',Richmond Tachie Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,2,291849,2025-05-24 04:58:00
+13371,735806,12,45307011,94,2,5340,89',0,0,Sebastian Vasiliadis (Saarbrücken) Yellow Card at 89',Sebastian Vasiliadis Yellow Card,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,231688,2025-05-24 04:58:00
+13371,735806,13,45307044,94,2,5400,90'+4',0,0,Sven Sonnenberg (Saarbrücken) Yellow Card at 94',Sven Sonnenberg Yellow Card,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,231189,2025-05-24 04:58:00
+13371,735806,14,45307045,94,2,5400,90'+4',0,0,Levente Szabo (TSV Eintracht Braunschweig) Yellow Card at 94',Levente Szabo Yellow Card,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,305191,2025-05-24 04:58:00
+13371,735807,1,45326799,94,1,2280,38',0,0,Dominik Becker (Saarbrücken) Yellow Card at 38',Dominik Becker Yellow Card,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,265930,2025-05-28 04:50:58
+13371,735807,2,45326800,94,1,2580,43',0,0,Philip Fahrner (Saarbrücken) Yellow Card at 43',Philip Fahrner Yellow Card,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,388175,2025-05-28 04:50:58
+13371,735807,4,45326802,76,2,2700,45',0,0,Elijah Krahn (Saarbrücken) Substitution at 45',Elijah Krahn Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,331637,2025-05-28 04:50:58
+13371,735807,3,45326801,76,2,2700,45',0,0,Levente Szabo (TSV Eintracht Braunschweig) Substitution at 45',Levente Szabo Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,305191,2025-05-28 04:50:58
+13371,735807,3,45326801,76,2,2700,45',0,0,Levente Szabo (TSV Eintracht Braunschweig) Substitution at 45',Levente Szabo Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,2,136593,2025-05-28 04:50:58
+13371,735807,4,45326802,76,2,2700,45',0,0,Elijah Krahn (Saarbrücken) Substitution at 45',Elijah Krahn Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,2,388175,2025-05-28 04:50:58
+13371,735807,5,45326804,94,2,3600,60',0,0,Calogero Rizzuto (Saarbrücken) Yellow Card at 60',Calogero Rizzuto Yellow Card,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,221559,2025-05-28 04:50:58
+13371,735807,6,45326805,76,2,3660,61',0,0,Fabio Di-Michele-Sanchez (TSV Eintracht Braunschweig) Substitution at 61',Fabio Di-Michele-Sanchez Substit,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,343950,2025-05-28 04:50:58
+13371,735807,6,45326805,76,2,3660,61',0,0,Fabio Di-Michele-Sanchez (TSV Eintracht Braunschweig) Substitution at 61',Fabio Di-Michele-Sanchez Substit,3067,0.0,0.0,0.0,0.0,0.0,0.0,2,288371,2025-05-28 04:50:58
+13371,735807,7,45326807,76,2,3840,64',0,0,Tim Civeja (Saarbrücken) Substitution at 64',Tim Civeja Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,290632,2025-05-28 04:50:58
+13371,735807,9,45326809,76,2,3840,64',0,0,Patrick Schmidt (Saarbrücken) Substitution at 64',Patrick Schmidt Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,122430,2025-05-28 04:50:58
+13371,735807,8,45326808,76,2,3840,64',0,0,Kai Brunker (Saarbrücken) Substitution at 64',Kai Brunker Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,270265,2025-05-28 04:50:58
+13371,735807,7,45326807,76,2,3840,64',0,0,Tim Civeja (Saarbrücken) Substitution at 64',Tim Civeja Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,2,231688,2025-05-28 04:50:58
+13371,735807,9,45326809,76,2,3840,64',0,0,Patrick Schmidt (Saarbrücken) Substitution at 64',Patrick Schmidt Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,2,265930,2025-05-28 04:50:58
+13371,735807,8,45326808,76,2,3840,64',0,0,Kai Brunker (Saarbrücken) Substitution at 64',Kai Brunker Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,2,222769,2025-05-28 04:50:58
+13371,735807,10,45326810,98,2,3960,66',1,0,Florian Krüger (Saarbrücken) Penalty - Scored at 66',Florian Krüger Penalty - Scored,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,277660,2025-05-28 04:50:58
+13371,735807,11,45326814,76,2,4560,76',0,0,Fabio Kaufmann (TSV Eintracht Braunschweig) Substitution at 76',Fabio Kaufmann Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,189552,2025-05-28 04:50:58
+13371,735807,12,45326815,76,2,4560,76',0,0,Richmond Tachie (TSV Eintracht Braunschweig) Substitution at 76',Richmond Tachie Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,306495,2025-05-28 04:50:58
+13371,735807,11,45326814,76,2,4560,76',0,0,Fabio Kaufmann (TSV Eintracht Braunschweig) Substitution at 76',Fabio Kaufmann Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,2,306060,2025-05-28 04:50:58
+13371,735807,12,45326815,76,2,4560,76',0,0,Richmond Tachie (TSV Eintracht Braunschweig) Substitution at 76',Richmond Tachie Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,2,364592,2025-05-28 04:50:58
+13371,735807,12,45326815,76,2,4560,76',0,0,Richmond Tachie (TSV Eintracht Braunschweig) Substitution at 76',Richmond Tachie Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,2,199877,2025-05-28 04:50:58
+13371,735807,13,45326821,70,2,4980,83',1,0,Kai Brunker (Saarbrücken) Goal at 83',Kai Brunker Goal,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,270265,2025-05-28 04:50:58
+13371,735807,15,45326828,76,3,5400,90',0,0,Sidi Sané (TSV Eintracht Braunschweig) Substitution at 90',Sidi Sané Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,346632,2025-05-28 04:50:58
+13371,735807,14,45326827,93,2,5400,90'+1',0,0,Calogero Rizzuto (Saarbrücken) Red Card at 91',Calogero Rizzuto Red Card,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,221559,2025-05-28 04:50:58
+13371,735807,15,45326828,76,3,5400,90',0,0,Sidi Sané (TSV Eintracht Braunschweig) Substitution at 90',Sidi Sané Substitution,3067,0.0,0.0,0.0,0.0,0.0,0.0,2,290759,2025-05-28 04:50:58
+13371,735807,16,45326830,76,3,5880,98',0,0,Lasse Wilhelm (Saarbrücken) Substitution at 98',Lasse Wilhelm Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,377594,2025-05-28 04:50:58
+13371,735807,16,45326830,76,3,5880,98',0,0,Lasse Wilhelm (Saarbrücken) Substitution at 98',Lasse Wilhelm Substitution,18741,0.0,0.0,0.0,0.0,0.0,0.0,2,231189,2025-05-28 04:50:58
+13371,735807,17,45326831,94,3,6300,105'+1',0,0,Kai Brunker (Saarbrücken) Yellow Card at 106',Kai Brunker Yellow Card,18741,0.0,0.0,0.0,0.0,0.0,0.0,1,270265,2025-05-28 04:50:58
+13371,735807,18,45326832,70,3,6300,105'+2',1,0,Fabio Di-Michele-Sanchez (TSV Eintracht Braunschweig) Goal at 107',Fabio Di-Michele-Sanchez Goal,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,343950,2025-05-28 04:50:58
+13371,735807,19,45326833,94,4,6420,107',0,0,Levente Szabo (TSV Eintracht Braunschweig) Yellow Card at 107',Levente Szabo Yellow Card,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,305191,2025-05-28 04:50:58
+13371,735807,20,45326835,70,4,7200,120',1,0,Rayan Philippe (TSV Eintracht Braunschweig) Goal at 120',Rayan Philippe Goal,3067,0.0,0.0,0.0,0.0,0.0,0.0,1,291849,2025-05-28 04:50:58

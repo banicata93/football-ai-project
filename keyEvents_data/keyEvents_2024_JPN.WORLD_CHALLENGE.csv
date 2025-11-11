@@ -1,0 +1,54 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12553,702424,1,43456439,70,1,540,9',1,0,Yuya Osako (Vissel Kobe) Goal at 9',Yuya Osako Goal,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,133286,2024-07-28 11:53:02
+12553,702424,2,43456440,70,1,960,16',1,0,Pedro Porro (Tottenham Hotspur) Goal at 16',Pedro Porro Goal,367,0.0,0.0,0.0,0.0,0.0,0.0,1,268533,2024-07-28 11:53:02
+12553,702424,3,43456441,94,1,1620,27',0,0,Ryuho Kikuchi (Vissel Kobe) Yellow Card at 27',Ryuho Kikuchi Yellow Card,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,302698,2024-07-28 11:53:02
+12553,702424,4,43456442,76,2,2700,45',0,0,Brandon Austin (Tottenham Hotspur) Substitution at 45',Brandon Austin Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,259942,2024-07-28 11:53:02
+12553,702424,6,43456444,76,2,2700,45',0,0,Oliver Skipp (Tottenham Hotspur) Substitution at 45',Oliver Skipp Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,261448,2024-07-28 11:53:02
+12553,702424,12,43456450,76,2,2700,45',0,0,Lucas Bergvall (Tottenham Hotspur) Substitution at 45',Lucas Bergvall Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,356379,2024-07-28 11:53:02
+12553,702424,11,43456449,76,2,2700,45',0,0,Jean Patric  (Vissel Kobe) Substitution at 45',Jean Patric  Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,275753,2024-07-28 11:53:02
+12553,702424,10,43456448,76,2,2700,45',0,0,Daiju Sasaki (Vissel Kobe) Substitution at 45',Daiju Sasaki Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,271391,2024-07-28 11:53:02
+12553,702424,7,43456445,76,2,2700,45',0,0,Yuki Honda (Vissel Kobe) Substitution at 45',Yuki Honda Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,184849,2024-07-28 11:53:02
+12553,702424,13,43456451,76,2,2700,45',0,0,Jamie Donley (Tottenham Hotspur) Substitution at 45',Jamie Donley Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,347313,2024-07-28 11:53:02
+12553,702424,8,43456446,76,2,2700,45',0,0,Takuya Iwanami (Vissel Kobe) Substitution at 45',Takuya Iwanami Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,202096,2024-07-28 11:53:02
+12553,702424,5,43456443,76,2,2700,45',0,0,Powell Obinna Obi (Vissel Kobe) Substitution at 45',Powell Obinna Obi Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,274276,2024-07-28 11:53:02
+12553,702424,9,43456447,76,2,2700,45',0,0,Tetsushi Yamakawa (Vissel Kobe) Substitution at 45',Tetsushi Yamakawa Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,302696,2024-07-28 11:53:02
+12553,702424,10,43456448,76,2,2700,45',0,0,Daiju Sasaki (Vissel Kobe) Substitution at 45',Daiju Sasaki Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,2,133286,2024-07-28 11:53:02
+12553,702424,12,43456450,76,2,2700,45',0,0,Lucas Bergvall (Tottenham Hotspur) Substitution at 45',Lucas Bergvall Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,194450,2024-07-28 11:53:02
+12553,702424,6,43456444,76,2,2700,45',0,0,Oliver Skipp (Tottenham Hotspur) Substitution at 45',Oliver Skipp Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,232810,2024-07-28 11:53:02
+12553,702424,9,43456447,76,2,2700,45',0,0,Tetsushi Yamakawa (Vissel Kobe) Substitution at 45',Tetsushi Yamakawa Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,2,267844,2024-07-28 11:53:02
+12553,702424,5,43456443,76,2,2700,45',0,0,Powell Obinna Obi (Vissel Kobe) Substitution at 45',Powell Obinna Obi Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,2,253648,2024-07-28 11:53:02
+12553,702424,13,43456451,76,2,2700,45',0,0,Jamie Donley (Tottenham Hotspur) Substitution at 45',Jamie Donley Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,219599,2024-07-28 11:53:02
+12553,702424,13,43456451,76,2,2700,45',0,0,Jamie Donley (Tottenham Hotspur) Substitution at 45',Jamie Donley Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,388514,2024-07-28 11:53:02
+12553,702424,7,43456445,76,2,2700,45',0,0,Yuki Honda (Vissel Kobe) Substitution at 45',Yuki Honda Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,2,153739,2024-07-28 11:53:02
+12553,702424,11,43456449,76,2,2700,45',0,0,Jean Patric  (Vissel Kobe) Substitution at 45',Jean Patric  Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,2,313263,2024-07-28 11:53:02
+12553,702424,4,43456442,76,2,2700,45',0,0,Brandon Austin (Tottenham Hotspur) Substitution at 45',Brandon Austin Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,204082,2024-07-28 11:53:02
+12553,702424,8,43456446,76,2,2700,45',0,0,Takuya Iwanami (Vissel Kobe) Substitution at 45',Takuya Iwanami Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,2,202090,2024-07-28 11:53:02
+12553,702424,13,43456451,76,2,2700,45',0,0,Jamie Donley (Tottenham Hotspur) Substitution at 45',Jamie Donley Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,6327,2024-07-28 11:53:02
+12553,702424,14,43456452,70,2,2880,48',1,0,Son Heung-Min (Tottenham Hotspur) Goal at 48',Son Heung-Min Goal,367,0.0,0.0,0.0,0.0,0.0,0.0,1,149945,2024-07-28 11:53:02
+12553,702424,15,43456454,76,2,3600,60',0,0,Mikey Moore (Tottenham Hotspur) Substitution at 60',Mikey Moore Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,365332,2024-07-28 11:53:02
+12553,702424,15,43456454,76,2,3600,60',0,0,Mikey Moore (Tottenham Hotspur) Substitution at 60',Mikey Moore Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,291307,2024-07-28 11:53:02
+12553,702424,16,43456455,76,2,3660,61',0,0,Manor Solomon (Tottenham Hotspur) Substitution at 61',Manor Solomon Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,257256,2024-07-28 11:53:02
+12553,702424,16,43456455,76,2,3660,61',0,0,Manor Solomon (Tottenham Hotspur) Substitution at 61',Manor Solomon Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,149945,2024-07-28 11:53:02
+12553,702424,17,43456456,70,2,3840,64',1,0,Jean Patric  (Vissel Kobe) Goal at 64',Jean Patric  Goal,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,275753,2024-07-28 11:53:02
+12553,702424,18,43456459,76,2,3840,64',0,0,Niina Tominaga (Vissel Kobe) Substitution at 64',Niina Tominaga Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,346727,2024-07-28 11:53:02
+12553,702424,18,43456459,76,2,3840,64',0,0,Niina Tominaga (Vissel Kobe) Substitution at 64',Niina Tominaga Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,2,297241,2024-07-28 11:53:02
+12553,702424,21,43456460,76,2,3960,66',0,0,Djed Spence (Tottenham Hotspur) Substitution at 66',Djed Spence Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,267711,2024-07-28 11:53:02
+12553,702424,22,43456461,76,2,3960,66',0,0,Ashley Phillips (Tottenham Hotspur) Substitution at 66',Ashley Phillips Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,273628,2024-07-28 11:53:02
+12553,702424,23,43456462,76,2,3960,66',0,0,Alfie Devine (Tottenham Hotspur) Substitution at 66',Alfie Devine Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,306013,2024-07-28 11:53:02
+12553,702424,19,43456457,76,2,3960,66',0,0,George Abbott (Tottenham Hotspur) Substitution at 66',George Abbott Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,348265,2024-07-28 11:53:02
+12553,702424,20,43456458,76,2,3960,66',0,0,Will Lankshear (Tottenham Hotspur) Substitution at 66',Will Lankshear Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,349181,2024-07-28 11:53:02
+12553,702424,20,43456458,76,2,3960,66',0,0,Will Lankshear (Tottenham Hotspur) Substitution at 66',Will Lankshear Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,246844,2024-07-28 11:53:02
+12553,702424,21,43456460,76,2,3960,66',0,0,Djed Spence (Tottenham Hotspur) Substitution at 66',Djed Spence Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,297337,2024-07-28 11:53:02
+12553,702424,22,43456461,76,2,3960,66',0,0,Ashley Phillips (Tottenham Hotspur) Substitution at 66',Ashley Phillips Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,328050,2024-07-28 11:53:02
+12553,702424,23,43456462,76,2,3960,66',0,0,Alfie Devine (Tottenham Hotspur) Substitution at 66',Alfie Devine Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,272695,2024-07-28 11:53:02
+12553,702424,19,43456457,76,2,3960,66',0,0,George Abbott (Tottenham Hotspur) Substitution at 66',George Abbott Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,268533,2024-07-28 11:53:02
+12553,702424,24,43456463,76,2,4380,73',0,0,Mitsuki Hidaka (Vissel Kobe) Substitution at 73',Mitsuki Hidaka Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,339744,2024-07-28 11:53:02
+12553,702424,24,43456463,76,2,4380,73',0,0,Mitsuki Hidaka (Vissel Kobe) Substitution at 73',Mitsuki Hidaka Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,2,379613,2024-07-28 11:53:02
+12553,702424,25,43456464,94,2,4560,76',0,0,Ashley Phillips (Tottenham Hotspur) Yellow Card at 76',Ashley Phillips Yellow Card,367,0.0,0.0,0.0,0.0,0.0,0.0,1,273628,2024-07-28 11:53:02
+12553,702424,26,43456465,76,2,4980,83',0,0,Kento Hamasaki (Vissel Kobe) Substitution at 83',Kento Hamasaki Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,388059,2024-07-28 11:53:02
+12553,702424,26,43456465,76,2,4980,83',0,0,Kento Hamasaki (Vissel Kobe) Substitution at 83',Kento Hamasaki Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,2,224053,2024-07-28 11:53:02
+12553,702424,27,43456467,70,2,5280,88',1,0,Mikey Moore (Tottenham Hotspur) Goal at 88',Mikey Moore Goal,367,0.0,0.0,0.0,0.0,0.0,0.0,1,365332,2024-07-28 11:53:02
+12553,702424,28,43456468,76,2,5340,89',0,0,Shogo Terasaka (Vissel Kobe) Substitution at 89',Shogo Terasaka Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,347543,2024-07-28 11:53:02
+12553,702424,29,43456469,76,2,5340,89',0,0,Justin Homma (Vissel Kobe) Substitution at 89',Justin Homma Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,1,362957,2024-07-28 11:53:02
+12553,702424,29,43456469,76,2,5340,89',0,0,Justin Homma (Vissel Kobe) Substitution at 89',Justin Homma Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,2,237065,2024-07-28 11:53:02
+12553,702424,28,43456468,76,2,5340,89',0,0,Shogo Terasaka (Vissel Kobe) Substitution at 89',Shogo Terasaka Substitution,7477,0.0,0.0,0.0,0.0,0.0,0.0,2,302698,2024-07-28 11:53:02

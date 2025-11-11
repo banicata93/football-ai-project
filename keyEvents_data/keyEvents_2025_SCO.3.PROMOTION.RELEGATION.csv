@@ -1,0 +1,17 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13332,735636,1,45210207,70,1,1020,17',1,0,Tommy Goss (Annan Athletic) Goal at 17',Tommy Goss Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,306142,2025-05-07 04:56:00
+13332,735636,2,45210227,70,1,1320,22',1,0,Ryan Sargent (Elgin City) Goal at 22',Ryan Sargent Goal,419,0.0,0.0,0.0,0.0,0.0,0.0,1,266928,2025-05-07 04:56:00
+13332,735636,3,45210228,70,1,1380,23',1,0,Max Kilsby (Annan Athletic) Goal at 23',Max Kilsby Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,310608,2025-05-07 04:56:00
+13332,735636,4,45210230,70,1,1560,26',1,0,Tommy Muir (Annan Athletic) Goal at 26',Tommy Muir Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,231464,2025-05-07 04:56:00
+13332,735636,5,45210248,76,1,2040,34',0,0,Dylan Gavin (Elgin City) Substitution at 34',Dylan Gavin Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,1,310333,2025-05-07 04:56:00
+13332,735636,5,45210248,76,1,2040,34',0,0,Dylan Gavin (Elgin City) Substitution at 34',Dylan Gavin Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,2,282120,2025-05-07 04:56:00
+13332,735636,6,45210256,70,1,2160,36',1,0,Tommy Muir (Annan Athletic) Goal at 36',Tommy Muir Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,231464,2025-05-07 04:56:00
+13332,735636,7,45210262,76,1,2220,37',0,0,Daniel Carmichael (Annan Athletic) Substitution at 37',Daniel Carmichael Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,139840,2025-05-07 04:56:00
+13332,735636,7,45210262,76,1,2220,37',0,0,Daniel Carmichael (Annan Athletic) Substitution at 37',Daniel Carmichael Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,2,306142,2025-05-07 04:56:00
+13332,735636,8,45210281,70,1,2700,45'+1',1,0,Jack Murray (Elgin City) Goal at 46',Jack Murray Goal,419,0.0,0.0,0.0,0.0,0.0,0.0,1,152253,2025-05-07 04:56:00
+13332,735636,9,45210337,94,2,4140,69',0,0,Dajon Golding (Elgin City) Yellow Card at 69',Dajon Golding Yellow Card,419,0.0,0.0,0.0,0.0,0.0,0.0,1,249323,2025-05-07 04:56:00
+13332,735636,10,45210339,76,2,4260,71',0,0,Oliver Mcdonald (Elgin City) Substitution at 71',Oliver Mcdonald Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,1,240716,2025-05-07 04:56:00
+13332,735636,10,45210339,76,2,4260,71',0,0,Oliver Mcdonald (Elgin City) Substitution at 71',Oliver Mcdonald Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,2,249323,2025-05-07 04:56:00
+13332,735636,11,45210348,94,2,4440,74',0,0,William Gibson (Annan Athletic) Yellow Card at 74',William Gibson Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,7191,2025-05-07 04:56:00
+13332,735636,12,45210375,76,2,5040,84',0,0,Kane Hester (Elgin City) Substitution at 84',Kane Hester Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,1,223017,2025-05-07 04:56:00
+13332,735636,12,45210375,76,2,5040,84',0,0,Kane Hester (Elgin City) Substitution at 84',Kane Hester Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,2,266928,2025-05-07 04:56:00

@@ -1,0 +1,44 @@
+# ESPN Data Configuration
+data_paths:
+  base_data: "../base_data"
+  commentary: "../commentary_data"
+  key_events: "../keyEvents_data"
+  lineup: "../lineup_data"
+  player_stats: "../playerStats_data"
+  plays: "../plays_data"
+  
+  # Processed data
+  processed: "data/processed"
+
+# Data files
+base_files:
+  fixtures: "fixtures.csv"
+  teams: "teams.csv"
+  team_stats: "teamStats.csv"
+  team_roster: "teamRoster.csv"
+  players: "players.csv"
+  leagues: "leagues.csv"
+  standings: "standings.csv"
+  venues: "venues.csv"
+  key_event_desc: "keyEventDescription.csv"
+  status: "status.csv"
+
+# Feature engineering parameters
+feature_params:
+  rolling_windows: [5, 10]
+  min_matches_for_stats: 3
+  elo_k_factor: 20
+  elo_initial: 1500
+  home_advantage: 100
+  
+# Train/validation/test split
+split_params:
+  train_end_date: "2024-06-30"
+  validation_end_date: "2024-09-30"
+  test_start_date: "2024-10-01"
+  
+# Data quality
+quality_params:
+  min_team_matches: 5
+  max_missing_stats_pct: 0.3
+  outlier_std_threshold: 4.0

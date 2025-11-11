@@ -1,0 +1,168 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+13246,732103,1,44727381,70,Alice Soto (Mexico) Goal at 10',Alice Soto Goal,1,600,10',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344414,Alice Soto,2025-02-20 05:51:13
+13246,732103,2,44727452,70,Fátima Servín (Mexico) Goal at 39',Fátima Servín Goal,1,2340,39',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,352043,Fátima Servín,2025-02-20 05:51:13
+13246,732103,3,44727479,76,Matsunaga Saki (Chinese Taipei) Substitution at 45',Matsunaga Saki Substitution,2,2700,45',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400409,Matsunaga Saki,2025-02-20 05:51:13
+13246,732103,4,44727480,76,Chan Pi-han (Chinese Taipei) Substitution at 45',Chan Pi-han Substitution,2,2700,45',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,397240,Chan Pi-han,2025-02-20 05:51:13
+13246,732103,3,44727479,76,Matsunaga Saki (Chinese Taipei) Substitution at 45',Matsunaga Saki Substitution,2,2700,45',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,397249,Tseng Yun-ya,2025-02-20 05:51:13
+13246,732103,4,44727480,76,Chan Pi-han (Chinese Taipei) Substitution at 45',Chan Pi-han Substitution,2,2700,45',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,397246,Pu Hsin-hui,2025-02-20 05:51:13
+13246,732103,5,44727493,70,Montserrat Saldivar (Mexico) Goal at 53',Montserrat Saldivar Goal,2,3180,53',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344418,Montserrat Saldivar,2025-02-20 05:51:13
+13246,732103,6,44727526,76,Karla Nieto (Mexico) Substitution at 64',Karla Nieto Substitution,2,3840,64',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,258848,Karla Nieto,2025-02-20 05:51:13
+13246,732103,7,44727527,76,Nicole Pérez (Mexico) Substitution at 64',Nicole Pérez Substitution,2,3840,64',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,314323,Nicole Pérez,2025-02-20 05:51:13
+13246,732103,8,44727528,76,Mayra Pelayo (Mexico) Substitution at 64',Mayra Pelayo Substitution,2,3840,64',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,225038,Mayra Pelayo,2025-02-20 05:51:13
+13246,732103,9,44727529,76,Nicolette Hernández (Mexico) Substitution at 64',Nicolette Hernández Substitution,2,3840,64',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,331323,Nicolette Hernández,2025-02-20 05:51:13
+13246,732103,6,44727526,76,Karla Nieto (Mexico) Substitution at 64',Karla Nieto Substitution,2,3840,64',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,352043,Fátima Servín,2025-02-20 05:51:13
+13246,732103,7,44727527,76,Nicole Pérez (Mexico) Substitution at 64',Nicole Pérez Substitution,2,3840,64',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344414,Alice Soto,2025-02-20 05:51:13
+13246,732103,8,44727528,76,Mayra Pelayo (Mexico) Substitution at 64',Mayra Pelayo Substitution,2,3840,64',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,364526,Christina Burkenroad,2025-02-20 05:51:13
+13246,732103,9,44727529,76,Nicolette Hernández (Mexico) Substitution at 64',Nicolette Hernández Substitution,2,3840,64',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219205,Greta Espinoza,2025-02-20 05:51:13
+13246,732103,10,44727534,70,Montserrat Saldivar (Mexico) Goal at 67',Montserrat Saldivar Goal,2,4020,67',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344418,Montserrat Saldivar,2025-02-20 05:51:13
+13246,732103,11,44727535,76,Su Yu-hsuan (Chinese Taipei) Substitution at 68',Su Yu-hsuan Substitution,2,4080,68',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,392036,Su Yu-hsuan,2025-02-20 05:51:13
+13246,732103,12,44727538,76,He Jia-shiuan (Chinese Taipei) Substitution at 68',He Jia-shiuan Substitution,2,4080,68',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,397245,He Jia-shiuan,2025-02-20 05:51:13
+13246,732103,11,44727535,76,Su Yu-hsuan (Chinese Taipei) Substitution at 68',Su Yu-hsuan Substitution,2,4080,68',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400407,Yang Hsiao-chuan,2025-02-20 05:51:13
+13246,732103,12,44727538,76,He Jia-shiuan (Chinese Taipei) Substitution at 68',He Jia-shiuan Substitution,2,4080,68',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,392044,Li Yi-wen,2025-02-20 05:51:13
+13246,732103,13,44727558,76,Diana García (Mexico) Substitution at 75',Diana García Substitution,2,4500,75',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,317893,Diana García,2025-02-20 05:51:13
+13246,732103,14,44727559,76,Lizbeth Ovalle (Mexico) Substitution at 75',Lizbeth Ovalle Substitution,2,4500,75',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279197,Lizbeth Ovalle,2025-02-20 05:51:13
+13246,732103,15,44727560,76,Liu Yu-chiao (Chinese Taipei) Substitution at 75',Liu Yu-chiao Substitution,2,4500,75',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400406,Liu Yu-chiao,2025-02-20 05:51:13
+13246,732103,16,44727561,76,Chang Chi-lan (Chinese Taipei) Substitution at 75',Chang Chi-lan Substitution,2,4500,75',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,392037,Chang Chi-lan,2025-02-20 05:51:13
+13246,732103,13,44727558,76,Diana García (Mexico) Substitution at 75',Diana García Substitution,2,4500,75',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288594,Alexia Delgado,2025-02-20 05:51:13
+13246,732103,14,44727559,76,Lizbeth Ovalle (Mexico) Substitution at 75',Lizbeth Ovalle Substitution,2,4500,75',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344418,Montserrat Saldivar,2025-02-20 05:51:13
+13246,732103,15,44727560,76,Liu Yu-chiao (Chinese Taipei) Substitution at 75',Liu Yu-chiao Substitution,2,4500,75',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,392048,Chen Chin-wen,2025-02-20 05:51:13
+13246,732103,16,44727561,76,Chang Chi-lan (Chinese Taipei) Substitution at 75',Chang Chi-lan Substitution,2,4500,75',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,397247,Huang Ke-sin,2025-02-20 05:51:13
+13246,732104,1,44727715,70,Julia Grosso (Canada) Goal at 16',Julia Grosso Goal,1,960,16',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,261984,Julia Grosso,2025-02-20 05:51:13
+13246,732104,2,44727745,94,Wang Yanwen (China) Yellow Card at 43',Wang Yanwen Yellow Card,1,2580,43',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,321342,Wang Yanwen,2025-02-20 05:51:13
+13246,732104,3,44727792,76,Wang Linlin (China) Substitution at 45',Wang Linlin Substitution,2,2700,45',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,287924,Wang Linlin,2025-02-20 05:51:13
+13246,732104,4,44727796,76,Olivia Smith (Canada) Substitution at 45',Olivia Smith Substitution,2,2700,45',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279337,Olivia Smith,2025-02-20 05:51:13
+13246,732104,5,44727803,76,Carly Wickenheiser (Canada) Substitution at 45',Carly Wickenheiser Substitution,2,2700,45',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,225706,Carly Wickenheiser,2025-02-20 05:51:13
+13246,732104,6,44727804,76,Samantha Chang (Canada) Substitution at 45',Samantha Chang Substitution,2,2700,45',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277975,Samantha Chang,2025-02-20 05:51:13
+13246,732104,3,44727792,76,Wang Linlin (China) Substitution at 45',Wang Linlin Substitution,2,2700,45',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,361693,Dou Jiaxing,2025-02-20 05:51:13
+13246,732104,4,44727796,76,Olivia Smith (Canada) Substitution at 45',Olivia Smith Substitution,2,2700,45',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,225339,Nichelle Prince,2025-02-20 05:51:13
+13246,732104,5,44727803,76,Carly Wickenheiser (Canada) Substitution at 45',Carly Wickenheiser Substitution,2,2700,45',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,235713,Gabrielle Carle,2025-02-20 05:51:13
+13246,732104,6,44727804,76,Samantha Chang (Canada) Substitution at 45',Samantha Chang Substitution,2,2700,45',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,261984,Julia Grosso,2025-02-20 05:51:13
+13246,732104,7,44727819,94,Liu Jing (China) Yellow Card at 56',Liu Jing Yellow Card,2,3360,56',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291248,Liu Jing,2025-02-20 05:51:13
+13246,732104,8,44727825,70,Jin Kun (China) Goal at 58',Jin Kun Goal,2,3480,58',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,266693,Jin Kun,2025-02-20 05:51:13
+13246,732104,9,44727829,76,Shao Ziqin (China) Substitution at 58',Shao Ziqin Substitution,2,3480,58',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344343,Shao Ziqin,2025-02-20 05:51:13
+13246,732104,9,44727829,76,Shao Ziqin (China) Substitution at 58',Shao Ziqin Substitution,2,3480,58',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219849,Tang Jiali,2025-02-20 05:51:13
+13246,732104,10,44727841,76,Adriana Leon (Canada) Substitution at 63',Adriana Leon Substitution,2,3780,63',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219769,Adriana Leon,2025-02-20 05:51:13
+13246,732104,10,44727841,76,Adriana Leon (Canada) Substitution at 63',Adriana Leon Substitution,2,3780,63',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,213918,Janine Sonis,2025-02-20 05:51:13
+13246,732104,11,44727877,76,Clarissa Laris­ey (Canada) Substitution at 70',Clarissa Laris­ey Substitution,2,4200,70',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,349219,Clarissa Laris­ey,2025-02-20 05:51:13
+13246,732104,11,44727877,76,Clarissa Laris­ey (Canada) Substitution at 70',Clarissa Laris­ey Substitution,2,4200,70',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,242809,Evelyne Viens,2025-02-20 05:51:13
+13246,732104,12,44727878,76,Ella Ottey (Canada) Substitution at 71',Ella Ottey Substitution,2,4260,71',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344441,Ella Ottey,2025-02-20 05:51:13
+13246,732104,12,44727878,76,Ella Ottey (Canada) Substitution at 71',Ella Ottey Substitution,2,4260,71',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,274482,Emma Regan,2025-02-20 05:51:13
+13246,732104,13,44727930,76,Wang Aifang (China) Substitution at 81',Wang Aifang Substitution,2,4860,81',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,352056,Wang Aifang,2025-02-20 05:51:13
+13246,732104,14,44727931,76,Zhi Jie (China) Substitution at 81',Zhi Jie Substitution,2,4860,81',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400240,Zhi Jie,2025-02-20 05:51:13
+13246,732104,13,44727930,76,Wang Aifang (China) Substitution at 81',Wang Aifang Substitution,2,4860,81',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291248,Liu Jing,2025-02-20 05:51:13
+13246,732104,14,44727931,76,Zhi Jie (China) Substitution at 81',Zhi Jie Substitution,2,4860,81',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,266693,Jin Kun,2025-02-20 05:51:13
+13246,732104,15,44727947,76,Sun Fangxin (China) Substitution at 89',Sun Fangxin Substitution,2,5340,89',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344331,Sun Fangxin,2025-02-20 05:51:13
+13246,732104,16,44727948,94,Sun Fangxin (China) Yellow Card at 89',Sun Fangxin Yellow Card,2,5340,89',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344331,Sun Fangxin,2025-02-20 05:51:13
+13246,732104,15,44727947,76,Sun Fangxin (China) Substitution at 89',Sun Fangxin Substitution,2,5340,89',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,298750,Zhang Xin,2025-02-20 05:51:13
+13246,732104,17,44727961,94,Vanessa Gilles (Canada) Yellow Card at 93',Vanessa Gilles Yellow Card,2,5400,90'+3',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,209687,Vanessa Gilles,2025-02-20 05:51:13
+13246,732106,1,44747905,76,Fátima Servín (Mexico) Substitution at 5',Fátima Servín Substitution,1,300,5',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,352043,Fátima Servín,2025-02-23 05:53:01
+13246,732106,1,44747905,76,Fátima Servín (Mexico) Substitution at 5',Fátima Servín Substitution,1,300,5',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219205,Greta Espinoza,2025-02-23 05:53:01
+13246,732106,2,44747929,94,Annia Mejía (Mexico) Yellow Card at 7',Annia Mejía Yellow Card,1,420,7',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,213949,Annia Mejía,2025-02-23 05:53:01
+13246,732106,3,44748282,93,Annia Mejía (Mexico) Red Card at 40',Annia Mejía Red Card,1,2400,40',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,213949,Annia Mejía,2025-02-23 05:53:01
+13246,732106,4,44748553,76,Mayra Pelayo (Mexico) Substitution at 45',Mayra Pelayo Substitution,2,2700,45',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,225038,Mayra Pelayo,2025-02-23 05:53:01
+13246,732106,5,44748554,76,Shelina Zadorsky (Canada) Substitution at 45',Shelina Zadorsky Substitution,2,2700,45',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,235712,Shelina Zadorsky,2025-02-23 05:53:01
+13246,732106,6,44748555,76,Karol Bernal (Mexico) Substitution at 45',Karol Bernal Substitution,2,2700,45',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,359255,Karol Bernal,2025-02-23 05:53:01
+13246,732106,4,44748553,76,Mayra Pelayo (Mexico) Substitution at 45',Mayra Pelayo Substitution,2,2700,45',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344414,Alice Soto,2025-02-23 05:53:01
+13246,732106,5,44748554,76,Shelina Zadorsky (Canada) Substitution at 45',Shelina Zadorsky Substitution,2,2700,45',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,211044,Megan Reid,2025-02-23 05:53:01
+13246,732106,6,44748555,76,Karol Bernal (Mexico) Substitution at 45',Karol Bernal Substitution,2,2700,45',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,314323,Nicole Pérez,2025-02-23 05:53:01
+13246,732106,7,44748640,70,Vanessa Gilles (Canada) Goal at 51',Vanessa Gilles Goal,2,3060,51',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,209687,Vanessa Gilles,2025-02-23 05:53:01
+13246,732106,8,44748674,94,Lizbeth Ovalle (Mexico) Yellow Card at 54',Lizbeth Ovalle Yellow Card,2,3240,54',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279197,Lizbeth Ovalle,2025-02-23 05:53:01
+13246,732106,9,44748779,76,Emma Regan (Canada) Substitution at 61',Emma Regan Substitution,2,3660,61',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,274482,Emma Regan,2025-02-23 05:53:01
+13246,732106,10,44748780,76,Nichelle Prince (Canada) Substitution at 61',Nichelle Prince Substitution,2,3660,61',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,225339,Nichelle Prince,2025-02-23 05:53:01
+13246,732106,11,44748781,76,Evelyne Viens (Canada) Substitution at 61',Evelyne Viens Substitution,2,3660,61',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,242809,Evelyne Viens,2025-02-23 05:53:01
+13246,732106,9,44748779,76,Emma Regan (Canada) Substitution at 61',Emma Regan Substitution,2,3660,61',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279337,Olivia Smith,2025-02-23 05:53:01
+13246,732106,10,44748780,76,Nichelle Prince (Canada) Substitution at 61',Nichelle Prince Substitution,2,3660,61',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,255413,Jordyn Huitema,2025-02-23 05:53:01
+13246,732106,11,44748781,76,Evelyne Viens (Canada) Substitution at 61',Evelyne Viens Substitution,2,3660,61',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,213918,Janine Sonis,2025-02-23 05:53:01
+13246,732106,12,44748863,76,Ashley Lawrence (Canada) Substitution at 67',Ashley Lawrence Substitution,2,4020,67',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,119954,Ashley Lawrence,2025-02-23 05:53:01
+13246,732106,12,44748863,76,Ashley Lawrence (Canada) Substitution at 67',Ashley Lawrence Substitution,2,4020,67',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,235713,Gabrielle Carle,2025-02-23 05:53:01
+13246,732106,13,44748864,76,Reyna Reyes (Mexico) Substitution at 68',Reyna Reyes Substitution,2,4080,68',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,292699,Reyna Reyes,2025-02-23 05:53:01
+13246,732106,14,44748865,76,Diana García (Mexico) Substitution at 68',Diana García Substitution,2,4080,68',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,317893,Diana García,2025-02-23 05:53:01
+13246,732106,13,44748864,76,Reyna Reyes (Mexico) Substitution at 68',Reyna Reyes Substitution,2,4080,68',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,258848,Karla Nieto,2025-02-23 05:53:01
+13246,732106,14,44748865,76,Diana García (Mexico) Substitution at 68',Diana García Substitution,2,4080,68',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,158845,Kenti Robles,2025-02-23 05:53:01
+13246,732106,15,44748922,76,Marie-Yasmine Alidou (Canada) Substitution at 76',Marie-Yasmine Alidou Substitutio,2,4560,76',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,336005,Marie-Yasmine Alidou,2025-02-23 05:53:01
+13246,732106,15,44748922,76,Marie-Yasmine Alidou (Canada) Substitution at 76',Marie-Yasmine Alidou Substitutio,2,4560,76',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,261984,Julia Grosso,2025-02-23 05:53:01
+13246,732106,16,44748944,76,Myra Delgadillo (Mexico) Substitution at 78',Myra Delgadillo Substitution,2,4680,78',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328242,Myra Delgadillo,2025-02-23 05:53:01
+13246,732106,16,44748944,76,Myra Delgadillo (Mexico) Substitution at 78',Myra Delgadillo Substitution,2,4680,78',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,364542,Jasmine Casárez,2025-02-23 05:53:01
+13246,732106,17,44749018,70,Adriana Leon (Canada) Goal at 89',Adriana Leon Goal,2,5340,89',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219769,Adriana Leon,2025-02-23 05:53:01
+13246,732107,1,44767442,70,Alice Soto (Mexico) Goal at 5',Alice Soto Goal,1,300,5',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344414,Alice Soto,2025-02-26 05:50:00
+13246,732107,1,44772518,70,Alice Soto (Mexico) Goal at 5',Alice Soto Goal,1,300,5',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344414,Alice Soto,2025-02-28 05:55:18
+13246,732107,2,44767443,94,Alexia Delgado (Mexico) Yellow Card at 7',Alexia Delgado Yellow Card,1,420,7',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288594,Alexia Delgado,2025-02-26 05:50:00
+13246,732107,2,44772519,94,Alexia Delgado (Mexico) Yellow Card at 7',Alexia Delgado Yellow Card,1,420,7',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288594,Alexia Delgado,2025-02-28 05:55:18
+13246,732107,3,44767449,70,Alexia Delgado (Mexico) Goal at 14',Alexia Delgado Goal,1,840,14',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288594,Alexia Delgado,2025-02-26 05:50:00
+13246,732107,3,44772520,70,Lizbeth Ovalle (Mexico) Goal at 14',Lizbeth Ovalle Goal,1,840,14',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279197,Lizbeth Ovalle,2025-02-28 05:55:18
+13246,732107,4,44767453,94,Dou Jiaxing (China) Yellow Card at 25',Dou Jiaxing Yellow Card,1,1500,25',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,361693,Dou Jiaxing,2025-02-26 05:50:00
+13246,732107,4,44772521,94,Dou Jiaxing (China) Yellow Card at 25',Dou Jiaxing Yellow Card,1,1500,25',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,361693,Dou Jiaxing,2025-02-28 05:55:18
+13246,732107,5,44767465,76,Li Mengwen (China) Substitution at 45',Li Mengwen Substitution,2,2700,45',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,281682,Li Mengwen,2025-02-26 05:50:00
+13246,732107,5,44772522,76,Li Mengwen (China) Substitution at 45',Li Mengwen Substitution,2,2700,45',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,281682,Li Mengwen,2025-02-28 05:55:18
+13246,732107,5,44767465,76,Li Mengwen (China) Substitution at 45',Li Mengwen Substitution,2,2700,45',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,361693,Dou Jiaxing,2025-02-26 05:50:00
+13246,732107,5,44772522,76,Li Mengwen (China) Substitution at 45',Li Mengwen Substitution,2,2700,45',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,361693,Dou Jiaxing,2025-02-28 05:55:18
+13246,732107,6,44767470,76,Myra Delgadillo (Mexico) Substitution at 62',Myra Delgadillo Substitution,2,3720,62',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328242,Myra Delgadillo,2025-02-26 05:50:00
+13246,732107,7,44767471,76,Karla Nieto (Mexico) Substitution at 62',Karla Nieto Substitution,2,3720,62',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,258848,Karla Nieto,2025-02-26 05:50:00
+13246,732107,6,44772523,76,Karla Nieto (Mexico) Substitution at 62',Karla Nieto Substitution,2,3720,62',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,258848,Karla Nieto,2025-02-28 05:55:18
+13246,732107,7,44772524,76,Myra Delgadillo (Mexico) Substitution at 62',Myra Delgadillo Substitution,2,3720,62',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328242,Myra Delgadillo,2025-02-28 05:55:18
+13246,732107,8,44772525,76,Tang Jiali (China) Substitution at 62',Tang Jiali Substitution,2,3720,62',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219849,Tang Jiali,2025-02-28 05:55:18
+13246,732107,9,44772526,76,Zhi Jie (China) Substitution at 62',Zhi Jie Substitution,2,3720,62',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400240,Zhi Jie,2025-02-28 05:55:18
+13246,732107,6,44767470,76,Myra Delgadillo (Mexico) Substitution at 62',Myra Delgadillo Substitution,2,3720,62',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,364526,Christina Burkenroad,2025-02-26 05:50:00
+13246,732107,7,44767471,76,Karla Nieto (Mexico) Substitution at 62',Karla Nieto Substitution,2,3720,62',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,352043,Fátima Servín,2025-02-26 05:50:00
+13246,732107,6,44772523,76,Karla Nieto (Mexico) Substitution at 62',Karla Nieto Substitution,2,3720,62',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,364526,Christina Burkenroad,2025-02-28 05:55:18
+13246,732107,7,44772524,76,Myra Delgadillo (Mexico) Substitution at 62',Myra Delgadillo Substitution,2,3720,62',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,352043,Fátima Servín,2025-02-28 05:55:18
+13246,732107,8,44772525,76,Tang Jiali (China) Substitution at 62',Tang Jiali Substitution,2,3720,62',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,321342,Wang Yanwen,2025-02-28 05:55:18
+13246,732107,9,44772526,76,Zhi Jie (China) Substitution at 62',Zhi Jie Substitution,2,3720,62',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344343,Shao Ziqin,2025-02-28 05:55:18
+13246,732107,8,44767468,76,Zhi Jie (China) Substitution at 63',Zhi Jie Substitution,2,3780,63',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400240,Zhi Jie,2025-02-26 05:50:00
+13246,732107,9,44767469,76,Tang Jiali (China) Substitution at 63',Tang Jiali Substitution,2,3780,63',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219849,Tang Jiali,2025-02-26 05:50:00
+13246,732107,8,44767468,76,Zhi Jie (China) Substitution at 63',Zhi Jie Substitution,2,3780,63',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344343,Shao Ziqin,2025-02-26 05:50:00
+13246,732107,9,44767469,76,Tang Jiali (China) Substitution at 63',Tang Jiali Substitution,2,3780,63',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,321342,Wang Yanwen,2025-02-26 05:50:00
+13246,732107,10,44767475,76,Huo Yuexin (China) Substitution at 72',Huo Yuexin Substitution,2,4320,72',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,352048,Huo Yuexin,2025-02-26 05:50:00
+13246,732107,10,44772527,76,Huo Yuexin (China) Substitution at 72',Huo Yuexin Substitution,2,4320,72',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,352048,Huo Yuexin,2025-02-28 05:55:18
+13246,732107,10,44767475,76,Huo Yuexin (China) Substitution at 72',Huo Yuexin Substitution,2,4320,72',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,298750,Zhang Xin,2025-02-26 05:50:00
+13246,732107,10,44772527,76,Huo Yuexin (China) Substitution at 72',Huo Yuexin Substitution,2,4320,72',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,298750,Zhang Xin,2025-02-28 05:55:18
+13246,732107,11,44772528,76,Diana García (Mexico) Substitution at 77',Diana García Substitution,2,4620,77',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,317893,Diana García,2025-02-28 05:55:18
+13246,732107,11,44772528,76,Diana García (Mexico) Substitution at 77',Diana García Substitution,2,4620,77',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,364542,Jasmine Casárez,2025-02-28 05:55:18
+13246,732107,11,44767478,76,Montserrat Saldivar (Mexico) Substitution at 78',Montserrat Saldivar Substitution,2,4680,78',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344418,Montserrat Saldivar,2025-02-26 05:50:00
+13246,732107,12,44767479,76,Mayra Pelayo (Mexico) Substitution at 78',Mayra Pelayo Substitution,2,4680,78',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,225038,Mayra Pelayo,2025-02-26 05:50:00
+13246,732107,13,44767480,76,Diana García (Mexico) Substitution at 78',Diana García Substitution,2,4680,78',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,317893,Diana García,2025-02-26 05:50:00
+13246,732107,12,44772529,76,Mayra Pelayo (Mexico) Substitution at 78',Mayra Pelayo Substitution,2,4680,78',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,225038,Mayra Pelayo,2025-02-28 05:55:18
+13246,732107,13,44772530,76,Montserrat Saldivar (Mexico) Substitution at 78',Montserrat Saldivar Substitution,2,4680,78',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344418,Montserrat Saldivar,2025-02-28 05:55:18
+13246,732107,11,44767478,76,Montserrat Saldivar (Mexico) Substitution at 78',Montserrat Saldivar Substitution,2,4680,78',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279197,Lizbeth Ovalle,2025-02-26 05:50:00
+13246,732107,12,44767479,76,Mayra Pelayo (Mexico) Substitution at 78',Mayra Pelayo Substitution,2,4680,78',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,364542,Jasmine Casárez,2025-02-26 05:50:00
+13246,732107,13,44767480,76,Diana García (Mexico) Substitution at 78',Diana García Substitution,2,4680,78',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344414,Alice Soto,2025-02-26 05:50:00
+13246,732107,12,44772529,76,Mayra Pelayo (Mexico) Substitution at 78',Mayra Pelayo Substitution,2,4680,78',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344414,Alice Soto,2025-02-28 05:55:18
+13246,732107,13,44772530,76,Montserrat Saldivar (Mexico) Substitution at 78',Montserrat Saldivar Substitution,2,4680,78',2812,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279197,Lizbeth Ovalle,2025-02-28 05:55:18
+13246,732107,14,44767481,76,Yuan Cong (China) Substitution at 84',Yuan Cong Substitution,2,5040,84',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,381473,Yuan Cong,2025-02-26 05:50:00
+13246,732107,14,44772531,76,Yang Qian (China) Substitution at 84',Yang Qian Substitution,2,5040,84',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,359229,Yang Qian,2025-02-28 05:55:18
+13246,732107,15,44772532,76,Yuan Cong (China) Substitution at 84',Yuan Cong Substitution,2,5040,84',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,381473,Yuan Cong,2025-02-28 05:55:18
+13246,732107,14,44767481,76,Yuan Cong (China) Substitution at 84',Yuan Cong Substitution,2,5040,84',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,266693,Jin Kun,2025-02-26 05:50:00
+13246,732107,14,44772531,76,Yang Qian (China) Substitution at 84',Yang Qian Substitution,2,5040,84',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,320619,Chen Qiaozhu,2025-02-28 05:55:18
+13246,732107,15,44772532,76,Yuan Cong (China) Substitution at 84',Yuan Cong Substitution,2,5040,84',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,266693,Jin Kun,2025-02-28 05:55:18
+13246,732107,15,44767482,76,Yang Qian (China) Substitution at 85',Yang Qian Substitution,2,5100,85',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,359229,Yang Qian,2025-02-26 05:50:00
+13246,732107,15,44767482,76,Yang Qian (China) Substitution at 85',Yang Qian Substitution,2,5100,85',2754,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,320619,Chen Qiaozhu,2025-02-26 05:50:00
+13246,732108,1,44767662,70,Marie-Yasmine Alidou (Canada) Goal at 4',Marie-Yasmine Alidou Goal,1,240,4',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,336005,Marie-Yasmine Alidou,2025-02-26 05:50:00
+13246,732108,2,44767678,98,Marie-Yasmine Alidou (Canada) Penalty - Scored at 14',Marie-Yasmine Alidou Penalty - S,1,840,14',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,336005,Marie-Yasmine Alidou,2025-02-26 05:50:00
+13246,732108,3,44767712,70,Jordyn Huitema (Canada) Goal at 26',Jordyn Huitema Goal,1,1560,26',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,255413,Jordyn Huitema,2025-02-26 05:50:00
+13246,732108,4,44767726,70,Marie-Yasmine Alidou (Canada) Goal at 33',Marie-Yasmine Alidou Goal,1,1980,33',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,336005,Marie-Yasmine Alidou,2025-02-26 05:50:00
+13246,732108,5,44767761,94,Su Yu-hsuan (Chinese Taipei) Yellow Card at 45',Su Yu-hsuan Yellow Card,1,2700,45',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,392036,Su Yu-hsuan,2025-02-26 05:50:00
+13246,732108,6,44767762,70,Megan Reid (Canada) Goal at 46',Megan Reid Goal,1,2700,45'+1',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,211044,Megan Reid,2025-02-26 05:50:00
+13246,732108,7,44767797,76,Carly Wickenheiser (Canada) Substitution at 45',Carly Wickenheiser Substitution,2,2700,45',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,225706,Carly Wickenheiser,2025-02-26 05:50:00
+13246,732108,8,44767798,76,Ella Ottey (Canada) Substitution at 45',Ella Ottey Substitution,2,2700,45',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344441,Ella Ottey,2025-02-26 05:50:00
+13246,732108,7,44767797,76,Carly Wickenheiser (Canada) Substitution at 45',Carly Wickenheiser Substitution,2,2700,45',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,211044,Megan Reid,2025-02-26 05:50:00
+13246,732108,8,44767798,76,Ella Ottey (Canada) Substitution at 45',Ella Ottey Substitution,2,2700,45',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,336005,Marie-Yasmine Alidou,2025-02-26 05:50:00
+13246,732108,9,44767799,98,Jordyn Huitema (Canada) Penalty - Scored at 48',Jordyn Huitema Penalty - Scored,2,2880,48',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,255413,Jordyn Huitema,2025-02-26 05:50:00
+13246,732108,10,44767814,76,Samantha Chang (Canada) Substitution at 59',Samantha Chang Substitution,2,3540,59',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277975,Samantha Chang,2025-02-26 05:50:00
+13246,732108,10,44767814,76,Samantha Chang (Canada) Substitution at 59',Samantha Chang Substitution,2,3540,59',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,274482,Emma Regan,2025-02-26 05:50:00
+13246,732108,11,44767817,76,Clarissa Laris­ey (Canada) Substitution at 65',Clarissa Laris­ey Substitution,2,3900,65',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,349219,Clarissa Laris­ey,2025-02-26 05:50:00
+13246,732108,11,44767817,76,Clarissa Laris­ey (Canada) Substitution at 65',Clarissa Laris­ey Substitution,2,3900,65',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,255413,Jordyn Huitema,2025-02-26 05:50:00
+13246,732108,12,44767822,76,Adriana Leon (Canada) Substitution at 71',Adriana Leon Substitution,2,4260,71',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219769,Adriana Leon,2025-02-26 05:50:00
+13246,732108,12,44767822,76,Adriana Leon (Canada) Substitution at 71',Adriana Leon Substitution,2,4260,71',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,225339,Nichelle Prince,2025-02-26 05:50:00
+13246,732108,13,44767823,76,Nyah Rose (Canada) Substitution at 72',Nyah Rose Substitution,2,4320,72',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344434,Nyah Rose,2025-02-26 05:50:00
+13246,732108,13,44767823,76,Nyah Rose (Canada) Substitution at 72',Nyah Rose Substitution,2,4320,72',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279337,Olivia Smith,2025-02-26 05:50:00
+13246,732108,14,44767828,76,Li Yi-wen (Chinese Taipei) Substitution at 73',Li Yi-wen Substitution,2,4380,73',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,392044,Li Yi-wen,2025-02-26 05:50:00
+13246,732108,15,44767829,76,Pan Shin-yu (Chinese Taipei) Substitution at 73',Pan Shin-yu Substitution,2,4380,73',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,392030,Pan Shin-yu,2025-02-26 05:50:00
+13246,732108,14,44767828,76,Li Yi-wen (Chinese Taipei) Substitution at 73',Li Yi-wen Substitution,2,4380,73',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,392039,Lin Hsin-hui,2025-02-26 05:50:00
+13246,732108,15,44767829,76,Pan Shin-yu (Chinese Taipei) Substitution at 73',Pan Shin-yu Substitution,2,4380,73',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,392043,Wu Kai-ching,2025-02-26 05:50:00
+13246,732108,16,44767846,70,Clarissa Laris­ey (Canada) Goal at 75',Clarissa Laris­ey Goal,2,4500,75',2753,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,349219,Clarissa Laris­ey,2025-02-26 05:50:00
+13246,732108,17,44767907,76,Chen Chin-wen (Chinese Taipei) Substitution at 82',Chen Chin-wen Substitution,2,4920,82',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,392048,Chen Chin-wen,2025-02-26 05:50:00
+13246,732108,18,44767908,76,Li Pei-jung (Chinese Taipei) Substitution at 82',Li Pei-jung Substitution,2,4920,82',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,397242,Li Pei-jung,2025-02-26 05:50:00
+13246,732108,17,44767907,76,Chen Chin-wen (Chinese Taipei) Substitution at 82',Chen Chin-wen Substitution,2,4920,82',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,400406,Liu Yu-chiao,2025-02-26 05:50:00
+13246,732108,18,44767908,76,Li Pei-jung (Chinese Taipei) Substitution at 82',Li Pei-jung Substitution,2,4920,82',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,397247,Huang Ke-sin,2025-02-26 05:50:00
+13246,732108,19,44767931,76,Tseng Yun-ya (Chinese Taipei) Substitution at 88',Tseng Yun-ya Substitution,2,5280,88',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,397249,Tseng Yun-ya,2025-02-26 05:50:00
+13246,732108,19,44767931,76,Tseng Yun-ya (Chinese Taipei) Substitution at 88',Tseng Yun-ya Substitution,2,5280,88',7268,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,392041,Hsu Yi-yun,2025-02-26 05:50:00

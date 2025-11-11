@@ -1,0 +1,37 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12677,705512,1,43496160,70,1,540,9',1,0,Noa Lang (PSV Eindhoven) Goal at 9',Noa Lang Goal,148,0.0,0.0,0.0,0.0,0.0,0.0,1,255344,2024-08-05 09:30:40
+12677,705512,2,43496165,94,1,540,9',0,0,Timon Wellenreuther (Feyenoord Rotterdam) Yellow Card at 9',Timon Wellenreuther Yellow Card,142,0.0,0.0,0.0,0.0,0.0,0.0,1,182424,2024-08-05 09:30:40
+12677,705512,3,43496223,98,1,1740,29',1,0,Santiago Giménez (Feyenoord Rotterdam) Penalty - Scored at 29',Santiago Giménez Penalty - Score,142,0.0,0.0,0.0,0.0,0.0,0.0,1,260775,2024-08-05 09:30:40
+12677,705512,4,43496240,70,1,1980,33',1,0,Bart Nieuwkoop (Feyenoord Rotterdam) Goal at 33',Bart Nieuwkoop Goal,142,0.0,0.0,0.0,0.0,0.0,0.0,1,215172,2024-08-05 09:30:40
+12677,705512,5,43496272,94,1,2640,44',0,0,Santiago Giménez (Feyenoord Rotterdam) Yellow Card at 44',Santiago Giménez Yellow Card,142,0.0,0.0,0.0,0.0,0.0,0.0,1,260775,2024-08-05 09:30:40
+12677,705512,7,43496283,94,1,2700,45'+4',0,0,Noa Lang (PSV Eindhoven) Yellow Card at 49',Noa Lang Yellow Card,148,0.0,0.0,0.0,0.0,0.0,0.0,1,255344,2024-08-05 09:30:40
+12677,705512,6,43496278,94,1,2700,45'+1',0,0,Ramiz Zerrouki (Feyenoord Rotterdam) Yellow Card at 46',Ramiz Zerrouki Yellow Card,142,0.0,0.0,0.0,0.0,0.0,0.0,1,290517,2024-08-05 09:30:40
+12677,705512,8,43496308,70,2,2880,48',1,0,Luuk de Jong (PSV Eindhoven) Goal at 48',Luuk de Jong Goal,148,0.0,0.0,0.0,0.0,0.0,0.0,1,127420,2024-08-05 09:30:40
+12677,705512,9,43496313,94,2,3180,53',0,0,Walter Benítez (PSV Eindhoven) Yellow Card at 53',Walter Benítez Yellow Card,148,0.0,0.0,0.0,0.0,0.0,0.0,1,195738,2024-08-05 09:30:40
+12677,705512,10,43496314,98,2,3240,54',1,0,Santiago Giménez (Feyenoord Rotterdam) Penalty - Scored at 54',Santiago Giménez Penalty - Score,142,0.0,0.0,0.0,0.0,0.0,0.0,1,260775,2024-08-05 09:30:40
+12677,705512,11,43496318,94,2,3480,58',0,0,Igor Paixão (Feyenoord Rotterdam) Yellow Card at 58',Igor Paixão Yellow Card,142,0.0,0.0,0.0,0.0,0.0,0.0,1,289114,2024-08-07 09:40:27
+12677,705512,12,43496324,76,2,3600,60',0,0,Antoni Milambo (Feyenoord Rotterdam) Substitution at 60',Antoni Milambo Substitution,142,0.0,0.0,0.0,0.0,0.0,0.0,1,321081,2024-08-05 09:30:40
+12677,705512,12,43496324,76,2,3600,60',0,0,Antoni Milambo (Feyenoord Rotterdam) Substitution at 60',Antoni Milambo Substitution,142,0.0,0.0,0.0,0.0,0.0,0.0,2,365021,2024-08-05 09:30:40
+12677,705512,14,43496328,76,2,3840,64',0,0,Couhaib Driouech (PSV Eindhoven) Substitution at 64',Couhaib Driouech Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,1,304592,2024-08-05 09:30:40
+12677,705512,13,43496327,76,2,3840,64',0,0,Guus Til (PSV Eindhoven) Substitution at 64',Guus Til Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,1,240965,2024-08-05 09:30:40
+12677,705512,14,43496328,76,2,3840,64',0,0,Couhaib Driouech (PSV Eindhoven) Substitution at 64',Couhaib Driouech Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,2,255344,2024-08-05 09:30:40
+12677,705512,13,43496327,76,2,3840,64',0,0,Guus Til (PSV Eindhoven) Substitution at 64',Guus Til Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,2,304572,2024-08-05 09:30:40
+12677,705512,15,43496330,70,2,3900,65',1,0,Guus Til (PSV Eindhoven) Goal at 65',Guus Til Goal,148,0.0,0.0,0.0,0.0,0.0,0.0,1,240965,2024-08-05 09:30:40
+12677,705512,16,43496336,94,2,4080,68',0,0,Bart Nieuwkoop (Feyenoord Rotterdam) Yellow Card at 68',Bart Nieuwkoop Yellow Card,142,0.0,0.0,0.0,0.0,0.0,0.0,1,215172,2024-08-05 09:30:40
+12677,705512,18,43496338,76,2,4140,69',0,0,Ondrej Lingr (Feyenoord Rotterdam) Substitution at 69',Ondrej Lingr Substitution,142,0.0,0.0,0.0,0.0,0.0,0.0,1,257090,2024-08-05 09:30:40
+12677,705512,17,43496337,76,2,4140,69',0,0,Ayase Ueda (Feyenoord Rotterdam) Substitution at 69',Ayase Ueda Substitution,142,0.0,0.0,0.0,0.0,0.0,0.0,1,274277,2024-08-05 09:30:40
+12677,705512,18,43496338,76,2,4140,69',0,0,Ondrej Lingr (Feyenoord Rotterdam) Substitution at 69',Ondrej Lingr Substitution,142,0.0,0.0,0.0,0.0,0.0,0.0,2,215172,2024-08-05 09:30:40
+12677,705512,17,43496337,76,2,4140,69',0,0,Ayase Ueda (Feyenoord Rotterdam) Substitution at 69',Ayase Ueda Substitution,142,0.0,0.0,0.0,0.0,0.0,0.0,2,260775,2024-08-05 09:30:40
+12677,705512,19,43496341,70,2,4320,72',1,0,Antoni Milambo (Feyenoord Rotterdam) Goal at 72',Antoni Milambo Goal,142,0.0,0.0,0.0,0.0,0.0,0.0,1,321081,2024-08-05 09:30:40
+12677,705512,20,43496349,76,2,4620,77',0,0,Givairo Read (Feyenoord Rotterdam) Substitution at 77',Givairo Read Substitution,142,0.0,0.0,0.0,0.0,0.0,0.0,1,337084,2024-08-05 09:30:40
+12677,705512,21,43496350,76,2,4620,77',0,0,Luka Ivanusec (Feyenoord Rotterdam) Substitution at 77',Luka Ivanusec Substitution,142,0.0,0.0,0.0,0.0,0.0,0.0,1,228334,2024-08-05 09:30:40
+12677,705512,21,43496350,76,2,4620,77',0,0,Luka Ivanusec (Feyenoord Rotterdam) Substitution at 77',Luka Ivanusec Substitution,142,0.0,0.0,0.0,0.0,0.0,0.0,2,289114,2024-08-05 09:30:40
+12677,705512,20,43496349,76,2,4620,77',0,0,Givairo Read (Feyenoord Rotterdam) Substitution at 77',Givairo Read Substitution,142,0.0,0.0,0.0,0.0,0.0,0.0,2,151053,2024-08-05 09:30:40
+12677,705512,20,43496349,76,2,4620,77',0,0,Givairo Read (Feyenoord Rotterdam) Substitution at 77',Givairo Read Substitution,142,0.0,0.0,0.0,0.0,0.0,0.0,2,240780,2024-08-05 09:30:40
+12677,705512,22,43496352,98,2,4800,80',1,0,Luuk de Jong (PSV Eindhoven) Penalty - Scored at 80',Luuk de Jong Penalty - Scored,148,0.0,0.0,0.0,0.0,0.0,0.0,1,127420,2024-08-05 09:30:40
+12677,705512,24,43496362,94,2,4860,81',0,0,Ayase Ueda (Feyenoord Rotterdam) Yellow Card at 81',Ayase Ueda Yellow Card,142,0.0,0.0,0.0,0.0,0.0,0.0,1,274277,2024-08-05 09:30:40
+12677,705512,23,43496361,76,2,4860,81',0,0,Matteo Dams (PSV Eindhoven) Substitution at 81',Matteo Dams Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,1,331153,2024-08-05 09:30:40
+12677,705512,23,43496361,76,2,4860,81',0,0,Matteo Dams (PSV Eindhoven) Substitution at 81',Matteo Dams Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,2,239998,2024-08-05 09:30:40
+12677,705512,25,43496367,94,2,5280,88',0,0,Matteo Dams (PSV Eindhoven) Yellow Card at 88',Matteo Dams Yellow Card,148,0.0,0.0,0.0,0.0,0.0,0.0,1,331153,2024-08-05 09:30:40
+12677,705512,26,43496373,76,2,5400,90'+4',0,0,Ricardo Pepi (PSV Eindhoven) Substitution at 94',Ricardo Pepi Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,1,289120,2024-08-05 09:30:40
+12677,705512,26,43496373,76,2,5400,90'+4',0,0,Ricardo Pepi (PSV Eindhoven) Substitution at 94',Ricardo Pepi Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,2,127420,2024-08-05 09:30:40

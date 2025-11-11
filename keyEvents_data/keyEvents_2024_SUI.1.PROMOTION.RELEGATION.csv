@@ -1,0 +1,58 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13377,735925,1,45326795,70,1,840,14',1,0,Lee Young-Jun (Grasshoppers) Goal at 14',Lee Young-Jun Goal,492,0.0,0.0,0.0,0.0,0.0,0.0,1,362197,2025-05-28 04:50:58
+13377,735925,2,45326796,76,1,1620,27',0,0,Pascal Schürpf (Grasshoppers) Substitution at 27',Pascal Schürpf Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,1,126518,2025-05-28 04:50:58
+13377,735925,2,45326796,76,1,1620,27',0,0,Pascal Schürpf (Grasshoppers) Substitution at 27',Pascal Schürpf Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,2,362197,2025-05-28 04:50:58
+13377,735925,3,45326797,94,1,2400,40',0,0,Nikola Gjorgjev (FC Aarau) Yellow Card at 40',Nikola Gjorgjev Yellow Card,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,219675,2025-05-28 04:50:58
+13377,735925,4,45326798,70,1,2460,41',1,0,Pascal Schürpf (Grasshoppers) Goal at 41',Pascal Schürpf Goal,492,0.0,0.0,0.0,0.0,0.0,0.0,1,126518,2025-05-28 04:50:58
+13377,735925,5,45326803,94,2,2940,49',0,0,Tomás Verón Lupi (Grasshoppers) Yellow Card at 49',Tomás Verón Lupi Yellow Card,492,0.0,0.0,0.0,0.0,0.0,0.0,1,278517,2025-05-28 04:50:58
+13377,735925,6,45326806,76,2,3840,64',0,0,Nestory Irankunda (Grasshoppers) Substitution at 64',Nestory Irankunda Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,1,328535,2025-05-28 04:50:58
+13377,735925,6,45326806,76,2,3840,64',0,0,Nestory Irankunda (Grasshoppers) Substitution at 64',Nestory Irankunda Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,2,126518,2025-05-28 04:50:58
+13377,735925,7,45326811,76,2,4320,72',0,0,Sofian Bahloul (FC Aarau) Substitution at 72',Sofian Bahloul Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,380113,2025-05-28 04:50:58
+13377,735925,7,45326811,76,2,4320,72',0,0,Sofian Bahloul (FC Aarau) Substitution at 72',Sofian Bahloul Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,2,303838,2025-05-28 04:50:58
+13377,735925,8,45326812,76,2,4380,73',0,0,Olivier Jäckle (FC Aarau) Substitution at 73',Olivier Jäckle Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,288931,2025-05-28 04:50:58
+13377,735925,8,45326812,76,2,4380,73',0,0,Olivier Jäckle (FC Aarau) Substitution at 73',Olivier Jäckle Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,2,333318,2025-05-28 04:50:58
+13377,735925,9,45326813,94,2,4560,76',0,0,Manuel Kuttin (Grasshoppers) Yellow Card at 76',Manuel Kuttin Yellow Card,492,0.0,0.0,0.0,0.0,0.0,0.0,1,201375,2025-05-28 04:50:58
+13377,735925,10,45326816,70,2,4740,79',1,0,Nikolas Muci (Grasshoppers) Goal at 79',Nikolas Muci Goal,492,0.0,0.0,0.0,0.0,0.0,0.0,1,317872,2025-05-28 04:50:58
+13377,735925,11,45326817,76,2,4800,80',0,0,Raúl Bobadilla (FC Aarau) Substitution at 80',Raúl Bobadilla Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,105233,2025-05-28 04:50:58
+13377,735925,11,45326817,76,2,4800,80',0,0,Raúl Bobadilla (FC Aarau) Substitution at 80',Raúl Bobadilla Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,2,281712,2025-05-28 04:50:58
+13377,735925,12,45326818,94,2,4980,83',0,0,Serge Muller (FC Aarau) Yellow Card at 83',Serge Muller Yellow Card,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,267618,2025-05-28 04:50:58
+13377,735925,13,45326819,94,2,5040,84',0,0,David Acquah (FC Aarau) Yellow Card at 84',David Acquah Yellow Card,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,403671,2025-05-28 04:50:58
+13377,735925,14,45326820,98,2,5160,86',1,0,Ayumu Seko (Grasshoppers) Penalty - Scored at 86',Ayumu Seko Penalty - Scored,492,0.0,0.0,0.0,0.0,0.0,0.0,1,258270,2025-05-28 04:50:58
+13377,735925,17,45326824,76,2,5220,87',0,0,Mathieu Choinière (Grasshoppers) Substitution at 87',Mathieu Choinière Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,1,274296,2025-05-28 04:50:58
+13377,735925,16,45326823,76,2,5220,87',0,0,Leart Kabashi (Grasshoppers) Substitution at 87',Leart Kabashi Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,1,397295,2025-05-28 04:50:58
+13377,735925,15,45326822,76,2,5220,87',0,0,Saulo Decarli (Grasshoppers) Substitution at 87',Saulo Decarli Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,1,179391,2025-05-28 04:50:58
+13377,735925,17,45326824,76,2,5220,87',0,0,Mathieu Choinière (Grasshoppers) Substitution at 87',Mathieu Choinière Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,2,190599,2025-05-28 04:50:58
+13377,735925,16,45326823,76,2,5220,87',0,0,Leart Kabashi (Grasshoppers) Substitution at 87',Leart Kabashi Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,2,317872,2025-05-28 04:50:58
+13377,735925,15,45326822,76,2,5220,87',0,0,Saulo Decarli (Grasshoppers) Substitution at 87',Saulo Decarli Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,2,149845,2025-05-28 04:50:58
+13377,735925,18,45326825,76,2,5280,88',0,0,Colin Odutayo (FC Aarau) Substitution at 88',Colin Odutayo Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,296898,2025-05-28 04:50:58
+13377,735925,19,45326826,76,2,5280,88',0,0,Elias Filet (FC Aarau) Substitution at 88',Elias Filet Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,338815,2025-05-28 04:50:58
+13377,735925,19,45326826,76,2,5280,88',0,0,Elias Filet (FC Aarau) Substitution at 88',Elias Filet Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,2,253397,2025-05-28 04:50:58
+13377,735925,18,45326825,76,2,5280,88',0,0,Colin Odutayo (FC Aarau) Substitution at 88',Colin Odutayo Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,2,219675,2025-05-28 04:50:58
+13377,735926,1,45337169,94,1,1260,21',0,0,Ayumu Seko (Grasshoppers) Yellow Card at 21',Ayumu Seko Yellow Card,492,0.0,0.0,0.0,0.0,0.0,0.0,1,258270,2025-05-31 04:50:57
+13377,735926,2,45337197,94,1,2220,37',0,0,Nestory Irankunda (Grasshoppers) Yellow Card at 37',Nestory Irankunda Yellow Card,492,0.0,0.0,0.0,0.0,0.0,0.0,1,328535,2025-05-31 04:50:57
+13377,735926,3,45337201,76,1,2520,42',0,0,Linus Obexer (FC Aarau) Substitution at 42',Linus Obexer Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,235113,2025-05-31 04:50:57
+13377,735926,3,45337201,76,1,2520,42',0,0,Linus Obexer (FC Aarau) Substitution at 42',Linus Obexer Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,2,320853,2025-05-31 04:50:57
+13377,735926,5,45337232,76,2,2700,45',0,0,Nikola Gjorgjev (FC Aarau) Substitution at 45',Nikola Gjorgjev Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,219675,2025-05-31 04:50:57
+13377,735926,4,45337207,94,1,2700,45'+2',0,0,Elias Filet (FC Aarau) Yellow Card at 47',Elias Filet Yellow Card,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,338815,2025-05-31 04:50:57
+13377,735926,5,45337232,76,2,2700,45',0,0,Nikola Gjorgjev (FC Aarau) Substitution at 45',Nikola Gjorgjev Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,2,303838,2025-05-31 04:50:57
+13377,735926,6,45337269,76,2,3480,58',0,0,Raúl Bobadilla (FC Aarau) Substitution at 58',Raúl Bobadilla Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,105233,2025-05-31 04:50:57
+13377,735926,7,45337276,76,2,3480,58',0,0,Colin Odutayo (FC Aarau) Substitution at 58',Colin Odutayo Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,296898,2025-05-31 04:50:57
+13377,735926,6,45337269,76,2,3480,58',0,0,Raúl Bobadilla (FC Aarau) Substitution at 58',Raúl Bobadilla Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,2,338815,2025-05-31 04:50:57
+13377,735926,7,45337276,76,2,3480,58',0,0,Colin Odutayo (FC Aarau) Substitution at 58',Colin Odutayo Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,2,403674,2025-05-31 04:50:57
+13377,735926,8,45337277,76,2,3600,60',0,0,Saulo Decarli (Grasshoppers) Substitution at 60',Saulo Decarli Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,1,179391,2025-05-31 04:50:57
+13377,735926,8,45337277,76,2,3600,60',0,0,Saulo Decarli (Grasshoppers) Substitution at 60',Saulo Decarli Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,2,149845,2025-05-31 04:50:57
+13377,735926,9,45337318,94,2,4680,78',0,0,Nikolas Muci (Grasshoppers) Yellow Card at 78',Nikolas Muci Yellow Card,492,0.0,0.0,0.0,0.0,0.0,0.0,1,317872,2025-05-31 04:50:57
+13377,735926,12,45337326,76,2,4860,81',0,0,Sonny Kittel (Grasshoppers) Substitution at 81',Sonny Kittel Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,1,149565,2025-05-31 04:50:57
+13377,735926,11,45337325,76,2,4860,81',0,0,Tugra Turhan (Grasshoppers) Substitution at 81',Tugra Turhan Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,1,397221,2025-05-31 04:50:57
+13377,735926,10,45337322,76,2,4860,81',0,0,Pascal Schürpf (Grasshoppers) Substitution at 81',Pascal Schürpf Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,1,126518,2025-05-31 04:50:57
+13377,735926,10,45337322,76,2,4860,81',0,0,Pascal Schürpf (Grasshoppers) Substitution at 81',Pascal Schürpf Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,2,328535,2025-05-31 04:50:57
+13377,735926,11,45337325,76,2,4860,81',0,0,Tugra Turhan (Grasshoppers) Substitution at 81',Tugra Turhan Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,2,317872,2025-05-31 04:50:57
+13377,735926,12,45337326,76,2,4860,81',0,0,Sonny Kittel (Grasshoppers) Substitution at 81',Sonny Kittel Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,2,278517,2025-05-31 04:50:57
+13377,735926,13,45337327,70,2,4920,82',1,0,Linus Obexer (FC Aarau) Goal at 82',Linus Obexer Goal,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,235113,2025-05-31 04:50:57
+13377,735926,14,45337332,76,2,5400,90',0,0,Tsiy William Ndenge (Grasshoppers) Substitution at 90',Tsiy William Ndenge Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,1,222445,2025-05-31 04:50:57
+13377,735926,15,45337339,76,2,5400,90'+5',0,0,Yannick Toure (FC Aarau) Substitution at 95',Yannick Toure Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,281712,2025-05-31 04:50:57
+13377,735926,18,45337342,94,2,5400,90'+13',0,0,Linus Obexer (FC Aarau) Yellow Card at 103',Linus Obexer Yellow Card,3035,0.0,0.0,0.0,0.0,0.0,0.0,1,235113,2025-05-31 04:50:57
+13377,735926,16,45337340,94,2,5400,90'+10',0,0,Benno Schmitz (Grasshoppers) Yellow Card at 100',Benno Schmitz Yellow Card,492,0.0,0.0,0.0,0.0,0.0,0.0,1,191017,2025-05-31 04:50:57
+13377,735926,17,45337341,94,2,5400,90'+13',0,0,Sonny Kittel (Grasshoppers) Yellow Card at 103',Sonny Kittel Yellow Card,492,0.0,0.0,0.0,0.0,0.0,0.0,1,149565,2025-05-31 04:50:57
+13377,735926,14,45337332,76,2,5400,90',0,0,Tsiy William Ndenge (Grasshoppers) Substitution at 90',Tsiy William Ndenge Substitution,492,0.0,0.0,0.0,0.0,0.0,0.0,2,179391,2025-05-31 04:50:57
+13377,735926,15,45337339,76,2,5400,90'+5',0,0,Yannick Toure (FC Aarau) Substitution at 95',Yannick Toure Substitution,3035,0.0,0.0,0.0,0.0,0.0,0.0,2,164551,2025-05-31 04:50:57

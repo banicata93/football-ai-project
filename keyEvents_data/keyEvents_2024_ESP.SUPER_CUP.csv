@@ -1,0 +1,100 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12752,712534,1,44507866,70,1,300,5',1,0,Kylian Mbappé (Real Madrid) Goal at 5',Kylian Mbappé Goal,86,0.0,0.0,0.0,0.0,0.0,0.0,1,231388,2025-01-13 05:36:05
+12752,712534,2,44507927,70,1,1320,22',1,0,Lamine Yamal (Barcelona) Goal at 22',Lamine Yamal Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,362150,2025-01-13 05:36:05
+12752,712534,3,44507972,76,1,1680,28',0,0,Ronald Araújo (Barcelona) Substitution at 28',Ronald Araújo Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,270821,2025-01-13 05:36:05
+12752,712534,3,44507972,76,1,1680,28',0,0,Ronald Araújo (Barcelona) Substitution at 28',Ronald Araújo Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,353559,2025-01-13 05:36:05
+12752,712534,3,44507972,76,1,1680,28',0,0,Ronald Araújo (Barcelona) Substitution at 28',Ronald Araújo Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,165562,2025-01-13 05:36:05
+12752,712534,4,44507982,94,1,2100,35',0,0,Eduardo Camavinga (Real Madrid) Yellow Card at 35',Eduardo Camavinga Yellow Card,86,0.0,0.0,0.0,0.0,0.0,0.0,1,285150,2025-01-13 05:36:05
+12752,712534,5,44507983,98,1,2160,36',1,0,Robert Lewandowski (Barcelona) Penalty - Scored at 36',Robert Lewandowski Penalty - Sco,83,0.0,0.0,0.0,0.0,0.0,0.0,1,125824,2025-01-13 05:36:05
+12752,712534,6,44507988,70,1,2340,39',1,0,Raphinha (Barcelona) Goal at 39',Raphinha Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,339862,2025-01-14 05:35:33
+12752,712534,6,44507988,70,1,2340,39',1,0,Raphinha (Barcelona) Goal at 39',Raphinha Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,231050,2025-01-14 05:35:33
+12752,712534,9,44508162,76,2,2700,45',0,0,Dani Ceballos (Real Madrid) Substitution at 45',Dani Ceballos Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,202717,2025-01-13 05:36:05
+12752,712534,7,44508070,94,1,2700,45'+8',0,0,Iñigo Martínez (Barcelona) Yellow Card at 53',Iñigo Martínez Yellow Card,83,0.0,0.0,0.0,0.0,0.0,0.0,1,353559,2025-01-13 05:36:05
+12752,712534,7,44508070,94,1,2700,45'+8',0,0,Iñigo Martínez (Barcelona) Yellow Card at 53',Iñigo Martínez Yellow Card,83,0.0,0.0,0.0,0.0,0.0,0.0,1,165562,2025-01-13 05:36:05
+12752,712534,8,44508086,70,1,2700,45'+10',1,0,Alejandro Balde (Barcelona) Goal at 55',Alejandro Balde Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,323703,2025-01-13 05:36:05
+12752,712534,9,44508162,76,2,2700,45',0,0,Dani Ceballos (Real Madrid) Substitution at 45',Dani Ceballos Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,285150,2025-01-13 05:36:05
+12752,712534,10,44508165,70,2,2880,48',1,0,Raphinha (Barcelona) Goal at 48',Raphinha Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,231050,2025-01-14 05:35:33
+12752,712534,10,44508165,70,2,2880,48',1,0,Raphinha (Barcelona) Goal at 48',Raphinha Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,339862,2025-01-14 05:35:33
+12752,712534,11,44508180,76,2,3120,52',0,0,Raúl Asencio (Real Madrid) Substitution at 52',Raúl Asencio Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,388338,2025-01-13 05:36:05
+12752,712534,11,44508180,76,2,3120,52',0,0,Raúl Asencio (Real Madrid) Substitution at 52',Raúl Asencio Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,227624,2025-01-13 05:36:05
+12752,712534,11,44508180,76,2,3120,52',0,0,Raúl Asencio (Real Madrid) Substitution at 52',Raúl Asencio Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,174967,2025-01-13 05:36:05
+12752,712534,11,44508180,76,2,3120,52',0,0,Raúl Asencio (Real Madrid) Substitution at 52',Raúl Asencio Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,243922,2025-01-13 05:36:05
+12752,712534,11,44508180,76,2,3120,52',0,0,Raúl Asencio (Real Madrid) Substitution at 52',Raúl Asencio Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,399731,2025-01-13 05:36:05
+12752,712534,12,44508192,94,2,3180,53',0,0,Antonio Rüdiger (Real Madrid) Yellow Card at 53',Antonio Rüdiger Yellow Card,86,0.0,0.0,0.0,0.0,0.0,0.0,1,169438,2025-01-13 05:36:05
+12752,712534,13,44508201,94,2,3300,55',0,0,Vinícius Júnior (Real Madrid) Yellow Card at 55',Vinícius Júnior Yellow Card,86,0.0,0.0,0.0,0.0,0.0,0.0,1,252107,2025-01-14 05:35:33
+12752,712534,14,44508215,93,2,3360,56',0,0,Wojciech Szczesny (Barcelona) Red Card at 56',Wojciech Szczesny Red Card,83,0.0,0.0,0.0,0.0,0.0,0.0,1,131634,2025-01-13 05:36:05
+12752,712534,16,44508225,76,2,3540,59',0,0,Dani Olmo (Barcelona) Substitution at 59',Dani Olmo Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,227765,2025-01-13 05:36:05
+12752,712534,15,44508224,76,2,3540,59',0,0,Iñaki Peña (Barcelona) Substitution at 59',Iñaki Peña Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,282680,2025-01-13 05:36:05
+12752,712534,15,44508224,76,2,3540,59',0,0,Iñaki Peña (Barcelona) Substitution at 59',Iñaki Peña Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,323702,2025-01-13 05:36:05
+12752,712534,16,44508225,76,2,3540,59',0,0,Dani Olmo (Barcelona) Substitution at 59',Dani Olmo Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,362150,2025-01-13 05:36:05
+12752,712534,17,44508226,70,2,3600,60',1,0,Rodrygo (Real Madrid) Goal at 60',Rodrygo Goal,86,0.0,0.0,0.0,0.0,0.0,0.0,1,267804,2025-01-14 05:35:33
+12752,712534,18,44508238,94,2,3720,62',0,0,Aurélien Tchouaméni (Real Madrid) Yellow Card at 62',Aurélien Tchouaméni Yellow Card,86,0.0,0.0,0.0,0.0,0.0,0.0,1,265919,2025-01-13 05:36:05
+12752,712534,19,44508245,76,2,3840,64',0,0,Luka Modric (Real Madrid) Substitution at 64',Luka Modric Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,76762,2025-01-13 05:36:05
+12752,712534,19,44508245,76,2,3840,64',0,0,Luka Modric (Real Madrid) Substitution at 64',Luka Modric Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,265919,2025-01-13 05:36:05
+12752,712534,20,44508289,76,2,4500,75',0,0,Fran García (Real Madrid) Substitution at 75',Fran García Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,213050,2025-01-13 05:36:05
+12752,712534,20,44508289,76,2,4500,75',0,0,Fran García (Real Madrid) Substitution at 75',Fran García Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,148612,2025-01-13 05:36:05
+12752,712534,20,44508289,76,2,4500,75',0,0,Fran García (Real Madrid) Substitution at 75',Fran García Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,217475,2025-01-13 05:36:05
+12752,712534,21,44508290,76,2,4560,76',0,0,Brahim Díaz (Real Madrid) Substitution at 76',Brahim Díaz Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,246532,2025-01-13 05:36:05
+12752,712534,21,44508290,76,2,4560,76',0,0,Brahim Díaz (Real Madrid) Substitution at 76',Brahim Díaz Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,252107,2025-01-13 05:36:05
+12752,712534,23,44508292,94,2,4620,77',0,0,Raúl Asencio (Real Madrid) Yellow Card at 77',Raúl Asencio Yellow Card,86,0.0,0.0,0.0,0.0,0.0,0.0,1,388338,2025-01-13 05:36:05
+12752,712534,23,44508292,94,2,4620,77',0,0,Raúl Asencio (Real Madrid) Yellow Card at 77',Raúl Asencio Yellow Card,86,0.0,0.0,0.0,0.0,0.0,0.0,1,227624,2025-01-13 05:36:05
+12752,712534,22,44508291,94,2,4620,77',0,0,Robert Lewandowski (Barcelona) Yellow Card at 77',Robert Lewandowski Yellow Card,83,0.0,0.0,0.0,0.0,0.0,0.0,1,125824,2025-01-13 05:36:05
+12752,712534,24,44508300,76,2,4740,79',0,0,Ferran Torres (Barcelona) Substitution at 79',Ferran Torres Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,265869,2025-01-13 05:36:05
+12752,712534,24,44508300,76,2,4740,79',0,0,Ferran Torres (Barcelona) Substitution at 79',Ferran Torres Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,231050,2025-01-13 05:36:05
+12752,712534,24,44508300,76,2,4740,79',0,0,Ferran Torres (Barcelona) Substitution at 79',Ferran Torres Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,339862,2025-01-13 05:36:05
+12752,712534,25,44508329,94,2,5220,87',0,0,Ronald Araújo (Barcelona) Yellow Card at 87',Ronald Araújo Yellow Card,83,0.0,0.0,0.0,0.0,0.0,0.0,1,270821,2025-01-13 05:36:05
+12752,712534,26,44508343,94,2,5340,89',0,0,Raphinha (Barcelona) Yellow Card at 89',Raphinha Yellow Card,83,0.0,0.0,0.0,0.0,0.0,0.0,1,339862,2025-01-14 05:35:33
+12752,712534,26,44508343,94,2,5340,89',0,0,Raphinha (Barcelona) Yellow Card at 89',Raphinha Yellow Card,83,0.0,0.0,0.0,0.0,0.0,0.0,1,231050,2025-01-14 05:35:33
+12753,712532,1,44492247,76,1,2040,34',0,0,Copete (Mallorca) Substitution at 34',Copete Substitution,84,0.0,0.0,0.0,0.0,0.0,0.0,1,300927,2025-01-10 05:38:16
+12753,712532,1,44492247,76,1,2040,34',0,0,Copete (Mallorca) Substitution at 34',Copete Substitution,84,0.0,0.0,0.0,0.0,0.0,0.0,1,299207,2025-01-10 05:38:16
+12753,712532,1,44492247,76,1,2040,34',0,0,Copete (Mallorca) Substitution at 34',Copete Substitution,84,0.0,0.0,0.0,0.0,0.0,0.0,2,222333,2025-01-10 05:38:16
+12753,712532,2,44492386,76,2,3300,55',0,0,Raúl Asencio (Real Madrid) Substitution at 55',Raúl Asencio Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,388338,2025-01-10 05:38:16
+12753,712532,2,44492386,76,2,3300,55',0,0,Raúl Asencio (Real Madrid) Substitution at 55',Raúl Asencio Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,227624,2025-01-10 05:38:16
+12753,712532,2,44492386,76,2,3300,55',0,0,Raúl Asencio (Real Madrid) Substitution at 55',Raúl Asencio Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,265919,2025-01-10 05:38:16
+12753,712532,3,44492418,70,2,3780,63',1,0,Jude Bellingham (Real Madrid) Goal at 63',Jude Bellingham Goal,86,0.0,0.0,0.0,0.0,0.0,0.0,1,291281,2025-01-10 05:38:16
+12753,712532,4,44492438,94,2,3960,66',0,0,Jude Bellingham (Real Madrid) Yellow Card at 66',Jude Bellingham Yellow Card,86,0.0,0.0,0.0,0.0,0.0,0.0,1,291281,2025-01-10 05:38:16
+12753,712532,6,44492486,76,2,4200,70',0,0,Samú Costa (Mallorca) Substitution at 70',Samú Costa Substitution,84,0.0,0.0,0.0,0.0,0.0,0.0,1,183466,2025-01-10 05:38:16
+12753,712532,7,44492487,76,2,4200,70',0,0,Takuma Asano (Mallorca) Substitution at 70',Takuma Asano Substitution,84,0.0,0.0,0.0,0.0,0.0,0.0,1,201469,2025-01-11 05:44:49
+12753,712532,5,44492485,76,2,4200,70',0,0,Robert Navarro (Mallorca) Substitution at 70',Robert Navarro Substitution,84,0.0,0.0,0.0,0.0,0.0,0.0,1,276996,2025-01-10 05:38:16
+12753,712532,6,44492486,76,2,4200,70',0,0,Samú Costa (Mallorca) Substitution at 70',Samú Costa Substitution,84,0.0,0.0,0.0,0.0,0.0,0.0,2,268753,2025-01-10 05:38:16
+12753,712532,5,44492485,76,2,4200,70',0,0,Robert Navarro (Mallorca) Substitution at 70',Robert Navarro Substitution,84,0.0,0.0,0.0,0.0,0.0,0.0,2,205024,2025-01-10 05:38:16
+12753,712532,7,44492487,76,2,4200,70',0,0,Takuma Asano (Mallorca) Substitution at 70',Takuma Asano Substitution,84,0.0,0.0,0.0,0.0,0.0,0.0,2,165519,2025-01-11 05:44:49
+12753,712532,8,44492500,94,2,4440,74',0,0,Eduardo Camavinga (Real Madrid) Yellow Card at 74',Eduardo Camavinga Yellow Card,86,0.0,0.0,0.0,0.0,0.0,0.0,1,285150,2025-01-10 05:38:16
+12753,712532,9,44492501,76,2,4500,75',0,0,Dani Ceballos (Real Madrid) Substitution at 75',Dani Ceballos Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,202717,2025-01-10 05:38:16
+12753,712532,9,44492501,76,2,4500,75',0,0,Dani Ceballos (Real Madrid) Substitution at 75',Dani Ceballos Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,235818,2025-01-10 05:38:16
+12753,712532,10,44492525,76,2,4860,81',0,0,Abdón Prats (Mallorca) Substitution at 81',Abdón Prats Substitution,84,0.0,0.0,0.0,0.0,0.0,0.0,1,155935,2025-01-10 05:38:16
+12753,712532,10,44492525,76,2,4860,81',0,0,Abdón Prats (Mallorca) Substitution at 81',Abdón Prats Substitution,84,0.0,0.0,0.0,0.0,0.0,0.0,2,144587,2025-01-10 05:38:16
+12753,712532,11,44492540,76,2,5280,88',0,0,Brahim Díaz (Real Madrid) Substitution at 88',Brahim Díaz Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,246532,2025-01-10 05:38:16
+12753,712532,11,44492540,76,2,5280,88',0,0,Brahim Díaz (Real Madrid) Substitution at 88',Brahim Díaz Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,252107,2025-01-10 05:38:16
+12753,712532,12,44492553,97,2,5400,90'+2',1,0,Martin Valjent (Mallorca) Own Goal at 92',Martin Valjent Own Goal,86,0.0,0.0,0.0,0.0,0.0,0.0,1,193397,2025-01-10 05:38:16
+12753,712532,13,44492569,70,2,5400,90'+5',1,0,Rodrygo  (Real Madrid) Goal at 95',Rodrygo  Goal,86,0.0,0.0,0.0,0.0,0.0,0.0,1,267804,2025-01-10 05:38:16
+12753,712532,16,44494477,94,2,5400,90'+7',0,0,Antonio Raíllo (Mallorca) Yellow Card at 97',Antonio Raíllo Yellow Card,84,0.0,0.0,0.0,0.0,0.0,0.0,1,222333,2025-01-11 05:44:49
+12753,712532,15,44494476,94,2,5400,90'+7',0,0,Antonio Rüdiger (Real Madrid) Yellow Card at 97',Antonio Rüdiger Yellow Card,86,0.0,0.0,0.0,0.0,0.0,0.0,1,169438,2025-01-11 05:44:49
+12753,712532,14,44494475,94,2,5400,90'+7',0,0,Raúl Asencio (Real Madrid) Yellow Card at 97',Raúl Asencio Yellow Card,86,0.0,0.0,0.0,0.0,0.0,0.0,1,388338,2025-01-11 05:44:49
+12753,712532,14,44494475,94,2,5400,90'+7',0,0,Raúl Asencio (Real Madrid) Yellow Card at 97',Raúl Asencio Yellow Card,86,0.0,0.0,0.0,0.0,0.0,0.0,1,227624,2025-01-11 05:44:49
+12753,712532,17,44494478,94,2,5400,90'+7',0,0,Dani Rodríguez (Mallorca) Yellow Card at 97',Dani Rodríguez Yellow Card,84,0.0,0.0,0.0,0.0,0.0,0.0,1,144587,2025-01-11 05:44:49
+12753,712533,1,44491778,70,1,1020,17',1,0,Gavi  (Barcelona) Goal at 17',Gavi  Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,323702,2025-01-13 05:36:05
+12753,712533,2,44491811,94,2,3000,50',0,0,Álex Berenguer (Athletic Club) Yellow Card at 50',Álex Berenguer Yellow Card,93,0.0,0.0,0.0,0.0,0.0,0.0,1,209579,2025-01-09 05:44:38
+12753,712533,3,44491813,70,2,3120,52',1,0,Lamine Yamal (Barcelona) Goal at 52',Lamine Yamal Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,362150,2025-01-09 05:44:38
+12753,712533,5,44491828,76,2,3780,63',0,0,Óscar de Marcos (Athletic Club) Substitution at 63',Óscar de Marcos Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,130135,2025-01-09 05:44:38
+12753,712533,4,44491827,76,2,3780,63',0,0,Mikel Vesga (Athletic Club) Substitution at 63',Mikel Vesga Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,222373,2025-01-09 05:44:38
+12753,712533,6,44491829,76,2,3780,63',0,0,Nico Williams (Athletic Club) Substitution at 63',Nico Williams Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,379668,2025-01-09 05:44:38
+12753,712533,6,44491829,76,2,3780,63',0,0,Nico Williams (Athletic Club) Substitution at 63',Nico Williams Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,312146,2025-01-09 05:44:38
+12753,712533,7,44491830,76,2,3780,63',0,0,Fermín López (Barcelona) Substitution at 63',Fermín López Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,354334,2025-01-09 05:44:38
+12753,712533,5,44491828,76,2,3780,63',0,0,Óscar de Marcos (Athletic Club) Substitution at 63',Óscar de Marcos Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,222369,2025-01-09 05:44:38
+12753,712533,7,44491830,76,2,3780,63',0,0,Fermín López (Barcelona) Substitution at 63',Fermín López Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,362150,2025-01-09 05:44:38
+12753,712533,6,44491829,76,2,3780,63',0,0,Nico Williams (Athletic Club) Substitution at 63',Nico Williams Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,231905,2025-01-09 05:44:38
+12753,712533,4,44491827,76,2,3780,63',0,0,Mikel Vesga (Athletic Club) Substitution at 63',Mikel Vesga Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,318785,2025-01-09 05:44:38
+12753,712533,10,44491860,76,2,4380,73',0,0,Nico Serrano (Athletic Club) Substitution at 73',Nico Serrano Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,323971,2025-01-09 05:44:38
+12753,712533,9,44491859,76,2,4380,73',0,0,Frenkie de Jong (Barcelona) Substitution at 73',Frenkie de Jong Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,219022,2025-01-09 05:44:38
+12753,712533,8,44491858,76,2,4380,73',0,0,Ferran Torres (Barcelona) Substitution at 73',Ferran Torres Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,265869,2025-01-09 05:44:38
+12753,712533,10,44491860,76,2,4380,73',0,0,Nico Serrano (Athletic Club) Substitution at 73',Nico Serrano Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,209579,2025-01-09 05:44:38
+12753,712533,9,44491859,76,2,4380,73',0,0,Frenkie de Jong (Barcelona) Substitution at 73',Frenkie de Jong Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,323702,2025-01-09 05:44:38
+12753,712533,8,44491858,76,2,4380,73',0,0,Ferran Torres (Barcelona) Substitution at 73',Ferran Torres Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,125824,2025-01-09 05:44:38
+12753,712533,11,44492060,94,2,4560,76',0,0,Unai Gómez (Athletic Club) Yellow Card at 76',Unai Gómez Yellow Card,93,0.0,0.0,0.0,0.0,0.0,0.0,1,362376,2025-01-09 05:44:38
+12753,712533,12,44491873,76,2,4800,80',0,0,Álvaro Djaló (Athletic Club) Substitution at 80',Álvaro Djaló Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,347033,2025-01-09 05:44:38
+12753,712533,12,44491873,76,2,4800,80',0,0,Álvaro Djaló (Athletic Club) Substitution at 80',Álvaro Djaló Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,362376,2025-01-09 05:44:38
+12753,712533,14,44491875,76,2,4980,83',0,0,Gerard Martín (Barcelona) Substitution at 83',Gerard Martín Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,312015,2025-01-09 05:44:38
+12753,712533,13,44491874,76,2,4980,83',0,0,Eric García (Barcelona) Substitution at 83',Eric García Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,128714,2025-01-09 05:44:38
+12753,712533,13,44491874,76,2,4980,83',0,0,Eric García (Barcelona) Substitution at 83',Eric García Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,345489,2025-01-09 05:44:38
+12753,712533,14,44491875,76,2,4980,83',0,0,Gerard Martín (Barcelona) Substitution at 83',Gerard Martín Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,323703,2025-01-09 05:44:38

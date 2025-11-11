@@ -1,0 +1,35 @@
+{
+  "train": {
+    "accuracy_1x2": 0.54739336492891,
+    "accuracy_over25": 0.6628300609343263,
+    "accuracy_btts": 0.6164522681110359,
+    "log_loss_1x2": 0.9892517106577711,
+    "log_loss_over25": 0.6138678635000937,
+    "log_loss_btts": 0.6430468677089674,
+    "mean_lambda_home": Infinity,
+    "mean_lambda_away": Infinity,
+    "mean_expected_goals": Infinity
+  },
+  "validation": {
+    "accuracy_1x2": 0.45447599643448366,
+    "accuracy_over25": 0.5279511014898765,
+    "accuracy_btts": 0.5285878008404431,
+    "log_loss_1x2": 1.1813782607290242,
+    "log_loss_over25": 0.731571808245681,
+    "log_loss_btts": 0.7952891301812677,
+    "mean_lambda_home": Infinity,
+    "mean_lambda_away": Infinity,
+    "mean_expected_goals": Infinity
+  },
+  "test": {
+    "accuracy_1x2": 0.45214503182950455,
+    "accuracy_over25": 0.5065873235538334,
+    "accuracy_btts": 0.5014669249930805,
+    "log_loss_1x2": 1.2165793048829785,
+    "log_loss_over25": 0.7213361410510508,
+    "log_loss_btts": 0.8559325653275197,
+    "mean_lambda_home": Infinity,
+    "mean_lambda_away": Infinity,
+    "mean_expected_goals": Infinity
+  }
+}

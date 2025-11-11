@@ -1,0 +1,347 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13222,730964,1,44713590,76,2,2700,45',0,0,Isabelle Nottet (Telstar) Substitution at 45',Isabelle Nottet Substitution,21585,0.0,0.0,0.0,0.0,0.0,0.0,1,319219.0,2025-02-17 05:55:33
+13222,730964,1,44713590,76,2,2700,45',0,0,Isabelle Nottet (Telstar) Substitution at 45',Isabelle Nottet Substitution,21585,0.0,0.0,0.0,0.0,0.0,0.0,2,350570.0,2025-02-17 05:55:33
+13222,730964,2,44713707,98,2,3180,53',1,0,Manon van Raay (ADO Den Haag) Penalty - Scored at 53',Manon van Raay Penalty - Scored,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,311658.0,2025-02-17 05:55:33
+13222,730964,3,44713787,70,2,3480,58',1,0,Cheyenne Van Den Goorbergh (ADO Den Haag) Goal at 58',Cheyenne Van Den Goorbergh Goal,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,285104.0,2025-02-17 05:55:33
+13222,730964,5,44713834,76,2,3660,61',0,0,Louise Van Oosten (ADO Den Haag) Substitution at 61',Louise Van Oosten Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,313469.0,2025-02-17 05:55:33
+13222,730964,4,44713833,76,2,3660,61',0,0,Samya Hassani (Telstar) Substitution at 61',Samya Hassani Substitution,21585,0.0,0.0,0.0,0.0,0.0,0.0,1,309872.0,2025-02-17 05:55:33
+13222,730964,4,44713833,76,2,3660,61',0,0,Samya Hassani (Telstar) Substitution at 61',Samya Hassani Substitution,21585,0.0,0.0,0.0,0.0,0.0,0.0,2,350460.0,2025-02-17 05:55:33
+13222,730964,5,44713834,76,2,3660,61',0,0,Louise Van Oosten (ADO Den Haag) Substitution at 61',Louise Van Oosten Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,2,309991.0,2025-02-17 05:55:33
+13222,730964,6,44713841,70,2,3780,63',1,0,Manon van Raay (ADO Den Haag) Goal at 63',Manon van Raay Goal,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,311658.0,2025-02-17 05:55:33
+13222,730964,7,44713869,94,2,3900,65',0,0,Jannette Van Belen (Telstar) Yellow Card at 65',Jannette Van Belen Yellow Card,21585,0.0,0.0,0.0,0.0,0.0,0.0,1,309982.0,2025-02-17 05:55:33
+13222,730964,8,44713942,70,2,4200,70',1,0,Manon van Raay (ADO Den Haag) Goal at 70',Manon van Raay Goal,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,311658.0,2025-02-17 05:55:33
+13222,730964,10,44714060,76,2,4680,78',0,0,June Burgers (ADO Den Haag) Substitution at 78',June Burgers Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,340676.0,2025-02-17 05:55:33
+13222,730964,11,44714061,76,2,4680,78',0,0,Quinty Dupon (ADO Den Haag) Substitution at 78',Quinty Dupon Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,359819.0,2025-02-17 05:55:33
+13222,730964,9,44714059,76,2,4680,78',0,0,Jet Van Mierlo (ADO Den Haag) Substitution at 78',Jet Van Mierlo Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,393433.0,2025-02-17 05:55:33
+13222,730964,11,44714061,76,2,4680,78',0,0,Quinty Dupon (ADO Den Haag) Substitution at 78',Quinty Dupon Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,2,285104.0,2025-02-17 05:55:33
+13222,730964,9,44714059,76,2,4680,78',0,0,Jet Van Mierlo (ADO Den Haag) Substitution at 78',Jet Van Mierlo Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,2,309894.0,2025-02-17 05:55:33
+13222,730964,10,44714060,76,2,4680,78',0,0,June Burgers (ADO Den Haag) Substitution at 78',June Burgers Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,2,309995.0,2025-02-17 05:55:33
+13222,730964,12,44714062,76,2,4740,79',0,0,Sydney Blomquist (Telstar) Substitution at 79',Sydney Blomquist Substitution,21585,0.0,0.0,0.0,0.0,0.0,0.0,1,392698.0,2025-02-17 05:55:33
+13222,730964,13,44714063,76,2,4740,79',0,0,Esmee Daalman (Telstar) Substitution at 79',Esmee Daalman Substitution,21585,0.0,0.0,0.0,0.0,0.0,0.0,1,358549.0,2025-02-17 05:55:33
+13222,730964,12,44714062,76,2,4740,79',0,0,Sydney Blomquist (Telstar) Substitution at 79',Sydney Blomquist Substitution,21585,0.0,0.0,0.0,0.0,0.0,0.0,2,350568.0,2025-02-17 05:55:33
+13222,730964,13,44714063,76,2,4740,79',0,0,Esmee Daalman (Telstar) Substitution at 79',Esmee Daalman Substitution,21585,0.0,0.0,0.0,0.0,0.0,0.0,2,392699.0,2025-02-17 05:55:33
+13222,730964,14,44714115,76,2,4980,83',0,0,Pauline Van De Pol (Telstar) Substitution at 83',Pauline Van De Pol Substitution,21585,0.0,0.0,0.0,0.0,0.0,0.0,1,350569.0,2025-02-17 05:55:33
+13222,730964,14,44714115,76,2,4980,83',0,0,Pauline Van De Pol (Telstar) Substitution at 83',Pauline Van De Pol Substitution,21585,0.0,0.0,0.0,0.0,0.0,0.0,2,350576.0,2025-02-17 05:55:33
+13222,730964,15,44714138,70,2,5100,85',1,0,Floortje Den Bol (ADO Den Haag) Goal at 85',Floortje Den Bol Goal,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,393434.0,2025-02-17 05:55:33
+13222,730964,16,44714152,94,2,5160,86',0,0,Nikki Ridder (Telstar) Yellow Card at 86',Nikki Ridder Yellow Card,21585,0.0,0.0,0.0,0.0,0.0,0.0,1,309900.0,2025-02-17 05:55:33
+13222,730964,17,44714193,76,2,5280,88',0,0,Fien Leijdekker (ADO Den Haag) Substitution at 88',Fien Leijdekker Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,400333.0,2025-02-17 05:55:33
+13222,730964,17,44714193,76,2,5280,88',0,0,Fien Leijdekker (ADO Den Haag) Substitution at 88',Fien Leijdekker Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,2,311658.0,2025-02-17 05:55:33
+13222,730965,1,44693933,70,1,1260,21',1,0,Desiree van Lunteren (AZ Alkmaar) Goal at 21',Desiree van Lunteren Goal,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,219955.0,2025-02-15 05:51:54
+13222,730965,2,44693936,70,1,1380,23',1,0,Lotje De Keijzer (FC Utrecht) Goal at 23',Lotje De Keijzer Goal,21978,0.0,0.0,0.0,0.0,0.0,0.0,1,316606.0,2025-02-15 05:51:54
+13222,730965,3,44693949,94,1,1680,28',0,0,Lotje De Keijzer (FC Utrecht) Yellow Card at 28',Lotje De Keijzer Yellow Card,21978,0.0,0.0,0.0,0.0,0.0,0.0,1,316606.0,2025-02-15 05:51:54
+13222,730965,4,44694311,76,2,4380,73',0,0,Mirte Van Bentum (AZ Alkmaar) Substitution at 73',Mirte Van Bentum Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,370560.0,2025-02-15 05:51:54
+13222,730965,5,44694312,76,2,4380,73',0,0,Floor Spaan (AZ Alkmaar) Substitution at 73',Floor Spaan Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,352612.0,2025-02-15 05:51:54
+13222,730965,5,44694312,76,2,4380,73',0,0,Floor Spaan (AZ Alkmaar) Substitution at 73',Floor Spaan Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,350885.0,2025-02-15 05:51:54
+13222,730965,4,44694311,76,2,4380,73',0,0,Mirte Van Bentum (AZ Alkmaar) Substitution at 73',Mirte Van Bentum Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,2,219955.0,2025-02-15 05:51:54
+13222,730965,5,44694312,76,2,4380,73',0,0,Floor Spaan (AZ Alkmaar) Substitution at 73',Floor Spaan Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,2,316605.0,2025-02-15 05:51:54
+13222,730965,6,44694313,76,2,4440,74',0,0,Maxime Snellenberg (FC Utrecht) Substitution at 74',Maxime Snellenberg Substitution,21978,0.0,0.0,0.0,0.0,0.0,0.0,1,312512.0,2025-02-15 05:51:54
+13222,730965,6,44694313,76,2,4440,74',0,0,Maxime Snellenberg (FC Utrecht) Substitution at 74',Maxime Snellenberg Substitution,21978,0.0,0.0,0.0,0.0,0.0,0.0,2,359612.0,2025-02-15 05:51:54
+13222,730965,8,44694443,76,2,4920,82',0,0,Elisha Kruize (FC Utrecht) Substitution at 82',Elisha Kruize Substitution,21978,0.0,0.0,0.0,0.0,0.0,0.0,1,347606.0,2025-02-15 05:51:54
+13222,730965,7,44694442,76,2,4920,82',0,0,Judith Roosjen (FC Utrecht) Substitution at 82',Judith Roosjen Substitution,21978,0.0,0.0,0.0,0.0,0.0,0.0,1,309956.0,2025-02-15 05:51:54
+13222,730965,8,44694443,76,2,4920,82',0,0,Elisha Kruize (FC Utrecht) Substitution at 82',Elisha Kruize Substitution,21978,0.0,0.0,0.0,0.0,0.0,0.0,2,350423.0,2025-02-15 05:51:54
+13222,730965,7,44694442,76,2,4920,82',0,0,Judith Roosjen (FC Utrecht) Substitution at 82',Judith Roosjen Substitution,21978,0.0,0.0,0.0,0.0,0.0,0.0,2,317223.0,2025-02-15 05:51:54
+13222,730965,9,44694444,70,2,5040,84',1,0,Floor Spaan (AZ Alkmaar) Goal at 84',Floor Spaan Goal,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,352612.0,2025-02-15 05:51:54
+13222,730965,9,44694444,70,2,5040,84',1,0,Floor Spaan (AZ Alkmaar) Goal at 84',Floor Spaan Goal,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,350885.0,2025-02-15 05:51:54
+13222,730965,11,44694485,76,2,5100,85',0,0,Romaissa Boukakar (AZ Alkmaar) Substitution at 85',Romaissa Boukakar Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,370561.0,2025-02-15 05:51:54
+13222,730965,10,44694484,76,2,5100,85',0,0,Jasmijn Van Uden (AZ Alkmaar) Substitution at 85',Jasmijn Van Uden Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,359626.0,2025-02-15 05:51:54
+13222,730965,11,44694485,76,2,5100,85',0,0,Romaissa Boukakar (AZ Alkmaar) Substitution at 85',Romaissa Boukakar Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,2,355477.0,2025-02-15 05:51:54
+13222,730965,10,44694484,76,2,5100,85',0,0,Jasmijn Van Uden (AZ Alkmaar) Substitution at 85',Jasmijn Van Uden Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,2,359614.0,2025-02-15 05:51:54
+13222,730965,12,44694531,76,2,5220,87',0,0,Tami Groenendijk (FC Utrecht) Substitution at 87',Tami Groenendijk Substitution,21978,0.0,0.0,0.0,0.0,0.0,0.0,1,359586.0,2025-02-15 05:51:54
+13222,730965,13,44694532,76,2,5220,87',0,0,Sam De Jong (FC Utrecht) Substitution at 87',Sam De Jong Substitution,21978,0.0,0.0,0.0,0.0,0.0,0.0,1,374815.0,2025-02-15 05:51:54
+13222,730965,12,44694531,76,2,5220,87',0,0,Tami Groenendijk (FC Utrecht) Substitution at 87',Tami Groenendijk Substitution,21978,0.0,0.0,0.0,0.0,0.0,0.0,2,392845.0,2025-02-15 05:51:54
+13222,730965,13,44694532,76,2,5220,87',0,0,Sam De Jong (FC Utrecht) Substitution at 87',Sam De Jong Substitution,21978,0.0,0.0,0.0,0.0,0.0,0.0,2,369850.0,2025-02-15 05:51:54
+13222,730965,14,44694610,76,2,5400,90'+3',0,0,Ilvy Zijp (AZ Alkmaar) Substitution at 93',Ilvy Zijp Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,315188.0,2025-02-15 05:51:54
+13222,730965,14,44694610,76,2,5400,90'+3',0,0,Ilvy Zijp (AZ Alkmaar) Substitution at 93',Ilvy Zijp Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,2,318528.0,2025-02-15 05:51:54
+13222,730966,1,44701864,70,1,1260,21',1,0,Rose Ivens (FC Twente) Goal at 21',Rose Ivens Goal,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,381092.0,2025-02-16 05:52:26
+13222,730966,2,44703006,70,1,2700,45',1,0,Kayleigh Van Dooren (FC Twente) Goal at 45',Kayleigh Van Dooren Goal,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309953.0,2025-02-16 05:52:26
+13222,730966,4,44703642,76,2,2760,46',0,0,Jade Van Hensbergen (Ajax Amsterdam) Substitution at 46',Jade Van Hensbergen Substitution,20796,0.0,0.0,0.0,0.0,0.0,0.0,1,380462.0,2025-02-16 05:52:26
+13222,730966,3,44703641,76,2,2760,46',0,0,Bo Van Egmond (Ajax Amsterdam) Substitution at 46',Bo Van Egmond Substitution,20796,0.0,0.0,0.0,0.0,0.0,0.0,1,355039.0,2025-02-16 05:52:26
+13222,730966,3,44703641,76,2,2760,46',0,0,Bo Van Egmond (Ajax Amsterdam) Substitution at 46',Bo Van Egmond Substitution,20796,0.0,0.0,0.0,0.0,0.0,0.0,2,309954.0,2025-02-16 05:52:26
+13222,730966,4,44703642,76,2,2760,46',0,0,Jade Van Hensbergen (Ajax Amsterdam) Substitution at 46',Jade Van Hensbergen Substitution,20796,0.0,0.0,0.0,0.0,0.0,0.0,2,369798.0,2025-02-16 05:52:26
+13222,730966,5,44703672,94,2,2880,48',0,0,Bo Van Egmond (Ajax Amsterdam) Yellow Card at 48',Bo Van Egmond Yellow Card,20796,0.0,0.0,0.0,0.0,0.0,0.0,1,355039.0,2025-02-16 05:52:26
+13222,730966,6,44703773,94,2,3480,58',0,0,Rose Ivens (FC Twente) Yellow Card at 58',Rose Ivens Yellow Card,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,381092.0,2025-02-16 05:52:26
+13222,730966,7,44703918,76,2,3960,66',0,0,Nikee Van Dijk (FC Twente) Substitution at 66',Nikee Van Dijk Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309964.0,2025-02-16 05:52:26
+13222,730966,7,44703918,76,2,3960,66',0,0,Nikee Van Dijk (FC Twente) Substitution at 66',Nikee Van Dijk Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,2,309875.0,2025-02-16 05:52:26
+13222,730966,9,44704170,76,2,4980,83',0,0,Leonie Vliek (FC Twente) Substitution at 83',Leonie Vliek Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,334924.0,2025-02-16 05:52:26
+13222,730966,8,44704169,76,2,4980,83',0,0,Jill Diekman (FC Twente) Substitution at 83',Jill Diekman Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309920.0,2025-02-16 05:52:26
+13222,730966,9,44704170,76,2,4980,83',0,0,Leonie Vliek (FC Twente) Substitution at 83',Leonie Vliek Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,2,309993.0,2025-02-16 05:52:26
+13222,730966,8,44704169,76,2,4980,83',0,0,Jill Diekman (FC Twente) Substitution at 83',Jill Diekman Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,2,309953.0,2025-02-16 05:52:26
+13222,730966,10,44704191,76,2,5040,84',0,0,Roos van der Veen (Ajax Amsterdam) Substitution at 84',Roos van der Veen Substitution,20796,0.0,0.0,0.0,0.0,0.0,0.0,1,309967.0,2025-02-16 05:52:26
+13222,730966,10,44704191,76,2,5040,84',0,0,Roos van der Veen (Ajax Amsterdam) Substitution at 84',Roos van der Veen Substitution,20796,0.0,0.0,0.0,0.0,0.0,0.0,2,369801.0,2025-02-16 05:52:26
+13222,730966,11,44704271,76,2,5400,90',0,0,Eva Elberink (FC Twente) Substitution at 90',Eva Elberink Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,347607.0,2025-02-16 05:52:26
+13222,730966,11,44704271,76,2,5400,90',0,0,Eva Elberink (FC Twente) Substitution at 90',Eva Elberink Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,2,381092.0,2025-02-16 05:52:26
+13222,730967,1,44694080,76,2,2760,46',0,0,Chantal Schouwstra (Heerenveen) Substitution at 46',Chantal Schouwstra Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,1,309878.0,2025-02-15 05:51:54
+13222,730967,1,44694080,76,2,2760,46',0,0,Chantal Schouwstra (Heerenveen) Substitution at 46',Chantal Schouwstra Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,2,350380.0,2025-02-15 05:51:54
+13222,730967,2,44694218,76,2,3900,65',0,0,Demi Werther (Heerenveen) Substitution at 65',Demi Werther Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,1,351304.0,2025-02-15 05:51:54
+13222,730967,2,44694218,76,2,3900,65',0,0,Demi Werther (Heerenveen) Substitution at 65',Demi Werther Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,2,396874.0,2025-02-15 05:51:54
+13222,730967,3,44694243,76,2,4080,68',0,0,Ilse Kemper (PEC Zwolle) Substitution at 68',Ilse Kemper Substitution,20797,0.0,0.0,0.0,0.0,0.0,0.0,1,350882.0,2025-02-15 05:51:54
+13222,730967,3,44694243,76,2,4080,68',0,0,Ilse Kemper (PEC Zwolle) Substitution at 68',Ilse Kemper Substitution,20797,0.0,0.0,0.0,0.0,0.0,0.0,2,352614.0,2025-02-15 05:51:54
+13222,730967,4,44694370,70,2,4680,78',1,0,Sterre Kroezen (PEC Zwolle) Goal at 78',Sterre Kroezen Goal,20797,0.0,0.0,0.0,0.0,0.0,0.0,1,315130.0,2025-02-15 05:51:54
+13222,730967,5,44694488,76,2,5040,84',0,0,Silje Stockmar (Heerenveen) Substitution at 84',Silje Stockmar Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,1,392879.0,2025-02-15 05:51:54
+13222,730967,5,44694488,76,2,5040,84',0,0,Silje Stockmar (Heerenveen) Substitution at 84',Silje Stockmar Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,2,325883.0,2025-02-15 05:51:54
+13222,730967,6,44694534,76,2,5160,86',0,0,Naomi Hilhorst (PEC Zwolle) Substitution at 86',Naomi Hilhorst Substitution,20797,0.0,0.0,0.0,0.0,0.0,0.0,1,309938.0,2025-02-15 05:51:54
+13222,730967,6,44694534,76,2,5160,86',0,0,Naomi Hilhorst (PEC Zwolle) Substitution at 86',Naomi Hilhorst Substitution,20797,0.0,0.0,0.0,0.0,0.0,0.0,2,242307.0,2025-02-15 05:51:54
+13222,730967,7,44694535,76,2,5220,87',0,0,Vita Van Der Linden (PEC Zwolle) Substitution at 87',Vita Van Der Linden Substitution,20797,0.0,0.0,0.0,0.0,0.0,0.0,1,294245.0,2025-02-15 05:51:54
+13222,730967,8,44694536,76,2,5220,87',0,0,Hejne En Schilder (PEC Zwolle) Substitution at 87',Hejne En Schilder Substitution,20797,0.0,0.0,0.0,0.0,0.0,0.0,1,333926.0,2025-02-15 05:51:54
+13222,730967,8,44694536,76,2,5220,87',0,0,Hejne En Schilder (PEC Zwolle) Substitution at 87',Hejne En Schilder Substitution,20797,0.0,0.0,0.0,0.0,0.0,0.0,2,332333.0,2025-02-15 05:51:54
+13222,730967,7,44694535,76,2,5220,87',0,0,Vita Van Der Linden (PEC Zwolle) Substitution at 87',Vita Van Der Linden Substitution,20797,0.0,0.0,0.0,0.0,0.0,0.0,2,350883.0,2025-02-15 05:51:54
+13222,730967,9,44694573,70,2,5400,90',1,0,Jet Van Beijeren (Heerenveen) Goal at 90',Jet Van Beijeren Goal,20800,0.0,0.0,0.0,0.0,0.0,0.0,1,330353.0,2025-02-15 05:51:54
+13222,730967,10,44695916,94,2,5400,90',0,0,Jet Van Beijeren (Heerenveen) Yellow Card at 90',Jet Van Beijeren Yellow Card,20800,0.0,0.0,0.0,0.0,0.0,0.0,1,330353.0,2025-02-15 05:51:54
+13222,730967,11,44695051,76,4,6360,106',0,0,Roos De Haas (Heerenveen) Substitution at 106',Roos De Haas Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,1,350382.0,2025-02-15 05:51:54
+13222,730967,11,44695051,76,4,6360,106',0,0,Roos De Haas (Heerenveen) Substitution at 106',Roos De Haas Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,2,309936.0,2025-02-15 05:51:54
+13222,730967,12,44695090,94,4,6540,109',0,0,Kely Pruim (PEC Zwolle) Yellow Card at 109',Kely Pruim Yellow Card,20797,0.0,0.0,0.0,0.0,0.0,0.0,1,309935.0,2025-02-15 05:51:54
+13222,730967,13,44695205,76,4,7080,118',0,0,Britt Udink (Heerenveen) Substitution at 118',Britt Udink Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,1,324232.0,2025-02-15 05:51:54
+13222,730967,13,44695205,76,4,7080,118',0,0,Britt Udink (Heerenveen) Substitution at 118',Britt Udink Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,2,351304.0,2025-02-15 05:51:54
+13222,730968,1,44699156,70,1,60,1',1,0,Sanne Arons (Fortuna Sittard) Goal at 1',Sanne Arons Goal,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,392848.0,2025-02-16 05:52:26
+13222,730968,2,44699943,94,1,1680,28',0,0,Isabel Kopp (Fortuna Sittard) Yellow Card at 28',Isabel Kopp Yellow Card,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,328314.0,2025-02-16 05:52:26
+13222,730968,3,44700427,70,1,2340,39',1,0,Femke Prins (Fortuna Sittard) Goal at 39',Femke Prins Goal,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,325874.0,2025-02-16 05:52:26
+13222,730968,4,44701841,76,2,3660,61',0,0,Romy Dalebout (Ter Leede) Substitution at 61',Romy Dalebout Substitution,22539,0.0,0.0,0.0,0.0,0.0,0.0,1,400166.0,2025-02-16 05:52:26
+13222,730968,4,44701841,76,2,3660,61',0,0,Romy Dalebout (Ter Leede) Substitution at 61',Romy Dalebout Substitution,22539,0.0,0.0,0.0,0.0,0.0,0.0,2,400172.0,2025-02-16 05:52:26
+13222,730968,6,44702734,76,2,4020,67',0,0,Nienke Mulder (Fortuna Sittard) Substitution at 67',Nienke Mulder Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,380112.0,2025-02-16 05:52:26
+13222,730968,5,44702116,70,2,4020,67',1,0,Femke Prins (Fortuna Sittard) Goal at 67',Femke Prins Goal,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,325874.0,2025-02-16 05:52:26
+13222,730968,6,44702734,76,2,4020,67',0,0,Nienke Mulder (Fortuna Sittard) Substitution at 67',Nienke Mulder Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,2,381477.0,2025-02-16 05:52:26
+13222,730968,7,44702454,76,2,4440,74',0,0,Saki Yanagisawa (Ter Leede) Substitution at 74',Saki Yanagisawa Substitution,22539,0.0,0.0,0.0,0.0,0.0,0.0,1,400167.0,2025-02-16 05:52:26
+13222,730968,7,44702454,76,2,4440,74',0,0,Saki Yanagisawa (Ter Leede) Substitution at 74',Saki Yanagisawa Substitution,22539,0.0,0.0,0.0,0.0,0.0,0.0,2,400164.0,2025-02-16 05:52:26
+13222,730968,8,44702690,76,2,4680,78',0,0,Diana Hilhorst (Fortuna Sittard) Substitution at 78',Diana Hilhorst Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,316013.0,2025-02-16 05:52:26
+13222,730968,8,44702690,76,2,4680,78',0,0,Diana Hilhorst (Fortuna Sittard) Substitution at 78',Diana Hilhorst Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,2,328314.0,2025-02-16 05:52:26
+13222,730968,9,44702691,76,2,4740,79',0,0,Femke Pietersma (Fortuna Sittard) Substitution at 79',Femke Pietersma Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,310680.0,2025-02-16 05:52:26
+13222,730968,9,44702691,76,2,4740,79',0,0,Femke Pietersma (Fortuna Sittard) Substitution at 79',Femke Pietersma Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,2,309931.0,2025-02-16 05:52:26
+13222,730968,11,44702928,76,2,5040,84',0,0,Haruna Matsuda (Ter Leede) Substitution at 84',Haruna Matsuda Substitution,22539,0.0,0.0,0.0,0.0,0.0,0.0,1,400177.0,2025-02-16 05:52:26
+13222,730968,10,44702927,76,2,5040,84',0,0,Anna Shimizu (Ter Leede) Substitution at 84',Anna Shimizu Substitution,22539,0.0,0.0,0.0,0.0,0.0,0.0,1,400174.0,2025-02-16 05:52:26
+13222,730968,12,44702929,76,2,5040,84',0,0,Sophie De Groot (Ter Leede) Substitution at 84',Sophie De Groot Substitution,22539,0.0,0.0,0.0,0.0,0.0,0.0,1,400168.0,2025-02-16 05:52:26
+13222,730968,12,44702929,76,2,5040,84',0,0,Sophie De Groot (Ter Leede) Substitution at 84',Sophie De Groot Substitution,22539,0.0,0.0,0.0,0.0,0.0,0.0,2,400173.0,2025-02-16 05:52:26
+13222,730968,10,44702927,76,2,5040,84',0,0,Anna Shimizu (Ter Leede) Substitution at 84',Anna Shimizu Substitution,22539,0.0,0.0,0.0,0.0,0.0,0.0,2,400170.0,2025-02-16 05:52:26
+13222,730968,11,44702928,76,2,5040,84',0,0,Haruna Matsuda (Ter Leede) Substitution at 84',Haruna Matsuda Substitution,22539,0.0,0.0,0.0,0.0,0.0,0.0,2,400185.0,2025-02-16 05:52:26
+13222,730968,14,44703049,76,2,5160,86',0,0,Elize Celissen (Fortuna Sittard) Substitution at 86',Elize Celissen Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,396483.0,2025-02-16 05:52:26
+13222,730968,13,44703048,76,2,5160,86',0,0,Ilse Van Walsem (Fortuna Sittard) Substitution at 86',Ilse Van Walsem Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,380491.0,2025-02-16 05:52:26
+13222,730968,13,44703048,76,2,5160,86',0,0,Ilse Van Walsem (Fortuna Sittard) Substitution at 86',Ilse Van Walsem Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,2,380519.0,2025-02-16 05:52:26
+13222,730968,14,44703049,76,2,5160,86',0,0,Elize Celissen (Fortuna Sittard) Substitution at 86',Elize Celissen Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,2,325874.0,2025-02-16 05:52:26
+13222,730969,1,44687761,70,1,720,12',1,0,Riola Xhemaili (PSV Eindhoven) Goal at 12',Riola Xhemaili Goal,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309080.0,2025-02-14 05:54:14
+13222,730969,2,44687762,70,1,780,13',1,0,Fenna Kalma (PSV Eindhoven) Goal at 13',Fenna Kalma Goal,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309911.0,2025-02-14 05:54:14
+13222,730969,3,44687766,70,1,960,16',1,0,Nina Nijstad (PSV Eindhoven) Goal at 16',Nina Nijstad Goal,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,316075.0,2025-02-14 05:54:14
+13222,730969,4,44687770,70,1,1620,27',1,0,Shanique Dessing (PSV Eindhoven) Goal at 27',Shanique Dessing Goal,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309981.0,2025-02-14 05:54:14
+13222,730969,5,44687771,70,1,1860,31',1,0,Fenna Kalma (PSV Eindhoven) Goal at 31',Fenna Kalma Goal,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309911.0,2025-02-14 05:54:14
+13222,730969,6,44688172,76,2,2700,45',0,0,Ranneke Derks (PSV Eindhoven) Substitution at 45',Ranneke Derks Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,384386.0,2025-02-14 05:54:14
+13222,730969,9,44688305,76,2,2700,45',0,0,Melanie Bross (PSV Eindhoven) Substitution at 45',Melanie Bross Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309947.0,2025-02-14 05:54:14
+13222,730969,7,44688173,76,2,2700,45',0,0,Lotus Meekelenkamp (Jong PSV) Substitution at 45',Lotus Meekelenkamp Substitution,21848,0.0,0.0,0.0,0.0,0.0,0.0,1,400117.0,2025-02-14 05:54:14
+13222,730969,8,44688229,76,2,2700,45',0,0,Tess Van Der Vliet (Jong PSV) Substitution at 45',Tess Van Der Vliet Substitution,21848,0.0,0.0,0.0,0.0,0.0,0.0,1,398974.0,2025-02-14 05:54:14
+13222,730969,9,44688305,76,2,2700,45',0,0,Melanie Bross (PSV Eindhoven) Substitution at 45',Melanie Bross Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,309861.0,2025-02-14 05:54:14
+13222,730969,7,44688173,76,2,2700,45',0,0,Lotus Meekelenkamp (Jong PSV) Substitution at 45',Lotus Meekelenkamp Substitution,21848,0.0,0.0,0.0,0.0,0.0,0.0,2,400129.0,2025-02-14 05:54:14
+13222,730969,6,44688172,76,2,2700,45',0,0,Ranneke Derks (PSV Eindhoven) Substitution at 45',Ranneke Derks Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,359616.0,2025-02-14 05:54:14
+13222,730969,8,44688229,76,2,2700,45',0,0,Tess Van Der Vliet (Jong PSV) Substitution at 45',Tess Van Der Vliet Substitution,21848,0.0,0.0,0.0,0.0,0.0,0.0,2,400187.0,2025-02-14 05:54:14
+13222,730969,11,44688395,76,2,3960,66',0,0,Joelle Smits (PSV Eindhoven) Substitution at 66',Joelle Smits Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309950.0,2025-02-14 05:54:14
+13222,730969,10,44688394,76,2,3960,66',0,0,Renate Jansen (PSV Eindhoven) Substitution at 66',Renate Jansen Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,252364.0,2025-02-14 05:54:14
+13222,730969,10,44688394,76,2,3960,66',0,0,Renate Jansen (PSV Eindhoven) Substitution at 66',Renate Jansen Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,358431.0,2025-02-14 05:54:14
+13222,730969,11,44688395,76,2,3960,66',0,0,Joelle Smits (PSV Eindhoven) Substitution at 66',Joelle Smits Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,316075.0,2025-02-14 05:54:14
+13222,730969,13,44688495,76,2,4260,71',0,0,Lenny Van Grotel (Jong PSV) Substitution at 71',Lenny Van Grotel Substitution,21848,0.0,0.0,0.0,0.0,0.0,0.0,1,400122.0,2025-02-14 05:54:14
+13222,730969,12,44688494,76,2,4260,71',0,0,Benthe Schippers (Jong PSV) Substitution at 71',Benthe Schippers Substitution,21848,0.0,0.0,0.0,0.0,0.0,0.0,1,400120.0,2025-02-14 05:54:14
+13222,730969,13,44688495,76,2,4260,71',0,0,Lenny Van Grotel (Jong PSV) Substitution at 71',Lenny Van Grotel Substitution,21848,0.0,0.0,0.0,0.0,0.0,0.0,2,400121.0,2025-02-14 05:54:14
+13222,730969,12,44688494,76,2,4260,71',0,0,Benthe Schippers (Jong PSV) Substitution at 71',Benthe Schippers Substitution,21848,0.0,0.0,0.0,0.0,0.0,0.0,2,400115.0,2025-02-14 05:54:14
+13222,730969,14,44688535,70,2,4680,78',1,0,Fenna Kalma (PSV Eindhoven) Goal at 78',Fenna Kalma Goal,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309911.0,2025-02-14 05:54:14
+13222,730969,15,44688567,70,2,5400,90'+1',1,0,Joelle Smits (PSV Eindhoven) Goal at 91',Joelle Smits Goal,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309950.0,2025-02-14 05:54:14
+13222,730970,1,44701769,70,1,1140,19',1,0,Dechamaily Lont (Excelsior) Goal at 19',Dechamaily Lont Goal,20799,0.0,0.0,0.0,0.0,0.0,0.0,1,377828.0,2025-02-16 05:52:26
+13222,730970,2,44702950,70,1,2640,44',1,0,Kathelyn Noëlle Hendriks (Excelsior) Goal at 44',Kathelyn Noëlle Hendriks Goal,20799,0.0,0.0,0.0,0.0,0.0,0.0,1,309977.0,2025-02-16 05:52:26
+13222,730970,3,44703600,76,2,2700,45',0,0,Mao Itamura (Feyenoord Rotterdam) Substitution at 45',Mao Itamura Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,351704.0,2025-02-16 05:52:26
+13222,730970,3,44703600,76,2,2700,45',0,0,Mao Itamura (Feyenoord Rotterdam) Substitution at 45',Mao Itamura Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,309934.0,2025-02-16 05:52:26
+13222,730970,4,44703810,76,2,3780,63',0,0,Esther Buabadi (Feyenoord Rotterdam) Substitution at 63',Esther Buabadi Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,366689.0,2025-02-16 05:52:26
+13222,730970,5,44703811,76,2,3780,63',0,0,Emma Pijnenburg (Feyenoord Rotterdam) Substitution at 63',Emma Pijnenburg Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,376656.0,2025-02-16 05:52:26
+13222,730970,5,44703811,76,2,3780,63',0,0,Emma Pijnenburg (Feyenoord Rotterdam) Substitution at 63',Emma Pijnenburg Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,309871.0,2025-02-16 05:52:26
+13222,730970,4,44703810,76,2,3780,63',0,0,Esther Buabadi (Feyenoord Rotterdam) Substitution at 63',Esther Buabadi Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,270057.0,2025-02-16 05:52:26
+13222,730970,6,44703812,70,2,3840,64',1,0,Mao Itamura (Feyenoord Rotterdam) Goal at 64',Mao Itamura Goal,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,351704.0,2025-02-16 05:52:26
+13222,730970,9,44703915,76,2,4140,69',0,0,Kirsten Van De Westeringh (Feyenoord Rotterdam) Substitution at 69',Kirsten Van De Westeringh Substi,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,309965.0,2025-02-16 05:52:26
+13222,730970,7,44703913,76,2,4140,69',0,0,Bonny Lammers (Excelsior) Substitution at 69',Bonny Lammers Substitution,20799,0.0,0.0,0.0,0.0,0.0,0.0,1,370135.0,2025-02-16 05:52:26
+13222,730970,8,44703914,76,2,4140,69',0,0,Zera Hulswit (Feyenoord Rotterdam) Substitution at 69',Zera Hulswit Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,331086.0,2025-02-16 05:52:26
+13222,730970,9,44703915,76,2,4140,69',0,0,Kirsten Van De Westeringh (Feyenoord Rotterdam) Substitution at 69',Kirsten Van De Westeringh Substi,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,312248.0,2025-02-16 05:52:26
+13222,730970,8,44703914,76,2,4140,69',0,0,Zera Hulswit (Feyenoord Rotterdam) Substitution at 69',Zera Hulswit Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,325984.0,2025-02-16 05:52:26
+13222,730970,7,44703913,76,2,4140,69',0,0,Bonny Lammers (Excelsior) Substitution at 69',Bonny Lammers Substitution,20799,0.0,0.0,0.0,0.0,0.0,0.0,2,377828.0,2025-02-16 05:52:26
+13222,730970,10,44703946,76,2,4320,72',0,0,Lieke De With (Excelsior) Substitution at 72',Lieke De With Substitution,20799,0.0,0.0,0.0,0.0,0.0,0.0,1,350364.0,2025-02-16 05:52:26
+13222,730970,10,44703946,76,2,4320,72',0,0,Lieke De With (Excelsior) Substitution at 72',Lieke De With Substitution,20799,0.0,0.0,0.0,0.0,0.0,0.0,2,392702.0,2025-02-16 05:52:26
+13222,730970,11,44703976,70,2,4500,75',1,0,Ella Van Kerkhoven (Feyenoord Rotterdam) Goal at 75',Ella Van Kerkhoven Goal,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,287380.0,2025-02-16 05:52:26
+13222,730970,12,44704153,94,2,5160,86',0,0,Kathelyn Noëlle Hendriks (Excelsior) Yellow Card at 86',Kathelyn Noëlle Hendriks Yellow ,20799,0.0,0.0,0.0,0.0,0.0,0.0,1,309977.0,2025-02-16 05:52:26
+13222,730970,13,44704381,76,3,5700,95',0,0,Dana Breewel (Excelsior) Substitution at 95',Dana Breewel Substitution,20799,0.0,0.0,0.0,0.0,0.0,0.0,1,325875.0,2025-02-16 05:52:26
+13222,730970,13,44704381,76,3,5700,95',0,0,Dana Breewel (Excelsior) Substitution at 95',Dana Breewel Substitution,20799,0.0,0.0,0.0,0.0,0.0,0.0,2,309914.0,2025-02-16 05:52:26
+13222,730970,14,44704382,76,3,5820,97',0,0,Yaël Mollink (Excelsior) Substitution at 97',Yaël Mollink Substitution,20799,0.0,0.0,0.0,0.0,0.0,0.0,1,334217.0,2025-02-16 05:52:26
+13222,730970,14,44704382,76,3,5820,97',0,0,Yaël Mollink (Excelsior) Substitution at 97',Yaël Mollink Substitution,20799,0.0,0.0,0.0,0.0,0.0,0.0,2,325879.0,2025-02-16 05:52:26
+13222,730970,15,44704613,94,3,6300,105'+5',0,0,Robine De Ridder (Excelsior) Yellow Card at 110',Robine De Ridder Yellow Card,20799,0.0,0.0,0.0,0.0,0.0,0.0,1,324772.0,2025-02-16 05:52:26
+13222,730970,16,44704706,70,4,6540,109',1,0,Mao Itamura (Feyenoord Rotterdam) Goal at 109',Mao Itamura Goal,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,351704.0,2025-02-16 05:52:26
+13222,730970,17,44704720,94,4,6600,110',0,0,Yara Helderman (Excelsior) Yellow Card at 110',Yara Helderman Yellow Card,20799,0.0,0.0,0.0,0.0,0.0,0.0,1,325986.0,2025-02-16 05:52:26
+13222,730970,18,44704729,94,4,6720,112',0,0,Noëlle Van Der Sluijs (Feyenoord Rotterdam) Yellow Card at 112',Noëlle Van Der Sluijs Yellow Car,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,360219.0,2025-02-16 05:52:26
+13222,730970,19,44704759,76,4,6840,114',0,0,Marilyn Van De Burgt (Excelsior) Substitution at 114',Marilyn Van De Burgt Substitutio,20799,0.0,0.0,0.0,0.0,0.0,0.0,1,394456.0,2025-02-16 05:52:26
+13222,730970,19,44704759,76,4,6840,114',0,0,Marilyn Van De Burgt (Excelsior) Substitution at 114',Marilyn Van De Burgt Substitutio,20799,0.0,0.0,0.0,0.0,0.0,0.0,2,392703.0,2025-02-16 05:52:26
+13222,730970,20,44704780,76,4,7020,117',0,0,Amber Verspaget (Feyenoord Rotterdam) Substitution at 117',Amber Verspaget Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,309990.0,2025-02-16 05:52:26
+13222,730970,20,44704780,76,4,7020,117',0,0,Amber Verspaget (Feyenoord Rotterdam) Substitution at 117',Amber Verspaget Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,209166.0,2025-02-16 05:52:26
+13222,730970,21,44704829,70,4,7200,120'+1',1,0,Kirsten Van De Westeringh (Feyenoord Rotterdam) Goal at 121',Kirsten Van De Westeringh Goal,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,309965.0,2025-02-16 05:52:26
+13222,732234,1,44703881,70,1,2340,39',1,0,Lynn Verhoef (NAC Breda) Goal at 39',Lynn Verhoef Goal,22538,0.0,0.0,0.0,0.0,0.0,0.0,1,400152.0,2025-02-16 05:52:26
+13222,732234,2,44704338,76,2,2700,45',0,0,Maaike Wenno (Saestum) Substitution at 45',Maaike Wenno Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,400254.0,2025-02-16 05:52:26
+13222,732234,2,44704338,76,2,2700,45',0,0,Maaike Wenno (Saestum) Substitution at 45',Maaike Wenno Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,400202.0,2025-02-16 05:52:26
+13222,732234,3,44704326,70,2,3060,51',1,0,Maaike Wenno (Saestum) Goal at 51',Maaike Wenno Goal,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,400254.0,2025-02-16 05:52:26
+13222,732234,4,44704339,94,2,3180,53',0,0,Elaine De Vette (Saestum) Yellow Card at 53',Elaine De Vette Yellow Card,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,334881.0,2025-02-16 05:52:26
+13222,732234,5,44704351,94,2,3300,55',0,0,Lynn Verhoef (NAC Breda) Yellow Card at 55',Lynn Verhoef Yellow Card,22538,0.0,0.0,0.0,0.0,0.0,0.0,1,400152.0,2025-02-16 05:52:26
+13222,732234,6,44704504,76,2,3840,64',0,0,Stephanie Coelho Aurélio (NAC Breda) Substitution at 64',Stephanie Coelho Aurélio Substit,22538,0.0,0.0,0.0,0.0,0.0,0.0,1,309902.0,2025-02-16 05:52:26
+13222,732234,7,44704505,76,2,3840,64',0,0,Kamar Laamouz (NAC Breda) Substitution at 64',Kamar Laamouz Substitution,22538,0.0,0.0,0.0,0.0,0.0,0.0,1,374008.0,2025-02-16 05:52:26
+13222,732234,6,44704504,76,2,3840,64',0,0,Stephanie Coelho Aurélio (NAC Breda) Substitution at 64',Stephanie Coelho Aurélio Substit,22538,0.0,0.0,0.0,0.0,0.0,0.0,2,379844.0,2025-02-16 05:52:26
+13222,732234,7,44704505,76,2,3840,64',0,0,Kamar Laamouz (NAC Breda) Substitution at 64',Kamar Laamouz Substitution,22538,0.0,0.0,0.0,0.0,0.0,0.0,2,325115.0,2025-02-16 05:52:26
+13222,732234,8,44704710,174,2,4740,79',0,0,Brigitte Franken (NAC Breda) Penalty - Saved at 79',Brigitte Franken Penalty - Saved,22538,0.0,0.0,0.0,0.0,0.0,0.0,1,359695.0,2025-02-16 05:52:26
+13222,732234,10,44704809,76,2,4980,83',0,0,Ela Yetim (NAC Breda) Substitution at 83',Ela Yetim Substitution,22538,0.0,0.0,0.0,0.0,0.0,0.0,1,400148.0,2025-02-16 05:52:26
+13222,732234,9,44704764,76,2,4980,83',0,0,Nadine Blankenstijn (Saestum) Substitution at 83',Nadine Blankenstijn Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,359690.0,2025-02-16 05:52:26
+13222,732234,9,44704764,76,2,4980,83',0,0,Nadine Blankenstijn (Saestum) Substitution at 83',Nadine Blankenstijn Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,380492.0,2025-02-16 05:52:26
+13222,732234,10,44704809,76,2,4980,83',0,0,Ela Yetim (NAC Breda) Substitution at 83',Ela Yetim Substitution,22538,0.0,0.0,0.0,0.0,0.0,0.0,2,309893.0,2025-02-16 05:52:26
+13222,732234,11,44704892,76,2,5400,90'+4',0,0,Danique Prins (Saestum) Substitution at 94',Danique Prins Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,380488.0,2025-02-16 05:52:26
+13222,732234,11,44704892,76,2,5400,90'+4',0,0,Danique Prins (Saestum) Substitution at 94',Danique Prins Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,334875.0,2025-02-16 05:52:26
+13222,732234,12,44705386,76,4,6840,114',0,0,Sofie Vermeer (Saestum) Substitution at 114',Sofie Vermeer Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,325601.0,2025-02-16 05:52:26
+13222,732234,12,44705386,76,4,6840,114',0,0,Sofie Vermeer (Saestum) Substitution at 114',Sofie Vermeer Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,334887.0,2025-02-16 05:52:26
+13222,732234,13,44705454,70,4,7140,119',1,0,Jennifer Van Holten (Saestum) Goal at 119',Jennifer Van Holten Goal,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,380602.0,2025-02-16 05:52:26
+13222,732234,14,44705510,70,4,7200,120'+3',1,0,Samira van Otterloo (Saestum) Goal at 123',Samira van Otterloo Goal,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,359585.0,2025-02-16 05:52:26
+13221,733067,1,44867628,70,2,3720,62',1,0,Ella Van Kerkhoven (Feyenoord Rotterdam) Goal at 62',Ella Van Kerkhoven Goal,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,287380.0,2025-03-15 04:52:29
+13221,733067,3,44867653,76,2,3840,64',0,0,Sanne Koopman (Feyenoord Rotterdam) Substitution at 64',Sanne Koopman Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,309871.0,2025-03-15 04:52:29
+13221,733067,2,44867652,76,2,3840,64',0,0,Zera Hulswit (Feyenoord Rotterdam) Substitution at 64',Zera Hulswit Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,331086.0,2025-03-15 04:52:29
+13221,733067,2,44867652,76,2,3840,64',0,0,Zera Hulswit (Feyenoord Rotterdam) Substitution at 64',Zera Hulswit Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,270057.0,2025-03-15 04:52:29
+13221,733067,3,44867653,76,2,3840,64',0,0,Sanne Koopman (Feyenoord Rotterdam) Substitution at 64',Sanne Koopman Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,351704.0,2025-03-15 04:52:29
+13221,733067,4,44867663,94,2,4020,67',0,0,Noëlle Van Der Sluijs (Feyenoord Rotterdam) Yellow Card at 67',Noëlle Van Der Sluijs Yellow Car,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,360219.0,2025-03-15 04:52:29
+13221,733067,5,44867670,70,2,4080,68',1,0,Romeé Van De Lavoir (Feyenoord Rotterdam) Goal at 68',Romeé Van De Lavoir Goal,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,325984.0,2025-03-15 04:52:29
+13221,733067,6,44867688,70,2,4200,70',1,0,Sanne Koopman (Feyenoord Rotterdam) Goal at 70',Sanne Koopman Goal,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,309871.0,2025-03-15 04:52:29
+13221,733067,7,44867701,76,2,4380,73',0,0,Aymee Altena (Heerenveen) Substitution at 73',Aymee Altena Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,1,396874.0,2025-03-15 04:52:29
+13221,733067,7,44867701,76,2,4380,73',0,0,Aymee Altena (Heerenveen) Substitution at 73',Aymee Altena Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,2,324232.0,2025-03-15 04:52:29
+13221,733067,8,44867762,76,2,4560,76',0,0,Lucy Heij (Feyenoord Rotterdam) Substitution at 76',Lucy Heij Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,370792.0,2025-03-15 04:52:29
+13221,733067,9,44867763,76,2,4560,76',0,0,Amber Verspaget (Feyenoord Rotterdam) Substitution at 76',Amber Verspaget Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,309990.0,2025-03-15 04:52:29
+13221,733067,10,44867764,76,2,4560,76',0,0,Lyanne Iedema (Heerenveen) Substitution at 76',Lyanne Iedema Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,1,350380.0,2025-03-15 04:52:29
+13221,733067,10,44867764,76,2,4560,76',0,0,Lyanne Iedema (Heerenveen) Substitution at 76',Lyanne Iedema Substitution,20800,0.0,0.0,0.0,0.0,0.0,0.0,2,309960.0,2025-03-15 04:52:29
+13221,733067,9,44867763,76,2,4560,76',0,0,Amber Verspaget (Feyenoord Rotterdam) Substitution at 76',Amber Verspaget Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,209166.0,2025-03-15 04:52:29
+13221,733067,8,44867762,76,2,4560,76',0,0,Lucy Heij (Feyenoord Rotterdam) Substitution at 76',Lucy Heij Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,360219.0,2025-03-15 04:52:29
+13221,733067,11,44867795,76,2,4800,80',0,0,Esther Buabadi (Feyenoord Rotterdam) Substitution at 80',Esther Buabadi Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,366689.0,2025-03-15 04:52:29
+13221,733067,11,44867795,76,2,4800,80',0,0,Esther Buabadi (Feyenoord Rotterdam) Substitution at 80',Esther Buabadi Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,325984.0,2025-03-15 04:52:29
+13221,733067,12,44867892,94,2,5220,87',0,0,Evi Maatman (Heerenveen) Yellow Card at 87',Evi Maatman Yellow Card,20800,0.0,0.0,0.0,0.0,0.0,0.0,1,309936.0,2025-03-15 04:52:29
+13221,733068,1,44886967,70,1,900,15',1,0,Fieke Kroese (AZ Alkmaar) Goal at 15',Fieke Kroese Goal,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,316605.0,2025-03-17 04:50:37
+13221,733068,2,44887014,94,1,1440,24',0,0,Manique De Vette (AZ Alkmaar) Yellow Card at 24',Manique De Vette Yellow Card,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,309856.0,2025-03-17 04:50:37
+13221,733068,3,44887041,76,1,1800,30',0,0,Romaissa Boukakar (AZ Alkmaar) Substitution at 30',Romaissa Boukakar Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,370561.0,2025-03-17 04:50:37
+13221,733068,3,44887041,76,1,1800,30',0,0,Romaissa Boukakar (AZ Alkmaar) Substitution at 30',Romaissa Boukakar Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,2,318528.0,2025-03-17 04:50:37
+13221,733068,4,44887099,94,1,2340,39',0,0,Desiree van Lunteren (AZ Alkmaar) Yellow Card at 39',Desiree van Lunteren Yellow Card,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,219955.0,2025-03-17 04:50:37
+13221,733068,5,44887399,94,2,3480,58',0,0,Romaissa Boukakar (AZ Alkmaar) Yellow Card at 58',Romaissa Boukakar Yellow Card,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,370561.0,2025-03-17 04:50:37
+13221,733068,6,44887477,70,2,4200,70',1,0,Melanie Bross (PSV Eindhoven) Goal at 70',Melanie Bross Goal,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309947.0,2025-03-17 04:50:37
+13221,733068,7,44887575,76,2,4620,77',0,0,Bo Op De Weegh (AZ Alkmaar) Substitution at 77',Bo Op De Weegh Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,355477.0,2025-03-17 04:50:37
+13221,733068,8,44887576,76,2,4620,77',0,0,Mirte Van Bentum (AZ Alkmaar) Substitution at 77',Mirte Van Bentum Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,370560.0,2025-03-17 04:50:37
+13221,733068,8,44887576,76,2,4620,77',0,0,Mirte Van Bentum (AZ Alkmaar) Substitution at 77',Mirte Van Bentum Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,2,316605.0,2025-03-17 04:50:37
+13221,733068,7,44887575,76,2,4620,77',0,0,Bo Op De Weegh (AZ Alkmaar) Substitution at 77',Bo Op De Weegh Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,2,352612.0,2025-03-17 04:50:37
+13221,733068,7,44887575,76,2,4620,77',0,0,Bo Op De Weegh (AZ Alkmaar) Substitution at 77',Bo Op De Weegh Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,2,350885.0,2025-03-17 04:50:37
+13221,733068,9,44887653,94,2,4980,83',0,0,Riola Xhemaili (PSV Eindhoven) Yellow Card at 83',Riola Xhemaili Yellow Card,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309080.0,2025-03-17 04:50:37
+13221,733068,10,44887688,98,2,5220,87',1,0,Riola Xhemaili (PSV Eindhoven) Penalty - Scored at 87',Riola Xhemaili Penalty - Scored,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309080.0,2025-03-17 04:50:37
+13221,733068,11,44887713,76,2,5280,88',0,0,Robin Blom (AZ Alkmaar) Substitution at 88',Robin Blom Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,355476.0,2025-03-17 04:50:37
+13221,733068,12,44887714,76,2,5280,88',0,0,Ilvy Zijp (AZ Alkmaar) Substitution at 88',Ilvy Zijp Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,1,315188.0,2025-03-17 04:50:37
+13221,733068,11,44887713,76,2,5280,88',0,0,Robin Blom (AZ Alkmaar) Substitution at 88',Robin Blom Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,2,309856.0,2025-03-17 04:50:37
+13221,733068,12,44887714,76,2,5280,88',0,0,Ilvy Zijp (AZ Alkmaar) Substitution at 88',Ilvy Zijp Substitution,21977,0.0,0.0,0.0,0.0,0.0,0.0,2,309869.0,2025-03-17 04:50:37
+13221,733068,14,44887716,76,2,5340,89',0,0,Feur Stoit (PSV Eindhoven) Substitution at 89',Feur Stoit Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,358431.0,2025-03-17 04:50:37
+13221,733068,13,44887715,76,2,5340,89',0,0,Lore Jacobs (PSV Eindhoven) Substitution at 89',Lore Jacobs Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,388887.0,2025-03-17 04:50:37
+13221,733068,14,44887716,76,2,5340,89',0,0,Feur Stoit (PSV Eindhoven) Substitution at 89',Feur Stoit Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,309861.0,2025-03-17 04:50:37
+13221,733068,13,44887715,76,2,5340,89',0,0,Lore Jacobs (PSV Eindhoven) Substitution at 89',Lore Jacobs Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,252364.0,2025-03-17 04:50:37
+13221,733069,1,44877817,70,1,840,14',1,0,Jaimy Ravensbergen (FC Twente) Goal at 14',Jaimy Ravensbergen Goal,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309993.0,2025-03-16 04:54:06
+13221,733069,2,44878832,94,2,3360,56',0,0,Danique Van Ginkel (FC Twente) Yellow Card at 56',Danique Van Ginkel Yellow Card,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309970.0,2025-03-16 04:54:06
+13221,733069,3,44878989,94,2,3720,62',0,0,Anne Van Egmond (ADO Den Haag) Yellow Card at 62',Anne Van Egmond Yellow Card,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,359696.0,2025-03-16 04:54:06
+13221,733069,4,44879101,76,2,4020,67',0,0,Quinty Dupon (ADO Den Haag) Substitution at 67',Quinty Dupon Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,359819.0,2025-03-16 04:54:06
+13221,733069,5,44879102,76,2,4020,67',0,0,June Burgers (ADO Den Haag) Substitution at 67',June Burgers Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,340676.0,2025-03-16 04:54:06
+13221,733069,5,44879102,76,2,4020,67',0,0,June Burgers (ADO Den Haag) Substitution at 67',June Burgers Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,2,359696.0,2025-03-16 04:54:06
+13221,733069,4,44879101,76,2,4020,67',0,0,Quinty Dupon (ADO Den Haag) Substitution at 67',Quinty Dupon Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,2,309979.0,2025-03-16 04:54:06
+13221,733069,6,44879190,76,2,4440,74',0,0,Sophie Te Brake (FC Twente) Substitution at 74',Sophie Te Brake Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,325603.0,2025-03-16 04:54:06
+13221,733069,6,44879190,76,2,4440,74',0,0,Sophie Te Brake (FC Twente) Substitution at 74',Sophie Te Brake Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,2,309953.0,2025-03-16 04:54:06
+13221,733069,7,44879385,76,2,5220,87',0,0,Sacha Horsman (ADO Den Haag) Substitution at 87',Sacha Horsman Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,399599.0,2025-03-16 04:54:06
+13221,733069,7,44879385,76,2,5220,87',0,0,Sacha Horsman (ADO Den Haag) Substitution at 87',Sacha Horsman Substitution,20798,0.0,0.0,0.0,0.0,0.0,0.0,2,309991.0,2025-03-16 04:54:06
+13221,733069,8,44879386,94,2,5280,88',0,0,June Burgers (ADO Den Haag) Yellow Card at 88',June Burgers Yellow Card,20798,0.0,0.0,0.0,0.0,0.0,0.0,1,340676.0,2025-03-16 04:54:06
+13221,733070,1,44872244,70,1,1140,19',1,0,Samira van Otterloo (Saestum) Goal at 19',Samira van Otterloo Goal,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,359585.0,2025-03-16 04:54:06
+13221,733070,2,44873825,76,2,2760,46',0,0,Sanne Peereboom (Fortuna Sittard) Substitution at 46',Sanne Peereboom Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,359817.0,2025-03-16 04:54:06
+13221,733070,2,44873825,76,2,2760,46',0,0,Sanne Peereboom (Fortuna Sittard) Substitution at 46',Sanne Peereboom Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,2,370970.0,2025-03-16 04:54:06
+13221,733070,3,44874215,76,2,3360,56',0,0,Mila Robichon (Saestum) Substitution at 56',Mila Robichon Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,309863.0,2025-03-16 04:54:06
+13221,733070,3,44874215,76,2,3360,56',0,0,Mila Robichon (Saestum) Substitution at 56',Mila Robichon Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,325601.0,2025-03-16 04:54:06
+13221,733070,4,44874226,94,2,3480,58',0,0,Iris Aalbertsen (Saestum) Yellow Card at 58',Iris Aalbertsen Yellow Card,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,334876.0,2025-03-16 04:54:06
+13221,733070,5,44874262,76,2,3540,59',0,0,Nienke Mulder (Fortuna Sittard) Substitution at 59',Nienke Mulder Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,380112.0,2025-03-16 04:54:06
+13221,733070,5,44874262,76,2,3540,59',0,0,Nienke Mulder (Fortuna Sittard) Substitution at 59',Nienke Mulder Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,2,348923.0,2025-03-16 04:54:06
+13221,733070,6,44874425,76,2,3960,66',0,0,Hannah Van Der Weide (Saestum) Substitution at 66',Hannah Van Der Weide Substitutio,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,400202.0,2025-03-16 04:54:06
+13221,733070,6,44874425,76,2,3960,66',0,0,Hannah Van Der Weide (Saestum) Substitution at 66',Hannah Van Der Weide Substitutio,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,359585.0,2025-03-16 04:54:06
+13221,733070,7,44874870,76,2,4620,77',0,0,Diana Hilhorst (Fortuna Sittard) Substitution at 77',Diana Hilhorst Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,316013.0,2025-03-16 04:54:06
+13221,733070,7,44874870,76,2,4620,77',0,0,Diana Hilhorst (Fortuna Sittard) Substitution at 77',Diana Hilhorst Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,2,333758.0,2025-03-16 04:54:06
+13221,733070,8,44875100,70,2,4920,82',1,0,Moisa Van Koot (Fortuna Sittard) Goal at 82',Moisa Van Koot Goal,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,309931.0,2025-03-16 04:54:06
+13221,733070,9,44875296,76,2,5100,85',0,0,Maaike Wenno (Saestum) Substitution at 85',Maaike Wenno Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,400254.0,2025-03-16 04:54:06
+13221,733070,9,44875296,76,2,5100,85',0,0,Maaike Wenno (Saestum) Substitution at 85',Maaike Wenno Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,380492.0,2025-03-16 04:54:06
+13221,733070,10,44875502,94,2,5400,90'+2',0,0,Anniek Smulders (Saestum) Yellow Card at 92',Anniek Smulders Yellow Card,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,334875.0,2025-03-16 04:54:06
+13221,733070,11,44876489,94,3,6300,105',0,0,Sanne Peereboom (Fortuna Sittard) Yellow Card at 105',Sanne Peereboom Yellow Card,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,359817.0,2025-03-16 04:54:06
+13221,733070,12,44876785,70,4,6660,111',1,0,Maaike Wenno (Saestum) Goal at 111',Maaike Wenno Goal,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,400254.0,2025-03-16 04:54:06
+13221,733070,13,44876832,76,4,6720,112',0,0,Danique Prins (Saestum) Substitution at 112',Danique Prins Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,380488.0,2025-03-16 04:54:06
+13221,733070,14,44876833,76,4,6720,112',0,0,Isis Schouwe (Saestum) Substitution at 112',Isis Schouwe Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,400203.0,2025-03-16 04:54:06
+13221,733070,14,44876833,76,4,6720,112',0,0,Isis Schouwe (Saestum) Substitution at 112',Isis Schouwe Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,334881.0,2025-03-16 04:54:06
+13221,733070,13,44876832,76,4,6720,112',0,0,Danique Prins (Saestum) Substitution at 112',Danique Prins Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,380484.0,2025-03-16 04:54:06
+13221,733070,15,44876834,97,4,6840,114',1,0,Anniek Smulders (Saestum) Own Goal at 114',Anniek Smulders Own Goal,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,334875.0,2025-03-16 04:54:06
+13221,733070,16,44876854,94,4,6900,115',0,0,Diana Hilhorst (Fortuna Sittard) Yellow Card at 115',Diana Hilhorst Yellow Card,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,316013.0,2025-03-16 04:54:06
+13221,733070,18,44876973,76,4,7200,120',0,0,Maud Van Berlo (Fortuna Sittard) Substitution at 120',Maud Van Berlo Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,392993.0,2025-03-16 04:54:06
+13221,733070,17,44876972,76,4,7200,120',0,0,Femke Pietersma (Fortuna Sittard) Substitution at 120',Femke Pietersma Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,1,310680.0,2025-03-16 04:54:06
+13221,733070,18,44876973,76,4,7200,120',0,0,Maud Van Berlo (Fortuna Sittard) Substitution at 120',Maud Van Berlo Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,2,328314.0,2025-03-16 04:54:06
+13221,733070,17,44876972,76,4,7200,120',0,0,Femke Pietersma (Fortuna Sittard) Substitution at 120',Femke Pietersma Substitution,21584,0.0,0.0,0.0,0.0,0.0,0.0,2,309868.0,2025-03-16 04:54:06
+13220,734865,1,45072372,70,1,900,15',1,0,Renate Jansen (PSV Eindhoven) Goal at 15',Renate Jansen Goal,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,252364.0,2025-04-16 05:09:17
+13220,734865,2,45072443,94,2,3240,54',0,0,Lore Jacobs (PSV Eindhoven) Yellow Card at 54',Lore Jacobs Yellow Card,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,388887.0,2025-04-16 05:09:17
+13220,734865,3,45072478,70,2,3720,62',1,0,Fenna Kalma (PSV Eindhoven) Goal at 62',Fenna Kalma Goal,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309911.0,2025-04-16 05:09:17
+13220,734865,5,45072491,76,2,3780,63',0,0,Zera Hulswit (Feyenoord Rotterdam) Substitution at 63',Zera Hulswit Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,331086.0,2025-04-16 05:09:17
+13220,734865,4,45072490,76,2,3780,63',0,0,Mao Itamura (Feyenoord Rotterdam) Substitution at 63',Mao Itamura Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,351704.0,2025-04-16 05:09:17
+13220,734865,4,45072490,76,2,3780,63',0,0,Mao Itamura (Feyenoord Rotterdam) Substitution at 63',Mao Itamura Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,309871.0,2025-04-16 05:09:17
+13220,734865,5,45072491,76,2,3780,63',0,0,Zera Hulswit (Feyenoord Rotterdam) Substitution at 63',Zera Hulswit Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,325984.0,2025-04-16 05:09:17
+13220,734865,6,45072526,76,2,4440,74',0,0,Shanique Dessing (PSV Eindhoven) Substitution at 74',Shanique Dessing Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309981.0,2025-04-16 05:09:17
+13220,734865,6,45072526,76,2,4440,74',0,0,Shanique Dessing (PSV Eindhoven) Substitution at 74',Shanique Dessing Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,388887.0,2025-04-16 05:09:17
+13220,734865,7,45072531,70,2,4560,76',1,0,Shanique Dessing (PSV Eindhoven) Goal at 76',Shanique Dessing Goal,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309981.0,2025-04-16 05:09:17
+13220,734865,8,45072547,94,2,4860,81',0,0,Maruschka Waldus (Feyenoord Rotterdam) Yellow Card at 81',Maruschka Waldus Yellow Card,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,209166.0,2025-04-17 04:55:53
+13220,734865,10,45072565,76,2,4920,82',0,0,Amber Verspaget (Feyenoord Rotterdam) Substitution at 82',Amber Verspaget Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,1,309990.0,2025-04-16 05:09:17
+13220,734865,11,45072566,76,2,4920,82',0,0,Emma Frijns (PSV Eindhoven) Substitution at 82',Emma Frijns Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,331087.0,2025-04-16 05:09:17
+13220,734865,9,45072564,76,2,4920,82',0,0,Robine Lacroix (PSV Eindhoven) Substitution at 82',Robine Lacroix Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,359615.0,2025-04-16 05:09:17
+13220,734865,9,45072564,76,2,4920,82',0,0,Robine Lacroix (PSV Eindhoven) Substitution at 82',Robine Lacroix Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,309080.0,2025-04-16 05:09:17
+13220,734865,11,45072566,76,2,4920,82',0,0,Emma Frijns (PSV Eindhoven) Substitution at 82',Emma Frijns Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,359616.0,2025-04-16 05:09:17
+13220,734865,10,45072565,76,2,4920,82',0,0,Amber Verspaget (Feyenoord Rotterdam) Substitution at 82',Amber Verspaget Substitution,20984,0.0,0.0,0.0,0.0,0.0,0.0,2,209166.0,2025-04-16 05:09:17
+13220,734865,12,45072579,76,2,5220,87',0,0,Anissa Chibani (PSV Eindhoven) Substitution at 87',Anissa Chibani Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,359638.0,2025-04-16 05:09:17
+13220,734865,13,45072580,76,2,5220,87',0,0,Tess Van Der Vliet (PSV Eindhoven) Substitution at 87',Tess Van Der Vliet Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,398974.0,2025-04-16 05:09:17
+13220,734865,12,45072579,76,2,5220,87',0,0,Anissa Chibani (PSV Eindhoven) Substitution at 87',Anissa Chibani Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,314959.0,2025-04-16 05:09:17
+13220,734865,13,45072580,76,2,5220,87',0,0,Tess Van Der Vliet (PSV Eindhoven) Substitution at 87',Tess Van Der Vliet Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,316075.0,2025-04-16 05:09:17
+13220,734866,1,45041935,70,1,420,7',1,0,Charlotte Hulst (FC Twente) Goal at 7',Charlotte Hulst Goal,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309875.0,2025-04-13 05:23:05
+13220,734866,2,45042025,70,1,900,15',1,0,Jill Van De Haar (Saestum) Goal at 15',Jill Van De Haar Goal,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,380492.0,2025-04-13 05:23:05
+13220,734866,3,45042083,94,1,1800,30',0,0,Jill Van De Haar (Saestum) Yellow Card at 30',Jill Van De Haar Yellow Card,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,380492.0,2025-04-13 05:23:05
+13220,734866,4,45042139,94,1,2280,38',0,0,Kayleigh Van Dooren (FC Twente) Yellow Card at 38',Kayleigh Van Dooren Yellow Card,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309953.0,2025-04-13 05:23:05
+13220,734866,5,45042161,70,1,2340,39',1,0,Jaimy Ravensbergen (FC Twente) Goal at 39',Jaimy Ravensbergen Goal,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309993.0,2025-04-13 05:23:05
+13220,734866,6,45042242,70,1,2700,45'+2',1,0,Jaimy Ravensbergen (FC Twente) Goal at 47',Jaimy Ravensbergen Goal,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309993.0,2025-04-13 05:23:05
+13220,734866,8,45042387,76,2,2700,45',0,0,Liz Rijsbergen (FC Twente) Substitution at 45',Liz Rijsbergen Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309985.0,2025-04-13 05:23:05
+13220,734866,7,45042386,76,2,2700,45',0,0,Nikee Van Dijk (FC Twente) Substitution at 45',Nikee Van Dijk Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309964.0,2025-04-13 05:23:05
+13220,734866,9,45042388,76,2,2700,45',0,0,Sophie Te Brake (FC Twente) Substitution at 45',Sophie Te Brake Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,325603.0,2025-04-13 05:23:05
+13220,734866,7,45042386,76,2,2700,45',0,0,Nikee Van Dijk (FC Twente) Substitution at 45',Nikee Van Dijk Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,2,309953.0,2025-04-13 05:23:05
+13220,734866,9,45042388,76,2,2700,45',0,0,Sophie Te Brake (FC Twente) Substitution at 45',Sophie Te Brake Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,2,295877.0,2025-04-13 05:23:05
+13220,734866,8,45042387,76,2,2700,45',0,0,Liz Rijsbergen (FC Twente) Substitution at 45',Liz Rijsbergen Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-04-13 05:23:05
+13220,734866,10,45042514,70,2,3240,54',1,0,Nikee Van Dijk (FC Twente) Goal at 54',Nikee Van Dijk Goal,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309964.0,2025-04-13 05:23:05
+13220,734866,11,45042598,70,2,3540,59',1,0,Charlotte Hulst (FC Twente) Goal at 59',Charlotte Hulst Goal,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309875.0,2025-04-13 05:23:05
+13220,734866,13,45042633,76,2,3600,60',0,0,Maaike Wenno (Saestum) Substitution at 60',Maaike Wenno Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,400254.0,2025-04-13 05:23:05
+13220,734866,12,45042632,76,2,3600,60',0,0,Hannah Van Der Weide (Saestum) Substitution at 60',Hannah Van Der Weide Substitutio,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,400202.0,2025-04-13 05:23:05
+13220,734866,13,45042633,76,2,3600,60',0,0,Maaike Wenno (Saestum) Substitution at 60',Maaike Wenno Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,334876.0,2025-04-13 05:23:05
+13220,734866,12,45042632,76,2,3600,60',0,0,Hannah Van Der Weide (Saestum) Substitution at 60',Hannah Van Der Weide Substitutio,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,325601.0,2025-04-13 05:23:05
+13220,734866,14,45042672,76,2,3960,66',0,0,Sophie Proost (FC Twente) Substitution at 66',Sophie Proost Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,380464.0,2025-04-13 05:23:05
+13220,734866,15,45042673,76,2,3960,66',0,0,Eva Elberink (FC Twente) Substitution at 66',Eva Elberink Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,347607.0,2025-04-13 05:23:05
+13220,734866,15,45042673,76,2,3960,66',0,0,Eva Elberink (FC Twente) Substitution at 66',Eva Elberink Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,2,309993.0,2025-04-13 05:23:05
+13220,734866,14,45042672,76,2,3960,66',0,0,Sophie Proost (FC Twente) Substitution at 66',Sophie Proost Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,2,309970.0,2025-04-13 05:23:05
+13220,734866,16,45042708,76,2,4140,69',0,0,Mirthe Witkop (Saestum) Substitution at 69',Mirthe Witkop Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,400205.0,2025-04-13 05:23:05
+13220,734866,16,45042708,76,2,4140,69',0,0,Mirthe Witkop (Saestum) Substitution at 69',Mirthe Witkop Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,359585.0,2025-04-13 05:23:05
+13220,734866,17,45062806,94,2,4380,73',0,0,Elaine De Vette (Saestum) Yellow Card at 73',Elaine De Vette Yellow Card,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,334881.0,2025-04-14 05:17:47
+13220,734866,18,45042816,76,2,4560,76',0,0,Isis Schouwe (Saestum) Substitution at 76',Isis Schouwe Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,400203.0,2025-04-14 05:17:47
+13220,734866,19,45042817,76,2,4560,76',0,0,Danique Prins (Saestum) Substitution at 76',Danique Prins Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,1,380488.0,2025-04-14 05:17:47
+13220,734866,18,45042816,76,2,4560,76',0,0,Isis Schouwe (Saestum) Substitution at 76',Isis Schouwe Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,380484.0,2025-04-14 05:17:47
+13220,734866,19,45042817,76,2,4560,76',0,0,Danique Prins (Saestum) Substitution at 76',Danique Prins Substitution,21356,0.0,0.0,0.0,0.0,0.0,0.0,2,380602.0,2025-04-14 05:17:47
+13219,735708,1,45226342,94,1,360,6',0,0,Sara Thrige (PSV Eindhoven) Yellow Card at 6',Sara Thrige Yellow Card,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,314959.0,2025-05-12 04:51:47
+13219,735708,2,45251600,94,1,1140,19',0,0,Jaimy Ravensbergen (FC Twente) Yellow Card at 19',Jaimy Ravensbergen Yellow Card,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309993.0,2025-05-13 04:54:35
+13219,735708,3,45226390,76,1,1260,21',0,0,Shanique Dessing (PSV Eindhoven) Substitution at 21',Shanique Dessing Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309981.0,2025-05-13 04:54:35
+13219,735708,3,45226390,76,1,1260,21',0,0,Shanique Dessing (PSV Eindhoven) Substitution at 21',Shanique Dessing Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,309986.0,2025-05-13 04:54:35
+13219,735708,4,45226448,94,1,2340,39',0,0,Alieke Tuin (FC Twente) Yellow Card at 39',Alieke Tuin Yellow Card,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309958.0,2025-05-13 04:54:35
+13219,735708,5,45226570,76,2,2700,45',0,0,Feur Stoit (PSV Eindhoven) Substitution at 45',Feur Stoit Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,358431.0,2025-05-13 04:54:35
+13219,735708,5,45226570,76,2,2700,45',0,0,Feur Stoit (PSV Eindhoven) Substitution at 45',Feur Stoit Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,388887.0,2025-05-13 04:54:35
+13219,735708,6,45226596,94,2,3000,50',0,0,Sisca Folkertsma (PSV Eindhoven) Yellow Card at 50',Sisca Folkertsma Yellow Card,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,250645.0,2025-05-13 04:54:35
+13219,735708,7,45226626,70,2,3120,52',1,0,Lynn Groenewegen (FC Twente) Goal at 52',Lynn Groenewegen Goal,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,324773.0,2025-05-13 04:54:35
+13219,735708,8,45226709,70,2,3900,65',1,0,Kayleigh Van Dooren (FC Twente) Goal at 65',Kayleigh Van Dooren Goal,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309953.0,2025-05-13 04:54:35
+13219,735708,9,45226819,76,2,4380,73',0,0,Amanda Jacobsen Andradóttir (FC Twente) Substitution at 73',Amanda Jacobsen Andradóttir Subs,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-05-13 04:54:35
+13219,735708,9,45226819,76,2,4380,73',0,0,Amanda Jacobsen Andradóttir (FC Twente) Substitution at 73',Amanda Jacobsen Andradóttir Subs,20114,0.0,0.0,0.0,0.0,0.0,0.0,2,309875.0,2025-05-13 04:54:35
+13219,735708,10,45226820,70,2,4440,74',1,0,Renate Jansen (PSV Eindhoven) Goal at 74',Renate Jansen Goal,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,252364.0,2025-05-13 04:54:35
+13219,735708,11,45226821,76,2,4560,76',0,0,Joelle Smits (PSV Eindhoven) Substitution at 76',Joelle Smits Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,309950.0,2025-05-13 04:54:35
+13219,735708,12,45226822,76,2,4560,76',0,0,Robine Lacroix (PSV Eindhoven) Substitution at 76',Robine Lacroix Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,1,359615.0,2025-05-13 04:54:35
+13219,735708,12,45226822,76,2,4560,76',0,0,Robine Lacroix (PSV Eindhoven) Substitution at 76',Robine Lacroix Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,331087.0,2025-05-13 04:54:35
+13219,735708,11,45226821,76,2,4560,76',0,0,Joelle Smits (PSV Eindhoven) Substitution at 76',Joelle Smits Substitution,20802,0.0,0.0,0.0,0.0,0.0,0.0,2,309981.0,2025-05-13 04:54:35
+13219,735708,13,45226832,94,2,4680,78',0,0,Leonie Vliek (FC Twente) Yellow Card at 78',Leonie Vliek Yellow Card,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,334924.0,2025-05-13 04:54:35
+13219,735708,14,45226932,76,2,5160,86',0,0,Kim Everaerts (FC Twente) Substitution at 86',Kim Everaerts Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,324769.0,2025-05-13 04:54:35
+13219,735708,15,45226943,76,2,5160,86',0,0,Nikee Van Dijk (FC Twente) Substitution at 86',Nikee Van Dijk Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,1,309964.0,2025-05-13 04:54:35
+13219,735708,14,45226932,76,2,5160,86',0,0,Kim Everaerts (FC Twente) Substitution at 86',Kim Everaerts Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,2,309958.0,2025-05-13 04:54:35
+13219,735708,15,45226943,76,2,5160,86',0,0,Nikee Van Dijk (FC Twente) Substitution at 86',Nikee Van Dijk Substitution,20114,0.0,0.0,0.0,0.0,0.0,0.0,2,309985.0,2025-05-13 04:54:35

@@ -1,0 +1,10 @@
+{
+  "model_type": "poisson",
+  "version": "v1",
+  "trained_date": "2025-11-11T10:16:45.468210",
+  "home_advantage": 1.15,
+  "league_normalization": true,
+  "min_matches": 5,
+  "num_teams": 973,
+  "num_leagues": 54
+}

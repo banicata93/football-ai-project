@@ -1,0 +1,742 @@
+seasonType,eventId,commentaryOrder,playId,clockDisplayValue,commentaryText,updateDateTime
+13503,743134,0,45514809,21',Miguel Reichmuth (FC Zürich) Yellow Card at 21',2025-07-26 04:40:46
+13503,743134,1,45514810,27',Steven Zuber (FC Zürich) Goal at 27',2025-07-26 04:40:46
+13503,743134,2,45514824,54',Ali Kabacalman (FC Sion) Yellow Card at 54',2025-07-26 04:40:46
+13503,743134,3,45514825,55',Damienus Reverson (FC Zürich) Goal at 55',2025-07-26 04:40:46
+13503,743134,4,45514829,64',Théo Berdayes (FC Sion) Substitution at 64',2025-07-26 04:40:46
+13503,743134,5,45514830,64',Josias Lukembila (FC Sion) Substitution at 64',2025-07-26 04:40:46
+13503,743134,6,45514831,64',Liam Chipperfield (FC Sion) Substitution at 64',2025-07-26 04:40:46
+13503,743134,7,45514832,66',Jahnoah Markelo (FC Zürich) Substitution at 66',2025-07-26 04:40:46
+13503,743134,8,45514833,67',Liam Chipperfield (FC Sion) Yellow Card at 67',2025-07-26 04:40:46
+13503,743134,9,45514919,77',Théo Bouchlarhem (FC Sion) Substitution at 77',2025-07-26 04:40:46
+13503,743134,10,45514923,81',Rilind Nivokazi (FC Sion) Goal at 81',2025-07-26 04:40:46
+13503,743134,11,45514925,82',Bledian Krasniqi (FC Zürich) Substitution at 82',2025-07-26 04:40:46
+13503,743134,12,45514926,82',Vincent Nvendo (FC Zürich) Substitution at 82',2025-07-26 04:40:46
+13503,743134,13,45514930,85',Winsley Boteli (FC Sion) Substitution at 85',2025-07-26 04:40:46
+13503,743134,14,45514931,87',Gian Stork (FC Zürich) Substitution at 87',2025-07-30 04:39:59
+13503,743134,15,45514932,87',Daniel Ihendu (FC Zürich) Substitution at 87',2025-07-26 04:40:46
+13503,743134,16,45514934,87',Josias Lukembila (FC Sion) Goal at 87',2025-07-26 04:40:46
+13503,743134,17,45514935,90'+1',Winsley Boteli (FC Sion) Goal at 91',2025-07-26 04:40:46
+13503,743135,0,45518991,5',Nikolas Muci (Grasshoppers) Penalty - Scored at 5',2025-07-28 04:38:24
+13503,743135,1,45519034,16',Matteo Di Giusto (FC Luzern) Goal at 16',2025-07-28 04:38:24
+13503,743135,2,45519080,31',Luke Plange (Grasshoppers) Goal at 31',2025-07-28 04:38:24
+13503,743135,3,45519087,33',Yannick Bettkober (Grasshoppers) Yellow Card at 33',2025-07-28 04:38:24
+13503,743135,4,45519110,37',Maksim Paskotši (Grasshoppers) Yellow Card at 37',2025-07-28 04:38:24
+13503,743135,5,45519111,38',Adrian Grbic (FC Luzern) Penalty - Scored at 38',2025-07-28 04:38:24
+13503,743135,6,45519246,45',Dorian Paloschi (Grasshoppers) Substitution at 45',2025-07-28 04:38:24
+13503,743135,7,45519374,63',Lucas Ferreira (FC Luzern) Substitution at 63',2025-07-28 04:38:24
+13503,743135,8,45519376,63',Matteo Mantini (Grasshoppers) Substitution at 63',2025-07-28 04:38:24
+13503,743135,9,45519377,63',Taisei Abe (FC Luzern) Substitution at 63',2025-07-28 04:38:24
+13503,743135,10,45519398,69',Lucas Ferreira (FC Luzern) Goal at 69',2025-07-28 04:38:24
+13503,743135,11,45519402,70',Samuel Marques (Grasshoppers) Substitution at 70',2025-07-28 04:38:24
+13503,743135,12,45519407,71',Loris Giandomenico (Grasshoppers) Substitution at 71',2025-07-28 04:38:24
+13503,743135,13,45519472,78',Dirk Abels (Grasshoppers) Substitution at 78',2025-07-28 04:38:24
+13503,743135,14,45519519,82',Sinan Karweina (FC Luzern) Substitution at 82',2025-07-28 04:38:24
+13503,743135,15,45519505,83',Andrej Vasovic (FC Luzern) Substitution at 83',2025-07-28 04:38:24
+13503,743135,16,45519558,90',Andrej Ciganiks (FC Luzern) Substitution at 90',2025-07-28 04:38:24
+13503,743135,17,45519605,90'+6',Amir Abrashi (Grasshoppers) Yellow Card at 96',2025-07-28 04:38:24
+13503,743135,18,45519606,90'+6',Sinan Karweina (FC Luzern) Yellow Card at 96',2025-07-28 04:38:24
+13503,743136,0,45519027,14',Leo Leroy (FC Basel) Yellow Card at 14',2025-07-28 04:38:24
+13503,743136,1,45519056,21',Lukas Görtler (St. Gallen) Yellow Card at 21',2025-07-28 04:38:24
+13503,743136,2,45519138,40',Lukas Görtler (St. Gallen) Own Goal at 40',2025-07-28 04:38:24
+13503,743136,3,45519309,56',Lukas Görtler (St. Gallen) Goal at 56',2025-07-28 04:38:24
+13503,743136,4,45519342,62',Koba Koindredi (FC Basel) Yellow Card at 62',2025-07-28 04:38:24
+13503,743136,5,45519343,62',Kevin Omoruyi (FC Basel) Substitution at 62',2025-07-28 04:38:24
+13503,743136,6,45519344,62',Metinho (FC Basel) Substitution at 62',2025-07-28 04:38:24
+13503,743136,7,45519365,64',Enoch Owusu (St. Gallen) Substitution at 64',2025-07-28 04:38:24
+13503,743136,8,45519366,64',Aliou Baldé (St. Gallen) Substitution at 64',2025-07-28 04:38:24
+13503,743136,9,45519404,72',Xherdan Shaqiri (FC Basel) Yellow Card at 72',2025-07-28 04:38:24
+13503,743136,10,45519421,74',Mihailo Stevanovic (St. Gallen) Substitution at 74',2025-07-28 04:38:24
+13503,743136,11,45519435,75',Willem Geubbels (St. Gallen) Goal at 75',2025-07-28 04:38:24
+13503,743136,12,45519471,80',Anton Kade (FC Basel) Substitution at 80',2025-07-28 04:38:24
+13503,743136,13,45519492,83',Corsin Konietzke (St. Gallen) Substitution at 83',2025-07-28 04:38:24
+13503,743136,14,45519523,86',Arlet Zé (FC Basel) Substitution at 86',2025-07-28 04:38:24
+13503,743136,15,45519524,86',Marin Soticek (FC Basel) Substitution at 86',2025-07-28 04:38:24
+13503,743136,16,45519545,90',Enoch Owusu (St. Gallen) Yellow Card at 90',2025-07-28 04:38:24
+13503,743137,0,45519760,8',Bradley Mazikou (Servette) Red Card at 8',2025-07-28 04:38:24
+13503,743137,1,45519767,10',Christian Fassnacht (Young Boys) Penalty - Scored at 10',2025-07-28 04:38:24
+13503,743137,2,45519790,14',Darian Males (Young Boys) Goal at 14',2025-07-28 04:38:24
+13503,743137,3,45519817,20',Loun Srdanovic (Servette) Substitution at 20',2025-07-28 04:38:24
+13503,743137,4,45519911,36',Samuel Mráz (Servette) Goal at 36',2025-07-28 04:38:24
+13503,743137,5,45520015,45'+5',Jaouen Hadjam (Young Boys) Yellow Card at 50',2025-07-28 04:38:24
+13503,743137,6,45520090,45',Alan Virginius (Young Boys) Substitution at 45',2025-07-28 04:38:24
+13503,743137,7,45520122,50',Alexis Antunes (Servette) Yellow Card at 50',2025-07-28 04:38:24
+13503,743137,8,45520155,56',Rayan Raveloson (Young Boys) Yellow Card at 56',2025-07-28 04:38:24
+13503,743137,9,45520201,60',Christian Bile Bédia (Young Boys) Yellow Card at 60',2025-07-28 04:38:24
+13503,743137,10,45520208,65',Filip Ugrinic (Young Boys) Substitution at 65',2025-07-28 04:38:24
+13503,743137,11,45520209,65',Saidy Janko (Young Boys) Substitution at 65',2025-07-28 04:38:24
+13503,743137,12,45520215,67',Tiemoko Ouattara (Servette) Substitution at 67',2025-07-28 04:38:24
+13503,743137,13,45520216,67',Abdoulie Jallow (Servette) Substitution at 67',2025-07-28 04:38:24
+13503,743137,14,45520241,74',Ebrima Colley (Young Boys) Substitution at 74',2025-07-28 04:38:24
+13503,743137,15,45520270,81',Keyan Varela (Servette) Substitution at 81',2025-07-28 04:38:24
+13503,743137,16,45520301,84',Alan Virginius (Young Boys) Goal at 84',2025-07-28 04:38:24
+13503,743137,17,45526877,86',Dylan Bronn (Servette) Yellow Card at 86',2025-07-28 04:38:24
+13503,743137,18,45520325,90',Emmanuel Tsimba (Young Boys) Substitution at 90',2025-07-28 04:38:24
+13503,743138,0,45527486,22',Konrad De La Fuente (Lausanne Sports) Yellow Card at 22',2025-07-28 04:38:24
+13503,743138,1,45527490,28',Alexandre Jankewitz (Winterthur) Yellow Card at 28',2025-07-28 04:38:24
+13503,743138,2,45527492,34',Oliver Custodio (Lausanne Sports) Yellow Card at 34',2025-07-28 04:38:24
+13503,743138,3,45527499,43',Brian Beyer (Winterthur) Goal at 43',2025-07-28 04:38:24
+13503,743138,4,45527517,45',Beyatt Lekweiry (Lausanne Sports) Substitution at 45',2025-07-28 04:38:24
+13503,743138,5,45527525,61',Gaoussou Diakité (Lausanne Sports) Goal at 61',2025-07-28 04:38:24
+13503,743138,6,45527538,63',Remo Arnold (Winterthur) Yellow Card at 63',2025-07-28 04:38:24
+13503,743138,7,45527539,64',Christian Gomis (Winterthur) Goal at 64',2025-07-28 04:38:24
+13503,743138,8,45527542,65',Stéphane Cueni (Winterthur) Substitution at 65',2025-07-28 04:38:24
+13503,743138,9,45527543,65',Souleymane Diaby (Winterthur) Substitution at 65',2025-07-28 04:38:24
+13503,743138,10,45527544,66',Brandon Soppy (Lausanne Sports) Substitution at 66',2025-07-28 04:38:24
+13503,743138,11,45527545,66',Bryan Okoh (Lausanne Sports) Substitution at 66',2025-07-28 04:38:24
+13503,743138,12,45527552,68',Randy Schneider (Winterthur) Yellow Card at 68',2025-07-28 04:38:24
+13503,743138,13,45527561,73',Basil Stillhart (Winterthur) Substitution at 73',2025-07-28 04:38:24
+13503,743138,14,45527576,80',Adrian Durrer (Winterthur) Yellow Card at 80',2025-07-28 04:38:24
+13503,743138,15,45527583,81',Mamadou Kaly Sene (Lausanne Sports) Goal at 81',2025-07-28 04:38:24
+13503,743138,16,45527584,81',Mamadou Kaly Sene (Lausanne Sports) Penalty - Saved at 81',2025-07-28 04:38:24
+13503,743138,17,45527590,82',Seydou Traoré (Lausanne Sports) Substitution at 82',2025-07-28 04:38:24
+13503,743138,18,45527591,82',Lukas Mühl (Winterthur) Substitution at 82',2025-07-28 04:38:24
+13503,743138,19,45527592,82',Théo Golliard (Winterthur) Substitution at 82',2025-07-28 04:38:24
+13503,743138,20,45527604,88',Adrian Durrer (Winterthur) Red Card at 88',2025-07-28 04:38:24
+13503,743138,21,45527605,89',Nathan Butler-Oyedeji (Lausanne Sports) Substitution at 89',2025-07-28 04:38:24
+13503,743138,22,45527624,90'+3',Gaoussou Diakité (Lausanne Sports) Goal at 93',2025-07-28 04:38:24
+13503,743139,0,45527478,16',Ousmane Doumbia (FC Lugano) Goal at 16',2025-07-28 04:38:24
+13503,743139,1,45527493,37',Ayman El Wafi (FC Lugano) Yellow Card at 37',2025-07-28 04:38:24
+13503,743139,2,45527527,60',Renato Steffen (FC Lugano) Substitution at 60',2025-07-28 04:38:24
+13503,743139,3,45527528,60',Ezgjan Alioski (FC Lugano) Substitution at 60',2025-07-28 04:38:24
+13503,743139,4,45527529,60',Hadj Mahmoud (FC Lugano) Substitution at 60',2025-07-28 04:38:24
+13503,743139,5,45527534,62',Zachary Brault-Guillard (FC Lugano) Yellow Card at 62',2025-07-28 04:38:24
+13503,743139,6,45527535,63',Leonardo Bertone (FC Thun) Penalty - Scored at 63',2025-07-28 04:38:24
+13503,743139,7,45527546,66',Valmir Matoshi (FC Thun) Substitution at 66',2025-07-28 04:38:24
+13503,743139,8,45527547,66',Mattias Käit (FC Thun) Substitution at 66',2025-07-28 04:38:24
+13503,743139,9,45527553,69',Mattia Zanotti (FC Lugano) Substitution at 69',2025-07-28 04:38:24
+13503,743139,10,45527555,71',Marc Gutbub (FC Thun) Substitution at 71',2025-07-28 04:38:24
+13503,743139,11,45527566,74',Daniel Correia (FC Lugano) Substitution at 74',2025-07-28 04:38:24
+13503,743139,12,45527581,79',Jan Bamert (FC Thun) Substitution at 79',2025-07-28 04:38:24
+13503,743139,13,45527582,79',Vasilije Janjicic (FC Thun) Substitution at 79',2025-07-28 04:38:24
+13503,743139,14,45527595,85',Leonardo Bertone (FC Thun) Goal at 85',2025-07-28 04:38:24
+13503,743139,15,45527631,90'+5',Niklas Steffen (FC Thun) Yellow Card at 95',2025-07-28 04:38:24
+13503,743140,0,45560069,7',Behar Neziri (St. Gallen) Yellow Card at 7',2025-08-03 04:42:14
+13503,743140,1,45560111,10',Thimoté Cognat (Servette) Yellow Card at 10',2025-08-03 04:42:14
+13503,743140,2,45560112,11',Willem Geubbels (St. Gallen) Goal at 11',2025-08-03 04:42:14
+13503,743140,3,45560176,18',Willem Geubbels (St. Gallen) Goal at 18',2025-08-03 04:42:14
+13503,743140,4,45560260,27',Miroslav Stevanovic (Servette) Goal at 27',2025-08-03 04:42:14
+13503,743140,5,45560281,30',Alessandro Vogt (St. Gallen) Goal at 30',2025-08-03 04:42:14
+13503,743140,6,45560321,32',Loun Srdanovic (Servette) Yellow Card at 32',2025-08-03 04:42:14
+13503,743140,7,45560372,39',Steve Rouiller (Servette) Yellow Card at 39',2025-08-03 04:42:14
+13503,743140,8,45560389,39',Dylan Bronn (Servette) Yellow Card at 39',2025-08-03 04:42:14
+13503,743140,9,45560509,45',Alexis Antunes (Servette) Substitution at 45',2025-08-03 04:42:14
+13503,743140,10,45560543,51',Enoch Owusu (St. Gallen) Yellow Card at 51',2025-08-03 04:42:14
+13503,743140,11,45560577,57',Alexis Antunes (Servette) Yellow Card at 57',2025-08-03 04:42:14
+13503,743140,12,45560582,58',Hugo Vandermersch (St. Gallen) Yellow Card at 58',2025-08-03 04:42:14
+13503,743140,13,45560600,63',Aliou Baldé (St. Gallen) Substitution at 63',2025-08-03 04:42:14
+13503,743140,14,45560601,63',Kevin Csoboth (St. Gallen) Substitution at 63',2025-08-03 04:42:14
+13503,743140,15,45560615,64',Jeremy Guillemenot (Servette) Yellow Card at 64',2025-08-03 04:42:14
+13503,743140,16,45560628,66',Abdoulie Jallow (Servette) Substitution at 66',2025-08-03 04:42:14
+13503,743140,17,45560629,66',Théo Magnin (Servette) Substitution at 66',2025-08-03 04:42:14
+13503,743140,18,45560649,72',Lamine Fomba (Servette) Yellow Card at 72',2025-08-03 04:42:14
+13503,743140,19,45560650,72',Keyan Varela (Servette) Substitution at 72',2025-08-03 04:42:14
+13503,743140,20,45560654,74',Yoan Severin (Servette) Substitution at 74',2025-08-03 04:42:14
+13503,743140,21,45560671,76',Albert Vallci (St. Gallen) Substitution at 76',2025-08-03 04:42:14
+13503,743140,22,45560672,77',Mihailo Stevanovic (St. Gallen) Substitution at 77',2025-08-03 04:42:14
+13503,743140,23,45560682,80',Shkelqim Vladi (St. Gallen) Substitution at 80',2025-08-03 04:42:14
+13503,743140,24,45560890,90'+6',Aliou Baldé (St. Gallen) Penalty - Scored at 96',2025-08-03 04:42:14
+13503,743141,0,45560241,24',Edimilson Fernandes (Young Boys) Goal at 24',2025-08-03 04:42:14
+13503,743141,1,45560507,45',Théo Golliard (Winterthur) Substitution at 45',2025-08-03 04:42:14
+13503,743141,2,45560550,53',Gregory Wüthrich (Young Boys) Yellow Card at 53',2025-08-03 04:42:14
+13503,743141,3,45560616,64',Remo Arnold (Winterthur) Goal at 64',2025-08-03 04:42:14
+13503,743141,4,45560621,65',Filip Ugrinic (Young Boys) Substitution at 65',2025-08-03 04:42:14
+13503,743141,5,45560622,65',Tanguy Zoukrou (Young Boys) Substitution at 65',2025-08-03 04:42:14
+13503,743141,6,45560630,65',Ebrima Colley (Young Boys) Substitution at 65',2025-08-03 04:42:14
+13503,743141,7,45560642,70',Nishan Burkart (Winterthur) Substitution at 70',2025-08-03 04:42:14
+13503,743141,8,45560652,73',Zachary Athekame (Young Boys) Substitution at 73',2025-08-03 04:42:14
+13503,743141,9,45560677,79',Sergio Córdova (Young Boys) Substitution at 79',2025-08-03 04:42:14
+13503,743141,10,45560855,88',Tibault Citherlet (Winterthur) Substitution at 88',2025-08-03 04:42:14
+13503,743141,11,45560873,90'+3',Stéphane Cueni (Winterthur) Substitution at 93',2025-08-03 04:42:14
+13503,743141,12,45560874,90'+3',Andrin Hunziker (Winterthur) Substitution at 93',2025-08-03 04:42:14
+13503,743141,13,45560877,90'+3',Filip Ugrinic (Young Boys) Yellow Card at 93',2025-08-03 04:42:14
+13503,743142,0,45561020,13',Hassane Imourane (Grasshoppers) Yellow Card at 13',2025-08-03 04:42:14
+13503,743142,1,45561060,24',Nikolas Muci (Grasshoppers) Yellow Card at 24',2025-08-03 04:42:14
+13503,743142,2,45561086,29',Saulo Decarli (Grasshoppers) Yellow Card at 29',2025-08-03 04:42:14
+13503,743142,3,45561161,44',Philip Otele (FC Basel) Goal at 44',2025-08-06 04:48:34
+13503,743142,4,45561355,55',Anton Kade (FC Basel) Substitution at 55',2025-08-03 04:42:14
+13503,743142,5,45561356,55',Allan Arigoni (Grasshoppers) Substitution at 55',2025-08-03 04:42:14
+13503,743142,6,45561357,55',Loris Giandomenico (Grasshoppers) Substitution at 55',2025-08-03 04:42:14
+13503,743142,7,45561383,58',Philip Otele (FC Basel) Yellow Card at 58',2025-08-03 04:42:14
+13503,743142,8,45561394,61',Salifou Diarrassouba (Grasshoppers) Substitution at 61',2025-08-03 04:42:14
+13503,743142,9,45561434,69',Maksim Paskotši (Grasshoppers) Goal at 69',2025-08-03 04:42:14
+13503,743142,10,45561467,75',Philip Otele (FC Basel) Goal at 75',2025-08-03 04:42:14
+13503,743142,11,45561477,76',Kevin Omoruyi (FC Basel) Substitution at 76',2025-08-03 04:42:14
+13503,743142,12,45561478,77',Leo Leroy (FC Basel) Yellow Card at 77',2025-08-03 04:42:14
+13503,743142,13,45561485,78',Maksim Paskotši (Grasshoppers) Yellow Card at 78',2025-08-03 04:42:14
+13503,743142,14,45561494,81',Matteo Mantini (Grasshoppers) Substitution at 81',2025-08-06 04:48:34
+13503,743142,15,45561541,88',Koba Koindredi (FC Basel) Substitution at 88',2025-08-03 04:42:14
+13503,743143,0,45566302,10',Christopher Ibayi (FC Thun) Goal at 10',2025-08-04 04:47:36
+13503,743143,1,45566375,23',Valmir Matoshi (FC Thun) Yellow Card at 23',2025-08-04 04:47:36
+13503,743143,2,45566602,45',Kevin Mouanga (Lausanne Sports) Substitution at 45',2025-08-04 04:47:36
+13503,743143,3,45566610,45',Mattias Käit (FC Thun) Substitution at 45',2025-08-04 04:47:36
+13503,743143,4,45566616,45',Seydou Traoré (Lausanne Sports) Substitution at 45',2025-08-04 04:47:36
+13503,743143,5,45566619,47',Genís Montolio (FC Thun) Goal at 47',2025-08-04 04:47:36
+13503,743143,6,45566668,55',Brandon Soppy (Lausanne Sports) Yellow Card at 55',2025-08-04 04:47:36
+13503,743143,7,45566725,64',Nathan Butler-Oyedeji (Lausanne Sports) Substitution at 64',2025-08-04 04:47:36
+13503,743143,8,45566734,64',Bryan Okoh (Lausanne Sports) Substitution at 64',2025-08-04 04:47:36
+13503,743143,9,45566763,70',Noe Dussenne (Lausanne Sports) Yellow Card at 70',2025-08-04 04:47:36
+13503,743143,10,45566767,71',Mamadou Kaly Sene (Lausanne Sports) Goal at 71',2025-08-04 04:47:36
+13503,743143,11,45566771,72',Justin Roth (FC Thun) Substitution at 72',2025-08-04 04:47:36
+13503,743143,12,45566772,73',Layton Stewart (FC Thun) Substitution at 73',2025-08-04 04:47:36
+13503,743143,13,45566799,78',Mamadou Kaly Sene (Lausanne Sports) Yellow Card at 78',2025-08-04 04:47:36
+13503,743143,14,45566801,78',Jan Bamert (FC Thun) Substitution at 78',2025-08-04 04:47:36
+13503,743143,15,45566814,82',Marc Gutbub (FC Thun) Substitution at 82',2025-08-04 04:47:36
+13503,743144,0,45566954,6',Josias Lukembila (FC Sion) Goal at 6',2025-08-04 04:47:36
+13503,743144,1,45566967,32',Uran Bislimi (FC Lugano) Yellow Card at 32',2025-08-04 04:47:36
+13503,743144,2,45566975,42',Ylyas Chouaref (FC Sion) Goal at 42',2025-08-04 04:47:36
+13503,743144,3,45567002,45',Lukas Mai (FC Lugano) Substitution at 45',2025-08-04 04:47:36
+13503,743144,4,45567179,52',Rilind Nivokazi (FC Sion) Yellow Card at 52',2025-08-04 04:47:36
+13503,743144,5,45567182,54',Kreshnik Hajrizi (FC Sion) Yellow Card at 54',2025-08-04 04:47:36
+13503,743144,6,45567230,60',Mattia Bottani (FC Lugano) Substitution at 60',2025-08-04 04:47:36
+13503,743144,7,45567231,60',Kevin Behrens (FC Lugano) Substitution at 60',2025-08-04 04:47:36
+13503,743144,8,45567232,60',Elias Pihlström (FC Lugano) Substitution at 60',2025-08-04 04:47:36
+13503,743144,9,45567233,60',Benjamin Kololli (FC Sion) Goal at 60',2025-08-04 04:47:36
+13503,743144,10,45567387,64',Hadj Mahmoud (FC Lugano) Yellow Card at 64',2025-08-04 04:47:36
+13503,743144,11,45567390,66',Théo Berdayes (FC Sion) Substitution at 66',2025-08-04 04:47:36
+13503,743144,12,45567391,66',Théo Bouchlarhem (FC Sion) Substitution at 66',2025-08-04 04:47:36
+13503,743144,13,45567392,66',Liam Chipperfield (FC Sion) Substitution at 66',2025-08-04 04:47:36
+13503,743144,14,45567401,73',Alexandre Parsemain (FC Lugano) Substitution at 73',2025-08-04 04:47:36
+13503,743144,15,45567404,75',Lamine Diack (FC Sion) Substitution at 75',2025-08-04 04:47:36
+13503,743144,16,45567405,75',Kevin Behrens (FC Lugano) Yellow Card at 75',2025-08-04 04:47:36
+13503,743144,17,45567416,80',Rilind Nivokazi (FC Sion) Goal at 80',2025-08-04 04:47:36
+13503,743144,18,45567418,81',Winsley Boteli (FC Sion) Substitution at 81',2025-08-04 04:47:36
+13503,743145,0,45566955,9',Pius Dorn (FC Luzern) Yellow Card at 9',2025-08-04 04:47:36
+13503,743145,1,45566963,20',Taisei Abe (FC Luzern) Yellow Card at 20',2025-08-04 04:47:36
+13503,743145,2,45566965,25',Bledian Krasniqi (FC Zürich) Substitution at 25',2025-08-04 04:47:36
+13503,743145,3,45566966,25',Damienus Reverson (FC Zürich) Yellow Card at 25',2025-08-04 04:47:36
+13503,743145,4,45567229,61',Kevin Spadanuda (FC Luzern) Substitution at 61',2025-08-04 04:47:36
+13503,743145,5,45567386,66',Umeh Emmanuel (FC Zürich) Substitution at 66',2025-08-04 04:47:36
+13503,743145,6,45567393,68',Mariano Gómez (FC Zürich) Yellow Card at 68',2025-08-04 04:47:36
+13503,743145,7,45567396,72',Adrian Grbic (FC Luzern) Goal at 72',2025-08-04 04:47:36
+13503,743145,8,45567400,74',Levin Winkler (FC Luzern) Substitution at 74',2025-08-04 04:47:36
+13503,743145,9,45567402,75',Umeh Emmanuel (FC Zürich) Yellow Card at 75',2025-08-04 04:47:36
+13503,743145,10,45567406,78',Umeh Emmanuel (FC Zürich) Goal at 78',2025-08-04 04:47:36
+13503,743145,11,45567409,81',Mohamed Bangoura (FC Zürich) Substitution at 81',2025-08-04 04:47:36
+13503,743145,12,45567412,81',Lisandru Tramoni (FC Zürich) Substitution at 81',2025-08-04 04:47:36
+13503,743145,13,45567410,82',Vincent Nvendo (FC Zürich) Substitution at 82',2025-08-04 04:47:36
+13503,743145,14,45567413,82',Severin Ottiger (FC Luzern) Substitution at 82',2025-08-04 04:47:36
+13503,743145,15,45567414,82',Andrej Vasovic (FC Luzern) Substitution at 82',2025-08-04 04:47:36
+13503,743145,16,45567415,82',Sandro Wyss (FC Luzern) Substitution at 82',2025-08-08 04:48:09
+13503,743146,0,45580669,14',Loris Benito (Young Boys) Yellow Card at 14',2025-08-07 04:51:18
+13503,743146,1,45580568,17',Darian Males (Young Boys) Goal at 17',2025-08-07 04:51:18
+13503,743146,2,45580769,39',Xherdan Shaqiri (FC Basel) Goal at 39',2025-08-07 04:51:18
+13503,743146,3,45580790,40',Joel Monteiro (Young Boys) Substitution at 40',2025-08-07 04:51:18
+13503,743146,4,45580838,45',Leo Leroy (FC Basel) Yellow Card at 45',2025-08-07 04:51:18
+13503,743146,5,45580871,45'+3',Albian Ajeti (FC Basel) Yellow Card at 48',2025-08-07 04:51:18
+13503,743146,6,45581003,45',Adrian Leon Barisic (FC Basel) Substitution at 45',2025-08-07 04:51:18
+13503,743146,7,45581009,45',Sergio Córdova (Young Boys) Substitution at 45',2025-08-07 04:51:18
+13503,743146,8,45581010,45',Saidy Janko (Young Boys) Substitution at 45',2025-08-07 04:51:18
+13503,743146,9,45581254,58',Edimilson Fernandes (Young Boys) Red Card at 58',2025-08-07 04:51:18
+13503,743146,10,45581288,59',Dominik Schmid (FC Basel) Yellow Card at 59',2025-08-07 04:51:18
+13503,743146,11,45581307,59',Marvin Keller (Young Boys) Yellow Card at 59',2025-08-07 04:51:18
+13503,743146,12,45581289,60',Xherdan Shaqiri (FC Basel) Penalty - Scored at 60',2025-08-07 04:51:18
+13503,743146,13,45581300,61',Lukasz Lakomy (Young Boys) Substitution at 61',2025-08-08 04:48:09
+13503,743146,14,45581344,67',Kevin Omoruyi (FC Basel) Substitution at 67',2025-08-07 04:51:18
+13503,743146,15,45581348,68',Zachary Athekame (Young Boys) Yellow Card at 68',2025-08-07 04:51:18
+13503,743146,16,45581364,71',Jonas Adjei (FC Basel) Yellow Card at 71',2025-08-07 04:51:18
+13503,743146,17,45581378,75',Koba Koindredi (FC Basel) Substitution at 75',2025-08-07 04:51:18
+13503,743146,18,45581379,75',Anton Kade (FC Basel) Substitution at 75',2025-08-07 04:51:18
+13503,743146,19,45581384,75',Kevin Omoruyi (FC Basel) Goal at 75',2025-08-07 04:51:18
+13503,743146,20,45581417,80',Alan Virginius (Young Boys) Substitution at 80',2025-08-07 04:51:18
+13503,743146,21,45581447,83',Joel Monteiro (Young Boys) Yellow Card at 83',2025-08-07 04:51:18
+13503,743146,22,45581486,88',Marin Soticek (FC Basel) Substitution at 88',2025-08-07 04:51:18
+13503,743146,23,45581517,90'+1',Metinho (FC Basel) Goal at 91',2025-08-07 04:51:18
+13503,743147,0,45611480,16',Simone Stroscio (Grasshoppers) Yellow Card at 16',2025-08-11 04:43:25
+13503,743147,1,45611571,32',Gaël Ondoua (Servette) Yellow Card at 32',2025-08-11 04:43:25
+13503,743147,2,45611572,33',Saulo Decarli (Grasshoppers) Goal at 33',2025-08-11 04:43:25
+13503,743147,3,45611921,45',Lamine Fomba (Servette) Substitution at 45',2025-08-11 04:43:25
+13503,743147,4,45611927,45',Florian Ayé (Servette) Substitution at 45',2025-08-11 04:43:25
+13503,743147,5,45612041,56',Florian Ayé (Servette) Penalty - Saved at 56',2025-08-11 04:43:25
+13503,743147,6,45612081,60',Loris Giandomenico (Grasshoppers) Substitution at 60',2025-08-11 04:43:25
+13503,743147,7,45612105,60',Tomás Verón Lupi (Grasshoppers) Substitution at 60',2025-08-11 04:43:25
+13503,743147,8,45612144,67',Salifou Diarrassouba (Grasshoppers) Substitution at 67',2025-08-11 04:43:25
+13503,743147,9,45612175,73',Tiemoko Ouattara (Servette) Substitution at 73',2025-08-11 04:43:25
+13503,743147,10,45612190,74',Lamine Fomba (Servette) Goal at 74',2025-08-11 04:43:25
+13503,743147,11,45614510,74',Justin Hammel (Grasshoppers) Yellow Card at 74',2025-08-11 04:43:25
+13503,743147,12,45612243,80',Pantaleo Creti (Grasshoppers) Substitution at 80',2025-08-11 04:43:25
+13503,743147,13,45612329,87',Jamie Atangana (Servette) Substitution at 87',2025-08-11 04:43:25
+13503,743147,14,45612408,90'+6',Tiemoko Ouattara (Servette) Yellow Card at 96',2025-08-11 04:43:25
+13503,743148,0,45600586,7',Alessandro Vogt (St. Gallen) Goal at 7',2025-08-10 04:46:51
+13503,743148,1,45600836,27',Carlo Boukhalfa (St. Gallen) Goal at 27',2025-08-10 04:46:51
+13503,743148,2,45601012,45'+5',Alessandro Vogt (St. Gallen) Goal at 50',2025-08-10 04:46:51
+13503,743148,3,45601127,45',Théo Golliard (Winterthur) Substitution at 45',2025-08-10 04:46:51
+13503,743148,4,45601128,45',Elias Maluvunu (Winterthur) Substitution at 45',2025-08-10 04:46:51
+13503,743148,5,45601161,48',Lukas Mühl (Winterthur) Yellow Card at 48',2025-08-10 04:46:51
+13503,743148,6,45601257,66',Aliou Baldé (St. Gallen) Substitution at 66',2025-08-10 04:46:51
+13503,743148,7,45601262,66',Corsin Konietzke (St. Gallen) Substitution at 66',2025-08-10 04:46:51
+13503,743148,8,45601263,67',Shkelqim Vladi (St. Gallen) Substitution at 67',2025-08-10 04:46:51
+13503,743148,9,45601264,67',Andrin Hunziker (Winterthur) Substitution at 67',2025-08-10 04:46:51
+13503,743148,10,45601266,67',Stéphane Cueni (Winterthur) Substitution at 67',2025-08-10 04:46:51
+13503,743148,11,45601267,68',Aliou Baldé (St. Gallen) Goal at 68',2025-08-10 04:46:51
+13503,743148,12,45601317,73',Souleymane Diaby (Winterthur) Substitution at 73',2025-08-10 04:46:51
+13503,743148,13,45601344,77',Corsin Konietzke (St. Gallen) Goal at 77',2025-08-10 04:46:51
+13503,743148,14,45601369,78',Albert Vallci (St. Gallen) Substitution at 78',2025-08-10 04:46:51
+13503,743148,15,45601391,83',Enoch Owusu (St. Gallen) Substitution at 83',2025-08-10 04:46:51
+13503,743149,0,45601971,13',Lucas Ferreira (FC Luzern) Goal at 13',2025-08-10 04:46:51
+13503,743149,1,45602000,16',Ethan Meichtry (FC Thun) Yellow Card at 16',2025-08-10 04:46:51
+13503,743149,2,45602058,23',Adrian Grbic (FC Luzern) Yellow Card at 23',2025-08-10 04:46:51
+13503,743149,3,45602141,39',Christopher Ibayi (FC Thun) Goal at 39',2025-08-10 04:46:51
+13503,743149,4,45602488,45',Brighton Labeau (FC Thun) Substitution at 45',2025-08-10 04:46:51
+13503,743149,5,45602508,45',Kevin Spadanuda (FC Luzern) Substitution at 45',2025-08-10 04:46:51
+13503,743149,6,45602509,45',Andrej Ciganiks (FC Luzern) Substitution at 45',2025-08-10 04:46:51
+13503,743149,7,45602521,46',Christopher Ibayi (FC Thun) Goal at 46',2025-08-10 04:46:51
+13503,743149,8,45602751,63',Andrej Vasovic (FC Luzern) Substitution at 63',2025-08-10 04:46:51
+13503,743149,9,45602757,63',Sinan Karweina (FC Luzern) Substitution at 63',2025-08-10 04:46:51
+13503,743149,10,45602778,64',Kevin Spadanuda (FC Luzern) Yellow Card at 64',2025-08-10 04:46:51
+13503,743149,11,45602808,67',Valmir Matoshi (FC Thun) Substitution at 67',2025-08-10 04:46:51
+13503,743149,12,45602821,67',Justin Roth (FC Thun) Substitution at 67',2025-08-10 04:46:51
+13503,743149,13,45602866,72',Vasilije Janjicic (FC Thun) Substitution at 72',2025-08-10 04:46:51
+13503,743149,14,45602881,75',Mio Zimmermann (FC Luzern) Substitution at 75',2025-08-10 04:46:51
+13503,743149,15,45602904,76',Leonardo Bertone (FC Thun) Yellow Card at 76',2025-08-10 04:46:51
+13503,743149,16,45603040,88',Jan Bamert (FC Thun) Substitution at 88',2025-08-10 04:46:51
+13503,743150,0,45610450,38',Numa Lavanchy (FC Sion) Yellow Card at 38',2025-08-11 04:43:25
+13503,743150,1,45610682,54',Rilind Nivokazi (FC Sion) Yellow Card at 54',2025-08-11 04:43:25
+13503,743150,2,45610746,61',Ebrima Colley (Young Boys) Substitution at 61',2025-08-11 04:43:25
+13503,743150,3,45610747,62',Christian Bile Bédia (Young Boys) Substitution at 62',2025-08-11 04:43:25
+13503,743150,4,45610748,62',Dominik Pech (Young Boys) Substitution at 62',2025-08-11 04:43:25
+13503,743150,5,45610754,64',Noah Sow (FC Sion) Yellow Card at 64',2025-08-11 04:43:25
+13503,743150,6,45610765,70',Théo Berdayes (FC Sion) Substitution at 70',2025-08-11 04:43:25
+13503,743150,7,45610766,71',Théo Bouchlarhem (FC Sion) Substitution at 71',2025-08-11 04:43:25
+13503,743150,8,45610767,71',Liam Chipperfield (FC Sion) Substitution at 71',2025-08-11 04:43:25
+13503,743150,9,45610768,71',Lamine Diack (FC Sion) Substitution at 71',2025-08-11 04:43:25
+13503,743150,10,45610792,77',Sandro Lauper (Young Boys) Substitution at 77',2025-08-11 04:43:25
+13503,743150,11,45610800,77',Zachary Athekame (Young Boys) Substitution at 77',2025-08-11 04:43:25
+13503,743150,12,45610827,80',Jan Kronig (FC Sion) Red Card at 80',2025-08-11 04:43:25
+13503,743150,13,45610834,83',Batata (FC Sion) Substitution at 83',2025-08-14 04:50:22
+13503,743151,0,45611542,24',Bledian Krasniqi (FC Zürich) Goal at 24',2025-08-11 04:43:25
+13503,743151,1,45611553,28',Bryan Okoh (Lausanne Sports) Yellow Card at 28',2025-08-11 04:43:25
+13503,743151,2,45611557,30',Nathan Butler-Oyedeji (Lausanne Sports) Yellow Card at 30',2025-08-11 04:43:25
+13503,743151,3,45611641,41',Cheveyo Tsawa (FC Zürich) Yellow Card at 41',2025-08-11 04:43:25
+13503,743151,4,45611642,41',Mamadou Kaly Sene (Lausanne Sports) Goal at 41',2025-08-11 04:43:25
+13503,743151,5,45611993,50',Ilan Sauter (FC Zürich) Yellow Card at 50',2025-08-11 04:43:25
+13503,743151,6,45612006,51',Noe Dussenne (Lausanne Sports) Yellow Card at 51',2025-08-11 04:43:25
+13503,743151,7,45612048,57',Neil Volken (FC Zürich) Substitution at 57',2025-08-11 04:43:25
+13503,743151,8,45612109,61',Beyatt Lekweiry (Lausanne Sports) Substitution at 61',2025-08-11 04:43:25
+13503,743151,9,45612138,66',Jorge Segura (FC Zürich) Goal at 66',2025-08-11 04:43:25
+13503,743151,10,45612180,72',Muhannad Al-Saad (Lausanne Sports) Substitution at 72',2025-08-11 04:43:25
+13503,743151,11,45612181,72',Konrad De La Fuente (Lausanne Sports) Substitution at 72',2025-08-11 04:43:25
+13503,743151,12,45612182,72',Matthias Phaëton (FC Zürich) Substitution at 72',2025-08-11 04:43:25
+13503,743151,13,45612183,72',Mohamed Bangoura (FC Zürich) Substitution at 72',2025-08-17 04:58:39
+13503,743151,14,45612277,81',Sekou Fofana (Lausanne Sports) Substitution at 81',2025-08-11 04:43:25
+13503,743151,15,45612278,81',Alban Ajdini (Lausanne Sports) Substitution at 81',2025-08-11 04:43:25
+13503,743151,16,45612279,82',Livano Comenencia (FC Zürich) Substitution at 82',2025-08-11 04:43:25
+13503,743151,17,45612398,90'+2',Matthias Phaëton (FC Zürich) Yellow Card at 92',2025-08-11 04:43:25
+13503,743152,0,45611444,11',Anto Grgic (FC Lugano) Penalty - Scored at 11',2025-08-12 04:48:54
+13503,743152,1,45611562,29',Anton Kade (FC Basel) Yellow Card at 29',2025-08-12 04:48:54
+13503,743152,2,45611563,31',Antonios Papadopoulos (FC Lugano) Goal at 31',2025-08-12 04:48:54
+13503,743152,3,45611636,39',Metinho (FC Basel) Yellow Card at 39',2025-08-12 04:48:54
+13503,743152,4,45611924,45',Nicolas Vouilloz (FC Basel) Substitution at 45',2025-08-12 04:48:54
+13503,743152,5,45611936,45',Albian Ajeti (FC Basel) Substitution at 45',2025-08-12 04:48:54
+13503,743152,6,45611939,45',Marin Soticek (FC Basel) Substitution at 45',2025-08-12 04:48:54
+13503,743152,7,45612039,55',Anto Grgic (FC Lugano) Yellow Card at 55',2025-08-12 04:48:54
+13503,743152,8,45612040,56',Hadj Mahmoud (FC Lugano) Substitution at 56',2025-08-12 04:48:54
+13503,743152,9,45612126,63',Albian Ajeti (FC Basel) Goal at 63',2025-08-12 04:48:54
+13503,743152,10,45612122,64',Ezgjan Alioski (FC Lugano) Substitution at 64',2025-08-12 04:48:54
+13503,743152,11,45612127,64',Georgios Koutsias (FC Lugano) Substitution at 64',2025-08-12 04:48:54
+13503,743152,12,45612146,67',Koba Koindredi (FC Basel) Substitution at 67',2025-08-12 04:48:54
+13503,743152,13,45612246,79',Elias Pihlström (FC Lugano) Substitution at 79',2025-08-12 04:48:54
+13503,743152,14,45612273,80',Ayman El Wafi (FC Lugano) Substitution at 80',2025-08-12 04:48:54
+13503,743152,15,45612275,82',Kaio Eduardo (FC Basel) Substitution at 82',2025-08-12 04:48:54
+13503,743152,16,45612337,87',Georgios Koutsias (FC Lugano) Yellow Card at 87',2025-08-12 04:48:54
+13503,743152,17,45612402,90'+4',Xherdan Shaqiri (FC Basel) Yellow Card at 94',2025-08-12 04:48:54
+13503,743152,18,45612410,90'+6',Georgios Koutsias (FC Lugano) Goal at 96',2025-08-12 04:48:54
+13503,743153,0,45909302,45',Josias Lukembila (FC Sion) Substitution at 45',2025-09-18 05:13:23
+13503,743153,1,45909304,45',Théo Bouchlarhem (FC Sion) Substitution at 45',2025-09-18 05:13:23
+13503,743153,2,45909305,45',Donat Rrudhani (FC Sion) Substitution at 45',2025-09-18 05:13:23
+13503,743153,3,45909415,59',Samuel Mráz (Servette) Goal at 59',2025-09-18 05:13:23
+13503,743153,4,45909442,61',Lamine Fomba (Servette) Yellow Card at 61',2025-09-18 05:13:23
+13503,743153,5,45909480,66',Miroslav Stevanovic (Servette) Yellow Card at 66',2025-09-18 05:13:23
+13503,743153,6,45909487,67',Samuel Mráz (Servette) Goal at 67',2025-09-18 05:13:23
+13503,743153,7,45909536,73',Winsley Boteli (FC Sion) Substitution at 73',2025-09-18 05:13:23
+13503,743153,8,45909558,73',Batata (FC Sion) Substitution at 73',2025-09-20 05:13:09
+13503,743153,9,45909589,77',Alexis Antunes (Servette) Substitution at 77',2025-09-18 05:13:23
+13503,743153,10,45909651,83',Steve Rouiller (Servette) Substitution at 83',2025-09-18 05:13:23
+13503,743153,11,45909693,87',Florian Ayé (Servette) Yellow Card at 87',2025-09-18 05:13:23
+13503,743153,12,45909706,90',Gaël Ondoua (Servette) Substitution at 90',2025-09-18 05:13:23
+13503,743154,0,45734006,14',Elmin Rastoder (FC Thun) Goal at 14',2025-08-24 04:58:03
+13503,743154,1,45734360,41',Ethan Meichtry (FC Thun) Goal at 41',2025-08-24 04:58:03
+13503,743154,2,45734396,43',Genís Montolio (FC Thun) Yellow Card at 43',2025-08-24 04:58:03
+13503,743154,3,45734418,44',Neil Volken (FC Zürich) Substitution at 44',2025-08-24 04:58:03
+13503,743154,4,45734735,45',Livano Comenencia (FC Zürich) Substitution at 45',2025-08-24 04:58:03
+13503,743154,5,45734756,46',Mariano Gómez (FC Zürich) Yellow Card at 46',2025-08-24 04:58:03
+13503,743154,6,45734779,48',Marco Bürki (FC Thun) Yellow Card at 48',2025-08-24 04:58:03
+13503,743154,7,45734928,59',Christopher Ibayi (FC Thun) Goal at 59',2025-08-24 04:58:03
+13503,743154,8,45734983,65',Kastriot Imeri (FC Thun) Substitution at 65',2025-08-24 04:58:03
+13503,743154,9,45734984,65',Brighton Labeau (FC Thun) Substitution at 65',2025-08-24 04:58:03
+13503,743154,10,45734995,65',Philippe Paulin Keny (FC Zürich) Substitution at 65',2025-08-24 04:58:03
+13503,743154,11,45735001,65',Ilan Sauter (FC Zürich) Substitution at 65',2025-08-24 04:58:03
+13503,743154,12,45735114,77',Vasilije Janjicic (FC Thun) Substitution at 77',2025-08-24 04:58:03
+13503,743154,13,45735115,77',Valmir Matoshi (FC Thun) Substitution at 77',2025-08-24 04:58:03
+13503,743154,14,45735144,80',Damienus Reverson (FC Zürich) Substitution at 80',2025-08-24 04:58:03
+13503,743154,15,45735186,82',Jan Bamert (FC Thun) Substitution at 82',2025-08-24 04:58:03
+13503,743154,16,45735296,87',Philippe Paulin Keny (FC Zürich) Red Card at 87',2025-08-24 04:58:03
+13503,743154,17,45735388,90'+2',Valmir Matoshi (FC Thun) Goal at 92',2025-08-24 04:58:03
+13503,743155,0,45746206,12',Jonathan Asp Jensen (Grasshoppers) Goal at 12',2025-08-25 04:57:58
+13503,743155,1,45746363,45',Dirk Abels (Grasshoppers) Yellow Card at 45',2025-08-25 04:57:58
+13503,743155,2,45746498,45',Tibault Citherlet (Winterthur) Substitution at 45',2025-08-25 04:57:58
+13503,743155,3,45746563,53',Nikolas Muci (Grasshoppers) Substitution at 53',2025-08-25 04:57:58
+13503,743155,4,45746650,60',Lovro Zvonarek (Grasshoppers) Goal at 60',2025-08-25 04:57:58
+13503,743155,5,45746876,64',Roman Buess (Winterthur) Substitution at 64',2025-08-25 04:57:58
+13503,743155,6,45746901,68',Silvan Sidler (Winterthur) Goal at 68',2025-08-25 04:57:58
+13503,743155,7,45746919,71',Óscar Clemente (Grasshoppers) Substitution at 71',2025-08-25 04:57:58
+13503,743155,8,45746992,74',Fabian Rohner (Winterthur) Substitution at 74',2025-08-25 04:57:58
+13503,743155,9,45747015,79',Tim Meyer (Grasshoppers) Substitution at 79',2025-08-25 04:57:58
+13503,743155,10,45747029,79',Loris Giandomenico (Grasshoppers) Substitution at 79',2025-08-25 04:57:58
+13503,743155,11,45747030,79',Tomás Verón Lupi (Grasshoppers) Substitution at 79',2025-08-25 04:57:58
+13503,743155,12,45747054,80',Hassane Imourane (Grasshoppers) Yellow Card at 80',2025-08-25 04:57:58
+13503,743155,13,45747102,85',Elias Maluvunu (Winterthur) Substitution at 85',2025-08-25 04:57:58
+13503,743155,14,45747103,85',Andrin Hunziker (Winterthur) Substitution at 85',2025-08-25 04:57:58
+13503,743155,15,45747219,90'+2',Tibault Citherlet (Winterthur) Goal at 92',2025-08-25 04:57:58
+13503,743156,0,45909166,13',Kevin Behrens (FC Lugano) Goal at 13',2025-09-18 05:13:23
+13503,743156,1,45909171,14',Kevin Mouanga (Lausanne Sports) Substitution at 14',2025-09-18 05:13:23
+13503,743156,2,45909211,22',Karim Sow (Lausanne Sports) Yellow Card at 22',2025-09-18 05:13:23
+13503,743156,3,45909378,51',Beyatt Lekweiry (Lausanne Sports) Goal at 51',2025-09-18 05:13:23
+13503,743156,4,45909417,55',Brandon Soppy (Lausanne Sports) Yellow Card at 55',2025-09-18 05:13:23
+13503,743156,5,45909427,57',Hadj Mahmoud (FC Lugano) Substitution at 57',2025-09-18 05:13:23
+13503,743156,6,45909443,57',Zachary Brault-Guillard (FC Lugano) Substitution at 57',2025-09-18 05:13:23
+13503,743156,7,45909444,57',Mattia Bottani (FC Lugano) Substitution at 57',2025-09-18 05:13:23
+13503,743156,8,45909465,60',Nathan Butler-Oyedeji (Lausanne Sports) Substitution at 60',2025-09-18 05:13:23
+13503,743156,9,45909660,78',Bryan Okoh (Lausanne Sports) Yellow Card at 78',2025-09-18 05:13:23
+13503,743156,10,45909673,81',Alban Ajdini (Lausanne Sports) Substitution at 81',2025-09-18 05:13:23
+13503,743156,11,45909674,81',Sekou Fofana (Lausanne Sports) Substitution at 81',2025-09-18 05:13:23
+13503,743156,12,45909683,81',Claudio Cassano (FC Lugano) Substitution at 81',2025-09-18 05:13:23
+13503,743156,13,45909720,86',Martim Marques (FC Lugano) Yellow Card at 86',2025-09-18 05:13:23
+13503,743156,14,45911729,90',Claudio Cassano (FC Lugano) Yellow Card at 90',2025-09-19 05:15:36
+13503,743156,15,45909760,90'+1',Renato Steffen (FC Lugano) Red Card at 91',2025-09-19 05:15:36
+13503,743156,16,45909764,90'+7',Ousmane Doumbia (FC Lugano) Substitution at 97',2025-09-19 05:15:36
+13503,743157,0,45747767,3',Behar Neziri (St. Gallen) Own Goal at 3',2025-08-25 04:57:58
+13503,743157,1,45748790,52',Pascal Loretz (FC Luzern) Yellow Card at 52',2025-08-25 04:57:58
+13503,743157,2,45748968,64',Enoch Owusu (St. Gallen) Substitution at 64',2025-08-25 04:57:58
+13503,743157,3,45748996,66',Jozo Stanic (St. Gallen) Yellow Card at 66',2025-08-25 04:57:58
+13503,743157,4,45749001,66',Julian von Moos (FC Luzern) Yellow Card at 66',2025-08-25 04:57:58
+13503,743157,5,45749024,67',Andrej Ciganiks (FC Luzern) Yellow Card at 67',2025-08-25 04:57:58
+13503,743157,6,45749066,70',Lucas Ferreira (FC Luzern) Substitution at 70',2025-08-25 04:57:58
+13503,743157,7,45749116,72',Christian Witzig (St. Gallen) Substitution at 72',2025-08-25 04:57:58
+13503,743157,8,45749117,72',Shkelqim Vladi (St. Gallen) Substitution at 72',2025-08-25 04:57:58
+13503,743157,9,45749118,72',Corsin Konietzke (St. Gallen) Substitution at 72',2025-08-25 04:57:58
+13503,743157,10,45749158,75',Sinan Karweina (FC Luzern) Substitution at 75',2025-08-25 04:57:58
+13503,743157,11,45749178,77',Tyron Owusu (FC Luzern) Yellow Card at 77',2025-08-25 04:57:58
+13503,743157,12,45749207,80',Hugo Vandermersch (St. Gallen) Yellow Card at 80',2025-08-25 04:57:58
+13503,743157,13,45749224,82',Levin Winkler (FC Luzern) Substitution at 82',2025-08-25 04:57:58
+13503,743157,14,45749242,82',Severin Ottiger (FC Luzern) Substitution at 82',2025-08-25 04:57:58
+13503,743157,15,45749400,90'+4',Stefan Knezevic (FC Luzern) Yellow Card at 94',2025-08-25 04:57:58
+13503,743157,16,45749456,90'+6',Christian Witzig (St. Gallen) Penalty - Saved at 96',2025-08-25 04:57:58
+13503,743158,0,45794588,30',Mariano Gómez (FC Zürich) Yellow Card at 30',2025-08-31 05:08:09
+13503,743158,1,45795440,56',Lisandru Tramoni (FC Zürich) Yellow Card at 56',2025-08-31 05:08:09
+13503,743158,2,45795493,60',Calixte Ligue (FC Zürich) Substitution at 60',2025-08-31 05:08:09
+13503,743158,3,45795494,60',Matthias Phaëton (FC Zürich) Substitution at 60',2025-08-31 05:08:09
+13503,743158,4,45795589,65',Stéphane Cueni (Winterthur) Yellow Card at 65',2025-08-31 05:08:09
+13503,743158,5,45795590,65',Dario Ulrich (Winterthur) Substitution at 65',2025-08-31 05:08:09
+13503,743158,6,45795591,65',Elias Maluvunu (Winterthur) Substitution at 65',2025-08-31 05:08:09
+13503,743158,7,45795647,71',Damienus Reverson (FC Zürich) Substitution at 71',2025-08-31 05:08:09
+13503,743158,8,45795651,72',Matthias Phaëton (FC Zürich) Goal at 72',2025-08-31 05:08:09
+13503,743158,9,45795686,75',Roman Buess (Winterthur) Substitution at 75',2025-08-31 05:08:09
+13503,743158,10,45795704,75',Carmine Chiappetta (Winterthur) Substitution at 75',2025-08-31 05:08:09
+13503,743158,11,45795789,80',Steven Zuber (FC Zürich) Goal at 80',2025-08-31 05:08:09
+13503,743158,12,45795819,82',Andrin Hunziker (Winterthur) Substitution at 82',2025-08-31 05:08:09
+13503,743158,13,45795901,85',Randy Schneider (Winterthur) Yellow Card at 85',2025-08-31 05:08:09
+13503,743158,14,45796006,89',Christian Gomis (Winterthur) Goal at 89',2025-08-31 05:08:09
+13503,743158,15,45796059,89',Christian Gomis (Winterthur) Yellow Card at 89',2025-08-31 05:08:09
+13503,743158,16,45796066,89',Matthias Phaëton (FC Zürich) Yellow Card at 89',2025-08-31 05:08:09
+13503,743158,17,45796112,90'+2',Nelson Palacio (FC Zürich) Yellow Card at 92',2025-08-31 05:08:09
+13503,743158,18,45796124,90'+3',Lindrit Kamberi (FC Zürich) Substitution at 93',2025-08-31 05:08:09
+13503,743158,19,45796170,90'+4',Ilan Sauter (FC Zürich) Substitution at 94',2025-08-31 05:08:09
+13503,743158,20,45796171,90'+5',Matthias Phaëton (FC Zürich) Goal at 95',2025-08-31 05:08:09
+13503,743159,0,45794692,38',Jonathan Asp Jensen (Grasshoppers) Yellow Card at 38',2025-08-31 05:08:09
+13503,743159,1,45795139,50',Nils Reichmuth (FC Thun) Goal at 50',2025-08-31 05:08:09
+13503,743159,2,45795486,61',Kastriot Imeri (FC Thun) Substitution at 61',2025-08-31 05:08:09
+13503,743159,3,45795504,61',Brighton Labeau (FC Thun) Substitution at 61',2025-08-31 05:08:09
+13503,743159,4,45795578,65',Lee Young-Jun (Grasshoppers) Substitution at 65',2025-08-31 05:08:09
+13503,743159,5,45795579,65',Loris Giandomenico (Grasshoppers) Substitution at 65',2025-08-31 05:08:09
+13503,743159,6,45795641,72',Tim Meyer (Grasshoppers) Substitution at 72',2025-08-31 05:08:09
+13503,743159,7,45795642,72',Óscar Clemente (Grasshoppers) Substitution at 72',2025-08-31 05:08:09
+13503,743159,8,45795734,79',Layton Stewart (FC Thun) Substitution at 79',2025-08-31 05:08:09
+13503,743159,9,45795762,79',Valmir Matoshi (FC Thun) Substitution at 79',2025-08-31 05:08:09
+13503,743159,10,45801325,79',Michael Heule (FC Thun) Yellow Card at 79',2025-09-01 05:11:18
+13503,743159,11,45795763,80',Dirk Abels (Grasshoppers) Yellow Card at 80',2025-09-01 05:11:18
+13503,743159,12,45795806,83',Pantaleo Creti (Grasshoppers) Substitution at 83',2025-09-01 05:11:18
+13503,743159,13,45795873,84',Pantaleo Creti (Grasshoppers) Goal at 84',2025-09-01 05:11:18
+13503,743159,14,45795996,88',Kastriot Imeri (FC Thun) Yellow Card at 88',2025-09-04 05:12:31
+13503,743159,15,45796065,90'+2',Fabio Fehr (FC Thun) Yellow Card at 92',2025-09-01 05:11:18
+13503,743160,0,45797324,14',Arlet Zé (FC Basel) Goal at 14',2025-08-31 05:08:09
+13503,743160,1,45797528,23',Leo Leroy (FC Basel) Yellow Card at 23',2025-08-31 05:08:09
+13503,743160,2,45797676,31',Dominik Schmid (FC Basel) Yellow Card at 31',2025-08-31 05:08:09
+13503,743160,3,45797919,42',Josias Lukembila (FC Sion) Yellow Card at 42',2025-08-31 05:08:09
+13503,743160,4,45798633,61',Moritz Broschinski (FC Basel) Substitution at 61',2025-09-04 05:12:31
+13503,743160,5,45798634,62',Moussa Cissé (FC Basel) Substitution at 62',2025-08-31 05:08:09
+13503,743160,6,45798730,66',Ylyas Chouaref (FC Sion) Yellow Card at 66',2025-08-31 05:08:09
+13503,743160,7,45798760,67',Liam Chipperfield (FC Sion) Substitution at 67',2025-08-31 05:08:09
+13503,743160,8,45798787,67',Théo Berdayes (FC Sion) Substitution at 67',2025-08-31 05:08:09
+13503,743160,9,45798788,68',Théo Bouchlarhem (FC Sion) Substitution at 68',2025-08-31 05:08:09
+13503,743160,10,45798848,72',Marin Soticek (FC Basel) Substitution at 72',2025-08-31 05:08:09
+13503,743160,11,45798909,75',Lamine Diack (FC Sion) Substitution at 75',2025-08-31 05:08:09
+13503,743160,12,45798910,75',Winsley Boteli (FC Sion) Substitution at 75',2025-08-31 05:08:09
+13503,743160,13,45798957,77',Jan Kronig (FC Sion) Yellow Card at 77',2025-08-31 05:08:09
+13503,743160,14,45799149,87',Andrej Bacanin (FC Basel) Substitution at 87',2025-08-31 05:08:09
+13503,743160,15,45799194,87',Philip Otele (FC Basel) Substitution at 87',2025-08-31 05:08:09
+13503,743160,16,45799195,87',Théo Bouchlarhem (FC Sion) Yellow Card at 87',2025-08-31 05:08:09
+13503,743161,0,45806483,16',Karlo Letica (Lausanne Sports) Yellow Card at 16',2025-09-01 05:11:18
+13503,743161,1,45806487,16',Aliou Baldé (St. Gallen) Penalty - Saved at 16',2025-09-01 05:11:18
+13503,743161,2,45806561,40',Aliou Baldé (St. Gallen) Yellow Card at 40',2025-09-01 05:11:18
+13503,743161,3,45806564,40',Oliver Custodio (Lausanne Sports) Yellow Card at 40',2025-09-01 05:11:18
+13503,743161,4,45806565,40',Carlo Boukhalfa (St. Gallen) Yellow Card at 40',2025-09-01 05:11:18
+13503,743161,5,45806596,44',Gaoussou Diakité (Lausanne Sports) Red Card at 44',2025-09-01 05:11:18
+13503,743161,6,45806734,45',Sekou Fofana (Lausanne Sports) Substitution at 45',2025-09-01 05:11:18
+13503,743161,7,45806756,45',Gabriel Sigua (Lausanne Sports) Substitution at 45',2025-09-01 05:11:18
+13503,743161,8,45806759,46',Oliver Custodio (Lausanne Sports) Goal at 46',2025-09-01 05:11:18
+13503,743161,9,45806885,55',Alessandro Vogt (St. Gallen) Goal at 55',2025-09-01 05:11:18
+13503,743161,10,45806902,56',Brandon Soppy (Lausanne Sports) Yellow Card at 56',2025-09-01 05:11:18
+13503,743161,11,45806946,60',Alban Ajdini (Lausanne Sports) Substitution at 60',2025-09-01 05:11:18
+13503,743161,12,45806993,64',Alessandro Vogt (St. Gallen) Goal at 64',2025-09-01 05:11:18
+13503,743161,13,45807016,68',Hamza Abdallah (Lausanne Sports) Substitution at 68',2025-09-01 05:11:18
+13503,743161,14,45807042,70',Christian Witzig (St. Gallen) Substitution at 70',2025-09-01 05:11:18
+13503,743161,15,45807107,76',Cyrill May (St. Gallen) Yellow Card at 76',2025-09-01 05:11:18
+13503,743161,16,45807108,76',Enzo Kana-Biyik (Lausanne Sports) Substitution at 76',2025-09-01 05:11:18
+13503,743161,17,45807115,76',Shkelqim Vladi (St. Gallen) Substitution at 76',2025-09-01 05:11:18
+13503,743161,18,45807255,87',Mihailo Stevanovic (St. Gallen) Substitution at 87',2025-09-01 05:11:18
+13503,743161,19,45807275,88',Bryan Okoh (Lausanne Sports) Yellow Card at 88',2025-09-01 05:11:18
+13503,743162,0,45807750,5',Kevin Spadanuda (FC Luzern) Goal at 5',2025-09-01 05:11:18
+13503,743162,1,45808801,45',Alexis Antunes (Servette) Substitution at 45',2025-09-01 05:11:18
+13503,743162,2,45808838,45',Samuel Mráz (Servette) Substitution at 45',2025-09-01 05:11:18
+13503,743162,3,45808839,45',Miroslav Stevanovic (Servette) Substitution at 45',2025-09-01 05:11:18
+13503,743162,4,45809053,58',Alexis Antunes (Servette) Goal at 58',2025-09-01 05:11:18
+13503,743162,5,45809173,68',Lucas Ferreira (FC Luzern) Substitution at 68',2025-09-01 05:11:18
+13503,743162,6,45809196,68',Sinan Karweina (FC Luzern) Substitution at 68',2025-09-01 05:11:18
+13503,743162,7,45809253,71',Théo Magnin (Servette) Yellow Card at 71',2025-09-01 05:11:18
+13503,743162,8,45809288,75',Matteo Di Giusto (FC Luzern) Goal at 75',2025-09-01 05:11:18
+13503,743162,9,45809323,78',Lamine Fomba (Servette) Substitution at 78',2025-09-01 05:11:18
+13503,743162,10,45809351,78',Bradley Mazikou (Servette) Substitution at 78',2025-09-01 05:11:18
+13503,743162,11,45809473,86',Levin Winkler (FC Luzern) Substitution at 86',2025-09-01 05:11:18
+13503,743162,12,45809474,86',Severin Ottiger (FC Luzern) Substitution at 86',2025-09-01 05:11:18
+13503,743162,13,45809510,89',Miroslav Stevanovic (Servette) Goal at 89',2025-09-01 05:11:18
+13503,743163,0,45807818,9',Ousmane Doumbia (FC Lugano) Yellow Card at 9',2025-09-01 05:11:18
+13503,743163,1,45807856,11',Christian Bile Bédia (Young Boys) Penalty - Scored at 11',2025-09-01 05:11:18
+13503,743163,2,45807875,12',Martim Marques (FC Lugano) Goal at 12',2025-09-01 05:11:18
+13503,743163,3,45808923,48',Christian Fassnacht (Young Boys) Goal at 48',2025-09-01 05:11:18
+13503,743163,4,45809077,57',Elias Pihlström (FC Lugano) Substitution at 57',2025-09-05 05:17:10
+13503,743163,5,45809059,58',Georgios Koutsias (FC Lugano) Substitution at 58',2025-09-05 05:17:10
+13503,743163,6,45809107,61',Jaouen Hadjam (Young Boys) Substitution at 61',2025-09-01 05:11:18
+13503,743163,7,45809108,61',Dominik Pech (Young Boys) Substitution at 61',2025-09-01 05:11:18
+13503,743163,8,45809243,70',Mattia Bottani (FC Lugano) Substitution at 70',2025-09-01 05:11:18
+13503,743163,9,45809257,70',Ezgjan Alioski (FC Lugano) Substitution at 70',2025-09-01 05:11:18
+13503,743163,10,45809322,76',Sandro Lauper (Young Boys) Substitution at 76',2025-09-01 05:11:18
+13503,743163,11,45809348,76',Ebrima Colley (Young Boys) Substitution at 76',2025-09-01 05:11:18
+13503,743163,12,45809405,80',Christian Bile Bédia (Young Boys) Goal at 80',2025-09-01 05:11:18
+13503,743163,13,45809478,84',Kevin Behrens (FC Lugano) Substitution at 84',2025-09-01 05:11:18
+13503,743163,14,45809479,85',Emmanuel Tsimba (Young Boys) Substitution at 85',2025-09-01 05:11:18
+13503,743164,0,45874183,24',Xherdan Shaqiri (FC Basel) Goal at 24',2025-09-14 05:28:00
+13503,743164,1,45874356,36',Ethan Meichtry (FC Thun) Yellow Card at 36',2025-09-14 05:28:00
+13503,743164,2,45874393,40',Nils Reichmuth (FC Thun) Yellow Card at 40',2025-09-14 05:28:00
+13503,743164,3,45874400,41',Albian Ajeti (FC Basel) Goal at 41',2025-09-14 05:28:00
+13503,743164,4,45874742,45',Kastriot Imeri (FC Thun) Substitution at 45',2025-09-14 05:28:00
+13503,743164,5,45874839,51',Leonardo Bertone (FC Thun) Penalty - Scored at 51',2025-09-14 05:28:00
+13503,743164,6,45875053,65',Arlet Zé (FC Basel) Substitution at 65',2025-09-18 05:13:23
+13503,743164,7,45875054,65',Jonas Adjei (FC Basel) Substitution at 65',2025-09-14 05:28:00
+13503,743164,8,45875145,72',Brighton Labeau (FC Thun) Substitution at 72',2025-09-14 05:28:00
+13503,743164,9,45875146,72',Valmir Matoshi (FC Thun) Substitution at 72',2025-09-14 05:28:00
+13503,743164,10,45875170,73',Michael Heule (FC Thun) Yellow Card at 73',2025-09-14 05:28:00
+13503,743164,11,45875185,75',Moritz Broschinski (FC Basel) Substitution at 75',2025-09-14 05:28:00
+13503,743164,12,45875261,77',Genís Montolio (FC Thun) Red Card at 77',2025-09-18 05:13:23
+13503,743164,13,45875262,79',Jan Bamert (FC Thun) Substitution at 79',2025-09-14 05:28:00
+13503,743164,14,45875370,84',Marc Gutbub (FC Thun) Substitution at 84',2025-09-14 05:28:00
+13503,743164,15,45875403,85',Metinho (FC Basel) Yellow Card at 85',2025-09-14 05:28:00
+13503,743164,16,45875426,86',Marin Soticek (FC Basel) Substitution at 86',2025-09-14 05:28:00
+13503,743164,17,45875520,90'+1',Valmir Matoshi (FC Thun) Yellow Card at 91',2025-09-14 05:28:00
+13503,743164,18,45875550,90'+3',Moritz Broschinski (FC Basel) Yellow Card at 93',2025-09-14 05:28:00
+13503,743164,19,45875615,90'+8',Xherdan Shaqiri (FC Basel) Penalty - Scored at 98',2025-09-14 05:28:00
+13503,743165,0,45874224,28',Cheveyo Tsawa (FC Zürich) Goal at 28',2025-09-14 05:28:00
+13503,743165,1,45874359,37',Lamine Fomba (Servette) Yellow Card at 37',2025-09-14 05:28:00
+13503,743165,2,45874446,43',Cheveyo Tsawa (FC Zürich) Goal at 43',2025-09-14 05:28:00
+13503,743165,3,45874968,61',Milan Rodic (FC Zürich) Yellow Card at 61',2025-09-14 05:28:00
+13503,743165,4,45874983,62',Ilan Sauter (FC Zürich) Substitution at 62',2025-09-14 05:28:00
+13503,743165,5,45874984,62',Loun Srdanovic (Servette) Substitution at 62',2025-09-14 05:28:00
+13503,743165,6,45874985,62',Keyan Varela (Servette) Substitution at 62',2025-09-14 05:28:00
+13503,743165,7,45875022,65',Ilan Sauter (FC Zürich) Yellow Card at 65',2025-09-14 05:28:00
+13503,743165,8,45875110,71',Yoan Severin (Servette) Substitution at 71',2025-09-14 05:28:00
+13503,743165,9,45875111,71',Bradley Mazikou (Servette) Substitution at 71',2025-09-14 05:28:00
+13503,743165,10,45875163,75',Mohamed Bangoura (FC Zürich) Substitution at 75',2025-09-14 05:28:00
+13503,743165,11,45875164,75',Jahnoah Markelo (FC Zürich) Substitution at 75',2025-09-14 05:28:00
+13503,743165,12,45875235,80',Yoan Severin (Servette) Goal at 80',2025-09-14 05:28:00
+13503,743165,13,45875340,84',Mohamed Bangoura (FC Zürich) Red Card at 84',2025-09-14 05:28:00
+13503,743165,14,45875341,85',Jamie Atangana (Servette) Substitution at 85',2025-09-14 05:28:00
+13503,743165,15,45875402,88',Lindrit Kamberi (FC Zürich) Substitution at 88',2025-09-14 05:28:00
+13503,743165,16,45875423,88',Vincent Nvendo (FC Zürich) Substitution at 88',2025-09-14 05:28:00
+13503,743165,17,45875521,90'+3',Loun Srdanovic (Servette) Yellow Card at 93',2025-09-14 05:28:00
+13503,743165,18,45875586,90'+6',Ilan Sauter (FC Zürich) Red Card at 96',2025-09-14 05:28:00
+13503,743166,0,45876530,27',Mattia Bottani (FC Lugano) Yellow Card at 27',2025-09-14 05:28:00
+13503,743166,1,45876536,29',Carlo Boukhalfa (St. Gallen) Goal at 29',2025-09-14 05:28:00
+13503,743166,2,45876767,36',Jozo Stanic (St. Gallen) Yellow Card at 36',2025-09-14 05:28:00
+13503,743166,3,45876992,44',Hugo Vandermersch (St. Gallen) Yellow Card at 44',2025-09-14 05:28:00
+13503,743166,4,45877081,45'+4',Renato Steffen (FC Lugano) Yellow Card at 49',2025-09-14 05:28:00
+13503,743166,5,45877102,45'+5',Tom Gaal (St. Gallen) Yellow Card at 50',2025-09-14 05:28:00
+13503,743166,6,45877762,60',Shkelqim Vladi (St. Gallen) Substitution at 60',2025-09-14 05:28:00
+13503,743166,7,45877794,60',Malamine Efekele (St. Gallen) Substitution at 60',2025-09-14 05:28:00
+13503,743166,8,45877795,60',Yanis Cimignani (FC Lugano) Substitution at 60',2025-09-14 05:28:00
+13503,743166,9,45877796,60',Daniel Correia (FC Lugano) Substitution at 60',2025-09-14 05:28:00
+13503,743166,10,45877874,68',Zachary Brault-Guillard (FC Lugano) Substitution at 68',2025-09-14 05:28:00
+13503,743166,11,45877891,68',Corsin Konietzke (St. Gallen) Substitution at 68',2025-09-14 05:28:00
+13503,743166,12,45877892,68',Ousmane Doumbia (FC Lugano) Substitution at 68',2025-09-14 05:28:00
+13503,743166,13,45877904,69',Lukas Mai (FC Lugano) Yellow Card at 69',2025-09-14 05:28:00
+13503,743166,14,45878036,77',Christian Witzig (St. Gallen) Substitution at 77',2025-09-18 05:13:23
+13503,743166,15,45878037,77',Enoch Owusu (St. Gallen) Substitution at 77',2025-09-18 05:13:23
+13503,743166,16,45878120,81',Alexandre Parsemain (FC Lugano) Substitution at 81',2025-09-14 05:28:00
+13503,743167,0,45888096,13',Rilind Nivokazi (FC Sion) Goal at 13',2025-09-15 05:16:59
+13503,743167,1,45888172,21',Elias Maluvunu (Winterthur) Goal at 21',2025-09-15 05:16:59
+13503,743167,2,45888243,32',Noah Sow (FC Sion) Goal at 32',2025-09-15 05:16:59
+13503,743167,3,45888277,35',Josias Lukembila (FC Sion) Goal at 35',2025-09-15 05:16:59
+13503,743167,4,45888531,45',Brian Beyer (Winterthur) Substitution at 45',2025-09-15 05:16:59
+13503,743167,5,45888558,45',Carmine Chiappetta (Winterthur) Substitution at 45',2025-09-15 05:16:59
+13503,743167,6,45888822,61',Remo Arnold (Winterthur) Yellow Card at 61',2025-09-15 05:16:59
+13503,743167,7,45888942,69',Batata (FC Sion) Substitution at 69',2025-09-19 05:15:36
+13503,743167,8,45888943,69',Lamine Diack (FC Sion) Substitution at 69',2025-09-15 05:16:59
+13503,743167,9,45888964,72',Andrin Hunziker (Winterthur) Substitution at 72',2025-09-15 05:16:59
+13503,743167,10,45888979,72',Marvin Martins (Winterthur) Substitution at 72',2025-09-15 05:16:59
+13503,743167,11,45889052,76',Ylyas Chouaref (FC Sion) Substitution at 76',2025-09-15 05:16:59
+13503,743167,12,45889053,76',Liam Chipperfield (FC Sion) Substitution at 76',2025-09-15 05:16:59
+13503,743167,13,45889111,80',Winsley Boteli (FC Sion) Substitution at 80',2025-09-15 05:16:59
+13503,743167,14,45889169,84',Dario Ulrich (Winterthur) Substitution at 84',2025-09-15 05:16:59
+13503,743167,15,45889204,85',Andrin Hunziker (Winterthur) Goal at 85',2025-09-15 05:16:59
+13503,743167,16,45889274,89',Anthony Racioppi (FC Sion) Yellow Card at 89',2025-09-15 05:16:59
+13503,743168,0,45890314,20',Levin Winkler (FC Luzern) Substitution at 20',2025-09-15 05:16:59
+13503,743168,1,45890945,45',Severin Ottiger (FC Luzern) Substitution at 45',2025-09-15 05:16:59
+13503,743168,2,45891014,49',Christian Bile Bédia (Young Boys) Yellow Card at 49',2025-09-15 05:16:59
+13503,743168,3,45891098,54',Christian Bile Bédia (Young Boys) Goal at 54',2025-09-15 05:16:59
+13503,743168,4,45891218,60',Lucas Ferreira (FC Luzern) Goal at 60',2025-09-15 05:16:59
+13503,743168,5,45891296,64',Christian Fassnacht (Young Boys) Goal at 64',2025-09-15 05:16:59
+13503,743168,6,45891371,67',Rayan Raveloson (Young Boys) Substitution at 67',2025-09-15 05:16:59
+13503,743168,7,45891393,67',Alan Virginius (Young Boys) Substitution at 67',2025-09-15 05:16:59
+13503,743168,8,45891395,68',Andrej Ciganiks (FC Luzern) Substitution at 68',2025-09-15 05:16:59
+13503,743168,9,45891415,68',Adrian Grbic (FC Luzern) Substitution at 68',2025-09-15 05:16:59
+13503,743168,10,45891445,70',Severin Ottiger (FC Luzern) Yellow Card at 70',2025-09-15 05:16:59
+13503,743168,11,45891528,73',Tyron Owusu (FC Luzern) Yellow Card at 73',2025-09-15 05:16:59
+13503,743168,12,45891543,75',Oscar Tshikomb (FC Luzern) Substitution at 75',2025-09-15 05:16:59
+13503,743168,13,45891620,79',Rayan Raveloson (Young Boys) Yellow Card at 79',2025-09-15 05:16:59
+13503,743168,14,45891628,81',Sandro Lauper (Young Boys) Substitution at 81',2025-09-15 05:16:59
+13503,743168,15,45891629,81',Sergio Córdova (Young Boys) Substitution at 81',2025-09-15 05:16:59
+13503,743168,16,45891719,87',Dominik Pech (Young Boys) Substitution at 87',2025-09-15 05:16:59
+13503,743168,17,45891840,90'+3',Levin Winkler (FC Luzern) Yellow Card at 93',2025-09-15 05:16:59
+13503,743169,0,45890242,16',Tim Meyer (Grasshoppers) Yellow Card at 16',2025-09-15 05:16:59
+13503,743169,1,45890360,22',Souleymane N'Diaye (Lausanne Sports) Yellow Card at 22',2025-09-15 05:16:59
+13503,743169,2,45890475,31',Abdoulaye Diaby (Grasshoppers) Substitution at 31',2025-09-15 05:16:59
+13503,743169,3,45890483,32',Beyatt Lekweiry (Lausanne Sports) Yellow Card at 32',2025-09-15 05:16:59
+13503,743169,4,45890583,38',Kevin Mouanga (Lausanne Sports) Yellow Card at 38',2025-09-15 05:16:59
+13503,743169,5,45890603,40',Luke Plange (Grasshoppers) Goal at 40',2025-09-15 05:16:59
+13503,743169,6,45891035,45',Thelonius Bair (Lausanne Sports) Substitution at 45',2025-09-15 05:16:59
+13503,743169,7,45891036,45',Allan Arigoni (Grasshoppers) Substitution at 45',2025-09-15 05:16:59
+13503,743169,8,45891037,45',Gabriel Sigua (Lausanne Sports) Substitution at 45',2025-09-15 05:16:59
+13503,743169,9,45891088,49',Souleymane N'Diaye (Lausanne Sports) Red Card at 49',2025-09-15 05:16:59
+13503,743169,10,45891196,54',Enzo Kana-Biyik (Lausanne Sports) Substitution at 54',2025-09-15 05:16:59
+13503,743169,11,45891329,58',Brandon Soppy (Lausanne Sports) Yellow Card at 58',2025-09-15 05:16:59
+13503,743169,12,45891436,65',Lee Young-Jun (Grasshoppers) Substitution at 65',2025-09-15 05:16:59
+13503,743169,13,45891478,67',Karlo Letica (Lausanne Sports) Yellow Card at 67',2025-09-15 05:16:59
+13503,743169,14,45891505,68',Lee Young-Jun (Grasshoppers) Penalty - Scored at 68',2025-09-15 05:16:59
+13503,743169,15,45891536,70',Hamza Abdallah (Lausanne Sports) Substitution at 70',2025-09-15 05:16:59
+13503,743169,16,45891557,70',Muhannad Al-Saad (Lausanne Sports) Substitution at 70',2025-09-15 05:16:59
+13503,743169,17,45891611,74',Jonathan Asp Jensen (Grasshoppers) Goal at 74',2025-09-15 05:16:59
+13503,743169,18,45891635,76',Muhannad Al-Saad (Lausanne Sports) Goal at 76',2025-09-15 05:16:59
+13503,743169,19,45891706,80',Loris Giandomenico (Grasshoppers) Substitution at 80',2025-09-15 05:16:59
+13503,743169,20,45891707,80',Óscar Clemente (Grasshoppers) Substitution at 80',2025-09-15 05:16:59
+13503,743170,0,45995771,3',Jorge Segura (FC Zürich) Yellow Card at 3',2025-09-28 05:17:47
+13503,743170,1,45996023,22',Carlo Boukhalfa (St. Gallen) Penalty - Scored at 22',2025-09-28 05:17:47
+13503,743170,2,45996120,27',Lindrit Kamberi (FC Zürich) Substitution at 27',2025-09-28 05:17:47
+13503,743170,3,45996298,38',Milan Rodic (FC Zürich) Yellow Card at 38',2025-09-28 05:17:47
+13503,743170,4,45996879,45',Corsin Konietzke (St. Gallen) Substitution at 45',2025-09-28 05:17:47
+13503,743170,5,45997150,58',Steven Zuber (FC Zürich) Goal at 58',2025-09-28 05:17:47
+13503,743170,6,45997157,59',Malamine Efekele (St. Gallen) Substitution at 59',2025-09-28 05:17:47
+13503,743170,7,45997205,59',Shkelqim Vladi (St. Gallen) Substitution at 59',2025-09-28 05:17:47
+13503,743170,8,45997250,64',Philippe Paulin Keny (FC Zürich) Goal at 64',2025-09-28 05:17:47
+13503,743170,9,45997339,72',Tiemoko Ouattara (St. Gallen) Substitution at 72',2025-09-28 05:17:47
+13503,743170,10,45997353,73',Jahnoah Markelo (FC Zürich) Goal at 73',2025-09-28 05:17:47
+13503,743170,11,45997458,80',Juan Perea (FC Zürich) Substitution at 80',2025-09-28 05:17:47
+13503,743170,12,45997459,80',Umeh Emmanuel (FC Zürich) Substitution at 80',2025-09-28 05:17:47
+13503,743170,13,45997515,81',Livano Comenencia (FC Zürich) Yellow Card at 81',2025-09-28 05:17:47
+13503,743170,14,45997559,84',Tom Gaal (St. Gallen) Yellow Card at 84',2025-09-28 05:17:47
+13503,743170,15,45997639,87',Albert Vallci (St. Gallen) Substitution at 87',2025-09-28 05:17:47
+13503,743170,16,45997640,87',Neil Volken (FC Zürich) Substitution at 87',2025-09-28 05:17:47
+13503,743170,17,45997663,88',Bledian Krasniqi (FC Zürich) Substitution at 88',2025-09-28 05:17:47
+13503,743170,18,45997847,90'+4',Jahnoah Markelo (FC Zürich) Yellow Card at 94',2025-09-28 05:17:47
+13503,743170,19,45997863,90'+5',Behar Neziri (St. Gallen) Yellow Card at 95',2025-09-28 05:17:47
+13503,743171,0,46009482,15',Tyron Owusu (FC Luzern) Goal at 15',2025-09-29 05:23:55
+13503,743171,1,46010681,53',Dominik Schmid (FC Basel) Goal at 53',2025-09-29 05:23:55
+13503,743171,2,46010747,55',Lucas Ferreira (FC Luzern) Goal at 55',2025-09-29 05:23:55
+13503,743171,3,46010780,56',Albian Ajeti (FC Basel) Substitution at 56',2025-09-29 05:23:55
+13503,743171,4,46010781,56',Marin Soticek (FC Basel) Substitution at 56',2025-09-29 05:23:55
+13503,743171,5,46010782,57',Severin Ottiger (FC Luzern) Substitution at 57',2025-09-29 05:23:55
+13503,743171,6,46010826,59',Pius Dorn (FC Luzern) Yellow Card at 59',2025-09-29 05:23:55
+13503,743171,7,46010918,62',Nicolas Vouilloz (FC Basel) Substitution at 62',2025-09-29 05:23:55
+13503,743171,8,46010948,62',Ibrahim Salah (FC Basel) Substitution at 62',2025-09-29 05:23:55
+13503,743171,9,46011056,69',Kevin Spadanuda (FC Luzern) Substitution at 69',2025-09-29 05:23:55
+13503,743171,10,46011091,69',Levin Winkler (FC Luzern) Substitution at 69',2025-09-29 05:23:55
+13503,743171,11,46011206,74',Andrej Ciganiks (FC Luzern) Substitution at 74',2025-09-29 05:23:55
+13503,743171,12,46011387,87',Arlet Zé (FC Basel) Substitution at 87',2025-09-29 05:23:55
+13503,743171,13,46020921,90'+7',Pascal Loretz (FC Luzern) Yellow Card at 97',2025-09-30 05:15:44
+13503,743172,0,45993161,14',Lovro Zvonarek (Grasshoppers) Yellow Card at 14',2025-09-28 05:17:47
+13503,743172,1,45994061,51',Dorian Paloschi (Grasshoppers) Yellow Card at 51',2025-09-28 05:17:47
+13503,743172,2,45994097,53',Óscar Clemente (Grasshoppers) Substitution at 53',2025-09-28 05:17:47
+13503,743172,3,45994120,54',Dorian Paloschi (Grasshoppers) Red Card at 54',2025-09-28 05:17:47
+13503,743172,4,45994148,56',Anto Grgic (FC Lugano) Penalty - Scored at 56',2025-09-28 05:17:47
+13503,743172,5,45994287,64',Yanis Cimignani (FC Lugano) Substitution at 64',2025-09-28 05:17:47
+13503,743172,6,45994359,70',Jonathan Asp Jensen (Grasshoppers) Goal at 70',2025-09-28 05:17:47
+13503,743172,7,45994486,74',Kevin Behrens (FC Lugano) Goal at 74',2025-09-28 05:17:47
+13503,743172,8,45994482,77',Nikolas Muci (Grasshoppers) Substitution at 77',2025-09-28 05:17:47
+13503,743172,9,45994487,77',Allan Arigoni (Grasshoppers) Substitution at 77',2025-09-28 05:17:47
+13503,743172,10,45994511,77',Zachary Brault-Guillard (FC Lugano) Substitution at 77',2025-09-28 05:17:47
+13503,743172,11,45994512,77',Hicham Mahou (FC Lugano) Substitution at 77',2025-09-28 05:17:47
+13503,743172,12,45994609,82',Tim Meyer (Grasshoppers) Substitution at 82',2025-09-28 05:17:47
+13503,743172,13,45994610,82',Loris Giandomenico (Grasshoppers) Substitution at 82',2025-09-28 05:17:47
+13503,743172,14,45994734,89',Alexandre Parsemain (FC Lugano) Substitution at 89',2025-09-28 05:17:47
+13503,743172,15,45994735,89',Ousmane Doumbia (FC Lugano) Substitution at 89',2025-09-28 05:17:47
+13503,743172,16,45994843,90'+2',Lukas Mai (FC Lugano) Yellow Card at 92',2025-09-28 05:17:47
+13503,743172,17,45994844,90'+3',Dirk Abels (Grasshoppers) Yellow Card at 93',2025-09-28 05:17:47
+13503,743173,0,45993064,8',Florian Ayé (Servette) Goal at 8',2025-09-28 05:17:47
+13503,743173,1,45993996,49',Miroslav Stevanovic (Servette) Goal at 49',2025-09-28 05:17:47
+13503,743173,2,45994112,55',Yoan Severin (Servette) Yellow Card at 55',2025-09-28 05:17:47
+13503,743173,3,45994137,58',Keyan Varela (Servette) Goal at 58',2025-09-28 05:17:47
+13503,743173,4,45994175,59',Alexandre Jankewitz (Winterthur) Substitution at 59',2025-09-28 05:17:47
+13503,743173,5,45994176,59',Andrin Hunziker (Winterthur) Substitution at 59',2025-09-28 05:17:47
+13503,743173,6,45994199,61',Florian Ayé (Servette) Goal at 61',2025-09-28 05:17:47
+13503,743173,7,45994388,73',Nishan Burkart (Winterthur) Substitution at 73',2025-09-28 05:17:47
+13503,743173,8,45994389,73',Carmine Chiappetta (Winterthur) Substitution at 73',2025-09-28 05:17:47
+13503,743173,9,45994445,76',Jamie Atangana (Servette) Substitution at 76',2025-09-28 05:17:47
+13503,743173,10,45994446,77',Giotto Morandi (Servette) Substitution at 77',2025-09-28 05:17:47
+13503,743173,11,45994490,79',Carmine Chiappetta (Winterthur) Yellow Card at 79',2025-09-28 05:17:47
+13503,743173,12,45994505,80',Théo Golliard (Winterthur) Substitution at 80',2025-09-28 05:17:47
+13503,743173,13,45994619,85',Samuel Mráz (Servette) Substitution at 85',2025-09-28 05:17:47
+13503,743173,14,45994705,89',Steve Rouiller (Servette) Substitution at 89',2025-09-28 05:17:47
+13503,743173,15,45994706,89',Alonzo Vincent (Servette) Substitution at 89',2025-09-28 05:17:47
+13503,743174,0,46010518,49',Josias Lukembila (FC Sion) Yellow Card at 49',2025-09-29 05:23:55
+13503,743174,1,46010796,61',Bryan Okoh (Lausanne Sports) Yellow Card at 61',2025-09-29 05:23:55
+13503,743174,2,46010880,64',Morgan Poaty (Lausanne Sports) Substitution at 64',2025-09-29 05:23:55
+13503,743174,3,46010959,68',Enzo Kana-Biyik (Lausanne Sports) Substitution at 68',2025-09-29 05:23:55
+13503,743174,4,46010979,68',Souleymane N'Diaye (Lausanne Sports) Substitution at 68',2025-09-29 05:23:55
+13503,743174,5,46010980,68',Théo Bouchlarhem (FC Sion) Substitution at 68',2025-09-29 05:23:55
+13503,743174,6,46010981,68',Donat Rrudhani (FC Sion) Substitution at 68',2025-09-29 05:23:55
+13503,743174,7,46011207,77',Théo Bouchlarhem (FC Sion) Yellow Card at 77',2025-09-29 05:23:55
+13503,743174,8,46011259,81',Lamine Diack (FC Sion) Substitution at 81',2025-09-29 05:23:55
+13503,743174,9,46011261,81',Winsley Boteli (FC Sion) Substitution at 81',2025-09-29 05:23:55
+13503,743174,10,46011275,81',Batata (FC Sion) Substitution at 81',2025-09-29 05:23:55
+13503,743174,11,46011306,85',Bryan Okoh (Lausanne Sports) Red Card at 85',2025-09-29 05:23:55
+13503,743174,12,46011335,88',Hamza Abdallah (Lausanne Sports) Substitution at 88',2025-09-29 05:23:55
+13503,743175,0,46007089,5',Olivier Mambwa (Young Boys) Yellow Card at 5',2025-09-29 05:23:55
+13503,743175,1,46007161,12',Lucien Dähler (FC Thun) Yellow Card at 12',2025-09-29 05:23:55
+13503,743175,2,46007280,30',Edimilson Fernandes (Young Boys) Yellow Card at 30',2025-09-29 05:23:55
+13503,743175,3,46007281,30',Valmir Matoshi (FC Thun) Yellow Card at 30',2025-09-29 05:23:55
+13503,743175,4,46007641,45',Joel Monteiro (Young Boys) Substitution at 45',2025-09-29 05:23:55
+13503,743175,5,46007762,52',Christopher Ibayi (FC Thun) Goal at 52',2025-09-29 05:23:55
+13503,743175,6,46007938,60',Jaouen Hadjam (Young Boys) Substitution at 60',2025-09-29 05:23:55
+13503,743175,7,46007980,60',Christian Bile Bédia (Young Boys) Substitution at 60',2025-09-29 05:23:55
+13503,743175,8,46008034,64',Sergio Córdova (Young Boys) Goal at 64',2025-09-29 05:23:55
+13503,743175,9,46008065,66',Christian Bile Bédia (Young Boys) Goal at 66',2025-09-29 05:23:55
+13503,743175,10,46008098,68',Brighton Labeau (FC Thun) Substitution at 68',2025-09-29 05:23:55
+13503,743175,11,46008112,68',Kastriot Imeri (FC Thun) Substitution at 68',2025-09-29 05:23:55
+13503,743175,12,46008129,68',Ethan Meichtry (FC Thun) Substitution at 68',2025-09-29 05:23:55
+13503,743175,13,46008182,72',Ethan Meichtry (FC Thun) Goal at 72',2025-09-29 05:23:55
+13503,743175,14,46008264,75',Fabio Fehr (FC Thun) Substitution at 75',2025-09-29 05:23:55
+13503,743175,15,46008334,80',Christian Bile Bédia (Young Boys) Goal at 80',2025-09-29 05:23:55
+13503,743175,16,46008484,85',Sandro Lauper (Young Boys) Substitution at 85',2025-09-29 05:23:55
+13503,743175,17,46008485,86',Marc Gutbub (FC Thun) Substitution at 86',2025-09-29 05:23:55
+13503,743175,18,46008560,89',Michael Heule (FC Thun) Yellow Card at 89',2025-09-29 05:23:55
+13503,743175,19,46008561,90',Christian Fassnacht (Young Boys) Goal at 90',2025-09-29 05:23:55
+13503,743175,20,46008605,90'+2',Darian Males (Young Boys) Substitution at 92',2025-09-29 05:23:55
+13503,743175,21,46008624,90'+3',Saidy Janko (Young Boys) Yellow Card at 93',2025-09-29 05:23:55

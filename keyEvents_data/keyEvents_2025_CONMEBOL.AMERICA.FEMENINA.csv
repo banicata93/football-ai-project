@@ -1,0 +1,635 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13140,727435,1,45561951,70,1,1500,25',1,0,Linda Caicedo (Colombia) Goal at 25',Linda Caicedo Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298768.0,2025-08-03 04:42:04
+13140,727435,2,45561963,94,1,1920,32',0,0,Lorena Bedoya Durango (Colombia) Yellow Card at 32',Lorena Bedoya Durango Yellow Car,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,328241.0,2025-08-03 04:42:04
+13140,727435,3,45562016,94,1,2400,40',0,0,Tarciane  (Brazil) Yellow Card at 40',Tarciane  Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,351655.0,2025-08-03 04:42:04
+13140,727435,4,45562017,94,1,2400,40',0,0,Carolina Arias (Colombia) Yellow Card at 40',Carolina Arias Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,158875.0,2025-08-03 04:42:04
+13140,727435,5,45562037,76,1,2640,44',0,0,Amanda Gutierres (Brazil) Substitution at 44',Amanda Gutierres Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,344300.0,2025-08-03 04:42:04
+13140,727435,6,45562043,76,1,2640,44',0,0,Isadora Haas (Brazil) Substitution at 44',Isadora Haas Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,344296.0,2025-08-03 04:42:04
+13140,727435,6,45562043,76,1,2640,44',0,0,Isadora Haas (Brazil) Substitution at 44',Isadora Haas Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,300129.0,2025-08-03 04:42:04
+13140,727435,5,45562037,76,1,2640,44',0,0,Amanda Gutierres (Brazil) Substitution at 44',Amanda Gutierres Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,351900.0,2025-08-03 04:42:04
+13140,727435,8,45562080,94,1,2700,45'+7',0,0,Jorelyn Carabalí (Colombia) Yellow Card at 52',Jorelyn Carabalí Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,325886.0,2025-08-03 04:42:04
+13140,727435,8,45562080,94,1,2700,45'+7',0,0,Jorelyn Carabalí (Colombia) Yellow Card at 52',Jorelyn Carabalí Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,312831.0,2025-08-03 04:42:04
+13140,727435,7,45562071,94,1,2700,45'+3',0,0,Katherine Tapia (Colombia) Yellow Card at 48',Katherine Tapia Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,343662.0,2025-08-03 04:42:04
+13140,727435,9,45562092,98,1,2700,45'+9',1,0,Angelina  (Brazil) Penalty - Scored at 54',Angelina  Penalty - Scored,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,316035.0,2025-08-03 04:42:04
+13140,727435,10,45562449,97,2,4140,69',1,0,Tarciane  (Brazil) Own Goal at 69',Tarciane  Own Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,351655.0,2025-08-03 04:42:04
+13140,727435,11,45562474,76,2,4320,72',0,0,Catalina Usme (Colombia) Substitution at 72',Catalina Usme Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,158882.0,2025-08-03 04:42:04
+13140,727435,11,45562474,76,2,4320,72',0,0,Catalina Usme (Colombia) Substitution at 72',Catalina Usme Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,406262.0,2025-08-03 04:42:04
+13140,727435,12,45562498,76,2,4560,76',0,0,Luany (Brazil) Substitution at 76',Luany Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,358743.0,2025-08-03 04:42:04
+13140,727435,12,45562498,76,2,4560,76',0,0,Luany (Brazil) Substitution at 76',Luany Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,339855.0,2025-08-03 04:42:04
+13140,727435,13,45562534,70,2,4800,80',1,0,Amanda Gutierres (Brazil) Goal at 80',Amanda Gutierres Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,344300.0,2025-08-03 04:42:04
+13140,727435,14,45562552,76,2,4860,81',0,0,Vitória Yaya  (Brazil) Substitution at 81',Vitória Yaya  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-08-03 04:42:04
+13140,727435,14,45562552,76,2,4860,81',0,0,Vitória Yaya  (Brazil) Substitution at 81',Vitória Yaya  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,343577.0,2025-08-03 04:42:04
+13140,727435,15,45562553,76,2,4920,82',0,0,Marta (Brazil) Substitution at 82',Marta Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-08-03 04:42:04
+13140,727435,15,45562553,76,2,4920,82',0,0,Marta (Brazil) Substitution at 82',Marta Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,305982.0,2025-08-03 04:42:04
+13140,727435,16,45562596,76,2,5160,86',0,0,Manuela Paví (Colombia) Substitution at 86',Manuela Paví Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298775.0,2025-08-03 04:42:04
+13140,727435,16,45562596,76,2,5160,86',0,0,Manuela Paví (Colombia) Substitution at 86',Manuela Paví Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298767.0,2025-08-03 04:42:04
+13140,727435,17,45562606,70,2,5280,88',1,0,Mayra Ramírez (Colombia) Goal at 88',Mayra Ramírez Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,288680.0,2025-08-03 04:42:04
+13140,727435,19,45562668,70,2,5400,90'+6',1,0,Marta  (Brazil) Goal at 96',Marta  Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-08-03 04:42:04
+13140,727435,18,45562663,76,2,5400,90'+5',0,0,Liced Serna (Colombia) Substitution at 95',Liced Serna Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,349414.0,2025-08-03 04:42:04
+13140,727435,18,45562663,76,2,5400,90'+5',0,0,Liced Serna (Colombia) Substitution at 95',Liced Serna Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,288680.0,2025-08-03 04:42:04
+13140,727435,20,45562804,94,3,6180,103',0,0,Mariza  (Brazil) Yellow Card at 103',Mariza  Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-08-03 04:42:04
+13140,727435,21,45562817,70,3,6300,105',1,0,Marta  (Brazil) Goal at 105',Marta  Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-08-03 04:42:04
+13140,727435,23,45562887,76,4,6420,107',0,0,Wendy Bonilla (Colombia) Substitution at 107',Wendy Bonilla Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298770.0,2025-08-03 04:42:04
+13140,727435,22,45562872,76,4,6420,107',0,0,Marcela Restrepo (Colombia) Substitution at 107',Marcela Restrepo Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,288683.0,2025-08-03 04:42:04
+13140,727435,23,45562887,76,4,6420,107',0,0,Wendy Bonilla (Colombia) Substitution at 107',Wendy Bonilla Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,158875.0,2025-08-03 04:42:04
+13140,727435,22,45562872,76,4,6420,107',0,0,Marcela Restrepo (Colombia) Substitution at 107',Marcela Restrepo Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,328241.0,2025-08-03 04:42:04
+13140,727435,24,45562888,76,4,6480,108',0,0,Jhonson  (Brazil) Substitution at 108',Jhonson  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-08-03 04:42:04
+13140,727435,24,45562888,76,4,6480,108',0,0,Jhonson  (Brazil) Substitution at 108',Jhonson  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,281475.0,2025-08-03 04:42:04
+13140,727435,25,45562942,94,4,6840,114',0,0,Isadora Haas (Brazil) Yellow Card at 114',Isadora Haas Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,344296.0,2025-08-03 04:42:04
+13140,727435,26,45562961,70,4,6900,115',1,0,Leicy Santos (Colombia) Goal at 115',Leicy Santos Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,219866.0,2025-08-03 04:42:04
+13140,727435,27,45562973,94,4,7080,118',0,0,Angelina  (Brazil) Yellow Card at 118',Angelina  Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,316035.0,2025-08-03 04:42:04
+13141,727434,1,45555064,94,1,960,16',0,0,Pamela González (Uruguay) Yellow Card at 16',Pamela González Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286622.0,2025-08-02 04:42:02
+13141,727434,2,45555135,70,1,1440,24',1,0,Aldana Cometti (Argentina) Goal at 24',Aldana Cometti Goal,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284172.0,2025-08-02 04:42:02
+13141,727434,3,45555242,70,1,2100,35',1,0,Esperanza Pizarro (Uruguay) Goal at 35',Esperanza Pizarro Goal,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286612.0,2025-08-02 04:42:02
+13141,727434,4,45555343,70,1,2700,45',1,0,Juliana Viera (Uruguay) Goal at 45',Juliana Viera Goal,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,327984.0,2025-08-02 04:42:02
+13141,727434,5,45555852,94,2,3900,65',0,0,Ximena Velazco (Uruguay) Yellow Card at 65',Ximena Velazco Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286623.0,2025-08-02 04:42:02
+13141,727434,8,45555855,76,2,3960,66',0,0,Agostina Holzlieier (Argentina) Substitution at 66',Agostina Holzlieier Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,331481.0,2025-08-02 04:42:02
+13141,727434,7,45555854,76,2,3960,66',0,0,Kishi Núñez (Argentina) Substitution at 66',Kishi Núñez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,384866.0,2025-08-02 04:42:02
+13141,727434,6,45555853,76,2,3960,66',0,0,Sofía Domínguez (Argentina) Substitution at 66',Sofía Domínguez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,384862.0,2025-08-02 04:42:02
+13141,727434,8,45555855,76,2,3960,66',0,0,Agostina Holzlieier (Argentina) Substitution at 66',Agostina Holzlieier Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,284163.0,2025-08-02 04:42:02
+13141,727434,7,45555854,76,2,3960,66',0,0,Kishi Núñez (Argentina) Substitution at 66',Kishi Núñez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,331479.0,2025-08-02 04:42:02
+13141,727434,6,45555853,76,2,3960,66',0,0,Sofía Domínguez (Argentina) Substitution at 66',Sofía Domínguez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,298688.0,2025-08-02 04:42:02
+13141,727434,9,45555885,76,2,4200,70',0,0,Ángela Gómez (Uruguay) Substitution at 70',Ángela Gómez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,407187.0,2025-08-02 04:42:02
+13141,727434,9,45555885,76,2,4200,70',0,0,Ángela Gómez (Uruguay) Substitution at 70',Ángela Gómez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,288744.0,2025-08-02 04:42:02
+13141,727434,11,45556009,76,2,4860,81',0,0,Eliana Stábile (Argentina) Substitution at 81',Eliana Stábile Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284170.0,2025-08-02 04:42:02
+13141,727434,10,45556008,76,2,4860,81',0,0,Carolina Troncoso (Argentina) Substitution at 81',Carolina Troncoso Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,313737.0,2025-08-02 04:42:02
+13141,727434,10,45556008,76,2,4860,81',0,0,Carolina Troncoso (Argentina) Substitution at 81',Carolina Troncoso Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,406322.0,2025-08-02 04:42:02
+13141,727434,11,45556009,76,2,4860,81',0,0,Eliana Stábile (Argentina) Substitution at 81',Eliana Stábile Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,361698.0,2025-08-02 04:42:02
+13141,727434,12,45556027,98,2,4980,83',1,0,Florencia Bonsegundo (Argentina) Penalty - Scored at 83',Florencia Bonsegundo Penalty - S,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284157.0,2025-08-02 04:42:02
+13141,727434,13,45556048,76,2,5040,84',0,0,Micaela Fitipaldi (Uruguay) Substitution at 84',Micaela Fitipaldi Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,404634.0,2025-08-02 04:42:02
+13141,727434,13,45556048,76,2,5040,84',0,0,Micaela Fitipaldi (Uruguay) Substitution at 84',Micaela Fitipaldi Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,296589.0,2025-08-02 04:42:02
+13141,727434,15,45556146,76,2,5400,90'+4',0,0,Sofía Olivera (Uruguay) Substitution at 94',Sofía Olivera Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286624.0,2025-08-02 04:42:02
+13141,727434,14,45556126,94,2,5400,90'+3',0,0,Carina Felipe (Uruguay) Yellow Card at 93',Carina Felipe Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286615.0,2025-08-02 04:42:02
+13141,727434,16,45556147,76,2,5400,90'+4',0,0,Sindy Ramírez (Uruguay) Substitution at 94',Sindy Ramírez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,296593.0,2025-08-02 04:42:02
+13141,727434,15,45556146,76,2,5400,90'+4',0,0,Sofía Olivera (Uruguay) Substitution at 94',Sofía Olivera Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,397155.0,2025-08-02 04:42:02
+13141,727434,16,45556147,76,2,5400,90'+4',0,0,Sindy Ramírez (Uruguay) Substitution at 94',Sindy Ramírez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,327696.0,2025-08-02 04:42:02
+13142,727431,1,45533728,94,1,2280,38',0,0,Daniela Arias (Colombia) Yellow Card at 38',Daniela Arias Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298692.0,2025-07-29 04:38:35
+13142,727431,2,45533771,94,1,2640,44',0,0,Yamila Rodríguez (Argentina) Yellow Card at 44',Yamila Rodríguez Yellow Card,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284163.0,2025-07-29 04:38:35
+13142,727431,3,45533898,94,2,2940,49',0,0,Linda Caicedo (Colombia) Yellow Card at 49',Linda Caicedo Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298768.0,2025-07-29 04:38:35
+13142,727431,4,45533942,76,2,3960,66',0,0,Kishi Núñez (Argentina) Substitution at 66',Kishi Núñez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,384866.0,2025-07-29 04:38:35
+13142,727431,4,45533942,76,2,3960,66',0,0,Kishi Núñez (Argentina) Substitution at 66',Kishi Núñez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,284163.0,2025-07-29 04:38:35
+13142,727431,5,45533949,94,2,4140,69',0,0,Jorelyn Carabalí (Colombia) Yellow Card at 69',Jorelyn Carabalí Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,312831.0,2025-07-29 04:38:35
+13142,727431,5,45533949,94,2,4140,69',0,0,Jorelyn Carabalí (Colombia) Yellow Card at 69',Jorelyn Carabalí Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,325886.0,2025-07-29 04:38:35
+13142,727431,6,45533950,76,2,4200,70',0,0,Eliana Stábile (Argentina) Substitution at 70',Eliana Stábile Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284170.0,2025-07-29 04:38:35
+13142,727431,6,45533950,76,2,4200,70',0,0,Eliana Stábile (Argentina) Substitution at 70',Eliana Stábile Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,361698.0,2025-07-29 04:38:35
+13142,727431,7,45533963,76,2,4500,75',0,0,Daniela Montoya (Colombia) Substitution at 75',Daniela Montoya Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,158872.0,2025-07-29 04:38:35
+13142,727431,7,45533963,76,2,4500,75',0,0,Daniela Montoya (Colombia) Substitution at 75',Daniela Montoya Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,328241.0,2025-07-29 04:38:35
+13142,727431,9,45533970,76,2,4560,76',0,0,Manuela Paví (Colombia) Substitution at 76',Manuela Paví Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298775.0,2025-07-29 04:38:35
+13142,727431,8,45533969,76,2,4560,76',0,0,Wendy Bonilla (Colombia) Substitution at 76',Wendy Bonilla Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298770.0,2025-07-29 04:38:35
+13142,727431,8,45533969,76,2,4560,76',0,0,Wendy Bonilla (Colombia) Substitution at 76',Wendy Bonilla Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,158875.0,2025-07-29 04:38:35
+13142,727431,9,45533970,76,2,4560,76',0,0,Manuela Paví (Colombia) Substitution at 76',Manuela Paví Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,406262.0,2025-07-29 04:38:35
+13142,727431,10,45533989,76,2,4800,80',0,0,Paulina Gramaglia (Argentina) Substitution at 80',Paulina Gramaglia Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,331482.0,2025-07-29 04:38:35
+13142,727431,11,45533990,76,2,4800,80',0,0,Margarita Giménez (Argentina) Substitution at 80',Margarita Giménez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,394352.0,2025-07-29 04:38:35
+13142,727431,10,45533989,76,2,4800,80',0,0,Paulina Gramaglia (Argentina) Substitution at 80',Paulina Gramaglia Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,331479.0,2025-07-29 04:38:35
+13142,727431,11,45533990,76,2,4800,80',0,0,Margarita Giménez (Argentina) Substitution at 80',Margarita Giménez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,384862.0,2025-07-29 04:38:35
+13142,727433,1,45535435,94,1,480,8',0,0,Wendy Carballo (Uruguay) Yellow Card at 8',Wendy Carballo Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,296589.0,2025-07-31 04:42:54
+13142,727433,2,45535455,70,1,660,11',1,0,Amanda Gutierres (Brazil) Goal at 11',Amanda Gutierres Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,344300.0,2025-07-31 04:42:54
+13142,727433,3,45535459,70,1,780,13',1,0,Giovana (Brazil) Goal at 13',Giovana Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,305982.0,2025-07-31 04:42:54
+13142,727433,4,45535580,98,1,1620,27',1,0,Marta (Brazil) Penalty - Scored at 27',Marta Penalty - Scored,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-07-31 04:42:54
+13142,727433,5,45535591,94,1,1680,28',0,0,Isadora Haas (Brazil) Yellow Card at 28',Isadora Haas Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,344296.0,2025-07-31 04:42:54
+13142,727433,8,45535972,76,2,2700,45',0,0,Vitória Yaya (Brazil) Substitution at 45',Vitória Yaya Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,296481.0,2025-07-31 04:42:54
+13142,727433,7,45535957,76,2,2700,45',0,0,Dudinha (Brazil) Substitution at 45',Dudinha Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-07-31 04:42:54
+13142,727433,6,45535751,76,1,2700,45',0,0,Pilar González (Uruguay) Substitution at 45',Pilar González Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,344808.0,2025-07-31 04:42:54
+13142,727433,7,45535957,76,2,2700,45',0,0,Dudinha (Brazil) Substitution at 45',Dudinha Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,305982.0,2025-07-31 04:42:54
+13142,727433,6,45535751,76,1,2700,45',0,0,Pilar González (Uruguay) Substitution at 45',Pilar González Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,386972.0,2025-07-31 04:42:54
+13142,727433,8,45535972,76,2,2700,45',0,0,Vitória Yaya (Brazil) Substitution at 45',Vitória Yaya Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,316035.0,2025-07-31 04:42:54
+13142,727433,9,45536047,97,2,3060,51',1,0,Isadora Haas (Brazil) Own Goal at 51',Isadora Haas Own Goal,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,344296.0,2025-07-31 04:42:54
+13142,727433,10,45536143,94,2,3420,57',0,0,Yamila Dornelles (Uruguay) Yellow Card at 57',Yamila Dornelles Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,407189.0,2025-07-31 04:42:54
+13142,727433,11,45536144,93,2,3480,58',0,0,Yamila Dornelles (Uruguay) Red Card at 58',Yamila Dornelles Red Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,407189.0,2025-07-31 04:42:54
+13142,727433,12,45536153,76,2,3540,59',0,0,Kaká (Brazil) Substitution at 59',Kaká Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,361504.0,2025-07-31 04:42:54
+13142,727433,12,45536153,76,2,3540,59',0,0,Kaká (Brazil) Substitution at 59',Kaká Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,197610.0,2025-07-31 04:42:54
+13142,727433,12,45536153,76,2,3540,59',0,0,Kaká (Brazil) Substitution at 59',Kaká Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,319716.0,2025-07-31 04:42:54
+13142,727433,13,45536183,76,2,3540,59',0,0,Mariza (Brazil) Substitution at 59',Mariza Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,402871.0,2025-07-31 04:42:54
+13142,727433,12,45536153,76,2,3540,59',0,0,Kaká (Brazil) Substitution at 59',Kaká Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,393349.0,2025-07-31 04:42:54
+13142,727433,12,45536153,76,2,3540,59',0,0,Kaká (Brazil) Substitution at 59',Kaká Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,329921.0,2025-07-31 04:42:54
+13142,727433,13,45536183,76,2,3540,59',0,0,Mariza (Brazil) Substitution at 59',Mariza Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,351655.0,2025-07-31 04:42:54
+13142,727433,12,45536153,76,2,3540,59',0,0,Kaká (Brazil) Substitution at 59',Kaká Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,344296.0,2025-07-31 04:42:54
+13142,727433,14,45536240,94,2,3780,63',0,0,Daiana Farías (Uruguay) Yellow Card at 63',Daiana Farías Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286608.0,2025-07-31 04:42:54
+13142,727433,15,45536241,70,2,3900,65',1,0,Amanda Gutierres (Brazil) Goal at 65',Amanda Gutierres Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,344300.0,2025-07-31 04:42:54
+13142,727433,16,45536322,94,2,4260,71',0,0,Agustina Miranda (Uruguay) Yellow Card at 71',Agustina Miranda Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,397155.0,2025-07-31 04:42:54
+13142,727433,17,45536392,76,2,4740,79',0,0,Kerolin (Brazil) Substitution at 79',Kerolin Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,281475.0,2025-07-31 04:42:54
+13142,727433,17,45536392,76,2,4740,79',0,0,Kerolin (Brazil) Substitution at 79',Kerolin Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-07-31 04:42:54
+13142,727433,18,45536393,76,2,4800,80',0,0,Micaela Fitipaldi (Uruguay) Substitution at 80',Micaela Fitipaldi Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,404634.0,2025-07-31 04:42:54
+13142,727433,18,45536393,76,2,4800,80',0,0,Micaela Fitipaldi (Uruguay) Substitution at 80',Micaela Fitipaldi Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,407187.0,2025-07-31 04:42:54
+13142,727433,19,45536414,94,2,5040,84',0,0,Kaká (Brazil) Yellow Card at 84',Kaká Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,319716.0,2025-07-31 04:42:54
+13142,727433,19,45536414,94,2,5040,84',0,0,Kaká (Brazil) Yellow Card at 84',Kaká Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,393349.0,2025-07-31 04:42:54
+13142,727433,19,45536414,94,2,5040,84',0,0,Kaká (Brazil) Yellow Card at 84',Kaká Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,361504.0,2025-07-31 04:42:54
+13142,727433,19,45536414,94,2,5040,84',0,0,Kaká (Brazil) Yellow Card at 84',Kaká Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,329921.0,2025-07-31 04:42:54
+13142,727433,19,45536414,94,2,5040,84',0,0,Kaká (Brazil) Yellow Card at 84',Kaká Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,197610.0,2025-07-31 04:42:54
+13142,727433,20,45536415,76,2,5100,85',0,0,Maria Fatima Barone Zaguera (Uruguay) Substitution at 85',Maria Fatima Barone Zaguera Subs,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,288742.0,2025-07-31 04:42:54
+13142,727433,20,45536415,76,2,5100,85',0,0,Maria Fatima Barone Zaguera (Uruguay) Substitution at 85',Maria Fatima Barone Zaguera Subs,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,286608.0,2025-07-31 04:42:54
+13142,727433,21,45536425,70,2,5160,86',1,0,Dudinha (Brazil) Goal at 86',Dudinha Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-07-31 04:42:54
+13144,727411,1,45453357,70,1,660,11',1,0,Belen Aquino (Uruguay) Goal at 11',Belen Aquino Goal,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,288744.0,2025-07-13 04:33:09
+13144,727411,2,45453380,94,1,1020,17',0,0,Manoly Baquerizo (Ecuador) Yellow Card at 17',Manoly Baquerizo Yellow Card,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310929.0,2025-07-13 04:33:09
+13144,727411,3,45453401,94,1,1140,19',0,0,Carina Felipe (Uruguay) Yellow Card at 19',Carina Felipe Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286615.0,2025-07-13 04:33:09
+13144,727411,4,45453577,76,2,2700,45',0,0,Emily Arias (Ecuador) Substitution at 45',Emily Arias Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310932.0,2025-07-13 04:33:09
+13144,727411,5,45453578,76,2,2700,45',0,0,Karen Flores (Ecuador) Substitution at 45',Karen Flores Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310928.0,2025-07-13 04:33:09
+13144,727411,4,45453577,76,2,2700,45',0,0,Emily Arias (Ecuador) Substitution at 45',Emily Arias Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,310929.0,2025-07-13 04:33:09
+13144,727411,5,45453578,76,2,2700,45',0,0,Karen Flores (Ecuador) Substitution at 45',Karen Flores Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,394693.0,2025-07-13 04:33:09
+13144,727411,6,45453598,98,2,3180,53',1,0,Pamela González (Uruguay) Penalty - Scored at 53',Pamela González Penalty - Scored,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286622.0,2025-07-13 04:33:09
+13144,727411,7,45453638,76,2,3600,60',0,0,Alaides Bonilla (Uruguay) Substitution at 60',Alaides Bonilla Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,386972.0,2025-07-13 04:33:09
+13144,727411,8,45453639,76,2,3600,60',0,0,Ilana Guedes (Uruguay) Substitution at 60',Ilana Guedes Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,407188.0,2025-07-13 04:33:09
+13144,727411,7,45453638,76,2,3600,60',0,0,Alaides Bonilla (Uruguay) Substitution at 60',Alaides Bonilla Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,344808.0,2025-07-13 04:33:09
+13144,727411,8,45453639,76,2,3600,60',0,0,Ilana Guedes (Uruguay) Substitution at 60',Ilana Guedes Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,327984.0,2025-07-13 04:33:09
+13144,727411,9,45453664,76,2,3840,64',0,0,Nicole Charcopa (Ecuador) Substitution at 64',Nicole Charcopa Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310897.0,2025-07-13 04:33:09
+13144,727411,9,45453664,76,2,3840,64',0,0,Nicole Charcopa (Ecuador) Substitution at 64',Nicole Charcopa Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,331489.0,2025-07-13 04:33:09
+13144,727411,10,45453678,76,2,4140,69',0,0,Micaela Fitipaldi (Uruguay) Substitution at 69',Micaela Fitipaldi Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,404634.0,2025-07-13 04:33:09
+13144,727411,10,45453678,76,2,4140,69',0,0,Micaela Fitipaldi (Uruguay) Substitution at 69',Micaela Fitipaldi Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,288744.0,2025-07-13 04:33:09
+13144,727411,11,45453693,97,2,4320,72',1,0,Yannel Correa (Uruguay) Own Goal at 72',Yannel Correa Own Goal,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,286609.0,2025-07-13 04:33:09
+13144,727411,12,45453709,76,2,4620,77',0,0,Justine Cuadra (Ecuador) Substitution at 77',Justine Cuadra Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310899.0,2025-07-13 04:33:09
+13144,727411,12,45453709,76,2,4620,77',0,0,Justine Cuadra (Ecuador) Substitution at 77',Justine Cuadra Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,310927.0,2025-07-13 04:33:09
+13144,727411,13,45453713,70,2,4680,78',1,0,Emily Arias (Ecuador) Goal at 78',Emily Arias Goal,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310932.0,2025-07-13 04:33:09
+13144,727411,15,45453725,76,2,4740,79',0,0,Daiana Farías (Uruguay) Substitution at 79',Daiana Farías Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286608.0,2025-07-13 04:33:09
+13144,727411,14,45453724,76,2,4740,79',0,0,Ángela Gómez (Uruguay) Substitution at 79',Ángela Gómez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,407187.0,2025-07-13 04:33:09
+13144,727411,14,45453724,76,2,4740,79',0,0,Ángela Gómez (Uruguay) Substitution at 79',Ángela Gómez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,286623.0,2025-07-13 04:33:09
+13144,727411,15,45453725,76,2,4740,79',0,0,Daiana Farías (Uruguay) Substitution at 79',Daiana Farías Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,296589.0,2025-07-13 04:33:09
+13144,727411,16,45453762,76,2,5340,89',0,0,Maylín Arreaga (Ecuador) Substitution at 89',Maylín Arreaga Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,402821.0,2025-07-13 04:33:09
+13144,727411,16,45453762,76,2,5340,89',0,0,Maylín Arreaga (Ecuador) Substitution at 89',Maylín Arreaga Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,219914.0,2025-07-13 04:33:09
+13144,727411,18,45453774,94,2,5400,90'+6',0,0,Daiana Farías (Uruguay) Yellow Card at 96',Daiana Farías Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286608.0,2025-07-13 04:33:09
+13144,727411,17,45453765,94,2,5400,90'+1',0,0,Pamela González (Uruguay) Yellow Card at 91',Pamela González Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286622.0,2025-07-13 04:33:09
+13144,727412,1,45456977,94,1,2100,35',0,0,Nayadet López (Chile) Yellow Card at 35',Nayadet López Yellow Card,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,296741.0,2025-07-13 04:33:09
+13144,727412,4,45457314,76,2,2700,45',0,0,Birka Ruíz (Peru) Substitution at 45',Birka Ruíz Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,377682.0,2025-07-13 04:33:09
+13144,727412,3,45457313,76,2,2700,45',0,0,Mary Valencia (Chile) Substitution at 45',Mary Valencia Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,327671.0,2025-07-13 04:33:09
+13144,727412,2,45457312,76,2,2700,45',0,0,Yesenia López (Chile) Substitution at 45',Yesenia López Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,264858.0,2025-07-13 04:33:09
+13144,727412,5,45457315,76,2,2700,45',0,0,Raquel Bilcape (Peru) Substitution at 45',Raquel Bilcape Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,407267.0,2025-07-13 04:33:09
+13144,727412,3,45457313,76,2,2700,45',0,0,Mary Valencia (Chile) Substitution at 45',Mary Valencia Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,400637.0,2025-07-13 04:33:09
+13144,727412,4,45457314,76,2,2700,45',0,0,Birka Ruíz (Peru) Substitution at 45',Birka Ruíz Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,407231.0,2025-07-13 04:33:09
+13144,727412,2,45457312,76,2,2700,45',0,0,Yesenia López (Chile) Substitution at 45',Yesenia López Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,296741.0,2025-07-13 04:33:09
+13144,727412,5,45457315,76,2,2700,45',0,0,Raquel Bilcape (Peru) Substitution at 45',Raquel Bilcape Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,407234.0,2025-07-13 04:33:09
+13144,727412,6,45457456,70,2,3720,62',1,0,Pamela Cabezas (Chile) Goal at 62',Pamela Cabezas Goal,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,394326.0,2025-07-13 04:33:09
+13144,727412,7,45457505,94,2,4440,74',0,0,Rosario Balmaceda (Chile) Yellow Card at 74',Rosario Balmaceda Yellow Card,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,264863.0,2025-07-13 04:33:09
+13144,727412,8,45457515,76,2,4560,76',0,0,Sonya Keefe (Chile) Substitution at 76',Sonya Keefe Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,310892.0,2025-07-13 04:33:09
+13144,727412,8,45457515,76,2,4560,76',0,0,Sonya Keefe (Chile) Substitution at 76',Sonya Keefe Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,394326.0,2025-07-13 04:33:09
+13144,727412,9,45457529,76,2,4740,79',0,0,Yomira Acosta (Peru) Substitution at 79',Yomira Acosta Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,377679.0,2025-07-13 04:33:09
+13144,727412,9,45457529,76,2,4740,79',0,0,Yomira Acosta (Peru) Substitution at 79',Yomira Acosta Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,365386.0,2025-07-13 04:33:09
+13144,727412,10,45457557,70,2,4920,82',1,0,Sonya Keefe (Chile) Goal at 82',Sonya Keefe Goal,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,310892.0,2025-07-13 04:33:09
+13144,727412,11,45457587,76,2,5100,85',0,0,Gissela Pino (Chile) Substitution at 85',Gissela Pino Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,274503.0,2025-07-13 04:33:09
+13144,727412,11,45457587,76,2,5100,85',0,0,Gissela Pino (Chile) Substitution at 85',Gissela Pino Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,319206.0,2025-07-13 04:33:09
+13144,727412,12,45457588,76,2,5160,86',0,0,Camila Sáez (Chile) Substitution at 86',Camila Sáez Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,264860.0,2025-07-13 04:33:09
+13144,727412,12,45457588,76,2,5160,86',0,0,Camila Sáez (Chile) Substitution at 86',Camila Sáez Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,264863.0,2025-07-13 04:33:09
+13144,727412,13,45457688,70,2,5400,90'+4',1,0,Mary Valencia (Chile) Goal at 94',Mary Valencia Goal,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,327671.0,2025-07-13 04:33:09
+13144,727413,1,45465442,70,1,1380,23',1,0,Claudia Martínez (Paraguay) Goal at 23',Claudia Martínez Goal,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,387216.0,2025-07-14 04:29:05
+13144,727413,2,45465536,70,1,2400,40',1,0,Claudia Martínez (Paraguay) Goal at 40',Claudia Martínez Goal,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,387216.0,2025-07-14 04:29:05
+13144,727413,3,45465750,76,2,3360,56',0,0,Nelly Carballo (Bolivia) Substitution at 56',Nelly Carballo Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406356.0,2025-07-14 04:29:05
+13144,727413,3,45465750,76,2,3360,56',0,0,Nelly Carballo (Bolivia) Substitution at 56',Nelly Carballo Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,344790.0,2025-07-14 04:29:05
+13144,727413,4,45465783,70,2,3660,61',1,0,Claudia Martínez (Paraguay) Goal at 61',Claudia Martínez Goal,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,387216.0,2025-07-14 04:29:05
+13144,727413,5,45465812,76,2,3900,65',0,0,Marlene Flores (Bolivia) Substitution at 65',Marlene Flores Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,344784.0,2025-07-14 04:29:05
+13144,727413,5,45465812,76,2,3900,65',0,0,Marlene Flores (Bolivia) Substitution at 65',Marlene Flores Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,406367.0,2025-07-14 04:29:05
+13144,727413,6,45465817,76,2,3960,66',0,0,Camila Gómez (Paraguay) Substitution at 66',Camila Gómez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,344791.0,2025-07-14 04:29:05
+13144,727413,7,45465824,76,2,3960,66',0,0,Diana Benítez (Paraguay) Substitution at 66',Diana Benítez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,387215.0,2025-07-14 04:29:05
+13144,727413,8,45465825,76,2,3960,66',0,0,Cindy Ramos (Paraguay) Substitution at 66',Cindy Ramos Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,387212.0,2025-07-14 04:29:05
+13144,727413,6,45465817,76,2,3960,66',0,0,Camila Gómez (Paraguay) Substitution at 66',Camila Gómez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,298697.0,2025-07-14 04:29:05
+13144,727413,8,45465825,76,2,3960,66',0,0,Cindy Ramos (Paraguay) Substitution at 66',Cindy Ramos Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,298701.0,2025-07-14 04:29:05
+13144,727413,7,45465824,76,2,3960,66',0,0,Diana Benítez (Paraguay) Substitution at 66',Diana Benítez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,380722.0,2025-07-14 04:29:05
+13144,727413,9,45465889,76,2,4680,78',0,0,Antonia Riveros (Paraguay) Substitution at 78',Antonia Riveros Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,407273.0,2025-07-14 04:29:05
+13144,727413,10,45465890,76,2,4680,78',0,0,Camila Barbosa (Paraguay) Substitution at 78',Camila Barbosa Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,380720.0,2025-07-14 04:29:05
+13144,727413,10,45465890,76,2,4680,78',0,0,Camila Barbosa (Paraguay) Substitution at 78',Camila Barbosa Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,298694.0,2025-07-14 04:29:05
+13144,727413,9,45465889,76,2,4680,78',0,0,Antonia Riveros (Paraguay) Substitution at 78',Antonia Riveros Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,344797.0,2025-07-14 04:29:05
+13144,727413,11,45465920,76,2,5100,85',0,0,Anabel Flores (Bolivia) Substitution at 85',Anabel Flores Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406357.0,2025-07-14 04:29:05
+13144,727413,11,45465920,76,2,5100,85',0,0,Anabel Flores (Bolivia) Substitution at 85',Anabel Flores Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,344864.0,2025-07-14 04:29:05
+13144,727413,12,45466023,70,2,5400,90'+3',1,0,Lice Chamorro (Paraguay) Goal at 93',Lice Chamorro Goal,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,298705.0,2025-07-14 04:29:05
+13144,727414,1,45466970,94,1,1680,28',0,0,Fernanda (Brazil) Yellow Card at 28',Fernanda Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,300129.0,2025-07-15 04:35:53
+13144,727414,2,45467011,70,1,1920,32',1,0,Amanda Gutierres (Brazil) Goal at 32',Amanda Gutierres Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,344300.0,2025-07-15 04:35:53
+13144,727414,3,45467168,94,1,2700,45',0,0,Gabi Portilho (Brazil) Yellow Card at 45',Gabi Portilho Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,339855.0,2025-07-15 04:35:53
+13144,727414,5,45467527,76,2,3540,59',0,0,Luany (Brazil) Substitution at 59',Luany Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,358743.0,2025-07-15 04:35:53
+13144,727414,6,45467528,76,2,3540,59',0,0,Fátima Dutra (Brazil) Substitution at 59',Fátima Dutra Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,403469.0,2025-07-15 04:35:53
+13144,727414,4,45467526,76,2,3540,59',0,0,Tarciane (Brazil) Substitution at 59',Tarciane Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,351655.0,2025-07-15 04:35:53
+13144,727414,4,45467526,76,2,3540,59',0,0,Tarciane (Brazil) Substitution at 59',Tarciane Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,300129.0,2025-07-15 04:35:53
+13144,727414,5,45467527,76,2,3540,59',0,0,Luany (Brazil) Substitution at 59',Luany Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,339855.0,2025-07-15 04:35:53
+13144,727414,6,45467528,76,2,3540,59',0,0,Fátima Dutra (Brazil) Substitution at 59',Fátima Dutra Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,268328.0,2025-07-15 04:35:53
+13144,727414,7,45467625,76,2,4260,71',0,0,Joemar Guarecuco (Venezuela) Substitution at 71',Joemar Guarecuco Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330698.0,2025-07-15 04:35:53
+13144,727414,8,45467626,76,2,4260,71',0,0,Ysaura Viso (Venezuela) Substitution at 71',Ysaura Viso Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330684.0,2025-07-15 04:35:53
+13144,727414,7,45467625,76,2,4260,71',0,0,Joemar Guarecuco (Venezuela) Substitution at 71',Joemar Guarecuco Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,261759.0,2025-07-15 04:35:53
+13144,727414,8,45467626,76,2,4260,71',0,0,Ysaura Viso (Venezuela) Substitution at 71',Ysaura Viso Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,331160.0,2025-07-15 04:35:53
+13144,727414,9,45467633,76,2,4440,74',0,0,Dudinha (Brazil) Substitution at 74',Dudinha Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,351900.0,2025-07-15 04:35:53
+13144,727414,9,45467633,76,2,4440,74',0,0,Dudinha (Brazil) Substitution at 74',Dudinha Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-07-15 04:35:53
+13144,727414,10,45467692,76,2,4980,83',0,0,Oriana Altuve (Venezuela) Substitution at 83',Oriana Altuve Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330681.0,2025-07-15 04:35:53
+13144,727414,10,45467692,76,2,4980,83',0,0,Oriana Altuve (Venezuela) Substitution at 83',Oriana Altuve Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,242145.0,2025-07-15 04:35:53
+13144,727414,11,45467700,76,2,5040,84',0,0,Yerliane Moreno (Venezuela) Substitution at 84',Yerliane Moreno Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330682.0,2025-07-15 04:35:53
+13144,727414,11,45467700,76,2,5040,84',0,0,Yerliane Moreno (Venezuela) Substitution at 84',Yerliane Moreno Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,308484.0,2025-07-15 04:35:53
+13144,727414,12,45467730,70,2,5280,88',1,0,Duda Sampaio (Brazil) Goal at 88',Duda Sampaio Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,343577.0,2025-07-15 04:35:53
+13144,727414,13,45467748,76,2,5400,90'+1',0,0,Ary Borges (Brazil) Substitution at 91',Ary Borges Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,319246.0,2025-07-15 04:35:53
+13144,727414,13,45467748,76,2,5400,90'+1',0,0,Ary Borges (Brazil) Substitution at 91',Ary Borges Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,305982.0,2025-07-15 04:35:53
+13144,727415,1,45471100,70,1,960,16',1,0,Emily Arias (Ecuador) Goal at 16',Emily Arias Goal,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310932.0,2025-07-17 04:40:28
+13144,727415,2,45471117,94,1,1320,22',0,0,Gianella Romero (Peru) Yellow Card at 22',Gianella Romero Yellow Card,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,407230.0,2025-07-17 04:40:28
+13144,727415,3,45471186,98,1,2520,42',1,0,Nayely Bolaños (Ecuador) Penalty - Scored at 42',Nayely Bolaños Penalty - Scored,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310935.0,2025-07-17 04:40:28
+13144,727415,5,45471267,76,2,2700,45',0,0,Geraldine Cisneros (Peru) Substitution at 45',Geraldine Cisneros Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,365386.0,2025-07-17 04:40:28
+13144,727415,4,45471266,76,2,2700,45',0,0,Nicole Charcopa (Ecuador) Substitution at 45',Nicole Charcopa Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310897.0,2025-07-17 04:40:28
+13144,727415,5,45471267,76,2,2700,45',0,0,Geraldine Cisneros (Peru) Substitution at 45',Geraldine Cisneros Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,340516.0,2025-07-17 04:40:28
+13144,727415,4,45471266,76,2,2700,45',0,0,Nicole Charcopa (Ecuador) Substitution at 45',Nicole Charcopa Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,331490.0,2025-07-17 04:40:28
+13144,727415,6,45471320,94,2,3300,55',0,0,Ligia Moreira (Ecuador) Yellow Card at 55',Ligia Moreira Yellow Card,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,219922.0,2025-07-17 04:40:28
+13144,727415,7,45471384,76,2,4080,68',0,0,Rosa Flores (Ecuador) Substitution at 68',Rosa Flores Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,394686.0,2025-07-17 04:40:28
+13144,727415,10,45471388,76,2,4080,68',0,0,Gladys Dorador (Peru) Substitution at 68',Gladys Dorador Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,340523.0,2025-07-17 04:40:28
+13144,727415,8,45471385,76,2,4080,68',0,0,Justine Cuadra (Ecuador) Substitution at 68',Justine Cuadra Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310899.0,2025-07-17 04:40:28
+13144,727415,9,45471386,76,2,4080,68',0,0,Xioczana Canales (Peru) Substitution at 68',Xioczana Canales Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,343661.0,2025-07-17 04:40:28
+13144,727415,10,45471388,76,2,4080,68',0,0,Gladys Dorador (Peru) Substitution at 68',Gladys Dorador Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,407230.0,2025-07-17 04:40:28
+13144,727415,7,45471384,76,2,4080,68',0,0,Rosa Flores (Ecuador) Substitution at 68',Rosa Flores Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,310928.0,2025-07-17 04:40:28
+13144,727415,8,45471385,76,2,4080,68',0,0,Justine Cuadra (Ecuador) Substitution at 68',Justine Cuadra Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,331488.0,2025-07-17 04:40:28
+13144,727415,9,45471386,76,2,4080,68',0,0,Xioczana Canales (Peru) Substitution at 68',Xioczana Canales Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,407234.0,2025-07-17 04:40:28
+13144,727415,11,45471387,70,2,4140,69',1,0,Raquel Bilcape (Peru) Goal at 69',Raquel Bilcape Goal,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,407267.0,2025-07-17 04:40:28
+13144,727415,12,45471403,76,2,4920,82',0,0,Yomira Acosta (Peru) Substitution at 82',Yomira Acosta Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,377679.0,2025-07-17 04:40:28
+13144,727415,13,45471404,76,2,4920,82',0,0,Evelyn Burgos (Ecuador) Substitution at 82',Evelyn Burgos Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,386715.0,2025-07-17 04:40:28
+13144,727415,12,45471403,76,2,4920,82',0,0,Yomira Acosta (Peru) Substitution at 82',Yomira Acosta Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,407231.0,2025-07-17 04:40:28
+13144,727415,13,45471404,76,2,4920,82',0,0,Evelyn Burgos (Ecuador) Substitution at 82',Evelyn Burgos Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,310932.0,2025-07-17 04:40:28
+13144,727415,14,45471425,76,2,5280,88',0,0,Valerie Gherson (Peru) Substitution at 88',Valerie Gherson Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,370787.0,2025-07-17 04:40:28
+13144,727415,14,45471425,76,2,5280,88',0,0,Valerie Gherson (Peru) Substitution at 88',Valerie Gherson Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,277826.0,2025-07-17 04:40:28
+13144,727415,17,45471457,70,2,5400,90'+7',1,0,Ligia Moreira (Ecuador) Goal at 97',Ligia Moreira Goal,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,219922.0,2025-07-17 04:40:28
+13144,727415,15,45471435,94,2,5400,90'+1',0,0,Gladys Dorador (Peru) Yellow Card at 91',Gladys Dorador Yellow Card,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,340523.0,2025-07-17 04:40:28
+13144,727415,16,45471437,94,2,5400,90'+2',0,0,Evelyn Burgos (Ecuador) Yellow Card at 92',Evelyn Burgos Yellow Card,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,386715.0,2025-07-17 04:40:28
+13144,727416,1,45470720,76,2,3240,54',0,0,Kishi Núñez (Argentina) Substitution at 54',Kishi Núñez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,384866.0,2025-07-17 04:40:28
+13144,727416,1,45470720,76,2,3240,54',0,0,Kishi Núñez (Argentina) Substitution at 54',Kishi Núñez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,313737.0,2025-07-17 04:40:28
+13144,727416,2,45470725,76,2,3360,56',0,0,Juliana Viera (Uruguay) Substitution at 56',Juliana Viera Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,327984.0,2025-07-17 04:40:28
+13144,727416,2,45470725,76,2,3360,56',0,0,Juliana Viera (Uruguay) Substitution at 56',Juliana Viera Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,286612.0,2025-07-17 04:40:28
+13144,727416,4,45470747,76,2,4020,67',0,0,Alaides Bonilla (Uruguay) Substitution at 67',Alaides Bonilla Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,386972.0,2025-07-17 04:40:28
+13144,727416,3,45470744,76,2,4020,67',0,0,Daiana Farías (Uruguay) Substitution at 67',Daiana Farías Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286608.0,2025-07-17 04:40:28
+13144,727416,3,45470744,76,2,4020,67',0,0,Daiana Farías (Uruguay) Substitution at 67',Daiana Farías Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,286609.0,2025-07-17 04:40:28
+13144,727416,4,45470747,76,2,4020,67',0,0,Alaides Bonilla (Uruguay) Substitution at 67',Alaides Bonilla Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,288744.0,2025-07-17 04:40:28
+13144,727416,5,45470748,76,2,4080,68',0,0,Agostina Holzlieier (Argentina) Substitution at 68',Agostina Holzlieier Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,331481.0,2025-07-17 04:40:28
+13144,727416,5,45470748,76,2,4080,68',0,0,Agostina Holzlieier (Argentina) Substitution at 68',Agostina Holzlieier Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,284163.0,2025-07-17 04:40:28
+13144,727416,6,45470785,70,2,4560,76',1,0,Florencia Bonsegundo (Argentina) Goal at 76',Florencia Bonsegundo Goal,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284157.0,2025-07-17 04:40:28
+13144,727416,7,45470791,76,2,4680,78',0,0,Micaela Fitipaldi (Uruguay) Substitution at 78',Micaela Fitipaldi Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,404634.0,2025-07-17 04:40:28
+13144,727416,8,45470795,76,2,4680,78',0,0,Sindy Ramírez (Uruguay) Substitution at 78',Sindy Ramírez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,296593.0,2025-07-17 04:40:28
+13144,727416,8,45470795,76,2,4680,78',0,0,Sindy Ramírez (Uruguay) Substitution at 78',Sindy Ramírez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,286623.0,2025-07-17 04:40:28
+13144,727416,7,45470791,76,2,4680,78',0,0,Micaela Fitipaldi (Uruguay) Substitution at 78',Micaela Fitipaldi Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,286615.0,2025-07-17 04:40:28
+13144,727416,9,45470811,94,2,4860,81',0,0,Wendy Carballo (Uruguay) Yellow Card at 81',Wendy Carballo Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,296589.0,2025-07-17 04:40:28
+13144,727416,10,45470812,93,2,4860,81',0,0,Wendy Carballo (Uruguay) Red Card at 81',Wendy Carballo Red Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,296589.0,2025-07-17 04:40:28
+13144,727416,11,45470843,76,2,5280,88',0,0,Vanina Preininger (Argentina) Substitution at 88',Vanina Preininger Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,328195.0,2025-07-17 04:40:28
+13144,727416,11,45470843,76,2,5280,88',0,0,Vanina Preininger (Argentina) Substitution at 88',Vanina Preininger Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,406322.0,2025-07-17 04:40:28
+13144,727417,1,45473078,70,1,780,13',1,0,Luany (Brazil) Goal at 13',Luany Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,358743.0,2025-07-17 04:40:28
+13144,727417,2,45473079,94,1,960,16',0,0,Nelly Carballo (Bolivia) Yellow Card at 16',Nelly Carballo Yellow Card,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406356.0,2025-07-17 04:40:28
+13144,727417,3,45473080,70,1,1920,32',1,0,Luany (Brazil) Goal at 32',Luany Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,358743.0,2025-07-17 04:40:28
+13144,727417,4,45473081,98,1,2220,37',1,0,Kerolin (Brazil) Penalty - Scored at 37',Kerolin Penalty - Scored,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,281475.0,2025-07-17 04:40:28
+13144,727417,5,45473082,76,1,2400,40',0,0,Anabel Flores (Bolivia) Substitution at 40',Anabel Flores Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406357.0,2025-07-17 04:40:28
+13144,727417,5,45473082,76,1,2400,40',0,0,Anabel Flores (Bolivia) Substitution at 40',Anabel Flores Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,406366.0,2025-07-17 04:40:28
+13144,727417,6,45473278,94,2,3060,51',0,0,Anabel Flores (Bolivia) Yellow Card at 51',Anabel Flores Yellow Card,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406357.0,2025-07-17 04:40:28
+13144,727417,8,45473305,94,2,3420,57',0,0,Angelina Rivero (Bolivia) Yellow Card at 57',Angelina Rivero Yellow Card,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406361.0,2025-07-17 04:40:28
+13144,727417,7,45473304,94,2,3420,57',0,0,Gabi Portilho (Brazil) Yellow Card at 57',Gabi Portilho Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,339855.0,2025-07-17 04:40:28
+13144,727417,9,45473323,76,2,3840,64',0,0,Giovana (Brazil) Substitution at 64',Giovana Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,305982.0,2025-07-17 04:40:28
+13144,727417,9,45473323,76,2,3840,64',0,0,Giovana (Brazil) Substitution at 64',Giovana Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,339855.0,2025-07-17 04:40:28
+13144,727417,10,45473327,76,2,3900,65',0,0,Mariza (Brazil) Substitution at 65',Mariza Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,402871.0,2025-07-17 04:40:28
+13144,727417,10,45473327,76,2,3900,65',0,0,Mariza (Brazil) Substitution at 65',Mariza Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,393349.0,2025-07-17 04:40:28
+13144,727417,10,45473327,76,2,3900,65',0,0,Mariza (Brazil) Substitution at 65',Mariza Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,361504.0,2025-07-17 04:40:28
+13144,727417,10,45473327,76,2,3900,65',0,0,Mariza (Brazil) Substitution at 65',Mariza Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,329921.0,2025-07-17 04:40:28
+13144,727417,10,45473327,76,2,3900,65',0,0,Mariza (Brazil) Substitution at 65',Mariza Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,319716.0,2025-07-17 04:40:28
+13144,727417,10,45473327,76,2,3900,65',0,0,Mariza (Brazil) Substitution at 65',Mariza Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,197610.0,2025-07-17 04:40:28
+13144,727417,12,45473340,76,2,3960,66',0,0,Amanda Gutierres (Brazil) Substitution at 66',Amanda Gutierres Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,344300.0,2025-07-17 04:40:28
+13144,727417,11,45473331,76,2,3960,66',0,0,Marta (Brazil) Substitution at 66',Marta Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-07-17 04:40:28
+13144,727417,13,45473341,94,2,3960,66',0,0,Fe Palermo (Brazil) Yellow Card at 66',Fe Palermo Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,300129.0,2025-07-17 04:40:28
+13144,727417,11,45473331,76,2,3960,66',0,0,Marta (Brazil) Substitution at 66',Marta Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-07-17 04:40:28
+13144,727417,12,45473340,76,2,3960,66',0,0,Amanda Gutierres (Brazil) Substitution at 66',Amanda Gutierres Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,300129.0,2025-07-17 04:40:28
+13144,727417,14,45473382,76,2,4500,75',0,0,Yasmim (Brazil) Substitution at 75',Yasmim Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,268328.0,2025-07-17 04:40:28
+13144,727417,14,45473382,76,2,4500,75',0,0,Yasmim (Brazil) Substitution at 75',Yasmim Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,403469.0,2025-07-17 04:40:28
+13144,727417,15,45473405,76,2,4620,77',0,0,Samantha Alurralde (Bolivia) Substitution at 77',Samantha Alurralde Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,344790.0,2025-07-17 04:40:28
+13144,727417,15,45473405,76,2,4620,77',0,0,Samantha Alurralde (Bolivia) Substitution at 77',Samantha Alurralde Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,344864.0,2025-07-17 04:40:28
+13144,727417,16,45473416,70,2,4740,79',1,0,Kerolin (Brazil) Goal at 79',Kerolin Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,281475.0,2025-07-17 04:40:28
+13144,727417,18,45473433,70,2,4980,83',1,0,Kerolin (Brazil) Goal at 83',Kerolin Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,281475.0,2025-07-17 04:40:28
+13144,727417,17,45473428,76,2,4980,83',0,0,Marlene Flores (Bolivia) Substitution at 83',Marlene Flores Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,344784.0,2025-07-17 04:40:28
+13144,727417,17,45473428,76,2,4980,83',0,0,Marlene Flores (Bolivia) Substitution at 83',Marlene Flores Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,406356.0,2025-07-17 04:40:28
+13144,727417,21,45473494,70,2,5400,90'+5',1,0,Amanda Gutierres (Brazil) Goal at 95',Amanda Gutierres Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,344300.0,2025-07-17 04:40:28
+13144,727417,20,45473490,93,2,5400,90'+2',0,0,Angelina Rivero (Bolivia) Red Card at 92',Angelina Rivero Red Card,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406361.0,2025-07-17 04:40:28
+13144,727417,19,45473480,94,2,5400,90',0,0,Marlene Flores (Bolivia) Yellow Card at 90',Marlene Flores Yellow Card,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,344784.0,2025-07-17 04:40:28
+13144,727418,1,45474694,94,1,2580,43',0,0,Bárbara Olivieri (Venezuela) Yellow Card at 43',Bárbara Olivieri Yellow Card,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,308484.0,2025-07-18 04:42:52
+13144,727418,2,45475483,94,2,3300,55',0,0,Daniuska Rodríguez (Venezuela) Yellow Card at 55',Daniuska Rodríguez Yellow Card,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,331160.0,2025-07-18 04:42:52
+13144,727418,3,45475536,94,2,3420,57',0,0,Yenifer Giménez (Venezuela) Yellow Card at 57',Yenifer Giménez Yellow Card,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330693.0,2025-07-18 04:42:52
+13144,727418,4,45475792,76,2,4080,68',0,0,Joemar Guarecuco (Venezuela) Substitution at 68',Joemar Guarecuco Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330698.0,2025-07-18 04:42:52
+13144,727418,4,45475792,76,2,4080,68',0,0,Joemar Guarecuco (Venezuela) Substitution at 68',Joemar Guarecuco Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,261759.0,2025-07-18 04:42:52
+13144,727418,5,45475853,76,2,4200,70',0,0,Yirleidis Quejada Minota (Colombia) Substitution at 70',Yirleidis Quejada Minota Substit,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,386858.0,2025-07-18 04:42:52
+13144,727418,5,45475853,76,2,4200,70',0,0,Yirleidis Quejada Minota (Colombia) Substitution at 70',Yirleidis Quejada Minota Substit,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,288682.0,2025-07-18 04:42:52
+13144,727418,6,45475934,94,2,4500,75',0,0,Mayra Ramírez (Colombia) Yellow Card at 75',Mayra Ramírez Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,288680.0,2025-07-18 04:42:52
+13144,727418,7,45475955,76,2,4560,76',0,0,Valerin Loboa (Colombia) Substitution at 76',Valerin Loboa Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,406262.0,2025-07-18 04:42:52
+13144,727418,7,45475955,76,2,4560,76',0,0,Valerin Loboa (Colombia) Substitution at 76',Valerin Loboa Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,288680.0,2025-07-18 04:42:52
+13144,727418,8,45476027,76,2,4920,82',0,0,Ysaura Viso (Venezuela) Substitution at 82',Ysaura Viso Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330684.0,2025-07-18 04:42:52
+13144,727418,8,45476027,76,2,4920,82',0,0,Ysaura Viso (Venezuela) Substitution at 82',Ysaura Viso Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,330693.0,2025-07-18 04:42:52
+13144,727418,9,45476115,76,2,5220,87',0,0,Wendy Bonilla (Colombia) Substitution at 87',Wendy Bonilla Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298770.0,2025-07-18 04:42:52
+13144,727418,9,45476115,76,2,5220,87',0,0,Wendy Bonilla (Colombia) Substitution at 87',Wendy Bonilla Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298768.0,2025-07-18 04:42:52
+13144,727418,10,45476159,94,2,5400,90',0,0,Wendy Bonilla (Colombia) Yellow Card at 90',Wendy Bonilla Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298770.0,2025-07-18 04:42:52
+13144,727419,1,45483215,70,1,660,11',1,0,Vaitiare Pardo (Chile) Goal at 11',Vaitiare Pardo Goal,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,400637.0,2025-07-19 04:39:36
+13144,727419,2,45483226,94,1,780,13',0,0,Mary Valencia (Chile) Yellow Card at 13',Mary Valencia Yellow Card,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,327671.0,2025-07-19 04:39:36
+13144,727419,3,45483354,94,1,2400,40',0,0,Sophie Braun (Argentina) Yellow Card at 40',Sophie Braun Yellow Card,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,379825.0,2025-07-19 04:39:36
+13144,727419,3,45483354,94,1,2400,40',0,0,Sophie Braun (Argentina) Yellow Card at 40',Sophie Braun Yellow Card,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,313734.0,2025-07-19 04:39:36
+13144,727419,5,45483620,76,2,3420,57',0,0,Agostina Holzlieier (Argentina) Substitution at 57',Agostina Holzlieier Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,331481.0,2025-07-19 04:39:36
+13144,727419,4,45483606,76,2,3420,57',0,0,Milagros Martín (Argentina) Substitution at 57',Milagros Martín Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,361698.0,2025-07-19 04:39:36
+13144,727419,5,45483620,76,2,3420,57',0,0,Agostina Holzlieier (Argentina) Substitution at 57',Agostina Holzlieier Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,284163.0,2025-07-19 04:39:36
+13144,727419,4,45483606,76,2,3420,57',0,0,Milagros Martín (Argentina) Substitution at 57',Milagros Martín Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,284170.0,2025-07-19 04:39:36
+13144,727419,6,45483662,76,2,3780,63',0,0,Pamela Cabezas (Chile) Substitution at 63',Pamela Cabezas Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,394326.0,2025-07-19 04:39:36
+13144,727419,7,45483663,76,2,3780,63',0,0,Francisca Altgelt (Argentina) Substitution at 63',Francisca Altgelt Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,364453.0,2025-07-19 04:39:36
+13144,727419,6,45483662,76,2,3780,63',0,0,Pamela Cabezas (Chile) Substitution at 63',Pamela Cabezas Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,400637.0,2025-07-19 04:39:36
+13144,727419,7,45483663,76,2,3780,63',0,0,Francisca Altgelt (Argentina) Substitution at 63',Francisca Altgelt Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,331479.0,2025-07-19 04:39:36
+13144,727419,9,45483695,76,2,4200,70',0,0,Sonya Keefe (Chile) Substitution at 70',Sonya Keefe Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,310892.0,2025-07-19 04:39:36
+13144,727419,8,45483688,76,2,4200,70',0,0,Nayadet López (Chile) Substitution at 70',Nayadet López Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,296741.0,2025-07-19 04:39:36
+13144,727419,9,45483695,76,2,4200,70',0,0,Sonya Keefe (Chile) Substitution at 70',Sonya Keefe Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,264858.0,2025-07-19 04:39:36
+13144,727419,8,45483688,76,2,4200,70',0,0,Nayadet López (Chile) Substitution at 70',Nayadet López Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,276133.0,2025-07-19 04:39:36
+13144,727419,11,45483707,76,2,4380,73',0,0,Vanina Preininger (Argentina) Substitution at 73',Vanina Preininger Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,328195.0,2025-07-19 04:39:36
+13144,727419,10,45483706,76,2,4380,73',0,0,Paulina Gramaglia (Argentina) Substitution at 73',Paulina Gramaglia Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,331482.0,2025-07-19 04:39:36
+13144,727419,10,45483706,76,2,4380,73',0,0,Paulina Gramaglia (Argentina) Substitution at 73',Paulina Gramaglia Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,384866.0,2025-07-19 04:39:36
+13144,727419,11,45483707,76,2,4380,73',0,0,Vanina Preininger (Argentina) Substitution at 73',Vanina Preininger Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,406322.0,2025-07-19 04:39:36
+13144,727419,12,45483717,70,2,4500,75',1,0,Daiana Falfán (Argentina) Goal at 75',Daiana Falfán Goal,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,298688.0,2025-07-19 04:39:36
+13144,727419,13,45483721,94,2,4620,77',0,0,Agostina Holzlieier (Argentina) Yellow Card at 77',Agostina Holzlieier Yellow Card,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,331481.0,2025-07-19 04:39:36
+13144,727419,14,45483744,94,2,4800,80',0,0,Karen Araya (Chile) Yellow Card at 80',Karen Araya Yellow Card,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,264855.0,2025-07-19 04:39:36
+13144,727419,16,45483760,76,2,4980,83',0,0,Gissela Pino (Chile) Substitution at 83',Gissela Pino Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,274503.0,2025-07-19 04:39:36
+13144,727419,15,45483749,76,2,4980,83',0,0,Yenny Acuña (Chile) Substitution at 83',Yenny Acuña Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,319206.0,2025-07-19 04:39:36
+13144,727419,15,45483749,76,2,4980,83',0,0,Yenny Acuña (Chile) Substitution at 83',Yenny Acuña Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,327671.0,2025-07-19 04:39:36
+13144,727419,16,45483760,76,2,4980,83',0,0,Gissela Pino (Chile) Substitution at 83',Gissela Pino Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,264855.0,2025-07-19 04:39:36
+13144,727419,17,45483805,70,2,5400,90',1,0,Aldana Cometti (Argentina) Goal at 90',Aldana Cometti Goal,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284172.0,2025-07-19 04:39:36
+13144,727419,18,45483857,93,2,5400,90'+4',0,0,Yenny Acuña (Chile) Red Card at 94',Yenny Acuña Red Card,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,319206.0,2025-07-19 04:39:36
+13144,727420,1,45482709,94,1,1860,31',0,0,Stephanie Tregartten (Uruguay) Yellow Card at 31',Stephanie Tregartten Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,327696.0,2025-07-19 04:39:36
+13144,727420,2,45482710,94,1,1980,33',0,0,Xioczana Canales (Peru) Yellow Card at 33',Xioczana Canales Yellow Card,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,343661.0,2025-07-19 04:39:36
+13144,727420,3,45482714,94,1,2580,43',0,0,Ilana Guedes (Uruguay) Yellow Card at 43',Ilana Guedes Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,407188.0,2025-07-19 04:39:36
+13144,727420,7,45482730,76,2,2700,45',0,0,Gianella Romero (Peru) Substitution at 45',Gianella Romero Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,407230.0,2025-07-19 04:39:36
+13144,727420,6,45482729,76,2,2700,45',0,0,Alaides Bonilla (Uruguay) Substitution at 45',Alaides Bonilla Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,386972.0,2025-07-19 04:39:36
+13144,727420,4,45482723,76,2,2700,45',0,0,Maryory Sánchez (Peru) Substitution at 45',Maryory Sánchez Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,340507.0,2025-07-19 04:39:36
+13144,727420,5,45482728,76,2,2700,45',0,0,Juliana Viera (Uruguay) Substitution at 45',Juliana Viera Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,327984.0,2025-07-19 04:39:36
+13144,727420,5,45482728,76,2,2700,45',0,0,Juliana Viera (Uruguay) Substitution at 45',Juliana Viera Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,327696.0,2025-07-19 04:39:36
+13144,727420,4,45482723,76,2,2700,45',0,0,Maryory Sánchez (Peru) Substitution at 45',Maryory Sánchez Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,268146.0,2025-07-19 04:39:36
+13144,727420,7,45482730,76,2,2700,45',0,0,Gianella Romero (Peru) Substitution at 45',Gianella Romero Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,407231.0,2025-07-19 04:39:36
+13144,727420,6,45482729,76,2,2700,45',0,0,Alaides Bonilla (Uruguay) Substitution at 45',Alaides Bonilla Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,407187.0,2025-07-19 04:39:36
+13144,727420,9,45482754,76,2,3540,59',0,0,Geraldine Cisneros (Peru) Substitution at 59',Geraldine Cisneros Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,365386.0,2025-07-19 04:39:36
+13144,727420,8,45482753,76,2,3540,59',0,0,Mía Obando (Peru) Substitution at 59',Mía Obando Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,407234.0,2025-07-19 04:39:36
+13144,727420,9,45482754,76,2,3540,59',0,0,Geraldine Cisneros (Peru) Substitution at 59',Geraldine Cisneros Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,340523.0,2025-07-19 04:39:36
+13144,727420,8,45482753,76,2,3540,59',0,0,Mía Obando (Peru) Substitution at 59',Mía Obando Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,343661.0,2025-07-19 04:39:36
+13144,727420,10,45482755,76,2,3600,60',0,0,Yamila Dornelles (Uruguay) Substitution at 60',Yamila Dornelles Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,407189.0,2025-07-19 04:39:36
+13144,727420,10,45482755,76,2,3600,60',0,0,Yamila Dornelles (Uruguay) Substitution at 60',Yamila Dornelles Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,407188.0,2025-07-19 04:39:36
+13144,727420,11,45482759,70,2,3840,64',1,0,Belen Aquino (Uruguay) Goal at 64',Belen Aquino Goal,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,288744.0,2025-07-19 04:39:36
+13144,727420,12,45482771,113,2,4140,69',0,0,Belen Aquino (Uruguay) Penalty - Missed at 69',Belen Aquino Penalty - Missed,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,288744.0,2025-07-19 04:39:36
+13144,727420,13,45482816,76,2,5040,84',0,0,Yomira Acosta (Peru) Substitution at 84',Yomira Acosta Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,377679.0,2025-07-19 04:39:36
+13144,727420,13,45482816,76,2,5040,84',0,0,Yomira Acosta (Peru) Substitution at 84',Yomira Acosta Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,377686.0,2025-07-19 04:39:36
+13144,727420,14,45482822,76,2,5160,86',0,0,Sindy Ramírez (Uruguay) Substitution at 86',Sindy Ramírez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,296593.0,2025-07-19 04:39:36
+13144,727420,14,45482822,76,2,5160,86',0,0,Sindy Ramírez (Uruguay) Substitution at 86',Sindy Ramírez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,288744.0,2025-07-19 04:39:36
+13144,727421,1,45489233,70,1,780,13',1,0,Linda Caicedo (Colombia) Goal at 13',Linda Caicedo Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298768.0,2025-07-20 04:36:58
+13144,727421,2,45489258,70,1,900,15',1,0,Claudia Martínez (Paraguay) Goal at 15',Claudia Martínez Goal,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,387216.0,2025-07-20 04:36:58
+13144,727421,3,45489499,94,1,1860,31',0,0,Fanny Godoy (Paraguay) Yellow Card at 31',Fanny Godoy Yellow Card,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,298701.0,2025-07-20 04:36:58
+13144,727421,4,45490066,76,2,2700,45',0,0,Catalina Usme (Colombia) Substitution at 45',Catalina Usme Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,158882.0,2025-07-20 04:36:58
+13144,727421,4,45490066,76,2,2700,45',0,0,Catalina Usme (Colombia) Substitution at 45',Catalina Usme Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298775.0,2025-07-20 04:36:58
+13144,727421,5,45490400,70,2,3420,57',1,0,Mayra Ramírez (Colombia) Goal at 57',Mayra Ramírez Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,288680.0,2025-07-20 04:36:58
+13144,727421,6,45490516,76,2,3660,61',0,0,Danna Garcete (Paraguay) Substitution at 61',Danna Garcete Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,387217.0,2025-07-20 04:36:58
+13144,727421,7,45490553,76,2,3660,61',0,0,Fatima Acosta (Paraguay) Substitution at 61',Fatima Acosta Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,344797.0,2025-07-20 04:36:58
+13144,727421,6,45490516,76,2,3660,61',0,0,Danna Garcete (Paraguay) Substitution at 61',Danna Garcete Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,298701.0,2025-07-20 04:36:58
+13144,727421,7,45490553,76,2,3660,61',0,0,Fatima Acosta (Paraguay) Substitution at 61',Fatima Acosta Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,387212.0,2025-07-20 04:36:58
+13144,727421,8,45490555,76,2,3720,62',0,0,Ana Guzman (Colombia) Substitution at 62',Ana Guzman Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,328489.0,2025-07-20 04:36:58
+13144,727421,8,45490555,76,2,3720,62',0,0,Ana Guzman (Colombia) Substitution at 62',Ana Guzman Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,158875.0,2025-07-20 04:36:58
+13144,727421,9,45490862,76,2,4260,71',0,0,Ramona Martínez (Paraguay) Substitution at 71',Ramona Martínez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,327727.0,2025-07-20 04:36:58
+13144,727421,9,45490862,76,2,4260,71',0,0,Ramona Martínez (Paraguay) Substitution at 71',Ramona Martínez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,380722.0,2025-07-20 04:36:58
+13144,727421,10,45491157,70,2,4980,83',1,0,Linda Caicedo (Colombia) Goal at 83',Linda Caicedo Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298768.0,2025-07-20 04:36:58
+13144,727421,12,45491337,76,2,5400,90',0,0,Liced Serna (Colombia) Substitution at 90',Liced Serna Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,349414.0,2025-07-20 04:36:58
+13144,727421,14,45491414,70,2,5400,90'+4',1,0,Leicy Santos (Colombia) Goal at 94',Leicy Santos Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,219866.0,2025-07-20 04:36:58
+13144,727421,11,45491298,76,2,5400,90',0,0,Valerin Loboa (Colombia) Substitution at 90',Valerin Loboa Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,406262.0,2025-07-20 04:36:58
+13144,727421,13,45491338,76,2,5400,90',0,0,Wendy Bonilla (Colombia) Substitution at 90',Wendy Bonilla Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298770.0,2025-07-20 04:36:58
+13144,727421,12,45491337,76,2,5400,90',0,0,Liced Serna (Colombia) Substitution at 90',Liced Serna Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298767.0,2025-07-20 04:36:58
+13144,727421,13,45491338,76,2,5400,90',0,0,Wendy Bonilla (Colombia) Substitution at 90',Wendy Bonilla Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,288680.0,2025-07-20 04:36:58
+13144,727421,11,45491298,76,2,5400,90',0,0,Valerin Loboa (Colombia) Substitution at 90',Valerin Loboa Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298768.0,2025-07-20 04:36:58
+13144,727422,1,45487108,94,1,360,6',0,0,Joemar Guarecuco (Venezuela) Yellow Card at 6',Joemar Guarecuco Yellow Card,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330698.0,2025-07-20 04:36:58
+13144,727422,2,45487141,70,1,780,13',1,0,Oriana Altuve (Venezuela) Goal at 13',Oriana Altuve Goal,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330681.0,2025-07-20 04:36:58
+13144,727422,3,45487203,70,1,1080,18',1,0,Emilie Doerksen (Bolivia) Goal at 18',Emilie Doerksen Goal,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406365.0,2025-07-20 04:36:58
+13144,727422,4,45487260,70,1,1440,24',1,0,Gaby García (Venezuela) Goal at 24',Gaby García Goal,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,331162.0,2025-07-20 04:36:58
+13144,727422,5,45487269,94,1,1500,25',0,0,Lucerito Bravo (Bolivia) Yellow Card at 25',Lucerito Bravo Yellow Card,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406359.0,2025-07-20 04:36:58
+13144,727422,6,45487289,70,1,1740,29',1,0,Joemar Guarecuco (Venezuela) Goal at 29',Joemar Guarecuco Goal,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330698.0,2025-07-20 04:36:58
+13144,727422,9,45487690,76,2,2700,45',0,0,Dayana Rodríguez (Venezuela) Substitution at 45',Dayana Rodríguez Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330686.0,2025-07-20 04:36:58
+13144,727422,7,45487678,76,2,2700,45',0,0,Abigail Quiroz (Bolivia) Substitution at 45',Abigail Quiroz Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406366.0,2025-07-20 04:36:58
+13144,727422,8,45487689,76,2,2700,45',0,0,Melanie Chirinos (Venezuela) Substitution at 45',Melanie Chirinos Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,404632.0,2025-07-20 04:36:58
+13144,727422,9,45487690,76,2,2700,45',0,0,Dayana Rodríguez (Venezuela) Substitution at 45',Dayana Rodríguez Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,343664.0,2025-07-20 04:36:58
+13144,727422,7,45487678,76,2,2700,45',0,0,Abigail Quiroz (Bolivia) Substitution at 45',Abigail Quiroz Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,344784.0,2025-07-20 04:36:58
+13144,727422,8,45487689,76,2,2700,45',0,0,Melanie Chirinos (Venezuela) Substitution at 45',Melanie Chirinos Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,330682.0,2025-07-20 04:36:58
+13144,727422,10,45487727,70,2,2880,48',1,0,Melanie Chirinos (Venezuela) Goal at 48',Melanie Chirinos Goal,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,404632.0,2025-07-20 04:36:58
+13144,727422,11,45487878,70,2,3480,58',1,0,Oriana Altuve (Venezuela) Goal at 58',Oriana Altuve Goal,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330681.0,2025-07-20 04:36:58
+13144,727422,12,45487900,70,2,3660,61',1,0,Oriana Altuve (Venezuela) Goal at 61',Oriana Altuve Goal,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330681.0,2025-07-20 04:36:58
+13144,727422,13,45487970,76,2,3720,62',0,0,Anabel Flores (Bolivia) Substitution at 62',Anabel Flores Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406357.0,2025-07-20 04:36:58
+13144,727422,13,45487970,76,2,3720,62',0,0,Anabel Flores (Bolivia) Substitution at 62',Anabel Flores Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,406356.0,2025-07-20 04:36:58
+13144,727422,14,45487941,76,2,3780,63',0,0,Ailing Herrera (Venezuela) Substitution at 63',Ailing Herrera Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,404631.0,2025-07-20 04:36:58
+13144,727422,15,45487942,76,2,3780,63',0,0,Floriangel Apóstol (Venezuela) Substitution at 63',Floriangel Apóstol Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,393898.0,2025-07-20 04:36:58
+13144,727422,15,45487942,76,2,3780,63',0,0,Floriangel Apóstol (Venezuela) Substitution at 63',Floriangel Apóstol Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,330698.0,2025-07-20 04:36:58
+13144,727422,14,45487941,76,2,3780,63',0,0,Ailing Herrera (Venezuela) Substitution at 63',Ailing Herrera Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,330684.0,2025-07-20 04:36:58
+13144,727422,16,45487992,70,2,4140,69',1,0,Raiderlin Carrasco (Venezuela) Goal at 69',Raiderlin Carrasco Goal,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,343666.0,2025-07-20 04:36:58
+13144,727422,17,45488031,76,2,4500,75',0,0,Mariana Speckmaier (Venezuela) Substitution at 75',Mariana Speckmaier Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,261759.0,2025-07-20 04:36:58
+13144,727422,17,45488031,76,2,4500,75',0,0,Mariana Speckmaier (Venezuela) Substitution at 75',Mariana Speckmaier Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,343666.0,2025-07-20 04:36:58
+13144,727422,18,45488117,94,2,4980,83',0,0,Mariana Speckmaier (Venezuela) Yellow Card at 83',Mariana Speckmaier Yellow Card,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,261759.0,2025-07-20 04:36:58
+13144,727422,19,45488139,76,2,5160,86',0,0,Eyda Serrudo (Bolivia) Substitution at 86',Eyda Serrudo Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406367.0,2025-07-20 04:36:58
+13144,727422,20,45488140,76,2,5160,86',0,0,María Bravo (Bolivia) Substitution at 86',María Bravo Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406369.0,2025-07-20 04:36:58
+13144,727422,21,45488165,76,2,5160,86',0,0,Ivana Siles (Bolivia) Substitution at 86',Ivana Siles Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406368.0,2025-07-20 04:36:58
+13144,727422,21,45488165,76,2,5160,86',0,0,Ivana Siles (Bolivia) Substitution at 86',Ivana Siles Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,406366.0,2025-07-20 04:36:58
+13144,727422,20,45488140,76,2,5160,86',0,0,María Bravo (Bolivia) Substitution at 86',María Bravo Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,344776.0,2025-07-20 04:36:58
+13144,727422,19,45488139,76,2,5160,86',0,0,Eyda Serrudo (Bolivia) Substitution at 86',Eyda Serrudo Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,344790.0,2025-07-20 04:36:58
+13144,727423,3,45499221,76,2,2700,45',0,0,Agostina Holzlieier (Argentina) Substitution at 45',Agostina Holzlieier Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,331481.0,2025-07-22 04:40:08
+13144,727423,1,45499219,76,2,2700,45',0,0,Yamila Rodríguez (Argentina) Substitution at 45',Yamila Rodríguez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284163.0,2025-07-22 04:40:08
+13144,727423,2,45499220,76,2,2700,45',0,0,Florencia Bonsegundo (Argentina) Substitution at 45',Florencia Bonsegundo Substitutio,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284157.0,2025-07-22 04:40:08
+13144,727423,1,45499219,76,2,2700,45',0,0,Yamila Rodríguez (Argentina) Substitution at 45',Yamila Rodríguez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,384866.0,2025-07-22 04:40:08
+13144,727423,2,45499220,76,2,2700,45',0,0,Florencia Bonsegundo (Argentina) Substitution at 45',Florencia Bonsegundo Substitutio,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,331479.0,2025-07-22 04:40:08
+13144,727423,3,45499221,76,2,2700,45',0,0,Agostina Holzlieier (Argentina) Substitution at 45',Agostina Holzlieier Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,331482.0,2025-07-22 04:40:08
+13144,727423,4,45499244,94,2,3180,53',0,0,Mia León (Peru) Yellow Card at 53',Mia León Yellow Card,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,377686.0,2025-07-22 04:40:08
+13144,727423,5,45499252,76,2,3600,60',0,0,Gianella Romero (Peru) Substitution at 60',Gianella Romero Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,407230.0,2025-07-22 04:40:08
+13144,727423,5,45499252,76,2,3600,60',0,0,Gianella Romero (Peru) Substitution at 60',Gianella Romero Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,377679.0,2025-07-22 04:40:08
+13144,727423,6,45499260,76,2,3660,61',0,0,Geraldine Cisneros (Peru) Substitution at 61',Geraldine Cisneros Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,365386.0,2025-07-22 04:40:08
+13144,727423,6,45499260,76,2,3660,61',0,0,Geraldine Cisneros (Peru) Substitution at 61',Geraldine Cisneros Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,340523.0,2025-07-22 04:40:08
+13144,727423,7,45499270,76,2,3840,64',0,0,Betina Soriano (Argentina) Substitution at 64',Betina Soriano Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,406322.0,2025-07-22 04:40:08
+13144,727423,7,45499270,76,2,3840,64',0,0,Betina Soriano (Argentina) Substitution at 64',Betina Soriano Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,328195.0,2025-07-22 04:40:08
+13144,727423,9,45499296,76,2,4260,71',0,0,Birka Ruíz (Peru) Substitution at 71',Birka Ruíz Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,377682.0,2025-07-22 04:40:08
+13144,727423,8,45499291,76,2,4260,71',0,0,Carolina Troncoso (Argentina) Substitution at 71',Carolina Troncoso Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,313737.0,2025-07-22 04:40:08
+13144,727423,8,45499291,76,2,4260,71',0,0,Carolina Troncoso (Argentina) Substitution at 71',Carolina Troncoso Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,384862.0,2025-07-22 04:40:08
+13144,727423,9,45499296,76,2,4260,71',0,0,Birka Ruíz (Peru) Substitution at 71',Birka Ruíz Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,407232.0,2025-07-22 04:40:08
+13144,727423,10,45499306,94,2,4440,74',0,0,Betina Soriano (Argentina) Yellow Card at 74',Betina Soriano Yellow Card,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,406322.0,2025-07-22 04:40:08
+13144,727423,11,45499319,94,2,4680,78',0,0,Carolina Troncoso (Argentina) Yellow Card at 78',Carolina Troncoso Yellow Card,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,313737.0,2025-07-22 04:40:08
+13144,727423,12,45499347,76,2,5100,85',0,0,Xioczana Canales (Peru) Substitution at 85',Xioczana Canales Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,343661.0,2025-07-22 04:40:08
+13144,727423,12,45499347,76,2,5100,85',0,0,Xioczana Canales (Peru) Substitution at 85',Xioczana Canales Substitution,21130,0.0,0.0,0.0,0.0,0.0,0.0,2,343671.0,2025-07-22 04:40:08
+13144,727423,13,45499354,70,2,5280,88',1,0,Yamila Rodríguez (Argentina) Goal at 88',Yamila Rodríguez Goal,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284163.0,2025-07-22 04:40:08
+13144,727423,14,45499360,94,2,5400,90'+4',0,0,Birka Ruíz (Peru) Yellow Card at 94',Birka Ruíz Yellow Card,21130,0.0,0.0,0.0,0.0,0.0,0.0,1,377682.0,2025-07-22 04:40:08
+13144,727423,15,45499361,113,2,5400,90'+8',0,0,Florencia Bonsegundo (Argentina) Penalty - Missed at 98',Florencia Bonsegundo Penalty - M,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284157.0,2025-07-22 04:40:08
+13144,727424,1,45499502,94,1,1320,22',0,0,Michelle Olivares (Chile) Yellow Card at 22',Michelle Olivares Yellow Card,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,296744.0,2025-07-22 04:40:08
+13144,727424,2,45499507,98,1,1440,24',1,0,Nayely Bolaños (Ecuador) Penalty - Scored at 24',Nayely Bolaños Penalty - Scored,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310935.0,2025-07-22 04:40:08
+13144,727424,3,45499521,94,1,1560,26',0,0,Jessy Caicedo (Ecuador) Yellow Card at 26',Jessy Caicedo Yellow Card,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,331489.0,2025-07-22 04:40:08
+13144,727424,4,45499545,70,1,2100,35',1,0,Sonya Keefe (Chile) Goal at 35',Sonya Keefe Goal,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,310892.0,2025-07-22 04:40:08
+13144,727424,7,45499665,76,2,2700,45',0,0,Manoly Baquerizo (Ecuador) Substitution at 45',Manoly Baquerizo Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310929.0,2025-07-22 04:40:08
+13144,727424,8,45499666,76,2,2700,45',0,0,Mary Valencia (Chile) Substitution at 45',Mary Valencia Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,327671.0,2025-07-22 04:40:08
+13144,727424,6,45499664,76,2,2700,45',0,0,Rosario Balmaceda (Chile) Substitution at 45',Rosario Balmaceda Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,264863.0,2025-07-22 04:40:08
+13144,727424,5,45499608,70,1,2700,45'+5',1,0,Nayadet López (Chile) Goal at 50',Nayadet López Goal,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,296741.0,2025-07-22 04:40:08
+13144,727424,8,45499666,76,2,2700,45',0,0,Mary Valencia (Chile) Substitution at 45',Mary Valencia Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,400637.0,2025-07-22 04:40:08
+13144,727424,6,45499664,76,2,2700,45',0,0,Rosario Balmaceda (Chile) Substitution at 45',Rosario Balmaceda Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,296744.0,2025-07-22 04:40:08
+13144,727424,7,45499665,76,2,2700,45',0,0,Manoly Baquerizo (Ecuador) Substitution at 45',Manoly Baquerizo Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,331489.0,2025-07-22 04:40:08
+13144,727424,9,45499667,76,2,3180,53',0,0,Nicole Charcopa (Ecuador) Substitution at 53',Nicole Charcopa Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310897.0,2025-07-22 04:40:08
+13144,727424,9,45499667,76,2,3180,53',0,0,Nicole Charcopa (Ecuador) Substitution at 53',Nicole Charcopa Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,331490.0,2025-07-22 04:40:08
+13144,727424,10,45499670,94,2,3540,59',0,0,Nayadet López (Chile) Yellow Card at 59',Nayadet López Yellow Card,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,296741.0,2025-07-22 04:40:08
+13144,727424,11,45499719,76,2,4260,71',0,0,Evelyn Burgos (Ecuador) Substitution at 71',Evelyn Burgos Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,386715.0,2025-07-22 04:40:08
+13144,727424,12,45499720,76,2,4260,71',0,0,Joselyn Espinales (Ecuador) Substitution at 71',Joselyn Espinales Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,331488.0,2025-07-22 04:40:08
+13144,727424,11,45499719,76,2,4260,71',0,0,Evelyn Burgos (Ecuador) Substitution at 71',Evelyn Burgos Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,310932.0,2025-07-22 04:40:08
+13144,727424,12,45499720,76,2,4260,71',0,0,Joselyn Espinales (Ecuador) Substitution at 71',Joselyn Espinales Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,310928.0,2025-07-22 04:40:08
+13144,727424,13,45499733,94,2,4560,76',0,0,Yastin Jiménez (Chile) Yellow Card at 76',Yastin Jiménez Yellow Card,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,296485.0,2025-07-22 04:40:08
+13144,727424,15,45499760,76,2,4860,81',0,0,Yesenia López (Chile) Substitution at 81',Yesenia López Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,264858.0,2025-07-22 04:40:08
+13144,727424,14,45499759,76,2,4860,81',0,0,Milagro Barahona (Ecuador) Substitution at 81',Milagro Barahona Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,394693.0,2025-07-22 04:40:08
+13144,727424,14,45499759,76,2,4860,81',0,0,Milagro Barahona (Ecuador) Substitution at 81',Milagro Barahona Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,310899.0,2025-07-22 04:40:08
+13144,727424,15,45499760,76,2,4860,81',0,0,Yesenia López (Chile) Substitution at 81',Yesenia López Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,264855.0,2025-07-22 04:40:08
+13144,727424,16,45499784,76,2,5220,87',0,0,Catalina Figueroa (Chile) Substitution at 87',Catalina Figueroa Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,336512.0,2025-07-22 04:40:08
+13144,727424,16,45499784,76,2,5220,87',0,0,Catalina Figueroa (Chile) Substitution at 87',Catalina Figueroa Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,296741.0,2025-07-22 04:40:08
+13144,727424,17,45499804,94,2,5400,90',0,0,Antonia Canales (Chile) Yellow Card at 90',Antonia Canales Yellow Card,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,296483.0,2025-07-22 04:40:08
+13144,727424,18,45499810,76,2,5400,90'+3',0,0,Pamela Cabezas (Chile) Substitution at 93',Pamela Cabezas Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,394326.0,2025-07-22 04:40:08
+13144,727424,18,45499810,76,2,5400,90'+3',0,0,Pamela Cabezas (Chile) Substitution at 93',Pamela Cabezas Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,310892.0,2025-07-22 04:40:08
+13144,727425,1,45501800,70,1,540,9',1,0,Daniela Montoya (Colombia) Goal at 9',Daniela Montoya Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,158872.0,2025-07-23 04:39:13
+13144,727425,2,45501821,70,1,780,13',1,0,Mayra Ramírez (Colombia) Goal at 13',Mayra Ramírez Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,288680.0,2025-07-23 04:39:13
+13144,727425,3,45501892,70,1,1980,33',1,0,Daniela Montoya (Colombia) Goal at 33',Daniela Montoya Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,158872.0,2025-07-23 04:39:13
+13144,727425,4,45501903,97,1,2220,37',1,0,Anabel Flores (Bolivia) Own Goal at 37',Anabel Flores Own Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,406357.0,2025-07-23 04:39:13
+13144,727425,5,45501927,70,1,2580,43',1,0,Linda Caicedo (Colombia) Goal at 43',Linda Caicedo Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298768.0,2025-07-23 04:39:13
+13144,727425,7,45501944,76,2,2700,45',0,0,Ana Guzman (Colombia) Substitution at 45',Ana Guzman Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,328489.0,2025-07-23 04:39:13
+13144,727425,8,45501945,76,2,2700,45',0,0,María Bravo (Bolivia) Substitution at 45',María Bravo Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406369.0,2025-07-23 04:39:13
+13144,727425,6,45501943,76,2,2700,45',0,0,Marcela Restrepo (Colombia) Substitution at 45',Marcela Restrepo Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,288683.0,2025-07-23 04:39:13
+13144,727425,9,45501952,76,2,2700,45',0,0,Ivana Siles (Bolivia) Substitution at 45',Ivana Siles Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,406368.0,2025-07-23 04:39:13
+13144,727425,8,45501945,76,2,2700,45',0,0,María Bravo (Bolivia) Substitution at 45',María Bravo Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,406367.0,2025-07-23 04:39:13
+13144,727425,9,45501952,76,2,2700,45',0,0,Ivana Siles (Bolivia) Substitution at 45',Ivana Siles Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,344790.0,2025-07-23 04:39:13
+13144,727425,7,45501944,76,2,2700,45',0,0,Ana Guzman (Colombia) Substitution at 45',Ana Guzman Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298768.0,2025-07-23 04:39:13
+13144,727425,6,45501943,76,2,2700,45',0,0,Marcela Restrepo (Colombia) Substitution at 45',Marcela Restrepo Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,328241.0,2025-07-23 04:39:13
+13144,727425,10,45501964,94,2,2940,49',0,0,Daniela Arias (Colombia) Yellow Card at 49',Daniela Arias Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298692.0,2025-07-23 04:39:13
+13144,727425,11,45502009,70,2,3360,56',1,0,Wendy Bonilla (Colombia) Goal at 56',Wendy Bonilla Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298770.0,2025-07-23 04:39:13
+13144,727425,13,45502058,76,2,3840,64',0,0,Liced Serna (Colombia) Substitution at 64',Liced Serna Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,349414.0,2025-07-23 04:39:13
+13144,727425,12,45502053,76,2,3840,64',0,0,Valerin Loboa (Colombia) Substitution at 64',Valerin Loboa Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,406262.0,2025-07-23 04:39:13
+13144,727425,13,45502058,76,2,3840,64',0,0,Liced Serna (Colombia) Substitution at 64',Liced Serna Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,219866.0,2025-07-23 04:39:13
+13144,727425,12,45502053,76,2,3840,64',0,0,Valerin Loboa (Colombia) Substitution at 64',Valerin Loboa Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,288680.0,2025-07-23 04:39:13
+13144,727425,14,45502091,70,2,4200,70',1,0,Jorelyn Carabalí (Colombia) Goal at 70',Jorelyn Carabalí Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,325886.0,2025-07-23 04:39:13
+13144,727425,14,45502091,70,2,4200,70',1,0,Jorelyn Carabalí (Colombia) Goal at 70',Jorelyn Carabalí Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,312831.0,2025-07-23 04:39:13
+13144,727425,15,45502099,76,2,4200,70',0,0,Marlene Flores (Bolivia) Substitution at 70',Marlene Flores Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,1,344784.0,2025-07-23 04:39:13
+13144,727425,15,45502099,76,2,4200,70',0,0,Marlene Flores (Bolivia) Substitution at 70',Marlene Flores Substitution,18772,0.0,0.0,0.0,0.0,0.0,0.0,2,406357.0,2025-07-23 04:39:13
+13144,727425,16,45502106,76,2,4260,71',0,0,Ángela Barón (Colombia) Substitution at 71',Ángela Barón Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,336427.0,2025-07-23 04:39:13
+13144,727425,16,45502106,76,2,4260,71',0,0,Ángela Barón (Colombia) Substitution at 71',Ángela Barón Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298692.0,2025-07-23 04:39:13
+13144,727425,17,45502237,70,2,5400,90'+3',1,0,Valerin Loboa (Colombia) Goal at 93',Valerin Loboa Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,406262.0,2025-07-23 04:39:13
+13144,727426,1,45502772,70,1,1620,27',1,0,Yasmim (Brazil) Goal at 27',Yasmim Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,268328.0,2025-07-23 04:39:13
+13144,727426,2,45502852,94,1,2100,35',0,0,Camila Gómez (Paraguay) Yellow Card at 35',Camila Gómez Yellow Card,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,344791.0,2025-07-23 04:39:13
+13144,727426,3,45502896,70,1,2340,39',1,0,Yasmim (Brazil) Goal at 39',Yasmim Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,268328.0,2025-07-23 04:39:13
+13144,727426,4,45502938,94,1,2580,43',0,0,Isadora Haas (Brazil) Yellow Card at 43',Isadora Haas Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,344296.0,2025-07-23 04:39:13
+13144,727426,6,45503179,76,2,2700,45',0,0,Fátima Dutra (Brazil) Substitution at 45',Fátima Dutra Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,403469.0,2025-07-23 04:39:13
+13144,727426,5,45503171,76,2,2700,45',0,0,Angelina (Brazil) Substitution at 45',Angelina Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,316035.0,2025-07-23 04:39:13
+13144,727426,5,45503171,76,2,2700,45',0,0,Angelina (Brazil) Substitution at 45',Angelina Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,281475.0,2025-07-23 04:39:13
+13144,727426,6,45503179,76,2,2700,45',0,0,Fátima Dutra (Brazil) Substitution at 45',Fátima Dutra Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,268328.0,2025-07-23 04:39:13
+13144,727426,7,45503205,93,2,3000,50',0,0,Camila Gómez (Paraguay) Red Card at 50',Camila Gómez Red Card,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,344791.0,2025-07-23 04:39:13
+13144,727426,8,45503217,76,2,3240,54',0,0,Daysy Bareiro (Paraguay) Substitution at 54',Daysy Bareiro Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,298697.0,2025-07-23 04:39:13
+13144,727426,8,45503217,76,2,3240,54',0,0,Daysy Bareiro (Paraguay) Substitution at 54',Daysy Bareiro Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,407273.0,2025-07-23 04:39:13
+13144,727426,9,45503264,70,2,3600,60',1,0,Amanda Gutierres (Brazil) Goal at 60',Amanda Gutierres Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,344300.0,2025-07-23 04:39:13
+13144,727426,10,45503287,70,2,3900,65',1,0,Claudia Martínez (Paraguay) Goal at 65',Claudia Martínez Goal,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,387216.0,2025-07-23 04:39:13
+13144,727426,11,45503299,76,2,3900,65',0,0,Dudinha (Brazil) Substitution at 65',Dudinha Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-07-23 04:39:13
+13144,727426,12,45503300,76,2,3900,65',0,0,Jhonson (Brazil) Substitution at 65',Jhonson Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,351913.0,2025-07-23 04:39:13
+13144,727426,11,45503299,76,2,3900,65',0,0,Dudinha (Brazil) Substitution at 65',Dudinha Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-07-23 04:39:13
+13144,727426,12,45503300,76,2,3900,65',0,0,Jhonson (Brazil) Substitution at 65',Jhonson Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,305982.0,2025-07-23 04:39:13
+13144,727426,13,45503340,70,2,4500,75',1,0,Duda Sampaio (Brazil) Goal at 75',Duda Sampaio Goal,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,343577.0,2025-07-23 04:39:13
+13144,727426,14,45503363,76,2,4560,76',0,0,Fatima Acosta (Paraguay) Substitution at 76',Fatima Acosta Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,344797.0,2025-07-23 04:39:13
+13144,727426,16,45503365,76,2,4560,76',0,0,Deisy Ojeda (Paraguay) Substitution at 76',Deisy Ojeda Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,298720.0,2025-07-23 04:39:13
+13144,727426,15,45503364,76,2,4560,76',0,0,Diana Benítez (Paraguay) Substitution at 76',Diana Benítez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,387215.0,2025-07-23 04:39:13
+13144,727426,14,45503363,76,2,4560,76',0,0,Fatima Acosta (Paraguay) Substitution at 76',Fatima Acosta Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,387216.0,2025-07-23 04:39:13
+13144,727426,15,45503364,76,2,4560,76',0,0,Diana Benítez (Paraguay) Substitution at 76',Diana Benítez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,298705.0,2025-07-23 04:39:13
+13144,727426,16,45503365,76,2,4560,76',0,0,Deisy Ojeda (Paraguay) Substitution at 76',Deisy Ojeda Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,327726.0,2025-07-23 04:39:13
+13144,727426,17,45503366,76,2,4740,79',0,0,Kaká (Brazil) Substitution at 79',Kaká Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,393349.0,2025-07-23 04:39:13
+13144,727426,17,45503366,76,2,4740,79',0,0,Kaká (Brazil) Substitution at 79',Kaká Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,361504.0,2025-07-23 04:39:13
+13144,727426,17,45503366,76,2,4740,79',0,0,Kaká (Brazil) Substitution at 79',Kaká Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,329921.0,2025-07-23 04:39:13
+13144,727426,17,45503366,76,2,4740,79',0,0,Kaká (Brazil) Substitution at 79',Kaká Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,319716.0,2025-07-23 04:39:13
+13144,727426,17,45503366,76,2,4740,79',0,0,Kaká (Brazil) Substitution at 79',Kaká Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,197610.0,2025-07-23 04:39:13
+13144,727426,17,45503366,76,2,4740,79',0,0,Kaká (Brazil) Substitution at 79',Kaká Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,402871.0,2025-07-23 04:39:13
+13144,727426,18,45503442,76,2,5160,86',0,0,Naomi De León (Paraguay) Substitution at 86',Naomi De León Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,387214.0,2025-07-23 04:39:13
+13144,727426,18,45503442,76,2,5160,86',0,0,Naomi De León (Paraguay) Substitution at 86',Naomi De León Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,380722.0,2025-07-23 04:39:13
+13144,727426,19,45503443,94,2,5220,87',0,0,Jhonson (Brazil) Yellow Card at 87',Jhonson Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,351913.0,2025-07-23 04:39:13
+13144,727427,1,45513076,94,1,420,7',0,0,Carina Felipe (Uruguay) Yellow Card at 7',Carina Felipe Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286615.0,2025-07-25 04:48:14
+13144,727427,2,45513083,94,1,720,12',0,0,Camila Sáez (Chile) Yellow Card at 12',Camila Sáez Yellow Card,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,264860.0,2025-07-25 04:48:14
+13144,727427,3,45513169,98,1,2400,40',1,0,Pamela González (Uruguay) Penalty - Scored at 40',Pamela González Penalty - Scored,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286622.0,2025-07-25 04:48:14
+13144,727427,4,45513301,76,2,2700,45',0,0,Yesenia López (Chile) Substitution at 45',Yesenia López Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,264858.0,2025-07-25 04:48:14
+13144,727427,4,45513301,76,2,2700,45',0,0,Yesenia López (Chile) Substitution at 45',Yesenia López Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,319206.0,2025-07-25 04:48:14
+13144,727427,5,45513383,76,2,3480,58',0,0,Alaides Bonilla (Uruguay) Substitution at 58',Alaides Bonilla Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,386972.0,2025-07-25 04:48:14
+13144,727427,5,45513383,76,2,3480,58',0,0,Alaides Bonilla (Uruguay) Substitution at 58',Alaides Bonilla Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,288744.0,2025-07-25 04:48:14
+13144,727427,6,45513423,70,2,3900,65',1,0,Wendy Carballo (Uruguay) Goal at 65',Wendy Carballo Goal,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,296589.0,2025-07-25 04:48:14
+13144,727427,7,45513430,76,2,4080,68',0,0,Yamila Dornelles (Uruguay) Substitution at 68',Yamila Dornelles Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,407189.0,2025-07-25 04:48:14
+13144,727427,7,45513430,76,2,4080,68',0,0,Yamila Dornelles (Uruguay) Substitution at 68',Yamila Dornelles Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,327984.0,2025-07-25 04:48:14
+13144,727427,9,45513454,76,2,4260,71',0,0,Vaitiare Pardo (Chile) Substitution at 71',Vaitiare Pardo Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,400637.0,2025-07-25 04:48:14
+13144,727427,8,45513452,76,2,4260,71',0,0,Pamela Cabezas (Chile) Substitution at 71',Pamela Cabezas Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,394326.0,2025-07-25 04:48:14
+13144,727427,9,45513454,76,2,4260,71',0,0,Vaitiare Pardo (Chile) Substitution at 71',Vaitiare Pardo Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,264863.0,2025-07-25 04:48:14
+13144,727427,8,45513452,76,2,4260,71',0,0,Pamela Cabezas (Chile) Substitution at 71',Pamela Cabezas Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,276133.0,2025-07-25 04:48:14
+13144,727427,10,45513465,70,2,4380,73',1,0,Wendy Carballo (Uruguay) Goal at 73',Wendy Carballo Goal,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,296589.0,2025-07-25 04:48:14
+13144,727427,11,45513482,76,2,4560,76',0,0,Sindy Ramírez (Uruguay) Substitution at 76',Sindy Ramírez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,296593.0,2025-07-25 04:48:14
+13144,727427,11,45513482,76,2,4560,76',0,0,Sindy Ramírez (Uruguay) Substitution at 76',Sindy Ramírez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,296589.0,2025-07-25 04:48:14
+13144,727427,13,45513489,94,2,4620,77',0,0,Pamela González (Uruguay) Yellow Card at 77',Pamela González Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,286622.0,2025-07-25 04:48:14
+13144,727427,12,45513483,76,2,4620,77',0,0,Ángela Gómez (Uruguay) Substitution at 77',Ángela Gómez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,407187.0,2025-07-25 04:48:14
+13144,727427,12,45513483,76,2,4620,77',0,0,Ángela Gómez (Uruguay) Substitution at 77',Ángela Gómez Substitution,19960,0.0,0.0,0.0,0.0,0.0,0.0,2,286615.0,2025-07-25 04:48:14
+13144,727427,14,45513534,76,2,5220,87',0,0,Claudia Salfate (Chile) Substitution at 87',Claudia Salfate Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,327669.0,2025-07-25 04:48:14
+13144,727427,14,45513534,76,2,5220,87',0,0,Claudia Salfate (Chile) Substitution at 87',Claudia Salfate Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,327671.0,2025-07-25 04:48:14
+13144,727427,15,45513535,94,2,5280,88',0,0,Stephanie Tregartten (Uruguay) Yellow Card at 88',Stephanie Tregartten Yellow Card,19960,0.0,0.0,0.0,0.0,0.0,0.0,1,327696.0,2025-07-25 04:48:14
+13144,727428,1,45513091,70,1,1140,19',1,0,Kishi Núñez (Argentina) Goal at 19',Kishi Núñez Goal,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,384866.0,2025-07-25 04:48:14
+13144,727428,2,45513111,94,1,1620,27',0,0,Catalina Roggerone (Argentina) Yellow Card at 27',Catalina Roggerone Yellow Card,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,336425.0,2025-07-25 04:48:14
+13144,727428,3,45513243,94,1,2700,45'+7',0,0,Carolina Troncoso (Argentina) Yellow Card at 52',Carolina Troncoso Yellow Card,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,313737.0,2025-07-25 04:48:14
+13144,727428,5,45513421,76,2,3480,58',0,0,Maricel Pereyra (Argentina) Substitution at 58',Maricel Pereyra Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,331479.0,2025-07-25 04:48:14
+13144,727428,4,45513420,76,2,3480,58',0,0,Sofía Domínguez (Argentina) Substitution at 58',Sofía Domínguez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,384862.0,2025-07-25 04:48:14
+13144,727428,4,45513420,76,2,3480,58',0,0,Sofía Domínguez (Argentina) Substitution at 58',Sofía Domínguez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,336425.0,2025-07-25 04:48:14
+13144,727428,5,45513421,76,2,3480,58',0,0,Maricel Pereyra (Argentina) Substitution at 58',Maricel Pereyra Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,313737.0,2025-07-25 04:48:14
+13144,727428,6,45513415,76,2,3540,59',0,0,Joselyn Espinales (Ecuador) Substitution at 59',Joselyn Espinales Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,331488.0,2025-07-25 04:48:14
+13144,727428,6,45513415,76,2,3540,59',0,0,Joselyn Espinales (Ecuador) Substitution at 59',Joselyn Espinales Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,310929.0,2025-07-25 04:48:14
+13144,727428,7,45513422,94,2,3600,60',0,0,Kishi Núñez (Argentina) Yellow Card at 60',Kishi Núñez Yellow Card,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,384866.0,2025-07-25 04:48:14
+13144,727428,9,45513462,76,2,4080,68',0,0,Yamila Rodríguez (Argentina) Substitution at 68',Yamila Rodríguez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284163.0,2025-07-25 04:48:14
+13144,727428,10,45513463,76,2,4080,68',0,0,Evelyn Burgos (Ecuador) Substitution at 68',Evelyn Burgos Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,386715.0,2025-07-25 04:48:14
+13144,727428,8,45513455,76,2,4080,68',0,0,Florencia Bonsegundo (Argentina) Substitution at 68',Florencia Bonsegundo Substitutio,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284157.0,2025-07-25 04:48:14
+13144,727428,9,45513462,76,2,4080,68',0,0,Yamila Rodríguez (Argentina) Substitution at 68',Yamila Rodríguez Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,384866.0,2025-07-25 04:48:14
+13144,727428,8,45513455,76,2,4080,68',0,0,Florencia Bonsegundo (Argentina) Substitution at 68',Florencia Bonsegundo Substitutio,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,394352.0,2025-07-25 04:48:14
+13144,727428,10,45513463,76,2,4080,68',0,0,Evelyn Burgos (Ecuador) Substitution at 68',Evelyn Burgos Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,310927.0,2025-07-25 04:48:14
+13144,727428,11,45513464,76,2,4140,69',0,0,Nicole Charcopa (Ecuador) Substitution at 69',Nicole Charcopa Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310897.0,2025-07-25 04:48:14
+13144,727428,11,45513464,76,2,4140,69',0,0,Nicole Charcopa (Ecuador) Substitution at 69',Nicole Charcopa Substitution,17637,0.0,0.0,0.0,0.0,0.0,0.0,2,331489.0,2025-07-25 04:48:14
+13144,727428,12,45513473,70,2,4200,70',1,0,Florencia Bonsegundo (Argentina) Goal at 70',Florencia Bonsegundo Goal,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,284157.0,2025-07-25 04:48:14
+13144,727428,13,45513504,76,2,4680,78',0,0,Agostina Holzlieier (Argentina) Substitution at 78',Agostina Holzlieier Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,331481.0,2025-07-25 04:48:14
+13144,727428,13,45513504,76,2,4680,78',0,0,Agostina Holzlieier (Argentina) Substitution at 78',Agostina Holzlieier Substitution,2750,0.0,0.0,0.0,0.0,0.0,0.0,2,331482.0,2025-07-25 04:48:14
+13144,727428,14,45513520,94,2,4800,80',0,0,Betina Soriano (Argentina) Yellow Card at 80',Betina Soriano Yellow Card,2750,0.0,0.0,0.0,0.0,0.0,0.0,1,406322.0,2025-07-25 04:48:14
+13144,727428,16,45513592,94,2,5400,90'+1',0,0,Justine Cuadra (Ecuador) Yellow Card at 91',Justine Cuadra Yellow Card,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,310899.0,2025-07-25 04:48:14
+13144,727428,15,45513584,94,2,5400,90',0,0,Joselyn Espinales (Ecuador) Yellow Card at 90',Joselyn Espinales Yellow Card,17637,0.0,0.0,0.0,0.0,0.0,0.0,1,331488.0,2025-07-25 04:48:14
+13144,727429,1,45515450,93,1,1440,24',0,0,Lorena  (Brazil) Red Card at 24',Lorena  Red Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-07-26 04:40:39
+13144,727429,2,45515489,76,1,1680,28',0,0,Cláudia  (Brazil) Substitution at 28',Cláudia  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,403605.0,2025-07-26 04:40:39
+13144,727429,2,45515489,76,1,1680,28',0,0,Cláudia  (Brazil) Substitution at 28',Cláudia  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,396484.0,2025-07-26 04:40:39
+13144,727429,2,45515489,76,1,1680,28',0,0,Cláudia  (Brazil) Substitution at 28',Cláudia  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,351913.0,2025-07-26 04:40:39
+13144,727429,3,45515506,94,1,1860,31',0,0,Ilana Izquierdo (Colombia) Yellow Card at 31',Ilana Izquierdo Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298767.0,2025-07-26 04:40:39
+13144,727429,4,45515542,94,1,2220,37',0,0,Kerolin  (Brazil) Yellow Card at 37',Kerolin  Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,281475.0,2025-07-26 04:40:39
+13144,727429,5,45516055,94,2,3720,62',0,0,Ary Borges  (Brazil) Yellow Card at 62',Ary Borges  Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,319246.0,2025-07-26 04:40:39
+13144,727429,6,45516073,76,2,3780,63',0,0,Manuela Paví (Colombia) Substitution at 63',Manuela Paví Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298775.0,2025-07-26 04:40:39
+13144,727429,7,45516074,76,2,3780,63',0,0,Catalina Usme (Colombia) Substitution at 63',Catalina Usme Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,158882.0,2025-07-26 04:40:39
+13144,727429,7,45516074,76,2,3780,63',0,0,Catalina Usme (Colombia) Substitution at 63',Catalina Usme Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,219866.0,2025-07-26 04:40:39
+13144,727429,6,45516073,76,2,3780,63',0,0,Manuela Paví (Colombia) Substitution at 63',Manuela Paví Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,288680.0,2025-07-26 04:40:39
+13144,727429,9,45516131,76,2,4020,67',0,0,Duda Sampaio (Brazil) Substitution at 67',Duda Sampaio Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,343577.0,2025-07-26 04:40:39
+13144,727429,8,45516130,76,2,4020,67',0,0,Giovana  (Brazil) Substitution at 67',Giovana  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,305982.0,2025-07-26 04:40:39
+13144,727429,8,45516130,76,2,4020,67',0,0,Giovana  (Brazil) Substitution at 67',Giovana  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,281475.0,2025-07-26 04:40:39
+13144,727429,9,45516131,76,2,4020,67',0,0,Duda Sampaio (Brazil) Substitution at 67',Duda Sampaio Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,319246.0,2025-07-26 04:40:39
+13144,727429,11,45516178,76,2,4320,72',0,0,Daniela Montoya (Colombia) Substitution at 72',Daniela Montoya Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,158872.0,2025-07-26 04:40:39
+13144,727429,10,45516177,76,2,4320,72',0,0,Mary Álvarez (Colombia) Substitution at 72',Mary Álvarez Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,352072.0,2025-07-26 04:40:39
+13144,727429,10,45516177,76,2,4320,72',0,0,Mary Álvarez (Colombia) Substitution at 72',Mary Álvarez Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298692.0,2025-07-26 04:40:39
+13144,727429,11,45516178,76,2,4320,72',0,0,Daniela Montoya (Colombia) Substitution at 72',Daniela Montoya Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298767.0,2025-07-26 04:40:39
+13144,727429,12,45516276,76,2,4740,79',0,0,Marta  (Brazil) Substitution at 79',Marta  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-07-26 04:40:39
+13144,727429,12,45516276,76,2,4740,79',0,0,Marta  (Brazil) Substitution at 79',Marta  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-07-26 04:40:39
+13144,727429,13,45516286,76,2,4800,80',0,0,Vitória Yaya  (Brazil) Substitution at 80',Vitória Yaya  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1,296481.0,2025-07-26 04:40:39
+13144,727429,13,45516286,76,2,4800,80',0,0,Vitória Yaya  (Brazil) Substitution at 80',Vitória Yaya  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2,316035.0,2025-07-26 04:40:39
+13144,727430,1,45515559,70,1,2400,40',1,0,Oriana Altuve (Venezuela) Goal at 40',Oriana Altuve Goal,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330681.0,2025-07-26 04:40:39
+13144,727430,2,45515578,94,1,2460,41',0,0,Raiderlin Carrasco (Venezuela) Yellow Card at 41',Raiderlin Carrasco Yellow Card,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,343666.0,2025-07-26 04:40:39
+13144,727430,5,45515799,76,2,2700,45',0,0,Naomi De León (Paraguay) Substitution at 45',Naomi De León Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,387214.0,2025-07-26 04:40:39
+13144,727430,3,45515618,93,1,2700,45'+2',0,0,Dayana Rodríguez (Venezuela) Red Card at 47',Dayana Rodríguez Red Card,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330686.0,2025-07-26 04:40:39
+13144,727430,4,45515787,76,2,2700,45',0,0,Mariana Speckmaier (Venezuela) Substitution at 45',Mariana Speckmaier Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,261759.0,2025-07-26 04:40:39
+13144,727430,4,45515787,76,2,2700,45',0,0,Mariana Speckmaier (Venezuela) Substitution at 45',Mariana Speckmaier Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,343666.0,2025-07-26 04:40:39
+13144,727430,5,45515799,76,2,2700,45',0,0,Naomi De León (Paraguay) Substitution at 45',Naomi De León Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,380720.0,2025-07-26 04:40:39
+13144,727430,6,45515837,94,2,2940,49',0,0,Bárbara Olivieri (Venezuela) Yellow Card at 49',Bárbara Olivieri Yellow Card,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,308484.0,2025-07-26 04:40:39
+13144,727430,7,45515881,94,2,2940,49',0,0,Daysy Bareiro (Paraguay) Yellow Card at 49',Daysy Bareiro Yellow Card,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,298697.0,2025-07-26 04:40:39
+13144,727430,8,45515882,76,2,3120,52',0,0,Joemar Guarecuco (Venezuela) Substitution at 52',Joemar Guarecuco Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330698.0,2025-07-26 04:40:39
+13144,727430,8,45515882,76,2,3120,52',0,0,Joemar Guarecuco (Venezuela) Substitution at 52',Joemar Guarecuco Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,308484.0,2025-07-26 04:40:39
+13144,727430,9,45515916,76,2,3300,55',0,0,Fatima Acosta (Paraguay) Substitution at 55',Fatima Acosta Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,344797.0,2025-07-26 04:40:39
+13144,727430,9,45515916,76,2,3300,55',0,0,Fatima Acosta (Paraguay) Substitution at 55',Fatima Acosta Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,387217.0,2025-07-26 04:40:39
+13144,727430,11,45515988,76,2,3600,60',0,0,Yerliane Moreno (Venezuela) Substitution at 60',Yerliane Moreno Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,330682.0,2025-07-26 04:40:39
+13144,727430,10,45515987,76,2,3600,60',0,0,Melanie Chirinos (Venezuela) Substitution at 60',Melanie Chirinos Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,404632.0,2025-07-26 04:40:39
+13144,727430,11,45515988,76,2,3600,60',0,0,Yerliane Moreno (Venezuela) Substitution at 60',Yerliane Moreno Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,330693.0,2025-07-26 04:40:39
+13144,727430,10,45515987,76,2,3600,60',0,0,Melanie Chirinos (Venezuela) Substitution at 60',Melanie Chirinos Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,331160.0,2025-07-26 04:40:39
+13144,727430,12,45516025,70,2,3840,64',1,0,Fatima Acosta (Paraguay) Goal at 64',Fatima Acosta Goal,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,344797.0,2025-07-26 04:40:39
+13144,727430,13,45516123,76,2,4260,71',0,0,Fiorella Martínez (Paraguay) Substitution at 71',Fiorella Martínez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,327726.0,2025-07-26 04:40:39
+13144,727430,13,45516123,76,2,4260,71',0,0,Fiorella Martínez (Paraguay) Substitution at 71',Fiorella Martínez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,298720.0,2025-07-26 04:40:39
+13144,727430,14,45516124,76,2,4320,72',0,0,Floriangel Apóstol (Venezuela) Substitution at 72',Floriangel Apóstol Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,393898.0,2025-07-26 04:40:39
+13144,727430,14,45516124,76,2,4320,72',0,0,Floriangel Apóstol (Venezuela) Substitution at 72',Floriangel Apóstol Substitution,20914,0.0,0.0,0.0,0.0,0.0,0.0,2,242145.0,2025-07-26 04:40:39
+13144,727430,15,45516189,94,2,4620,77',0,0,Floriangel Apóstol (Venezuela) Yellow Card at 77',Floriangel Apóstol Yellow Card,20914,0.0,0.0,0.0,0.0,0.0,0.0,1,393898.0,2025-07-26 04:40:39
+13144,727430,16,45516200,76,2,4680,78',0,0,Jessica Martínez (Paraguay) Substitution at 78',Jessica Martínez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,298703.0,2025-07-26 04:40:39
+13144,727430,17,45516221,76,2,4680,78',0,0,Fanny Godoy (Paraguay) Substitution at 78',Fanny Godoy Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,298701.0,2025-07-26 04:40:39
+13144,727430,16,45516200,76,2,4680,78',0,0,Jessica Martínez (Paraguay) Substitution at 78',Jessica Martínez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,327727.0,2025-07-26 04:40:39
+13144,727430,17,45516221,76,2,4680,78',0,0,Fanny Godoy (Paraguay) Substitution at 78',Fanny Godoy Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,387212.0,2025-07-26 04:40:39
+13144,727430,18,45516277,70,2,5040,84',1,0,Claudia Martínez (Paraguay) Goal at 84',Claudia Martínez Goal,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,387216.0,2025-07-26 04:40:39
+13143,727432,1,45533006,94,1,1140,19',0,0,Fernanda Pinilla (Chile) Yellow Card at 19',Fernanda Pinilla Yellow Card,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,264856.0,2025-07-30 04:39:52
+13143,727432,2,45533078,76,2,2700,45',0,0,Rosario Balmaceda (Chile) Substitution at 45',Rosario Balmaceda Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,264863.0,2025-07-30 04:39:52
+13143,727432,2,45533078,76,2,2700,45',0,0,Rosario Balmaceda (Chile) Substitution at 45',Rosario Balmaceda Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,327671.0,2025-07-30 04:39:52
+13143,727432,3,45533127,94,2,3480,58',0,0,Fiorella Martínez (Paraguay) Yellow Card at 58',Fiorella Martínez Yellow Card,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,327726.0,2025-07-30 04:39:52
+13143,727432,4,45533149,94,2,3840,64',0,0,Yastin Jiménez (Chile) Yellow Card at 64',Yastin Jiménez Yellow Card,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,296485.0,2025-07-30 04:39:52
+13143,727432,5,45533154,76,2,3960,66',0,0,Yenny Acuña (Chile) Substitution at 66',Yenny Acuña Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,319206.0,2025-07-30 04:39:52
+13143,727432,5,45533154,76,2,3960,66',0,0,Yenny Acuña (Chile) Substitution at 66',Yenny Acuña Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,296485.0,2025-07-30 04:39:52
+13143,727432,6,45533195,76,2,4560,76',0,0,Deisy Ojeda (Paraguay) Substitution at 76',Deisy Ojeda Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,298720.0,2025-07-30 04:39:52
+13143,727432,6,45533195,76,2,4560,76',0,0,Deisy Ojeda (Paraguay) Substitution at 76',Deisy Ojeda Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,327726.0,2025-07-30 04:39:52
+13143,727432,7,45533209,76,2,4620,77',0,0,Yanara Aedo (Chile) Substitution at 77',Yanara Aedo Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,276133.0,2025-07-30 04:39:52
+13143,727432,8,45533210,76,2,4620,77',0,0,Jessica Martínez (Paraguay) Substitution at 77',Jessica Martínez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,298703.0,2025-07-30 04:39:52
+13143,727432,8,45533210,76,2,4620,77',0,0,Jessica Martínez (Paraguay) Substitution at 77',Jessica Martínez Substitution,20210,0.0,0.0,0.0,0.0,0.0,0.0,2,344797.0,2025-07-30 04:39:52
+13143,727432,7,45533209,76,2,4620,77',0,0,Yanara Aedo (Chile) Substitution at 77',Yanara Aedo Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,351944.0,2025-07-30 04:39:52
+13143,727432,9,45533262,76,2,5220,87',0,0,Claudia Salfate (Chile) Substitution at 87',Claudia Salfate Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,1,327669.0,2025-07-30 04:39:52
+13143,727432,9,45533262,76,2,5220,87',0,0,Claudia Salfate (Chile) Substitution at 87',Claudia Salfate Substitution,18848,0.0,0.0,0.0,0.0,0.0,0.0,2,400637.0,2025-07-30 04:39:52
+13143,727432,10,45533273,70,2,5400,90'+2',1,0,Camila Gómez (Paraguay) Goal at 92',Camila Gómez Goal,20210,0.0,0.0,0.0,0.0,0.0,0.0,1,344791.0,2025-07-30 04:39:52

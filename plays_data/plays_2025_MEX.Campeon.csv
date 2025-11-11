@@ -1,0 +1,33 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+13390,736033,1,45498474,70,Alejandro Zendejas (América) Goal at 1',Alejandro Zendejas Goal,1,60,1',227,0,0,2025-07-21 01:22:08,0.0,0.0,0.0,0.0,0.0,0.0,212824,Alejandro Zendejas,2025-07-21 04:39:12
+13390,736033,2,45498504,94,Marcel Ruiz (Toluca) Yellow Card at 9',Marcel Ruiz Yellow Card,1,540,9',223,0,0,2025-07-21 01:29:54,0.0,0.0,0.0,0.0,0.0,0.0,272395,Marcel Ruiz,2025-07-21 04:39:12
+13390,736033,3,45498513,70,Franco Romero (Toluca) Goal at 12',Franco Romero Goal,1,720,12',223,0,0,2025-07-21 01:32:53,0.0,0.0,0.0,0.0,0.0,0.0,128422,Franco Romero,2025-07-21 04:39:12
+13390,736033,4,45498555,94,Alexis Vega (Toluca) Yellow Card at 31',Alexis Vega Yellow Card,1,1860,31',223,0,0,2025-07-21 01:51:46,0.0,0.0,0.0,0.0,0.0,0.0,229487,Alexis Vega,2025-07-21 04:39:12
+13390,736033,5,45498567,94,Álvaro Fidalgo (América) Yellow Card at 36',Álvaro Fidalgo Yellow Card,1,2160,36',227,0,0,2025-07-21 01:56:35,0.0,0.0,0.0,0.0,0.0,0.0,283827,Álvaro Fidalgo,2025-07-21 04:39:12
+13390,736033,6,45498575,94,Isaías Violante (América) Yellow Card at 48',Isaías Violante Yellow Card,1,2700,45'+3',227,0,0,2025-07-21 02:08:17,0.0,0.0,0.0,0.0,0.0,0.0,308956,Isaías Violante,2025-07-21 04:39:12
+13390,736033,7,45498577,70,Bruno Méndez (Toluca) Goal at 50',Bruno Méndez Goal,1,2700,45'+5',223,0,0,2025-07-21 02:10:44,0.0,0.0,0.0,0.0,0.0,0.0,269902,Bruno Méndez,2025-07-21 04:39:12
+13390,736033,8,45498581,94,Franco Romero (Toluca) Yellow Card at 47',Franco Romero Yellow Card,2,2820,47',223,0,0,2025-07-21 02:33:42,0.0,0.0,0.0,0.0,0.0,0.0,128422,Franco Romero,2025-07-22 04:39:56
+13390,736033,9,45498582,76,Alexis Gutierrez (América) Substitution at 57',Alexis Gutierrez Substitution,2,3420,57',227,0,0,2025-07-21 02:43:49,0.0,0.0,0.0,0.0,0.0,0.0,265866,Alexis Gutierrez,2025-07-21 04:39:12
+13390,736033,9,45498582,76,Alexis Gutierrez (América) Substitution at 57',Alexis Gutierrez Substitution,2,3420,57',227,0,0,2025-07-21 02:43:49,0.0,0.0,0.0,0.0,0.0,0.0,285756,Sebastián Cáceres,2025-07-21 04:39:12
+13390,736033,10,45498583,76,Kevin Álvarez (América) Substitution at 58',Kevin Álvarez Substitution,2,3480,58',227,0,0,2025-07-21 02:44:04,0.0,0.0,0.0,0.0,0.0,0.0,195312,Kevin Álvarez,2025-07-21 04:39:12
+13390,736033,11,45498584,76,Raúl Zúñiga (América) Substitution at 58',Raúl Zúñiga Substitution,2,3480,58',227,0,0,2025-07-21 02:44:11,0.0,0.0,0.0,0.0,0.0,0.0,290853,Raúl Zúñiga,2025-07-21 04:39:12
+13390,736033,10,45498583,76,Kevin Álvarez (América) Substitution at 58',Kevin Álvarez Substitution,2,3480,58',227,0,0,2025-07-21 02:44:04,0.0,0.0,0.0,0.0,0.0,0.0,308956,Isaías Violante,2025-07-21 04:39:12
+13390,736033,11,45498584,76,Raúl Zúñiga (América) Substitution at 58',Raúl Zúñiga Substitution,2,3480,58',227,0,0,2025-07-21 02:44:11,0.0,0.0,0.0,0.0,0.0,0.0,129421,Érick Sánchez,2025-07-21 04:39:12
+13390,736033,12,45498585,94,Israel Reyes (América) Yellow Card at 60',Israel Reyes Yellow Card,2,3600,60',227,0,0,2025-07-21 02:46:20,0.0,0.0,0.0,0.0,0.0,0.0,290414,Israel Reyes,2025-07-21 04:39:12
+13390,736033,13,45498586,76,Nicolás (Toluca) Substitution at 64',Nicolás Substitution,2,3840,64',223,0,0,2025-07-21 02:50:09,0.0,0.0,0.0,0.0,0.0,0.0,57149,Nicolás Castro,2025-07-21 04:39:12
+13390,736033,13,45498586,76,Nicolás (Toluca) Substitution at 64',Nicolás Substitution,2,3840,64',223,0,0,2025-07-21 02:50:09,0.0,0.0,0.0,0.0,0.0,0.0,272395,Marcel Ruiz,2025-07-21 04:39:12
+13390,736033,14,45498587,70,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,2,4200,70',223,0,0,2025-07-21 02:55:59,0.0,0.0,0.0,0.0,0.0,0.0,189480,Paulinho,2025-07-22 04:39:56
+13390,736033,15,45498588,76,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,2,4380,73',223,0,0,2025-07-21 02:59:22,0.0,0.0,0.0,0.0,0.0,0.0,255942,Robert Morales,2025-07-21 04:39:12
+13390,736033,16,45498589,76,Helinho  (Toluca) Substitution at 73',Helinho  Substitution,2,4380,73',223,0,0,2025-07-21 02:59:23,0.0,0.0,0.0,0.0,0.0,0.0,266679,Helinho,2025-07-21 04:39:12
+13390,736033,15,45498588,76,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,2,4380,73',223,0,0,2025-07-21 02:59:22,0.0,0.0,0.0,0.0,0.0,0.0,189480,Paulinho,2025-07-21 04:39:12
+13390,736033,16,45498589,76,Helinho  (Toluca) Substitution at 73',Helinho  Substitution,2,4380,73',223,0,0,2025-07-21 02:59:23,0.0,0.0,0.0,0.0,0.0,0.0,282615,Jesús Angulo,2025-07-21 04:39:12
+13390,736033,17,45498590,94,Federico Pereira (Toluca) Yellow Card at 78',Federico Pereira Yellow Card,2,4680,78',223,0,0,2025-07-21 03:03:55,0.0,0.0,0.0,0.0,0.0,0.0,288735,Federico Pereira,2025-07-21 04:39:12
+13390,736033,18,45498592,76,Juan Domínguez (Toluca) Substitution at 88',Juan Domínguez Substitution,2,5280,88',223,0,0,2025-07-21 03:14:18,0.0,0.0,0.0,0.0,0.0,0.0,356574,Juan Domínguez,2025-07-21 04:39:12
+13390,736033,18,45498592,76,Juan Domínguez (Toluca) Substitution at 88',Juan Domínguez Substitution,2,5280,88',223,0,0,2025-07-21 03:14:18,0.0,0.0,0.0,0.0,0.0,0.0,266679,Helinho,2025-07-21 04:39:12
+13390,736033,19,45498593,93,Igor Lichnovsky (América) Red Card at 89',Igor Lichnovsky Red Card,2,5340,89',227,0,0,2025-07-21 03:15:48,0.0,0.0,0.0,0.0,0.0,0.0,167681,Igor Lichnovsky,2025-07-21 04:39:12
+13390,736033,20,45498594,76,Héctor Herrera (Toluca) Substitution at 91',Héctor Herrera Substitution,2,5400,90'+1',223,0,0,2025-07-21 03:16:55,0.0,0.0,0.0,0.0,0.0,0.0,146866,Héctor Herrera,2025-07-21 04:39:12
+13390,736033,21,45498595,76,Ramón Juarez (América) Substitution at 94',Ramón Juarez Substitution,2,5400,90'+4',227,0,0,2025-07-21 03:20:07,0.0,0.0,0.0,0.0,0.0,0.0,307891,Ramón Juarez,2025-07-21 04:39:12
+13390,736033,22,45498596,76,Alan Cervantes (América) Substitution at 94',Alan Cervantes Substitution,2,5400,90'+4',227,0,0,2025-07-21 03:20:08,0.0,0.0,0.0,0.0,0.0,0.0,228351,Alan Cervantes,2025-07-21 04:39:12
+13390,736033,20,45498594,76,Héctor Herrera (Toluca) Substitution at 91',Héctor Herrera Substitution,2,5400,90'+1',223,0,0,2025-07-21 03:16:55,0.0,0.0,0.0,0.0,0.0,0.0,229487,Alexis Vega,2025-07-21 04:39:12
+13390,736033,21,45498595,76,Ramón Juarez (América) Substitution at 94',Ramón Juarez Substitution,2,5400,90'+4',227,0,0,2025-07-21 03:20:07,0.0,0.0,0.0,0.0,0.0,0.0,283827,Álvaro Fidalgo,2025-07-21 04:39:12
+13390,736033,22,45498596,76,Alan Cervantes (América) Substitution at 94',Alan Cervantes Substitution,2,5400,90'+4',227,0,0,2025-07-21 03:20:08,0.0,0.0,0.0,0.0,0.0,0.0,212824,Alejandro Zendejas,2025-07-21 04:39:12

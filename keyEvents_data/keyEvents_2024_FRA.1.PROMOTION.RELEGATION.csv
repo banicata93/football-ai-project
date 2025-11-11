@@ -1,0 +1,103 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13355,735804,1,45301211,94,1,2160,36',0,0,Valentin Atangana (Stade de Reims) Yellow Card at 36',Valentin Atangana Yellow Card,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,359165.0,2025-05-22 01:24:18
+13355,735804,2,45301212,70,1,2280,38',1,0,Matthieu Udol (Metz) Goal at 38',Matthieu Udol Goal,177,0.0,0.0,0.0,0.0,0.0,0.0,1,233199.0,2025-05-22 01:24:18
+13355,735804,4,45301219,76,2,2700,45',0,0,Oumar Diakité (Stade de Reims) Substitution at 45',Oumar Diakité Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,329483.0,2025-05-22 01:24:18
+13355,735804,3,45301218,76,2,2700,45',0,0,Amadou Koné (Stade de Reims) Substitution at 45',Amadou Koné Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,375052.0,2025-05-22 01:24:18
+13355,735804,3,45301218,76,2,2700,45',0,0,Amadou Koné (Stade de Reims) Substitution at 45',Amadou Koné Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,2,359165.0,2025-05-22 01:24:18
+13355,735804,4,45301219,76,2,2700,45',0,0,Oumar Diakité (Stade de Reims) Substitution at 45',Oumar Diakité Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,2,313053.0,2025-05-22 01:24:18
+13355,735804,5,45301240,70,2,3120,52',1,0,Cedric Kipre (Stade de Reims) Goal at 52',Cedric Kipre Goal,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,243648.0,2025-05-22 01:24:18
+13355,735804,6,45301254,94,2,3420,57',0,0,Mory Gbane (Stade de Reims) Yellow Card at 57',Mory Gbane Yellow Card,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,345470.0,2025-05-22 01:24:18
+13355,735804,7,45301259,94,2,3540,59',0,0,Cedric Kipre (Stade de Reims) Yellow Card at 59',Cedric Kipre Yellow Card,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,243648.0,2025-05-22 01:24:18
+13355,735804,8,45301266,76,2,3720,62',0,0,Gabriel Moscardo (Stade de Reims) Substitution at 62',Gabriel Moscardo Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,361468.0,2025-05-22 01:24:18
+13355,735804,8,45301266,76,2,3720,62',0,0,Gabriel Moscardo (Stade de Reims) Substitution at 62',Gabriel Moscardo Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,2,372081.0,2025-05-22 01:24:18
+13355,735804,9,45301292,76,2,4320,72',0,0,Hafiz Ibrahim (Stade de Reims) Substitution at 72',Hafiz Ibrahim Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,359275.0,2025-05-22 01:24:18
+13355,735804,9,45301292,76,2,4320,72',0,0,Hafiz Ibrahim (Stade de Reims) Substitution at 72',Hafiz Ibrahim Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,2,216035.0,2025-05-22 01:24:18
+13355,735804,10,45301302,76,2,4500,75',0,0,Pape Diallo (Metz) Substitution at 75',Pape Diallo Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,362253.0,2025-05-22 01:24:18
+13355,735804,11,45301303,76,2,4500,75',0,0,Idrissa Gueye (Metz) Substitution at 75',Idrissa Gueye Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,144517.0,2025-05-22 01:24:18
+13355,735804,11,45301303,76,2,4500,75',0,0,Idrissa Gueye (Metz) Substitution at 75',Idrissa Gueye Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,377170.0,2025-05-22 01:24:18
+13355,735804,11,45301303,76,2,4500,75',0,0,Idrissa Gueye (Metz) Substitution at 75',Idrissa Gueye Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,2,321999.0,2025-05-22 01:24:18
+13355,735804,10,45301302,76,2,4500,75',0,0,Pape Diallo (Metz) Substitution at 75',Pape Diallo Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,2,382759.0,2025-05-22 01:24:18
+13355,735804,13,45301318,76,2,4980,83',0,0,Abdoulie Jallow (Metz) Substitution at 83',Abdoulie Jallow Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,247953.0,2025-05-22 01:24:18
+13355,735804,13,45301318,76,2,4980,83',0,0,Abdoulie Jallow (Metz) Substitution at 83',Abdoulie Jallow Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,259020.0,2025-05-22 01:24:18
+13355,735804,12,45301316,76,2,4980,83',0,0,Alpha Touré (Metz) Substitution at 83',Alpha Touré Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,376483.0,2025-05-22 01:24:18
+13355,735804,12,45301316,76,2,4980,83',0,0,Alpha Touré (Metz) Substitution at 83',Alpha Touré Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,2,276451.0,2025-05-22 01:24:18
+13355,735804,13,45301318,76,2,4980,83',0,0,Abdoulie Jallow (Metz) Substitution at 83',Abdoulie Jallow Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,2,265200.0,2025-05-22 01:24:18
+13355,735804,14,45301342,94,2,5400,90'+2',0,0,Sadibou Sané (Metz) Yellow Card at 92',Sadibou Sané Yellow Card,177,0.0,0.0,0.0,0.0,0.0,0.0,1,362288.0,2025-05-22 01:24:18
+13355,735804,15,45301347,76,2,5400,90'+5',0,0,Nhoa Sangui (Stade de Reims) Substitution at 95',Nhoa Sangui Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,371471.0,2025-05-22 01:24:18
+13355,735804,15,45301347,76,2,5400,90'+5',0,0,Nhoa Sangui (Stade de Reims) Substitution at 95',Nhoa Sangui Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,2,265953.0,2025-05-22 01:24:18
+13355,735805,1,45334403,94,1,2280,38',0,0,Sergio Akieme (Stade de Reims) Yellow Card at 38',Sergio Akieme Yellow Card,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,231918.0,2025-05-31 04:50:57
+13355,735805,2,45334432,70,2,3420,57',1,0,Ange Tia (Stade de Reims) Goal at 57',Ange Tia Goal,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,372081.0,2025-05-31 04:50:57
+13355,735805,3,45334440,76,2,3780,63',0,0,Pape Diallo (Metz) Substitution at 63',Pape Diallo Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,362253.0,2025-05-31 04:50:57
+13355,735805,4,45334442,76,2,3780,63',0,0,Alpha Touré (Metz) Substitution at 63',Alpha Touré Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,376483.0,2025-05-31 04:50:57
+13355,735805,3,45334440,76,2,3780,63',0,0,Pape Diallo (Metz) Substitution at 63',Pape Diallo Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,2,321999.0,2025-05-31 04:50:57
+13355,735805,4,45334442,76,2,3780,63',0,0,Alpha Touré (Metz) Substitution at 63',Alpha Touré Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,2,265200.0,2025-05-31 04:50:57
+13355,735805,5,45334443,94,2,3840,64',0,0,Ange Tia (Stade de Reims) Yellow Card at 64',Ange Tia Yellow Card,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,372081.0,2025-05-31 04:50:57
+13355,735805,7,45334445,76,2,3900,65',0,0,Mamadou Diakhon (Stade de Reims) Substitution at 65',Mamadou Diakhon Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,362875.0,2025-05-31 04:50:57
+13355,735805,6,45334444,76,2,3900,65',0,0,Valentin Atangana (Stade de Reims) Substitution at 65',Valentin Atangana Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,359165.0,2025-05-31 04:50:57
+13355,735805,7,45334445,76,2,3900,65',0,0,Mamadou Diakhon (Stade de Reims) Substitution at 65',Mamadou Diakhon Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,2,372081.0,2025-05-31 04:50:57
+13355,735805,6,45334444,76,2,3900,65',0,0,Valentin Atangana (Stade de Reims) Substitution at 65',Valentin Atangana Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,2,375052.0,2025-05-31 04:50:57
+13355,735805,8,45334446,76,2,4260,71',0,0,Idrissa Gueye (Metz) Substitution at 71',Idrissa Gueye Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,144517.0,2025-05-31 04:50:57
+13355,735805,8,45334446,76,2,4260,71',0,0,Idrissa Gueye (Metz) Substitution at 71',Idrissa Gueye Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,377170.0,2025-05-31 04:50:57
+13355,735805,8,45334446,76,2,4260,71',0,0,Idrissa Gueye (Metz) Substitution at 71',Idrissa Gueye Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,2,382759.0,2025-05-31 04:50:57
+13355,735805,9,45334447,76,2,4320,72',0,0,Jordan Pefok (Stade de Reims) Substitution at 72',Jordan Pefok Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,216035.0,2025-05-31 04:50:57
+13355,735805,9,45334447,76,2,4320,72',0,0,Jordan Pefok (Stade de Reims) Substitution at 72',Jordan Pefok Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,2,329483.0,2025-05-31 04:50:57
+13355,735805,11,45334452,76,2,4620,77',0,0,Hiroki Sekine (Stade de Reims) Substitution at 77',Hiroki Sekine Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,365686.0,2025-05-31 04:50:57
+13355,735805,10,45334450,76,2,4620,77',0,0,John Finn (Stade de Reims) Substitution at 77',John Finn Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,313053.0,2025-05-31 04:50:57
+13355,735805,10,45334450,76,2,4620,77',0,0,John Finn (Stade de Reims) Substitution at 77',John Finn Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,2,345470.0,2025-05-31 04:50:57
+13355,735805,11,45334452,76,2,4620,77',0,0,Hiroki Sekine (Stade de Reims) Substitution at 77',Hiroki Sekine Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-05-31 04:50:57
+13355,735805,12,45334453,70,2,4680,78',1,0,Matthieu Udol (Metz) Goal at 78',Matthieu Udol Goal,177,0.0,0.0,0.0,0.0,0.0,0.0,1,233199.0,2025-05-31 04:50:57
+13355,735805,13,45334457,76,2,5040,84',0,0,Abdoulie Jallow (Metz) Substitution at 84',Abdoulie Jallow Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,247953.0,2025-05-31 04:50:57
+13355,735805,13,45334457,76,2,5040,84',0,0,Abdoulie Jallow (Metz) Substitution at 84',Abdoulie Jallow Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,259020.0,2025-05-31 04:50:57
+13355,735805,13,45334457,76,2,5040,84',0,0,Abdoulie Jallow (Metz) Substitution at 84',Abdoulie Jallow Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,2,276451.0,2025-05-31 04:50:57
+13355,735805,14,45334458,94,2,5100,85',0,0,Urie-Michel Mboula (Metz) Yellow Card at 85',Urie-Michel Mboula Yellow Card,177,0.0,0.0,0.0,0.0,0.0,0.0,1,370501.0,2025-05-31 04:50:57
+13355,735805,15,45334459,94,2,5220,87',0,0,Keito Nakamura (Stade de Reims) Yellow Card at 87',Keito Nakamura Yellow Card,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,265953.0,2025-05-31 04:50:57
+13355,735805,16,45334465,76,3,6180,103',0,0,Maxime Colin (Metz) Substitution at 103',Maxime Colin Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,150283.0,2025-05-31 04:50:57
+13355,735805,16,45334465,76,3,6180,103',0,0,Maxime Colin (Metz) Substitution at 103',Maxime Colin Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,2,257052.0,2025-05-31 04:50:57
+13355,735805,17,45334466,76,4,6300,105',0,0,Nhoa Sangui (Stade de Reims) Substitution at 105',Nhoa Sangui Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,1,371471.0,2025-05-31 04:50:57
+13355,735805,17,45334466,76,4,6300,105',0,0,Nhoa Sangui (Stade de Reims) Substitution at 105',Nhoa Sangui Substitution,3243,0.0,0.0,0.0,0.0,0.0,0.0,2,231918.0,2025-05-31 04:50:57
+13355,735805,18,45334467,70,4,6600,110',1,0,Alpha Touré (Metz) Goal at 110',Alpha Touré Goal,177,0.0,0.0,0.0,0.0,0.0,0.0,1,376483.0,2025-05-31 04:50:57
+13355,735805,19,45334468,70,4,6840,114',1,0,Gauthier Hein (Metz) Goal at 114',Gauthier Hein Goal,177,0.0,0.0,0.0,0.0,0.0,0.0,1,239905.0,2025-05-31 04:50:57
+13355,735805,20,45334469,94,4,6900,115',0,0,Gauthier Hein (Metz) Yellow Card at 115',Gauthier Hein Yellow Card,177,0.0,0.0,0.0,0.0,0.0,0.0,1,239905.0,2025-05-31 04:50:57
+13356,735732,1,45274638,76,1,1740,29',0,0,Allan Linguet (Dunkerque) Substitution at 29',Allan Linguet Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,283608.0,2025-05-18 04:53:38
+13356,735732,1,45274638,76,1,1740,29',0,0,Allan Linguet (Dunkerque) Substitution at 29',Allan Linguet Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,2,333319.0,2025-05-18 04:53:38
+13356,735732,2,45274639,94,1,1800,30',0,0,Jessy Deminguet (Metz) Yellow Card at 30',Jessy Deminguet Yellow Card,177,0.0,0.0,0.0,0.0,0.0,0.0,1,265200.0,2025-05-18 04:53:38
+13356,735732,3,45274762,94,2,2880,48',0,0,Koffi Kouao (Metz) Yellow Card at 48',Koffi Kouao Yellow Card,177,0.0,0.0,0.0,0.0,0.0,0.0,1,257052.0,2025-05-18 04:53:38
+13356,735732,4,45274767,94,2,2940,49',0,0,Gaetan Courtet (Dunkerque) Yellow Card at 49',Gaetan Courtet Yellow Card,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,155924.0,2025-05-18 04:53:38
+13356,735732,5,45274788,94,2,3360,56',0,0,Abner (Dunkerque) Yellow Card at 56',Abner Yellow Card,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,194072.0,2025-05-18 04:53:38
+13356,735732,5,45274788,94,2,3360,56',0,0,Abner (Dunkerque) Yellow Card at 56',Abner Yellow Card,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,285088.0,2025-05-18 04:53:38
+13356,735732,5,45274788,94,2,3360,56',0,0,Abner (Dunkerque) Yellow Card at 56',Abner Yellow Card,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,359217.0,2025-05-18 04:53:38
+13356,735732,6,45274798,93,2,3540,59',0,0,Opa Sanganté (Dunkerque) Red Card at 59',Opa Sanganté Red Card,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,197881.0,2025-05-18 04:53:38
+13356,735732,7,45274800,94,2,3600,60',0,0,Vincent Sasso (Dunkerque) Yellow Card at 60',Vincent Sasso Yellow Card,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,138563.0,2025-05-18 04:53:38
+13356,735732,8,45274805,76,2,3780,63',0,0,Abdoullah Ba (Dunkerque) Substitution at 63',Abdoullah Ba Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,56820.0,2025-05-18 04:53:38
+13356,735732,9,45274806,76,2,3780,63',0,0,Geoffrey Kondo (Dunkerque) Substitution at 63',Geoffrey Kondo Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,356912.0,2025-05-19 04:56:11
+13356,735732,8,45274805,76,2,3780,63',0,0,Abdoullah Ba (Dunkerque) Substitution at 63',Abdoullah Ba Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,2,275574.0,2025-05-18 04:53:38
+13356,735732,9,45274806,76,2,3780,63',0,0,Geoffrey Kondo (Dunkerque) Substitution at 63',Geoffrey Kondo Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,2,379012.0,2025-05-19 04:56:11
+13356,735732,10,45274811,76,2,4080,68',0,0,Idrissa Gueye (Metz) Substitution at 68',Idrissa Gueye Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,144517.0,2025-05-18 04:53:38
+13356,735732,10,45274811,76,2,4080,68',0,0,Idrissa Gueye (Metz) Substitution at 68',Idrissa Gueye Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,377170.0,2025-05-18 04:53:38
+13356,735732,10,45274811,76,2,4080,68',0,0,Idrissa Gueye (Metz) Substitution at 68',Idrissa Gueye Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,2,362253.0,2025-05-18 04:53:38
+13356,735732,11,45274813,76,2,4140,69',0,0,Abdoulie Jallow (Metz) Substitution at 69',Abdoulie Jallow Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,247953.0,2025-05-18 04:53:38
+13356,735732,11,45274813,76,2,4140,69',0,0,Abdoulie Jallow (Metz) Substitution at 69',Abdoulie Jallow Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,259020.0,2025-05-18 04:53:38
+13356,735732,11,45274813,76,2,4140,69',0,0,Abdoulie Jallow (Metz) Substitution at 69',Abdoulie Jallow Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,2,382759.0,2025-05-18 04:53:38
+13356,735732,12,45274826,76,2,4380,73',0,0,Benjamin Stambouli (Metz) Substitution at 73',Benjamin Stambouli Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,144280.0,2025-05-18 04:53:38
+13356,735732,12,45274826,76,2,4380,73',0,0,Benjamin Stambouli (Metz) Substitution at 73',Benjamin Stambouli Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,2,265200.0,2025-05-18 04:53:38
+13356,735732,13,45274836,76,2,4620,77',0,0,Yacine Bammou (Dunkerque) Substitution at 77',Yacine Bammou Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,207019.0,2025-05-18 04:53:38
+13356,735732,14,45274837,76,2,4620,77',0,0,Anton Sekongo (Dunkerque) Substitution at 77',Anton Sekongo Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,387789.0,2025-05-18 04:53:38
+13356,735732,14,45274837,76,2,4620,77',0,0,Anton Sekongo (Dunkerque) Substitution at 77',Anton Sekongo Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,2,334794.0,2025-05-18 04:53:38
+13356,735732,13,45274836,76,2,4620,77',0,0,Yacine Bammou (Dunkerque) Substitution at 77',Yacine Bammou Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,2,155924.0,2025-05-18 04:53:38
+13356,735732,15,45274864,76,2,5100,85',0,0,Kevin Guiton (Metz) Substitution at 85',Kevin Guiton Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,1,321999.0,2025-05-18 04:53:38
+13356,735732,15,45274864,76,2,5100,85',0,0,Kevin Guiton (Metz) Substitution at 85',Kevin Guiton Substitution,177,0.0,0.0,0.0,0.0,0.0,0.0,2,257052.0,2025-05-18 04:53:38
+13356,735732,16,45274898,97,2,5400,90'+3',1,0,Yacine Bammou (Dunkerque) Own Goal at 93',Yacine Bammou Own Goal,177,0.0,0.0,0.0,0.0,0.0,0.0,1,207019.0,2025-05-18 04:53:38
+13357,735731,1,45259829,70,2,2760,46',1,0,Maxence Rivera (Dunkerque) Goal at 46',Maxence Rivera Goal,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,301323.0,2025-05-15 04:53:13
+13357,735731,3,45260250,76,2,3960,66',0,0,Brighton Labeau (Guingamp) Substitution at 66',Brighton Labeau Substitution,171,0.0,0.0,0.0,0.0,0.0,0.0,1,259023.0,2025-05-15 04:53:13
+13357,735731,4,45260251,76,2,3960,66',0,0,Amadou Sagna (Guingamp) Substitution at 66',Amadou Sagna Substitution,171,0.0,0.0,0.0,0.0,0.0,0.0,1,287475.0,2025-05-15 04:53:13
+13357,735731,2,45260222,76,2,3960,66',0,0,Théo Le Bris (Guingamp) Substitution at 66',Théo Le Bris Substitution,171,0.0,0.0,0.0,0.0,0.0,0.0,1,325992.0,2025-05-15 04:53:13
+13357,735731,4,45260251,76,2,3960,66',0,0,Amadou Sagna (Guingamp) Substitution at 66',Amadou Sagna Substitution,171,0.0,0.0,0.0,0.0,0.0,0.0,2,332894.0,2025-05-15 04:53:13
+13357,735731,3,45260250,76,2,3960,66',0,0,Brighton Labeau (Guingamp) Substitution at 66',Brighton Labeau Substitution,171,0.0,0.0,0.0,0.0,0.0,0.0,2,317786.0,2025-05-15 04:53:13
+13357,735731,2,45260222,76,2,3960,66',0,0,Théo Le Bris (Guingamp) Substitution at 66',Théo Le Bris Substitution,171,0.0,0.0,0.0,0.0,0.0,0.0,2,356918.0,2025-05-15 04:53:13
+13357,735731,5,45260329,76,2,4320,72',0,0,Gessime Yassine (Dunkerque) Substitution at 72',Gessime Yassine Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,379012.0,2025-05-15 04:53:13
+13357,735731,5,45260329,76,2,4320,72',0,0,Gessime Yassine (Dunkerque) Substitution at 72',Gessime Yassine Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,2,56820.0,2025-05-15 04:53:13
+13357,735731,6,45260381,76,2,4680,78',0,0,Anton Sekongo (Dunkerque) Substitution at 78',Anton Sekongo Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,387789.0,2025-05-15 04:53:13
+13357,735731,7,45260382,76,2,4680,78',0,0,Severin Sabri Guendouz (Guingamp) Substitution at 78',Severin Sabri Guendouz Substitut,171,0.0,0.0,0.0,0.0,0.0,0.0,1,366334.0,2025-05-15 04:53:13
+13357,735731,6,45260381,76,2,4680,78',0,0,Anton Sekongo (Dunkerque) Substitution at 78',Anton Sekongo Substitution,7732,0.0,0.0,0.0,0.0,0.0,0.0,2,275574.0,2025-05-15 04:53:13
+13357,735731,7,45260382,76,2,4680,78',0,0,Severin Sabri Guendouz (Guingamp) Substitution at 78',Severin Sabri Guendouz Substitut,171,0.0,0.0,0.0,0.0,0.0,0.0,2,366337.0,2025-05-15 04:53:13
+13357,735731,8,45260523,94,2,5400,90'+5',0,0,Ewen Jaouen (Dunkerque) Yellow Card at 95',Ewen Jaouen Yellow Card,7732,0.0,0.0,0.0,0.0,0.0,0.0,1,347523.0,2025-05-15 04:53:13

@@ -1,0 +1,23 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13325,735764,1,45448431,94,1,900,15',0,0,Braian Romero (Vélez Sarsfield) Yellow Card at 15',Braian Romero Yellow Card,21,0.0,0.0,0.0,0.0,0.0,0.0,1,171861,2025-07-09 04:33:07
+13325,735764,2,45448432,94,1,900,15',0,0,Santiago Núñez (Estudiantes de La Plata) Yellow Card at 15',Santiago Núñez Yellow Card,8,0.0,0.0,0.0,0.0,0.0,0.0,1,331043,2025-07-09 04:33:07
+13325,735764,3,45448442,94,1,1380,23',0,0,Claudio Baeza (Vélez Sarsfield) Yellow Card at 23',Claudio Baeza Yellow Card,21,0.0,0.0,0.0,0.0,0.0,0.0,1,177279,2025-07-09 04:33:07
+13325,735764,4,45448473,94,1,1920,32',0,0,Tiago Palacios (Estudiantes de La Plata) Yellow Card at 32',Tiago Palacios Yellow Card,8,0.0,0.0,0.0,0.0,0.0,0.0,1,302051,2025-07-09 04:33:07
+13325,735764,5,45448589,70,2,3120,52',1,0,Tomás Galván (Vélez Sarsfield) Goal at 52',Tomás Galván Goal,21,0.0,0.0,0.0,0.0,0.0,0.0,1,307332,2025-07-09 04:33:07
+13325,735764,6,45448596,94,2,3480,58',0,0,Cristian Medina (Estudiantes de La Plata) Yellow Card at 58',Cristian Medina Yellow Card,8,0.0,0.0,0.0,0.0,0.0,0.0,1,297056,2025-07-09 04:33:07
+13325,735764,7,45448607,76,2,3660,61',0,0,Tobías Andrada (Vélez Sarsfield) Substitution at 61',Tobías Andrada Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,1,402601,2025-07-09 04:33:07
+13325,735764,8,45448608,94,2,3660,61',0,0,Agustín Bouzat (Vélez Sarsfield) Yellow Card at 61',Agustín Bouzat Yellow Card,21,0.0,0.0,0.0,0.0,0.0,0.0,1,233725,2025-07-09 04:33:07
+13325,735764,7,45448607,76,2,3660,61',0,0,Tobías Andrada (Vélez Sarsfield) Substitution at 61',Tobías Andrada Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,2,307332,2025-07-09 04:33:07
+13325,735764,9,45448612,76,2,4260,71',0,0,Edwin Cetre (Estudiantes de La Plata) Substitution at 71',Edwin Cetre Substitution,8,0.0,0.0,0.0,0.0,0.0,0.0,1,264844,2025-07-09 04:33:07
+13325,735764,9,45448612,76,2,4260,71',0,0,Edwin Cetre (Estudiantes de La Plata) Substitution at 71',Edwin Cetre Substitution,8,0.0,0.0,0.0,0.0,0.0,0.0,2,334205,2025-07-09 04:33:07
+13325,735764,10,45448614,70,2,4380,73',1,0,Braian Romero (Vélez Sarsfield) Goal at 73',Braian Romero Goal,21,0.0,0.0,0.0,0.0,0.0,0.0,1,171861,2025-07-09 04:33:07
+13325,735764,11,45448622,76,2,4560,76',0,0,Matías Pellegrini (Vélez Sarsfield) Substitution at 76',Matías Pellegrini Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,1,276287,2025-07-09 04:33:07
+13325,735764,11,45448622,76,2,4560,76',0,0,Matías Pellegrini (Vélez Sarsfield) Substitution at 76',Matías Pellegrini Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,2,285040,2025-07-09 04:33:07
+13325,735764,12,45448624,76,2,4680,78',0,0,Alexis Castro (Estudiantes de La Plata) Substitution at 78',Alexis Castro Substitution,8,0.0,0.0,0.0,0.0,0.0,0.0,1,234873,2025-07-09 04:33:07
+13325,735764,13,45448630,76,2,4680,78',0,0,Facundo Farías (Estudiantes de La Plata) Substitution at 78',Facundo Farías Substitution,8,0.0,0.0,0.0,0.0,0.0,0.0,1,298592,2025-07-09 04:33:07
+13325,735764,13,45448630,76,2,4680,78',0,0,Facundo Farías (Estudiantes de La Plata) Substitution at 78',Facundo Farías Substitution,8,0.0,0.0,0.0,0.0,0.0,0.0,2,254141,2025-07-09 04:33:07
+13325,735764,12,45448624,76,2,4680,78',0,0,Alexis Castro (Estudiantes de La Plata) Substitution at 78',Alexis Castro Substitution,8,0.0,0.0,0.0,0.0,0.0,0.0,2,297056,2025-07-09 04:33:07
+13325,735764,14,45448641,76,2,5220,87',0,0,Lisandro Magallán (Vélez Sarsfield) Substitution at 87',Lisandro Magallán Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,1,195714,2025-07-09 04:33:07
+13325,735764,14,45448641,76,2,5220,87',0,0,Lisandro Magallán (Vélez Sarsfield) Substitution at 87',Lisandro Magallán Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,2,177279,2025-07-09 04:33:07
+13325,735764,15,45448657,94,2,5400,90',0,0,Gastón Benedetti (Estudiantes de La Plata) Yellow Card at 90',Gastón Benedetti Yellow Card,8,0.0,0.0,0.0,0.0,0.0,0.0,1,301955,2025-07-09 04:33:07
+13325,735764,16,45448669,93,2,5400,90'+5',0,0,Edwin Cetre (Estudiantes de La Plata) Red Card at 95',Edwin Cetre Red Card,8,0.0,0.0,0.0,0.0,0.0,0.0,1,264844,2025-07-09 04:33:07

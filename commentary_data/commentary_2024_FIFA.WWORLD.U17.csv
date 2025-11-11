@@ -1,0 +1,435 @@
+seasonType,eventId,commentaryOrder,playId,clockDisplayValue,commentaryText,updateDateTime
+12652,704228,0,44074682,14',Choe Rim-Jong (North Korea U17) Goal at 14',2024-10-27 05:19:50
+12652,704228,1,44074737,17',Ri Kuk-Hyang (North Korea U17) Yellow Card at 17',2024-10-31 05:23:49
+12652,704228,2,44075050,40',Choe Rim-Jong (North Korea U17) Yellow Card at 40',2024-10-31 05:23:49
+12652,704228,3,44075051,42',Ho Kyong (North Korea U17) Substitution at 42',2024-10-27 05:19:50
+12652,704228,4,44075153,45'+7',Ro Un-Hyang (North Korea U17) Substitution at 52',2024-10-27 05:19:50
+12652,704228,5,44075257,45',Krystyna Flis (Poland U17) Substitution at 45',2024-10-27 05:19:50
+12652,704228,6,44075445,54',Emilia Sobierajska (Poland U17) Yellow Card at 54',2024-10-27 05:19:50
+12652,704228,7,44075446,59',Kang Ryu-Mi (North Korea U17) Yellow Card at 59',2024-10-27 05:19:50
+12652,704228,8,44075447,62',Julia Ostrowska (Poland U17) Substitution at 62',2024-10-31 05:23:49
+12652,704228,9,44075448,62',Julia Przyby&#322; (Poland U17) Substitution at 62',2024-10-31 05:23:49
+12652,704228,10,44075449,70',Jon Il-Chong (North Korea U17) Yellow Card at 70',2024-10-27 05:19:50
+12652,704228,11,44075697,90'+1',Son Jo-Ye (North Korea U17) Substitution at 91',2024-10-28 05:21:06
+12652,704228,12,44075698,90'+4',Emilia Sabuda (Poland U17) Substitution at 94',2024-10-28 05:21:06
+12652,704229,0,44071514,15',Peace Effiong (Nigeria U17) Substitution at 15',2024-10-27 05:19:50
+12652,704229,1,44072036,43',Kennedy Fuller (United States U17) Penalty - Scored at 43',2024-10-27 05:19:50
+12652,704229,2,44072078,44',Rokibat Azeez (Nigeria U17) Substitution at 44',2024-10-27 05:19:50
+12652,704229,3,44072852,57',Kimmi Ascanio (United States U17) Yellow Card at 57',2024-10-27 05:19:50
+12652,704229,4,44073001,65',Katie Scott (United States U17) Substitution at 65',2024-10-27 05:19:50
+12652,704229,5,44073002,65',Micayla Johnson (United States U17) Substitution at 65',2024-10-27 05:19:50
+12652,704229,6,44073121,74',Kimmi Ascanio (United States U17) Goal at 74',2024-10-27 05:19:50
+12652,704229,7,44073208,79',Jaiden Rodriguez (United States U17) Substitution at 79',2024-10-27 05:19:50
+12652,704229,8,44073209,79',Y-Lan Nguyen (United States U17) Substitution at 79',2024-10-27 05:19:50
+12652,704229,9,44073447,90'+3',Leena Powell (United States U17) Substitution at 93',2024-10-27 05:19:50
+12652,704229,10,44073448,90'+3',Ramotalahi Kareem (Nigeria U17) Substitution at 93',2024-10-27 05:19:50
+12652,704230,0,44086155,23',Yuna Aoki (Japan U17) Goal at 23',2024-10-28 05:21:06
+12652,704230,1,44086180,27',Érica Parkinson (England U17) Goal at 27',2024-10-28 05:21:06
+12652,704230,2,44086196,29',Hina Hirakawa (Japan U17) Goal at 29',2024-10-28 05:21:06
+12652,704230,3,44086247,37',Amiru Tsuji (Japan U17) Substitution at 37',2024-10-28 05:21:06
+12652,704230,4,44086465,45',Omotara Junaid (England U17) Substitution at 45',2024-10-28 05:21:06
+12652,704230,5,44086574,59',Miharu Shinjo (Japan U17) Yellow Card at 59',2024-10-28 05:21:06
+12652,704230,6,44086623,62',Ririka Nezu (Japan U17) Substitution at 62',2024-10-28 05:21:06
+12652,704230,7,44086624,62',Anon Tsuda (Japan U17) Substitution at 62',2024-10-28 05:21:06
+12652,704230,8,44086716,72',Zara Shaw (England U17) Goal at 72',2024-10-28 05:21:06
+12652,704230,9,44086866,86',Olivia Johnson (England U17) Substitution at 86',2024-10-28 05:21:06
+12652,704230,10,44086931,89',Hana Kikuchi (Japan U17) Substitution at 89',2024-10-28 05:21:06
+12652,704230,11,44086932,89',Momoka Sano (Japan U17) Substitution at 89',2024-10-28 05:21:06
+12652,704230,12,44086933,89',Sophie Harwood (England U17) Substitution at 89',2024-10-28 05:21:06
+12652,704230,13,44086986,90'+7',Yuna Aoki (Japan U17) Yellow Card at 97',2024-10-28 05:21:06
+12652,704230,14,44087008,90'+9',Rebekah Dowsett (England U17) Substitution at 99',2024-10-28 05:21:06
+12652,704231,0,44083994,35',Paula Comendador (Spain U17) Goal at 35',2024-10-28 05:21:06
+12652,704231,1,44084038,39',Paula Comendador (Spain U17) Goal at 39',2024-10-28 05:21:06
+12652,704231,2,44084433,46',Paula Comendador (Spain U17) Goal at 46',2024-10-28 05:21:06
+12652,704231,3,44084648,61',Ainoa Gómez (Spain U17) Substitution at 61',2024-10-28 05:21:06
+12652,704231,4,44084649,61',Noa Ortega (Spain U17) Substitution at 61',2024-10-28 05:21:06
+12652,704231,5,44084742,68',Fiorella Pico (Ecuador U17) Yellow Card at 68',2024-10-28 05:21:06
+12652,704231,6,44084798,71',Natalia Escot (Spain U17) Substitution at 71',2024-10-28 05:21:06
+12652,704231,7,44084802,71',Celia Gómez (Spain U17) Substitution at 71',2024-10-28 05:21:06
+12652,704231,8,44084799,72',Jaslym Valverde (Ecuador U17) Substitution at 72',2024-10-28 05:21:06
+12652,704231,9,44084800,72',Rosa Estupiñan (Ecuador U17) Substitution at 72',2024-10-28 05:21:06
+12652,704231,10,44084801,72',Emily Delgado (Ecuador U17) Substitution at 72',2024-10-28 05:21:06
+12652,704231,11,44084890,79',Lorena Cubo (Spain U17) Substitution at 79',2024-10-28 05:21:06
+12652,704231,12,44084966,83',Irune Dorado (Spain U17) Yellow Card at 83',2024-10-28 05:21:06
+12652,704231,13,44085120,90'+4',Celia Segura (Spain U17) Goal at 94',2024-10-28 05:21:06
+12652,704231,14,44085163,90'+8',Celia Segura (Spain U17) Goal at 98',2024-10-28 05:21:06
+12649,704235,0,44139148,44',Ho Kyong (North Korea U17) Substitution at 44',2024-11-04 22:48:25
+12649,704235,1,44139460,60',Choe Yon-A (North Korea U17) Substitution at 60',2024-11-04 22:48:25
+12649,704235,2,44139464,61',Celia Segura (Spain U17) Goal at 61',2024-11-04 22:48:25
+12649,704235,3,44139496,64',Jon Il-Chong (North Korea U17) Goal at 64',2024-11-04 22:48:25
+12649,704235,4,44139545,73',Alba Cerrato (Spain U17) Yellow Card at 73',2024-11-04 22:48:25
+12649,704235,5,44139608,81',Iris Santiago (Spain U17) Substitution at 81',2024-11-04 22:48:25
+12649,704235,6,44139747,90'+3',Jong Pok-Yong (North Korea U17) Substitution at 93',2024-11-04 22:48:25
+12649,704235,7,44139769,90'+5',Emma Moreno (Spain U17) Substitution at 95',2024-11-04 22:48:25
+12649,704235,8,44139778,90'+7',Noa Ortega (Spain U17) Substitution at 97',2024-11-04 22:48:25
+12649,704235,9,44139779,90'+7',Kang Ryu-Mi (North Korea U17) Yellow Card at 97',2024-11-04 22:48:25
+12653,707092,0,43994674,3',Jocelyn Travers (United States U17) Own Goal at 3',2024-10-21 05:15:20
+12653,707092,1,43994760,22',Melanie Barcenas (United States U17) Goal at 22',2024-10-21 05:15:20
+12653,707092,2,43994804,36',Irune Dorado (Spain U17) Yellow Card at 36',2024-10-21 05:15:20
+12653,707092,3,43994886,63',Maddie Padelski (United States U17) Substitution at 63',2024-10-21 05:15:20
+12653,707092,4,43994887,65',Claudia De La Cuerda (Spain U17) Substitution at 65',2024-10-21 05:15:20
+12653,707092,5,43994889,65',Noa Ortega (Spain U17) Substitution at 65',2024-10-21 05:15:20
+12653,707092,6,43994891,70',Noa Ortega (Spain U17) Goal at 70',2024-10-21 05:15:20
+12653,707092,7,43994892,72',Emma Moreno (Spain U17) Substitution at 72',2024-10-21 05:15:20
+12653,707092,8,43994893,72',Mary Long (United States U17) Substitution at 72',2024-10-21 05:15:20
+12653,707092,9,43994894,72',Micayla Johnson (United States U17) Substitution at 72',2024-10-21 05:15:20
+12653,707092,10,43994919,83',Alba Cerrato (Spain U17) Goal at 83',2024-10-21 05:15:20
+12653,707092,11,43994922,84',Katie Scott (United States U17) Substitution at 84',2024-10-21 05:15:20
+12653,707092,12,43994923,85',Jaiden Rodriguez (United States U17) Substitution at 85',2024-10-21 05:15:20
+12653,707092,13,43994924,86',Iris Santiago (Spain U17) Substitution at 86',2024-10-21 05:15:20
+12653,707092,14,43994925,86',Lorena Cubo (Spain U17) Substitution at 86',2024-10-21 05:15:20
+12653,707093,0,43995012,28',Ella Martínez (Colombia U17) Goal at 28',2024-10-20 11:07:54
+12653,707093,1,43995052,36',Casey Phair (South Korea U17) Penalty - Scored at 36',2024-10-20 11:07:54
+12653,707093,2,43995106,45',Isabella Díaz (Colombia U17) Substitution at 45',2024-10-20 11:07:54
+12653,707093,3,43995107,45',Laura Acevedo (Colombia U17) Substitution at 45',2024-10-20 11:07:54
+12653,707093,4,43995162,59',Kim Yee-Un (South Korea U17) Yellow Card at 59',2024-10-20 11:07:54
+12653,707093,5,43995173,63',Seo Min-Jeong (South Korea U17) Substitution at 63',2024-10-20 11:07:54
+12653,707093,6,43995174,63',Nam Sarang (South Korea U17) Substitution at 63',2024-10-20 11:07:54
+12653,707093,7,43995251,76',Reina Torres (Colombia U17) Substitution at 76',2024-10-20 11:07:54
+12653,707093,8,43995288,83',Eliesther Santos (Colombia U17) Substitution at 83',2024-10-20 11:07:54
+12653,707093,9,43995307,87',Nikol Rojas (Colombia U17) Substitution at 87',2024-10-20 11:07:54
+12653,707093,10,43995321,88',Casey Phair (South Korea U17) Yellow Card at 88',2024-10-20 11:07:54
+12653,707093,11,43995325,89',Baek Ji-Eun (South Korea U17) Substitution at 89',2024-10-20 11:07:54
+12653,707093,12,43995347,90'+2',Zarhay González (Colombia U17) Yellow Card at 92',2024-10-20 11:07:54
+12653,707093,13,43995396,90'+9',Lim Ye-Ji (South Korea U17) Substitution at 99',2024-10-20 11:07:54
+12653,707094,0,43994972,14',Jaslym Valverde (Ecuador U17) Goal at 14',2024-10-20 11:07:54
+12653,707094,1,43995017,29',Jaslym Valverde (Ecuador U17) Goal at 29',2024-10-20 11:07:54
+12653,707094,2,43995058,37',Evelyn Burgos (Ecuador U17) Yellow Card at 37',2024-10-20 11:07:54
+12653,707094,3,43995075,43',Jeanery Diaz (Dominican Republic U17) Yellow Card at 43',2024-10-20 11:07:54
+12653,707094,4,43995101,45',Yuleinis Brito (Dominican Republic U17) Substitution at 45',2024-10-20 11:07:54
+12653,707094,5,43995102,45',Leoneidy Sano (Dominican Republic U17) Substitution at 45',2024-10-20 11:07:54
+12653,707094,6,43995103,45',Doménica Arboleda (Ecuador U17) Substitution at 45',2024-10-20 11:07:54
+12653,707094,7,43995164,66',Rosa Estupiñan (Ecuador U17) Yellow Card at 66',2024-10-20 11:07:54
+12653,707094,8,43995177,69',Camila De La Cárcova (Dominican Republic U17) Substitution at 69',2024-10-20 11:07:54
+12653,707094,9,43995189,72',Dariana Morán (Ecuador U17) Substitution at 72',2024-10-20 11:07:54
+12653,707094,10,43995234,79',Scarlet Garaicoa (Ecuador U17) Substitution at 79',2024-10-20 11:07:54
+12653,707094,11,43995235,80',Marcela Zimbron (Dominican Republic U17) Substitution at 80',2024-10-20 11:07:54
+12653,707094,12,43995303,90',Jaimaris Diaz (Dominican Republic U17) Substitution at 90',2024-10-20 11:07:54
+12653,707094,13,43995304,90'+1',Xiomara Alcívar (Ecuador U17) Substitution at 91',2024-10-20 11:07:54
+12653,707094,14,43995305,90'+1',Valeria Briones (Ecuador U17) Substitution at 91',2024-10-20 11:07:54
+12653,707094,15,43995322,90'+4',Ava Baker (Dominican Republic U17) Yellow Card at 94',2024-10-20 11:07:54
+12653,707095,0,43994673,2',Shakirat Moshood (Nigeria U17) Goal at 2',2024-10-20 11:07:54
+12653,707095,1,43994708,13',Khadijat Adegoke (Nigeria U17) Goal at 13',2024-10-20 11:07:54
+12653,707095,2,43994780,28',Faridat Abdulwahab (Nigeria U17) Goal at 28',2024-10-20 11:07:54
+12653,707095,3,43994878,45',Natalie Young (New Zealand U17) Substitution at 45',2024-10-20 11:07:54
+12653,707095,4,43994879,55',Taiwo Afolabi (Nigeria U17) Goal at 55',2024-10-20 11:07:54
+12653,707095,5,43994881,57',Grace Bartlett (New Zealand U17) Substitution at 57',2024-10-20 11:07:54
+12653,707095,6,43994882,57',Mary Brown (New Zealand U17) Substitution at 57',2024-10-20 11:07:54
+12653,707095,7,43994885,60',Hannah Saxon (New Zealand U17) Goal at 60',2024-10-20 11:07:54
+12653,707095,8,43994888,66',Charley March (New Zealand U17) Substitution at 66',2024-10-20 11:07:54
+12653,707095,9,43994895,78',Kyra Morgan (New Zealand U17) Substitution at 78',2024-10-20 11:07:54
+12653,707095,10,43994896,78',Blessing Ifitezue (Nigeria U17) Substitution at 78',2024-10-20 11:07:54
+12653,707095,11,43994920,84',Ayomide Rotimi (Nigeria U17) Substitution at 84',2024-10-20 11:07:54
+12653,707095,12,43994921,85',Ramotalahi Kareem (Nigeria U17) Substitution at 85',2024-10-20 11:07:54
+12653,707096,0,43996971,45',Julia Przyby&#322; (Poland U17) Substitution at 45',2024-10-20 11:07:54
+12653,707096,1,43996972,45',Momo Sato (Japan U17) Substitution at 45',2024-10-20 11:07:54
+12653,707096,2,43996976,63',Weronika Arasniewicz (Poland U17) Substitution at 63',2024-10-20 11:07:54
+12653,707096,3,43996977,63',Kinga Wyrwas (Poland U17) Substitution at 63',2024-10-20 11:07:54
+12653,707096,4,43996981,72',Manaka Sakaki (Japan U17) Substitution at 72',2024-10-20 11:07:54
+12653,707096,5,43996982,72',Miharu Shinjo (Japan U17) Substitution at 72',2024-10-20 11:07:54
+12653,707096,6,43996988,84',Aisha Nsangou (Poland U17) Substitution at 84',2024-10-20 11:07:54
+12653,707096,7,43996989,84',Emilia Sobierajska (Poland U17) Substitution at 84',2024-10-20 11:07:54
+12653,707096,8,43996996,90'+2',Ririka Nezu (Japan U17) Substitution at 92',2024-10-20 11:07:54
+12653,707096,9,43997000,90'+4',Emilia Sobierajska (Poland U17) Yellow Card at 94',2024-10-20 11:07:54
+12653,707097,0,43997112,19',Juju (Brazil U17) Goal at 19',2024-10-20 11:07:54
+12653,707097,1,43997358,45',Mariane (Brazil U17) Substitution at 45',2024-10-20 11:07:54
+12653,707097,2,43997367,45',Mary Mukupa (Zambia U17) Substitution at 45',2024-10-20 11:07:54
+12653,707097,3,43997368,45',Harriet Matipa (Zambia U17) Substitution at 45',2024-10-20 11:07:54
+12653,707097,4,43997523,68',Mercy Chipasula (Zambia U17) Yellow Card at 68',2024-10-20 11:07:54
+12653,707097,5,43997581,74',Eunice Bwalya (Zambia U17) Substitution at 74',2024-10-20 11:07:54
+12653,707097,6,43997612,77',Yngrid Piaui (Brazil U17) Substitution at 77',2024-10-20 11:07:54
+12653,707097,7,43997737,90'+2',Kaylane (Brazil U17) Yellow Card at 92',2024-10-20 11:07:54
+12653,707098,0,43997176,29',Lola Brown (England U17) Penalty - Scored at 29',2024-10-20 11:07:54
+12653,707098,1,43997221,34',Rebecca Orute (Kenya U17) Yellow Card at 34',2024-10-20 11:07:54
+12653,707098,2,43997444,57',Susan Otieno (Kenya U17) Substitution at 57',2024-10-20 11:07:54
+12653,707098,3,43997479,62',Jane Oboavwoduo (England U17) Substitution at 62',2024-10-20 11:07:54
+12653,707098,4,43997480,63',Sophie Harwood (England U17) Substitution at 63',2024-10-20 11:07:54
+12653,707098,5,43997640,82',Emily Cassap (England U17) Substitution at 82',2024-10-20 11:07:54
+12653,707098,6,43997661,84',Lauryn Thompson (England U17) Substitution at 84',2024-10-20 11:07:54
+12653,707098,7,43997662,84',Joan Ogola (Kenya U17) Substitution at 84',2024-10-20 11:07:54
+12653,707098,8,43997667,87',Lauryn Thompson (England U17) Goal at 87',2024-10-20 11:07:54
+12653,707098,9,43997687,88',Quinter Odiwuor (Kenya U17) Substitution at 88',2024-10-20 11:07:54
+12653,707098,10,43997689,89',Christine Otieno (Kenya U17) Yellow Card at 89',2024-10-20 11:07:54
+12653,707098,11,43997710,90',Zara Shaw (England U17) Substitution at 90',2024-10-20 11:07:54
+12653,707099,0,43996783,14',Choe Rim-Jong (North Korea U17) Goal at 14',2024-10-20 11:07:54
+12653,707099,1,43996841,26',Choe Il-Son (North Korea U17) Goal at 26',2024-10-20 11:07:54
+12653,707099,2,43996877,34',Choe Rim-Jong (North Korea U17) Goal at 34',2024-10-20 11:07:54
+12653,707099,3,43996897,36',Kang Ryu-Mi (North Korea U17) Substitution at 36',2024-10-20 11:07:54
+12653,707099,4,43996943,45',Citlalli Reyes (Mexico U17) Goal at 45',2024-10-20 11:07:54
+12653,707099,5,43996973,45',Ro Un-Hyang (North Korea U17) Substitution at 45',2024-10-20 11:07:54
+12653,707099,6,43996974,45',Mia Villalpando (Mexico U17) Substitution at 45',2024-10-20 11:07:54
+12653,707099,7,43996975,59',Evelyn Contreras (Mexico U17) Substitution at 59',2024-10-20 11:07:54
+12653,707099,8,43996978,68',Pak Ok-I (North Korea U17) Substitution at 68',2024-10-20 11:07:54
+12653,707099,9,43996979,68',Ana Salas (Mexico U17) Substitution at 68',2024-10-20 11:07:54
+12653,707099,10,43996980,68',Sofia Núñez (Mexico U17) Substitution at 68',2024-10-20 11:07:54
+12653,707099,11,43996990,80',Celeste Martínez (Mexico U17) Substitution at 80',2024-10-20 11:07:54
+12653,707099,12,43996991,85',Choe Rim-Jong (North Korea U17) Goal at 85',2024-10-20 11:07:54
+12653,707099,13,43996995,89',Son Jo-Ye (North Korea U17) Substitution at 89',2024-10-20 11:07:54
+12653,707100,0,44016353,38',Laura Acevedo (Colombia U17) Yellow Card at 38',2024-10-20 11:07:54
+12653,707100,1,44016449,43',Micayla Johnson (United States U17) Goal at 43',2024-10-20 11:07:54
+12653,707100,2,44016895,45',Daya King (United States U17) Substitution at 45',2024-10-20 11:07:54
+12653,707100,3,44016896,45',Mariana Silva (Colombia U17) Substitution at 45',2024-10-20 11:07:54
+12653,707100,4,44017013,57',Sofía Ortiz (Colombia U17) Yellow Card at 57',2024-10-20 11:07:54
+12653,707100,5,44017024,58',Kennedy Fuller (United States U17) Penalty - Scored at 58',2024-10-20 11:07:54
+12653,707100,6,44017074,63',Maddie Padelski (United States U17) Substitution at 63',2024-10-20 11:07:54
+12653,707100,7,44017075,64',Jaiden Rodriguez (United States U17) Substitution at 64',2024-10-20 11:07:54
+12653,707100,8,44017375,69',Jaiden Rodriguez (United States U17) Yellow Card at 69',2024-10-20 11:07:54
+12653,707100,9,44017158,73',Scottie Antonucci (United States U17) Substitution at 73',2024-10-20 11:07:54
+12653,707100,10,44017159,73',Ana Ruíz (Colombia U17) Substitution at 73',2024-10-20 11:07:54
+12653,707100,11,44017160,73',Nicoll Cárdenas (Colombia U17) Substitution at 73',2024-10-20 11:07:54
+12653,707100,12,44017205,78',Nikol Rojas (Colombia U17) Substitution at 78',2024-10-22 23:22:46
+12653,707100,13,44017299,88',Kennedy Fuller (United States U17) Yellow Card at 88',2024-10-20 11:07:54
+12653,707100,14,44017347,90'+3',Anna Babcock (United States U17) Substitution at 93',2024-10-20 11:07:54
+12653,707101,0,44013185,7',Paula Comendador (Spain U17) Goal at 7',2024-10-20 11:07:54
+12653,707101,1,44013746,32',Celia Segura (Spain U17) Goal at 32',2024-10-20 11:07:54
+12653,707101,2,44014129,45'+2',Irune Dorado (Spain U17) Yellow Card at 47',2024-10-20 11:07:54
+12653,707101,3,44014171,45'+4',Iris Santiago (Spain U17) Goal at 49',2024-10-20 11:07:54
+12653,707101,4,44014336,45',Lorena Cubo (Spain U17) Substitution at 45',2024-10-20 11:07:54
+12653,707101,5,44014337,45',Beom Ye-Ju (South Korea U17) Substitution at 45',2024-10-20 11:07:54
+12653,707101,6,44014338,45',Nam Sarang (South Korea U17) Substitution at 45',2024-10-20 11:07:54
+12653,707101,7,44014360,47',Emma Moreno (Spain U17) Penalty - Scored at 47',2024-10-20 11:07:54
+12653,707101,8,44014509,61',Alba Cerrato (Spain U17) Substitution at 61',2024-10-24 01:17:06
+12653,707101,9,44014512,61',Celia Gómez (Spain U17) Substitution at 61',2024-10-24 01:17:06
+12653,707101,10,44014510,62',Natalia Escot (Spain U17) Substitution at 62',2024-10-24 01:17:06
+12653,707101,11,44014511,62',Baek Ji-Eun (South Korea U17) Substitution at 62',2024-10-24 01:17:06
+12653,707101,12,44014651,73',Elena Vázquez (Spain U17) Substitution at 73',2024-10-20 11:07:54
+12653,707101,13,44014652,73',Lim Ye-Ji (South Korea U17) Substitution at 73',2024-10-20 11:07:54
+12653,707101,14,44014751,83',Kim Han-Ah (South Korea U17) Substitution at 83',2024-10-20 11:07:54
+12653,707101,15,44014818,89',Alba Cerrato (Spain U17) Red Card at 89',2024-10-20 11:07:54
+12653,707101,16,44014864,90'+3',Ainoa Gómez (Spain U17) Goal at 93',2024-10-20 11:07:54
+12653,707102,0,44013675,28',Shakirat Moshood (Nigeria U17) Penalty - Scored at 28',2024-10-20 11:07:54
+12653,707102,1,44014058,44',Shakirat Moshood (Nigeria U17) Yellow Card at 44',2024-10-20 11:07:54
+12653,707102,2,44014376,45',Doménica Arboleda (Ecuador U17) Substitution at 45',2024-10-20 11:07:54
+12653,707102,3,44014439,54',Chidera Chidi (Nigeria U17) Goal at 54',2024-10-20 11:07:54
+12653,707102,4,44014572,64',Melany Pozo (Ecuador U17) Substitution at 64',2024-10-20 11:07:54
+12653,707102,5,44014573,64',Dariana Morán (Ecuador U17) Substitution at 64',2024-10-20 11:07:54
+12653,707102,6,44014574,65',Valeria Briones (Ecuador U17) Substitution at 65',2024-10-20 11:07:54
+12653,707102,7,44014575,66',Peace Effiong (Nigeria U17) Goal at 66',2024-10-20 11:07:54
+12653,707102,8,44014614,70',Blessing Ifitezue (Nigeria U17) Substitution at 70',2024-10-20 11:07:54
+12653,707102,9,44014839,88',Rokibat Azeez (Nigeria U17) Substitution at 88',2024-10-20 11:07:54
+12653,707102,10,44014840,88',Ayomide Rotimi (Nigeria U17) Substitution at 88',2024-10-20 11:07:54
+12653,707102,11,44014901,90'+5',Emily Vargas (Ecuador U17) Substitution at 95',2024-10-20 11:07:54
+12653,707102,12,44014904,90'+6',Shakirat Moshood (Nigeria U17) Goal at 96',2024-10-20 11:07:54
+12653,707103,0,44016873,45',Natalie Young (New Zealand U17) Substitution at 45',2024-10-20 11:07:54
+12653,707103,1,44016874,45',Jaimaris Diaz (Dominican Republic U17) Substitution at 45',2024-10-20 11:07:54
+12653,707103,2,44017039,59',Kyra Morgan (New Zealand U17) Substitution at 59',2024-10-20 11:07:54
+12653,707103,3,44017048,61',Renata Mercedes (Dominican Republic U17) Own Goal at 61',2024-10-20 11:07:54
+12653,707103,4,44017060,62',Camila De La Cárcova (Dominican Republic U17) Substitution at 62',2024-10-20 11:07:54
+12653,707103,5,44017068,64',Laura Bennett (New Zealand U17) Substitution at 64',2024-10-20 11:07:54
+12653,707103,6,44017069,64',Katie Chellenbron (New Zealand U17) Substitution at 64',2024-10-20 11:07:54
+12653,707103,7,44017095,68',Yuleinis Brito (Dominican Republic U17) Goal at 68',2024-10-20 11:07:54
+12653,707103,8,44017117,71',Jabes Martinez (Dominican Republic U17) Substitution at 71',2024-10-20 11:07:54
+12653,707103,9,44017232,82',Mary Brown (New Zealand U17) Substitution at 82',2024-10-20 11:07:54
+12653,707103,10,44017233,82',Julia Jiménez (Dominican Republic U17) Substitution at 82',2024-10-20 11:07:54
+12653,707103,11,44017249,85',Charli Dunn (New Zealand U17) Yellow Card at 85',2024-10-20 11:07:54
+12653,707103,12,44017321,90'+1',Jaimaris Diaz (Dominican Republic U17) Yellow Card at 91',2024-10-20 11:07:54
+12653,707104,0,44028634,7',Kinga Wyrwas (Poland U17) Goal at 7',2024-10-21 05:15:20
+12653,707104,1,44029206,45',Julia Ostrowska (Poland U17) Substitution at 45',2024-10-21 05:15:20
+12653,707104,2,44029207,45',Krystyna Flis (Poland U17) Substitution at 45',2024-10-21 05:15:20
+12653,707104,3,44029208,45',Weronika Arasniewicz (Poland U17) Substitution at 45',2024-10-21 05:15:20
+12653,707104,4,44029214,46',Weronika Arasniewicz (Poland U17) Goal at 46',2024-10-21 05:15:20
+12653,707104,5,44029424,61',Lweendo Hanongo (Zambia U17) Yellow Card at 61',2024-10-21 05:15:20
+12653,707104,6,44029489,66',Harriet Matipa (Zambia U17) Substitution at 66',2024-10-21 05:15:20
+12653,707104,7,44029594,78',Ruth Muwowo (Zambia U17) Substitution at 78',2024-10-21 05:15:20
+12653,707104,8,44029595,78',Lilian Mwenda (Zambia U17) Substitution at 78',2024-10-21 05:15:20
+12653,707104,9,44029626,82',Maja Zielinska (Poland U17) Substitution at 82',2024-10-21 05:15:20
+12653,707104,10,44029642,87',Malgorzata Rogus (Poland U17) Substitution at 87',2024-10-21 05:15:20
+12653,707104,11,44029650,89',Gift Chilwizhi (Zambia U17) Substitution at 89',2024-10-21 05:15:20
+12653,707105,0,44026619,8',So Ryu-Gyong (North Korea U17) Goal at 8',2024-10-21 05:15:20
+12653,707105,1,44026644,11',So Ryu-Gyong (North Korea U17) Goal at 11',2024-10-21 05:15:20
+12653,707105,2,44026920,33',Kang Ryu-Mi (North Korea U17) Substitution at 33',2024-10-21 05:15:20
+12653,707105,3,44027258,45',Ri Su-Jong (North Korea U17) Substitution at 45',2024-10-21 05:15:20
+12653,707105,4,44027259,45',Pak Ok-I (North Korea U17) Substitution at 45',2024-10-21 05:15:20
+12653,707105,5,44027260,45',Joan Ogola (Kenya U17) Substitution at 45',2024-10-21 05:15:20
+12653,707105,6,44027365,62',Kimberly Akinyi (Kenya U17) Substitution at 62',2024-10-21 05:15:20
+12653,707105,7,44027412,68',Rebecca Orute (Kenya U17) Yellow Card at 68',2024-10-21 05:15:20
+12653,707105,8,44027520,78',Jane Sakwa (Kenya U17) Substitution at 78',2024-10-21 05:15:20
+12653,707105,9,44027521,79',Susan Otieno (Kenya U17) Substitution at 79',2024-10-21 05:15:20
+12653,707105,10,44027552,80',Choe Chong-Gum (North Korea U17) Substitution at 80',2024-10-21 05:15:20
+12653,707105,11,44027553,81',An Kyong-Yong (North Korea U17) Substitution at 81',2024-10-21 05:15:20
+12653,707105,12,44027605,85',Halima Imbachi (Kenya U17) Yellow Card at 85',2024-10-21 05:15:20
+12653,707105,13,44027606,86',Ri Kuk-Hyang (North Korea U17) Goal at 86',2024-10-21 05:15:20
+12653,707106,0,44028703,11',Zara Shaw (England U17) Goal at 11',2024-10-21 05:15:20
+12653,707106,1,44028772,17',Cecily Wellesley-Smith (England U17) Yellow Card at 17',2024-10-21 05:15:20
+12653,707106,2,44028778,17',Ana Salas (Mexico U17) Goal at 17',2024-10-21 05:15:20
+12653,707106,3,44028881,30',Carla Montes (Mexico U17) Substitution at 30',2024-10-21 05:15:20
+12653,707106,4,44028929,39',Rachel Maltby (England U17) Yellow Card at 39',2024-10-21 05:15:20
+12653,707106,5,44029223,45',Lauryn Thompson (England U17) Substitution at 45',2024-10-21 05:15:20
+12653,707106,6,44029256,49',Alexa Soto (Mexico U17) Penalty - Scored at 49',2024-10-21 05:15:20
+12653,707106,7,44029312,52',Jane Oboavwoduo (England U17) Yellow Card at 52',2024-10-21 05:15:20
+12653,707106,8,44029370,57',Omotara Junaid (England U17) Red Card at 57',2024-10-21 05:15:20
+12653,707106,9,44029417,61',Nelly Las (England U17) Goal at 61',2024-10-21 05:15:20
+12653,707106,10,44029434,62',Evelyn Contreras (Mexico U17) Substitution at 62',2024-10-21 05:15:20
+12653,707106,11,44029534,70',Sofia Núñez (Mexico U17) Substitution at 70',2024-10-21 05:15:20
+12653,707106,12,44029535,70',Mia Villalpando (Mexico U17) Substitution at 70',2024-10-21 05:15:20
+12653,707106,13,44029536,70',Ana Torres (Mexico U17) Substitution at 70',2024-10-21 05:15:20
+12653,707106,14,44029571,75',Mia Villalpando (Mexico U17) Yellow Card at 75',2024-10-21 05:15:20
+12653,707106,15,44029577,76',Emily Cassap (England U17) Substitution at 76',2024-10-21 05:15:20
+12653,707106,16,44029635,86',Sophie Harwood (England U17) Substitution at 86',2024-10-21 05:15:20
+12653,707106,17,44029636,88',Rachel Maltby (England U17) Goal at 88',2024-10-21 05:15:20
+12653,707106,18,44029681,90'+5',Olivia Johnson (England U17) Substitution at 95',2024-10-21 05:15:20
+12653,707106,19,44029722,90'+11',Olivia Johnson (England U17) Goal at 101',2024-10-21 05:15:20
+12653,707106,20,44029728,90'+13',Adrianna González (Mexico U17) Yellow Card at 103',2024-10-21 05:15:20
+12653,707107,0,44026617,8',Juju (Brazil U17) Goal at 8',2024-10-21 05:15:20
+12653,707107,1,44027086,45'+3',Bela (Brazil U17) Yellow Card at 48',2024-10-21 05:15:20
+12653,707107,2,44027279,45',Yngrid Piaui (Brazil U17) Substitution at 45',2024-10-21 05:15:20
+12653,707107,3,44027280,45',Emilly Lucas (Brazil U17) Substitution at 45',2024-10-21 05:15:20
+12653,707107,4,44027301,49',Momo Sato (Japan U17) Goal at 49',2024-10-21 05:15:20
+12653,707107,5,44027327,53',Asako Furuta (Japan U17) Goal at 53',2024-10-21 05:15:20
+12653,707107,6,44027476,68',Mariane (Brazil U17) Yellow Card at 68',2024-10-21 05:15:20
+12653,707107,7,44027671,88',Ririka Nezu (Japan U17) Substitution at 88',2024-10-21 05:15:20
+12653,707107,8,44027672,88',Momoka Sano (Japan U17) Substitution at 88',2024-10-21 05:15:20
+12653,707107,9,44027715,89',Maria Santos (Brazil U17) Substitution at 89',2024-10-21 05:15:20
+12653,707107,10,44027716,90',Yuka Makiguchi (Japan U17) Substitution at 90',2024-10-21 05:15:20
+12653,707107,11,44027764,90'+5',Noa Fukushima (Japan U17) Yellow Card at 95',2024-10-21 05:15:20
+12653,707107,12,44027817,90'+8',Amiru Tsuji (Japan U17) Substitution at 98',2024-10-21 05:15:20
+12653,707107,13,44027841,90'+11',Larissa (Brazil U17) Yellow Card at 101',2024-10-21 05:15:20
+12653,707108,0,44036066,1',Melanie Barcenas (United States U17) Goal at 1',2024-10-22 23:22:46
+12653,707108,1,44036340,10',Kennedy Fuller (United States U17) Goal at 10',2024-10-22 23:22:46
+12653,707108,2,44037693,42',Han Guk-Hee (South Korea U17) Substitution at 42',2024-10-22 23:22:46
+12653,707108,3,44038790,45',Baek Ji-Eun (South Korea U17) Substitution at 45',2024-10-22 23:22:46
+12653,707108,4,44038791,45',Maddie Padelski (United States U17) Substitution at 45',2024-10-22 23:22:46
+12653,707108,5,44038792,45',Daya King (United States U17) Substitution at 45',2024-10-22 23:22:46
+12653,707108,6,44038793,47',Melanie Barcenas (United States U17) Goal at 47',2024-10-22 23:22:46
+12653,707108,7,44038797,60',Lim Ye-Ji (South Korea U17) Substitution at 60',2024-10-22 23:22:46
+12653,707108,8,44038798,60',Seo Min-Jeong (South Korea U17) Substitution at 60',2024-10-22 23:22:46
+12653,707108,9,44038799,61',Y-Lan Nguyen (United States U17) Substitution at 61',2024-10-22 23:22:46
+12653,707108,10,44038805,67',Scottie Antonucci (United States U17) Substitution at 67',2024-10-24 01:17:06
+12653,707108,11,44038806,68',Mary Long (United States U17) Goal at 68',2024-10-24 01:17:06
+12653,707108,12,44038812,81',Leena Powell (United States U17) Substitution at 81',2024-10-24 01:17:06
+12653,707108,13,44038816,86',Maddie Padelski (United States U17) Goal at 86',2024-10-24 01:17:06
+12653,707108,14,44038819,90'+4',Ji-Min Yang (South Korea U17) Substitution at 94',2024-10-24 01:17:06
+12653,707109,0,44039148,13',Leoneidy Sano (Dominican Republic U17) Substitution at 13',2024-10-24 01:17:06
+12653,707109,1,44039492,45',Sydney Artache (Dominican Republic U17) Substitution at 45',2024-10-24 01:17:06
+12653,707109,2,44039590,64',Peace Effiong (Nigeria U17) Substitution at 64',2024-10-24 01:17:06
+12653,707109,3,44039591,64',Chidera Chidi (Nigeria U17) Substitution at 64',2024-10-24 01:17:06
+12653,707109,4,44039592,64',Camila De La Cárcova (Dominican Republic U17) Substitution at 64',2024-10-24 01:17:06
+12653,707109,5,44039698,80',Jaimaris Diaz (Dominican Republic U17) Substitution at 80',2024-10-24 01:17:06
+12653,707109,6,44039699,80',Paige Martínez (Dominican Republic U17) Substitution at 80',2024-10-24 01:17:06
+12653,707109,7,44039783,89',Shakirat Moshood (Nigeria U17) Goal at 89',2024-10-24 01:17:06
+12653,707110,0,44039303,41',Doménica Arboleda (Ecuador U17) Goal at 41',2024-10-24 01:17:06
+12653,707110,1,44039322,43',Caprice Chiuchiolo (Ecuador U17) Goal at 43',2024-10-24 01:17:06
+12653,707110,2,44039488,45',Laura Bennett (New Zealand U17) Substitution at 45',2024-10-24 01:17:06
+12653,707110,3,44039489,45',Emily Humphrey (New Zealand U17) Substitution at 45',2024-10-24 01:17:06
+12653,707110,4,44039490,45',Millee Loxton (New Zealand U17) Substitution at 45',2024-10-24 01:17:06
+12653,707110,5,44039517,49',Caprice Chiuchiolo (Ecuador U17) Goal at 49',2024-10-24 01:17:06
+12653,707110,6,44039576,60',Kyra Morgan (New Zealand U17) Substitution at 60',2024-10-24 01:17:06
+12653,707110,7,44039650,75',Emily Fierro (Ecuador U17) Substitution at 75',2024-10-24 01:17:06
+12653,707110,8,44039651,75',Valeria Briones (Ecuador U17) Substitution at 75',2024-10-24 01:17:06
+12653,707110,9,44039652,75',Dariana Morán (Ecuador U17) Substitution at 75',2024-10-24 01:17:06
+12653,707110,10,44039661,77',Mary Brown (New Zealand U17) Substitution at 77',2024-10-24 01:17:06
+12653,707110,11,44039687,79',Dariana Morán (Ecuador U17) Goal at 79',2024-10-24 01:17:06
+12653,707110,12,44039750,86',Esther Carabalí (Ecuador U17) Substitution at 86',2024-10-24 01:17:06
+12653,707110,13,44039751,86',Domenica Palacios (Ecuador U17) Substitution at 86',2024-10-24 01:17:06
+12653,707110,14,44039776,88',Charli Dunn (New Zealand U17) Yellow Card at 88',2024-10-24 01:17:06
+12653,707111,0,44036175,5',Isabella Díaz (Colombia U17) Goal at 5',2024-10-22 23:22:46
+12653,707111,1,44037040,28',Isabella Díaz (Colombia U17) Yellow Card at 28',2024-10-22 23:22:46
+12653,707111,2,44038092,45'+6',Mariana Silva (Colombia U17) Yellow Card at 51',2024-10-24 01:17:06
+12653,707111,3,44038794,45',Maithé López (Colombia U17) Substitution at 45',2024-10-24 01:17:06
+12653,707111,4,44038795,45',Ella Martínez (Colombia U17) Substitution at 45',2024-10-24 01:17:06
+12653,707111,5,44038796,50',Lorena Cubo (Spain U17) Yellow Card at 50',2024-10-24 01:17:06
+12653,707111,6,44038801,57',Martina González (Spain U17) Substitution at 57',2024-10-24 01:17:06
+12653,707111,7,44038802,57',Emma Moreno (Spain U17) Substitution at 57',2024-10-24 01:17:06
+12653,707111,8,44038803,57',Aiara Agirrezabala (Spain U17) Substitution at 57',2024-10-24 01:17:06
+12653,707111,9,44038804,58',Amaya Garcia (Spain U17) Penalty - Scored at 58',2024-10-24 01:17:06
+12653,707111,10,44038807,63',Isabella Díaz (Colombia U17) Red Card at 63',2024-10-24 01:17:06
+12653,707111,11,44038809,70',Paula Comendador (Spain U17) Substitution at 70',2024-10-24 01:17:06
+12653,707111,12,44038810,70',Sophia Posada (Colombia U17) Substitution at 70',2024-10-24 01:17:06
+12653,707111,13,44038817,78',Amor Leigh (Spain U17) Substitution at 78',2024-10-24 01:17:06
+12653,707111,14,44038824,90',Iris Santiago (Spain U17) Goal at 90',2024-10-24 01:17:06
+12653,707111,15,44038827,90'+3',Nicoll Cárdenas (Colombia U17) Substitution at 93',2024-10-24 01:17:06
+12653,707112,0,44044227,6',Miharu Shinjo (Japan U17) Goal at 6',2024-10-24 01:17:06
+12653,707112,1,44044965,34',Mary Mukupa (Zambia U17) Yellow Card at 34',2024-10-24 01:17:06
+12653,707112,2,44045006,35',Haruko Suzuki (Japan U17) Substitution at 35',2024-10-24 01:17:06
+12653,707112,3,44045318,45'+4',Harriet Matipa (Zambia U17) Substitution at 49',2024-10-24 01:17:06
+12653,707112,4,44045416,45',Ririka Nezu (Japan U17) Substitution at 45',2024-10-25 05:18:47
+12653,707112,5,44045417,45',Lilian Mwenda (Zambia U17) Substitution at 45',2024-10-25 05:18:47
+12653,707112,6,44045418,45',Lweendo Hanongo (Zambia U17) Substitution at 45',2024-10-25 05:18:47
+12653,707112,7,44045420,53',Margret Gondwe (Zambia U17) Yellow Card at 53',2024-10-25 05:18:47
+12653,707112,8,44045422,62',Blessing Maluba (Zambia U17) Yellow Card at 62',2024-10-25 05:18:47
+12653,707112,9,44045423,63',Momo Sato (Japan U17) Penalty - Scored at 63',2024-10-25 05:18:47
+12653,707112,10,44045428,69',Miharu Shinjo (Japan U17) Goal at 69',2024-10-25 05:18:47
+12653,707112,11,44045431,71',Anon Tsuda (Japan U17) Substitution at 71',2024-10-25 05:18:47
+12653,707112,12,44045432,71',Amiru Tsuji (Japan U17) Substitution at 71',2024-10-25 05:18:47
+12653,707112,13,44045438,83',Korin Sakata (Japan U17) Substitution at 83',2024-10-25 05:18:47
+12653,707112,14,44045439,83',Ruth Muwowo (Zambia U17) Substitution at 83',2024-10-25 05:18:47
+12653,707112,15,44045441,86',Mitsuki Ota (Japan U17) Goal at 86',2024-10-25 05:18:47
+12653,707112,16,44045442,87',Haruko Suzuki (Japan U17) Own Goal at 87',2024-10-25 05:18:47
+12653,707112,17,44045445,89',Nana Malanda (Zambia U17) Yellow Card at 89',2024-10-25 05:18:47
+12653,707113,0,44045757,10',Kang Ryu-Mi (North Korea U17) Goal at 10',2024-10-25 05:18:47
+12653,707113,1,44045824,18',Choe Il-Son (North Korea U17) Goal at 18',2024-10-25 05:18:47
+12653,707113,2,44046154,45',Ho Kyong (North Korea U17) Substitution at 45',2024-10-25 05:18:47
+12653,707113,3,44046167,45',Olivia Johnson (England U17) Substitution at 45',2024-10-25 05:18:47
+12653,707113,4,44046177,49',Ro Un-Hyang (North Korea U17) Yellow Card at 49',2024-10-25 05:18:47
+12653,707113,5,44046251,63',Sophie Harwood (England U17) Substitution at 63',2024-10-25 05:18:47
+12653,707113,6,44046252,63',Vera Jones (England U17) Substitution at 63',2024-10-25 05:18:47
+12653,707113,7,44046286,68',Zara Shaw (England U17) Yellow Card at 68',2024-10-25 05:18:47
+12653,707113,8,44046278,69',Ri Kuk-Hyang (North Korea U17) Penalty - Scored at 69',2024-10-25 05:18:47
+12653,707113,9,44046301,73',Ho Kyong (North Korea U17) Goal at 73',2024-10-25 05:18:47
+12653,707113,10,44046324,78',Choe Yon-A (North Korea U17) Substitution at 78',2024-10-25 05:18:47
+12653,707113,11,44046325,78',Son Jo-Ye (North Korea U17) Substitution at 78',2024-10-25 05:18:47
+12653,707113,12,44046335,81',Ri Kuk-Hyang (North Korea U17) Yellow Card at 81',2024-10-25 05:18:47
+12653,707113,13,44046344,84',Simone Sherwood (England U17) Substitution at 84',2024-10-25 05:18:47
+12653,707113,14,44046398,88',Pak Ok-I (North Korea U17) Substitution at 88',2024-10-25 05:18:47
+12653,707113,15,44046399,88',Jong Pok-Yong (North Korea U17) Substitution at 88',2024-10-25 05:18:47
+12653,707113,16,44046405,90',Jane Oboavwoduo (England U17) Substitution at 90',2024-10-25 05:18:47
+12653,707114,0,44045795,15',Valerie Nekesa (Kenya U17) Goal at 15',2024-10-25 05:18:47
+12653,707114,1,44045818,17',Natalia Muñoz (Mexico U17) Substitution at 17',2024-10-25 05:18:47
+12653,707114,2,44045954,36',Lornah Faith (Kenya U17) Goal at 36',2024-10-25 05:18:47
+12653,707114,3,44046253,59',Jane Sakwa (Kenya U17) Substitution at 59',2024-10-25 05:18:47
+12653,707114,4,44046254,60',Evelyn Contreras (Mexico U17) Substitution at 60',2024-10-25 05:18:47
+12653,707114,5,44046255,60',Celeste Martínez (Mexico U17) Substitution at 60',2024-10-25 05:18:47
+12653,707114,6,44046256,60',Carla Montes (Mexico U17) Substitution at 60',2024-10-25 05:18:47
+12653,707114,7,44046336,78',Susan Otieno (Kenya U17) Substitution at 78',2024-10-25 05:18:47
+12653,707114,8,44046397,85',Sofia Núñez (Mexico U17) Substitution at 85',2024-10-25 05:18:47
+12653,707114,9,44046418,88',Jenevive Mithel (Kenya U17) Substitution at 88',2024-10-25 05:18:47
+12653,707114,10,44046419,88',Lindey Atieno (Kenya U17) Substitution at 88',2024-10-27 05:19:50
+12653,707114,11,44046438,90'+1',Christine Otieno (Kenya U17) Yellow Card at 91',2024-10-25 05:18:47
+12653,707114,12,44046439,90'+2',Alexa Soto (Mexico U17) Penalty - Scored at 92',2024-10-25 05:18:47
+12653,707115,0,44045100,39',Iga Witkowska (Poland U17) Yellow Card at 39',2024-10-24 01:17:06
+12653,707115,1,44045191,41',Larissa (Brazil U17) Yellow Card at 41',2024-10-24 01:17:06
+12653,707115,2,44045419,45',Emilly Lucas (Brazil U17) Substitution at 45',2024-10-25 05:18:47
+12653,707115,3,44045436,73',Oliwia Zwiazek (Poland U17) Yellow Card at 73',2024-10-25 05:18:47
+12653,707115,4,44045437,73',Kinga Wyrwas (Poland U17) Substitution at 73',2024-10-25 05:18:47
+12653,707115,5,44045444,82',Weronika Arasniewicz (Poland U17) Yellow Card at 82',2024-10-25 05:18:47
+12653,707115,6,44045446,83',Yngrid Piaui (Brazil U17) Substitution at 83',2024-10-25 05:18:47
+12653,707115,7,44045458,89',Zofia Pagowska (Poland U17) Substitution at 89',2024-10-25 05:18:47
+12653,707115,8,44045474,90'+4',Gi Mazzotti (Brazil U17) Yellow Card at 94',2024-10-25 05:18:47
+12653,707115,9,44045475,90'+5',Lena Marczak (Poland U17) Substitution at 95',2024-10-25 05:18:47
+12653,707115,10,44045569,90'+12',Kaylane (Brazil U17) Yellow Card at 102',2024-10-25 05:18:47
+12653,707115,11,44045574,90'+12',Ana Morganti (Brazil U17) Yellow Card at 102',2024-10-25 05:18:47
+12653,707115,12,44045575,90'+12',Ana Morganti (Brazil U17) Red Card at 102',2024-10-25 05:18:47
+12651,704232,0,44106254,47',Jocelyn Travers (United States U17) Yellow Card at 47',2024-10-31 05:23:49
+12651,704232,1,44106274,55',Ho Kyong (North Korea U17) Substitution at 55',2024-10-31 05:23:49
+12651,704232,2,44106284,59',Daya King (United States U17) Substitution at 59',2024-10-31 05:23:49
+12651,704232,3,44106285,59',Maddie Padelski (United States U17) Substitution at 59',2024-11-02 14:41:56
+12651,704232,4,44106309,69',Ro Un-Hyang (North Korea U17) Goal at 69',2024-10-31 05:23:49
+12651,704232,5,44106341,76',Y-Lan Nguyen (United States U17) Substitution at 76',2024-10-31 05:23:49
+12651,704232,6,44106342,77',Jaiden Rodriguez (United States U17) Substitution at 77',2024-10-31 05:23:49
+12651,704232,7,44106387,85',Son Jo-Ye (North Korea U17) Substitution at 85',2024-10-31 05:23:49
+12651,704232,8,44106416,90'+3',Pak Ok-I (North Korea U17) Substitution at 93',2024-10-31 05:23:49
+12651,704233,0,44109874,45'+2',Alba Cerrato (Spain U17) Goal at 47',2024-11-02 14:41:56
+12651,704233,1,44109925,58',Paula Comendador (Spain U17) Goal at 58',2024-11-02 14:41:56
+12651,704233,2,44109978,71',Noa Ortega (Spain U17) Substitution at 71',2024-11-02 14:41:56
+12651,704233,3,44110029,81',Lorena Cubo (Spain U17) Substitution at 81',2024-11-02 14:41:56
+12651,704233,4,44110030,82',Iris Santiago (Spain U17) Substitution at 82',2024-11-02 14:41:56
+12651,704233,5,44110031,82',Emma Moreno (Spain U17) Substitution at 82',2024-11-02 14:41:56
+12651,704233,6,44110048,85',Sophie Harwood (England U17) Substitution at 85',2024-11-02 14:41:56
+12651,704233,7,44110100,90'+4',Elena Vázquez (Spain U17) Substitution at 94',2024-11-02 14:41:56
+12651,704233,8,44110101,90'+5',Eva Gray (England U17) Substitution at 95',2024-11-02 14:41:56
+12651,704233,9,44110119,90'+7',Isabella Fisher (England U17) Substitution at 97',2024-11-02 14:41:56
+12651,704233,10,44110120,90'+9',Zara Shaw (England U17) Own Goal at 99',2024-11-02 14:41:56
+12650,704234,0,44136321,24',Kennedy Fuller (United States U17) Goal at 24',2024-11-04 22:48:25
+12650,704234,1,44136529,45'+2',Kennedy Fuller (United States U17) Yellow Card at 47',2024-11-04 22:48:25
+12650,704234,2,44136738,45',Jane Oboavwoduo (England U17) Substitution at 45',2024-11-04 22:48:25
+12650,704234,3,44136782,45',Jaiden Rodriguez (United States U17) Substitution at 45',2024-11-04 22:48:25
+12650,704234,4,44136783,45',Micayla Johnson (United States U17) Substitution at 45',2024-11-04 22:48:25
+12650,704234,5,44136927,63',Emily Cassap (England U17) Substitution at 63',2024-11-04 22:48:25
+12650,704234,6,44136968,69',Maddie Padelski (United States U17) Substitution at 69',2024-11-04 22:48:25
+12650,704234,7,44136991,72',Ainsley McCammon (United States U17) Goal at 72',2024-11-04 22:48:25
+12650,704234,8,44137061,78',Isabella Fisher (England U17) Substitution at 78',2024-11-04 22:48:25
+12650,704234,9,44137062,78',Daya King (United States U17) Substitution at 78',2024-11-04 22:48:25
+12650,704234,10,44137189,87',Scottie Antonucci (United States U17) Substitution at 87',2024-11-04 22:48:25
+12650,704234,11,44137190,88',Rebekah Dowsett (England U17) Substitution at 88',2024-11-04 22:48:25
+12650,704234,12,44137191,88',Sophie Harwood (England U17) Substitution at 88',2024-11-04 22:48:25
+12650,704234,13,44137239,90'+2',Maddie Padelski (United States U17) Goal at 92',2024-11-04 22:48:25

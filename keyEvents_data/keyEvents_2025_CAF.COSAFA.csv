@@ -1,0 +1,536 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13415,739303,1,45392342,94,1,1860,31',0,0,Vidinho (Angola) Yellow Card at 31',Vidinho Yellow Card,653,0.0,0.0,0.0,0.0,0.0,0.0,1,314477,2025-06-16 05:09:24
+13415,739303,1,45392342,94,1,1860,31',0,0,Vidinho (Angola) Yellow Card at 31',Vidinho Yellow Card,653,0.0,0.0,0.0,0.0,0.0,0.0,1,326280,2025-06-16 05:09:24
+13415,739303,2,45392343,70,1,2580,43',1,0,Depú (Angola) Goal at 43',Depú Goal,653,0.0,0.0,0.0,0.0,0.0,0.0,1,330973,2025-06-16 05:09:24
+13415,739303,3,45392344,94,1,2700,45'+2',0,0,Kamogelo Sebelebele (South Africa) Yellow Card at 47',Kamogelo Sebelebele Yellow Card,467,0.0,0.0,0.0,0.0,0.0,0.0,1,337134,2025-06-16 05:09:24
+13415,739303,4,45392345,76,2,3420,57',0,0,Felicio Milson (Angola) Substitution at 57',Felicio Milson Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,257000,2025-06-16 05:09:24
+13415,739303,4,45392345,76,2,3420,57',0,0,Felicio Milson (Angola) Substitution at 57',Felicio Milson Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,276847,2025-06-16 05:09:24
+13415,739303,5,45392346,70,2,3720,62',1,0,Depú (Angola) Goal at 62',Depú Goal,653,0.0,0.0,0.0,0.0,0.0,0.0,1,330973,2025-06-16 05:09:24
+13415,739303,6,45392347,76,2,3840,64',0,0,Sanele Barns (South Africa) Substitution at 64',Sanele Barns Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,309019,2025-06-16 05:09:24
+13415,739303,6,45392347,76,2,3840,64',0,0,Sanele Barns (South Africa) Substitution at 64',Sanele Barns Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,390445,2025-06-16 05:09:24
+13415,739303,7,45392348,76,2,4139,69',0,0,Victor Letsoalo (South Africa) Substitution at 69',Victor Letsoalo Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,264761,2025-06-16 05:09:24
+13415,739303,7,45392348,76,2,4139,69',0,0,Victor Letsoalo (South Africa) Substitution at 69',Victor Letsoalo Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,267351,2025-06-16 05:09:24
+13415,739303,8,45392349,76,2,4140,69',0,0,Mduduzi Shabalala (South Africa) Substitution at 69',Mduduzi Shabalala Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,332564,2025-06-16 05:09:24
+13415,739303,8,45392349,76,2,4140,69',0,0,Mduduzi Shabalala (South Africa) Substitution at 69',Mduduzi Shabalala Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,365549,2025-06-16 05:09:24
+13415,739303,9,45392350,76,2,4559,76',0,0,Além (Angola) Substitution at 76',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,257001,2025-06-16 05:09:24
+13415,739303,9,45392350,76,2,4559,76',0,0,Além (Angola) Substitution at 76',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,114013,2025-06-16 05:09:24
+13415,739303,9,45392350,76,2,4559,76',0,0,Além (Angola) Substitution at 76',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,357781,2025-06-16 05:09:24
+13415,739303,10,45392351,76,2,4560,76',0,0,Simão Dianzenza (Angola) Substitution at 76',Simão Dianzenza Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,365321,2025-06-16 05:09:24
+13415,739303,10,45392351,76,2,4560,76',0,0,Simão Dianzenza (Angola) Substitution at 76',Simão Dianzenza Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,313915,2025-06-16 05:09:24
+13415,739303,11,45392352,70,2,4860,81',1,0,Felicio Milson (Angola) Goal at 81',Felicio Milson Goal,653,0.0,0.0,0.0,0.0,0.0,0.0,1,257000,2025-06-16 05:09:24
+13415,739303,12,45392353,76,2,4919,82',0,0,Mokibelo Ramabu (South Africa) Substitution at 82',Mokibelo Ramabu Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,365616,2025-06-16 05:09:24
+13415,739303,12,45392353,76,2,4919,82',0,0,Mokibelo Ramabu (South Africa) Substitution at 82',Mokibelo Ramabu Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,305685,2025-06-16 05:09:24
+13415,739303,13,45392354,76,2,4920,82',0,0,Masindi Nemtajela (South Africa) Substitution at 82',Masindi Nemtajela Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,391765,2025-06-16 05:09:24
+13415,739303,13,45392354,76,2,4920,82',0,0,Masindi Nemtajela (South Africa) Substitution at 82',Masindi Nemtajela Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,332563,2025-06-16 05:09:24
+13415,739303,14,45392355,76,2,5099,85',0,0,António Hossi (Angola) Substitution at 85',António Hossi Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,344903,2025-06-16 05:09:24
+13415,739303,14,45392355,76,2,5099,85',0,0,António Hossi (Angola) Substitution at 85',António Hossi Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,354194,2025-06-16 05:09:24
+13415,739303,14,45392355,76,2,5099,85',0,0,António Hossi (Angola) Substitution at 85',António Hossi Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,242006,2025-06-16 05:09:24
+13415,739303,15,45392356,76,2,5100,85',0,0,Chico Banza (Angola) Substitution at 85',Chico Banza Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,274320,2025-06-16 05:09:24
+13415,739303,15,45392356,76,2,5100,85',0,0,Chico Banza (Angola) Substitution at 85',Chico Banza Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,256996,2025-06-16 05:09:24
+13415,739303,15,45392356,76,2,5100,85',0,0,Chico Banza (Angola) Substitution at 85',Chico Banza Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,330973,2025-06-16 05:09:24
+13416,739304,1,45392322,94,1,900,15',0,0,Ibrahim Madi (Comoros) Yellow Card at 15',Ibrahim Madi Yellow Card,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,248120,2025-06-17 05:08:18
+13416,739304,2,45392323,76,1,1919,32',0,0,Yannis Kari (Comoros) Substitution at 32',Yannis Kari Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,370528,2025-06-17 05:08:18
+13416,739304,2,45392323,76,1,1919,32',0,0,Yannis Kari (Comoros) Substitution at 32',Yannis Kari Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,350767,2025-06-17 05:08:18
+13416,739304,3,45392324,76,1,1920,32',0,0,Nasuir Hamidou Ali (Comoros) Substitution at 32',Nasuir Hamidou Ali Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,405178,2025-06-17 05:08:18
+13416,739304,3,45392324,76,1,1920,32',0,0,Nasuir Hamidou Ali (Comoros) Substitution at 32',Nasuir Hamidou Ali Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,350768,2025-06-17 05:08:18
+13416,739304,4,45392325,94,1,2280,38',0,0,Mohamed Ismaël (Comoros) Yellow Card at 38',Mohamed Ismaël Yellow Card,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,369613,2025-06-17 05:08:18
+13416,739304,5,45392326,76,2,2760,46',0,0,Nantenaina Razafimahatana (Madagascar) Substitution at 46',Nantenaina Razafimahatana Substi,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405295,2025-06-17 05:08:18
+13416,739304,5,45392326,76,2,2760,46',0,0,Nantenaina Razafimahatana (Madagascar) Substitution at 46',Nantenaina Razafimahatana Substi,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,369591,2025-06-17 05:08:18
+13416,739304,6,45392327,94,2,2940,49',0,0,Félicité Mantasoa (Madagascar) Yellow Card at 49',Félicité Mantasoa Yellow Card,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405287,2025-06-17 05:08:18
+13416,739304,7,45392328,94,2,3540,59',0,0,Alfonsi Ahmed Haslane (Comoros) Yellow Card at 59',Alfonsi Ahmed Haslane Yellow Car,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,369615,2025-06-17 05:08:18
+13416,739304,7,45392328,94,2,3540,59',0,0,Alfonsi Ahmed Haslane (Comoros) Yellow Card at 59',Alfonsi Ahmed Haslane Yellow Car,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,365084,2025-06-17 05:08:18
+13416,739304,8,45392329,76,2,3720,62',0,0,Christiano Razafimanana (Madagascar) Substitution at 62',Christiano Razafimanana Substitu,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405318,2025-06-17 05:08:18
+13416,739304,8,45392329,76,2,3720,62',0,0,Christiano Razafimanana (Madagascar) Substitution at 62',Christiano Razafimanana Substitu,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,405279,2025-06-17 05:08:18
+13416,739304,9,45392330,76,2,4080,68',0,0,Nassim Ahmed (Comoros) Substitution at 68',Nassim Ahmed Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,304517,2025-06-17 05:08:18
+13416,739304,9,45392330,76,2,4080,68',0,0,Nassim Ahmed (Comoros) Substitution at 68',Nassim Ahmed Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,369615,2025-06-17 05:08:18
+13416,739304,9,45392330,76,2,4080,68',0,0,Nassim Ahmed (Comoros) Substitution at 68',Nassim Ahmed Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,365084,2025-06-17 05:08:18
+13416,739304,10,45392331,70,2,4620,77',1,0,Ibroihim Djoudja (Comoros) Goal at 77',Ibroihim Djoudja Goal,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,274254,2025-06-17 05:08:18
+13416,739304,11,45392332,76,2,4860,81',0,0,Mohamed Soulaimana (Comoros) Substitution at 81',Mohamed Soulaimana Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,405207,2025-06-17 05:08:18
+13416,739304,11,45392332,76,2,4860,81',0,0,Mohamed Soulaimana (Comoros) Substitution at 81',Mohamed Soulaimana Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,369613,2025-06-17 05:08:18
+13416,739304,12,45392333,76,2,4920,82',0,0,Fenohasina Razafimaro (Madagascar) Substitution at 82',Fenohasina Razafimaro Substituti,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,345381,2025-06-17 05:08:18
+13416,739304,12,45392333,76,2,4920,82',0,0,Fenohasina Razafimaro (Madagascar) Substitution at 82',Fenohasina Razafimaro Substituti,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,405299,2025-06-17 05:08:18
+13416,739304,13,45392334,94,2,5220,87',0,0,Naime Said Mchindra (Comoros) Yellow Card at 87',Naime Said Mchindra Yellow Card,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,396620,2025-06-17 05:08:18
+13416,739304,16,45392337,94,2,5400,90'+3',0,0,Mamisoa Rakotoson (Madagascar) Yellow Card at 93',Mamisoa Rakotoson Yellow Card,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405292,2025-06-17 05:08:18
+13416,739304,17,45392338,94,2,5400,90'+8',0,0,Fenohasina Razafimaro (Madagascar) Yellow Card at 98',Fenohasina Razafimaro Yellow Car,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,345381,2025-06-17 05:08:18
+13416,739304,14,45392335,76,2,5400,90'+2',0,0,Onjaniaina Hasinirina (Madagascar) Substitution at 92',Onjaniaina Hasinirina Substituti,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,320797,2025-06-17 05:08:18
+13416,739304,15,45392336,76,2,5400,90'+2',0,0,Tinoh Tokiniana (Madagascar) Substitution at 92',Tinoh Tokiniana Substitution,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405298,2025-06-17 05:08:18
+13416,739304,14,45392335,76,2,5400,90'+2',0,0,Onjaniaina Hasinirina (Madagascar) Substitution at 92',Onjaniaina Hasinirina Substituti,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,370078,2025-06-17 05:08:18
+13416,739304,15,45392336,76,2,5400,90'+2',0,0,Tinoh Tokiniana (Madagascar) Substitution at 92',Tinoh Tokiniana Substitution,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,405287,2025-06-17 05:08:18
+13417,738653,1,45385953,98,1,1140,19',1,0,Depú (Angola) Penalty - Scored at 19',Depú Penalty - Scored,653,0.0,0.0,0.0,0.0,0.0,0.0,1,330973,2025-06-14 05:26:42
+13417,738653,2,45385954,94,1,2160,36',0,0,Toky Randrianirina (Madagascar) Yellow Card at 36',Toky Randrianirina Yellow Card,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405297,2025-06-14 05:26:42
+13417,738653,3,45385955,113,1,2340,39',0,0,Depú (Angola) Penalty - Missed at 39',Depú Penalty - Missed,653,0.0,0.0,0.0,0.0,0.0,0.0,1,330973,2025-06-14 05:26:42
+13417,738653,4,45385956,70,1,2355,40',1,0,Depú (Angola) Goal at 40',Depú Goal,653,0.0,0.0,0.0,0.0,0.0,0.0,1,330973,2025-06-14 05:26:42
+13417,738653,5,45385958,76,2,2757,46',0,0,Nantenaina Razafimahatana (Madagascar) Substitution at 46',Nantenaina Razafimahatana Substi,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405295,2025-06-14 05:26:42
+13417,738653,5,45385958,76,2,2757,46',0,0,Nantenaina Razafimahatana (Madagascar) Substitution at 46',Nantenaina Razafimahatana Substi,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,405318,2025-06-14 05:26:42
+13417,738653,6,45385959,76,2,2758,46',0,0,Fenohasina Razafimaro (Madagascar) Substitution at 46',Fenohasina Razafimaro Substituti,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,345381,2025-06-14 05:26:42
+13417,738653,6,45385959,76,2,2758,46',0,0,Fenohasina Razafimaro (Madagascar) Substitution at 46',Fenohasina Razafimaro Substituti,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,258348,2025-06-14 05:26:42
+13417,738653,7,45385960,76,2,2759,46',0,0,Onjaniaina Hasinirina (Madagascar) Substitution at 46',Onjaniaina Hasinirina Substituti,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,320797,2025-06-14 05:26:42
+13417,738653,7,45385960,76,2,2759,46',0,0,Onjaniaina Hasinirina (Madagascar) Substitution at 46',Onjaniaina Hasinirina Substituti,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,345375,2025-06-14 05:26:42
+13417,738653,8,45385957,76,2,2760,46',0,0,Fanomezantsoa Rakotonandrasana (Madagascar) Substitution at 46',Fanomezantsoa Rakotonandrasana S,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405288,2025-06-14 05:26:42
+13417,738653,8,45385957,76,2,2760,46',0,0,Fanomezantsoa Rakotonandrasana (Madagascar) Substitution at 46',Fanomezantsoa Rakotonandrasana S,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,405299,2025-06-14 05:26:42
+13417,738653,9,45385961,94,2,3120,52',0,0,Nantenaina Razafimahatana (Madagascar) Yellow Card at 52',Nantenaina Razafimahatana Yellow,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405295,2025-06-14 05:26:42
+13417,738653,10,45385962,94,2,3360,56',0,0,Randy Nteka (Angola) Yellow Card at 56',Randy Nteka Yellow Card,653,0.0,0.0,0.0,0.0,0.0,0.0,1,276847,2025-06-14 05:26:42
+13417,738653,11,45385963,94,2,3600,60',0,0,Neblú (Angola) Yellow Card at 60',Neblú Yellow Card,653,0.0,0.0,0.0,0.0,0.0,0.0,1,204599,2025-06-14 05:26:42
+13417,738653,13,45385965,76,2,3720,62',0,0,Além (Angola) Substitution at 62',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,257001,2025-06-14 05:26:42
+13417,738653,13,45385965,76,2,3720,62',0,0,Além (Angola) Substitution at 62',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,114013,2025-06-14 05:26:42
+13417,738653,12,45385964,94,2,3720,62',0,0,Felicio Milson (Angola) Yellow Card at 62',Felicio Milson Yellow Card,653,0.0,0.0,0.0,0.0,0.0,0.0,1,257000,2025-06-14 05:26:42
+13417,738653,13,45385965,76,2,3720,62',0,0,Além (Angola) Substitution at 62',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,276847,2025-06-14 05:26:42
+13417,738653,14,45385967,76,2,4198,70',0,0,Chico Banza (Angola) Substitution at 70',Chico Banza Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,256996,2025-06-14 05:26:42
+13417,738653,14,45385967,76,2,4198,70',0,0,Chico Banza (Angola) Substitution at 70',Chico Banza Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,274320,2025-06-14 05:26:42
+13417,738653,14,45385967,76,2,4198,70',0,0,Chico Banza (Angola) Substitution at 70',Chico Banza Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,257000,2025-06-14 05:26:42
+13417,738653,15,45385966,76,2,4200,70',0,0,Kaporal (Angola) Substitution at 70',Kaporal Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,263367,2025-06-14 05:26:42
+13417,738653,15,45385966,76,2,4200,70',0,0,Kaporal (Angola) Substitution at 70',Kaporal Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,330973,2025-06-14 05:26:42
+13417,738653,16,45385968,70,2,4440,74',1,0,Zini (Angola) Goal at 74',Zini Goal,653,0.0,0.0,0.0,0.0,0.0,0.0,1,297754,2025-06-14 05:26:42
+13417,738653,17,45385969,76,2,4980,83',0,0,Andonilaina Tokiniaina (Madagascar) Substitution at 83',Andonilaina Tokiniaina Substitut,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405480,2025-06-14 05:26:42
+13417,738653,17,45385969,76,2,4980,83',0,0,Andonilaina Tokiniaina (Madagascar) Substitution at 83',Andonilaina Tokiniaina Substitut,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,405292,2025-06-14 05:26:42
+13417,738653,18,45385971,76,2,5098,85',0,0,Caica (Angola) Substitution at 85',Caica Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,404969,2025-06-14 05:26:42
+13417,738653,18,45385971,76,2,5098,85',0,0,Caica (Angola) Substitution at 85',Caica Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,272027,2025-06-14 05:26:42
+13417,738653,19,45385970,76,2,5100,85',0,0,Mendinho (Angola) Substitution at 85',Mendinho Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,315539,2025-06-14 05:26:42
+13417,738653,19,45385970,76,2,5100,85',0,0,Mendinho (Angola) Substitution at 85',Mendinho Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,183070,2025-06-14 05:26:42
+13417,738653,20,45385972,70,2,5160,86',1,0,Além (Angola) Goal at 86',Além Goal,653,0.0,0.0,0.0,0.0,0.0,0.0,1,114013,2025-06-14 05:26:42
+13417,738653,20,45385972,70,2,5160,86',1,0,Além (Angola) Goal at 86',Além Goal,653,0.0,0.0,0.0,0.0,0.0,0.0,1,257001,2025-06-14 05:26:42
+13417,738653,21,45385973,94,2,5280,88',0,0,Lalaina Rafanomezantsoa (Madagascar) Yellow Card at 88',Lalaina Rafanomezantsoa Yellow C,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,345577,2025-06-14 05:26:42
+13417,738653,22,45385974,70,2,5400,90'+2',1,0,Nantenaina Razafimahatana (Madagascar) Goal at 92',Nantenaina Razafimahatana Goal,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405295,2025-06-14 05:26:42
+13417,738654,1,45386009,97,1,480,8',1,0,Idris Mohamed (Comoros) Own Goal at 8',Idris Mohamed Own Goal,467,0.0,0.0,0.0,0.0,0.0,0.0,1,405177,2025-06-14 05:26:42
+13417,738654,2,45386010,70,1,840,14',1,0,Boitumelo Radiopane (South Africa) Goal at 14',Boitumelo Radiopane Goal,467,0.0,0.0,0.0,0.0,0.0,0.0,1,324377,2025-06-14 05:26:42
+13417,738654,3,45386011,94,1,1680,28',0,0,Idris Mohamed (Comoros) Yellow Card at 28',Idris Mohamed Yellow Card,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,405177,2025-06-14 05:26:42
+13417,738654,4,45386012,70,1,1740,29',1,0,Ibrahim Madi (Comoros) Goal at 29',Ibrahim Madi Goal,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,248120,2025-06-14 05:26:42
+13417,738654,5,45386013,76,2,2756,46',0,0,Vuyo Letlapa (South Africa) Substitution at 46',Vuyo Letlapa Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,390445,2025-06-14 05:26:42
+13417,738654,5,45386013,76,2,2756,46',0,0,Vuyo Letlapa (South Africa) Substitution at 46',Vuyo Letlapa Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,267351,2025-06-14 05:26:42
+13417,738654,6,45386014,76,2,2757,46',0,0,Masindi Nemtajela (South Africa) Substitution at 46',Masindi Nemtajela Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,391765,2025-06-14 05:26:42
+13417,738654,6,45386014,76,2,2757,46',0,0,Masindi Nemtajela (South Africa) Substitution at 46',Masindi Nemtajela Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,332564,2025-06-14 05:26:42
+13417,738654,7,45386015,76,2,2758,46',0,0,Naimoudine Assane (Comoros) Substitution at 46',Naimoudine Assane Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,386146,2025-06-14 05:26:42
+13417,738654,7,45386015,76,2,2758,46',0,0,Naimoudine Assane (Comoros) Substitution at 46',Naimoudine Assane Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,369615,2025-06-14 05:26:42
+13417,738654,7,45386015,76,2,2758,46',0,0,Naimoudine Assane (Comoros) Substitution at 46',Naimoudine Assane Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,365084,2025-06-14 05:26:42
+13417,738654,8,45386016,76,2,2759,46',0,0,Yahaya Medard (Comoros) Substitution at 46',Yahaya Medard Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,356870,2025-06-14 05:26:42
+13417,738654,8,45386016,76,2,2759,46',0,0,Yahaya Medard (Comoros) Substitution at 46',Yahaya Medard Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,376965,2025-06-14 05:26:42
+13417,738654,9,45386017,94,2,3180,53',0,0,Naimoudine Assane (Comoros) Yellow Card at 53',Naimoudine Assane Yellow Card,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,386146,2025-06-14 05:26:42
+13417,738654,10,45386018,70,2,3600,60',1,0,Kamogelo Sebelebele (South Africa) Goal at 60',Kamogelo Sebelebele Goal,467,0.0,0.0,0.0,0.0,0.0,0.0,1,337134,2025-06-14 05:26:42
+13417,738654,11,45386019,94,2,3720,62',0,0,Siphesihle Mkhize (South Africa) Yellow Card at 62',Siphesihle Mkhize Yellow Card,467,0.0,0.0,0.0,0.0,0.0,0.0,1,287479,2025-06-14 05:26:42
+13417,738654,12,45386020,76,2,4080,68',0,0,Yandisa Mfolozi (South Africa) Substitution at 68',Yandisa Mfolozi Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,348927,2025-06-14 05:26:42
+13417,738654,12,45386020,76,2,4080,68',0,0,Yandisa Mfolozi (South Africa) Substitution at 68',Yandisa Mfolozi Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,365549,2025-06-14 05:26:42
+13417,738654,13,45386021,76,2,4260,71',0,0,Victor Letsoalo (South Africa) Substitution at 71',Victor Letsoalo Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,264761,2025-06-14 05:26:42
+13417,738654,13,45386021,76,2,4260,71',0,0,Victor Letsoalo (South Africa) Substitution at 71',Victor Letsoalo Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,324377,2025-06-14 05:26:42
+13417,738654,14,45386022,76,2,4320,72',0,0,Achirafi El Farouk (Comoros) Substitution at 72',Achirafi El Farouk Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,405205,2025-06-14 05:26:42
+13417,738654,14,45386022,76,2,4320,72',0,0,Achirafi El Farouk (Comoros) Substitution at 72',Achirafi El Farouk Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,376799,2025-06-14 05:26:42
+13417,738654,15,45386023,93,2,4738,79',0,0,Naimoudine Assane (Comoros) Red Card at 79',Naimoudine Assane Red Card,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,386146,2025-06-14 05:26:42
+13417,738654,16,45386024,94,2,4739,79',0,0,Affane Djambae (Comoros) Yellow Card at 79',Affane Djambae Yellow Card,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,369616,2025-06-14 05:26:42
+13417,738654,17,45386025,76,2,5038,84',0,0,Sanele Barns (South Africa) Substitution at 84',Sanele Barns Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,309019,2025-06-14 05:26:42
+13417,738654,17,45386025,76,2,5038,84',0,0,Sanele Barns (South Africa) Substitution at 84',Sanele Barns Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,305685,2025-06-14 05:26:42
+13417,738654,18,45386026,76,2,5039,84',0,0,Karim Mohamed (Comoros) Substitution at 84',Karim Mohamed Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,214960,2025-06-14 05:26:42
+13417,738654,18,45386026,76,2,5039,84',0,0,Karim Mohamed (Comoros) Substitution at 84',Karim Mohamed Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,274254,2025-06-14 05:26:42
+13418,736439,1,45350263,76,1,1861,32',0,0,Fernando Domingos (Mozambique) Substitution at 32',Fernando Domingos Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,386106,2025-06-05 04:54:49
+13418,736439,1,45350263,76,1,1861,32',0,0,Fernando Domingos (Mozambique) Substitution at 32',Fernando Domingos Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,2,386103,2025-06-05 04:54:49
+13418,736439,2,45350264,76,2,3481,59',0,0,Cremildo (Mozambique) Substitution at 59',Cremildo Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,397079,2025-06-05 04:54:49
+13418,736439,2,45350264,76,2,3481,59',0,0,Cremildo (Mozambique) Substitution at 59',Cremildo Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,2,386108,2025-06-05 04:54:49
+13418,736439,3,45350265,76,2,3901,66',0,0,Mduduzi Shabalala (South Africa) Substitution at 66',Mduduzi Shabalala Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,332564,2025-06-05 04:54:49
+13418,736439,3,45350265,76,2,3901,66',0,0,Mduduzi Shabalala (South Africa) Substitution at 66',Mduduzi Shabalala Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,287479,2025-06-05 04:54:49
+13418,736439,4,45350266,70,2,4321,73',1,0,António Sumbane (Mozambique) Goal at 73',António Sumbane Goal,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,404911,2025-06-05 04:54:49
+13418,736439,5,45350267,76,2,4561,77',0,0,Boitumelo Radiopane (South Africa) Substitution at 77',Boitumelo Radiopane Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,324377,2025-06-05 04:54:49
+13418,736439,5,45350267,76,2,4561,77',0,0,Boitumelo Radiopane (South Africa) Substitution at 77',Boitumelo Radiopane Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,264761,2025-06-05 04:54:49
+13418,736439,6,45350268,76,2,4621,78',0,0,Wandile Duba (South Africa) Substitution at 78',Wandile Duba Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,354725,2025-06-05 04:54:49
+13418,736439,6,45350268,76,2,4621,78',0,0,Wandile Duba (South Africa) Substitution at 78',Wandile Duba Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,267351,2025-06-05 04:54:49
+13418,736439,7,45350269,76,2,4622,78',0,0,Mokibelo Ramabu (South Africa) Substitution at 78',Mokibelo Ramabu Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,365616,2025-06-05 04:54:49
+13418,736439,7,45350269,76,2,4622,78',0,0,Mokibelo Ramabu (South Africa) Substitution at 78',Mokibelo Ramabu Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,337134,2025-06-05 04:54:49
+13418,736439,8,45350270,76,2,5101,86',0,0,Fezile Gcaba (South Africa) Substitution at 86',Fezile Gcaba Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,287488,2025-06-05 04:54:49
+13418,736439,8,45350270,76,2,5101,86',0,0,Fezile Gcaba (South Africa) Substitution at 86',Fezile Gcaba Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,365549,2025-06-05 04:54:49
+13418,736439,9,45350271,76,2,5221,88',0,0,Kélvio (Mozambique) Substitution at 88',Kélvio Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,397085,2025-06-05 04:54:49
+13418,736439,9,45350271,76,2,5221,88',0,0,Kélvio (Mozambique) Substitution at 88',Kélvio Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,2,354866,2025-06-05 04:54:49
+13418,736440,1,45350293,94,1,661,12',0,0,Stephen De Robillard (Mauritius) Yellow Card at 12',Stephen De Robillard Yellow Card,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,385140,2025-06-05 04:54:49
+13418,736440,2,45350294,76,2,2821,48',0,0,Pascal Colin (Mauritius) Substitution at 48',Pascal Colin Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,363559,2025-06-05 04:54:49
+13418,736440,2,45350294,76,2,2821,48',0,0,Pascal Colin (Mauritius) Substitution at 48',Pascal Colin Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,247303,2025-06-05 04:54:49
+13418,736440,3,45350295,76,2,3841,65',0,0,Mafios Chiweta (Zimbabwe) Substitution at 65',Mafios Chiweta Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,404934,2025-06-05 04:54:49
+13418,736440,3,45350295,76,2,3841,65',0,0,Mafios Chiweta (Zimbabwe) Substitution at 65',Mafios Chiweta Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,2,404909,2025-06-05 04:54:49
+13418,736440,4,45350296,76,2,4741,80',0,0,Angel Arthee (Mauritius) Substitution at 80',Angel Arthee Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,404923,2025-06-05 04:54:49
+13418,736440,4,45350296,76,2,4741,80',0,0,Angel Arthee (Mauritius) Substitution at 80',Angel Arthee Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,247292,2025-06-05 04:54:49
+13418,736440,5,45350297,76,2,4742,80',0,0,William Francois (Mauritius) Substitution at 80',William Francois Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,385141,2025-06-05 04:54:49
+13418,736440,5,45350297,76,2,4742,80',0,0,William Francois (Mauritius) Substitution at 80',William Francois Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,390927,2025-06-05 04:54:49
+13418,736440,6,45350298,76,2,4743,80',0,0,Fabrice Brasse (Mauritius) Substitution at 80',Fabrice Brasse Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,280476,2025-06-05 04:54:49
+13418,736440,6,45350298,76,2,4743,80',0,0,Fabrice Brasse (Mauritius) Substitution at 80',Fabrice Brasse Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,385140,2025-06-05 04:54:49
+13418,736440,7,45350299,76,2,4981,84',0,0,Prince Ndlovu (Zimbabwe) Substitution at 84',Prince Ndlovu Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,404932,2025-06-05 04:54:49
+13418,736440,7,45350299,76,2,4981,84',0,0,Prince Ndlovu (Zimbabwe) Substitution at 84',Prince Ndlovu Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,2,382546,2025-06-05 04:54:49
+13418,736440,8,45350300,76,2,4982,84',0,0,Denzel Mapuwa (Zimbabwe) Substitution at 84',Denzel Mapuwa Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,386218,2025-06-05 04:54:49
+13418,736440,8,45350300,76,2,4982,84',0,0,Denzel Mapuwa (Zimbabwe) Substitution at 84',Denzel Mapuwa Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,2,404931,2025-06-05 04:54:49
+13418,736440,9,45350301,76,2,5221,88',0,0,Calvin Chigara (Zimbabwe) Substitution at 88',Calvin Chigara Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,404933,2025-06-05 04:54:49
+13418,736440,9,45350301,76,2,5221,88',0,0,Calvin Chigara (Zimbabwe) Substitution at 88',Calvin Chigara Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,2,386158,2025-06-05 04:54:49
+13418,736440,10,45350302,76,2,5400,90'+1',0,0,Bradley Antoine (Mauritius) Substitution at 91',Bradley Antoine Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,376826,2025-06-05 04:54:49
+13418,736440,10,45350302,76,2,5400,90'+1',0,0,Bradley Antoine (Mauritius) Substitution at 91',Bradley Antoine Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,280479,2025-06-05 04:54:49
+13418,736440,10,45350302,76,2,5400,90'+1',0,0,Bradley Antoine (Mauritius) Substitution at 91',Bradley Antoine Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,280249,2025-06-05 04:54:49
+13418,736441,1,45352561,76,2,2759,46',0,0,Kananelo Rapuleng (Lesotho) Substitution at 46',Kananelo Rapuleng Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,405190,2025-06-06 05:11:18
+13418,736441,1,45352561,76,2,2759,46',0,0,Kananelo Rapuleng (Lesotho) Substitution at 46',Kananelo Rapuleng Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,283468,2025-06-06 05:11:18
+13418,736441,2,45352562,76,2,2760,46',0,0,Tumelo Makha (Lesotho) Substitution at 46',Tumelo Makha Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,320781,2025-06-06 05:11:18
+13418,736441,2,45352562,76,2,2760,46',0,0,Tumelo Makha (Lesotho) Substitution at 46',Tumelo Makha Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,386220,2025-06-06 05:11:18
+13418,736441,3,45352563,76,2,3480,58',0,0,Andrew Jovinala (Malawi) Substitution at 58',Andrew Jovinala Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,1,405182,2025-06-06 05:11:18
+13418,736441,3,45352563,76,2,3480,58',0,0,Andrew Jovinala (Malawi) Substitution at 58',Andrew Jovinala Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,2,385078,2025-06-06 05:11:18
+13418,736441,4,45352564,76,2,3540,59',0,0,Promise Kamwendo (Malawi) Substitution at 59',Promise Kamwendo Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,1,405186,2025-06-06 05:11:18
+13418,736441,4,45352564,76,2,3540,59',0,0,Promise Kamwendo (Malawi) Substitution at 59',Promise Kamwendo Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,2,384936,2025-06-06 05:11:18
+13418,736441,5,45352565,94,2,3900,65',0,0,Tumelo Makha (Lesotho) Yellow Card at 65',Tumelo Makha Yellow Card,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,320781,2025-06-06 05:11:18
+13418,736441,6,45352566,94,2,4320,72',0,0,Lehlohonolo Matsau (Lesotho) Yellow Card at 72',Lehlohonolo Matsau Yellow Card,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,345129,2025-06-06 05:11:18
+13418,736441,7,45352567,76,2,4380,73',0,0,Teboho Masuoane (Lesotho) Substitution at 73',Teboho Masuoane Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,384900,2025-06-06 05:11:18
+13418,736441,7,45352567,76,2,4380,73',0,0,Teboho Masuoane (Lesotho) Substitution at 73',Teboho Masuoane Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,405194,2025-06-06 05:11:18
+13418,736441,8,45352568,94,2,4440,74',0,0,Kananelo Rapuleng (Lesotho) Yellow Card at 74',Kananelo Rapuleng Yellow Card,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,405190,2025-06-06 05:11:18
+13418,736441,9,45352569,76,2,4679,78',0,0,Leluma Phosholi (Lesotho) Substitution at 78',Leluma Phosholi Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,405176,2025-06-06 05:11:18
+13418,736441,9,45352569,76,2,4679,78',0,0,Leluma Phosholi (Lesotho) Substitution at 78',Leluma Phosholi Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,379154,2025-06-06 05:11:18
+13418,736441,10,45352570,76,2,4680,78',0,0,Makara Ntaitsane (Lesotho) Substitution at 78',Makara Ntaitsane Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,405193,2025-06-06 05:11:18
+13418,736441,10,45352570,76,2,4680,78',0,0,Makara Ntaitsane (Lesotho) Substitution at 78',Makara Ntaitsane Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,281845,2025-06-06 05:11:18
+13418,736441,11,45352571,94,2,4800,80',0,0,Makara Ntaitsane (Lesotho) Yellow Card at 80',Makara Ntaitsane Yellow Card,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,405193,2025-06-06 05:11:18
+13418,736441,12,45352572,70,2,4980,83',1,0,Makara Ntaitsane (Lesotho) Goal at 83',Makara Ntaitsane Goal,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,405193,2025-06-06 05:11:18
+13418,736441,13,45352573,76,2,5279,88',0,0,Gaddie Chirwa (Malawi) Substitution at 88',Gaddie Chirwa Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,1,360461,2025-06-06 05:11:18
+13418,736441,13,45352573,76,2,5279,88',0,0,Gaddie Chirwa (Malawi) Substitution at 88',Gaddie Chirwa Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,2,393719,2025-06-06 05:11:18
+13418,736441,14,45352574,76,2,5280,88',0,0,Blessings Singini (Malawi) Substitution at 88',Blessings Singini Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,1,365547,2025-06-06 05:11:18
+13418,736441,14,45352574,76,2,5280,88',0,0,Blessings Singini (Malawi) Substitution at 88',Blessings Singini Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,2,370513,2025-06-06 05:11:18
+13418,736442,1,45352699,94,1,1800,30',0,0,Paulus Amutenya (Namibia) Yellow Card at 30',Paulus Amutenya Yellow Card,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,368553,2025-06-06 05:11:18
+13418,736442,2,45352700,94,1,2040,34',0,0,Jordy Gaspar (Angola) Yellow Card at 34',Jordy Gaspar Yellow Card,653,0.0,0.0,0.0,0.0,0.0,0.0,1,242006,2025-06-06 05:11:18
+13418,736442,3,45352701,76,2,2759,46',0,0,Depú (Angola) Substitution at 46',Depú Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,330973,2025-06-06 05:11:18
+13418,736442,3,45352701,76,2,2759,46',0,0,Depú (Angola) Substitution at 46',Depú Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,263367,2025-06-06 05:11:18
+13418,736442,4,45352702,76,2,2760,46',0,0,António Hossi (Angola) Substitution at 46',António Hossi Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,354194,2025-06-06 05:11:18
+13418,736442,4,45352702,76,2,2760,46',0,0,António Hossi (Angola) Substitution at 46',António Hossi Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,344903,2025-06-06 05:11:18
+13418,736442,4,45352702,76,2,2760,46',0,0,António Hossi (Angola) Substitution at 46',António Hossi Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,242006,2025-06-06 05:11:18
+13418,736442,5,45352703,93,2,3660,61',0,0,Randy Nteka (Angola) Red Card at 61',Randy Nteka Red Card,653,0.0,0.0,0.0,0.0,0.0,0.0,1,276847,2025-06-06 05:11:18
+13418,736442,6,45352704,76,2,3720,62',0,0,Manuel Keliano (Angola) Substitution at 62',Manuel Keliano Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,357781,2025-06-06 05:11:18
+13418,736442,6,45352704,76,2,3720,62',0,0,Manuel Keliano (Angola) Substitution at 62',Manuel Keliano Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,257000,2025-06-06 05:11:18
+13418,736442,7,45352705,76,2,4558,76',0,0,Willy Stephanus (Namibia) Substitution at 76',Willy Stephanus Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,174151,2025-06-06 05:11:18
+13418,736442,7,45352705,76,2,4558,76',0,0,Willy Stephanus (Namibia) Substitution at 76',Willy Stephanus Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,368553,2025-06-06 05:11:18
+13418,736442,8,45352706,76,2,4559,76',0,0,Isaskar Gurirab (Namibia) Substitution at 76',Isaskar Gurirab Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,288818,2025-06-06 05:11:18
+13418,736442,8,45352706,76,2,4559,76',0,0,Isaskar Gurirab (Namibia) Substitution at 76',Isaskar Gurirab Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,247855,2025-06-06 05:11:18
+13418,736442,9,45352707,76,2,4560,76',0,0,Wiseman Lifasi (Namibia) Substitution at 76',Wiseman Lifasi Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,405197,2025-06-06 05:11:18
+13418,736442,9,45352707,76,2,4560,76',0,0,Wiseman Lifasi (Namibia) Substitution at 76',Wiseman Lifasi Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,401974,2025-06-06 05:11:18
+13418,736442,10,45352708,76,2,4800,80',0,0,Penda Mongudhi (Namibia) Substitution at 80',Penda Mongudhi Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,405196,2025-06-06 05:11:18
+13418,736442,10,45352708,76,2,4800,80',0,0,Penda Mongudhi (Namibia) Substitution at 80',Penda Mongudhi Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,370318,2025-06-06 05:11:18
+13418,736442,11,45352709,76,2,5039,84',0,0,Neblú (Angola) Substitution at 84',Neblú Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,204599,2025-06-06 05:11:18
+13418,736442,11,45352709,76,2,5039,84',0,0,Neblú (Angola) Substitution at 84',Neblú Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,230270,2025-06-06 05:11:18
+13418,736442,12,45352710,76,2,5040,84',0,0,Além (Angola) Substitution at 84',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,257001,2025-06-06 05:11:18
+13418,736442,12,45352710,76,2,5040,84',0,0,Além (Angola) Substitution at 84',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,114013,2025-06-06 05:11:18
+13418,736442,12,45352710,76,2,5040,84',0,0,Além (Angola) Substitution at 84',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,377412,2025-06-06 05:11:18
+13418,736442,15,45352713,70,2,5400,90'+7',1,0,Ivan Kamberipa (Namibia) Goal at 97',Ivan Kamberipa Goal,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,288816,2025-06-06 05:11:18
+13418,736442,13,45352711,98,2,5400,90',1,0,Depú (Angola) Penalty - Scored at 90',Depú Penalty - Scored,653,0.0,0.0,0.0,0.0,0.0,0.0,1,330973,2025-06-06 05:11:18
+13418,736442,14,45352712,76,2,5400,90'+1',0,0,Tyrese Hikupembe (Namibia) Substitution at 91',Tyrese Hikupembe Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,405198,2025-06-06 05:11:18
+13418,736442,14,45352712,76,2,5400,90'+1',0,0,Tyrese Hikupembe (Namibia) Substitution at 91',Tyrese Hikupembe Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,345377,2025-06-06 05:11:18
+13418,736443,1,45354671,94,1,960,16',0,0,Nassim Ahmed (Comoros) Yellow Card at 16',Nassim Ahmed Yellow Card,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,304517,2025-06-07 05:26:35
+13418,736443,2,45354672,70,1,1860,31',1,0,Ibrahim Madi (Comoros) Goal at 31',Ibrahim Madi Goal,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,248120,2025-06-07 05:26:35
+13418,736443,3,45354673,94,1,2400,40',0,0,Tinklar Sakala (Zambia) Yellow Card at 40',Tinklar Sakala Yellow Card,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,405268,2025-06-07 05:26:35
+13418,736443,4,45354674,94,1,2700,45'+9',0,0,Youssouf Ibroihim (Comoros) Yellow Card at 54',Youssouf Ibroihim Yellow Card,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,274254,2025-06-07 05:26:35
+13418,736443,5,45354675,76,2,3240,54',0,0,Andrew Phiri (Zambia) Substitution at 54',Andrew Phiri Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,365089,2025-06-07 05:26:35
+13418,736443,5,45354675,76,2,3240,54',0,0,Andrew Phiri (Zambia) Substitution at 54',Andrew Phiri Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,2,398360,2025-06-07 05:26:35
+13418,736443,6,45354676,76,2,3720,62',0,0,Evans Kayombo (Zambia) Substitution at 62',Evans Kayombo Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,398361,2025-06-07 05:26:35
+13418,736443,6,45354676,76,2,3720,62',0,0,Evans Kayombo (Zambia) Substitution at 62',Evans Kayombo Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,2,335751,2025-06-07 05:26:35
+13418,736443,7,45354677,76,2,3780,63',0,0,Naimoudine Assane (Comoros) Substitution at 63',Naimoudine Assane Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,386146,2025-06-07 05:26:35
+13418,736443,7,45354677,76,2,3780,63',0,0,Naimoudine Assane (Comoros) Substitution at 63',Naimoudine Assane Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,248120,2025-06-07 05:26:35
+13418,736443,8,45354678,94,2,3960,66',0,0,Andrew Phiri (Zambia) Yellow Card at 66',Andrew Phiri Yellow Card,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,365089,2025-06-07 05:26:35
+13418,736443,9,45354679,76,2,4440,74',0,0,Karim Mohamed (Comoros) Substitution at 74',Karim Mohamed Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,214960,2025-06-07 05:26:35
+13418,736443,9,45354679,76,2,4440,74',0,0,Karim Mohamed (Comoros) Substitution at 74',Karim Mohamed Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,376799,2025-06-07 05:26:35
+13418,736443,10,45354680,76,2,4800,80',0,0,Frederick Mulambia (Zambia) Substitution at 80',Frederick Mulambia Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,363281,2025-06-07 05:26:35
+13418,736443,10,45354680,76,2,4800,80',0,0,Frederick Mulambia (Zambia) Substitution at 80',Frederick Mulambia Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,2,308391,2025-06-07 05:26:35
+13418,736443,11,45354681,76,2,4815,81',0,0,Harrison Chisala (Zambia) Substitution at 81',Harrison Chisala Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,256638,2025-06-07 05:26:35
+13418,736443,11,45354681,76,2,4815,81',0,0,Harrison Chisala (Zambia) Substitution at 81',Harrison Chisala Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,2,308388,2025-06-07 05:26:35
+13418,736443,12,45354682,94,2,5100,85',0,0,Mathews Banda (Zambia) Yellow Card at 85',Mathews Banda Yellow Card,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,386139,2025-06-07 05:26:35
+13418,736443,13,45354683,76,2,5400,90'+3',0,0,Yahaya Medard (Comoros) Substitution at 93',Yahaya Medard Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,356870,2025-06-07 05:26:35
+13418,736443,13,45354683,76,2,5400,90'+3',0,0,Yahaya Medard (Comoros) Substitution at 93',Yahaya Medard Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,274254,2025-06-07 05:26:35
+13418,736444,1,45359033,94,1,1980,33',0,0,Keyns Abdala (Mozambique) Yellow Card at 33',Keyns Abdala Yellow Card,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,354866,2025-06-08 05:14:47
+13418,736444,2,45359034,94,1,2460,41',0,0,Fabrice Brasse (Mauritius) Yellow Card at 41',Fabrice Brasse Yellow Card,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,280476,2025-06-08 05:14:47
+13418,736444,3,45359035,76,2,3777,63',0,0,Gabriel Caliste (Mauritius) Substitution at 63',Gabriel Caliste Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,390927,2025-06-08 05:14:47
+13418,736444,3,45359035,76,2,3777,63',0,0,Gabriel Caliste (Mauritius) Substitution at 63',Gabriel Caliste Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,247303,2025-06-08 05:14:47
+13418,736444,4,45359036,76,2,3778,63',0,0,Wilson Mootoo (Mauritius) Substitution at 63',Wilson Mootoo Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,337903,2025-06-08 05:14:47
+13418,736444,4,45359036,76,2,3778,63',0,0,Wilson Mootoo (Mauritius) Substitution at 63',Wilson Mootoo Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,384883,2025-06-08 05:14:47
+13418,736444,5,45359037,76,2,3779,63',0,0,Yannick Aristide (Mauritius) Substitution at 63',Yannick Aristide Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,302110,2025-06-08 05:14:47
+13418,736444,5,45359037,76,2,3779,63',0,0,Yannick Aristide (Mauritius) Substitution at 63',Yannick Aristide Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,404923,2025-06-08 05:14:47
+13418,736444,6,45359038,76,2,3840,64',0,0,Stephen De Robillard (Mauritius) Substitution at 64',Stephen De Robillard Substitutio,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,385140,2025-06-08 05:14:47
+13418,736444,6,45359038,76,2,3840,64',0,0,Stephen De Robillard (Mauritius) Substitution at 64',Stephen De Robillard Substitutio,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,280476,2025-06-08 05:14:47
+13418,736444,7,45359039,76,2,4318,72',0,0,Kélvio (Mozambique) Substitution at 72',Kélvio Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,397085,2025-06-08 05:14:47
+13418,736444,7,45359039,76,2,4318,72',0,0,Kélvio (Mozambique) Substitution at 72',Kélvio Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,2,369540,2025-06-08 05:14:47
+13418,736444,8,45359040,76,2,4319,72',0,0,Alcídio Raice (Mozambique) Substitution at 72',Alcídio Raice Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,386103,2025-06-08 05:14:47
+13418,736444,8,45359040,76,2,4319,72',0,0,Alcídio Raice (Mozambique) Substitution at 72',Alcídio Raice Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,2,386108,2025-06-08 05:14:47
+13418,736444,9,45359041,94,2,4860,81',0,0,Pascal Colin (Mauritius) Yellow Card at 81',Pascal Colin Yellow Card,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,363559,2025-06-08 05:14:47
+13418,736444,10,45359042,76,2,5220,87',0,0,Cooper Legrand (Mauritius) Substitution at 87',Cooper Legrand Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,280571,2025-06-08 05:14:47
+13418,736444,10,45359042,76,2,5220,87',0,0,Cooper Legrand (Mauritius) Substitution at 87',Cooper Legrand Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,404924,2025-06-08 05:14:47
+13418,736444,11,45359043,93,2,5400,90'+3',0,0,Pascal Colin (Mauritius) Red Card at 93',Pascal Colin Red Card,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,363559,2025-06-08 05:14:47
+13418,736444,12,45359044,94,2,5400,90'+5',0,0,Fernando Domingos (Mozambique) Yellow Card at 95',Fernando Domingos Yellow Card,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,386106,2025-06-08 05:14:47
+13418,736445,1,45359212,94,1,720,12',0,0,Kamogelo Sebelebele (South Africa) Yellow Card at 12',Kamogelo Sebelebele Yellow Card,467,0.0,0.0,0.0,0.0,0.0,0.0,1,337134,2025-06-08 05:14:47
+13418,736445,2,45359213,94,1,1620,27',0,0,Kwandakwensizwa Mngonyama (South Africa) Yellow Card at 27',Kwandakwensizwa Mngonyama Yellow,467,0.0,0.0,0.0,0.0,0.0,0.0,1,240468,2025-06-08 05:14:47
+13418,736445,3,45359214,76,1,1740,29',0,0,Kurainashe Musanhi (Zimbabwe) Substitution at 29',Kurainashe Musanhi Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,392190,2025-06-08 05:14:47
+13418,736445,3,45359214,76,1,1740,29',0,0,Kurainashe Musanhi (Zimbabwe) Substitution at 29',Kurainashe Musanhi Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,2,404928,2025-06-08 05:14:47
+13418,736445,4,45359215,98,1,2400,40',1,0,Kabelo Dlamini (South Africa) Penalty - Scored at 40',Kabelo Dlamini Penalty - Scored,467,0.0,0.0,0.0,0.0,0.0,0.0,1,267351,2025-06-08 05:14:47
+13418,736445,5,45359216,94,2,3540,59',0,0,Andrew Mbeba (Zimbabwe) Yellow Card at 59',Andrew Mbeba Yellow Card,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,312735,2025-06-08 05:14:47
+13418,736445,6,45359217,94,2,3600,60',0,0,Kurainashe Musanhi (Zimbabwe) Yellow Card at 60',Kurainashe Musanhi Yellow Card,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,392190,2025-06-08 05:14:47
+13418,736445,7,45359218,76,2,3839,64',0,0,Kennedy Mupomba (Zimbabwe) Substitution at 64',Kennedy Mupomba Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,404909,2025-06-08 05:14:47
+13418,736445,7,45359218,76,2,3839,64',0,0,Kennedy Mupomba (Zimbabwe) Substitution at 64',Kennedy Mupomba Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,2,386218,2025-06-08 05:14:47
+13418,736445,8,45359219,94,2,3840,64',0,0,Junior Makunike (Zimbabwe) Yellow Card at 64',Junior Makunike Yellow Card,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,382546,2025-06-08 05:14:47
+13418,736445,9,45359220,76,2,3900,65',0,0,Tanaka Munemo (Zimbabwe) Substitution at 65',Tanaka Munemo Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,404935,2025-06-08 05:14:47
+13418,736445,9,45359220,76,2,3900,65',0,0,Tanaka Munemo (Zimbabwe) Substitution at 65',Tanaka Munemo Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,2,404931,2025-06-08 05:14:47
+13418,736445,10,45359221,76,2,4258,71',0,0,Vuyo Letlapa (South Africa) Substitution at 71',Vuyo Letlapa Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,390445,2025-06-08 05:14:47
+13418,736445,10,45359221,76,2,4258,71',0,0,Vuyo Letlapa (South Africa) Substitution at 71',Vuyo Letlapa Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,313546,2025-06-08 05:14:47
+13418,736445,11,45359222,76,2,4259,71',0,0,Puso Dithejane (South Africa) Substitution at 71',Puso Dithejane Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,365549,2025-06-08 05:14:47
+13418,736445,11,45359222,76,2,4259,71',0,0,Puso Dithejane (South Africa) Substitution at 71',Puso Dithejane Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,267351,2025-06-08 05:14:47
+13418,736445,12,45359223,76,2,4619,77',0,0,Menzi Mazwi (Zimbabwe) Substitution at 77',Menzi Mazwi Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,404908,2025-06-08 05:14:47
+13418,736445,12,45359223,76,2,4619,77',0,0,Menzi Mazwi (Zimbabwe) Substitution at 77',Menzi Mazwi Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,2,404932,2025-06-08 05:14:47
+13418,736445,13,45359224,76,2,4620,77',0,0,Mduduzi Shabalala (South Africa) Substitution at 77',Mduduzi Shabalala Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,332564,2025-06-08 05:14:47
+13418,736445,13,45359224,76,2,4620,77',0,0,Mduduzi Shabalala (South Africa) Substitution at 77',Mduduzi Shabalala Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,287479,2025-06-08 05:14:47
+13418,736445,14,45359225,70,2,4680,78',1,0,Ime Okon (South Africa) Goal at 78',Ime Okon Goal,467,0.0,0.0,0.0,0.0,0.0,0.0,1,358744,2025-06-08 05:14:47
+13418,736445,15,45359226,76,2,5160,86',0,0,Victor Letsoalo (South Africa) Substitution at 86',Victor Letsoalo Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,264761,2025-06-08 05:14:47
+13418,736445,15,45359226,76,2,5160,86',0,0,Victor Letsoalo (South Africa) Substitution at 86',Victor Letsoalo Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,324377,2025-06-08 05:14:47
+13418,736445,16,45359227,76,2,5220,87',0,0,Athenkosi Mcaba (South Africa) Substitution at 87',Athenkosi Mcaba Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,332323,2025-06-08 05:14:47
+13418,736445,16,45359227,76,2,5220,87',0,0,Athenkosi Mcaba (South Africa) Substitution at 87',Athenkosi Mcaba Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,332563,2025-06-08 05:14:47
+13418,736446,1,45359994,70,1,1740,29',1,0,Toky Rakotondraibe (Madagascar) Goal at 29',Toky Rakotondraibe Goal,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,369591,2025-06-08 05:14:47
+13418,736446,2,45359995,76,1,2280,38',0,0,Shekhani Khamis (Tanzania) Substitution at 38',Shekhani Khamis Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,1,396753,2025-06-08 05:14:47
+13418,736446,2,45359995,76,1,2280,38',0,0,Shekhani Khamis (Tanzania) Substitution at 38',Shekhani Khamis Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,2,272019,2025-06-08 05:14:47
+13418,736446,3,45359996,94,1,2400,40',0,0,Tantely Rabarijaona (Madagascar) Yellow Card at 40',Tantely Rabarijaona Yellow Card,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,345375,2025-06-08 05:14:47
+13418,736446,4,45359997,94,1,2640,44',0,0,Rijaniaina Randriamanampisoa (Madagascar) Yellow Card at 44',Rijaniaina Randriamanampisoa Yel,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405299,2025-06-08 05:14:47
+13418,736446,5,45359998,94,2,3540,59',0,0,Shekhani Khamis (Tanzania) Yellow Card at 59',Shekhani Khamis Yellow Card,5778,0.0,0.0,0.0,0.0,0.0,0.0,1,396753,2025-06-08 05:14:47
+13418,736446,6,45359999,76,2,3960,66',0,0,Idrisa Stambuli (Tanzania) Substitution at 66',Idrisa Stambuli Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,1,405206,2025-06-08 05:14:47
+13418,736446,6,45359999,76,2,3960,66',0,0,Idrisa Stambuli (Tanzania) Substitution at 66',Idrisa Stambuli Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,2,313851,2025-06-08 05:14:47
+13418,736446,6,45359999,76,2,3960,66',0,0,Idrisa Stambuli (Tanzania) Substitution at 66',Idrisa Stambuli Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,2,247500,2025-06-08 05:14:47
+13418,736446,7,45360000,76,2,4018,67',0,0,Oscar Paulo (Tanzania) Substitution at 67',Oscar Paulo Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,1,405319,2025-06-08 05:14:47
+13418,736446,7,45360000,76,2,4018,67',0,0,Oscar Paulo (Tanzania) Substitution at 67',Oscar Paulo Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,2,405174,2025-06-08 05:14:47
+13418,736446,8,45360001,76,2,4019,67',0,0,Mirajy Hassan (Tanzania) Substitution at 67',Mirajy Hassan Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,1,401614,2025-06-08 05:14:47
+13418,736446,8,45360001,76,2,4019,67',0,0,Mirajy Hassan (Tanzania) Substitution at 67',Mirajy Hassan Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,2,294363,2025-06-08 05:14:47
+13418,736446,9,45360002,76,2,4078,68',0,0,Nantenaina Razafimahatana (Madagascar) Substitution at 68',Nantenaina Razafimahatana Substi,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405295,2025-06-08 05:14:47
+13418,736446,9,45360002,76,2,4078,68',0,0,Nantenaina Razafimahatana (Madagascar) Substitution at 68',Nantenaina Razafimahatana Substi,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,345381,2025-06-08 05:14:47
+13418,736446,10,45360003,76,2,4079,68',0,0,Rayan Rajaonarivelo (Madagascar) Substitution at 68',Rayan Rajaonarivelo Substitution,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405279,2025-06-08 05:14:47
+13418,736446,10,45360003,76,2,4079,68',0,0,Rayan Rajaonarivelo (Madagascar) Substitution at 68',Rayan Rajaonarivelo Substitution,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,405318,2025-06-08 05:14:47
+13418,736446,11,45360004,76,2,4980,83',0,0,Abdulrahim Bausi (Tanzania) Substitution at 83',Abdulrahim Bausi Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,1,384537,2025-06-08 05:14:47
+13418,736446,11,45360004,76,2,4980,83',0,0,Abdulrahim Bausi (Tanzania) Substitution at 83',Abdulrahim Bausi Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,2,384838,2025-06-08 05:14:47
+13418,736446,12,45360005,76,2,5158,86',0,0,Félicité Mantasoa (Madagascar) Substitution at 86',Félicité Mantasoa Substitution,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405287,2025-06-08 05:14:47
+13418,736446,12,45360005,76,2,5158,86',0,0,Félicité Mantasoa (Madagascar) Substitution at 86',Félicité Mantasoa Substitution,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,369591,2025-06-08 05:14:47
+13418,736446,13,45360006,76,2,5159,86',0,0,Tiavina Rakotoarisoa (Madagascar) Substitution at 86',Tiavina Rakotoarisoa Substitutio,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,370078,2025-06-08 05:14:47
+13418,736446,13,45360006,76,2,5159,86',0,0,Tiavina Rakotoarisoa (Madagascar) Substitution at 86',Tiavina Rakotoarisoa Substitutio,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,258348,2025-06-08 05:14:47
+13418,736446,14,45360007,94,2,5220,87',0,0,Michel Ramandimbisoa (Madagascar) Yellow Card at 87',Michel Ramandimbisoa Yellow Card,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405293,2025-06-08 05:14:47
+13418,736446,15,45360008,94,2,5400,90'+3',0,0,Nantenaina Razafimahatana (Madagascar) Yellow Card at 93',Nantenaina Razafimahatana Yellow,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405295,2025-06-08 05:14:47
+13418,736447,1,45364399,94,1,780,13',0,0,Pedro Bondo (Angola) Yellow Card at 13',Pedro Bondo Yellow Card,653,0.0,0.0,0.0,0.0,0.0,0.0,1,313915,2025-06-09 05:19:06
+13418,736447,2,45364400,70,1,2520,42',1,0,Vidinho (Angola) Goal at 42',Vidinho Goal,653,0.0,0.0,0.0,0.0,0.0,0.0,1,326280,2025-06-09 05:19:06
+13418,736447,2,45364400,70,1,2520,42',1,0,Vidinho (Angola) Goal at 42',Vidinho Goal,653,0.0,0.0,0.0,0.0,0.0,0.0,1,314477,2025-06-09 05:19:06
+13418,736447,3,45364401,70,1,2640,44',1,0,Depú (Angola) Goal at 44',Depú Goal,653,0.0,0.0,0.0,0.0,0.0,0.0,1,330973,2025-06-09 05:19:06
+13418,736447,5,45364403,94,1,2700,45'+4',0,0,Leluma Phosholi (Lesotho) Yellow Card at 49',Leluma Phosholi Yellow Card,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,405176,2025-06-09 05:19:06
+13418,736447,4,45364402,94,1,2700,45'+3',0,0,Thato Malakia Sefoli (Lesotho) Yellow Card at 48',Thato Malakia Sefoli Yellow Card,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,379153,2025-06-09 05:19:06
+13418,736447,6,45364404,76,2,2757,46',0,0,Simão Dianzenza (Angola) Substitution at 46',Simão Dianzenza Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,365321,2025-06-09 05:19:06
+13418,736447,6,45364404,76,2,2757,46',0,0,Simão Dianzenza (Angola) Substitution at 46',Simão Dianzenza Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,313915,2025-06-09 05:19:06
+13418,736447,7,45364405,76,2,2758,46',0,0,Gilberto (Angola) Substitution at 46',Gilberto Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,354975,2025-06-09 05:19:06
+13418,736447,7,45364405,76,2,2758,46',0,0,Gilberto (Angola) Substitution at 46',Gilberto Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,316732,2025-06-09 05:19:06
+13418,736447,7,45364405,76,2,2758,46',0,0,Gilberto (Angola) Substitution at 46',Gilberto Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,253936,2025-06-09 05:19:06
+13418,736447,7,45364405,76,2,2758,46',0,0,Gilberto (Angola) Substitution at 46',Gilberto Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,251846,2025-06-09 05:19:06
+13418,736447,7,45364405,76,2,2758,46',0,0,Gilberto (Angola) Substitution at 46',Gilberto Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,199679,2025-06-09 05:19:06
+13418,736447,7,45364405,76,2,2758,46',0,0,Gilberto (Angola) Substitution at 46',Gilberto Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,198761,2025-06-09 05:19:06
+13418,736447,7,45364405,76,2,2758,46',0,0,Gilberto (Angola) Substitution at 46',Gilberto Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,297754,2025-06-09 05:19:06
+13418,736447,8,45364406,76,2,2759,46',0,0,Teboho Letsema (Lesotho) Substitution at 46',Teboho Letsema Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,370519,2025-06-09 05:19:06
+13418,736447,8,45364406,76,2,2759,46',0,0,Teboho Letsema (Lesotho) Substitution at 46',Teboho Letsema Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,361032,2025-06-09 05:19:06
+13418,736447,9,45364407,76,2,2760,46',0,0,Tholang Makuru (Lesotho) Substitution at 46',Tholang Makuru Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,405188,2025-06-09 05:19:06
+13418,736447,9,45364407,76,2,2760,46',0,0,Tholang Makuru (Lesotho) Substitution at 46',Tholang Makuru Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,405193,2025-06-09 05:19:06
+13418,736447,10,45364408,70,2,3120,52',1,0,Depú (Angola) Goal at 52',Depú Goal,653,0.0,0.0,0.0,0.0,0.0,0.0,1,330973,2025-06-09 05:19:06
+13418,736447,11,45364409,94,2,3420,57',0,0,Tholang Makuru (Lesotho) Yellow Card at 57',Tholang Makuru Yellow Card,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,405188,2025-06-09 05:19:06
+13418,736447,12,45364410,76,2,3900,65',0,0,Além (Angola) Substitution at 65',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,257001,2025-06-09 05:19:06
+13418,736447,12,45364410,76,2,3900,65',0,0,Além (Angola) Substitution at 65',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,114013,2025-06-09 05:19:06
+13418,736447,12,45364410,76,2,3900,65',0,0,Além (Angola) Substitution at 65',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,272027,2025-06-09 05:19:06
+13418,736447,13,45364411,76,2,4379,73',0,0,Kananelo Rapuleng (Lesotho) Substitution at 73',Kananelo Rapuleng Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,405190,2025-06-09 05:19:06
+13418,736447,13,45364411,76,2,4379,73',0,0,Kananelo Rapuleng (Lesotho) Substitution at 73',Kananelo Rapuleng Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,283468,2025-06-09 05:19:06
+13418,736447,14,45364412,76,2,4380,73',0,0,Khaketla Matamane (Lesotho) Substitution at 73',Khaketla Matamane Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,405194,2025-06-09 05:19:06
+13418,736447,14,45364412,76,2,4380,73',0,0,Khaketla Matamane (Lesotho) Substitution at 73',Khaketla Matamane Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,281845,2025-06-09 05:19:06
+13418,736447,15,45364413,94,2,4740,79',0,0,Lehlohonolo Matsau (Lesotho) Yellow Card at 79',Lehlohonolo Matsau Yellow Card,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,345129,2025-06-09 05:19:06
+13418,736447,16,45364414,76,2,4800,80',0,0,Aguinaldo Matias (Angola) Substitution at 80',Aguinaldo Matias Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,404968,2025-06-09 05:19:06
+13418,736447,16,45364414,76,2,4800,80',0,0,Aguinaldo Matias (Angola) Substitution at 80',Aguinaldo Matias Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,257000,2025-06-09 05:19:06
+13418,736447,18,45364416,70,2,5400,90'+4',1,0,Depú (Angola) Goal at 94',Depú Goal,653,0.0,0.0,0.0,0.0,0.0,0.0,1,330973,2025-06-09 05:19:06
+13418,736447,17,45364415,94,2,5400,90'+1',0,0,Chico Banza (Angola) Yellow Card at 91',Chico Banza Yellow Card,653,0.0,0.0,0.0,0.0,0.0,0.0,1,274320,2025-06-09 05:19:06
+13418,736447,17,45364415,94,2,5400,90'+1',0,0,Chico Banza (Angola) Yellow Card at 91',Chico Banza Yellow Card,653,0.0,0.0,0.0,0.0,0.0,0.0,1,256996,2025-06-09 05:19:06
+13418,736448,1,45364573,76,2,2760,46',0,0,Wiseman Lifasi (Namibia) Substitution at 46',Wiseman Lifasi Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,405197,2025-06-09 05:19:06
+13418,736448,1,45364573,76,2,2760,46',0,0,Wiseman Lifasi (Namibia) Substitution at 46',Wiseman Lifasi Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,345377,2025-06-09 05:19:06
+13418,736448,2,45364574,94,2,3480,58',0,0,Yankho Singo (Malawi) Yellow Card at 58',Yankho Singo Yellow Card,4325,0.0,0.0,0.0,0.0,0.0,0.0,1,396064,2025-06-09 05:19:06
+13418,736448,3,45364575,76,2,4018,67',0,0,Willy Stephanus (Namibia) Substitution at 67',Willy Stephanus Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,174151,2025-06-09 05:19:06
+13418,736448,3,45364575,76,2,4018,67',0,0,Willy Stephanus (Namibia) Substitution at 67',Willy Stephanus Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,368553,2025-06-09 05:19:06
+13418,736448,4,45364576,76,2,4019,67',0,0,Tyrese Hikupembe (Namibia) Substitution at 67',Tyrese Hikupembe Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,405198,2025-06-09 05:19:06
+13418,736448,4,45364576,76,2,4019,67',0,0,Tyrese Hikupembe (Namibia) Substitution at 67',Tyrese Hikupembe Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,401974,2025-06-09 05:19:06
+13418,736448,5,45364577,76,2,4020,67',0,0,Mbakondja Tjahikika (Namibia) Substitution at 67',Mbakondja Tjahikika Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,393629,2025-06-09 05:19:06
+13418,736448,5,45364577,76,2,4020,67',0,0,Mbakondja Tjahikika (Namibia) Substitution at 67',Mbakondja Tjahikika Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,247855,2025-06-09 05:19:06
+13418,736448,6,45364578,94,2,4080,68',0,0,Mbakondja Tjahikika (Namibia) Yellow Card at 68',Mbakondja Tjahikika Yellow Card,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,393629,2025-06-09 05:19:06
+13418,736448,7,45364579,76,2,5160,86',0,0,Isaskar Gurirab (Namibia) Substitution at 86',Isaskar Gurirab Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,288818,2025-06-09 05:19:06
+13418,736448,7,45364579,76,2,5160,86',0,0,Isaskar Gurirab (Namibia) Substitution at 86',Isaskar Gurirab Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,405197,2025-06-09 05:19:06
+13418,736449,1,45367497,70,1,2460,41',1,0,Lalaina Rafanomezantsoa (Madagascar) Goal at 41',Lalaina Rafanomezantsoa Goal,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,345577,2025-06-10 04:50:18
+13418,736449,2,45367498,76,2,2759,46',0,0,Felix Badenhorst (Eswatini) Substitution at 46',Felix Badenhorst Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,1,120150,2025-06-10 04:50:18
+13418,736449,2,45367498,76,2,2759,46',0,0,Felix Badenhorst (Eswatini) Substitution at 46',Felix Badenhorst Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,2,401868,2025-06-10 04:50:18
+13418,736449,3,45367499,76,2,2760,46',0,0,Sabelo Ndzinisa (Eswatini) Substitution at 46',Sabelo Ndzinisa Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,1,247743,2025-06-10 04:50:18
+13418,736449,3,45367499,76,2,2760,46',0,0,Sabelo Ndzinisa (Eswatini) Substitution at 46',Sabelo Ndzinisa Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,2,369530,2025-06-10 04:50:18
+13418,736449,4,45367500,94,2,3600,60',0,0,Fenohasina Razafimaro (Madagascar) Yellow Card at 60',Fenohasina Razafimaro Yellow Car,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,345381,2025-06-10 04:50:18
+13418,736449,5,45367501,70,2,3720,62',1,0,Andy Junior Magagula (Eswatini) Goal at 62',Andy Junior Magagula Goal,6686,0.0,0.0,0.0,0.0,0.0,0.0,1,290018,2025-06-10 04:50:18
+13418,736449,6,45367502,76,2,4019,67',0,0,Tiavina Rakotoarisoa (Madagascar) Substitution at 67',Tiavina Rakotoarisoa Substitutio,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,370078,2025-06-10 04:50:18
+13418,736449,6,45367502,76,2,4019,67',0,0,Tiavina Rakotoarisoa (Madagascar) Substitution at 67',Tiavina Rakotoarisoa Substitutio,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,258348,2025-06-10 04:50:18
+13418,736449,7,45367503,76,2,4020,67',0,0,Félicité Mantasoa (Madagascar) Substitution at 67',Félicité Mantasoa Substitution,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405287,2025-06-10 04:50:18
+13418,736449,7,45367503,76,2,4020,67',0,0,Félicité Mantasoa (Madagascar) Substitution at 67',Félicité Mantasoa Substitution,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,345381,2025-06-10 04:50:18
+13418,736449,8,45367504,76,2,4738,79',0,0,Sambulo Simelane (Eswatini) Substitution at 79',Sambulo Simelane Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,1,386101,2025-06-10 04:50:18
+13418,736449,8,45367504,76,2,4738,79',0,0,Sambulo Simelane (Eswatini) Substitution at 79',Sambulo Simelane Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,2,279173,2025-06-10 04:50:18
+13418,736449,9,45367505,76,2,4739,79',0,0,Nantenaina Razafimahatana (Madagascar) Substitution at 79',Nantenaina Razafimahatana Substi,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405295,2025-06-10 04:50:18
+13418,736449,9,45367505,76,2,4739,79',0,0,Nantenaina Razafimahatana (Madagascar) Substitution at 79',Nantenaina Razafimahatana Substi,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,369591,2025-06-10 04:50:18
+13418,736449,10,45367506,76,2,4740,79',0,0,Rayan Rajaonarivelo (Madagascar) Substitution at 79',Rayan Rajaonarivelo Substitution,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405279,2025-06-10 04:50:18
+13418,736449,10,45367506,76,2,4740,79',0,0,Rayan Rajaonarivelo (Madagascar) Substitution at 79',Rayan Rajaonarivelo Substitution,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,405318,2025-06-10 04:50:18
+13418,736449,11,45367507,76,2,5339,89',0,0,Tinoh Tokiniana (Madagascar) Substitution at 89',Tinoh Tokiniana Substitution,5533,0.0,0.0,0.0,0.0,0.0,0.0,1,405298,2025-06-10 04:50:18
+13418,736449,11,45367507,76,2,5339,89',0,0,Tinoh Tokiniana (Madagascar) Substitution at 89',Tinoh Tokiniana Substitution,5533,0.0,0.0,0.0,0.0,0.0,0.0,2,345577,2025-06-10 04:50:18
+13418,736449,12,45367508,76,2,5340,89',0,0,Thato Mdluli (Eswatini) Substitution at 89',Thato Mdluli Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,1,405481,2025-06-10 04:50:18
+13418,736449,12,45367508,76,2,5340,89',0,0,Thato Mdluli (Eswatini) Substitution at 89',Thato Mdluli Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,2,290018,2025-06-10 04:50:18
+13418,736450,1,45367759,94,1,1980,33',0,0,Theo Shadikong (Botswana) Yellow Card at 33',Theo Shadikong Yellow Card,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,402116,2025-06-10 04:50:18
+13418,736450,2,45367760,94,1,2520,42',0,0,Botsile Sakana (Botswana) Yellow Card at 42',Botsile Sakana Yellow Card,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,350714,2025-06-10 04:50:18
+13418,736450,3,45367761,76,2,2760,46',0,0,Ngwako Ramokgathadi (Botswana) Substitution at 46',Ngwako Ramokgathadi Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,405398,2025-06-10 04:50:18
+13418,736450,3,45367761,76,2,2760,46',0,0,Ngwako Ramokgathadi (Botswana) Substitution at 46',Ngwako Ramokgathadi Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,2,402116,2025-06-10 04:50:18
+13418,736450,4,45367762,94,2,3660,61',0,0,Mothusi Johnson (Botswana) Yellow Card at 61',Mothusi Johnson Yellow Card,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,263171,2025-06-10 04:50:18
+13418,736450,5,45367763,76,2,4139,69',0,0,Serati Semadi (Botswana) Substitution at 69',Serati Semadi Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,405401,2025-06-10 04:50:18
+13418,736450,5,45367763,76,2,4139,69',0,0,Serati Semadi (Botswana) Substitution at 69',Serati Semadi Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,2,288309,2025-06-10 04:50:18
+13418,736450,6,45367764,76,2,4140,69',0,0,Amogelang Reetsang (Botswana) Substitution at 69',Amogelang Reetsang Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,405395,2025-06-10 04:50:18
+13418,736450,6,45367764,76,2,4140,69',0,0,Amogelang Reetsang (Botswana) Substitution at 69',Amogelang Reetsang Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,2,376699,2025-06-10 04:50:18
+13418,736450,7,45367765,76,2,4440,74',0,0,Phenyo Serameng (Botswana) Substitution at 74',Phenyo Serameng Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,292316,2025-06-10 04:50:18
+13418,736450,7,45367765,76,2,4440,74',0,0,Phenyo Serameng (Botswana) Substitution at 74',Phenyo Serameng Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,2,288935,2025-06-10 04:50:18
+13418,736450,8,45367766,76,2,4680,78',0,0,Karim Mohamed (Comoros) Substitution at 78',Karim Mohamed Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,214960,2025-06-10 04:50:18
+13418,736450,8,45367766,76,2,4680,78',0,0,Karim Mohamed (Comoros) Substitution at 78',Karim Mohamed Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,376965,2025-06-10 04:50:18
+13418,736450,9,45367767,94,2,4740,79',0,0,Serati Semadi (Botswana) Yellow Card at 79',Serati Semadi Yellow Card,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,405401,2025-06-10 04:50:18
+13418,736450,10,45367768,94,2,5400,90'+1',0,0,Affane Djambae (Comoros) Yellow Card at 91',Affane Djambae Yellow Card,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,369616,2025-06-10 04:50:18
+13418,736450,11,45367769,76,2,5400,90'+4',0,0,Nael Soulaimana (Comoros) Substitution at 94',Nael Soulaimana Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,1,405208,2025-06-10 04:50:18
+13418,736450,11,45367769,76,2,5400,90'+4',0,0,Nael Soulaimana (Comoros) Substitution at 94',Nael Soulaimana Substitution,8601,0.0,0.0,0.0,0.0,0.0,0.0,2,304517,2025-06-10 04:50:18
+13418,736451,1,45387777,94,1,660,11',0,0,Tinotenda Meke (Zimbabwe) Yellow Card at 11',Tinotenda Meke Yellow Card,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,386158,2025-06-15 05:11:26
+13418,736451,2,45387778,70,1,1620,27',1,0,Thandolwenkosi Ngwenya (Zimbabwe) Goal at 27',Thandolwenkosi Ngwenya Goal,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,404936,2025-06-15 05:11:26
+13418,736451,3,45387779,98,1,2160,36',1,0,Thandolwenkosi Ngwenya (Zimbabwe) Penalty - Scored at 36',Thandolwenkosi Ngwenya Penalty -,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,404936,2025-06-15 05:11:26
+13418,736451,4,45387780,70,1,2280,38',1,0,Leonel Calção (Mozambique) Goal at 38',Leonel Calção Goal,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,404913,2025-06-15 05:11:26
+13418,736451,5,45387781,76,2,2759,46',0,0,Valter (Mozambique) Substitution at 46',Valter Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,404922,2025-06-15 05:11:26
+13418,736451,5,45387781,76,2,2759,46',0,0,Valter (Mozambique) Substitution at 46',Valter Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,2,404910,2025-06-15 05:11:26
+13418,736451,6,45387782,76,2,2760,46',0,0,Chamito Alfândega (Mozambique) Substitution at 46',Chamito Alfândega Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,386087,2025-06-15 05:11:26
+13418,736451,6,45387782,76,2,2760,46',0,0,Chamito Alfândega (Mozambique) Substitution at 46',Chamito Alfândega Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,2,25062,2025-06-15 05:11:26
+13418,736451,6,45387782,76,2,2760,46',0,0,Chamito Alfândega (Mozambique) Substitution at 46',Chamito Alfândega Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,2,404919,2025-06-15 05:11:26
+13418,736451,6,45387782,76,2,2760,46',0,0,Chamito Alfândega (Mozambique) Substitution at 46',Chamito Alfândega Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,2,375716,2025-06-15 05:11:26
+13418,736451,6,45387782,76,2,2760,46',0,0,Chamito Alfândega (Mozambique) Substitution at 46',Chamito Alfândega Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,2,263436,2025-06-15 05:11:26
+13418,736451,7,45387783,94,2,3300,55',0,0,Osama Pedro (Mozambique) Yellow Card at 55',Osama Pedro Yellow Card,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,386083,2025-06-15 05:11:26
+13418,736451,8,45387784,76,2,4200,70',0,0,Kélvio (Mozambique) Substitution at 70',Kélvio Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,397085,2025-06-15 05:11:26
+13418,736451,8,45387784,76,2,4200,70',0,0,Kélvio (Mozambique) Substitution at 70',Kélvio Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,2,404913,2025-06-15 05:11:26
+13418,736451,9,45387785,76,2,4380,73',0,0,Tanaka Munemo (Zimbabwe) Substitution at 73',Tanaka Munemo Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,404935,2025-06-15 05:11:26
+13418,736451,9,45387785,76,2,4380,73',0,0,Tanaka Munemo (Zimbabwe) Substitution at 73',Tanaka Munemo Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,2,404932,2025-06-15 05:11:26
+13418,736451,10,45387786,76,2,4800,80',0,0,Menzi Mazwi (Zimbabwe) Substitution at 80',Menzi Mazwi Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,404908,2025-06-15 05:11:26
+13418,736451,10,45387786,76,2,4800,80',0,0,Menzi Mazwi (Zimbabwe) Substitution at 80',Menzi Mazwi Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,2,386158,2025-06-15 05:11:26
+13418,736451,11,45387787,94,2,4860,81',0,0,Valter (Mozambique) Yellow Card at 81',Valter Yellow Card,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,404922,2025-06-15 05:11:26
+13418,736451,12,45387788,76,2,5219,87',0,0,Edson Mucuana (Mozambique) Substitution at 87',Edson Mucuana Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,351611,2025-06-15 05:11:26
+13418,736451,12,45387788,76,2,5219,87',0,0,Edson Mucuana (Mozambique) Substitution at 87',Edson Mucuana Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,2,404916,2025-06-15 05:11:26
+13418,736451,13,45387789,76,2,5220,87',0,0,Baptista Francisco (Mozambique) Substitution at 87',Baptista Francisco Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,1,386108,2025-06-15 05:11:26
+13418,736451,13,45387789,76,2,5220,87',0,0,Baptista Francisco (Mozambique) Substitution at 87',Baptista Francisco Substitution,8939,0.0,0.0,0.0,0.0,0.0,0.0,2,386106,2025-06-15 05:11:26
+13418,736451,14,45387790,76,2,5340,89',0,0,Nathan Mutasa (Zimbabwe) Substitution at 89',Nathan Mutasa Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,404999,2025-06-15 05:11:26
+13418,736451,14,45387790,76,2,5340,89',0,0,Nathan Mutasa (Zimbabwe) Substitution at 89',Nathan Mutasa Substitution,4214,0.0,0.0,0.0,0.0,0.0,0.0,2,404936,2025-06-15 05:11:26
+13418,736451,15,45387791,70,2,5400,90'+5',1,0,Junior Makunike (Zimbabwe) Goal at 95',Junior Makunike Goal,4214,0.0,0.0,0.0,0.0,0.0,0.0,1,382546,2025-06-15 05:11:26
+13418,736452,1,45392265,94,2,3240,54',0,0,Siphesihle Mkhize (South Africa) Yellow Card at 54',Siphesihle Mkhize Yellow Card,467,0.0,0.0,0.0,0.0,0.0,0.0,1,287479,2025-06-16 05:09:24
+13418,736452,2,45392266,94,2,3660,61',0,0,Aden Mccarthy (South Africa) Yellow Card at 61',Aden Mccarthy Yellow Card,467,0.0,0.0,0.0,0.0,0.0,0.0,1,332563,2025-06-16 05:09:24
+13418,736452,3,45392267,76,2,3900,65',0,0,Masindi Nemtajela (South Africa) Substitution at 65',Masindi Nemtajela Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,391765,2025-06-16 05:09:24
+13418,736452,3,45392267,76,2,3900,65',0,0,Masindi Nemtajela (South Africa) Substitution at 65',Masindi Nemtajela Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,337134,2025-06-16 05:09:24
+13418,736452,4,45392268,76,2,3958,66',0,0,Sanele Barns (South Africa) Substitution at 66',Sanele Barns Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,309019,2025-06-16 05:09:24
+13418,736452,4,45392268,76,2,3958,66',0,0,Sanele Barns (South Africa) Substitution at 66',Sanele Barns Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,390445,2025-06-16 05:09:24
+13418,736452,5,45392269,76,2,3959,66',0,0,Victor Letsoalo (South Africa) Substitution at 66',Victor Letsoalo Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,264761,2025-06-16 05:09:24
+13418,736452,5,45392269,76,2,3959,66',0,0,Victor Letsoalo (South Africa) Substitution at 66',Victor Letsoalo Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,332564,2025-06-16 05:09:24
+13418,736452,6,45392270,94,2,3960,66',0,0,Stephen De Robillard (Mauritius) Yellow Card at 66',Stephen De Robillard Yellow Card,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,385140,2025-06-16 05:09:24
+13418,736452,7,45392271,94,2,4200,70',0,0,William Francois (Mauritius) Yellow Card at 70',William Francois Yellow Card,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,385141,2025-06-16 05:09:24
+13418,736452,8,45392272,76,2,4379,73',0,0,Angel Arthee (Mauritius) Substitution at 73',Angel Arthee Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,404923,2025-06-16 05:09:24
+13418,736452,8,45392272,76,2,4379,73',0,0,Angel Arthee (Mauritius) Substitution at 73',Angel Arthee Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,385140,2025-06-16 05:09:24
+13418,736452,9,45392273,76,2,4380,73',0,0,Cooper Legrand (Mauritius) Substitution at 73',Cooper Legrand Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,280571,2025-06-16 05:09:24
+13418,736452,9,45392273,76,2,4380,73',0,0,Cooper Legrand (Mauritius) Substitution at 73',Cooper Legrand Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,274375,2025-06-16 05:09:24
+13418,736452,10,45392274,76,2,4560,76',0,0,Mokibelo Ramabu (South Africa) Substitution at 76',Mokibelo Ramabu Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,365616,2025-06-16 05:09:24
+13418,736452,10,45392274,76,2,4560,76',0,0,Mokibelo Ramabu (South Africa) Substitution at 76',Mokibelo Ramabu Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,365549,2025-06-16 05:09:24
+13418,736452,11,45392275,76,2,4920,82',0,0,Wilson Mootoo (Mauritius) Substitution at 82',Wilson Mootoo Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,337903,2025-06-16 05:09:24
+13418,736452,11,45392275,76,2,4920,82',0,0,Wilson Mootoo (Mauritius) Substitution at 82',Wilson Mootoo Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,385141,2025-06-16 05:09:24
+13418,736452,12,45392276,76,2,5100,85',0,0,Adrien Botlar (Mauritius) Substitution at 85',Adrien Botlar Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,247292,2025-06-16 05:09:24
+13418,736452,12,45392276,76,2,5100,85',0,0,Adrien Botlar (Mauritius) Substitution at 85',Adrien Botlar Substitution,5534,0.0,0.0,0.0,0.0,0.0,0.0,2,302110,2025-06-16 05:09:24
+13418,736452,13,45392277,76,2,5160,86',0,0,Kabelo Dlamini (South Africa) Substitution at 86',Kabelo Dlamini Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,1,267351,2025-06-16 05:09:24
+13418,736452,13,45392277,76,2,5160,86',0,0,Kabelo Dlamini (South Africa) Substitution at 86',Kabelo Dlamini Substitution,467,0.0,0.0,0.0,0.0,0.0,0.0,2,287479,2025-06-16 05:09:24
+13418,736452,14,45392278,94,2,5400,90'+1',0,0,Angel Arthee (Mauritius) Yellow Card at 91',Angel Arthee Yellow Card,5534,0.0,0.0,0.0,0.0,0.0,0.0,1,404923,2025-06-16 05:09:24
+13418,736453,1,45392305,70,1,420,7',1,0,Sisqo Haraseb (Namibia) Goal at 7',Sisqo Haraseb Goal,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,401974,2025-06-16 05:09:24
+13418,736453,2,45392306,76,2,2758,46',0,0,Ivan Kamberipa (Namibia) Substitution at 46',Ivan Kamberipa Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,288816,2025-06-16 05:09:24
+13418,736453,2,45392306,76,2,2758,46',0,0,Ivan Kamberipa (Namibia) Substitution at 46',Ivan Kamberipa Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,405195,2025-06-16 05:09:24
+13418,736453,3,45392307,76,2,2759,46',0,0,Ngero Katua (Namibia) Substitution at 46',Ngero Katua Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,345383,2025-06-16 05:09:24
+13418,736453,3,45392307,76,2,2759,46',0,0,Ngero Katua (Namibia) Substitution at 46',Ngero Katua Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,393629,2025-06-16 05:09:24
+13418,736453,4,45392308,76,2,2760,46',0,0,Alfeus Leevi (Namibia) Substitution at 46',Alfeus Leevi Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,370318,2025-06-16 05:09:24
+13418,736453,4,45392308,76,2,2760,46',0,0,Alfeus Leevi (Namibia) Substitution at 46',Alfeus Leevi Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,405196,2025-06-16 05:09:24
+13418,736453,5,45392309,94,2,3120,52',0,0,Kananelo Rapuleng (Lesotho) Yellow Card at 52',Kananelo Rapuleng Yellow Card,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,405190,2025-06-16 05:09:24
+13418,736453,6,45392310,76,2,3899,65',0,0,Paulus Amutenya (Namibia) Substitution at 65',Paulus Amutenya Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,368553,2025-06-16 05:09:24
+13418,736453,6,45392310,76,2,3899,65',0,0,Paulus Amutenya (Namibia) Substitution at 65',Paulus Amutenya Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,405198,2025-06-16 05:09:24
+13418,736453,7,45392311,76,2,3900,65',0,0,Joslin Kamatuka (Namibia) Substitution at 65',Joslin Kamatuka Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,247855,2025-06-16 05:09:24
+13418,736453,7,45392311,76,2,3900,65',0,0,Joslin Kamatuka (Namibia) Substitution at 65',Joslin Kamatuka Substitution,6725,0.0,0.0,0.0,0.0,0.0,0.0,2,288818,2025-06-16 05:09:24
+13418,736453,8,45392312,76,2,4139,69',0,0,Tumelo Makha (Lesotho) Substitution at 69',Tumelo Makha Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,320781,2025-06-16 05:09:24
+13418,736453,8,45392312,76,2,4139,69',0,0,Tumelo Makha (Lesotho) Substitution at 69',Tumelo Makha Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,281845,2025-06-16 05:09:24
+13418,736453,9,45392313,76,2,4140,69',0,0,Makara Ntaitsane (Lesotho) Substitution at 69',Makara Ntaitsane Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,405193,2025-06-16 05:09:24
+13418,736453,9,45392313,76,2,4140,69',0,0,Makara Ntaitsane (Lesotho) Substitution at 69',Makara Ntaitsane Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,405189,2025-06-16 05:09:24
+13418,736453,10,45392314,113,2,4439,74',0,0,Bethuel Muzeu (Namibia) Penalty - Missed at 74',Bethuel Muzeu Penalty - Missed,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,345377,2025-06-16 05:09:24
+13418,736453,11,45392315,174,2,4439,74',0,0,Mosoeu Seahlolo (Lesotho) Penalty - Saved at 74',Mosoeu Seahlolo Penalty - Saved,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,361033,2025-06-16 05:09:24
+13418,736453,12,45392316,70,2,4440,74',1,0,Bethuel Muzeu (Namibia) Goal at 74',Bethuel Muzeu Goal,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,345377,2025-06-16 05:09:24
+13418,736453,13,45392317,98,2,4920,82',1,0,Joslin Kamatuka (Namibia) Penalty - Scored at 82',Joslin Kamatuka Penalty - Scored,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,247855,2025-06-16 05:09:24
+13418,736453,14,45392318,76,2,4979,83',0,0,Teboho Masuoane (Lesotho) Substitution at 83',Teboho Masuoane Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,384900,2025-06-16 05:09:24
+13418,736453,14,45392318,76,2,4979,83',0,0,Teboho Masuoane (Lesotho) Substitution at 83',Teboho Masuoane Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,405190,2025-06-16 05:09:24
+13418,736453,15,45392319,76,2,4980,83',0,0,Tsepo Toloane (Lesotho) Substitution at 83',Tsepo Toloane Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,283468,2025-06-16 05:09:24
+13418,736453,15,45392319,76,2,4980,83',0,0,Tsepo Toloane (Lesotho) Substitution at 83',Tsepo Toloane Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,405194,2025-06-16 05:09:24
+13418,736453,16,45392320,76,2,5280,88',0,0,Tumelo Makha (Lesotho) Substitution at 88',Tumelo Makha Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,1,320781,2025-06-16 05:09:24
+13418,736453,16,45392320,76,2,5280,88',0,0,Tumelo Makha (Lesotho) Substitution at 88',Tumelo Makha Substitution,6640,0.0,0.0,0.0,0.0,0.0,0.0,2,370519,2025-06-16 05:09:24
+13418,736453,17,45392321,94,2,5400,90'+1',0,0,Kennedy Eib (Namibia) Yellow Card at 91',Kennedy Eib Yellow Card,6725,0.0,0.0,0.0,0.0,0.0,0.0,1,396018,2025-06-16 05:09:24
+13418,736454,1,45392283,94,1,600,10',0,0,Manuel Keliano (Angola) Yellow Card at 10',Manuel Keliano Yellow Card,653,0.0,0.0,0.0,0.0,0.0,0.0,1,357781,2025-06-16 05:09:24
+13418,736454,2,45392284,94,1,2640,44',0,0,Gaddie Chirwa (Malawi) Yellow Card at 44',Gaddie Chirwa Yellow Card,4325,0.0,0.0,0.0,0.0,0.0,0.0,1,360461,2025-06-16 05:09:24
+13418,736454,3,45392285,76,2,2759,46',0,0,Jonathan Buatu (Angola) Substitution at 46',Jonathan Buatu Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,183070,2025-06-16 05:09:24
+13418,736454,3,45392285,76,2,2759,46',0,0,Jonathan Buatu (Angola) Substitution at 46',Jonathan Buatu Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,274320,2025-06-16 05:09:24
+13418,736454,3,45392285,76,2,2759,46',0,0,Jonathan Buatu (Angola) Substitution at 46',Jonathan Buatu Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,256996,2025-06-16 05:09:24
+13418,736454,4,45392286,76,2,2760,46',0,0,Zini (Angola) Substitution at 46',Zini Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,297754,2025-06-16 05:09:24
+13418,736454,4,45392286,76,2,2760,46',0,0,Zini (Angola) Substitution at 46',Zini Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,354975,2025-06-16 05:09:24
+13418,736454,4,45392286,76,2,2760,46',0,0,Zini (Angola) Substitution at 46',Zini Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,316732,2025-06-16 05:09:24
+13418,736454,4,45392286,76,2,2760,46',0,0,Zini (Angola) Substitution at 46',Zini Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,253936,2025-06-16 05:09:24
+13418,736454,4,45392286,76,2,2760,46',0,0,Zini (Angola) Substitution at 46',Zini Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,251846,2025-06-16 05:09:24
+13418,736454,4,45392286,76,2,2760,46',0,0,Zini (Angola) Substitution at 46',Zini Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,199679,2025-06-16 05:09:24
+13418,736454,4,45392286,76,2,2760,46',0,0,Zini (Angola) Substitution at 46',Zini Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,198761,2025-06-16 05:09:24
+13418,736454,5,45392287,70,2,2880,48',1,0,Randy Nteka (Angola) Goal at 48',Randy Nteka Goal,653,0.0,0.0,0.0,0.0,0.0,0.0,1,276847,2025-06-16 05:09:24
+13418,736454,6,45392288,94,2,3240,54',0,0,Zini (Angola) Yellow Card at 54',Zini Yellow Card,653,0.0,0.0,0.0,0.0,0.0,0.0,1,297754,2025-06-16 05:09:24
+13418,736454,7,45392289,94,2,3540,59',0,0,Blessings Mpokera (Malawi) Yellow Card at 59',Blessings Mpokera Yellow Card,4325,0.0,0.0,0.0,0.0,0.0,0.0,1,320803,2025-06-16 05:09:24
+13418,736454,8,45392290,76,2,3660,61',0,0,Oscar Petro (Malawi) Substitution at 61',Oscar Petro Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,1,405185,2025-06-16 05:09:24
+13418,736454,8,45392290,76,2,3660,61',0,0,Oscar Petro (Malawi) Substitution at 61',Oscar Petro Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,2,365547,2025-06-16 05:09:24
+13418,736454,9,45392291,76,2,3720,62',0,0,Olson Kanjira (Malawi) Substitution at 62',Olson Kanjira Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,1,376806,2025-06-16 05:09:24
+13418,736454,9,45392291,76,2,3720,62',0,0,Olson Kanjira (Malawi) Substitution at 62',Olson Kanjira Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,2,360461,2025-06-16 05:09:24
+13418,736454,10,45392292,76,2,4140,69',0,0,António Hossi (Angola) Substitution at 69',António Hossi Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,354194,2025-06-16 05:09:24
+13418,736454,10,45392292,76,2,4140,69',0,0,António Hossi (Angola) Substitution at 69',António Hossi Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,344903,2025-06-16 05:09:24
+13418,736454,10,45392292,76,2,4140,69',0,0,António Hossi (Angola) Substitution at 69',António Hossi Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,242006,2025-06-16 05:09:24
+13418,736454,11,45392293,76,2,4200,70',0,0,Além (Angola) Substitution at 70',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,257001,2025-06-16 05:09:24
+13418,736454,11,45392293,76,2,4200,70',0,0,Além (Angola) Substitution at 70',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,114013,2025-06-16 05:09:24
+13418,736454,11,45392293,76,2,4200,70',0,0,Além (Angola) Substitution at 70',Além Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,357781,2025-06-16 05:09:24
+13418,736454,12,45392294,76,2,4379,73',0,0,Zeliat Nkhoma (Malawi) Substitution at 73',Zeliat Nkhoma Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,1,384936,2025-06-16 05:09:24
+13418,736454,12,45392294,76,2,4379,73',0,0,Zeliat Nkhoma (Malawi) Substitution at 73',Zeliat Nkhoma Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,2,405186,2025-06-16 05:09:24
+13418,736454,13,45392295,76,2,4380,73',0,0,Wongani Lungu (Malawi) Substitution at 73',Wongani Lungu Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,1,370513,2025-06-16 05:09:24
+13418,736454,13,45392295,76,2,4380,73',0,0,Wongani Lungu (Malawi) Substitution at 73',Wongani Lungu Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,2,401970,2025-06-16 05:09:24
+13418,736454,14,45392296,76,2,4860,81',0,0,Felicio Milson (Angola) Substitution at 81',Felicio Milson Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,1,257000,2025-06-16 05:09:24
+13418,736454,14,45392296,76,2,4860,81',0,0,Felicio Milson (Angola) Substitution at 81',Felicio Milson Substitution,653,0.0,0.0,0.0,0.0,0.0,0.0,2,276847,2025-06-16 05:09:24
+13418,736454,15,45392297,76,2,5400,90'+8',0,0,Charles Nkhoma (Malawi) Substitution at 98',Charles Nkhoma Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,1,405280,2025-06-16 05:09:24
+13418,736454,15,45392297,76,2,5400,90'+8',0,0,Charles Nkhoma (Malawi) Substitution at 98',Charles Nkhoma Substitution,4325,0.0,0.0,0.0,0.0,0.0,0.0,2,396064,2025-06-16 05:09:24
+13418,736455,1,45380450,70,1,1681,29',1,0,Andy Junior Magagula (Eswatini) Goal at 29',Andy Junior Magagula Goal,6686,0.0,0.0,0.0,0.0,0.0,0.0,1,290018,2025-06-12 04:49:47
+13418,736455,2,45380451,70,1,2161,37',1,0,Iddy Seleman Nado (Tanzania) Goal at 37',Iddy Seleman Nado Goal,5778,0.0,0.0,0.0,0.0,0.0,0.0,1,294363,2025-06-12 04:49:47
+13418,736455,3,45380452,76,1,2221,38',0,0,Vedastus Masinde (Tanzania) Substitution at 38',Vedastus Masinde Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,1,398178,2025-06-12 04:49:47
+13418,736455,3,45380452,76,1,2221,38',0,0,Vedastus Masinde (Tanzania) Substitution at 38',Vedastus Masinde Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,2,384537,2025-06-12 04:49:47
+13418,736455,4,45380453,76,2,2701,46',0,0,Innocent Dlamini (Eswatini) Substitution at 46',Innocent Dlamini Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,1,384815,2025-06-12 04:49:47
+13418,736455,4,45380453,76,2,2701,46',0,0,Innocent Dlamini (Eswatini) Substitution at 46',Innocent Dlamini Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,2,369530,2025-06-12 04:49:47
+13418,736455,5,45380454,70,2,4081,69',1,0,Shekhani Khamis (Tanzania) Goal at 69',Shekhani Khamis Goal,5778,0.0,0.0,0.0,0.0,0.0,0.0,1,396753,2025-06-12 04:49:47
+13418,736455,6,45380455,76,2,5101,86',0,0,Mayibongwe Mabuza (Eswatini) Substitution at 86',Mayibongwe Mabuza Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,1,401868,2025-06-12 04:49:47
+13418,736455,6,45380455,76,2,5101,86',0,0,Mayibongwe Mabuza (Eswatini) Substitution at 86',Mayibongwe Mabuza Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,2,247743,2025-06-12 04:49:47
+13418,736455,7,45380456,76,2,5102,86',0,0,Felix Badenhorst (Eswatini) Substitution at 86',Felix Badenhorst Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,1,120150,2025-06-12 04:49:47
+13418,736455,7,45380456,76,2,5102,86',0,0,Felix Badenhorst (Eswatini) Substitution at 86',Felix Badenhorst Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,2,369528,2025-06-12 04:49:47
+13418,736455,8,45380457,76,2,5103,86',0,0,Alakhe Mdluli (Eswatini) Substitution at 86',Alakhe Mdluli Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,1,405517,2025-06-12 04:49:47
+13418,736455,8,45380457,76,2,5103,86',0,0,Alakhe Mdluli (Eswatini) Substitution at 86',Alakhe Mdluli Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,2,279173,2025-06-12 04:49:47
+13418,736455,10,45380459,76,2,5400,90'+3',0,0,Sambulo Simelane (Eswatini) Substitution at 93',Sambulo Simelane Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,1,386101,2025-06-12 04:49:47
+13418,736455,9,45380458,76,2,5400,90'+3',0,0,Mirajy Hassan (Tanzania) Substitution at 93',Mirajy Hassan Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,1,401614,2025-06-12 04:49:47
+13418,736455,11,45380460,76,2,5400,90'+9',0,0,Ibrahim Ame (Tanzania) Substitution at 99',Ibrahim Ame Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,1,313916,2025-06-12 04:49:47
+13418,736455,11,45380460,76,2,5400,90'+9',0,0,Ibrahim Ame (Tanzania) Substitution at 99',Ibrahim Ame Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,2,396753,2025-06-12 04:49:47
+13418,736455,9,45380458,76,2,5400,90'+3',0,0,Mirajy Hassan (Tanzania) Substitution at 93',Mirajy Hassan Substitution,5778,0.0,0.0,0.0,0.0,0.0,0.0,2,405319,2025-06-12 04:49:47
+13418,736455,10,45380459,76,2,5400,90'+3',0,0,Sambulo Simelane (Eswatini) Substitution at 93',Sambulo Simelane Substitution,6686,0.0,0.0,0.0,0.0,0.0,0.0,2,386089,2025-06-12 04:49:47
+13418,736456,1,45380582,70,1,61,2',1,0,Thatayaone Kgamanyane (Botswana) Goal at 2',Thatayaone Kgamanyane Goal,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,272890,2025-06-12 04:49:47
+13418,736456,2,45380583,94,1,1381,24',0,0,Bapaletswe Simon (Botswana) Yellow Card at 24',Bapaletswe Simon Yellow Card,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,405396,2025-06-12 04:49:47
+13418,736456,3,45380584,98,1,1861,32',1,0,Serati Semadi (Botswana) Penalty - Scored at 32',Serati Semadi Penalty - Scored,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,405401,2025-06-12 04:49:47
+13418,736456,4,45380585,94,1,2341,40',0,0,Botsile Sakana (Botswana) Yellow Card at 40',Botsile Sakana Yellow Card,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,350714,2025-06-12 04:49:47
+13418,736456,5,45380586,98,1,2700,45'+4',1,0,Charles Zulu (Zambia) Penalty - Scored at 49',Charles Zulu Penalty - Scored,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,232658,2025-06-12 04:49:47
+13418,736456,6,45380587,70,2,3061,52',1,0,Tinklar Sinkala (Zambia) Goal at 52',Tinklar Sinkala Goal,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,405303,2025-06-12 04:49:47
+13418,736456,7,45380588,76,2,3361,57',0,0,Kelvin Mwanza (Zambia) Substitution at 57',Kelvin Mwanza Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,398358,2025-06-12 04:49:47
+13418,736456,7,45380588,76,2,3361,57',0,0,Kelvin Mwanza (Zambia) Substitution at 57',Kelvin Mwanza Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,2,363281,2025-06-12 04:49:47
+13418,736456,8,45380589,70,2,3541,60',1,0,Thabo Maponda (Botswana) Goal at 60',Thabo Maponda Goal,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,376699,2025-06-12 04:49:47
+13418,736456,9,45380590,76,2,3601,61',0,0,Mothusi Cooper (Botswana) Substitution at 61',Mothusi Cooper Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,288935,2025-06-12 04:49:47
+13418,736456,9,45380590,76,2,3601,61',0,0,Mothusi Cooper (Botswana) Substitution at 61',Mothusi Cooper Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,2,292316,2025-06-12 04:49:47
+13418,736456,10,45380591,76,2,3901,66',0,0,Kenneth Kasanga (Zambia) Substitution at 66',Kenneth Kasanga Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,391143,2025-06-12 04:49:47
+13418,736456,10,45380591,76,2,3901,66',0,0,Kenneth Kasanga (Zambia) Substitution at 66',Kenneth Kasanga Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,2,256638,2025-06-12 04:49:47
+13418,736456,11,45380592,94,2,4501,76',0,0,Fred Mwiche (Zambia) Yellow Card at 76',Fred Mwiche Yellow Card,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,398354,2025-06-12 04:49:47
+13418,736456,12,45380593,76,2,4561,77',0,0,Joseph Phiri (Zambia) Substitution at 77',Joseph Phiri Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,308388,2025-06-12 04:49:47
+13418,736456,12,45380593,76,2,4561,77',0,0,Joseph Phiri (Zambia) Substitution at 77',Joseph Phiri Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,2,365089,2025-06-12 04:49:47
+13418,736456,13,45380594,76,2,4562,77',0,0,Golden Mashata (Zambia) Substitution at 77',Golden Mashata Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,363282,2025-06-12 04:49:47
+13418,736456,13,45380594,76,2,4562,77',0,0,Golden Mashata (Zambia) Substitution at 77',Golden Mashata Substitution,4277,0.0,0.0,0.0,0.0,0.0,0.0,2,232658,2025-06-12 04:49:47
+13418,736456,14,45380595,76,2,4621,78',0,0,Amogelang Reetsang (Botswana) Substitution at 78',Amogelang Reetsang Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,405395,2025-06-12 04:49:47
+13418,736456,14,45380595,76,2,4621,78',0,0,Amogelang Reetsang (Botswana) Substitution at 78',Amogelang Reetsang Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,2,288309,2025-06-12 04:49:47
+13418,736456,15,45380596,94,2,5161,87',0,0,Mothusi Johnson (Botswana) Yellow Card at 87',Mothusi Johnson Yellow Card,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,263171,2025-06-12 04:49:47
+13418,736456,16,45380597,76,2,5221,88',0,0,Kemoneetswe Mmangwedi (Botswana) Substitution at 88',Kemoneetswe Mmangwedi Substituti,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,402117,2025-06-12 04:49:47
+13418,736456,16,45380597,76,2,5221,88',0,0,Kemoneetswe Mmangwedi (Botswana) Substitution at 88',Kemoneetswe Mmangwedi Substituti,4245,0.0,0.0,0.0,0.0,0.0,0.0,2,272890,2025-06-12 04:49:47
+13418,736456,17,45380598,76,2,5222,88',0,0,Karabo Phiri (Botswana) Substitution at 88',Karabo Phiri Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,1,247771,2025-06-12 04:49:47
+13418,736456,17,45380598,76,2,5222,88',0,0,Karabo Phiri (Botswana) Substitution at 88',Karabo Phiri Substitution,4245,0.0,0.0,0.0,0.0,0.0,0.0,2,376699,2025-06-12 04:49:47
+13418,736456,18,45380599,98,2,5341,90',1,0,Joseph Phiri (Zambia) Penalty - Scored at 90',Joseph Phiri Penalty - Scored,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,308388,2025-06-12 04:49:47
+13418,736456,19,45380600,94,2,5400,90'+6',0,0,Evans Kayombo (Zambia) Yellow Card at 96',Evans Kayombo Yellow Card,4277,0.0,0.0,0.0,0.0,0.0,0.0,1,398361,2025-06-12 04:49:47

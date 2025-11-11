@@ -1,0 +1,618 @@
+seasonType,eventId,commentaryOrder,playId,clockDisplayValue,commentaryText,updateDateTime
+13501,742954,0,45558191,8',Cameron Russell (Spartans FC) Goal at 8',2025-08-03 04:42:14
+13501,742954,1,45558210,16',Keir Foster (East Kilbride) Goal at 16',2025-08-03 04:42:14
+13501,742954,2,45558247,23',Jamie Dishington (Spartans FC) Yellow Card at 23',2025-08-03 04:42:14
+13501,742954,3,45558272,29',Mark Stowe (Spartans FC) Goal at 29',2025-08-03 04:42:14
+13501,742954,4,45558278,31',Sean Fagan (East Kilbride) Yellow Card at 31',2025-08-03 04:42:14
+13501,742954,5,45558365,38',Mark Stowe (Spartans FC) Goal at 38',2025-08-03 04:42:14
+13501,742954,6,45558366,41',John Robertson (East Kilbride) Yellow Card at 41',2025-08-03 04:42:14
+13501,742954,7,45558811,53',David Ferguson (East Kilbride) Substitution at 53',2025-08-03 04:42:14
+13501,742954,8,45558994,60',Brogan Walls (Spartans FC) Substitution at 60',2025-08-03 04:42:14
+13501,742954,9,45559031,62',Reegan Mimnaugh (East Kilbride) Substitution at 62',2025-08-03 04:42:14
+13501,742954,10,45559061,62',Jack Healy (East Kilbride) Substitution at 62',2025-08-03 04:42:14
+13501,742954,11,45559156,67',Jack Leitch (East Kilbride) Yellow Card at 67',2025-08-03 04:42:14
+13501,742954,12,45559606,84',Trialist A (Spartans FC) Substitution at 84',2025-08-03 04:42:14
+13501,742954,13,45559730,89',Cameron Russell (Spartans FC) Red Card at 89',2025-08-03 04:42:14
+13501,742955,0,45558207,14',Russell Mclean (Stirling Albion) Goal at 14',2025-08-03 04:42:14
+13501,742955,1,45558217,17',Russell Mclean (Stirling Albion) Goal at 17',2025-08-03 04:42:14
+13501,742955,2,45558244,22',James Stokes (Edinburgh City) Yellow Card at 22',2025-08-03 04:42:14
+13501,742955,3,45558250,24',Robbie McNab (Stirling Albion) Substitution at 24',2025-08-03 04:42:14
+13501,742955,4,45558386,36',Callum Brodie (Edinburgh City) Yellow Card at 36',2025-08-03 04:42:14
+13501,742955,5,45558703,45',Logan Myles (Edinburgh City) Substitution at 45',2025-08-03 04:42:14
+13501,742955,6,45558953,55',Ryan Gaughan (Edinburgh City) Substitution at 55',2025-08-03 04:42:14
+13501,742955,7,45558954,55',Trialist A (Edinburgh City) Substitution at 55',2025-08-03 04:42:14
+13501,742955,8,45559045,60',Trialist B (Edinburgh City) Substitution at 60',2025-08-03 04:42:14
+13501,742955,9,45559197,64',Adam Brown (Stirling Albion) Yellow Card at 64',2025-08-03 04:42:14
+13501,742955,10,45559296,69',Szymon Plesiewicz (Edinburgh City) Substitution at 69',2025-08-03 04:42:14
+13501,742955,11,45559311,70',Kane Thomson (Stirling Albion) Substitution at 70',2025-08-08 04:48:09
+13501,742955,12,45559585,80',Ross McGeachie (Stirling Albion) Substitution at 80',2025-08-03 04:42:14
+13501,742955,13,45559586,80',Harrison Howe (Stirling Albion) Substitution at 80',2025-08-03 04:42:14
+13501,742955,14,45559816,90',Robbie McNab (Stirling Albion) Yellow Card at 90',2025-08-03 04:42:14
+13501,742955,15,45559861,90'+1',Kane Thomson (Stirling Albion) Yellow Card at 91',2025-08-08 04:48:09
+13501,742955,16,45559887,90'+1',Jack Duncan (Edinburgh City) Yellow Card at 91',2025-08-03 04:42:14
+13501,742955,17,45559837,90'+2',Robert Mahon (Edinburgh City) Penalty - Scored at 92',2025-08-03 04:42:14
+13501,742955,18,45559939,90'+2',Russell Mclean (Stirling Albion) Yellow Card at 92',2025-08-03 04:42:14
+13501,742956,0,45558235,20',Liam Scullion (Clyde) Own Goal at 20',2025-08-05 04:49:26
+13501,742956,1,45558422,36',Ryan Blair (Dumbarton) Goal at 36',2025-08-05 04:49:26
+13501,742956,2,45558423,43',Marley Redfern (Clyde) Goal at 43',2025-08-03 04:42:14
+13501,742956,3,45558895,56',Dominic Docherty (Dumbarton) Yellow Card at 56',2025-08-03 04:42:14
+13501,742956,4,45559050,62',Mouhamed Niang (Clyde) Yellow Card at 62',2025-08-03 04:42:14
+13501,742956,5,45559211,69',Marley Redfern (Clyde) Yellow Card at 69',2025-08-03 04:42:14
+13501,742956,6,45559302,73',Taylor Sutherland (Clyde) Substitution at 73',2025-08-03 04:42:14
+13501,742956,7,45559322,73',Barry Cuddihy (Clyde) Substitution at 73',2025-08-03 04:42:14
+13501,742956,8,45559402,76',Theo Mccormick (Dumbarton) Substitution at 76',2025-08-03 04:42:14
+13501,742956,9,45559512,81',Scott Honeyman (Dumbarton) Substitution at 81',2025-08-03 04:42:14
+13501,742956,10,45559552,81',Aron Lynas (Dumbarton) Substitution at 81',2025-08-03 04:42:14
+13501,742956,11,45559629,86',Kyle Connell (Clyde) Substitution at 86',2025-08-03 04:42:14
+13501,742956,12,45559680,88',Carrick Mcevoy (Dumbarton) Substitution at 88',2025-08-03 04:42:14
+13501,742956,13,45559767,90',Thomas Robson (Clyde) Yellow Card at 90',2025-08-03 04:42:14
+13501,742956,14,45559815,90'+3',Shay Kelly (Dumbarton) Yellow Card at 93',2025-08-03 04:42:14
+13501,742957,0,45558174,6',Dylan Gavin (Elgin City) Goal at 6',2025-08-03 04:42:14
+13501,742957,1,45558682,47',Ross Draper (Elgin City) Yellow Card at 47',2025-08-03 04:42:14
+13501,742957,2,45558683,47',Keith Watson (Annan Athletic) Yellow Card at 47',2025-08-03 04:42:14
+13501,742957,3,45558850,56',William Gibson (Annan Athletic) Substitution at 56',2025-08-03 04:42:14
+13501,742957,4,45558851,56',Max Kilsby (Annan Athletic) Substitution at 56',2025-08-03 04:42:14
+13501,742957,5,45558995,62',Josh Walker (Elgin City) Substitution at 62',2025-08-03 04:42:14
+13501,742957,6,45559159,69',Miles Gaffney (Annan Athletic) Goal at 69',2025-08-03 04:42:14
+13501,742957,7,45559321,76',Connal Ewan (Elgin City) Substitution at 76',2025-08-03 04:42:14
+13501,742957,8,45559539,83',Dylan Gavin (Elgin City) Yellow Card at 83',2025-08-03 04:42:14
+13501,742957,9,45559540,84',Kane Hester (Elgin City) Substitution at 84',2025-08-03 04:42:14
+13501,742957,10,45559541,84',Noah Mcdonnell (Elgin City) Substitution at 84',2025-08-03 04:42:14
+13501,742957,11,45559542,84',Josh O'Connor (Elgin City) Substitution at 84',2025-08-03 04:42:14
+13501,742957,12,45559681,89',Aidan Smith (Annan Athletic) Goal at 89',2025-08-03 04:42:14
+13501,742957,13,45559729,90'+2',William Gibson (Annan Athletic) Yellow Card at 92',2025-08-03 04:42:14
+13501,742957,14,45559745,90'+2',Keith Watson (Annan Athletic) Own Goal at 92',2025-08-03 04:42:14
+13501,742957,15,45559775,90'+3',Miles Gaffney (Annan Athletic) Goal at 93',2025-08-03 04:42:14
+13501,742957,16,45559808,90'+5',Josh O'Connor (Elgin City) Yellow Card at 95',2025-08-03 04:42:14
+13501,742958,0,45558459,37',Stuart Morrison (Forfar Athletic) Goal at 37',2025-08-03 04:42:14
+13501,742958,1,45558824,51',Evan Dunne (Stranraer) Yellow Card at 51',2025-08-03 04:42:14
+13501,742958,2,45558904,54',Lewis Hunter (Stranraer) Yellow Card at 54',2025-08-03 04:42:14
+13501,742958,3,45558998,58',Evan Dunne (Stranraer) Red Card at 58',2025-08-03 04:42:14
+13501,742958,4,45559030,60',Kirk Mcknight (Stranraer) Substitution at 60',2025-08-03 04:42:14
+13501,742958,5,45559058,60',Sallu Turay (Stranraer) Substitution at 60',2025-08-03 04:42:14
+13501,742958,6,45559309,71',James Dolan (Stranraer) Substitution at 71',2025-08-03 04:42:14
+13501,742958,7,45559341,72',Tommy Sharp (Stranraer) Substitution at 72',2025-08-03 04:42:14
+13501,742958,8,45559370,73',Jamie Richardson (Forfar Athletic) Substitution at 73',2025-08-03 04:42:14
+13501,742958,9,45559371,73',Kieran Inglis (Forfar Athletic) Substitution at 73',2025-08-03 04:42:14
+13501,742958,10,45559460,76',Craig Slater (Forfar Athletic) Yellow Card at 76',2025-08-03 04:42:14
+13501,742958,11,45559571,81',Bernard Coll (Stranraer) Substitution at 81',2025-08-03 04:42:14
+13501,742958,12,45559610,82',Nathan Cannon (Forfar Athletic) Substitution at 82',2025-08-03 04:42:14
+13501,742958,13,45559647,83',Kieran Inglis (Forfar Athletic) Yellow Card at 83',2025-08-03 04:42:14
+13501,742958,14,45559684,85',Nathan Cannon (Forfar Athletic) Yellow Card at 85',2025-08-03 04:42:14
+13501,742958,15,45559888,90'+4',Jake Dolzanski (Forfar Athletic) Yellow Card at 94',2025-08-03 04:42:14
+13501,742959,0,45598317,34',Darren Lyon (Clyde) Substitution at 34',2025-08-10 04:46:51
+13501,742959,1,45598576,45'+1',Lewis Martin (Forfar Athletic) Yellow Card at 46',2025-08-10 04:46:51
+13501,742959,2,45598962,55',Kieran Inglis (Forfar Athletic) Substitution at 55',2025-08-10 04:46:51
+13501,742959,3,45599281,65',Kyle Connell (Clyde) Substitution at 65',2025-08-10 04:46:51
+13501,742959,4,45599443,69',Darren Lyon (Clyde) Yellow Card at 69',2025-08-10 04:46:51
+13501,742959,5,45599560,73',Angus Mailer (Forfar Athletic) Yellow Card at 73',2025-08-10 04:46:51
+13501,742959,6,45599680,77',Robbie Leitch (Clyde) Substitution at 77',2025-08-10 04:46:51
+13501,742959,7,45599740,78',Craig Slater (Forfar Athletic) Yellow Card at 78',2025-08-10 04:46:51
+13501,742960,0,45597459,1',Cameron Elliott (East Kilbride) Yellow Card at 1',2025-08-10 04:46:51
+13501,742960,1,45597502,5',Jack Leitch (East Kilbride) Yellow Card at 5',2025-08-10 04:46:51
+13501,742960,2,45597991,31',Dylan Gavin (Elgin City) Yellow Card at 31',2025-08-10 04:46:51
+13501,742960,3,45598208,33',Tom McHale (Elgin City) Yellow Card at 33',2025-08-10 04:46:51
+13501,742960,4,45598326,33',Jack Murray (Elgin City) Yellow Card at 33',2025-08-10 04:46:51
+13501,742960,5,45598428,42',Mark Gallagher (Elgin City) Yellow Card at 42',2025-08-10 04:46:51
+13501,742960,6,45599035,63',Jack Healy (East Kilbride) Substitution at 63',2025-08-10 04:46:51
+13501,742960,7,45599209,66',Josh Walker (Elgin City) Yellow Card at 66',2025-08-10 04:46:51
+13501,742960,8,45599312,70',Nathan Flanagan (East Kilbride) Goal at 70',2025-08-10 04:46:51
+13501,742960,9,45599371,71',Josh O'Connor (Elgin City) Substitution at 71',2025-08-10 04:46:51
+13501,742960,10,45599372,71',Lewis Dobbie (East Kilbride) Substitution at 71',2025-08-10 04:46:51
+13501,742960,11,45599452,74',Kane Hester (Elgin City) Substitution at 74',2025-08-10 04:46:51
+13501,742960,12,45599661,81',Connal Ewan (Elgin City) Substitution at 81',2025-08-10 04:46:51
+13501,742960,13,45599975,88',Jack Maciver (Elgin City) Yellow Card at 88',2025-08-10 04:46:51
+13501,742960,14,45600031,89',Noah Mcdonnell (Elgin City) Yellow Card at 89',2025-08-10 04:46:51
+13501,742960,15,45600091,90'+1',Lewis Dobbie (East Kilbride) Yellow Card at 91',2025-08-10 04:46:51
+13501,742961,0,45598248,33',Keith Watson (Annan Athletic) Yellow Card at 33',2025-08-10 04:46:51
+13501,742961,1,45598933,55',Max Kilsby (Annan Athletic) Yellow Card at 55',2025-08-10 04:46:51
+13501,742961,2,45599307,67',Kane Thomson (Stirling Albion) Substitution at 67',2025-08-10 04:46:51
+13501,742961,3,45599336,68',Zander Craik (Annan Athletic) Substitution at 68',2025-08-10 04:46:51
+13501,742961,4,45599436,71',William Gibson (Annan Athletic) Yellow Card at 71',2025-08-10 04:46:51
+13501,742961,5,45599650,78',Callum Crane (Stirling Albion) Yellow Card at 78',2025-08-10 04:46:51
+13501,742961,6,45599870,83',Charlei Maxwell (Annan Athletic) Substitution at 83',2025-08-10 04:46:51
+13501,742961,7,45599939,84',Lee Hamilton (Stirling Albion) Yellow Card at 84',2025-08-10 04:46:51
+13501,742961,8,45600111,89',Euan Deveney (Annan Athletic) Substitution at 89',2025-08-10 04:46:51
+13501,742962,0,45597549,3',Bernard Coll (Stranraer) Yellow Card at 3',2025-08-10 04:46:51
+13501,742962,1,45597897,22',Jason Jarvis (Edinburgh City) Yellow Card at 22',2025-08-10 04:46:51
+13501,742962,2,45599172,60',Lewis Mcarthur (Edinburgh City) Yellow Card at 60',2025-08-10 04:46:51
+13501,742962,3,45599203,61',Mark Russell (Stranraer) Penalty - Scored at 61',2025-08-10 04:46:51
+13501,742962,4,45599370,66',Daniel Mcmanus (Stranraer) Substitution at 66',2025-08-10 04:46:51
+13501,742962,5,45599540,70',Jack Duncan (Edinburgh City) Yellow Card at 70',2025-08-10 04:46:51
+13501,742962,6,45599541,71',M. Zaid (Edinburgh City) Substitution at 71',2025-08-10 04:46:51
+13501,742962,7,45599542,71',Bradley Barrett (Edinburgh City) Substitution at 71',2025-08-10 04:46:51
+13501,742962,8,45599653,75',Jack Duncan (Edinburgh City) Goal at 75',2025-08-10 04:46:51
+13501,742962,9,45599890,80',Kirk Mcknight (Stranraer) Yellow Card at 80',2025-08-10 04:46:51
+13501,742962,10,45599891,80',Aaron Quigg (Stranraer) Substitution at 80',2025-08-10 04:46:51
+13501,742962,11,45599892,80',Sallu Turay (Stranraer) Substitution at 80',2025-08-10 04:46:51
+13501,742962,12,45599919,80',Bradley Barrett (Edinburgh City) Goal at 80',2025-08-10 04:46:51
+13501,742962,13,45600113,87',Ryan Edgar (Stranraer) Substitution at 87',2025-08-10 04:46:51
+13501,742962,14,45600200,88',Robert Mahon (Edinburgh City) Yellow Card at 88',2025-08-10 04:46:51
+13501,742962,15,45600475,90'+6',Tommy Sharp (Stranraer) Yellow Card at 96',2025-08-10 04:46:51
+13501,742963,0,45597783,17',Jamie Dishington (Spartans FC) Own Goal at 17',2025-08-10 04:46:51
+13501,742963,1,45597920,24',Ryan Blair (Dumbarton) Yellow Card at 24',2025-08-10 04:46:51
+13501,742963,2,45598258,32',Kai Kirkpatrick (Dumbarton) Goal at 32',2025-08-10 04:46:51
+13501,742963,3,45598792,47',Mark Stowe (Spartans FC) Goal at 47',2025-08-10 04:46:51
+13501,742963,4,45599496,70',Morgyn Neil (Dumbarton) Yellow Card at 70',2025-08-10 04:46:51
+13501,742963,5,45599649,74',Jordan Tapping (Spartans FC) Substitution at 74',2025-08-10 04:46:51
+13501,742963,6,45599691,76',Bailey Dall (Spartans FC) Yellow Card at 76',2025-08-10 04:46:51
+13501,742963,7,45599752,77',Ryan Blair (Dumbarton) Red Card at 77',2025-08-10 04:46:51
+13501,742963,8,45599778,78',Theo Mccormick (Dumbarton) Substitution at 78',2025-08-10 04:46:51
+13501,742963,9,45599835,80',Ethan Drysdale (Spartans FC) Substitution at 80',2025-08-10 04:46:51
+13501,742963,10,45599836,80',Blair Henderson (Spartans FC) Substitution at 80',2025-08-10 04:46:51
+13501,742963,11,45599871,80',Tony Wallace (Dumbarton) Substitution at 80',2025-08-10 04:46:51
+13501,742963,12,45600125,85',Brogan Walls (Spartans FC) Substitution at 85',2025-08-10 04:46:51
+13501,742963,13,45600088,86',Theo Mccormick (Dumbarton) Yellow Card at 86',2025-08-10 04:46:51
+13501,742963,14,45600194,88',Mark Durnan (Dumbarton) Yellow Card at 88',2025-08-10 04:46:51
+13501,742964,0,45663636,22',Scott Tomlinson (Dumbarton) Yellow Card at 22',2025-08-17 04:58:39
+13501,742964,1,45664020,31',Mark Durnan (Dumbarton) Yellow Card at 31',2025-08-17 04:58:39
+13501,742964,2,45664021,32',Josh Walker (Elgin City) Goal at 32',2025-08-17 04:58:39
+13501,742964,3,45665311,55',Ryan Sargent (Elgin City) Yellow Card at 55',2025-08-17 04:58:39
+13501,742964,4,45665420,58',Scott Honeyman (Dumbarton) Substitution at 58',2025-08-17 04:58:39
+13501,742964,5,45665806,66',Lyall-Robert Booth (Elgin City) Yellow Card at 66',2025-08-17 04:58:39
+13501,742964,6,45665971,70',Thomas Falconer (Dumbarton) Substitution at 70',2025-08-17 04:58:39
+13501,742964,7,45666026,71',Alasdair Spalding (Elgin City) Substitution at 71',2025-08-17 04:58:39
+13501,742964,8,45666133,71',Dylan Gavin (Elgin City) Substitution at 71',2025-08-17 04:58:39
+13501,742964,9,45666134,71',Oliver Mcdonald (Elgin City) Substitution at 71',2025-08-17 04:58:39
+13501,742964,10,45666231,74',Scott Honeyman (Dumbarton) Goal at 74',2025-08-17 04:58:39
+13501,742964,11,45666287,75',Jack Maciver (Elgin City) Yellow Card at 75',2025-08-17 04:58:39
+13501,742964,12,45666768,86',Theo Mccormick (Dumbarton) Substitution at 86',2025-08-17 04:58:39
+13501,742964,13,45666912,89',Josh O'Connor (Elgin City) Substitution at 89',2025-08-17 04:58:39
+13501,742964,14,45667171,90'+6',Dylan Gavin (Elgin City) Yellow Card at 96',2025-08-17 04:58:39
+13501,742964,15,45667233,90'+7',Kai Kirkpatrick (Dumbarton) Yellow Card at 97',2025-08-17 04:58:39
+13501,742965,0,45663239,12',Taylor Sutherland (Clyde) Goal at 12',2025-08-17 04:58:39
+13501,742965,1,45663702,25',Mark Stowe (Spartans FC) Goal at 25',2025-08-17 04:58:39
+13501,742965,2,45664447,43',Bradley Whyte (Spartans FC) Goal at 43',2025-08-17 04:58:39
+13501,742965,3,45665337,56',Mark Stowe (Spartans FC) Goal at 56',2025-08-17 04:58:39
+13501,742965,4,45665731,63',Kyle Connell (Clyde) Substitution at 63',2025-08-17 04:58:39
+13501,742965,5,45665732,63',Scott Williamson (Clyde) Substitution at 63',2025-08-17 04:58:39
+13501,742965,6,45665872,66',Bailey Dall (Spartans FC) Substitution at 66',2025-08-17 04:58:39
+13501,742965,7,45665873,66',Kieran Watson (Spartans FC) Substitution at 66',2025-08-17 04:58:39
+13501,742965,8,45666239,72',Mackenzie Scott (Spartans FC) Substitution at 72',2025-08-17 04:58:39
+13501,742965,9,45666408,77',Robbie Leitch (Clyde) Substitution at 77',2025-08-17 04:58:39
+13501,742965,10,45666409,77',Barry Cuddihy (Clyde) Substitution at 77',2025-08-17 04:58:39
+13501,742965,11,45666410,77',Kyle Fleming (Clyde) Substitution at 77',2025-08-17 04:58:39
+13501,742965,12,45666457,79',Kyle Connell (Clyde) Yellow Card at 79',2025-08-17 04:58:39
+13501,742965,13,45666550,81',Robbie Leitch (Clyde) Yellow Card at 81',2025-08-17 04:58:39
+13501,742965,14,45666947,89',Kenzi Nair (Spartans FC) Substitution at 89',2025-08-17 04:58:39
+13501,742966,0,45663991,33',John Robertson (East Kilbride) Penalty - Scored at 33',2025-08-17 04:58:39
+13501,742966,1,45664207,39',Lewis Hunter (Stranraer) Substitution at 39',2025-08-17 04:58:39
+13501,742966,2,45664367,43',Sean Fagan (East Kilbride) Yellow Card at 43',2025-08-17 04:58:39
+13501,742966,3,45665014,49',Sallu Turay (Stranraer) Goal at 49',2025-08-17 04:58:39
+13501,742966,4,45665164,52',John Robertson (East Kilbride) Yellow Card at 52',2025-08-17 04:58:39
+13501,742966,5,45665490,60',Nathan Flanagan (East Kilbride) Substitution at 60',2025-08-17 04:58:39
+13501,742966,6,45665534,60',Cameron Elliott (East Kilbride) Substitution at 60',2025-08-17 04:58:39
+13501,742966,7,45666103,71',Jordan Stuart (Stranraer) Substitution at 71',2025-08-17 04:58:39
+13501,742966,8,45666589,81',David Ferguson (East Kilbride) Goal at 81',2025-08-21 04:57:20
+13501,742966,9,45666712,84',Ryan Edgar (Stranraer) Substitution at 84',2025-08-17 04:58:39
+13501,742966,10,45666977,90',Joao Balde (East Kilbride) Goal at 90',2025-08-17 04:58:39
+13501,742966,11,45667032,90'+1',Joao Balde (East Kilbride) Yellow Card at 91',2025-08-17 04:58:39
+13501,742966,12,45667163,90'+5',Joao Balde (East Kilbride) Red Card at 95',2025-08-17 04:58:39
+13501,742967,0,45663924,29',Jack Harkness (Stirling Albion) Goal at 29',2025-08-17 04:58:39
+13501,742967,1,45664029,32',Angus Mailer (Forfar Athletic) Yellow Card at 32',2025-08-17 04:58:39
+13501,742967,2,45664198,38',Russell Mclean (Stirling Albion) Yellow Card at 38',2025-08-17 04:58:39
+13501,742967,3,45664306,41',Martin Rennie (Forfar Athletic) Penalty - Scored at 41',2025-08-17 04:58:39
+13501,742967,4,45664467,44',Martin Rennie (Forfar Athletic) Goal at 44',2025-08-17 04:58:39
+13501,742967,5,45664873,45',Kane Thomson (Stirling Albion) Substitution at 45',2025-08-17 04:58:39
+13501,742967,6,45664958,48',Ross MacLean (Forfar Athletic) Goal at 48',2025-08-17 04:58:39
+13501,742967,7,45665036,50',Russell Mclean (Stirling Albion) Goal at 50',2025-08-17 04:58:39
+13501,742967,8,45665079,51',Ross MacLean (Forfar Athletic) Goal at 51',2025-08-17 04:58:39
+13501,742967,9,45665542,62',Jamie Richardson (Forfar Athletic) Substitution at 62',2025-08-17 04:58:39
+13501,742967,10,45666142,72',Scott Shepherd (Forfar Athletic) Yellow Card at 72',2025-08-17 04:58:39
+13501,742967,11,45666143,72',Kieran Inglis (Forfar Athletic) Substitution at 72',2025-08-17 04:58:39
+13501,742967,12,45666235,74',Robbie McNab (Stirling Albion) Yellow Card at 74',2025-08-17 04:58:39
+13501,742967,13,45666236,75',Cooper Knox (Stirling Albion) Substitution at 75',2025-08-17 04:58:39
+13501,742967,14,45666576,81',Jake Sutherland (Forfar Athletic) Substitution at 81',2025-08-17 04:58:39
+13501,742967,15,45666831,88',Jamie Richardson (Forfar Athletic) Yellow Card at 88',2025-08-17 04:58:39
+13501,742967,16,45667120,90'+5',Sam Featherstone (Stirling Albion) Substitution at 95',2025-08-17 04:58:39
+13501,742968,0,45663571,19',Lewis Mcarthur (Edinburgh City) Yellow Card at 19',2025-08-17 04:58:39
+13501,742968,1,45663572,20',Aidan Smith (Annan Athletic) Penalty - Scored at 20',2025-08-17 04:58:39
+13501,742968,2,45663647,22',Aidan Smith (Annan Athletic) Goal at 22',2025-08-17 04:58:39
+13501,742968,3,45665397,58',James Stokes (Edinburgh City) Substitution at 58',2025-08-17 04:58:39
+13501,742968,4,45665646,63',Jack Duncan (Edinburgh City) Yellow Card at 63',2025-08-17 04:58:39
+13501,742968,5,45665951,68',Jake Service (Edinburgh City) Substitution at 68',2025-08-17 04:58:39
+13501,742968,6,45666324,75',Tommy Muir (Annan Athletic) Yellow Card at 75',2025-08-17 04:58:39
+13501,742968,7,45666325,76',Innes Lawson (Edinburgh City) Goal at 76',2025-08-17 04:58:39
+13501,742968,8,45674097,79',William Gibson (Annan Athletic) Yellow Card at 79',2025-08-18 04:55:14
+13501,742968,9,45666594,81',Josh Todd (Annan Athletic) Yellow Card at 81',2025-08-18 04:55:14
+13501,742968,10,45666861,88',Zander Craik (Annan Athletic) Substitution at 88',2025-08-18 04:55:14
+13501,742968,11,45666931,88',Charlei Maxwell (Annan Athletic) Substitution at 88',2025-08-18 04:55:14
+13501,742968,12,45667272,90'+8',Zach Balfour (Annan Athletic) Yellow Card at 98',2025-08-18 04:55:14
+13501,742968,13,45667273,90'+8',Robert Mahon (Edinburgh City) Penalty - Scored at 98',2025-08-18 04:55:14
+13501,742969,0,45730785,28',Leighton Mcintosh (Dumbarton) Goal at 28',2025-08-24 04:58:03
+13501,742969,1,45731048,39',Alistair Roy (Dumbarton) Goal at 39',2025-08-24 04:58:03
+13501,742969,2,45731353,45'+2',Josh Todd (Annan Athletic) Yellow Card at 47',2025-08-24 04:58:03
+13501,742969,3,45731688,48',Mark Durnan (Dumbarton) Yellow Card at 48',2025-08-24 04:58:03
+13501,742969,4,45731728,50',Leighton Mcintosh (Dumbarton) Goal at 50',2025-08-24 04:58:03
+13501,742969,5,45731899,54',Euan Deveney (Annan Athletic) Substitution at 54',2025-08-24 04:58:03
+13501,742969,6,45732041,57',Alistair Roy (Dumbarton) Goal at 57',2025-08-24 04:58:03
+13501,742969,7,45732215,60',Max Kilsby (Annan Athletic) Goal at 60',2025-08-24 04:58:03
+13501,742969,8,45732651,69',Chris Johnston (Dumbarton) Substitution at 69',2025-08-24 04:58:03
+13501,742969,9,45732708,69',Tony Wallace (Dumbarton) Substitution at 69',2025-08-24 04:58:03
+13501,742969,10,45732709,69',Theo Mccormick (Dumbarton) Substitution at 69',2025-08-24 04:58:03
+13501,742969,11,45732710,69',Scott Honeyman (Dumbarton) Substitution at 69',2025-08-24 04:58:03
+13501,742969,12,45733244,83',Aidan Smith (Annan Athletic) Penalty - Scored at 83',2025-08-24 04:58:03
+13501,742969,13,45733351,86',Aron Lynas (Dumbarton) Substitution at 86',2025-08-24 04:58:03
+13501,742969,14,45733463,87',William Gibson (Annan Athletic) Yellow Card at 87',2025-08-24 04:58:03
+13501,742969,15,45733691,90'+4',Tommy Muir (Annan Athletic) Goal at 94',2025-08-24 04:58:03
+13501,742970,0,45730204,5',Brian Cameron (Elgin City) Yellow Card at 5',2025-08-24 04:58:03
+13501,742970,1,45730805,28',Robert Mahon (Edinburgh City) Goal at 28',2025-08-24 04:58:03
+13501,742970,2,45730993,35',James Stokes (Edinburgh City) Substitution at 35',2025-08-24 04:58:03
+13501,742970,3,45731285,44',Noah Mcdonnell (Elgin City) Substitution at 44',2025-08-24 04:58:03
+13501,742970,4,45731396,45'+2',M. Zaid (Edinburgh City) Goal at 47',2025-08-24 04:58:03
+13501,742970,5,45731672,45',Dylan Gavin (Elgin City) Substitution at 45',2025-08-24 04:58:03
+13501,742970,6,45731850,49',Miko Virtanen (Elgin City) Yellow Card at 49',2025-08-24 04:58:03
+13501,742970,7,45731937,50',Bradley Barrett (Edinburgh City) Yellow Card at 50',2025-08-24 04:58:03
+13501,742970,8,45731992,52',Josh Walker (Elgin City) Goal at 52',2025-08-24 04:58:03
+13501,742970,9,45732197,56',Noah Mcdonnell (Elgin City) Yellow Card at 56',2025-08-24 04:58:03
+13501,742970,10,45732426,60',Abimbola Obasoto (Elgin City) Substitution at 60',2025-08-24 04:58:03
+13501,742970,11,45732427,60',Josh O'Connor (Elgin City) Substitution at 60',2025-08-24 04:58:03
+13501,742970,12,45732694,66',Oliver Mcdonald (Elgin City) Substitution at 66',2025-08-24 04:58:03
+13501,742970,13,45733184,77',Robert Mahon (Edinburgh City) Penalty - Scored at 77',2025-08-24 04:58:03
+13501,742970,14,45733340,81',Jack Murray (Elgin City) Goal at 81',2025-08-24 04:58:03
+13501,742970,15,45733551,86',Robert Mahon (Edinburgh City) Goal at 86',2025-08-24 04:58:03
+13501,742970,16,45733617,88',Callum Brodie (Edinburgh City) Substitution at 88',2025-08-24 04:58:03
+13501,742970,17,45733734,90'+1',Szymon Plesiewicz (Edinburgh City) Substitution at 91',2025-08-24 04:58:03
+13501,742970,18,45733735,90'+1',Lucas Quinn (Edinburgh City) Substitution at 91',2025-08-24 04:58:03
+13501,742970,19,45733846,90'+6',Edin Lynch (Edinburgh City) Yellow Card at 96',2025-08-24 04:58:03
+13501,742970,20,45733853,90'+7',Szymon Plesiewicz (Edinburgh City) Yellow Card at 97',2025-08-24 04:58:03
+13501,742971,0,45730152,5',Russell Mclean (Stirling Albion) Goal at 5',2025-08-24 04:58:03
+13501,742971,1,45730593,20',Lewis Dobbie (East Kilbride) Goal at 20',2025-08-24 04:58:03
+13501,742971,2,45730758,28',Rhys Breen (East Kilbride) Goal at 28',2025-08-24 04:58:03
+13501,742971,3,45730832,32',Adam Brown (Stirling Albion) Yellow Card at 32',2025-08-24 04:58:03
+13501,742971,4,45731086,41',Jack Leitch (East Kilbride) Yellow Card at 41',2025-08-24 04:58:03
+13501,742971,5,45731234,45',John Robertson (East Kilbride) Goal at 45',2025-08-24 04:58:03
+13501,742971,6,45731279,45'+1',Robbie McNab (Stirling Albion) Yellow Card at 46',2025-08-24 04:58:03
+13501,742971,7,45731605,46',Ross McGeachie (Stirling Albion) Substitution at 46',2025-08-24 04:58:03
+13501,742971,8,45731606,46',Trialist B (Stirling Albion) Substitution at 46',2025-08-24 04:58:03
+13501,742971,9,45731607,46',Harley Ewen (Stirling Albion) Substitution at 46',2025-08-24 04:58:03
+13501,742971,10,45732291,62',Ryan Shanley (Stirling Albion) Substitution at 62',2025-08-24 04:58:03
+13501,742971,11,45732345,64',John Robertson (East Kilbride) Yellow Card at 64',2025-08-24 04:58:03
+13501,742971,12,45732969,76',Keir Foster (East Kilbride) Substitution at 76',2025-08-24 04:58:03
+13501,742971,13,45733237,83',Freddie Owens (East Kilbride) Own Goal at 83',2025-08-24 04:58:03
+13501,742971,14,45733344,86',John Robertson (East Kilbride) Red Card at 86',2025-08-24 04:58:03
+13501,742971,15,45733413,87',Lewis Spence (East Kilbride) Yellow Card at 87',2025-08-24 04:58:03
+13501,742971,16,45733641,90'+3',Keir Foster (East Kilbride) Yellow Card at 93',2025-08-24 04:58:03
+13501,742972,0,45731021,37',Corey O' Donnell (Stranraer) Goal at 37',2025-08-24 04:58:03
+13501,742972,1,45731324,45',James Hilton (Clyde) Goal at 45',2025-08-24 04:58:03
+13501,742972,2,45731596,45',Darren Lyon (Clyde) Substitution at 45',2025-08-24 04:58:03
+13501,742972,3,45732289,61',Lewis Hunter (Stranraer) Substitution at 61',2025-08-24 04:58:03
+13501,742972,4,45732290,61',Sean Docherty (Stranraer) Substitution at 61',2025-08-24 04:58:03
+13501,742972,5,45732928,74',Barry Cuddihy (Clyde) Yellow Card at 74',2025-08-24 04:58:03
+13501,742972,6,45732939,75',Jordan Stuart (Stranraer) Substitution at 75',2025-08-24 04:58:03
+13501,742972,7,45733080,78',Jordan Stuart (Stranraer) Yellow Card at 78',2025-08-24 04:58:03
+13501,742972,8,45733108,78',Darren Hynes (Clyde) Substitution at 78',2025-08-24 04:58:03
+13501,742972,9,45733109,78',Scott Williamson (Clyde) Substitution at 78',2025-08-24 04:58:03
+13501,742972,10,45733257,82',Darren Lyon (Clyde) Yellow Card at 82',2025-08-24 04:58:03
+13501,742972,11,45733482,88',Robbie Leitch (Clyde) Substitution at 88',2025-08-24 04:58:03
+13501,742972,12,45733524,89',Mark Russell (Stranraer) Yellow Card at 89',2025-08-24 04:58:03
+13501,742973,0,45730419,14',Jake Dolzanski (Forfar Athletic) Yellow Card at 14',2025-08-24 04:58:03
+13501,742973,1,45730641,21',Craig Slater (Forfar Athletic) Yellow Card at 21',2025-08-24 04:58:03
+13501,742973,2,45731619,47',Lewis Lorimer (Forfar Athletic) Yellow Card at 47',2025-08-24 04:58:03
+13501,742973,3,45731735,51',Mark Stowe (Spartans FC) Goal at 51',2025-08-24 04:58:03
+13501,742973,4,45731971,57',Kieran Inglis (Forfar Athletic) Substitution at 57',2025-08-24 04:58:03
+13501,742973,5,45732129,60',Martin Rennie (Forfar Athletic) Yellow Card at 60',2025-08-24 04:58:03
+13501,742973,6,45732408,65',Kieran Inglis (Forfar Athletic) Yellow Card at 65',2025-08-24 04:58:03
+13501,742973,7,45732510,67',Mark Stowe (Spartans FC) Yellow Card at 67',2025-08-24 04:58:03
+13501,742973,8,45732548,68',Nathan Cannon (Forfar Athletic) Substitution at 68',2025-08-24 04:58:03
+13501,742973,9,45732602,69',Kieran Watson (Spartans FC) Substitution at 69',2025-08-24 04:58:03
+13501,742973,10,45732867,74',Bradley Whyte (Spartans FC) Yellow Card at 74',2025-08-24 04:58:03
+13501,742973,11,45732978,77',Jamie Richardson (Forfar Athletic) Substitution at 77',2025-08-24 04:58:03
+13501,742973,12,45732979,77',Matthew Allan (Forfar Athletic) Substitution at 77',2025-08-24 04:58:03
+13501,742973,13,45733154,81',Brogan Walls (Spartans FC) Substitution at 81',2025-08-24 04:58:03
+13501,742973,14,45733155,81',Bailey Dall (Spartans FC) Substitution at 81',2025-08-24 04:58:03
+13501,742973,15,45733547,90'+2',Blair Henderson (Spartans FC) Substitution at 92',2025-08-24 04:58:03
+13501,742974,0,45791111,36',Alasdair Spalding (Elgin City) Yellow Card at 36',2025-08-31 05:08:09
+13501,742974,1,45792236,55',Miko Virtanen (Elgin City) Yellow Card at 55',2025-08-31 05:08:09
+13501,742974,2,45792761,67',Robbie Leitch (Clyde) Substitution at 67',2025-08-31 05:08:09
+13501,742974,3,45792904,70',Scott Williamson (Clyde) Substitution at 70',2025-08-31 05:08:09
+13501,742974,4,45793109,74',Russell Dingwall (Elgin City) Substitution at 74',2025-08-31 05:08:09
+13501,742974,5,45793197,75',Logan Dunachie (Clyde) Substitution at 75',2025-08-31 05:08:09
+13501,742974,6,45793198,75',Kyle Fleming (Clyde) Substitution at 75',2025-08-31 05:08:09
+13501,742974,7,45793285,77',Sam Campbell (Clyde) Yellow Card at 77',2025-08-31 05:08:09
+13501,742974,8,45793366,79',Dylan Gavin (Elgin City) Substitution at 79',2025-08-31 05:08:09
+13501,742974,9,45793636,85',Logan Dunachie (Clyde) Yellow Card at 85',2025-08-31 05:08:09
+13501,742974,10,45793797,89',Oliver Mcdonald (Elgin City) Substitution at 89',2025-08-31 05:08:09
+13501,742974,11,45793887,89',Ryan Sargent (Elgin City) Substitution at 89',2025-08-31 05:08:09
+13501,742974,12,45794028,90'+3',Craig Howie (Clyde) Yellow Card at 93',2025-08-31 05:08:09
+13501,742975,0,45790533,15',Mark Durnan (Dumbarton) Yellow Card at 15',2025-08-31 05:08:09
+13501,742975,1,45790979,31',James Stokes (Edinburgh City) Yellow Card at 31',2025-08-31 05:08:09
+13501,742975,2,45791186,36',Scott Tomlinson (Dumbarton) Yellow Card at 36',2025-08-31 05:08:09
+13501,742975,3,45791244,39',Robert Mahon (Edinburgh City) Goal at 39',2025-08-31 05:08:09
+13501,742975,4,45791390,42',Robert Mahon (Edinburgh City) Penalty - Scored at 42',2025-08-31 05:08:09
+13501,742975,5,45792083,49',Innes Lawson (Edinburgh City) Yellow Card at 49',2025-08-31 05:08:09
+13501,742975,6,45792221,52',Scott Honeyman (Dumbarton) Substitution at 52',2025-08-31 05:08:09
+13501,742975,7,45792431,56',Quinn Mitchell (Edinburgh City) Yellow Card at 56',2025-08-31 05:08:09
+13501,742975,8,45792591,60',Edin Lynch (Edinburgh City) Own Goal at 60',2025-08-31 05:08:09
+13501,742975,9,45793150,72',Aron Lynas (Dumbarton) Substitution at 72',2025-08-31 05:08:09
+13501,742975,10,45793151,72',Theo Mccormick (Dumbarton) Substitution at 72',2025-08-31 05:08:09
+13501,742975,11,45793152,72',Thomas Falconer (Dumbarton) Substitution at 72',2025-08-31 05:08:09
+13501,742975,12,45793533,80',Tony Wallace (Dumbarton) Substitution at 80',2025-08-31 05:08:09
+13501,742975,13,45794063,90'+2',Mark Weir (Edinburgh City) Yellow Card at 92',2025-08-31 05:08:09
+13501,742976,0,45790629,19',Ross Cunningham (Stirling Albion) Yellow Card at 19',2025-08-31 05:08:09
+13501,742976,1,45791536,45'+1',Jordan Stuart (Stranraer) Yellow Card at 46',2025-08-31 05:08:09
+13501,742976,2,45791537,45'+1',Evan Dunne (Stranraer) Yellow Card at 46',2025-08-31 05:08:09
+13501,742976,3,45792081,49',Ryan Shanley (Stirling Albion) Yellow Card at 49',2025-08-31 05:08:09
+13501,742976,4,45792347,57',Corey Thomson (Stirling Albion) Substitution at 57',2025-08-31 05:08:09
+13501,742976,5,45792826,67',Mark Russell (Stranraer) Yellow Card at 67',2025-08-31 05:08:09
+13501,742976,6,45792905,68',Harley Ewen (Stirling Albion) Substitution at 68',2025-08-31 05:08:09
+13501,742976,7,45792906,68',Lewis Hodgkiss (Stirling Albion) Substitution at 68',2025-08-31 05:08:09
+13501,742976,8,45792955,69',Lewis Hodgkiss (Stirling Albion) Yellow Card at 69',2025-08-31 05:08:09
+13501,742976,9,45793239,69',Daniel Mcmanus (Stranraer) Substitution at 69',2025-08-31 05:08:09
+13501,742976,10,45793240,69',Sean Docherty (Stranraer) Substitution at 69',2025-08-31 05:08:09
+13501,742976,11,45793047,70',Ryan Shanley (Stirling Albion) Goal at 70',2025-08-31 05:08:09
+13501,742976,12,45793129,72',Deryn Lang (Stranraer) Substitution at 72',2025-08-31 05:08:09
+13501,742976,13,45793592,83',Stewart Murdoch (Stirling Albion) Substitution at 83',2025-08-31 05:08:09
+13501,742976,14,45793792,87',Lewis Hunter (Stranraer) Substitution at 87',2025-08-31 05:08:09
+13501,742976,15,45793793,87',Tommy Sharp (Stranraer) Substitution at 87',2025-08-31 05:08:09
+13501,742977,0,45790116,5',Christopher Scott (Forfar Athletic) Yellow Card at 5',2025-08-31 05:08:09
+13501,742977,1,45790349,13',Cameron Elliott (East Kilbride) Goal at 13',2025-08-31 05:08:09
+13501,742977,2,45790769,27',Lewis Lorimer (Forfar Athletic) Substitution at 27',2025-08-31 05:08:09
+13501,742977,3,45790895,31',Jack Leitch (East Kilbride) Yellow Card at 31',2025-08-31 05:08:09
+13501,742977,4,45790970,33',Ross MacLean (Forfar Athletic) Yellow Card at 33',2025-08-31 05:08:09
+13501,742977,5,45791059,37',Cameron Elliott (East Kilbride) Goal at 37',2025-08-31 05:08:09
+13501,742977,6,45791163,40',Stuart Morrison (Forfar Athletic) Yellow Card at 40',2025-08-31 05:08:09
+13501,742977,7,45791350,45',Cameron Elliott (East Kilbride) Goal at 45',2025-08-31 05:08:09
+13501,742977,8,45792614,60',Matthew Allan (Forfar Athletic) Substitution at 60',2025-08-31 05:08:09
+13501,742977,9,45792925,70',Cameron Elliott (East Kilbride) Goal at 70',2025-08-31 05:08:09
+13501,742977,10,45793188,76',Lewis Dobbie (East Kilbride) Substitution at 76',2025-08-31 05:08:09
+13501,742977,11,45793345,79',Keir Foster (East Kilbride) Substitution at 79',2025-08-31 05:08:09
+13501,742977,12,45793591,83',Jake Sutherland (Forfar Athletic) Substitution at 83',2025-08-31 05:08:09
+13501,742977,13,45793648,85',Nathan Flanagan (East Kilbride) Goal at 85',2025-08-31 05:08:09
+13501,742977,14,45793805,89',James Lyon (East Kilbride) Substitution at 89',2025-08-31 05:08:09
+13501,742977,15,45793815,89',Dean Clelland (East Kilbride) Substitution at 89',2025-08-31 05:08:09
+13501,742977,16,45794179,90'+9',Joao Balde (East Kilbride) Yellow Card at 99',2025-08-31 05:08:09
+13501,742978,0,45792042,48',Charlei Maxwell (Annan Athletic) Yellow Card at 48',2025-08-31 05:08:09
+13501,742978,1,45792341,55',Jordan Tapping (Spartans FC) Yellow Card at 55',2025-08-31 05:08:09
+13501,742978,2,45792596,61',Gravine Kalala (Annan Athletic) Substitution at 61',2025-08-31 05:08:09
+13501,742978,3,45792865,65',James Craigen (Spartans FC) Yellow Card at 65',2025-08-31 05:08:09
+13501,742978,4,45793500,80',Kieran Watson (Spartans FC) Substitution at 80',2025-08-31 05:08:09
+13501,742978,5,45793562,80',Brogan Walls (Spartans FC) Substitution at 80',2025-08-31 05:08:09
+13501,742978,6,45793563,80',Ethan Drysdale (Spartans FC) Substitution at 80',2025-08-31 05:08:09
+13501,742978,7,45793675,82',Tommy Muir (Annan Athletic) Yellow Card at 82',2025-08-31 05:08:09
+13501,742978,8,45793822,86',Ethan Drysdale (Spartans FC) Goal at 86',2025-08-31 05:08:09
+13501,742978,9,45793941,89',Miles Gaffney (Annan Athletic) Substitution at 89',2025-08-31 05:08:09
+13501,742978,10,45794002,90',Mackenzie Scott (Spartans FC) Substitution at 90',2025-08-31 05:08:09
+13501,742979,0,45868576,3',Martin Rennie (Forfar Athletic) Goal at 3',2025-09-14 05:28:00
+13501,742979,1,45868842,11',Jake Dolzanski (Forfar Athletic) Goal at 11',2025-09-14 05:28:00
+13501,742979,2,45869879,39',Scott Honeyman (Dumbarton) Goal at 39',2025-09-14 05:28:00
+13501,742979,3,45869967,41',Angus Mailer (Forfar Athletic) Yellow Card at 41',2025-09-14 05:28:00
+13501,742979,4,45871354,62',Alistair Roy (Dumbarton) Substitution at 62',2025-09-14 05:28:00
+13501,742979,5,45871446,62',Kristian Webster (Dumbarton) Substitution at 62',2025-09-14 05:28:00
+13501,742979,6,45871479,64',Christopher Scott (Forfar Athletic) Substitution at 64',2025-09-14 05:28:00
+13501,742979,7,45871973,73',Dominic Docherty (Dumbarton) Yellow Card at 73',2025-09-14 05:28:00
+13501,742979,8,45872039,73',Kieran Inglis (Forfar Athletic) Substitution at 73',2025-09-14 05:28:00
+13501,742979,9,45872228,76',Leighton Mcintosh (Dumbarton) Goal at 76',2025-09-14 05:28:00
+13501,742979,10,45872343,79',Morgyn Neil (Dumbarton) Yellow Card at 79',2025-09-14 05:28:00
+13501,742979,11,45872579,85',Nathan Cannon (Forfar Athletic) Substitution at 85',2025-09-14 05:28:00
+13501,742979,12,45872580,85',Jake Sutherland (Forfar Athletic) Substitution at 85',2025-09-14 05:28:00
+13501,742979,13,45872687,85',Tony Wallace (Dumbarton) Substitution at 85',2025-09-14 05:28:00
+13501,742979,14,45872861,89',Leighton Mcintosh (Dumbarton) Goal at 89',2025-09-14 05:28:00
+13501,742980,0,45868713,6',Connal Ewan (Elgin City) Yellow Card at 6',2025-09-14 05:28:00
+13501,742980,1,45868930,12',Brian Cameron (Elgin City) Yellow Card at 12',2025-09-14 05:28:00
+13501,742980,2,45869550,31',Ross Cunningham (Stirling Albion) Yellow Card at 31',2025-09-14 05:28:00
+13501,742980,3,45869611,32',Jack Maciver (Elgin City) Yellow Card at 32',2025-09-14 05:28:00
+13501,742980,4,45870159,44',Russell Dingwall (Elgin City) Goal at 44',2025-09-14 05:28:00
+13501,742980,5,45870656,45',Ryan Shanley (Stirling Albion) Substitution at 45',2025-09-14 05:28:00
+13501,742980,6,45870966,52',Adam Brown (Stirling Albion) Yellow Card at 52',2025-09-14 05:28:00
+13501,742980,7,45871225,58',Ryan Sargent (Elgin City) Substitution at 58',2025-09-14 05:28:00
+13501,742980,8,45871813,69',Mackenzie Carse (Stirling Albion) Substitution at 69',2025-09-14 05:28:00
+13501,742980,9,45871814,69',Christopher Eadie (Stirling Albion) Substitution at 69',2025-09-14 05:28:00
+13501,742980,10,45871967,71',Ryan Shanley (Stirling Albion) Yellow Card at 71',2025-09-14 05:28:00
+13501,742980,11,45872064,73',Josh Walker (Elgin City) Goal at 73',2025-09-14 05:28:00
+13501,742980,12,45872319,78',Kane Hester (Elgin City) Goal at 78',2025-09-14 05:28:00
+13501,742980,13,45872374,79',Kane Hester (Elgin City) Yellow Card at 79',2025-09-14 05:28:00
+13501,742980,14,45872375,80',Lewis Hodgkiss (Stirling Albion) Substitution at 80',2025-09-14 05:28:00
+13501,742980,15,45872526,82',Oliver Mcdonald (Elgin City) Substitution at 82',2025-09-14 05:28:00
+13501,742980,16,45872527,82',Josh O'Connor (Elgin City) Substitution at 82',2025-09-14 05:28:00
+13501,742980,17,45872639,85',Jack Harkness (Stirling Albion) Red Card at 85',2025-09-14 05:28:00
+13501,742980,18,45872748,86',Stewart Murdoch (Stirling Albion) Substitution at 86',2025-09-14 05:28:00
+13501,742980,19,45872802,87',Dylan Ross (Elgin City) Substitution at 87',2025-09-14 05:28:00
+13501,742980,20,45872803,87',Ross Draper (Elgin City) Substitution at 87',2025-09-14 05:28:00
+13501,742981,0,45868663,5',James Stokes (Edinburgh City) Goal at 5',2025-09-14 05:28:00
+13501,742981,1,45868787,9',John Robertson (East Kilbride) Penalty - Scored at 9',2025-09-14 05:28:00
+13501,742981,2,45869270,23',John Robertson (East Kilbride) Yellow Card at 23',2025-09-14 05:28:00
+13501,742981,3,45869459,28',Jack Duncan (Edinburgh City) Yellow Card at 28',2025-09-14 05:28:00
+13501,742981,4,45869583,32',Cameron Elliott (East Kilbride) Goal at 32',2025-09-14 05:28:00
+13501,742981,5,45870115,42',Bradley Barrett (Edinburgh City) Yellow Card at 42',2025-09-14 05:28:00
+13501,742981,6,45870972,49',Jason Jarvis (Edinburgh City) Goal at 49',2025-09-14 05:28:00
+13501,742981,7,45871510,59',Lewis Spence (East Kilbride) Yellow Card at 59',2025-09-14 05:28:00
+13501,742981,8,45871586,61',Magnus Mackenzie (East Kilbride) Yellow Card at 61',2025-09-14 05:28:00
+13501,742981,9,45871930,68',David Ferguson (East Kilbride) Yellow Card at 68',2025-09-14 05:28:00
+13501,742981,10,45872024,69',Keir Foster (East Kilbride) Substitution at 69',2025-09-14 05:28:00
+13501,742981,11,45872232,73',Edin Lynch (Edinburgh City) Yellow Card at 73',2025-09-14 05:28:00
+13501,742981,12,45872298,74',M. Zaid (Edinburgh City) Substitution at 74',2025-09-14 05:28:00
+13501,742981,13,45872432,77',Jamie Hamilton (East Kilbride) Yellow Card at 77',2025-09-14 05:28:00
+13501,742981,14,45872563,80',Jaden Ferguson (Edinburgh City) Substitution at 80',2025-09-14 05:28:00
+13501,742981,15,45873078,84',Jake Service (Edinburgh City) Substitution at 84',2025-09-14 05:28:00
+13501,742981,16,45873146,90'+1',Keir Foster (East Kilbride) Yellow Card at 91',2025-09-14 05:28:00
+13501,742981,17,45873264,90'+3',Robert Mahon (Edinburgh City) Yellow Card at 93',2025-09-14 05:28:00
+13501,742982,0,45869120,19',James Hilton (Clyde) Goal at 19',2025-09-14 05:28:00
+13501,742982,1,45869262,23',Marley Redfern (Clyde) Goal at 23',2025-09-14 05:28:00
+13501,742982,2,45869720,36',Mouhamed Niang (Clyde) Goal at 36',2025-09-14 05:28:00
+13501,742982,3,45869808,38',Marley Redfern (Clyde) Goal at 38',2025-09-14 05:28:00
+13501,742982,4,45870736,45',Euan Deveney (Annan Athletic) Substitution at 45',2025-09-14 05:28:00
+13501,742982,5,45870737,45',Gravine Kalala (Annan Athletic) Substitution at 45',2025-09-14 05:28:00
+13501,742982,6,45870888,51',Kyle Connell (Clyde) Goal at 51',2025-09-14 05:28:00
+13501,742982,7,45871556,64',Taylor Sutherland (Clyde) Substitution at 64',2025-09-14 05:28:00
+13501,742982,8,45871557,64',Sam Campbell (Clyde) Substitution at 64',2025-09-14 05:28:00
+13501,742982,9,45871663,66',Marley Redfern (Clyde) Goal at 66',2025-09-14 05:28:00
+13501,742982,10,45871861,69',Zander Craik (Annan Athletic) Substitution at 69',2025-09-14 05:28:00
+13501,742982,11,45871974,72',Scott Williamson (Clyde) Substitution at 72',2025-09-14 05:28:00
+13501,742982,12,45871975,72',Shay Nevans (Clyde) Substitution at 72',2025-09-14 05:28:00
+13501,742982,13,45872042,72',Kyle Fleming (Clyde) Substitution at 72',2025-09-14 05:28:00
+13501,742982,14,45872186,75',Jamie Bradley (Clyde) Yellow Card at 75',2025-09-14 05:28:00
+13501,742982,15,45872394,80',Scott Hooper (Annan Athletic) Substitution at 80',2025-09-14 05:28:00
+13501,742983,0,45868840,10',Sean Docherty (Stranraer) Yellow Card at 10',2025-09-14 05:28:00
+13501,742983,1,45869203,19',Bradley Whyte (Spartans FC) Yellow Card at 19',2025-09-14 05:28:00
+13501,742983,2,45869440,28',Kieran Watson (Spartans FC) Substitution at 28',2025-09-14 05:28:00
+13501,742983,3,45869534,31',Sean Docherty (Stranraer) Red Card at 31',2025-09-14 05:28:00
+13501,742983,4,45869576,32',Scot Rough (Stranraer) Substitution at 32',2025-09-14 05:28:00
+13501,742983,5,45870204,44',Lewis Reid (Stranraer) Yellow Card at 44',2025-09-14 05:28:00
+13501,742983,6,45870710,45',Marc McNulty (Spartans FC) Substitution at 45',2025-09-14 05:28:00
+13501,742983,7,45871656,64',Kirk Mcknight (Stranraer) Substitution at 64',2025-09-14 05:28:00
+13501,742983,8,45872098,73',Cameron Russell (Spartans FC) Yellow Card at 73',2025-09-14 05:28:00
+13501,742983,9,45872183,73',Mackenzie Scott (Spartans FC) Substitution at 73',2025-09-14 05:28:00
+13501,742983,10,45872184,73',Ethan Drysdale (Spartans FC) Substitution at 73',2025-09-14 05:28:00
+13501,742983,11,45872329,77',Jamie Dishington (Spartans FC) Goal at 77',2025-09-14 05:28:00
+13501,742983,12,45872370,78',Evan Dunne (Stranraer) Yellow Card at 78',2025-09-14 05:28:00
+13501,742983,13,45872434,79',Deryn Lang (Stranraer) Substitution at 79',2025-09-14 05:28:00
+13501,742983,14,45872435,79',Sallu Turay (Stranraer) Substitution at 79',2025-09-14 05:28:00
+13501,742983,15,45872436,79',Tommy Sharp (Stranraer) Substitution at 79',2025-09-14 05:28:00
+13501,742983,16,45872538,81',Bailey Dall (Spartans FC) Substitution at 81',2025-09-14 05:28:00
+13501,742983,17,45872799,85',Cameron Russell (Spartans FC) Goal at 85',2025-09-14 05:28:00
+13501,742984,0,45924111,10',Lyall-Robert Booth (Elgin City) Yellow Card at 10',2025-09-21 05:18:08
+13501,742984,1,45925163,41',Alasdair Spalding (Elgin City) Yellow Card at 41',2025-09-21 05:18:08
+13501,742984,2,45926298,56',Mark Russell (Stranraer) Penalty - Scored at 56',2025-09-21 05:18:08
+13501,742984,3,45926847,67',Lewis Hunter (Stranraer) Substitution at 67',2025-09-21 05:18:08
+13501,742984,4,45927198,75',Kane Hester (Elgin City) Goal at 75',2025-09-21 05:18:08
+13501,742984,5,45927360,78',Matthew Gillies (Stranraer) Yellow Card at 78',2025-09-21 05:18:08
+13501,742984,6,45927439,78',Deryn Lang (Stranraer) Substitution at 78',2025-09-21 05:18:08
+13501,742984,7,45927440,78',Finn Ecrepont (Stranraer) Substitution at 78',2025-09-21 05:18:08
+13501,742984,8,45927561,82',Dylan Ross (Elgin City) Substitution at 82',2025-09-21 05:18:08
+13501,742984,9,45927615,82',Josh O'Connor (Elgin City) Substitution at 82',2025-09-21 05:18:08
+13501,742984,10,45927739,85',Abimbola Obasoto (Elgin City) Substitution at 85',2025-09-21 05:18:08
+13501,742984,11,45927740,85',Daniel Mcmanus (Stranraer) Substitution at 85',2025-09-21 05:18:08
+13501,742984,12,45927741,85',Dominic Plank (Stranraer) Substitution at 85',2025-09-21 05:18:08
+13501,742985,0,45924942,37',Angus Mailer (Forfar Athletic) Goal at 37',2025-09-21 05:18:08
+13501,742985,1,45925054,41',Scott Shepherd (Forfar Athletic) Yellow Card at 41',2025-09-21 05:18:08
+13501,742985,2,45926230,55',Mackenzie Lemon (Forfar Athletic) Substitution at 55',2025-09-21 05:18:08
+13501,742985,3,45926775,66',Charlei Maxwell (Annan Athletic) Substitution at 66',2025-09-21 05:18:08
+13501,742985,4,45926776,66',Miles Gaffney (Annan Athletic) Substitution at 66',2025-09-21 05:18:08
+13501,742985,5,45927035,71',Gio Clarke (Annan Athletic) Yellow Card at 71',2025-09-21 05:18:08
+13501,742985,6,45927036,72',Martin Rennie (Forfar Athletic) Penalty - Saved at 72',2025-09-21 05:18:08
+13501,742985,7,45927208,76',Jake Sutherland (Forfar Athletic) Substitution at 76',2025-09-21 05:18:08
+13501,742985,8,45927209,76',Lewis Lorimer (Forfar Athletic) Substitution at 76',2025-09-21 05:18:08
+13501,742985,9,45927251,76',Tommy Muir (Annan Athletic) Yellow Card at 76',2025-09-21 05:18:08
+13501,742985,10,45927375,78',Max Kilsby (Annan Athletic) Yellow Card at 78',2025-09-21 05:18:08
+13501,742985,11,45927562,82',Gravine Kalala (Annan Athletic) Substitution at 82',2025-09-21 05:18:08
+13501,742985,12,45927819,89',Mackenzie Lemon (Forfar Athletic) Yellow Card at 89',2025-09-21 05:18:08
+13501,742985,13,45927882,90',Euan Deveney (Annan Athletic) Substitution at 90',2025-09-21 05:18:08
+13501,742985,14,45927977,90'+3',Nathan Cannon (Forfar Athletic) Substitution at 93',2025-09-21 05:18:08
+13501,742986,0,45925048,40',Morgyn Neil (Dumbarton) Yellow Card at 40',2025-09-21 05:18:08
+13501,742986,1,45925299,45'+1',John Robertson (East Kilbride) Penalty - Scored at 46',2025-09-21 05:18:08
+13501,742986,2,45925957,53',John Robertson (East Kilbride) Yellow Card at 53',2025-09-21 05:18:08
+13501,742986,3,45926718,67',Scott Tomlinson (Dumbarton) Goal at 67',2025-09-21 05:18:08
+13501,742986,4,45926983,72',Sean Fagan (East Kilbride) Substitution at 72',2025-09-21 05:18:08
+13501,742986,5,45926984,72',Lewis Dobbie (East Kilbride) Substitution at 72',2025-09-21 05:18:08
+13501,742986,6,45927094,75',Alistair Roy (Dumbarton) Substitution at 75',2025-09-21 05:18:08
+13501,742986,7,45927723,88',Joao Balde (East Kilbride) Yellow Card at 88',2025-09-21 05:18:08
+13501,742987,0,45923919,4',Robert Mahon (Edinburgh City) Yellow Card at 4',2025-09-21 05:18:08
+13501,742987,1,45924486,23',James Hilton (Clyde) Goal at 23',2025-09-21 05:18:08
+13501,742987,2,45924647,30',Darren Hynes (Clyde) Yellow Card at 30',2025-09-21 05:18:08
+13501,742987,3,45924941,37',Jake Service (Edinburgh City) Goal at 37',2025-09-21 05:18:08
+13501,742987,4,45925025,40',Sam Campbell (Clyde) Substitution at 40',2025-09-21 05:18:08
+13501,742987,5,45925161,42',Jason Jarvis (Edinburgh City) Yellow Card at 42',2025-09-21 05:18:08
+13501,742987,6,45926636,63',Craig Howie (Clyde) Yellow Card at 63',2025-09-21 05:18:08
+13501,742987,7,45926916,69',Sam Campbell (Clyde) Yellow Card at 69',2025-09-21 05:18:08
+13501,742987,8,45926946,69',Scott Williamson (Clyde) Substitution at 69',2025-09-21 05:18:08
+13501,742987,9,45927000,70',Taylor Sutherland (Clyde) Substitution at 70',2025-09-21 05:18:08
+13501,742987,10,45927263,75',Bradley Barrett (Edinburgh City) Yellow Card at 75',2025-09-21 05:18:08
+13501,742987,11,45927264,75',M. Zaid (Edinburgh City) Substitution at 75',2025-09-21 05:18:08
+13501,742987,12,45927501,80',Scott Williamson (Clyde) Goal at 80',2025-09-21 05:18:08
+13501,742987,13,45927565,81',Jaden Ferguson (Edinburgh City) Substitution at 81',2025-09-21 05:18:08
+13501,742987,14,45927862,87',Robbie Leitch (Clyde) Substitution at 87',2025-09-21 05:18:08
+13501,742987,15,45927863,88',Kyle Fleming (Clyde) Substitution at 88',2025-09-21 05:18:08
+13501,742987,16,45927892,90',Andrew Murdoch (Clyde) Yellow Card at 90',2025-09-21 05:18:08
+13501,742988,0,45924367,16',Ryan Shanley (Stirling Albion) Goal at 16',2025-09-21 05:18:08
+13501,742988,1,45925353,45',Ross Cunningham (Stirling Albion) Penalty - Scored at 45',2025-09-21 05:18:08
+13501,742988,2,45925408,45',Paddy Martin (Spartans FC) Yellow Card at 45',2025-09-21 05:18:08
+13501,742988,3,45925818,46',Christopher Eadie (Stirling Albion) Goal at 46',2025-09-21 05:18:08
+13501,742988,4,45926392,56',Marc McNulty (Spartans FC) Substitution at 56',2025-09-21 05:18:08
+13501,742988,5,45926393,56',Ethan Drysdale (Spartans FC) Substitution at 56',2025-09-21 05:18:08
+13501,742988,6,45926394,56',Kieran Watson (Spartans FC) Substitution at 56',2025-09-21 05:18:08
+13501,742988,7,45926498,59',Ryan Shanley (Stirling Albion) Yellow Card at 59',2025-09-21 05:18:08
+13501,742988,8,45926931,67',Stewart Murdoch (Stirling Albion) Yellow Card at 67',2025-09-21 05:18:08
+13501,742988,9,45927177,70',Mackenzie Carse (Stirling Albion) Yellow Card at 70',2025-09-21 05:18:08
+13501,742988,10,45927093,71',Mackenzie Scott (Spartans FC) Substitution at 71',2025-09-21 05:18:08
+13501,742988,11,45927205,73',Dale Hilson (Stirling Albion) Substitution at 73',2025-09-21 05:18:08
+13501,742988,12,45928603,73',Harley Ewen (Stirling Albion) Substitution at 73',2025-09-21 05:18:08
+13501,742988,13,45927436,78',Aryton Sonkur (Spartans FC) Goal at 78',2025-09-21 05:18:08
+13501,742988,14,45927524,79',Lewis Hodgkiss (Stirling Albion) Substitution at 79',2025-09-21 05:18:08
+13501,742988,15,45928592,79',Billy Hutchingson (Stirling Albion) Substitution at 79',2025-09-21 05:18:08
+13501,742988,16,45928581,90'+2',Kane Thomson (Stirling Albion) Substitution at 92',2025-09-21 05:18:08
+13501,742989,0,45988115,3',Zander Craik (Annan Athletic) Goal at 3',2025-09-28 05:17:47
+13501,742989,1,45988457,12',Paul Smith (Annan Athletic) Goal at 12',2025-09-28 05:17:47
+13501,742989,2,45988558,15',Lewis Spence (East Kilbride) Yellow Card at 15',2025-09-28 05:17:47
+13501,742989,3,45988872,25',Charlei Maxwell (Annan Athletic) Substitution at 25',2025-09-28 05:17:47
+13501,742989,4,45989083,31',Jamie Hamilton (East Kilbride) Goal at 31',2025-09-28 05:17:47
+13501,742989,5,45989136,31',William Gibson (Annan Athletic) Yellow Card at 31',2025-09-28 05:17:47
+13501,742989,6,45990116,45',Jack Healy (East Kilbride) Substitution at 45',2025-09-28 05:17:47
+13501,742989,7,45990248,49',Jordan McGregor (East Kilbride) Substitution at 49',2025-09-28 05:17:47
+13501,742989,8,45990687,59',Miles Gaffney (Annan Athletic) Substitution at 59',2025-09-28 05:17:47
+13501,742989,9,45990801,61',Tommy Muir (Annan Athletic) Yellow Card at 61',2025-09-28 05:17:47
+13501,742989,10,45991492,70',Scott Hooper (Annan Athletic) Yellow Card at 70',2025-09-28 05:17:47
+13501,742989,11,45991848,78',Josh Todd (Annan Athletic) Substitution at 78',2025-09-28 05:17:47
+13501,742989,12,45991924,80',Paul Smith (Annan Athletic) Yellow Card at 80',2025-09-28 05:17:47
+13501,742989,13,45991929,81',John Robertson (East Kilbride) Yellow Card at 81',2025-09-28 05:17:47
+13501,742989,14,45992164,85',Jack Leitch (East Kilbride) Yellow Card at 85',2025-09-28 05:17:47
+13501,742989,15,45992506,90'+1',Jordan McGregor (East Kilbride) Red Card at 91',2025-09-28 05:17:47
+13501,742989,16,45992550,90'+3',Tommy Muir (Annan Athletic) Goal at 93',2025-09-28 05:17:47
+13501,742990,0,45988861,20',Lewis Hunter (Stranraer) Yellow Card at 20',2025-09-28 05:17:47
+13501,742990,1,45988989,25',Alistair Roy (Dumbarton) Yellow Card at 25',2025-09-28 05:17:47
+13501,742990,2,45989236,31',Bernard Coll (Stranraer) Yellow Card at 31',2025-09-28 05:17:47
+13501,742990,3,45989496,38',Mark Russell (Stranraer) Goal at 38',2025-09-28 05:17:47
+13501,742990,4,45989555,38',Mark Russell (Stranraer) Penalty - Saved at 38',2025-09-28 05:17:47
+13501,742990,5,45990181,45',Chris Johnston (Dumbarton) Substitution at 45',2025-09-28 05:17:47
+13501,742990,6,45990582,54',Mark Durnan (Dumbarton) Goal at 54',2025-09-28 05:17:47
+13501,742990,7,45990898,60',Sean Docherty (Stranraer) Substitution at 60',2025-09-28 05:17:47
+13501,742990,8,45990899,60',Aaron Quigg (Stranraer) Substitution at 60',2025-09-28 05:17:47
+13501,742990,9,45990900,60',Corey O' Donnell (Stranraer) Substitution at 60',2025-09-28 05:17:47
+13501,742990,10,45991577,70',Tony Wallace (Dumbarton) Substitution at 70',2025-09-28 05:17:47
+13501,742990,11,45991690,73',Deryn Lang (Stranraer) Substitution at 73',2025-09-28 05:17:47
+13501,742990,12,45992095,81',Thomas Falconer (Dumbarton) Substitution at 81',2025-09-28 05:17:47
+13501,742990,13,45992415,87',Aaron Quigg (Stranraer) Yellow Card at 87',2025-09-28 05:17:47
+13501,742990,14,45992473,88',Dominic Plank (Stranraer) Substitution at 88',2025-09-28 05:17:47
+13501,742990,15,45992639,90'+2',James Dolan (Stranraer) Goal at 92',2025-09-28 05:17:47
+13501,742991,0,45988443,10',Lewis Lorimer (Forfar Athletic) Substitution at 10',2025-09-30 05:15:44
+13501,742991,1,45988942,26',Martin Rennie (Forfar Athletic) Yellow Card at 26',2025-09-30 05:15:44
+13501,742991,2,45989015,29',Craig Slater (Forfar Athletic) Penalty - Scored at 29',2025-09-30 05:15:44
+13501,742991,3,45989210,34',Lewis Martin (Forfar Athletic) Yellow Card at 34',2025-09-30 05:15:44
+13501,742991,4,45990691,56',Scott Shepherd (Forfar Athletic) Yellow Card at 56',2025-09-30 05:15:44
+13501,742991,5,45991091,62',Jake Sutherland (Forfar Athletic) Substitution at 62',2025-09-30 05:15:44
+13501,742991,6,45991303,65',Bradley Barrett (Edinburgh City) Yellow Card at 65',2025-09-30 05:15:44
+13501,742991,7,45991379,66',Scott Shepherd (Forfar Athletic) Red Card at 66',2025-09-30 05:15:44
+13501,742991,8,45992008,78',Jaden Ferguson (Edinburgh City) Substitution at 78',2025-09-30 05:15:44
+13501,742991,9,45992116,82',Robert Mahon (Edinburgh City) Penalty - Saved at 82',2025-09-30 05:15:44
+13501,742991,10,45992234,84',M. Zaid (Edinburgh City) Goal at 84',2025-09-30 05:15:44
+13501,742991,11,45992431,88',Scott Bright (Forfar Athletic) Yellow Card at 88',2025-09-30 05:15:44
+13501,742991,12,45992552,90',Jack Duncan (Edinburgh City) Yellow Card at 90',2025-09-30 05:15:44
+13501,742991,13,45992553,90'+1',Mark McCallum (Forfar Athletic) Yellow Card at 91',2025-09-30 05:15:44
+13501,742991,14,45992640,90'+1',Mackenzie Lemon (Forfar Athletic) Substitution at 91',2025-09-30 05:15:44
+13501,742991,15,45992816,90'+6',Quinn Mitchell (Edinburgh City) Yellow Card at 96',2025-09-30 05:15:44
+13501,742992,0,45989049,27',Jordan Tapping (Spartans FC) Yellow Card at 27',2025-09-28 05:17:47
+13501,742992,1,45989205,31',Sean Welsh (Spartans FC) Yellow Card at 31',2025-09-28 05:17:47
+13501,742992,2,45989213,32',Ross Draper (Elgin City) Goal at 32',2025-09-28 05:17:47
+13501,742992,3,45989878,45'+2',Marc McNulty (Spartans FC) Goal at 47',2025-09-28 05:17:47
+13501,742992,4,45990423,49',Jamie Dishington (Spartans FC) Yellow Card at 49',2025-09-28 05:17:47
+13501,742992,5,45990874,59',Marc McNulty (Spartans FC) Goal at 59',2025-09-28 05:17:47
+13501,742992,6,45991163,61',Oliver Colloty (Elgin City) Substitution at 61',2025-09-28 05:17:47
+13501,742992,7,45991276,63',Kieran Watson (Spartans FC) Substitution at 63',2025-09-28 05:17:47
+13501,742992,8,45991277,63',Mark Stowe (Spartans FC) Substitution at 63',2025-09-28 05:17:47
+13501,742992,9,45991637,63',Kane Hester (Elgin City) Yellow Card at 63',2025-09-28 05:17:47
+13501,742992,10,45991911,76',Dylan Ross (Elgin City) Substitution at 76',2025-09-28 05:17:47
+13501,742992,11,45991912,76',Abimbola Obasoto (Elgin City) Substitution at 76',2025-09-28 05:17:47
+13501,742992,12,45992092,80',Mark Stowe (Spartans FC) Goal at 80',2025-09-28 05:17:47
+13501,742992,13,45992219,82',Josh O'Connor (Elgin City) Substitution at 82',2025-09-28 05:17:47
+13501,742992,14,45992220,82',Ryan Sargent (Elgin City) Substitution at 82',2025-09-28 05:17:47
+13501,742992,15,45992602,82',Ethan Drysdale (Spartans FC) Substitution at 82',2025-09-28 05:17:47
+13501,742992,16,45992519,88',Ryan Sargent (Elgin City) Goal at 88',2025-09-28 05:17:47
+13501,742992,17,45992650,88',Bailey Dall (Spartans FC) Substitution at 88',2025-09-28 05:17:47
+13501,742992,18,45992675,90'+2',Mark Stowe (Spartans FC) Yellow Card at 92',2025-09-28 05:17:47
+13501,742993,0,45989560,41',Marley Redfern (Clyde) Goal at 41',2025-09-28 05:17:47
+13501,742993,1,45989762,45',James Hilton (Clyde) Goal at 45',2025-09-28 05:17:47
+13501,742993,2,45990350,45',Billy Hutchingson (Stirling Albion) Substitution at 45',2025-09-28 05:17:47
+13501,742993,3,45990762,59',Dale Hilson (Stirling Albion) Substitution at 59',2025-09-28 05:17:47
+13501,742993,4,45990763,59',Lewis Hodgkiss (Stirling Albion) Substitution at 59',2025-09-28 05:17:47
+13501,742993,5,45991199,65',Marley Redfern (Clyde) Goal at 65',2025-09-28 05:17:47
+13501,742993,6,45991369,68',Scott Williamson (Clyde) Substitution at 68',2025-09-28 05:17:47
+13501,742993,7,45991689,74',Russell Mclean (Stirling Albion) Substitution at 74',2025-09-28 05:17:47
+13501,742993,8,45991734,75',Taylor Sutherland (Clyde) Substitution at 75',2025-09-28 05:17:47
+13501,742993,9,45991735,75',Robbie Leitch (Clyde) Substitution at 75',2025-09-28 05:17:47
+13501,742993,10,45992091,82',Scott Williamson (Clyde) Goal at 82',2025-09-28 05:17:47
+13501,742993,11,45992150,83',Kyle Fleming (Clyde) Substitution at 83',2025-09-28 05:17:47
+13501,742993,12,45992151,83',Shay Nevans (Clyde) Substitution at 83',2025-09-28 05:17:47
+13501,742993,13,45992370,88',Russell Mclean (Stirling Albion) Goal at 88',2025-09-28 05:17:47
+13501,742993,14,45992413,89',Russell Mclean (Stirling Albion) Goal at 89',2025-09-28 05:17:47
+13501,742993,15,45992476,90'+1',Callum Crane (Stirling Albion) Yellow Card at 91',2025-09-28 05:17:47
+13501,742993,16,45992706,90'+1',Logan Dunachie (Clyde) Yellow Card at 91',2025-09-28 05:17:47
