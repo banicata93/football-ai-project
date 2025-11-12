@@ -254,18 +254,27 @@ python pipelines/train_ensemble.py
 # Start FastAPI server
 python api/main.py
 
-# Server runs on http://127.0.0.1:8000
-# API docs: http://127.0.0.1:8000/docs
+# Server runs on http://127.0.0.1:3000
+# API docs: http://127.0.0.1:3000/docs
 ```
 
-### 4. Make Predictions
+### 4. Start Frontend (optional)
+
+```bash
+cd frontend
+PORT=3002 REACT_APP_API_URL=http://localhost:3000 npm start
+
+# Frontend runs on http://127.0.0.1:3002
+```
+
+### 5. Make Predictions
 
 ```bash
 # Health check
-curl http://localhost:8000/health
+curl http://localhost:3000/health
 
 # Predict match
-curl -X POST http://localhost:8000/predict \
+curl -X POST http://localhost:3000/predict \
   -H "Content-Type: application/json" \
   -d '{
     "home_team": "Manchester United",
@@ -316,6 +325,9 @@ Health check на сървиса.
 
 #### `POST /predict`
 Прогноза за футболен мач.
+
+#### `POST /predict/improved`
+Подобрена прогноза с confidence scoring и подробна информация за качеството на данните.
 
 **Request:**
 ```json
@@ -381,13 +393,13 @@ Health check на сървиса.
 
 **Example:**
 ```bash
-curl "http://localhost:8000/predict/Barcelona/vs/Real%20Madrid?league=La%20Liga"
+curl "http://localhost:3000/predict/Barcelona/vs/Real%20Madrid?league=La%20Liga"
 ```
 
 ### Interactive Documentation
 
-- **Swagger UI:** http://localhost:8000/docs
-- **ReDoc:** http://localhost:8000/redoc
+- **Swagger UI:** http://localhost:3000/docs
+- **ReDoc:** http://localhost:3000/redoc
 
 ## 📊 Dataset Statistics
 
@@ -453,7 +465,7 @@ Poisson Baseline → ML Models → Ensemble
 import requests
 
 class FootballAIClient:
-    def __init__(self, base_url="http://localhost:8000"):
+    def __init__(self, base_url="http://localhost:3000"):
         self.base_url = base_url
     
     def predict_match(self, home_team, away_team, league=None):
@@ -522,7 +534,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-EXPOSE 8000
+EXPOSE 3000
 
 CMD ["python", "api/main.py"]
 ```
@@ -532,7 +544,7 @@ CMD ["python", "api/main.py"]
 docker build -t football-ai-api .
 
 # Run
-docker run -p 8000:8000 football-ai-api
+docker run -p 3000:3000 football-ai-api
 ```
 
 ### Gunicorn (Production)
@@ -541,7 +553,7 @@ docker run -p 8000:8000 football-ai-api
 gunicorn api.main:app \
   --workers 4 \
   --worker-class uvicorn.workers.UvicornWorker \
-  --bind 0.0.0.0:8000 \
+  --bind 0.0.0.0:3000 \
   --timeout 120 \
   --access-logfile - \
   --error-logfile -

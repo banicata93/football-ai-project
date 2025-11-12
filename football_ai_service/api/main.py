@@ -21,6 +21,7 @@ from api.models import (
     ModelsListResponse
 )
 from api.prediction_service import PredictionService
+from api.improved_prediction_service import ImprovedPredictionService
 from core.utils import setup_logging
 
 
@@ -45,13 +46,14 @@ app.add_middleware(
 
 # Global state
 prediction_service: Optional[PredictionService] = None
+improved_prediction_service: Optional[ImprovedPredictionService] = None
 start_time = time.time()
 
 
 @app.on_event("startup")
 async def startup_event():
     """Startup event - зареждане на модели"""
-    global prediction_service
+    global prediction_service, improved_prediction_service
     
     logger.info("=" * 70)
     logger.info("СТАРТИРАНЕ НА FOOTBALL AI PREDICTION SERVICE")
@@ -222,6 +224,53 @@ async def predict_match_get(
         raise HTTPException(status_code=500, detail=str(e))
 
 
+@app.post("/predict/improved", tags=["Predictions"])
+async def predict_match_improved(match: MatchInput):
+    """
+    Подобрена прогноза за футболен мач с confidence scoring
+    
+    Тази версия предоставя:
+    - Интелигентно търсене на отбори
+    - Confidence scoring за качеството на данните
+    - Подробни предупреждения за непознати отбори
+    - Лигово-базирани default стойности
+    
+    Args:
+        match: Данни за мача
+    
+    Returns:
+        Пълна прогноза с metadata за качеството на данните
+    """
+    global improved_prediction_service
+    
+    # Lazy initialization на подобрения сервис
+    if improved_prediction_service is None:
+        try:
+            logger.info("Инициализиране на ImprovedPredictionService...")
+            improved_prediction_service = ImprovedPredictionService()
+            logger.info("✓ ImprovedPredictionService инициализиран")
+        except Exception as e:
+            logger.error(f"✗ Грешка при инициализация на ImprovedPredictionService: {e}")
+            raise HTTPException(status_code=503, detail="Improved service not available")
+    
+    try:
+        logger.info(f"Improved prediction request: {match.home_team} vs {match.away_team}")
+        
+        # Подобрена прогноза с confidence
+        result = improved_prediction_service.predict_with_confidence(
+            home_team=match.home_team,
+            away_team=match.away_team,
+            league=match.league,
+            date=match.date
+        )
+        
+        return result
+        
+    except Exception as e:
+        logger.error(f"Improved prediction error: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
 @app.get("/teams", tags=["Data"])
 async def list_teams():
     """
@@ -320,6 +369,6 @@ if __name__ == "__main__":
     uvicorn.run(
         app,
         host="127.0.0.1",
-        port=8000,
+        port=3000,
         log_level="info"
     )

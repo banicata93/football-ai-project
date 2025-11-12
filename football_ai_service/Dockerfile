@@ -29,11 +29,11 @@ COPY . .
 RUN mkdir -p logs models data
 
 # Експозиране на порт
-EXPOSE 8000
+EXPOSE 3000
 
 # Health check
 HEALTHCHECK --interval=30s --timeout=30s --start-period=5s --retries=3 \
-    CMD curl -f http://localhost:8000/health || exit 1
+    CMD curl -f http://localhost:3000/health || exit 1
 
 # Стартиране на приложението
 CMD ["python", "api/main.py"]
@@ -48,7 +48,7 @@ RUN pip install --no-cache-dir gunicorn
 CMD ["gunicorn", "api.main:app", \
      "--workers", "4", \
      "--worker-class", "uvicorn.workers.UvicornWorker", \
-     "--bind", "0.0.0.0:8000", \
+     "--bind", "0.0.0.0:3000", \
      "--timeout", "120", \
      "--access-logfile", "-", \
      "--error-logfile", "-"]

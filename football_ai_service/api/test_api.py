@@ -7,7 +7,9 @@ import json
 import time
 
 
-def test_api(base_url: str = "http://localhost:8000"):
+def main():
+    """Main test function"""
+    base_url = "http://localhost:3000"
     """
     Тестване на всички API endpoints
     
