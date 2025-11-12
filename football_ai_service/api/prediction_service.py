@@ -300,13 +300,14 @@ class PredictionService:
         match_df['poisson_lambda_home'] = poisson_pred['lambda_home']
         match_df['poisson_lambda_away'] = poisson_pred['lambda_away']
         
-        # ML predictions with feature alignment
-        X_all = prepare_features(match_df, self.feature_columns)
+        # ML predictions
+        # Prepare features (използваме legacy метод за съвместимост)
+        X_all, _ = prepare_features(match_df, self.feature_columns, use_intelligent_imputation=False, legacy_fill_na=True)
         
-        # Align features for each model
-        X_1x2 = align_features(X_all, self.feature_lists['1x2'])
-        X_ou25 = align_features(X_all, self.feature_lists['ou25'])
-        X_btts = align_features(X_all, self.feature_lists['btts'])
+        # Align features for each model (използваме legacy метод)
+        X_1x2, _ = align_features(X_all, self.feature_lists['1x2'], use_intelligent_imputation=False)
+        X_ou25, _ = align_features(X_all, self.feature_lists['ou25'], use_intelligent_imputation=False)
+        X_btts, _ = align_features(X_all, self.feature_lists['btts'], use_intelligent_imputation=False)
         
         ml_1x2 = self.models['1x2'].predict_proba(X_1x2)[0]
         ml_ou25 = self.models['ou25'].predict_proba(X_ou25)[0, 1]

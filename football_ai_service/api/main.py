@@ -6,9 +6,10 @@ import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from fastapi import FastAPI, HTTPException, Request
+from fastapi import FastAPI, HTTPException, Request, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
+from contextlib import asynccontextmanager
 import time
 from datetime import datetime
 from typing import Optional
@@ -22,17 +23,45 @@ from api.models import (
 )
 from api.prediction_service import PredictionService
 from api.improved_prediction_service import ImprovedPredictionService
+from core.service_manager import (
+    get_service_manager,
+    get_prediction_service,
+    get_improved_prediction_service,
+    get_service_status
+)
 from core.utils import setup_logging
 
 
 # Инициализация
 logger = setup_logging()
+start_time = time.time()
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """FastAPI lifespan context manager"""
+    # Startup
+    logger.info("=" * 70)
+    logger.info("СТАРТИРАНЕ НА FOOTBALL AI PREDICTION SERVICE")
+    logger.info("=" * 70)
+    
+    service_manager = get_service_manager()
+    await service_manager.initialize()
+    
+    yield
+    
+    # Shutdown
+    logger.info("Спиране на Football AI Prediction Service...")
+    await service_manager.cleanup()
+
+
 app = FastAPI(
     title="Football AI Prediction Service",
     description="AI-powered football match predictions using ESPN data",
     version="1.0.0",
     docs_url="/docs",
-    redoc_url="/redoc"
+    redoc_url="/redoc",
+    lifespan=lifespan
 )
 
 # CORS middleware
@@ -44,33 +73,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Global state
-prediction_service: Optional[PredictionService] = None
-improved_prediction_service: Optional[ImprovedPredictionService] = None
-start_time = time.time()
-
-
-@app.on_event("startup")
-async def startup_event():
-    """Startup event - зареждане на модели"""
-    global prediction_service, improved_prediction_service
-    
-    logger.info("=" * 70)
-    logger.info("СТАРТИРАНЕ НА FOOTBALL AI PREDICTION SERVICE")
-    logger.info("=" * 70)
-    
-    try:
-        prediction_service = PredictionService()
-        logger.info("✓ Prediction service инициализиран успешно")
-    except Exception as e:
-        logger.error(f"✗ Грешка при инициализация: {e}")
-        raise
-
-
-@app.on_event("shutdown")
-async def shutdown_event():
-    """Shutdown event"""
-    logger.info("Спиране на Football AI Prediction Service...")
+# Премахнахме глобалното състояние - сега използваме dependency injection
 
 
 @app.exception_handler(Exception)
@@ -101,16 +104,15 @@ async def root():
 
 
 @app.get("/health", response_model=HealthResponse, tags=["General"])
-async def health_check():
+async def health_check(
+    prediction_service: PredictionService = Depends(get_prediction_service)
+):
     """
     Health check endpoint
     
     Returns:
         Health status
     """
-    if prediction_service is None:
-        raise HTTPException(status_code=503, detail="Service not initialized")
-    
     health = prediction_service.health_check()
     
     return HealthResponse(
@@ -122,16 +124,15 @@ async def health_check():
 
 
 @app.get("/models", response_model=ModelsListResponse, tags=["Models"])
-async def list_models():
+async def list_models(
+    prediction_service: PredictionService = Depends(get_prediction_service)
+):
     """
     Списък на всички модели
     
     Returns:
         Информация за моделите
     """
-    if prediction_service is None:
-        raise HTTPException(status_code=503, detail="Service not initialized")
-    
     info = prediction_service.get_model_info()
     
     return ModelsListResponse(
@@ -141,7 +142,10 @@ async def list_models():
 
 
 @app.post("/predict", response_model=PredictionResponse, tags=["Predictions"])
-async def predict_match(match: MatchInput):
+async def predict_match(
+    match: MatchInput,
+    prediction_service: PredictionService = Depends(get_prediction_service)
+):
     """
     Прогноза за футболен мач
     
@@ -161,9 +165,6 @@ async def predict_match(match: MatchInput):
         }
         ```
     """
-    if prediction_service is None:
-        raise HTTPException(status_code=503, detail="Service not initialized")
-    
     try:
         logger.info(f"Prediction request: {match.home_team} vs {match.away_team}")
         
@@ -187,7 +188,8 @@ async def predict_match_get(
     home_team: str,
     away_team: str,
     league: Optional[str] = None,
-    date: Optional[str] = None
+    date: Optional[str] = None,
+    prediction_service: PredictionService = Depends(get_prediction_service)
 ):
     """
     Прогноза за футболен мач (GET endpoint)
@@ -204,9 +206,6 @@ async def predict_match_get(
     Example:
         `/predict/Manchester%20United/vs/Liverpool?league=Premier%20League`
     """
-    if prediction_service is None:
-        raise HTTPException(status_code=503, detail="Service not initialized")
-    
     try:
         logger.info(f"Prediction request (GET): {home_team} vs {away_team}")
         
@@ -225,7 +224,10 @@ async def predict_match_get(
 
 
 @app.post("/predict/improved", tags=["Predictions"])
-async def predict_match_improved(match: MatchInput):
+async def predict_match_improved(
+    match: MatchInput,
+    improved_service: ImprovedPredictionService = Depends(get_improved_prediction_service)
+):
     """
     Подобрена прогноза за футболен мач с confidence scoring
     
@@ -241,23 +243,11 @@ async def predict_match_improved(match: MatchInput):
     Returns:
         Пълна прогноза с metadata за качеството на данните
     """
-    global improved_prediction_service
-    
-    # Lazy initialization на подобрения сервис
-    if improved_prediction_service is None:
-        try:
-            logger.info("Инициализиране на ImprovedPredictionService...")
-            improved_prediction_service = ImprovedPredictionService()
-            logger.info("✓ ImprovedPredictionService инициализиран")
-        except Exception as e:
-            logger.error(f"✗ Грешка при инициализация на ImprovedPredictionService: {e}")
-            raise HTTPException(status_code=503, detail="Improved service not available")
-    
     try:
         logger.info(f"Improved prediction request: {match.home_team} vs {match.away_team}")
         
         # Подобрена прогноза с confidence
-        result = improved_prediction_service.predict_with_confidence(
+        result = improved_service.predict_with_confidence(
             home_team=match.home_team,
             away_team=match.away_team,
             league=match.league,
@@ -296,16 +286,33 @@ async def get_feature_groups():
         raise HTTPException(status_code=500, detail=str(e))
 
 
+@app.get("/services/status", tags=["General"])
+async def get_services_status(
+    status: dict = Depends(get_service_status)
+):
+    """
+    Статус на всички services
+    
+    Returns:
+        Подробна информация за състоянието на services
+    """
+    return {
+        "service_manager": status,
+        "uptime_seconds": time.time() - start_time,
+        "timestamp": datetime.now().isoformat()
+    }
+
+
 @app.get("/teams", tags=["Data"])
-async def list_teams():
+async def list_teams(
+    prediction_service: PredictionService = Depends(get_prediction_service)
+):
     """
     Списък на всички отбори в системата
     
     Returns:
         Списък с отбори и техните Elo ratings
     """
-    if prediction_service is None:
-        raise HTTPException(status_code=503, detail="Service not initialized")
     
     teams = []
     for team, data in prediction_service.elo_ratings.items():
