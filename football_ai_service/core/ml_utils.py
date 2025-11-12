@@ -18,39 +18,60 @@ from .utils import setup_logging
 logger = setup_logging()
 
 
-def align_features(X: pd.DataFrame, feature_list: List[str], fill_value: float = 0.0) -> pd.DataFrame:
+def align_features(
+    X: pd.DataFrame, 
+    feature_list: List[str], 
+    league: Optional[str] = None,
+    use_intelligent_imputation: bool = True
+) -> Tuple[pd.DataFrame, Dict]:
     """
-    Align features to match training data
-    
-    Ensures that:
-    - All required features are present (fills missing with fill_value)
-    - Features are in the same order as training
-    - Extra features are removed
+    Align features to match training data with intelligent imputation
     
     Args:
         X: Input DataFrame with features
         feature_list: List of feature names from training
-        fill_value: Value to fill missing features (default: 0.0)
+        league: League for league-specific imputation
+        use_intelligent_imputation: Whether to use FeatureValidator
     
     Returns:
-        Aligned DataFrame with exact same features as training
+        Tuple (aligned DataFrame, metadata about imputation)
     """
-    # Check for missing and extra features
-    missing = set(feature_list) - set(X.columns)
-    extra = set(X.columns) - set(feature_list)
+    if use_intelligent_imputation:
+        # Използваме новия FeatureValidator
+        from .feature_validator import FeatureValidator
+        
+        validator = FeatureValidator()
+        X_aligned, metadata = validator.validate_and_impute(X, feature_list, league)
+        
+        logger.info(
+            f"Intelligent feature alignment: {len(X.columns)} → {len(X_aligned.columns)} features, "
+            f"quality: {metadata['data_quality_score']:.2f}"
+        )
+        
+        return X_aligned, metadata
     
-    if missing:
-        logger.warning(f"Missing features (will fill with {fill_value}): {sorted(missing)}")
-    
-    if extra:
-        logger.info(f"Extra features (will be ignored): {sorted(extra)}")
-    
-    # Reindex to match training features exactly
-    X_aligned = X.reindex(columns=feature_list, fill_value=fill_value)
-    
-    logger.info(f"Feature alignment: {len(X.columns)} → {len(X_aligned.columns)} features")
-    
-    return X_aligned
+    else:
+        # Стария метод с fill_value
+        missing = set(feature_list) - set(X.columns)
+        extra = set(X.columns) - set(feature_list)
+        
+        if missing:
+            logger.warning(f"Missing features (will fill with 0.0): {sorted(missing)}")
+        
+        if extra:
+            logger.info(f"Extra features (will be ignored): {sorted(extra)}")
+        
+        X_aligned = X.reindex(columns=feature_list, fill_value=0.0)
+        
+        metadata = {
+            'missing_features': list(missing),
+            'data_quality_score': 1.0 - (len(missing) / len(feature_list)) if feature_list else 1.0,
+            'method': 'legacy_zero_fill'
+        }
+        
+        logger.info(f"Legacy feature alignment: {len(X.columns)} → {len(X_aligned.columns)} features")
+        
+        return X_aligned, metadata
 
 
 def add_btts_specific_features(df: pd.DataFrame) -> pd.DataFrame:
@@ -194,40 +215,88 @@ def get_btts_feature_columns() -> List[str]:
 def prepare_features(
     df: pd.DataFrame,
     feature_cols: List[str],
-    fill_na: bool = True
-) -> pd.DataFrame:
+    league: Optional[str] = None,
+    use_intelligent_imputation: bool = True,
+    legacy_fill_na: bool = False
+) -> Tuple[pd.DataFrame, Dict]:
     """
-    Подготовка на features за ML модел
+    Подготовка на features за ML модел с интелигентно попълване
     
     Args:
         df: DataFrame с данни
         feature_cols: Списък с feature колони
-        fill_na: Дали да попълним NaN стойности
+        league: Лига за лигово-специфично попълване
+        use_intelligent_imputation: Дали да използва FeatureValidator
+        legacy_fill_na: Дали да използва стария метод с fillna(0)
     
     Returns:
-        DataFrame само с features
+        Tuple (DataFrame с features, metadata за качеството)
     """
-    # Филтриране само на съществуващи колони
-    available_cols = [col for col in feature_cols if col in df.columns]
+    if use_intelligent_imputation and not legacy_fill_na:
+        # Нов интелигентен метод
+        X_aligned, metadata = align_features(df, feature_cols, league, True)
+        
+        # Почистване на екстремни стойности
+        X_cleaned = _clean_extreme_values(X_aligned)
+        
+        metadata['cleaning_applied'] = True
+        
+        return X_cleaned, metadata
     
-    X = df[available_cols].copy()
+    else:
+        # Стар метод за съвместимост
+        available_cols = [col for col in feature_cols if col in df.columns]
+        X = df[available_cols].copy()
+        
+        if legacy_fill_na:
+            X = X.fillna(0)
+        
+        # Почистване на екстремни стойности
+        X_cleaned = _clean_extreme_values(X)
+        
+        # Добавяне на липсващи колони с нули
+        missing_cols = set(feature_cols) - set(X.columns)
+        for col in missing_cols:
+            X_cleaned[col] = 0.0
+        
+        # Подреждане на колоните
+        X_final = X_cleaned.reindex(columns=feature_cols, fill_value=0.0)
+        
+        metadata = {
+            'missing_features': list(missing_cols),
+            'data_quality_score': 1.0 - (len(missing_cols) / len(feature_cols)) if feature_cols else 1.0,
+            'method': 'legacy_prepare',
+            'cleaning_applied': True
+        }
+        
+        return X_final, metadata
+
+
+def _clean_extreme_values(X: pd.DataFrame) -> pd.DataFrame:
+    """
+    Почиства екстремни стойности в DataFrame
     
-    if fill_na:
-        # Попълване на NaN с 0
-        X = X.fillna(0)
+    Args:
+        X: DataFrame с features
+    
+    Returns:
+        Почистен DataFrame
+    """
+    X_clean = X.copy()
     
     # Замяна на inf/-inf с големи числа
-    X = X.replace([np.inf, -np.inf], [1e10, -1e10])
+    X_clean = X_clean.replace([np.inf, -np.inf], [1e10, -1e10])
     
     # Clip на екстремни стойности
-    for col in X.columns:
-        if X[col].dtype in [np.float64, np.float32, np.int64, np.int32]:
-            # Clip на 99.9 percentile
-            upper = X[col].quantile(0.999)
-            lower = X[col].quantile(0.001)
-            X[col] = X[col].clip(lower, upper)
+    for col in X_clean.columns:
+        if X_clean[col].dtype in [np.float64, np.float32, np.int64, np.int32]:
+            # Използваме по-консервативни граници
+            if X_clean[col].nunique() > 10:  # Само за непрекъснати променливи
+                upper = X_clean[col].quantile(0.995)
+                lower = X_clean[col].quantile(0.005)
+                X_clean[col] = X_clean[col].clip(lower, upper)
     
-    return X
+    return X_clean
 
 
 def evaluate_classification(

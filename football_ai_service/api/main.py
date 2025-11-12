@@ -271,6 +271,31 @@ async def predict_match_improved(match: MatchInput):
         raise HTTPException(status_code=500, detail=str(e))
 
 
+@app.get("/features/groups", tags=["Data"])
+async def get_feature_groups():
+    """
+    Информация за feature групите и техните методи за попълване
+    
+    Returns:
+        Подробна информация за всяка feature група
+    """
+    try:
+        from core.feature_validator import FeatureValidator
+        
+        validator = FeatureValidator()
+        groups_info = validator.get_feature_groups_info()
+        
+        return {
+            "feature_groups": groups_info,
+            "total_groups": len(groups_info),
+            "description": "Feature групи с различни методи за валидиране и попълване"
+        }
+        
+    except Exception as e:
+        logger.error(f"Feature groups error: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
 @app.get("/teams", tags=["Data"])
 async def list_teams():
     """

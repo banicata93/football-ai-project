@@ -190,7 +190,7 @@ class ImprovedPredictionService:
             warnings.append(away_id_meta['warning'])
         
         # Правим predictions
-        predictions = self._make_all_predictions(match_df, home_team_id, away_team_id)
+        predictions = self._make_all_predictions(match_df, home_team_id, away_team_id, league)
         
         # Добавяме подробна metadata
         predictions['data_quality'] = {
@@ -276,7 +276,7 @@ class ImprovedPredictionService:
         
         return pd.DataFrame([features])
     
-    def _make_all_predictions(self, match_df: pd.DataFrame, home_team_id: int, away_team_id: int) -> Dict:
+    def _make_all_predictions(self, match_df: pd.DataFrame, home_team_id: int, away_team_id: int, league: Optional[str] = None) -> Dict:
         """Прави всички predictions"""
         predictions = {}
         
@@ -287,7 +287,7 @@ class ImprovedPredictionService:
             )
             
             # 1X2 prediction
-            X_1x2 = align_features(match_df, self.feature_lists['1x2'])
+            X_1x2, meta_1x2 = align_features(match_df, self.feature_lists['1x2'], league)
             pred_1x2 = self.models['1x2'].predict_proba(X_1x2)[0]
             
             predictions['prediction_1x2'] = {
@@ -299,7 +299,7 @@ class ImprovedPredictionService:
             }
             
             # Over/Under 2.5
-            X_ou25 = align_features(match_df, self.feature_lists['ou25'])
+            X_ou25, meta_ou25 = align_features(match_df, self.feature_lists['ou25'], league)
             pred_ou25 = self.models['ou25'].predict_proba(X_ou25)[0]
             
             predictions['prediction_ou25'] = {
@@ -310,7 +310,7 @@ class ImprovedPredictionService:
             }
             
             # BTTS
-            X_btts = align_features(match_df, self.feature_lists['btts'])
+            X_btts, meta_btts = align_features(match_df, self.feature_lists['btts'], league)
             pred_btts = self.models['btts'].predict_proba(X_btts)[0]
             
             predictions['prediction_btts'] = {
@@ -346,6 +346,25 @@ class ImprovedPredictionService:
             }
             
             predictions['timestamp'] = datetime.now().isoformat()
+            
+            # Добавяме feature quality информация
+            predictions['feature_quality'] = {
+                '1x2_model': {
+                    'data_quality_score': meta_1x2.get('data_quality_score', 1.0),
+                    'missing_features': meta_1x2.get('missing_features', []),
+                    'imputed_count': len(meta_1x2.get('imputed_features', {}))
+                },
+                'ou25_model': {
+                    'data_quality_score': meta_ou25.get('data_quality_score', 1.0),
+                    'missing_features': meta_ou25.get('missing_features', []),
+                    'imputed_count': len(meta_ou25.get('imputed_features', {}))
+                },
+                'btts_model': {
+                    'data_quality_score': meta_btts.get('data_quality_score', 1.0),
+                    'missing_features': meta_btts.get('missing_features', []),
+                    'imputed_count': len(meta_btts.get('imputed_features', {}))
+                }
+            }
             
         except Exception as e:
             self.logger.error(f"Грешка при predictions: {e}")
