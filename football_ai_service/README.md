@@ -1,6 +1,6 @@
 # ⚽ AI Football Prediction Service
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -171,7 +171,7 @@ football_ai_service/
 ## 🔧 Технологичен Stack
 
 ### Core Libraries
-- **Python 3.8+**
+- **Python 3.9+**
 - **pandas 2.0.3** - Data manipulation
 - **numpy 1.24.3** - Numerical computing
 - **scikit-learn 1.3.0** - ML utilities
@@ -199,12 +199,37 @@ football_ai_service/
 
 ### 1. Installation
 
+#### Опция 1: pip (препоръчително)
 ```bash
 # Clone repository
 cd football_ai_service
 
-# Install dependencies
+# Създай virtual environment
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# или
+venv\Scripts\activate     # Windows
+
+# Инсталирай зависимости
 pip install -r requirements.txt
+```
+
+#### Опция 2: conda
+```bash
+# Създай conda environment от environment.yml
+conda env create -f environment.yml
+
+# Активирай environment
+conda activate football-ai
+```
+
+#### Опция 3: setup.py (за разработчици)
+```bash
+# Инсталирай като пакет
+pip install -e .
+
+# Или с development dependencies
+pip install -e ".[dev]"
 ```
 
 ### 2. Data Preparation (ако нямаш готови модели)
