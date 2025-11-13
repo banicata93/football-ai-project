@@ -1,0 +1,45 @@
+# Adaptive Learning Configuration for OU2.5 Per-League Models
+adaptive_learning:
+  # Основни настройки
+  enabled: true
+  
+  # Drift detection
+  drift_threshold: 0.05  # 5% влошаване на log loss
+  min_matches_for_comparison: 50  # Минимум мачове за валидно сравнение
+  
+  # Retraining параметри
+  retrain_min_matches: 300  # Минимум нови мачове за retraining
+  retrain_window_days: 90   # Период за търсене на нови данни
+  
+  # Backup и rollback
+  backup_old_models: true
+  max_backups_per_league: 5  # Максимум backup-и на лига
+  
+  # Файлове и директории
+  log_file: "logs/model_reports/ou25_per_league_summary.json"
+  models_dir: "models/leagues/"
+  backup_dir: "models/backups/"
+  adaptive_log: "logs/adaptive_learning.log"
+  
+  # Performance критерии
+  performance_metrics:
+    primary: "log_loss"      # Основна метрика за drift detection
+    secondary: "brier_score" # Допълнителна метрика
+    accuracy_threshold: 0.55 # Минимален accuracy за валиден модел
+  
+  # Scheduling
+  auto_run_enabled: true
+  run_frequency: "weekly"    # daily, weekly, monthly
+  run_day: "sunday"         # За weekly
+  run_hour: 3               # 3 AM
+  
+  # Safety settings
+  max_concurrent_retrains: 2  # Максимум паралелни retraining-и
+  rollback_on_failure: true
+  validation_split: 0.2      # За валидация на новия модел
+  
+  # Notification settings (за бъдещо разширяване)
+  notifications:
+    enabled: false
+    email: null
+    slack_webhook: null

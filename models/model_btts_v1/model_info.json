@@ -1,0 +1,8 @@
+{
+  "model_name": "btts",
+  "model_type": "XGBClassifier",
+  "trained_date": "2025-11-11T12:11:41.464774",
+  "num_features": 72,
+  "train_accuracy": 0.8591740013540962,
+  "val_accuracy": 0.7779192665223481
+}

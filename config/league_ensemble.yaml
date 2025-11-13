@@ -1,0 +1,113 @@
+# League-Specific Dynamic Ensembles Configuration
+league_ensembles:
+  # Основни настройки
+  enabled: true
+  lookback_days: 60               # Анализира последните 60 дни
+  update_frequency_days: 7        # Обновява всеки 7 дни
+  min_matches_per_league: 150     # Минимум мачове за оптимизация
+  min_improvement: 0.02           # Минимум 2% подобрение за промяна
+  
+  # Weight constraints
+  constraints:
+    min_weight: 0.1               # Минимално тегло 10%
+    max_weight: 0.8               # Максимално тегло 80%
+    sum_tolerance: 1e-6           # Tolerance за сума = 1.0
+  
+  # Cross-validation settings
+  cross_validation:
+    enabled: true
+    folds: 5                      # K-fold CV
+    validation_threshold: 0.01    # Минимално подобрение във валидацията
+    test_size: 0.3                # 30% за тестване
+  
+  # Optimization settings
+  optimization:
+    method: "SLSQP"               # Scipy optimization method
+    max_iterations: 1000
+    tolerance: 1e-6
+    random_restarts: 3            # Multiple random starting points
+  
+  # Backup settings
+  backup:
+    enabled: true
+    max_backups: 15               # Максимум backup файлове
+    backup_dir: "config/backups/"
+    auto_rollback: true           # Автоматично rollback при влошаване
+  
+  # Performance tracking
+  performance:
+    target_metrics:
+      - "log_loss"
+      - "brier_score"
+      - "accuracy"
+    primary_metric: "log_loss"    # Основна метрика за оптимизация
+    
+  # League-specific settings
+  leagues:
+    # Автоматично се попълва от historical data
+    # Примерни стойности:
+    premier_league:
+      enabled: true
+      min_matches: 150
+      custom_constraints:
+        min_weight: 0.05
+        max_weight: 0.85
+    
+    la_liga:
+      enabled: true
+      min_matches: 150
+      
+    serie_a:
+      enabled: true
+      min_matches: 150
+      
+    bundesliga:
+      enabled: true
+      min_matches: 150
+      
+    ligue_1:
+      enabled: true
+      min_matches: 150
+      
+    eredivisie:
+      enabled: true
+      min_matches: 100            # По-малко мачове за по-малки лиги
+      
+    primeira_liga:
+      enabled: true
+      min_matches: 100
+      
+    championship:
+      enabled: true
+      min_matches: 200            # Повече мачове за по-голяма лига
+  
+  # Default weights (fallback)
+  default_weights:
+    poisson: 0.30
+    ml: 0.50
+    elo: 0.20
+  
+  # Safety settings
+  safety:
+    max_weight_change: 0.20       # Максимална промяна на тегло за една оптимизация
+    stability_check: true         # Проверка за стабилност на теглата
+    outlier_detection: true       # Откриване на outlier лиги
+    
+  # Logging
+  logging:
+    enabled: true
+    log_file: "logs/league_ensemble_optimizer.log"
+    log_level: "INFO"
+    detailed_logging: true
+  
+  # Integration settings
+  integration:
+    update_global_ensemble: false  # Дали да обновява глобалните тегла
+    trigger_adaptive_learning: true # Trigger adaptive learning при големи промени
+    alert_threshold: 0.15          # Threshold за alerts при големи промени
+  
+  # Output settings
+  output:
+    weights_file: "config/league_ensemble_weights.yaml"
+    results_file: "logs/league_ensemble_results.json"
+    include_metadata: true         # Включва metadata в output файловете

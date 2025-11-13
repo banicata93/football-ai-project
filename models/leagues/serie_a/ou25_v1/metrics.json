@@ -1,0 +1,20 @@
+{
+  "train": {
+    "accuracy": 0.5938566552901023,
+    "log_loss": 0.6631048820573185,
+    "brier_score": 0.235244626376822,
+    "roc_auc": 0.785303776683087
+  },
+  "val": {
+    "accuracy": 0.6666666666666666,
+    "log_loss": 0.6312105354892789,
+    "brier_score": 0.21980682356253434,
+    "roc_auc": 0.5495162590701425
+  },
+  "league": "serie_a",
+  "total_matches": 476,
+  "train_matches": 293,
+  "val_matches": 183,
+  "feature_count": 72,
+  "calibrated": true
+}

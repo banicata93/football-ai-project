@@ -1,0 +1,20 @@
+{
+  "train": {
+    "accuracy": 0.7711442786069652,
+    "log_loss": 0.6142891327359616,
+    "brier_score": 0.21105266780673512,
+    "roc_auc": 0.8803723509605862
+  },
+  "val": {
+    "accuracy": 0.584070796460177,
+    "log_loss": 0.6504547837870774,
+    "brier_score": 0.23219553308048882,
+    "roc_auc": 0.6163820366856421
+  },
+  "league": "championship",
+  "total_matches": 314,
+  "train_matches": 201,
+  "val_matches": 113,
+  "feature_count": 72,
+  "calibrated": true
+}

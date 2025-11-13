@@ -1,0 +1,232 @@
+{
+  "base_model": {
+    "train": {
+      "accuracy": 0.9680094786729858,
+      "precision_yes": 0.9855769230769231,
+      "precision_no": 0.9531835205992509,
+      "recall_yes": 0.9467140319715808,
+      "recall_no": 0.9873908826382153,
+      "f1_yes": 0.965754665700308,
+      "f1_no": 0.9699857074797522,
+      "f1_macro": 0.9678701865900301,
+      "brier_score": 0.04588661849322552,
+      "log_loss": 0.18158224033872844,
+      "ece": 0.11587381803417375,
+      "best_threshold": 0.5,
+      "best_f1_macro": 0.9678701865900301,
+      "threshold_analysis": {
+        "threshold_0.45": {
+          "accuracy": 0.9663168584969533,
+          "f1_macro": 0.9663058064773136,
+          "precision_yes": 0.9380442062960482,
+          "recall_yes": 0.9950266429840142
+        },
+        "threshold_0.5": {
+          "accuracy": 0.9680094786729858,
+          "f1_macro": 0.9678701865900301,
+          "precision_yes": 0.9855769230769231,
+          "recall_yes": 0.9467140319715808
+        },
+        "threshold_0.55": {
+          "accuracy": 0.9639471902505078,
+          "f1_macro": 0.9637339764211076,
+          "precision_yes": 0.9928030303030303,
+          "recall_yes": 0.9310834813499111
+        },
+        "threshold_0.6": {
+          "accuracy": 0.9529451591062965,
+          "f1_macro": 0.9525398057026994,
+          "precision_yes": 0.9980369061641147,
+          "recall_yes": 0.9030195381882771
+        }
+      }
+    },
+    "validation": {
+      "accuracy": 0.7800840443142748,
+      "precision_yes": 0.8003462204270052,
+      "precision_no": 0.764075678139959,
+      "recall_yes": 0.7282751378314518,
+      "recall_no": 0.8288822947576657,
+      "f1_yes": 0.7626116838487973,
+      "f1_no": 0.7951607164037481,
+      "f1_macro": 0.7788862001262726,
+      "brier_score": 0.12939263195085232,
+      "log_loss": 0.3650287349679347,
+      "ece": 0.06949620522303947,
+      "best_threshold": 0.6,
+      "best_f1_macro": 0.788075350485582,
+      "threshold_analysis": {
+        "threshold_0.45": {
+          "accuracy": 0.7763911880809882,
+          "f1_macro": 0.7763250862300188,
+          "precision_yes": 0.7625991302123305,
+          "recall_yes": 0.7826201102651614
+        },
+        "threshold_0.5": {
+          "accuracy": 0.7800840443142748,
+          "f1_macro": 0.7788862001262726,
+          "precision_yes": 0.8003462204270052,
+          "recall_yes": 0.7282751378314518
+        },
+        "threshold_0.55": {
+          "accuracy": 0.786323697949828,
+          "f1_macro": 0.7837846290240604,
+          "precision_yes": 0.8336987159411212,
+          "recall_yes": 0.6988710947755317
+        },
+        "threshold_0.6": {
+          "accuracy": 0.7920539921049281,
+          "f1_macro": 0.788075350485582,
+          "precision_yes": 0.866576819407008,
+          "recall_yes": 0.67524284589131
+        }
+      }
+    }
+  },
+  "calibrated_model": {
+    "train": {
+      "accuracy": 0.9202775897088693,
+      "precision_yes": 1.0,
+      "precision_no": 0.8678451178451179,
+      "recall_yes": 0.8326820603907638,
+      "recall_no": 1.0,
+      "f1_yes": 0.9087032370614461,
+      "f1_no": 0.9292474087426769,
+      "f1_macro": 0.9189753229020614,
+      "brier_score": 0.12160439917987627,
+      "log_loss": 0.36313226916301405,
+      "ece": 0.18622428866780502,
+      "best_threshold": 0.45,
+      "best_f1_macro": 0.9414803309643209,
+      "threshold_analysis": {
+        "threshold_0.45": {
+          "accuracy": 0.9421123899796886,
+          "f1_macro": 0.9414803309643209,
+          "precision_yes": 0.9987898346107301,
+          "recall_yes": 0.8795737122557726
+        },
+        "threshold_0.5": {
+          "accuracy": 0.9202775897088693,
+          "f1_macro": 0.9189753229020614,
+          "precision_yes": 1.0,
+          "recall_yes": 0.8326820603907638
+        },
+        "threshold_0.55": {
+          "accuracy": 0.7366283006093433,
+          "f1_macro": 0.7085420622640286,
+          "precision_yes": 1.0,
+          "recall_yes": 0.447246891651865
+        },
+        "threshold_0.6": {
+          "accuracy": 0.7366283006093433,
+          "f1_macro": 0.7085420622640286,
+          "precision_yes": 1.0,
+          "recall_yes": 0.447246891651865
+        }
+      }
+    },
+    "validation": {
+      "accuracy": 0.7975296065198013,
+      "precision_yes": 0.9201060204468005,
+      "precision_no": 0.735418265541059,
+      "recall_yes": 0.6379627198739827,
+      "recall_no": 0.9478239366963402,
+      "f1_yes": 0.7534883720930232,
+      "f1_no": 0.8282195332757131,
+      "f1_macro": 0.7908539526843681,
+      "brier_score": 0.11494584427372878,
+      "log_loss": 0.32276677507376256,
+      "ece": 3.4468304176627073e-09,
+      "best_threshold": 0.45,
+      "best_f1_macro": 0.7916424250667704,
+      "threshold_analysis": {
+        "threshold_0.45": {
+          "accuracy": 0.796638227429008,
+          "f1_macro": 0.7916424250667704,
+          "precision_yes": 0.8910891089108911,
+          "recall_yes": 0.6615909687582042
+        },
+        "threshold_0.5": {
+          "accuracy": 0.7975296065198013,
+          "f1_macro": 0.7908539526843681,
+          "precision_yes": 0.9201060204468005,
+          "recall_yes": 0.6379627198739827
+        },
+        "threshold_0.55": {
+          "accuracy": 0.7952374888577614,
+          "f1_macro": 0.7835203100613595,
+          "precision_yes": 0.9963915200721696,
+          "recall_yes": 0.579942242058283
+        },
+        "threshold_0.6": {
+          "accuracy": 0.7952374888577614,
+          "f1_macro": 0.7835203100613595,
+          "precision_yes": 0.9963915200721696,
+          "recall_yes": 0.579942242058283
+        }
+      }
+    }
+  },
+  "improvements": {
+    "brier_score_improvement": 0.01444678767712354,
+    "ece_improvement": 0.06949620177620905,
+    "f1_improvement": 0.011967752558095457
+  },
+  "cross_validation": {
+    "f1_macro_mean": 0.6923266746610693,
+    "f1_macro_std": 0.011685646848354539
+  },
+  "feature_info": {
+    "total_features": 46,
+    "base_features": 16,
+    "btts_features": 30,
+    "feature_list": [
+      "home_elo_before",
+      "away_elo_before",
+      "elo_diff",
+      "home_form_5",
+      "away_form_5",
+      "form_diff_5",
+      "home_goals_scored_avg_5",
+      "home_goals_conceded_avg_5",
+      "away_goals_scored_avg_5",
+      "away_goals_conceded_avg_5",
+      "home_shooting_efficiency",
+      "away_shooting_efficiency",
+      "home_xg_proxy",
+      "away_xg_proxy",
+      "is_home",
+      "is_weekend",
+      "home_btts_rate_last5",
+      "away_btts_rate_last5",
+      "home_btts_rate_last10",
+      "away_btts_rate_last10",
+      "league_btts_rate",
+      "league_over25_rate",
+      "total_goals_scored_avg_5",
+      "total_goals_conceded_avg_5",
+      "both_defenses_weak",
+      "both_attacks_strong",
+      "both_defenses_weak_product",
+      "both_attacks_strong_product",
+      "attack_vs_defense_home",
+      "attack_vs_defense_away",
+      "expected_home_goals_matchup",
+      "expected_away_goals_matchup",
+      "btts_likelihood_matchup",
+      "shooting_efficiency_balance",
+      "min_shooting_efficiency",
+      "max_shooting_efficiency",
+      "form_balance",
+      "min_form",
+      "both_teams_good_form",
+      "xg_balance",
+      "min_xg_proxy",
+      "both_teams_attacking",
+      "poisson_btts_confidence",
+      "poisson_btts_extreme",
+      "btts_favorable_conditions",
+      "btts_risk_factors"
+    ]
+  }
+}

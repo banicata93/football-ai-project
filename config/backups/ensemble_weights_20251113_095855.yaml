@@ -1,0 +1,60 @@
+ensemble:
+  backup:
+    backup_dir: config/backups/
+    enabled: true
+    max_backups: 10
+  current_weights:
+    elo: 0.1
+    ml: 0.8
+    poisson: 0.1
+  history:
+    last_optimization: '2025-11-13T01:06:30.668031'
+    last_weights_update: '2025-11-13T01:06:30.668035'
+    optimization_count: 1
+  last_optimization_metrics:
+    backup_path: config/backups/ensemble_weights_20251113_010630.yaml
+    metrics:
+      current_log_loss: 0.5745861124512606
+      improvement: 0.08033674500302164
+      iterations: 3
+      new_log_loss: 0.5284257344529861
+      optimization_success: true
+    new_weights:
+      elo: 0.1
+      ml: 0.8
+      poisson: 0.1
+    old_weights:
+      elo: 0.2
+      ml: 0.5
+      poisson: 0.3
+    timestamp: '2025-11-13T01:06:30.668037'
+  logging:
+    enabled: true
+    log_file: logs/ensemble_optimizer.log
+  optimization:
+    cross_validation_folds: 5
+    enabled: true
+    lookback_days: 45
+    min_improvement: 0.02
+    validation_threshold: 0.01
+    weight_constraints:
+      max_weight: 0.8
+      min_weight: 0.1
+    optimization_method: "scipy"
+    max_iterations: 1000
+    tolerance: 1e-6
+    update_frequency_days: 7
+  
+  # Performance tracking
+  performance:
+    target_metrics:
+      - "log_loss"
+      - "brier_score" 
+      - "accuracy"
+    primary_metric: "log_loss"
+    
+  # Safety settings
+  safety:
+    max_weight_change: 0.15
+    rollback_on_degradation: true
+    validation_threshold: 0.01

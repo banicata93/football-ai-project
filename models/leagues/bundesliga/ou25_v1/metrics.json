@@ -1,0 +1,20 @@
+{
+  "train": {
+    "accuracy": 1.0,
+    "log_loss": 0.08494064915156145,
+    "brier_score": 0.01188435877941197,
+    "roc_auc": 1.0
+  },
+  "val": {
+    "accuracy": 0.8848484848484849,
+    "log_loss": 0.28679151340860953,
+    "brier_score": 0.08966189366189367,
+    "roc_auc": 0.9337846249610955
+  },
+  "league": "bundesliga",
+  "total_matches": 449,
+  "train_matches": 284,
+  "val_matches": 165,
+  "feature_count": 72,
+  "calibrated": true
+}

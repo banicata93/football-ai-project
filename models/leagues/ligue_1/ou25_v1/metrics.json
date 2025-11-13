@@ -1,0 +1,20 @@
+{
+  "train": {
+    "accuracy": 0.6706827309236948,
+    "log_loss": 0.5654252368783416,
+    "brier_score": 0.1902563563367072,
+    "roc_auc": 0.8595073404856015
+  },
+  "val": {
+    "accuracy": 0.6903225806451613,
+    "log_loss": 0.5963181562207007,
+    "brier_score": 0.20472822518580125,
+    "roc_auc": 0.6234116288024645
+  },
+  "league": "ligue_1",
+  "total_matches": 404,
+  "train_matches": 249,
+  "val_matches": 155,
+  "feature_count": 72,
+  "calibrated": true
+}

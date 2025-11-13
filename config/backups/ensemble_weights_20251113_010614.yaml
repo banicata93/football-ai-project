@@ -1,0 +1,104 @@
+ensemble:
+  backup:
+    backup_dir: config/backups/
+    enabled: true
+    max_backups: 10
+  current_weights:
+    elo: !!python/object/apply:numpy._core.multiarray.scalar
+    - &id001 !!python/object/apply:numpy.dtype
+      args:
+      - f8
+      - false
+      - true
+      state: !!python/tuple
+      - 3
+      - <
+      - null
+      - null
+      - null
+      - -1
+      - -1
+      - 0
+    - !!binary |
+      mpmZmZmZuT8=
+    ml: !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      mpmZmZmZ6T8=
+    poisson: !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      mpmZmZmZuT8=
+  history:
+    last_optimization: '2025-11-13T01:05:53.968147'
+    last_weights_update: '2025-11-13T01:05:53.968150'
+    optimization_count: 1
+  last_optimization_metrics:
+    backup_path: config/backups/ensemble_weights_20251113_010553.yaml
+    metrics:
+      current_log_loss: 0.5745861124512606
+      improvement: 0.08033674500302164
+      iterations: 3
+      new_log_loss: 0.5284257344529861
+      optimization_success: !!python/object/apply:numpy._core.multiarray.scalar
+      - !!python/object/apply:numpy.dtype
+        args:
+        - b1
+        - false
+        - true
+        state: !!python/tuple
+        - 3
+        - '|'
+        - null
+        - null
+        - null
+        - -1
+        - -1
+        - 0
+      - !!binary |
+        AQ==
+    new_weights:
+      elo: !!python/object/apply:numpy._core.multiarray.scalar
+      - *id001
+      - !!binary |
+        mpmZmZmZuT8=
+      ml: !!python/object/apply:numpy._core.multiarray.scalar
+      - *id001
+      - !!binary |
+        mpmZmZmZ6T8=
+      poisson: !!python/object/apply:numpy._core.multiarray.scalar
+      - *id001
+      - !!binary |
+        mpmZmZmZuT8=
+    old_weights:
+      elo: 0.2
+      ml: 0.5
+      poisson: 0.3
+    timestamp: '2025-11-13T01:05:53.968152'
+  logging:
+    enabled: true
+    log_file: logs/ensemble_optimizer.log
+    log_level: INFO
+  optimization:
+    cross_validation_folds: 5
+    enabled: true
+    lookback_days: 45
+    max_iterations: 1000
+    min_improvement: 0.02
+    optimization_method: scipy
+    tolerance: 1e-6
+    update_frequency_days: 7
+    validation_split: 0.3
+    weight_constraints:
+      max_weight: 0.8
+      min_weight: 0.1
+  performance:
+    primary_metric: log_loss
+    target_metrics:
+    - log_loss
+    - brier_score
+    - accuracy
+  safety:
+    max_weight_change: 0.15
+    rollback_on_degradation: true
+    validation_threshold: 0.01

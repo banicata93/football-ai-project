@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-11-13T01:06:14.578829",
+  "enabled": true,
+  "success": true,
+  "weights_updated": true,
+  "old_weights": {
+    "poisson": 0.3,
+    "ml": 0.5,
+    "elo": 0.2
+  },
+  "new_weights": {
+    "poisson": 0.1,
+    "ml": 0.8,
+    "elo": 0.1
+  },
+  "metrics": {
+    "current_log_loss": 0.5745861124512606,
+    "new_log_loss": 0.5284257344529861,
+    "improvement": 0.08033674500302164,
+    "optimization_success": true,
+    "iterations": 3
+  },
+  "backup_path": "config/backups/ensemble_weights_20251113_010614.yaml",
+  "component_performance": {
+    "poisson": {
+      "log_loss": 0.7788567594230893,
+      "brier_score": 0.27731965604223147,
+      "accuracy": 0.5422222222222223,
+      "samples": 450
+    },
+    "ml": {
+      "log_loss": 0.507475326274166,
+      "brier_score": 0.16587267205040057,
+      "accuracy": 0.7933333333333333,
+      "samples": 450
+    },
+    "elo": {
+      "log_loss": 0.8092684431826577,
+      "brier_score": 0.28842370663130057,
+      "accuracy": 0.5311111111111111,
+      "samples": 450
+    }
+  }
+}

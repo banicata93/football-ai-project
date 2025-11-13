@@ -1,0 +1,93 @@
+# Advanced Drift Analyzer Configuration
+drift_detection:
+  # Основни настройки
+  enabled: true
+  analysis_window_days: 7      # Анализира последните 7 дни
+  baseline_window_days: 60     # Сравнява с baseline от 60 дни
+  min_samples_per_league: 50   # Минимум записи за анализ
+  
+  # Drift thresholds
+  thresholds:
+    # Probabilistic drift
+    kl_divergence: 0.10         # KL Divergence threshold
+    jensen_shannon: 0.08        # Jensen-Shannon Distance
+    wasserstein: 0.20           # Wasserstein Distance
+    
+    # Feature drift
+    psi: 0.15                   # Population Stability Index
+    ks_test: 0.10               # Kolmogorov-Smirnov p-value
+    feature_correlation: 0.15   # Feature correlation change
+    
+    # Calibration drift
+    ece_change: 0.03            # Expected Calibration Error change
+    brier_change: 0.05          # Brier Score change
+    
+    # Prediction drift
+    prediction_shift: 0.10      # Mean prediction shift
+    confidence_drift: 0.08      # Confidence distribution drift
+    
+    # League-specific drift
+    league_isolation: 0.20      # League-specific drift threshold
+    cross_league_consistency: 0.12  # Cross-league consistency
+  
+  # Severity levels
+  severity_levels:
+    low: 0.5      # 50% от threshold
+    medium: 0.8   # 80% от threshold  
+    high: 1.0     # 100% от threshold
+    critical: 1.5 # 150% от threshold
+  
+  # Feature analysis
+  feature_analysis:
+    enabled: true
+    top_features_count: 10      # Топ N най-дрифтнали features
+    correlation_threshold: 0.05  # Минимална корелация за анализ
+    stability_window: 14        # Дни за stability анализ
+  
+  # League-specific settings
+  league_analysis:
+    enabled: true
+    min_leagues_for_comparison: 3
+    cross_league_validation: true
+    isolation_detection: true
+  
+  # Trend analysis
+  trend_analysis:
+    enabled: true
+    trend_window_days: 21       # Анализира trend за 21 дни
+    smoothing_factor: 0.3       # Exponential smoothing
+    trend_significance: 0.05    # Statistical significance
+  
+  # Report settings
+  reporting:
+    enabled: true
+    report_file: "logs/drift_report.json"
+    detailed_report: true
+    include_visualizations: false
+    retention_days: 30
+  
+  # Integration settings
+  integration:
+    trigger_adaptive_learning: true    # Trigger adaptive learning при high drift
+    update_ensemble_weights: true      # Update ensemble при drift
+    alert_threshold: "medium"          # Минимален severity за alerts
+    
+  # Safety settings
+  safety:
+    max_drift_score: 2.0              # Максимален drift score
+    emergency_threshold: 1.8          # Emergency threshold
+    auto_rollback_enabled: true       # Auto rollback при critical drift
+    
+  # Performance settings
+  performance:
+    parallel_processing: true
+    max_workers: 4
+    memory_limit_mb: 1024
+    timeout_seconds: 300
+  
+  # Logging
+  logging:
+    enabled: true
+    log_file: "logs/drift_analyzer.log"
+    log_level: "INFO"
+    detailed_logging: true

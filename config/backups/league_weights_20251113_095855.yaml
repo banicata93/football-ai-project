@@ -1,0 +1,23 @@
+league_weights:
+  bundesliga:
+    elo: 0.8
+    ml: 0.1
+    poisson: 0.1
+  la_liga:
+    elo: 0.10000000000000003
+    ml: 0.1
+    poisson: 0.7999999999999999
+  ligue_1:
+    elo: 0.10000000000000005
+    ml: 0.7149994334999453
+    poisson: 0.18500056650005456
+  premier_league:
+    elo: 0.05000000000000003
+    ml: 0.85
+    poisson: 0.09999999999999998
+metadata:
+  lookback_days: 60
+  min_matches_per_league: 150
+  optimization_date: '2025-11-13T09:58:21.224404'
+  timestamp: '2025-11-13T09:58:21.352363'
+  total_leagues: 4

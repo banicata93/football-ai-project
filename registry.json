@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-01-01T00:00:00",
+  "active_models": {
+    "poisson": {
+      "version": "v1",
+      "path": "models/model_poisson_v1",
+      "status": "active",
+      "trained_date": null,
+      "metrics": {}
+    },
+    "1x2": {
+      "version": "v1",
+      "path": "models/model_1x2_v1",
+      "status": "pending",
+      "trained_date": null,
+      "metrics": {}
+    },
+    "ou25": {
+      "version": "v1",
+      "path": "models/model_ou25_v1",
+      "status": "pending",
+      "trained_date": null,
+      "metrics": {}
+    },
+    "btts": {
+      "version": "v1",
+      "path": "models/model_btts_v1",
+      "status": "pending",
+      "trained_date": null,
+      "metrics": {}
+    },
+    "corners": {
+      "version": "v1",
+      "path": "models/model_corners_v1",
+      "status": "pending",
+      "trained_date": null,
+      "metrics": {}
+    },
+    "ensemble": {
+      "version": "v1",
+      "path": "models/ensemble_v1",
+      "status": "pending",
+      "trained_date": null,
+      "metrics": {}
+    }
+  }
+}

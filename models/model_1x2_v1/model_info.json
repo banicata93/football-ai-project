@@ -1,0 +1,8 @@
+{
+  "model_name": "1x2",
+  "model_type": "XGBClassifier",
+  "trained_date": "2025-11-11T12:11:40.358609",
+  "num_features": 72,
+  "train_accuracy": 0.8898104265402843,
+  "val_accuracy": 0.6645867821214823
+}

@@ -1,0 +1,60 @@
+# Dynamic Ensemble Weights Configuration
+ensemble:
+  # Текущи тегла за компонентите
+  current_weights:
+    poisson: 0.30
+    ml: 0.50
+    elo: 0.20
+  
+  # Оптимизация настройки
+  optimization:
+    enabled: true
+    min_improvement: 0.02        # Минимум 2% подобрение за промяна
+    lookback_days: 45           # Анализира последните 45 дни
+    update_frequency_days: 7    # Проверява всеки 7 дни
+    
+    # Ограничения за теглата
+    weight_constraints:
+      min_weight: 0.1           # Минимално тегло за всеки компонент
+      max_weight: 0.8           # Максимално тегло за всеки компонент
+    
+    # Оптимизация параметри
+    optimization_method: "scipy"  # "scipy" или "grid_search"
+    max_iterations: 1000
+    tolerance: 1e-6
+    
+    # Валидация
+    validation_split: 0.3       # 30% за валидация на новите тегла
+    cross_validation_folds: 5   # K-fold cross validation
+  
+  # История на промените
+  history:
+    last_optimization: null
+    last_weights_update: null
+    optimization_count: 0
+    
+  # Backup настройки
+  backup:
+    enabled: true
+    max_backups: 10            # Максимум backup файлове
+    backup_dir: "config/backups/"
+  
+  # Logging
+  logging:
+    enabled: true
+    log_file: "logs/ensemble_optimizer.log"
+    log_level: "INFO"
+  
+  # Performance tracking
+  performance:
+    target_metrics:
+      - "log_loss"
+      - "brier_score" 
+      - "accuracy"
+    primary_metric: "log_loss"  # Основна метрика за оптимизация
+    
+  # Safety settings
+  safety:
+    max_weight_change: 0.15     # Максимална промяна на тегло за една оптимизация
+    rollback_on_degradation: true
+    validation_threshold: 0.01   # Минимално подобрение във валидацията

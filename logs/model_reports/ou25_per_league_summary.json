@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-11-12T15:41:01.754401",
+  "total_leagues_trained": 8,
+  "target_leagues": [
+    "premier_league",
+    "la_liga",
+    "serie_a",
+    "bundesliga",
+    "ligue_1",
+    "eredivisie",
+    "primeira_liga",
+    "championship"
+  ],
+  "min_matches_threshold": 300,
+  "metrics_by_league": {
+    "premier_league": {
+      "accuracy": 0.7230769230769231,
+      "log_loss": 0.5717163604955151,
+      "brier_score": 0.19412027946510704,
+      "matches": 643
+    },
+    "la_liga": {
+      "accuracy": 0.7482993197278912,
+      "log_loss": 0.48336960486163827,
+      "brier_score": 0.16444656680406153,
+      "matches": 487
+    },
+    "serie_a": {
+      "accuracy": 0.6666666666666666,
+      "log_loss": 0.6312105354892789,
+      "brier_score": 0.21980682356253434,
+      "matches": 476
+    },
+    "bundesliga": {
+      "accuracy": 0.8848484848484849,
+      "log_loss": 0.28679151340860953,
+      "brier_score": 0.08966189366189367,
+      "matches": 449
+    },
+    "ligue_1": {
+      "accuracy": 0.6903225806451613,
+      "log_loss": 0.5963181562207007,
+      "brier_score": 0.20472822518580125,
+      "matches": 404
+    },
+    "eredivisie": {
+      "accuracy": 0.9074074074074074,
+      "log_loss": 0.19275918157633504,
+      "brier_score": 0.06397714435568466,
+      "matches": 353
+    },
+    "primeira_liga": {
+      "accuracy": 0.8878504672897196,
+      "log_loss": 0.23395589246841633,
+      "brier_score": 0.0759457053849577,
+      "matches": 323
+    },
+    "championship": {
+      "accuracy": 0.584070796460177,
+      "log_loss": 0.6504547837870774,
+      "brier_score": 0.23219553308048882,
+      "matches": 314
+    }
+  },
+  "global_comparison": {
+    "note": "Compare with global OU2.5 model metrics"
+  }
+}

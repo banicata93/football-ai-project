@@ -1,0 +1,87 @@
+📊 PERFORMANCE МОНИТОРИНГ: PER-LEAGUE OU2.5 МОДЕЛИ
+======================================================================
+Дата: 2025-11-13 10:06:18
+
+📈 ОБЩ ПРЕГЛЕД:
+   Общо лиги: 8
+   Среден score: 7859.6/100
+   Медиан score: 7571.3/100
+   Стандартно отклонение: 910.4
+   Среден accuracy: 0.762
+   Среден log loss: 0.456
+   Среден Brier score: 0.156
+
+🏆 PERFORMANCE КАТЕГОРИИ:
+
+🟢 Отлични (80-100): 8 лиги
+   Eredivisie, Primeira Liga, Bundesliga, La Liga, Premier League, Ligue 1, Serie A, Championship
+
+🥇 КЛАСИРАНЕ ПО PERFORMANCE:
+
+🥇 Eredivisie:
+    Score: 9132.4/100
+    Accuracy: 0.907
+    Log Loss: 0.193
+    Brier Score: 0.064
+    Мачове: 353
+    Калибриран: ✅
+
+🥈 Primeira Liga:
+    Score: 8952.1/100
+    Accuracy: 0.888
+    Log Loss: 0.234
+    Brier Score: 0.076
+    Мачове: 323
+    Калибриран: ✅
+
+🥉 Bundesliga:
+    Score: 8813.4/100
+    Accuracy: 0.885
+    Log Loss: 0.287
+    Brier Score: 0.090
+    Мачове: 449
+    Калибриран: ✅
+
+ 4. La Liga:
+    Score: 7736.2/100
+    Accuracy: 0.748
+    Log Loss: 0.483
+    Brier Score: 0.164
+    Мачове: 487
+    Калибриран: ✅
+
+ 5. Premier League:
+    Score: 7406.5/100
+    Accuracy: 0.723
+    Log Loss: 0.572
+    Brier Score: 0.194
+    Мачове: 643
+    Калибриран: ✅
+
+ 6. Ligue 1:
+    Score: 7205.9/100
+    Accuracy: 0.690
+    Log Loss: 0.596
+    Brier Score: 0.205
+    Мачове: 404
+    Калибриран: ✅
+
+ 7. Serie A:
+    Score: 7012.5/100
+    Accuracy: 0.667
+    Log Loss: 0.631
+    Brier Score: 0.220
+    Мачове: 476
+    Калибриран: ✅
+
+ 8. Championship:
+    Score: 6617.5/100
+    Accuracy: 0.584
+    Log Loss: 0.650
+    Brier Score: 0.232
+    Мачове: 314
+    Калибриран: ✅
+
+💡 ПРЕПОРЪКИ:
+
+   🟢 8 лиги с отличен performance: Eredivisie, Primeira Liga, Bundesliga, La Liga, Premier League, Ligue 1, Serie A, Championship. Моделите са готови за production.

@@ -1,0 +1,20 @@
+{
+  "train": {
+    "accuracy": 0.9235294117647059,
+    "log_loss": 0.28720554285622035,
+    "brier_score": 0.07686262110028712,
+    "roc_auc": 0.9827856025039123
+  },
+  "val": {
+    "accuracy": 0.7482993197278912,
+    "log_loss": 0.48336960486163827,
+    "brier_score": 0.16444656680406153,
+    "roc_auc": 0.8144300419367136
+  },
+  "league": "la_liga",
+  "total_matches": 487,
+  "train_matches": 340,
+  "val_matches": 147,
+  "feature_count": 72,
+  "calibrated": true
+}

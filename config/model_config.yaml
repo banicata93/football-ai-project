@@ -1,0 +1,102 @@
+# Model Configuration
+
+# Poisson Model
+poisson:
+  version: "v1"
+  home_advantage_factor: 1.15
+  league_normalization: true
+  min_matches_for_lambda: 5
+
+# 1X2 Model
+model_1x2:
+  version: "v1"
+  algorithm: "xgboost"
+  hyperparameters:
+    n_estimators: 200
+    max_depth: 6
+    learning_rate: 0.05
+    subsample: 0.8
+    colsample_bytree: 0.8
+    objective: "multi:softprob"
+    num_class: 3
+    eval_metric: "mlogloss"
+  calibration: "isotonic"
+
+# Over/Under 2.5 Model
+model_ou25:
+  version: "v1"
+  algorithm: "lightgbm"
+  hyperparameters:
+    n_estimators: 150
+    max_depth: 5
+    learning_rate: 0.05
+    num_leaves: 31
+    objective: "binary"
+    metric: "binary_logloss"
+  calibration: "platt"
+  
+  # League-specific models configuration
+  per_league:
+    enabled: true
+    min_matches_per_league: 300  # Намален threshold за реалните данни
+    target_leagues:
+      - premier_league
+      - la_liga
+      - serie_a
+      - bundesliga
+      - ligue_1
+      - eredivisie
+      - primeira_liga
+      - championship
+    calibration_enabled: true
+    lazy_loading: true  # Load models on first request
+
+# BTTS Model
+model_btts:
+  version: "v1"
+  algorithm: "xgboost"
+  hyperparameters:
+    n_estimators: 150
+    max_depth: 5
+    learning_rate: 0.05
+    subsample: 0.8
+    colsample_bytree: 0.8
+    objective: "binary:logistic"
+    eval_metric: "logloss"
+  calibration: "isotonic"
+
+# Corners Model
+model_corners:
+  version: "v1"
+  algorithm: "lightgbm"
+  hyperparameters:
+    n_estimators: 100
+    max_depth: 4
+    learning_rate: 0.05
+    num_leaves: 20
+    objective: "poisson"
+  calibration: null
+
+# Ensemble
+ensemble:
+  version: "v1"
+  method: "weighted_average"
+  optimization_metric: "log_loss"
+  models:
+    - poisson
+    - ml
+    - elo_based
+  initial_weights: [0.3, 0.5, 0.2]
+
+# Football Intelligence Index (FII)
+fii:
+  weights:
+    elo_diff: 0.25
+    form_diff: 0.20
+    xg_efficiency_diff: 0.20
+    finishing_efficiency_diff: 0.15
+    home_advantage: 0.20
+  thresholds:
+    low: [0, 4]
+    medium: [4, 7]
+    high: [7, 10]
