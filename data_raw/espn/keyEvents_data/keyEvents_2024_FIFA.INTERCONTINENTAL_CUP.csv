@@ -1,0 +1,234 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12924,721439,1,43822306,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-09-23 05:36:36
+12924,721439,2,43822395,137,1,311,6',1,0,"Goal! Al Ain 1, Auckland City 0. Fábio Cardoso (Al Ain) header from very close range to the bottom right corner. Assisted by Khalid Al Baloushi with a cross following a corner.",Fábio Cardoso Goal - Header,7128,0.0,0.0,0.082,0.482,0.0,0.532,1.0,215386.0,2024-09-23 05:36:36
+12924,721439,2,43822395,137,1,311,6',1,0,"Goal! Al Ain 1, Auckland City 0. Fábio Cardoso (Al Ain) header from very close range to the bottom right corner. Assisted by Khalid Al Baloushi with a cross following a corner.",Fábio Cardoso Goal - Header,7128,0.0,0.0,0.082,0.482,0.0,0.532,2.0,287764.0,2024-09-23 05:36:36
+12924,721439,3,43822514,70,1,652,11',1,0,"Goal! Al Ain 2, Auckland City 0. Sékou Gassama (Al Ain) left footed shot from outside the box to the bottom right corner.",Sékou Gassama Goal,7128,0.0,0.0,0.438,0.52,0.0,0.54,1.0,219518.0,2024-09-23 05:36:36
+12924,721439,4,43823141,70,1,2524,43',1,0,"Goal! Al Ain 2, Auckland City 1. Jerson Lagos (Auckland City) right footed shot from a difficult angle and long range on the left to the top right corner following a corner.",Jerson Lagos Goal,7279,0.0,0.0,0.008,0.006,0.0,0.542,1.0,392460.0,2024-09-23 05:36:36
+12924,721439,7,43823474,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-09-23 05:36:36
+12924,721439,6,43823269,81,1,2700,45'+6',0,0,"First Half ends, Al Ain 3, Auckland City 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-09-23 05:36:36
+12924,721439,5,43823203,70,1,2700,45'+1',1,0,"Goal! Al Ain 3, Auckland City 1. Matías Palacios (Al Ain) right footed shot from the centre of the box to the bottom left corner. Assisted by Sékou Gassama.",Matías Palacios Goal,7128,0.0,0.0,0.15,0.583,0.0,0.477,1.0,181294.0,2024-09-24 05:41:46
+12924,721439,8,43823475,76,2,2700,45',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,326079.0,2024-09-23 05:36:36
+12924,721439,8,43823475,76,2,2700,45',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,290091.0,2024-09-23 05:36:36
+12924,721439,8,43823475,76,2,2700,45',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,360106.0,2024-09-23 05:36:36
+12924,721439,8,43823475,76,2,2700,45',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,383978.0,2024-09-23 05:36:36
+12924,721439,8,43823475,76,2,2700,45',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,271553.0,2024-09-23 05:36:36
+12924,721439,8,43823475,76,2,2700,45',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,252791.0,2024-09-23 05:36:36
+12924,721439,8,43823475,76,2,2700,45',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,212754.0,2024-09-23 05:36:36
+12924,721439,8,43823475,76,2,2700,45',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,201724.0,2024-09-23 05:36:36
+12924,721439,5,43823203,70,1,2700,45'+1',1,0,"Goal! Al Ain 3, Auckland City 1. Matías Palacios (Al Ain) right footed shot from the centre of the box to the bottom left corner. Assisted by Sékou Gassama.",Matías Palacios Goal,7128,0.0,0.0,0.15,0.583,0.0,0.477,2.0,219518.0,2024-09-24 05:41:46
+12924,721439,9,43823649,70,2,3237,54',1,0,"Goal! Al Ain 3, Auckland City 2. Myer Bevan (Auckland City) right footed shot from very close range to the bottom right corner.",Myer Bevan Goal,7279,0.0,0.0,0.104,0.543,0.0,0.528,1.0,256659.0,2024-09-23 05:36:36
+12924,721439,10,43823683,94,2,3372,57',0,0,Matías Palacios (Al Ain) is shown the yellow card.,Matías Palacios Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,181294.0,2024-09-23 05:36:36
+12924,721439,10,43823684,94,2,3404,57',0,0,Park Yong-Woo (Al Ain) is shown the yellow card for a bad foul.,Park Yong-Woo Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219628.0,2024-09-27 05:39:08
+12924,721439,11,43823710,94,2,3446,58',0,0,Mateo Sanabria (Al Ain) is shown the yellow card for a bad foul.,Mateo Sanabria Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,335673.0,2024-09-27 05:39:08
+12924,721439,12,43823738,76,2,3530,59',0,0,"Substitution, Al Ain. Kaku Romero replaces Khalid Al Baloushi.",Kaku Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,188160.0,2024-09-27 05:39:08
+12924,721439,12,43823738,76,2,3530,59',0,0,"Substitution, Al Ain. Kaku Romero replaces Khalid Al Baloushi.",Kaku Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,287764.0,2024-09-27 05:39:08
+12924,721439,13,43823739,76,2,3545,60',0,0,"Substitution, Al Ain. Soufiane Rahimi replaces Sékou Gassama.",Soufiane Rahimi Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,276139.0,2024-09-27 05:39:08
+12924,721439,13,43823739,76,2,3545,60',0,0,"Substitution, Al Ain. Soufiane Rahimi replaces Sékou Gassama.",Soufiane Rahimi Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219518.0,2024-09-27 05:39:08
+12924,721439,14,43823844,94,2,3915,66',0,0,Abdoul Traoré (Al Ain) is shown the yellow card for a bad foul.,Abdoul Traoré Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,364234.0,2024-09-27 05:39:08
+12924,721439,15,43823959,76,2,4333,73',0,0,"Substitution, Auckland City. Angus Kilkolly replaces Myer Bevan.",Angus Kilkolly Substitution,7279,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283843.0,2024-09-27 05:39:08
+12924,721439,15,43823959,76,2,4333,73',0,0,"Substitution, Auckland City. Angus Kilkolly replaces Myer Bevan.",Angus Kilkolly Substitution,7279,0.0,0.0,0.0,0.0,0.0,0.0,2.0,256659.0,2024-09-27 05:39:08
+12924,721439,16,43824001,94,2,4432,74',0,0,Jerson Lagos (Auckland City) is shown the yellow card for a bad foul.,Jerson Lagos Yellow Card,7279,0.0,0.0,0.0,0.0,0.0,0.0,1.0,392460.0,2024-09-27 05:39:08
+12924,721439,17,43824062,137,2,4656,78',1,0,"Goal! Al Ain 4, Auckland City 2. Soufiane Rahimi (Al Ain) header from very close range to the bottom right corner. Assisted by Felipe Salomoni with a cross.",Soufiane Rahimi Goal - Header,7128,0.0,0.0,0.07,0.476,0.0,0.531,1.0,276139.0,2024-09-27 05:39:08
+12924,721439,17,43824062,137,2,4656,78',1,0,"Goal! Al Ain 4, Auckland City 2. Soufiane Rahimi (Al Ain) header from very close range to the bottom right corner. Assisted by Felipe Salomoni with a cross.",Soufiane Rahimi Goal - Header,7128,0.0,0.0,0.07,0.476,0.0,0.531,2.0,326079.0,2024-09-27 05:39:08
+12924,721439,18,43824164,76,2,4730,79',0,0,"Substitution, Al Ain. Ahmed Barman replaces Park Yong-Woo.",Ahmed Barman Ali Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,240445.0,2024-09-27 05:39:08
+12924,721439,18,43824164,76,2,4730,79',0,0,"Substitution, Al Ain. Ahmed Barman replaces Park Yong-Woo.",Ahmed Barman Ali Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219628.0,2024-09-27 05:39:08
+12924,721439,19,43824163,76,2,4732,79',0,0,"Substitution, Al Ain. Bandar Al Ahbabi replaces Matías Palacios.",Bandar Al-Ahbabi Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,253474.0,2024-09-27 05:39:08
+12924,721439,19,43824163,76,2,4732,79',0,0,"Substitution, Al Ain. Bandar Al Ahbabi replaces Matías Palacios.",Bandar Al-Ahbabi Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,181294.0,2024-09-27 05:39:08
+12924,721439,20,43824165,76,2,4761,80',0,0,"Substitution, Auckland City. Yuki Aizu replaces Jerson Lagos.",Yuki Aizu Substitution,7279,0.0,0.0,0.0,0.0,0.0,0.0,1.0,195108.0,2024-09-27 05:39:08
+12924,721439,20,43824165,76,2,4761,80',0,0,"Substitution, Auckland City. Yuki Aizu replaces Jerson Lagos.",Yuki Aizu Substitution,7279,0.0,0.0,0.0,0.0,0.0,0.0,2.0,392460.0,2024-09-27 05:39:08
+12924,721439,21,43824166,76,2,4776,80',0,0,"Substitution, Auckland City. Zhou Tong replaces Gerard Garriga.",Tong Zhou Substitution,7279,0.0,0.0,0.0,0.0,0.0,0.0,1.0,234555.0,2024-09-27 05:39:08
+12924,721439,21,43824166,76,2,4776,80',0,0,"Substitution, Auckland City. Zhou Tong replaces Gerard Garriga.",Tong Zhou Substitution,7279,0.0,0.0,0.0,0.0,0.0,0.0,2.0,358413.0,2024-09-27 05:39:08
+12924,721439,22,43824238,76,2,5030,84',0,0,"Substitution, Auckland City. Kalian Gould replaces Stipe Ukich.",Kalian Gould Substitution,7279,0.0,0.0,0.0,0.0,0.0,0.0,1.0,392456.0,2024-09-27 05:39:08
+12924,721439,22,43824238,76,2,5030,84',0,0,"Substitution, Auckland City. Kalian Gould replaces Stipe Ukich.",Kalian Gould Substitution,7279,0.0,0.0,0.0,0.0,0.0,0.0,2.0,376529.0,2024-09-27 05:39:08
+12924,721439,23,43824239,76,2,5037,84',0,0,"Substitution, Auckland City. Derek Safo Tieku replaces Ryan De Vries.",Derek Safo Tieku Substitution,7279,0.0,0.0,0.0,0.0,0.0,0.0,1.0,172744.0,2024-09-27 05:39:08
+12924,721439,23,43824239,76,2,5037,84',0,0,"Substitution, Auckland City. Derek Safo Tieku replaces Ryan De Vries.",Derek Safo Tieku Substitution,7279,0.0,0.0,0.0,0.0,0.0,0.0,2.0,197130.0,2024-09-27 05:39:08
+12924,721439,24,43824324,94,2,5319,89',0,0,Bandar Al Ahbabi (Al Ain) is shown the yellow card for a bad foul.,Bandar Al-Ahbabi Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,253474.0,2024-09-27 05:39:08
+12924,721439,26,43824341,94,2,5320,89',0,0,Derek Safo Tieku (Auckland City) is shown the yellow card.,Derek Safo Tieku Yellow Card,7279,0.0,0.0,0.0,0.0,0.0,0.0,1.0,172744.0,2024-09-23 05:36:36
+12924,721439,27,43824450,83,2,5400,90'+8',0,0,"Second Half ends, Al Ain 6, Auckland City 2.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-09-27 05:39:08
+12924,721439,25,43824389,70,2,5400,90'+2',1,0,"Goal! Al Ain 5, Auckland City 2. Kaku Romero (Al Ain) left footed shot from outside the box to the top left corner. Assisted by Matías Segovia.",Kaku Goal,7128,0.0,0.0,0.548,0.47,0.0,0.456,1.0,188160.0,2024-09-27 05:39:08
+12924,721439,26,43824403,70,2,5400,90'+4',1,0,"Goal! Al Ain 6, Auckland City 2. Soufiane Rahimi (Al Ain) right footed shot from the centre of the box to the bottom left corner. Assisted by Matías Segovia.",Soufiane Rahimi Goal,7128,0.0,0.0,0.16,0.485,0.0,0.461,1.0,276139.0,2024-09-27 05:39:08
+12924,721439,26,43824403,70,2,5400,90'+4',1,0,"Goal! Al Ain 6, Auckland City 2. Soufiane Rahimi (Al Ain) right footed shot from the centre of the box to the bottom left corner. Assisted by Matías Segovia.",Soufiane Rahimi Goal,7128,0.0,0.0,0.16,0.485,0.0,0.461,2.0,289868.0,2024-09-27 05:39:08
+12924,721439,25,43824389,70,2,5400,90'+2',1,0,"Goal! Al Ain 5, Auckland City 2. Kaku Romero (Al Ain) left footed shot from outside the box to the top left corner. Assisted by Matías Segovia.",Kaku Goal,7128,0.0,0.0,0.548,0.47,0.0,0.456,2.0,289868.0,2024-09-27 05:39:08
+12925,721440,1,44091341,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-10-31 05:23:32
+12925,721440,2,44091693,70,1,1900,32',1,0,"Goal! Al Ahly 1, Al Ain 0. Wessam Abou Ali (Al Ahly) right footed shot from very close range to the bottom right corner.",Wessam Ali Goal,10207,0.0,0.0,0.108,0.482,0.0,0.523,1.0,,2024-10-31 05:23:32
+12925,721440,4,44092061,82,2,2700,45',0,0,"Second Half begins Al Ahly 1, Al Ain 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-10-31 05:23:32
+12925,721440,3,44091939,81,1,2700,45'+3',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-10-31 05:23:32
+12925,721440,5,44092227,94,2,3132,53',0,0,Mohammed Al Baloushi (Al Ain) is shown the yellow card for a bad foul.,Mohamed Abbas Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,309287.0,2024-10-31 05:23:32
+12925,721440,6,44092253,173,2,3279,55',1,0,"Goal! Al Ahly 2, Al Ain 0. Emam Ashour (Al Ahly) right footed shot from the left side of the box to the high centre of the goal. Assisted by Taher Mohamed following a fast break.",Emam Ashour Goal - Volley,10207,0.0,0.0,0.166,0.321,0.0,0.512,1.0,299365.0,2024-11-01 05:26:13
+12925,721440,6,44092253,173,2,3279,55',1,0,"Goal! Al Ahly 2, Al Ain 0. Emam Ashour (Al Ahly) right footed shot from the left side of the box to the high centre of the goal. Assisted by Taher Mohamed following a fast break.",Emam Ashour Goal - Volley,10207,0.0,0.0,0.166,0.321,0.0,0.512,2.0,245246.0,2024-11-01 05:26:13
+12925,721440,7,44092295,94,2,3310,56',0,0,Erik (Al Ain) is shown the yellow card.,Erik  Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,252791.0,2024-10-31 05:23:32
+12925,721440,7,44092295,94,2,3310,56',0,0,Erik (Al Ain) is shown the yellow card.,Erik  Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,271553.0,2024-10-31 05:23:32
+12925,721440,7,44092295,94,2,3310,56',0,0,Erik (Al Ain) is shown the yellow card.,Erik  Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,201724.0,2024-10-31 05:23:32
+12925,721440,7,44092295,94,2,3310,56',0,0,Erik (Al Ain) is shown the yellow card.,Erik  Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,383978.0,2024-10-31 05:23:32
+12925,721440,7,44092295,94,2,3310,56',0,0,Erik (Al Ain) is shown the yellow card.,Erik  Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,212754.0,2024-10-31 05:23:32
+12925,721440,7,44092295,94,2,3310,56',0,0,Erik (Al Ain) is shown the yellow card.,Erik  Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,290091.0,2024-10-31 05:23:32
+12925,721440,7,44092295,94,2,3310,56',0,0,Erik (Al Ain) is shown the yellow card.,Erik  Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,360106.0,2024-10-31 05:23:32
+12925,721440,8,44092342,76,2,3483,59',0,0,"Substitution, Al Ain. Matías Segovia replaces Mohammed Al Baloushi.",Matías Segovia Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,289868.0,2024-10-31 05:23:32
+12925,721440,8,44092342,76,2,3483,59',0,0,"Substitution, Al Ain. Matías Segovia replaces Mohammed Al Baloushi.",Matías Segovia Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,309287.0,2024-10-31 05:23:32
+12925,721440,9,44092465,76,2,3827,64',0,0,"Substitution, Al Ain. Kodjo Laba replaces Yahia Nader.",Kodjo Fo-Doh Laba Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,237166.0,2024-10-31 05:23:32
+12925,721440,9,44092465,76,2,3827,64',0,0,"Substitution, Al Ain. Kodjo Laba replaces Yahia Nader.",Kodjo Fo-Doh Laba Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,283828.0,2024-10-31 05:23:32
+12925,721440,10,44092777,76,2,4784,80',0,0,"Substitution, Al Ahly. Omar Kamal replaces Hussein El Shahat.",Omar Kamal Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1.0,299535.0,2024-10-31 05:23:32
+12925,721440,10,44092777,76,2,4784,80',0,0,"Substitution, Al Ahly. Omar Kamal replaces Hussein El Shahat.",Omar Kamal Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1.0,404319.0,2024-10-31 05:23:32
+12925,721440,10,44092777,76,2,4784,80',0,0,"Substitution, Al Ahly. Omar Kamal replaces Hussein El Shahat.",Omar Kamal Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2024-10-31 05:23:32
+12925,721440,11,44092778,76,2,4812,81',0,0,"Substitution, Al Ahly. Amr El Soleya replaces Ahmed Koka.",Amr Al Sulaya Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1.0,265004.0,2024-10-31 05:23:32
+12925,721440,11,44092778,76,2,4812,81',0,0,"Substitution, Al Ahly. Amr El Soleya replaces Ahmed Koka.",Amr Al Sulaya Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2.0,312563.0,2024-10-31 05:23:32
+12925,721440,12,44092887,76,2,5085,85',0,0,"Substitution, Al Ain. Abdoul Traoré replaces Bandar Al Ahbabi.",Abdoul Traoré Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,364234.0,2024-10-31 05:23:32
+12925,721440,12,44092887,76,2,5085,85',0,0,"Substitution, Al Ain. Abdoul Traoré replaces Bandar Al Ahbabi.",Abdoul Traoré Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,253474.0,2024-10-31 05:23:32
+12925,721440,13,44092888,76,2,5094,85',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,326079.0,2024-10-31 05:23:32
+12925,721440,13,44092888,76,2,5094,85',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,201724.0,2024-10-31 05:23:32
+12925,721440,13,44092888,76,2,5094,85',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,212754.0,2024-10-31 05:23:32
+12925,721440,13,44092888,76,2,5094,85',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,252791.0,2024-10-31 05:23:32
+12925,721440,13,44092888,76,2,5094,85',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,271553.0,2024-10-31 05:23:32
+12925,721440,13,44092888,76,2,5094,85',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,290091.0,2024-10-31 05:23:32
+12925,721440,13,44092888,76,2,5094,85',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,360106.0,2024-10-31 05:23:32
+12925,721440,13,44092888,76,2,5094,85',0,0,"Substitution, Al Ain. Felipe Salomoni replaces Erik.",Felipe Salomoni Substitution,7128,0.0,0.0,0.0,0.0,0.0,0.0,2.0,383978.0,2024-10-31 05:23:32
+12925,721440,14,44092956,76,2,5285,89',0,0,"Substitution, Al Ahly. Achraf Dari replaces Yasser Ibrahim because of an injury.",Achraf Dari Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283557.0,2024-10-31 05:23:32
+12925,721440,14,44092956,76,2,5285,89',0,0,"Substitution, Al Ahly. Achraf Dari replaces Yasser Ibrahim because of an injury.",Achraf Dari Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2.0,265417.0,2024-10-31 05:23:32
+12925,721440,15,44092957,76,2,5307,89',0,0,"Substitution, Al Ahly. Mohamed Magdi Kafsha replaces Emam Ashour.",Mohamed Magdy Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1.0,247080.0,2024-10-31 05:23:32
+12925,721440,15,44092957,76,2,5307,89',0,0,"Substitution, Al Ahly. Mohamed Magdi Kafsha replaces Emam Ashour.",Mohamed Magdy Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2.0,299365.0,2024-10-31 05:23:32
+12925,721440,19,44093123,83,2,5400,90'+9',0,0,"Second Half ends, Al Ahly 3, Al Ain 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-10-31 05:23:32
+12925,721440,18,44093122,76,2,5400,90'+9',0,0,"Substitution, Al Ahly. Omar El Saeey replaces Marwan Attia.",Omar El Saeey Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1.0,382564.0,2024-10-31 05:23:32
+12925,721440,17,44093016,98,2,5400,90'+2',1,0,"Goal! Al Ahly 3, Al Ain 0. Mohamed Magdi Kafsha (Al Ahly) converts the penalty with a right footed shot to the centre of the goal.",Mohamed Magdy Penalty - Scored,10207,0.0,0.0,0.23,0.5,0.0,0.496,1.0,247080.0,2024-11-01 05:26:13
+12925,721440,16,44093053,94,2,5400,90'+2',0,0,Fábio Cardoso (Al Ain) is shown the yellow card for a bad foul.,Fábio Cardoso Yellow Card,7128,0.0,0.0,0.0,0.0,0.0,0.0,1.0,215386.0,2024-11-01 05:26:13
+12925,721440,18,44093122,76,2,5400,90'+9',0,0,"Substitution, Al Ahly. Omar El Saeey replaces Marwan Attia.",Omar El Saeey Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2.0,357112.0,2024-10-31 05:23:32
+12925,721443,1,44390794,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-12 05:54:54
+12925,721443,2,44390796,94,1,1650,28',0,0,Bryan González (Pachuca) Yellow Card at 28',Bryan González Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,297284.0,2024-12-12 05:54:54
+12925,721443,4,44390801,81,1,2700,45'+5',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-12 05:54:54
+12925,721443,5,44390802,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-12 05:54:54
+12925,721443,3,44390799,76,1,2700,45'+4',0,0,Gustavo Cabral (Pachuca) Substitution at 49',Gustavo Cabral Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,44473.0,2024-12-12 05:54:54
+12925,721443,3,44390799,76,1,2700,45'+4',0,0,Gustavo Cabral (Pachuca) Substitution at 49',Gustavo Cabral Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,268843.0,2024-12-12 05:54:54
+12925,721443,6,44390539,94,2,2765,47',0,0,Alfonso González (Pachuca) Yellow Card at 47',Alfonso González Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,12425.0,2024-12-12 05:54:54
+12925,721443,6,44390539,94,2,2765,47',0,0,Alfonso González (Pachuca) Yellow Card at 47',Alfonso González Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,271635.0,2024-12-12 05:54:54
+12925,721443,7,44390544,70,2,2960,50',1,0,Oussama Idrissi (Pachuca) Goal at 50',Oussama Idrissi Goal,234,0.0,0.0,0.16,0.452,0.0,0.464,1.0,229552.0,2024-12-12 05:54:54
+12925,721443,7,44390544,70,2,2960,50',1,0,Oussama Idrissi (Pachuca) Goal at 50',Oussama Idrissi Goal,234,0.0,0.0,0.16,0.452,0.0,0.464,2.0,297284.0,2024-12-12 05:54:54
+12925,721443,8,44390803,76,2,3302,56',0,0,Júnior Santos (Botafogo) Substitution at 56',Júnior Santos Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1.0,269843.0,2024-12-12 05:54:54
+12925,721443,8,44390803,76,2,3302,56',0,0,Júnior Santos (Botafogo) Substitution at 56',Júnior Santos Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1.0,253528.0,2024-12-12 05:54:54
+12925,721443,8,44390803,76,2,3302,56',0,0,Júnior Santos (Botafogo) Substitution at 56',Júnior Santos Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,322658.0,2024-12-12 05:54:54
+12925,721443,8,44390803,76,2,3302,56',0,0,Júnior Santos (Botafogo) Substitution at 56',Júnior Santos Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,287869.0,2024-12-12 05:54:54
+12925,721443,9,44390804,76,2,3309,56',0,0,Marlon Freitas (Botafogo) Substitution at 56',Marlon Freitas Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1.0,234016.0,2024-12-12 05:54:54
+12925,721443,9,44390804,76,2,3309,56',0,0,Marlon Freitas (Botafogo) Substitution at 56',Marlon Freitas Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,223437.0,2024-12-12 05:54:54
+12925,721443,9,44390804,76,2,3309,56',0,0,Marlon Freitas (Botafogo) Substitution at 56',Marlon Freitas Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,380765.0,2024-12-12 05:54:54
+12925,721443,9,44390804,76,2,3309,56',0,0,Marlon Freitas (Botafogo) Substitution at 56',Marlon Freitas Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,379266.0,2024-12-12 05:54:54
+12925,721443,9,44390804,76,2,3309,56',0,0,Marlon Freitas (Botafogo) Substitution at 56',Marlon Freitas Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,143883.0,2024-12-12 05:54:54
+12925,721443,10,44390805,76,2,3321,56',0,0,Thiago Almada (Botafogo) Substitution at 56',Thiago Almada Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1.0,277208.0,2024-12-12 05:54:54
+12925,721443,10,44390805,76,2,3321,56',0,0,Thiago Almada (Botafogo) Substitution at 56',Thiago Almada Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,109404.0,2024-12-12 05:54:54
+12925,721443,10,44390805,76,2,3321,56',0,0,Thiago Almada (Botafogo) Substitution at 56',Thiago Almada Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,314872.0,2024-12-12 05:54:54
+12925,721443,10,44390805,76,2,3321,56',0,0,Thiago Almada (Botafogo) Substitution at 56',Thiago Almada Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,174782.0,2024-12-12 05:54:54
+12925,721443,10,44390805,76,2,3321,56',0,0,Thiago Almada (Botafogo) Substitution at 56',Thiago Almada Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,218974.0,2024-12-12 05:54:54
+12925,721443,10,44390805,76,2,3321,56',0,0,Thiago Almada (Botafogo) Substitution at 56',Thiago Almada Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,302520.0,2024-12-12 05:54:54
+12925,721443,10,44390805,76,2,3321,56',0,0,Thiago Almada (Botafogo) Substitution at 56',Thiago Almada Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,350244.0,2024-12-12 05:54:54
+12925,721443,10,44390805,76,2,3321,56',0,0,Thiago Almada (Botafogo) Substitution at 56',Thiago Almada Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,361589.0,2024-12-12 05:54:54
+12925,721443,10,44390805,76,2,3321,56',0,0,Thiago Almada (Botafogo) Substitution at 56',Thiago Almada Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,361390.0,2024-12-12 05:54:54
+12925,721443,10,44390805,76,2,3321,56',0,0,Thiago Almada (Botafogo) Substitution at 56',Thiago Almada Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,398513.0,2024-12-12 05:54:54
+12925,721443,10,44390805,76,2,3321,56',0,0,Thiago Almada (Botafogo) Substitution at 56',Thiago Almada Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,402812.0,2024-12-12 05:54:54
+12925,721443,10,44390805,76,2,3321,56',0,0,Thiago Almada (Botafogo) Substitution at 56',Thiago Almada Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,411592.0,2024-12-12 05:54:54
+12925,721443,11,44390806,76,2,3365,57',0,0,Nelson Deossa (Pachuca) Substitution at 57',Nelson Deossa Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,322908.0,2024-12-12 05:54:54
+12925,721443,11,44390806,76,2,3365,57',0,0,Nelson Deossa (Pachuca) Substitution at 57',Nelson Deossa Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,326072.0,2024-12-12 05:54:54
+12925,721443,12,44390807,76,2,3383,57',0,0,Ángel Mena (Pachuca) Substitution at 57',Ángel Mena Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,199038.0,2024-12-12 05:54:54
+12925,721443,12,44390807,76,2,3383,57',0,0,Ángel Mena (Pachuca) Substitution at 57',Ángel Mena Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,271635.0,2024-12-12 05:54:54
+12925,721443,12,44390807,76,2,3383,57',0,0,Ángel Mena (Pachuca) Substitution at 57',Ángel Mena Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,12425.0,2024-12-12 05:54:54
+12925,721443,13,44390555,94,2,3724,63',0,0,Cuiabano  (Botafogo) Yellow Card at 63',Cuiabano  Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1.0,334756.0,2024-12-12 05:54:54
+12925,721443,14,44390808,76,2,3873,65',0,0,Jefferson Savarino (Botafogo) Substitution at 65',Jefferson Savarino Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1.0,177219.0,2024-12-12 05:54:54
+12925,721443,14,44390808,76,2,3873,65',0,0,Jefferson Savarino (Botafogo) Substitution at 65',Jefferson Savarino Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,358780.0,2024-12-12 05:54:54
+12925,721443,14,44390808,76,2,3873,65',0,0,Jefferson Savarino (Botafogo) Substitution at 65',Jefferson Savarino Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,314841.0,2024-12-12 05:54:54
+12925,721443,15,44390557,70,2,3957,66',1,0,Nelson Deossa (Pachuca) Goal at 66',Nelson Deossa Goal,234,0.0,0.0,0.112,0.322,0.0,0.485,1.0,322908.0,2024-12-12 05:54:54
+12925,721443,15,44390557,70,2,3957,66',1,0,Nelson Deossa (Pachuca) Goal at 66',Nelson Deossa Goal,234,0.0,0.0,0.112,0.322,0.0,0.485,2.0,277196.0,2024-12-12 05:54:54
+12925,721443,16,44390809,76,2,4064,68',0,0,Tiquinho Soares (Botafogo) Substitution at 68',Tiquinho Soares Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1.0,202374.0,2024-12-12 05:54:54
+12925,721443,16,44390809,76,2,4064,68',0,0,Tiquinho Soares (Botafogo) Substitution at 68',Tiquinho Soares Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2.0,359977.0,2024-12-12 05:54:54
+12925,721443,17,44390562,70,2,4751,80',1,0,Salomón Rondón (Pachuca) Goal at 80',Salomón Rondón Goal,234,0.0,0.0,0.264,0.416,0.0,0.538,1.0,127570.0,2024-12-12 05:54:54
+12925,721443,17,44390562,70,2,4751,80',1,0,Salomón Rondón (Pachuca) Goal at 80',Salomón Rondón Goal,234,0.0,0.0,0.264,0.416,0.0,0.538,2.0,229552.0,2024-12-12 05:54:54
+12925,721443,18,44390813,94,2,5383,90',0,0,Oussama Idrissi (Pachuca) Yellow Card at 90',Oussama Idrissi Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,229552.0,2024-12-12 05:54:54
+12925,721443,21,44390517,83,2,5400,90'+4',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-12 05:54:54
+12925,721443,20,44390815,76,2,5400,90'+1',0,0,Sergio Hernandez (Pachuca) Substitution at 91',Sergio Hernandez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386935.0,2024-12-12 05:54:54
+12925,721443,19,44390814,76,2,5400,90'+1',0,0,Jose Pablo Saldivar (Pachuca) Substitution at 91',Jose Pablo Saldivar Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,342768.0,2024-12-12 05:54:54
+12925,721443,19,44390814,76,2,5400,90'+1',0,0,Jose Pablo Saldivar (Pachuca) Substitution at 91',Jose Pablo Saldivar Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,229552.0,2024-12-12 05:54:54
+12925,721443,20,44390815,76,2,5400,90'+1',0,0,Sergio Hernandez (Pachuca) Substitution at 91',Sergio Hernandez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,277196.0,2024-12-12 05:54:54
+12926,721441,1,44410708,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-15 05:59:22
+12926,721441,2,44411046,94,1,1856,31',0,0,Arturo González (Pachuca) is shown the yellow card for a bad foul.,Alfonso González Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,12425.0,2024-12-15 05:59:22
+12926,721441,2,44411046,94,1,1856,31',0,0,Arturo González (Pachuca) is shown the yellow card for a bad foul.,Alfonso González Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,271635.0,2024-12-15 05:59:22
+12926,721441,3,44411159,94,1,2367,40',0,0,Alán Bautista (Pachuca) is shown the yellow card for a bad foul.,Alan Bautista Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,326072.0,2024-12-15 05:59:22
+12926,721441,4,44411339,81,1,2700,45'+6',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-15 05:59:22
+12926,721441,6,44411502,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-15 05:59:22
+12926,721441,5,44411484,76,2,2700,45',0,0,"Substitution, Pachuca. Nelson Deossa replaces Arturo González.",Nelson Deossa Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,322908.0,2024-12-15 05:59:22
+12926,721441,5,44411484,76,2,2700,45',0,0,"Substitution, Pachuca. Nelson Deossa replaces Arturo González.",Nelson Deossa Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,12425.0,2024-12-15 05:59:22
+12926,721441,5,44411484,76,2,2700,45',0,0,"Substitution, Pachuca. Nelson Deossa replaces Arturo González.",Nelson Deossa Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,271635.0,2024-12-15 05:59:22
+12926,721441,7,44411677,76,2,3358,56',0,0,"Substitution, Pachuca. Ángel Mena replaces Alán Bautista.",Ángel Mena Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,199038.0,2024-12-15 05:59:22
+12926,721441,7,44411677,76,2,3358,56',0,0,"Substitution, Pachuca. Ángel Mena replaces Alán Bautista.",Ángel Mena Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,326072.0,2024-12-15 05:59:22
+12926,721441,8,44411833,76,2,4228,71',0,0,"Substitution, Al Ahly. Mohamed Magdi Kafsha replaces Hussein El Shahat.",Mohamed Magdy Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1.0,247080.0,2024-12-15 05:59:22
+12926,721441,8,44411833,76,2,4228,71',0,0,"Substitution, Al Ahly. Mohamed Magdi Kafsha replaces Hussein El Shahat.",Mohamed Magdy Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2024-12-15 05:59:22
+12926,721441,9,44411919,76,2,4636,78',0,0,"Substitution, Al Ahly. Kahraba replaces Wessam Abou Ali.",Kahraba Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1.0,187506.0,2024-12-15 05:59:22
+12926,721441,9,44411919,76,2,4636,78',0,0,"Substitution, Al Ahly. Kahraba replaces Wessam Abou Ali.",Kahraba Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2024-12-15 05:59:22
+12926,721441,10,44411920,94,2,4652,78',0,0,Emam Ashour (Al Ahly) is shown the yellow card for a bad foul.,Emam Ashour Yellow Card,10207,0.0,0.0,0.0,0.0,0.0,0.0,1.0,299365.0,2024-12-15 05:59:22
+12926,721441,14,44412156,83,2,5400,90'+9',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-15 05:59:22
+12926,721441,15,44412257,84,3,5400,90',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-15 05:59:22
+12926,721441,13,44412130,94,2,5400,90'+7',0,0,Ángel Mena (Pachuca) is shown the yellow card.,Ángel Mena Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,199038.0,2024-12-15 05:59:22
+12926,721441,11,44412083,76,2,5400,90'+2',0,0,"Substitution, Al Ahly. Percy Tau replaces Taher Mohamed.",Percy Tau Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1.0,201086.0,2024-12-15 05:59:22
+12926,721441,12,44412084,76,2,5400,90'+2',0,0,"Substitution, Al Ahly. Khaled Abdel Fattah replaces Yahya Attiat Allah.",Khaled Abdelfattah Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1.0,357113.0,2024-12-15 05:59:22
+12926,721441,11,44412083,76,2,5400,90'+2',0,0,"Substitution, Al Ahly. Percy Tau replaces Taher Mohamed.",Percy Tau Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2.0,245246.0,2024-12-15 05:59:22
+12926,721441,12,44412084,76,2,5400,90'+2',0,0,"Substitution, Al Ahly. Khaled Abdel Fattah replaces Yahya Attiat Allah.",Khaled Abdelfattah Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2024-12-15 05:59:22
+12926,721441,16,44412452,76,3,6011,101',0,0,"Substitution, Al Ahly. Amr El Soleya replaces Akram Tawfik because of an injury.",Amr Al Sulaya Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1.0,265004.0,2024-12-15 05:59:22
+12926,721441,16,44412452,76,3,6011,101',0,0,"Substitution, Al Ahly. Amr El Soleya replaces Akram Tawfik because of an injury.",Amr Al Sulaya Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2.0,265002.0,2024-12-15 05:59:22
+12926,721441,17,44412456,94,3,6059,101',0,0,Luis Rodríguez (Pachuca) is shown the yellow card for a bad foul.,Luis Rodríguez Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,169652.0,2024-12-15 05:59:22
+12926,721441,17,44412456,94,3,6059,101',0,0,Luis Rodríguez (Pachuca) is shown the yellow card for a bad foul.,Luis Rodríguez Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,111975.0,2024-12-15 05:59:22
+12926,721441,17,44412456,94,3,6059,101',0,0,Luis Rodríguez (Pachuca) is shown the yellow card for a bad foul.,Luis Rodríguez Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,174757.0,2024-12-15 05:59:22
+12926,721441,17,44412456,94,3,6059,101',0,0,Luis Rodríguez (Pachuca) is shown the yellow card for a bad foul.,Luis Rodríguez Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,296731.0,2024-12-15 05:59:22
+12926,721441,17,44412456,94,3,6059,101',0,0,Luis Rodríguez (Pachuca) is shown the yellow card for a bad foul.,Luis Rodríguez Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,316250.0,2024-12-15 05:59:22
+12926,721441,17,44412456,94,3,6059,101',0,0,Luis Rodríguez (Pachuca) is shown the yellow card for a bad foul.,Luis Rodríguez Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,316558.0,2024-12-15 05:59:22
+12926,721441,17,44412456,94,3,6059,101',0,0,Luis Rodríguez (Pachuca) is shown the yellow card for a bad foul.,Luis Rodríguez Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317368.0,2024-12-15 05:59:22
+12926,721441,17,44412456,94,3,6059,101',0,0,Luis Rodríguez (Pachuca) is shown the yellow card for a bad foul.,Luis Rodríguez Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,413022.0,2024-12-15 05:59:22
+12926,721441,17,44412456,94,3,6059,101',0,0,Luis Rodríguez (Pachuca) is shown the yellow card for a bad foul.,Luis Rodríguez Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,331411.0,2024-12-15 05:59:22
+12926,721441,17,44412456,94,3,6059,101',0,0,Luis Rodríguez (Pachuca) is shown the yellow card for a bad foul.,Luis Rodríguez Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,403431.0,2024-12-15 05:59:22
+12926,721441,18,44412735,85,3,6300,105'+3',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-15 05:59:22
+12926,721441,19,44412769,86,4,6300,105',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-15 05:59:22
+12926,721441,20,44412808,76,4,6535,109',0,0,"Substitution, Pachuca. Faber Gil replaces Pedro Pedraza.",Faber Gil Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,215922.0,2024-12-15 05:59:22
+12926,721441,20,44412808,76,4,6535,109',0,0,"Substitution, Pachuca. Faber Gil replaces Pedro Pedraza.",Faber Gil Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,277196.0,2024-12-15 05:59:22
+12926,721441,23,44413007,88,5,7200,120',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-15 05:59:22
+12926,721441,22,44412979,87,4,7200,120'+3',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-15 05:59:22
+12926,721441,24,44413125,89,5,7200,120',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-15 05:59:22
+12926,721441,21,44412941,76,4,7200,120'+1',0,0,"Substitution, Pachuca. Borja Bastón replaces Ángel Mena.",Borja Bastón Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,147082.0,2024-12-15 05:59:22
+12926,721441,21,44412941,76,4,7200,120'+1',0,0,"Substitution, Pachuca. Borja Bastón replaces Ángel Mena.",Borja Bastón Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,199038.0,2024-12-15 05:59:22
+12927,721442,1,44427732,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-19 06:07:43
+12927,721442,2,44427809,70,1,2199,37',1,0,"Goal! Real Madrid 1, Pachuca 0. Kylian Mbappé (Real Madrid) left footed shot from very close range to the centre of the goal. Assisted by Vinícius Júnior.",Kylian Mbappé Goal,86,0.0,0.0,0.088,0.518,0.0,0.506,1.0,231388.0,2024-12-19 06:07:43
+12927,721442,2,44427809,70,1,2199,37',1,0,"Goal! Real Madrid 1, Pachuca 0. Kylian Mbappé (Real Madrid) left footed shot from very close range to the centre of the goal. Assisted by Vinícius Júnior.",Kylian Mbappé Goal,86,0.0,0.0,0.088,0.518,0.0,0.506,2.0,252107.0,2024-12-19 06:07:43
+12927,721442,4,44427971,82,2,2700,45',0,0,"Second Half begins Real Madrid 1, Pachuca 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-19 06:07:43
+12927,721442,3,44427848,81,1,2700,45'+2',0,0,"First Half ends, Real Madrid 1, Pachuca 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-19 06:07:43
+12927,721442,5,44428022,94,2,3020,51',0,0,Pedro Pedraza (Pachuca) is shown the yellow card for a bad foul.,Pedro Pedraza Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,277196.0,2024-12-19 06:07:43
+12927,721442,6,44428031,70,2,3162,53',1,0,"Goal! Real Madrid 2, Pachuca 0. Rodrygo (Real Madrid) right footed shot from the centre of the box to the top right corner. Assisted by Kylian Mbappé.Goal confirmed following VAR Review.",Rodrygo Goal,86,0.0,0.0,0.332,0.462,0.0,0.542,1.0,267804.0,2024-12-19 06:07:43
+12927,721442,6,44428031,70,2,3162,53',1,0,"Goal! Real Madrid 2, Pachuca 0. Rodrygo (Real Madrid) right footed shot from the centre of the box to the top right corner. Assisted by Kylian Mbappé.Goal confirmed following VAR Review.",Rodrygo Goal,86,0.0,0.0,0.332,0.462,0.0,0.542,2.0,231388.0,2024-12-19 06:07:43
+12927,721442,7,44428093,76,2,3673,62',0,0,"Substitution, Real Madrid. Brahim Díaz replaces Kylian Mbappé.",Brahim Díaz Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1.0,246532.0,2024-12-19 06:07:43
+12927,721442,7,44428093,76,2,3673,62',0,0,"Substitution, Real Madrid. Brahim Díaz replaces Kylian Mbappé.",Brahim Díaz Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2.0,231388.0,2024-12-19 06:07:43
+12927,721442,8,44428094,76,2,3689,62',0,0,"Substitution, Real Madrid. Dani Ceballos replaces Eduardo Camavinga.",Dani Ceballos Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1.0,202717.0,2024-12-19 06:07:43
+12927,721442,8,44428094,76,2,3689,62',0,0,"Substitution, Real Madrid. Dani Ceballos replaces Eduardo Camavinga.",Dani Ceballos Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2.0,285150.0,2024-12-19 06:07:43
+12927,721442,9,44428158,76,2,4183,70',0,0,"Substitution, Real Madrid. Luka Modric replaces Rodrygo.",Luka Modric Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1.0,76762.0,2024-12-19 06:07:43
+12927,721442,9,44428158,76,2,4183,70',0,0,"Substitution, Real Madrid. Luka Modric replaces Rodrygo.",Luka Modric Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2.0,267804.0,2024-12-19 06:07:43
+12927,721442,10,44428196,76,2,4445,75',0,0,"Substitution, Pachuca. Ángel Mena replaces Alán Bautista.",Ángel Mena Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,199038.0,2024-12-19 06:07:43
+12927,721442,10,44428196,76,2,4445,75',0,0,"Substitution, Pachuca. Ángel Mena replaces Alán Bautista.",Ángel Mena Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,326072.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,379192.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,331906.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,217892.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,193469.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,101471.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,111975.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,169652.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,174757.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,296731.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,316250.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317368.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,331411.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,403431.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,413022.0,2024-12-19 06:07:43
+12927,721442,11,44428197,76,2,4457,75',0,0,"Substitution, Pachuca. Carlos Sánchez replaces Luis Rodríguez.",Carlos Sánchez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,316558.0,2024-12-19 06:07:43
+12927,721442,12,44428243,98,2,5039,84',1,0,"Goal! Real Madrid 3, Pachuca 0. Vinícius Júnior (Real Madrid) converts the penalty with a right footed shot to the centre of the goal.",Vinícius Júnior Penalty - Scored,86,0.0,0.0,0.23,0.5,0.0,0.485,1.0,252107.0,2024-12-19 06:07:43
+12927,721442,13,44428264,76,2,5263,88',0,0,"Substitution, Real Madrid. Raúl replaces Lucas Vázquez.",Raúl Asencio Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1.0,227624.0,2024-12-19 06:07:43
+12927,721442,13,44428264,76,2,5263,88',0,0,"Substitution, Real Madrid. Raúl replaces Lucas Vázquez.",Raúl Asencio Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1.0,388338.0,2024-12-19 06:07:43
+12927,721442,13,44428264,76,2,5263,88',0,0,"Substitution, Real Madrid. Raúl replaces Lucas Vázquez.",Raúl Asencio Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2.0,174967.0,2024-12-19 06:07:43
+12927,721442,13,44428264,76,2,5263,88',0,0,"Substitution, Real Madrid. Raúl replaces Lucas Vázquez.",Raúl Asencio Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2.0,243922.0,2024-12-19 06:07:43
+12927,721442,13,44428264,76,2,5263,88',0,0,"Substitution, Real Madrid. Raúl replaces Lucas Vázquez.",Raúl Asencio Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2.0,399731.0,2024-12-19 06:07:43
+12927,721442,14,44428265,76,2,5269,88',0,0,"Substitution, Real Madrid. Arda Güler replaces Jude Bellingham.",Arda Güler Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1.0,310452.0,2024-12-19 06:07:43
+12927,721442,14,44428265,76,2,5269,88',0,0,"Substitution, Real Madrid. Arda Güler replaces Jude Bellingham.",Arda Güler Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2.0,291281.0,2024-12-19 06:07:43
+12927,721442,15,44428266,76,2,5278,88',0,0,"Substitution, Pachuca. Alexéi Domínguez replaces Oussama Idrissi.",Alexei Dominguez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,365134.0,2024-12-19 06:07:43
+12927,721442,15,44428266,76,2,5278,88',0,0,"Substitution, Pachuca. Alexéi Domínguez replaces Oussama Idrissi.",Alexei Dominguez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,229552.0,2024-12-19 06:07:43
+12927,721442,16,44428267,76,2,5284,89',0,0,"Substitution, Pachuca. Sergio Hernández replaces Nelson Deossa.",Sergio Hernandez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386935.0,2024-12-19 06:07:43
+12927,721442,16,44428267,76,2,5284,89',0,0,"Substitution, Pachuca. Sergio Hernández replaces Nelson Deossa.",Sergio Hernandez Substitution,234,0.0,0.0,0.0,0.0,0.0,0.0,2.0,322908.0,2024-12-19 06:07:43
+12927,721442,18,44428298,83,2,5400,90'+3',0,0,"Second Half ends, Real Madrid 3, Pachuca 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-12-19 06:07:43
+12927,721442,17,44428288,94,2,5400,90'+3',0,0,Salomón Rondón (Pachuca) is shown the yellow card.,Salomón Rondón Yellow Card,234,0.0,0.0,0.0,0.0,0.0,0.0,1.0,127570.0,2024-12-19 06:07:43

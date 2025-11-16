@@ -1,7 +1,7 @@
 {
   "model_type": "poisson",
   "version": "v1",
-  "trained_date": "2025-11-11T10:16:45.468210",
+  "trained_date": "2025-11-13T14:28:40.938679",
   "home_advantage": 1.15,
   "league_normalization": true,
   "min_matches": 5,

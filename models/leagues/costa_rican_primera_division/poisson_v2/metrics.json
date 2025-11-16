@@ -1,0 +1,10 @@
+{
+  "league": "costa_rican_primera_division",
+  "league_name": "Costa Rican Primera Division",
+  "league_id": 4005,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:34",
+  "total_matches": 370,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

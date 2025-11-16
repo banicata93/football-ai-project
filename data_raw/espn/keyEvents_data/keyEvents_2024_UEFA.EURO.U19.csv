@@ -1,0 +1,468 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12527,702012,1,43405709,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-16 06:18:47
+12527,702012,2,43405825,94,1,1931,33',0,0,Daithí McCallion (Northern Ireland U19) is shown the yellow card for a bad foul.,Daithí Mccallion Yellow Card,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,342623.0,2024-07-16 06:18:47
+12527,702012,3,43405923,81,1,2700,45'+3',0,0,"First Half ends, Northern Ireland U19 0, Ukraine U19 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-16 06:18:47
+12527,702012,5,43405947,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-16 06:18:47
+12527,702012,4,43405946,76,2,2700,45',0,0,"Substitution, Northern Ireland U19. George Goodman replaces Daithí McCallion.",George Goodman Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387463.0,2024-07-16 06:18:47
+12527,702012,4,43405946,76,2,2700,45',0,0,"Substitution, Northern Ireland U19. George Goodman replaces Daithí McCallion.",George Goodman Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,342623.0,2024-07-16 06:18:47
+12527,702012,6,43406013,94,2,3552,60',0,0,Lewis Trickett (Northern Ireland U19) is shown the yellow card for a bad foul.,Lewis Trickett Yellow Card,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,352825.0,2024-07-16 06:18:47
+12527,702012,7,43406018,94,2,3648,61',0,0,Blaine McClure (Northern Ireland U19) is shown the yellow card for a bad foul.,Blaine Mcclure Yellow Card,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,376393.0,2024-07-16 06:18:47
+12527,702012,8,43406024,76,2,3788,64',0,0,"Substitution, Northern Ireland U19. Reece Evans replaces Braiden Graham.",Reece Evans Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,359512.0,2024-07-16 06:18:47
+12527,702012,8,43406024,76,2,3788,64',0,0,"Substitution, Northern Ireland U19. Reece Evans replaces Braiden Graham.",Reece Evans Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,367559.0,2024-07-16 06:18:47
+12527,702012,9,43406025,76,2,3797,64',0,0,"Substitution, Northern Ireland U19. Jack Doherty replaces Lewis Trickett.",Jack Doherty Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,190007.0,2024-07-16 06:18:47
+12527,702012,9,43406025,76,2,3797,64',0,0,"Substitution, Northern Ireland U19. Jack Doherty replaces Lewis Trickett.",Jack Doherty Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,352825.0,2024-07-16 06:18:47
+12527,702012,10,43406050,76,2,4322,73',0,0,"Substitution, Ukraine U19. Tymur Tutierov replaces Dmytro Bohdanov.",Tymur Tutierov Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387460.0,2024-07-16 06:18:47
+12527,702012,10,43406050,76,2,4322,73',0,0,"Substitution, Ukraine U19. Tymur Tutierov replaces Dmytro Bohdanov.",Tymur Tutierov Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,386460.0,2024-07-16 06:18:47
+12527,702012,11,43406063,76,2,4527,76',0,0,"Substitution, Northern Ireland U19. Aodhan Doherty replaces Kieran Morrison.",Aodhan Doherty Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,356911.0,2024-07-16 06:18:47
+12527,702012,11,43406063,76,2,4527,76',0,0,"Substitution, Northern Ireland U19. Aodhan Doherty replaces Kieran Morrison.",Aodhan Doherty Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,357162.0,2024-07-16 06:18:47
+12527,702012,12,43406084,76,2,5205,87',0,0,"Substitution, Ukraine U19. Kristian Shevchenko replaces Andrii Matkevych.",Kristian Shevchenko Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387459.0,2024-07-16 06:18:47
+12527,702012,12,43406084,76,2,5205,87',0,0,"Substitution, Ukraine U19. Kristian Shevchenko replaces Andrii Matkevych.",Kristian Shevchenko Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,385727.0,2024-07-16 06:18:47
+12527,702012,13,43406085,76,2,5208,87',0,0,"Substitution, Ukraine U19. Samuel Obinaiia replaces Daniil Vashchenko.",Samuel Obinaiia Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387457.0,2024-07-16 06:18:47
+12527,702012,13,43406085,76,2,5208,87',0,0,"Substitution, Ukraine U19. Samuel Obinaiia replaces Daniil Vashchenko.",Samuel Obinaiia Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387455.0,2024-07-16 06:18:47
+12527,702012,14,43406086,76,2,5225,88',0,0,"Substitution, Ukraine U19. Anton Drozd replaces Mykola Oharkov.",Anton Drozd Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387456.0,2024-07-16 06:18:47
+12527,702012,14,43406086,76,2,5225,88',0,0,"Substitution, Ukraine U19. Anton Drozd replaces Mykola Oharkov.",Anton Drozd Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,365669.0,2024-07-16 06:18:47
+12527,702012,16,43406110,83,2,5400,90'+4',0,0,"Second Half ends, Northern Ireland U19 0, Ukraine U19 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-16 06:18:47
+12527,702012,15,43406102,76,2,5400,90'+2',0,0,"Substitution, Northern Ireland U19. Brendan Hamilton replaces Joel Thompson.",Brendan Hamilton Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,366747.0,2024-07-16 06:18:47
+12527,702012,15,43406102,76,2,5400,90'+2',0,0,"Substitution, Northern Ireland U19. Brendan Hamilton replaces Joel Thompson.",Brendan Hamilton Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,229958.0,2024-07-16 06:18:47
+12527,702013,1,43405090,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-16 06:18:47
+12527,702013,2,43405188,70,1,2056,35',1,0,"Goal! Italy U19 0, Norway U19 1. Daniel Braut (Norway U19) left footed shot from the centre of the box to the bottom left corner. Assisted by Mats Pedersen.",Daniel Braut Goal,19232,0.0,0.0,0.31,0.615,0.0,0.467,1.0,387436.0,2024-07-16 06:18:47
+12527,702013,2,43405188,70,1,2056,35',1,0,"Goal! Italy U19 0, Norway U19 1. Daniel Braut (Norway U19) left footed shot from the centre of the box to the bottom left corner. Assisted by Mats Pedersen.",Daniel Braut Goal,19232,0.0,0.0,0.31,0.615,0.0,0.467,2.0,328499.0,2024-07-16 06:18:47
+12527,702013,3,43405213,94,1,2359,40',0,0,Daniel Braut (Norway U19) is shown the yellow card for a bad foul.,Daniel Braut Yellow Card,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387436.0,2024-07-16 06:18:47
+12527,702013,4,43405229,70,1,2637,44',1,0,"Goal! Italy U19 1, Norway U19 1. Luca Di Maggio (Italy U19) right footed shot from outside the box to the bottom right corner. Assisted by Simone Pafundi.",Luca Di Maggio Goal,9780,0.0,0.0,0.412,0.46,0.0,0.539,1.0,387441.0,2024-07-16 06:18:47
+12527,702013,4,43405229,70,1,2637,44',1,0,"Goal! Italy U19 1, Norway U19 1. Luca Di Maggio (Italy U19) right footed shot from outside the box to the bottom right corner. Assisted by Simone Pafundi.",Luca Di Maggio Goal,9780,0.0,0.0,0.412,0.46,0.0,0.539,2.0,340684.0,2024-07-16 06:18:47
+12527,702013,5,43405256,81,1,2700,45'+2',0,0,"First Half ends, Italy U19 1, Norway U19 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-16 06:18:47
+12527,702013,6,43405257,82,2,2700,45',0,0,"Second Half begins Italy U19 1, Norway U19 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-16 06:18:47
+12527,702013,7,43405294,137,2,3056,51',1,0,"Goal! Italy U19 2, Norway U19 1. Kevin Zeroli (Italy U19) header from very close range to the centre of the goal. Assisted by Simone Pafundi with a cross following a corner.",Kevin Zeroli Goal - Header,9780,0.0,0.0,0.104,0.52,0.0,0.482,1.0,365837.0,2024-07-16 06:18:47
+12527,702013,7,43405294,137,2,3056,51',1,0,"Goal! Italy U19 2, Norway U19 1. Kevin Zeroli (Italy U19) header from very close range to the centre of the goal. Assisted by Simone Pafundi with a cross following a corner.",Kevin Zeroli Goal - Header,9780,0.0,0.0,0.104,0.52,0.0,0.482,2.0,340684.0,2024-07-16 06:18:47
+12527,702013,8,43405318,76,2,3400,57',0,0,"Substitution, Norway U19. Benjamin Faraas replaces Mats Pedersen.",Benjamin Thoresen Faraas Substit,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,334075.0,2024-07-16 06:18:47
+12527,702013,8,43405318,76,2,3400,57',0,0,"Substitution, Norway U19. Benjamin Faraas replaces Mats Pedersen.",Benjamin Thoresen Faraas Substit,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,328499.0,2024-07-16 06:18:47
+12527,702013,9,43405319,76,2,3411,57',0,0,"Substitution, Norway U19. Edvin Austbø replaces Bork Bang-Kittilsen.",Edvin Austbø Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,341309.0,2024-07-16 06:18:47
+12527,702013,9,43405319,76,2,3411,57',0,0,"Substitution, Norway U19. Edvin Austbø replaces Bork Bang-Kittilsen.",Edvin Austbø Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,361860.0,2024-07-16 06:18:47
+12527,702013,10,43405346,76,2,3799,64',0,0,"Substitution, Italy U19. Lorenzo Anghelè replaces Tommaso Ebone.",Lorenzo Anghelè Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387439.0,2024-07-16 06:18:47
+12527,702013,10,43405346,76,2,3799,64',0,0,"Substitution, Italy U19. Lorenzo Anghelè replaces Tommaso Ebone.",Lorenzo Anghelè Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387442.0,2024-07-16 06:18:47
+12527,702013,11,43405376,76,2,4350,73',0,0,"Substitution, Italy U19. Jonas Harder replaces Luca Lipani.",Jonas Harder Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387440.0,2024-07-16 06:18:47
+12527,702013,11,43405376,76,2,4350,73',0,0,"Substitution, Italy U19. Jonas Harder replaces Luca Lipani.",Jonas Harder Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,347408.0,2024-07-16 06:18:47
+12527,702013,12,43405377,76,2,4360,73',0,0,"Substitution, Italy U19. Mattia Mannini replaces Luca Di Maggio.",Mattia Mannini Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,372786.0,2024-07-16 06:18:47
+12527,702013,12,43405377,76,2,4360,73',0,0,"Substitution, Italy U19. Mattia Mannini replaces Luca Di Maggio.",Mattia Mannini Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387441.0,2024-07-16 06:18:47
+12527,702013,13,43405415,94,2,4765,80',0,0,Lorenzo Anghelè (Italy U19) is shown the yellow card for a bad foul.,Lorenzo Anghelè Yellow Card,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387439.0,2024-07-16 06:18:47
+12527,702013,14,43405416,76,2,4798,80',0,0,"Substitution, Norway U19. Filip Loftesnes-Bjune replaces Travis Hernes.",Filip Loftesnes Bjune Substituti,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,332568.0,2024-07-16 06:18:47
+12527,702013,14,43405416,76,2,4798,80',0,0,"Substitution, Norway U19. Filip Loftesnes-Bjune replaces Travis Hernes.",Filip Loftesnes Bjune Substituti,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,349089.0,2024-07-16 06:18:47
+12527,702013,15,43405431,76,2,5060,85',0,0,"Substitution, Italy U19. Diego Sia replaces Simone Pafundi.",Diego Sia Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,384306.0,2024-07-16 06:18:47
+12527,702013,15,43405431,76,2,5060,85',0,0,"Substitution, Italy U19. Diego Sia replaces Simone Pafundi.",Diego Sia Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,340684.0,2024-07-16 06:18:47
+12527,702013,16,43405432,76,2,5066,85',0,0,"Substitution, Italy U19. Francesco Camarda replaces Aaron Ciammaglichella.",Francesco Camarda Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377563.0,2024-07-16 06:18:47
+12527,702013,16,43405432,76,2,5066,85',0,0,"Substitution, Italy U19. Francesco Camarda replaces Aaron Ciammaglichella.",Francesco Camarda Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,358465.0,2024-07-16 06:18:47
+12527,702013,17,43405433,76,2,5085,85',0,0,"Substitution, Norway U19. Aleksander Hammer Kjelsen replaces Håkon Røsten.",Aleksander Hammer Kjelsen Substi,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,341307.0,2024-07-16 06:18:47
+12527,702013,17,43405433,76,2,5085,85',0,0,"Substitution, Norway U19. Aleksander Hammer Kjelsen replaces Håkon Røsten.",Aleksander Hammer Kjelsen Substi,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,331109.0,2024-07-16 06:18:47
+12527,702013,18,43405437,94,2,5190,87',0,0,Francesco Camarda (Italy U19) is shown the yellow card for a bad foul.,Francesco Camarda Yellow Card,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377563.0,2024-07-16 06:18:47
+12527,702013,19,43405453,94,2,5288,89',0,0,Jonas Harder (Italy U19) is shown the yellow card for a bad foul.,Jonas Harder Yellow Card,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387440.0,2024-07-16 06:18:47
+12527,702013,20,43405457,94,2,5382,90',0,0,Renato Marin (Italy U19) is shown the yellow card.,Renato Marin Yellow Card,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,379089.0,2024-07-16 06:18:47
+12527,702013,21,43405478,83,2,5400,90'+4',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-16 06:18:47
+12527,702014,1,43406990,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-17 06:08:27
+12527,702014,2,43406998,137,1,227,4',1,0,"Goal! France U19 0, Türkiye U19 1. Yigit Fidan (Türkiye U19) header from the left side of the six yard box to the top left corner. Assisted by Emre Uzun with a cross following a corner.",Yigit Fidan Goal - Header,6170,0.0,0.0,0.038,0.433,0.0,0.474,1.0,387512.0,2024-07-17 06:08:27
+12527,702014,2,43406998,137,1,227,4',1,0,"Goal! France U19 0, Türkiye U19 1. Yigit Fidan (Türkiye U19) header from the left side of the six yard box to the top left corner. Assisted by Emre Uzun with a cross following a corner.",Yigit Fidan Goal - Header,6170,0.0,0.0,0.038,0.433,0.0,0.474,2.0,350905.0,2024-07-17 06:08:27
+12527,702014,3,43407115,81,1,2700,45'+3',0,0,"First Half ends, France U19 0, Türkiye U19 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-17 06:08:27
+12527,702014,5,43407132,82,2,2700,45',0,0,"Second Half begins France U19 0, Türkiye U19 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-17 06:08:27
+12527,702014,4,43407129,76,2,2700,45',0,0,"Substitution, France U19. Lucas Michal replaces Tidiam Gomis.",Lucas Michel Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,356651.0,2024-07-17 06:08:27
+12527,702014,4,43407129,76,2,2700,45',0,0,"Substitution, France U19. Lucas Michal replaces Tidiam Gomis.",Lucas Michel Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,366911.0,2024-07-17 06:08:27
+12527,702014,6,43407170,76,2,3329,56',0,0,"Substitution, France U19. Jean-Mattéo Bahoya replaces Valentin Atangana Edoa.",Jean-Mattéo Bahoya Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346662.0,2024-07-17 06:08:27
+12527,702014,6,43407170,76,2,3329,56',0,0,"Substitution, France U19. Jean-Mattéo Bahoya replaces Valentin Atangana Edoa.",Jean-Mattéo Bahoya Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,359165.0,2024-07-17 06:08:27
+12527,702014,7,43407191,76,2,3780,63',0,0,"Substitution, Türkiye U19. Halil Özdemir replaces Emre Uzun.",Halil Özdemir Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387507.0,2024-07-17 06:08:27
+12527,702014,7,43407191,76,2,3780,63',0,0,"Substitution, Türkiye U19. Halil Özdemir replaces Emre Uzun.",Halil Özdemir Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,350905.0,2024-07-17 06:08:27
+12527,702014,8,43407196,137,2,3895,65',1,0,"Goal! France U19 1, Türkiye U19 1. Lucas Michal (France U19) header from the centre of the box to the high centre of the goal. Assisted by Dehmaine Assoumani.",Lucas Michel Goal - Header,6930,0.0,0.0,0.148,0.547,0.0,0.507,1.0,356651.0,2024-07-17 06:08:27
+12527,702014,8,43407196,137,2,3895,65',1,0,"Goal! France U19 1, Türkiye U19 1. Lucas Michal (France U19) header from the centre of the box to the high centre of the goal. Assisted by Dehmaine Assoumani.",Lucas Michel Goal - Header,6930,0.0,0.0,0.148,0.547,0.0,0.507,2.0,,2024-07-17 06:08:27
+12527,702014,9,43407206,76,2,4089,69',0,0,"Substitution, France U19. Saïmon Bouabré replaces Senny Mayulu.",Saïmon Bouabré Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,371472.0,2024-07-17 06:08:27
+12527,702014,9,43407206,76,2,4089,69',0,0,"Substitution, France U19. Saïmon Bouabré replaces Senny Mayulu.",Saïmon Bouabré Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,379088.0,2024-07-17 06:08:27
+12527,702014,10,43407207,76,2,4095,69',0,0,"Substitution, France U19. Mathis Amougou replaces Yoni Gomis.",Mathis Amougou Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,364764.0,2024-07-17 06:08:27
+12527,702014,10,43407207,76,2,4095,69',0,0,"Substitution, France U19. Mathis Amougou replaces Yoni Gomis.",Mathis Amougou Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,345688.0,2024-07-17 06:08:27
+12527,702014,11,43407214,76,2,4266,72',0,0,"Substitution, Türkiye U19. Emir Bars replaces Emirhan Demircan.",Emir Bars Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,365038.0,2024-07-17 06:08:27
+12527,702014,11,43407214,76,2,4266,72',0,0,"Substitution, Türkiye U19. Emir Bars replaces Emirhan Demircan.",Emir Bars Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,352177.0,2024-07-17 06:08:27
+12527,702014,12,43407237,76,2,4758,80',0,0,"Substitution, France U19. Ayman Aiki replaces Steve Ngoura.",Ayman Aiki Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346564.0,2024-07-17 06:08:27
+12527,702014,12,43407237,76,2,4758,80',0,0,"Substitution, France U19. Ayman Aiki replaces Steve Ngoura.",Ayman Aiki Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,346520.0,2024-07-17 06:08:27
+12527,702014,13,43407248,98,2,5135,86',1,0,"Goal! France U19 2, Türkiye U19 1. Jérémy Jacquet (France U19) converts the penalty with a right footed shot to the bottom right corner.",Jérémy Jacquet Penalty - Scored,6930,0.0,0.0,0.23,0.5,0.0,0.52,1.0,355980.0,2024-07-17 06:08:27
+12527,702014,14,43407251,76,2,5219,87',0,0,"Substitution, Türkiye U19. Isak Vural replaces Baran Gezek.",Isak Vural Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,340184.0,2024-07-17 06:08:27
+12527,702014,14,43407251,76,2,5219,87',0,0,"Substitution, Türkiye U19. Isak Vural replaces Baran Gezek.",Isak Vural Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,346891.0,2024-07-17 06:08:27
+12527,702014,15,43407252,76,2,5225,88',0,0,"Substitution, Türkiye U19. Fahri Kerem Ay replaces Diren Dagdeviren.",Fahri Kerem Ay Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,384013.0,2024-07-17 06:08:27
+12527,702014,15,43407252,76,2,5225,88',0,0,"Substitution, Türkiye U19. Fahri Kerem Ay replaces Diren Dagdeviren.",Fahri Kerem Ay Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387499.0,2024-07-17 06:08:27
+12527,702014,16,43407279,83,2,5400,90'+5',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-17 06:08:27
+12527,702015,1,43406598,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-17 06:08:27
+12527,702015,2,43406762,137,1,1555,26',1,0,"Goal! Denmark U19 0, Spain U19 1. Chema Andres (Spain U19) header from the centre of the box to the bottom left corner. Assisted by Dani Rodríguez with a cross following a corner.",Chema Andrés Goal - Header,9779,0.0,0.0,0.192,0.503,0.0,0.472,1.0,387489.0,2024-07-18 06:28:02
+12527,702015,2,43406762,137,1,1555,26',1,0,"Goal! Denmark U19 0, Spain U19 1. Chema Andres (Spain U19) header from the centre of the box to the bottom left corner. Assisted by Dani Rodríguez with a cross following a corner.",Chema Andrés Goal - Header,9779,0.0,0.0,0.192,0.503,0.0,0.472,2.0,412448.0,2024-07-18 06:28:02
+12527,702015,2,43406762,137,1,1555,26',1,0,"Goal! Denmark U19 0, Spain U19 1. Chema Andres (Spain U19) header from the centre of the box to the bottom left corner. Assisted by Dani Rodríguez with a cross following a corner.",Chema Andrés Goal - Header,9779,0.0,0.0,0.192,0.503,0.0,0.472,2.0,363041.0,2024-07-18 06:28:02
+12527,702015,2,43406762,137,1,1555,26',1,0,"Goal! Denmark U19 0, Spain U19 1. Chema Andres (Spain U19) header from the centre of the box to the bottom left corner. Assisted by Dani Rodríguez with a cross following a corner.",Chema Andrés Goal - Header,9779,0.0,0.0,0.192,0.503,0.0,0.472,2.0,329654.0,2024-07-18 06:28:02
+12527,702015,2,43406762,137,1,1555,26',1,0,"Goal! Denmark U19 0, Spain U19 1. Chema Andres (Spain U19) header from the centre of the box to the bottom left corner. Assisted by Dani Rodríguez with a cross following a corner.",Chema Andrés Goal - Header,9779,0.0,0.0,0.192,0.503,0.0,0.472,2.0,292063.0,2024-07-18 06:28:02
+12527,702015,3,43406792,70,1,2531,43',1,0,"Goal! Denmark U19 1, Spain U19 1. Mikel Krüger-Johnsen (Denmark U19) right footed shot from the left side of the six yard box to the bottom right corner. Assisted by Valdemar Byskov.",Mikel Krüger-Johnsen Goal,22257,0.0,0.0,0.102,0.445,0.0,0.521,1.0,383947.0,2024-07-17 06:08:27
+12527,702015,3,43406792,70,1,2531,43',1,0,"Goal! Denmark U19 1, Spain U19 1. Mikel Krüger-Johnsen (Denmark U19) right footed shot from the left side of the six yard box to the bottom right corner. Assisted by Valdemar Byskov.",Mikel Krüger-Johnsen Goal,22257,0.0,0.0,0.102,0.445,0.0,0.521,1.0,368628.0,2024-07-17 06:08:27
+12527,702015,3,43406792,70,1,2531,43',1,0,"Goal! Denmark U19 1, Spain U19 1. Mikel Krüger-Johnsen (Denmark U19) right footed shot from the left side of the six yard box to the bottom right corner. Assisted by Valdemar Byskov.",Mikel Krüger-Johnsen Goal,22257,0.0,0.0,0.102,0.445,0.0,0.521,2.0,344870.0,2024-07-17 06:08:27
+12527,702015,4,43406800,81,1,2700,45'+2',0,0,"First Half ends, Denmark U19 1, Spain U19 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-17 06:08:27
+12527,702015,5,43406801,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-17 06:08:27
+12527,702015,6,43406805,94,2,2840,48',0,0,Lucas Høgsberg (Denmark U19) is shown the yellow card for a bad foul.,Lucas Høgsberg Yellow Card,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,359934.0,2024-07-17 06:08:27
+12527,702015,7,43406829,76,2,3569,60',0,0,"Substitution, Denmark U19. Oskar Boesen replaces Mikel Krüger-Johnsen.",Oskar Boesen Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,361716.0,2024-07-17 06:08:27
+12527,702015,7,43406829,76,2,3569,60',0,0,"Substitution, Denmark U19. Oskar Boesen replaces Mikel Krüger-Johnsen.",Oskar Boesen Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,383947.0,2024-07-17 06:08:27
+12527,702015,7,43406829,76,2,3569,60',0,0,"Substitution, Denmark U19. Oskar Boesen replaces Mikel Krüger-Johnsen.",Oskar Boesen Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,368628.0,2024-07-17 06:08:27
+12527,702015,8,43406844,76,2,3991,67',0,0,"Substitution, Spain U19. Jesús Rodriguez replaces David Mella.",Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387491.0,2024-07-17 06:08:27
+12527,702015,8,43406844,76,2,3991,67',0,0,"Substitution, Spain U19. Jesús Rodriguez replaces David Mella.",Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,140297.0,2024-07-17 06:08:27
+12527,702015,8,43406844,76,2,3991,67',0,0,"Substitution, Spain U19. Jesús Rodriguez replaces David Mella.",Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,129732.0,2024-07-17 06:08:27
+12527,702015,8,43406844,76,2,3991,67',0,0,"Substitution, Spain U19. Jesús Rodriguez replaces David Mella.",Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,375390.0,2024-07-17 06:08:27
+12527,702015,9,43406845,76,2,4003,67',0,0,"Substitution, Spain U19. Pol Fortuny replaces Assane Diao.",Pol Fortuny Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387498.0,2024-07-17 06:08:27
+12527,702015,9,43406845,76,2,4003,67',0,0,"Substitution, Spain U19. Pol Fortuny replaces Assane Diao.",Pol Fortuny Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,364742.0,2024-07-17 06:08:27
+12527,702015,10,43406846,76,2,4009,67',0,0,"Substitution, Spain U19. Daniel Díaz replaces Dani Rodríguez.",Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387496.0,2024-07-17 06:08:27
+12527,702015,10,43406846,76,2,4009,67',0,0,"Substitution, Spain U19. Daniel Díaz replaces Dani Rodríguez.",Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,363029.0,2024-07-17 06:08:27
+12527,702015,10,43406846,76,2,4009,67',0,0,"Substitution, Spain U19. Daniel Díaz replaces Dani Rodríguez.",Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,354986.0,2024-07-17 06:08:27
+12527,702015,10,43406846,76,2,4009,67',0,0,"Substitution, Spain U19. Daniel Díaz replaces Dani Rodríguez.",Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,412448.0,2024-07-17 06:08:27
+12527,702015,10,43406846,76,2,4009,67',0,0,"Substitution, Spain U19. Daniel Díaz replaces Dani Rodríguez.",Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,363041.0,2024-07-17 06:08:27
+12527,702015,10,43406846,76,2,4009,67',0,0,"Substitution, Spain U19. Daniel Díaz replaces Dani Rodríguez.",Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,329654.0,2024-07-17 06:08:27
+12527,702015,10,43406846,76,2,4009,67',0,0,"Substitution, Spain U19. Daniel Díaz replaces Dani Rodríguez.",Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,292063.0,2024-07-17 06:08:27
+12527,702015,11,43406849,94,2,4049,68',0,0,Rayane Belaid (Spain U19) is shown the yellow card.,Rayane Belaid Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377843.0,2024-07-17 06:08:27
+12527,702015,12,43406871,76,2,4533,76',0,0,"Substitution, Denmark U19. Hjalte Bidstrup replaces Lucas Høgsberg.",Hjalte Bidstrup Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387497.0,2024-07-17 06:08:27
+12527,702015,12,43406871,76,2,4533,76',0,0,"Substitution, Denmark U19. Hjalte Bidstrup replaces Lucas Høgsberg.",Hjalte Bidstrup Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,359934.0,2024-07-17 06:08:27
+12527,702015,13,43406872,76,2,4545,76',0,0,"Substitution, Denmark U19. Michael Opoku replaces Alexander Simmelhack.",Michael Opoku Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,380656.0,2024-07-17 06:08:27
+12527,702015,13,43406872,76,2,4545,76',0,0,"Substitution, Denmark U19. Michael Opoku replaces Alexander Simmelhack.",Michael Opoku Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,336483.0,2024-07-17 06:08:27
+12527,702015,14,43406875,93,2,4578,77',0,0,Second yellow card to Rayane Belaid (Spain U19) for a bad foul.,Rayane Belaid Red Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377843.0,2024-07-17 06:08:27
+12527,702015,15,43406880,70,2,4722,79',1,0,"Goal! Denmark U19 1, Spain U19 2. Iker Bravo (Spain U19) right footed shot from a difficult angle on the right to the centre of the goal. Assisted by Pol Fortuny.",Iker Bravo Goal,9779,0.0,0.0,0.102,0.656,0.0,0.513,1.0,330242.0,2024-07-18 06:28:02
+12527,702015,15,43406880,70,2,4722,79',1,0,"Goal! Denmark U19 1, Spain U19 2. Iker Bravo (Spain U19) right footed shot from a difficult angle on the right to the centre of the goal. Assisted by Pol Fortuny.",Iker Bravo Goal,9779,0.0,0.0,0.102,0.656,0.0,0.513,2.0,387498.0,2024-07-18 06:28:02
+12527,702015,16,43406897,76,2,5029,84',0,0,"Substitution, Spain U19. Yanis Senhadji replaces Iker Bravo.",Yanis Senhadji Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386257.0,2024-07-17 06:08:27
+12527,702015,16,43406897,76,2,5029,84',0,0,"Substitution, Spain U19. Yanis Senhadji replaces Iker Bravo.",Yanis Senhadji Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,330242.0,2024-07-17 06:08:27
+12527,702015,20,43406936,83,2,5400,90'+7',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-17 06:08:27
+12527,702015,17,43406917,76,2,5400,90'+1',0,0,"Substitution, Denmark U19. Lasse Flö replaces Ludwig Vraa-Jensen.",Lasse Flö Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,363429.0,2024-07-17 06:08:27
+12527,702015,18,43406918,76,2,5400,90'+2',0,0,"Substitution, Denmark U19. Tristan Birch replaces Mads Bomholt.",Tristan Birch Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387495.0,2024-07-17 06:08:27
+12527,702015,19,43406934,94,2,5400,90'+6',0,0,Mads Lauritsen (Denmark U19) is shown the yellow card for a bad foul.,Mads Lauritsen Yellow Card,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,275839.0,2024-07-17 06:08:27
+12527,702015,18,43406918,76,2,5400,90'+2',0,0,"Substitution, Denmark U19. Tristan Birch replaces Mads Bomholt.",Tristan Birch Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,386356.0,2024-07-17 06:08:27
+12527,702015,17,43406917,76,2,5400,90'+1',0,0,"Substitution, Denmark U19. Lasse Flö replaces Ludwig Vraa-Jensen.",Lasse Flö Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,362773.0,2024-07-17 06:08:27
+12527,702016,1,43416961,76,1,1260,21',0,0,Ivan Yermachkov (Ukraine U19) Substitution at 21',Ivan Yermachkov Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387458.0,2024-07-19 06:28:23
+12527,702016,1,43416961,76,1,1260,21',0,0,Ivan Yermachkov (Ukraine U19) Substitution at 21',Ivan Yermachkov Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,365669.0,2024-07-19 06:28:23
+12527,702016,2,43416974,94,1,1680,28',0,0,Matvii Ponomarenko (Ukraine U19) Yellow Card at 28',Matvii Ponomarenko Yellow Card,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,381333.0,2024-07-19 06:28:23
+12527,702016,3,43416982,94,1,1980,33',0,0,Daniil Vashchenko (Ukraine U19) Yellow Card at 33',Daniil Vashchenko Yellow Card,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387455.0,2024-07-19 06:28:23
+12527,702016,4,43417059,94,2,3420,57',0,0,Andrii Matkevych (Ukraine U19) Yellow Card at 57',Andrii Matkevych Yellow Card,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,385727.0,2024-07-19 06:28:23
+12527,702016,5,43417069,76,2,3720,62',0,0,Kristian Shevchenko (Ukraine U19) Substitution at 62',Kristian Shevchenko Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387459.0,2024-07-19 06:28:23
+12527,702016,6,43417070,76,2,3720,62',0,0,Dmytro Bohdanov (Ukraine U19) Substitution at 62',Dmytro Bohdanov Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386460.0,2024-07-19 06:28:23
+12527,702016,5,43417069,76,2,3720,62',0,0,Kristian Shevchenko (Ukraine U19) Substitution at 62',Kristian Shevchenko Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387460.0,2024-07-19 06:28:23
+12527,702016,6,43417070,76,2,3720,62',0,0,Dmytro Bohdanov (Ukraine U19) Substitution at 62',Dmytro Bohdanov Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,381333.0,2024-07-19 06:28:23
+12527,702016,8,43417083,76,2,4080,68',0,0,Bork Bang-Kittilsen (Norway U19) Substitution at 68',Bork Bang-Kittilsen Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,361860.0,2024-07-19 06:28:23
+12527,702016,7,43417082,76,2,4080,68',0,0,Daniel Braut (Norway U19) Substitution at 68',Daniel Braut Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387436.0,2024-07-19 06:28:23
+12527,702016,9,43417084,76,2,4080,68',0,0,Julian Gonstad (Norway U19) Substitution at 68',Julian Gonstad Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,333793.0,2024-07-19 06:28:23
+12527,702016,8,43417083,76,2,4080,68',0,0,Bork Bang-Kittilsen (Norway U19) Substitution at 68',Bork Bang-Kittilsen Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,341309.0,2024-07-19 06:28:23
+12527,702016,9,43417084,76,2,4080,68',0,0,Julian Gonstad (Norway U19) Substitution at 68',Julian Gonstad Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,334075.0,2024-07-19 06:28:23
+12527,702016,7,43417082,76,2,4080,68',0,0,Daniel Braut (Norway U19) Substitution at 68',Daniel Braut Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,349089.0,2024-07-19 06:28:23
+12527,702016,10,43417471,94,2,4140,69',0,0,Markiian Bakus (Ukraine U19) Yellow Card at 69',Markiian Bakus Yellow Card,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387462.0,2024-07-19 06:28:23
+12527,702016,11,43417088,94,2,4260,71',0,0,Simen Haram (Norway U19) Yellow Card at 71',Simen Haram Yellow Card,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,357343.0,2024-07-19 06:28:23
+12527,702016,12,43417108,76,2,4740,79',0,0,Hakon Rosten (Norway U19) Substitution at 79',Hakon Rosten Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,331109.0,2024-07-19 06:28:23
+12527,702016,12,43417108,76,2,4740,79',0,0,Hakon Rosten (Norway U19) Substitution at 79',Hakon Rosten Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,357343.0,2024-07-19 06:28:23
+12527,702016,13,43417116,94,2,5220,87',0,0,Rasmus Holten (Norway U19) Yellow Card at 87',Rasmus Holten Yellow Card,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,356399.0,2024-07-19 06:28:23
+12527,702016,14,43417122,94,2,5280,88',0,0,Aleksander Andresen (Norway U19) Yellow Card at 88',Aleksander Andresen Yellow Card,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,325012.0,2024-07-19 06:28:23
+12527,702016,15,43417136,94,2,5400,90'+1',0,0,Ramik Gadzhiev (Ukraine U19) Yellow Card at 91',Ramik Gadzhiev Yellow Card,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,366065.0,2024-07-19 06:28:23
+12527,702017,1,43417671,70,1,900,15',1,0,Kevin Zeroli (Italy U19) Goal at 15',Kevin Zeroli Goal,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,365837.0,2024-07-19 06:28:23
+12527,702017,2,43417752,94,1,1680,28',0,0,Aaron Ciammaglichella (Italy U19) Yellow Card at 28',Aaron Ciammaglichella Yellow Car,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,358465.0,2024-07-19 06:28:23
+12527,702017,3,43417875,70,1,2700,45'+2',1,0,Francesco Camarda (Italy U19) Goal at 47',Francesco Camarda Goal,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377563.0,2024-07-19 06:28:23
+12527,702017,4,43417978,76,2,2700,45',0,0,Vittorio Magni (Italy U19) Substitution at 45',Vittorio Magni Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,365845.0,2024-07-19 06:28:23
+12527,702017,4,43417978,76,2,2700,45',0,0,Vittorio Magni (Italy U19) Substitution at 45',Vittorio Magni Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,358465.0,2024-07-19 06:28:23
+12527,702017,5,43418005,70,2,2880,48',1,0,Francesco Camarda (Italy U19) Goal at 48',Francesco Camarda Goal,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377563.0,2024-07-19 06:28:23
+12527,702017,6,43418063,76,2,3240,54',0,0,Marco Romano (Italy U19) Substitution at 54',Marco Romano Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387435.0,2024-07-19 06:28:23
+12527,702017,7,43418064,76,2,3240,54',0,0,Jonas Harder (Italy U19) Substitution at 54',Jonas Harder Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387440.0,2024-07-19 06:28:23
+12527,702017,7,43418064,76,2,3240,54',0,0,Jonas Harder (Italy U19) Substitution at 54',Jonas Harder Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387441.0,2024-07-19 06:28:23
+12527,702017,6,43418063,76,2,3240,54',0,0,Marco Romano (Italy U19) Substitution at 54',Marco Romano Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,365837.0,2024-07-19 06:28:23
+12527,702017,8,43418065,76,2,3300,55',0,0,Braiden Graham (Northern Ireland U19) Substitution at 55',Braiden Graham Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,367559.0,2024-07-19 06:28:23
+12527,702017,8,43418065,76,2,3300,55',0,0,Braiden Graham (Northern Ireland U19) Substitution at 55',Braiden Graham Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,359512.0,2024-07-19 06:28:23
+12527,702017,9,43418089,94,2,3540,59',0,0,Blaine Mcclure (Northern Ireland U19) Yellow Card at 59',Blaine Mcclure Yellow Card,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,376393.0,2024-07-19 06:28:23
+12527,702017,10,43418142,76,2,3840,64',0,0,Tom Atcheson (Northern Ireland U19) Substitution at 64',Tom Atcheson Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,369509.0,2024-07-19 06:28:23
+12527,702017,12,43418144,76,2,3840,64',0,0,Lorenzo Anghelè (Italy U19) Substitution at 64',Lorenzo Anghelè Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387439.0,2024-07-19 06:28:23
+12527,702017,11,43418143,76,2,3840,64',0,0,Lewis Trickett (Northern Ireland U19) Substitution at 64',Lewis Trickett Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,352825.0,2024-07-19 06:28:23
+12527,702017,12,43418144,76,2,3840,64',0,0,Lorenzo Anghelè (Italy U19) Substitution at 64',Lorenzo Anghelè Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,347408.0,2024-07-19 06:28:23
+12527,702017,11,43418143,76,2,3840,64',0,0,Lewis Trickett (Northern Ireland U19) Substitution at 64',Lewis Trickett Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,376393.0,2024-07-19 06:28:23
+12527,702017,10,43418142,76,2,3840,64',0,0,Tom Atcheson (Northern Ireland U19) Substitution at 64',Tom Atcheson Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387463.0,2024-07-19 06:28:23
+12527,702017,13,43418181,76,2,4260,71',0,0,Diego Sia (Italy U19) Substitution at 71',Diego Sia Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,384306.0,2024-07-19 06:28:23
+12527,702017,13,43418181,76,2,4260,71',0,0,Diego Sia (Italy U19) Substitution at 71',Diego Sia Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,377563.0,2024-07-19 06:28:23
+12527,702017,15,43418206,76,2,4620,77',0,0,Aodhan Doherty (Northern Ireland U19) Substitution at 77',Aodhan Doherty Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,356911.0,2024-07-19 06:28:23
+12527,702017,14,43418205,76,2,4620,77',0,0,Corey Smith (Northern Ireland U19) Substitution at 77',Corey Smith Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,316819.0,2024-07-19 06:28:23
+12527,702017,15,43418206,76,2,4620,77',0,0,Aodhan Doherty (Northern Ireland U19) Substitution at 77',Aodhan Doherty Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,357162.0,2024-07-19 06:28:23
+12527,702017,14,43418205,76,2,4620,77',0,0,Corey Smith (Northern Ireland U19) Substitution at 77',Corey Smith Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387454.0,2024-07-19 06:28:23
+12527,702018,1,43420781,94,1,2160,36',0,0,Simo (Spain U19) Yellow Card at 36',Simo Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,353876.0,2024-07-20 06:31:27
+12527,702018,1,43420781,94,1,2160,36',0,0,Simo (Spain U19) Yellow Card at 36',Simo Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,347425.0,2024-07-20 06:31:27
+12527,702018,1,43420781,94,1,2160,36',0,0,Simo (Spain U19) Yellow Card at 36',Simo Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,331788.0,2024-07-20 06:31:27
+12527,702018,3,43420818,76,2,2700,45',0,0,Daniel Rodríguez (Spain U19) Substitution at 45',Daniel Rodríguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,412448.0,2024-07-20 06:31:27
+12527,702018,3,43420818,76,2,2700,45',0,0,Daniel Rodríguez (Spain U19) Substitution at 45',Daniel Rodríguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,363041.0,2024-07-20 06:31:27
+12527,702018,3,43420818,76,2,2700,45',0,0,Daniel Rodríguez (Spain U19) Substitution at 45',Daniel Rodríguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,329654.0,2024-07-20 06:31:27
+12527,702018,3,43420818,76,2,2700,45',0,0,Daniel Rodríguez (Spain U19) Substitution at 45',Daniel Rodríguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,292063.0,2024-07-20 06:31:27
+12527,702018,2,43420817,76,2,2700,45',0,0,David Mella (Spain U19) Substitution at 45',David Mella Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,375390.0,2024-07-20 06:31:27
+12527,702018,3,43420818,76,2,2700,45',0,0,Daniel Rodríguez (Spain U19) Substitution at 45',Daniel Rodríguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,306516.0,2024-07-20 06:31:27
+12527,702018,2,43420817,76,2,2700,45',0,0,David Mella (Spain U19) Substitution at 45',David Mella Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387491.0,2024-07-20 06:31:27
+12527,702018,2,43420817,76,2,2700,45',0,0,David Mella (Spain U19) Substitution at 45',David Mella Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,140297.0,2024-07-20 06:31:27
+12527,702018,2,43420817,76,2,2700,45',0,0,David Mella (Spain U19) Substitution at 45',David Mella Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,129732.0,2024-07-20 06:31:27
+12527,702018,4,43420842,70,2,3300,55',1,0,Yarek Gasiorowski (Spain U19) Goal at 55',Yarek Gasiorowski Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,364814.0,2024-07-20 06:31:27
+12527,702018,5,43420869,76,2,3900,65',0,0,Halil Özdemir (Turkey U19) Substitution at 65',Halil Özdemir Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387507.0,2024-07-20 06:31:27
+12527,702018,5,43420869,76,2,3900,65',0,0,Halil Özdemir (Turkey U19) Substitution at 65',Halil Özdemir Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,352177.0,2024-07-20 06:31:27
+12527,702018,6,43420870,76,2,3960,66',0,0,Emre Uzun (Turkey U19) Substitution at 66',Emre Uzun Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,350905.0,2024-07-20 06:31:27
+12527,702018,7,43420871,76,2,3960,66',0,0,Chema Andrés (Spain U19) Substitution at 66',Chema Andrés Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387489.0,2024-07-20 06:31:27
+12527,702018,7,43420871,76,2,3960,66',0,0,Chema Andrés (Spain U19) Substitution at 66',Chema Andrés Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387496.0,2024-07-20 06:31:27
+12527,702018,7,43420871,76,2,3960,66',0,0,Chema Andrés (Spain U19) Substitution at 66',Chema Andrés Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,363029.0,2024-07-20 06:31:27
+12527,702018,7,43420871,76,2,3960,66',0,0,Chema Andrés (Spain U19) Substitution at 66',Chema Andrés Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,354986.0,2024-07-20 06:31:27
+12527,702018,6,43420870,76,2,3960,66',0,0,Emre Uzun (Turkey U19) Substitution at 66',Emre Uzun Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,365038.0,2024-07-20 06:31:27
+12527,702018,8,43420901,76,2,4680,78',0,0,Isak Vural (Turkey U19) Substitution at 78',Isak Vural Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,340184.0,2024-07-20 06:31:27
+12527,702018,8,43420901,76,2,4680,78',0,0,Isak Vural (Turkey U19) Substitution at 78',Isak Vural Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387499.0,2024-07-20 06:31:27
+12527,702018,9,43420912,76,2,4740,79',0,0,Yanis Senhadji (Spain U19) Substitution at 79',Yanis Senhadji Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386257.0,2024-07-20 06:31:27
+12527,702018,9,43420912,76,2,4740,79',0,0,Yanis Senhadji (Spain U19) Substitution at 79',Yanis Senhadji Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387498.0,2024-07-20 06:31:27
+12527,702018,10,43420920,94,2,4920,82',0,0,Jacobo Ramón (Spain U19) Yellow Card at 82',Jacobo Ramón Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,380318.0,2024-07-20 06:31:27
+12527,702018,11,43420945,76,2,5400,90',0,0,Fahri Kerem Ay (Turkey U19) Substitution at 90',Fahri Kerem Ay Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,384013.0,2024-07-20 06:31:27
+12527,702018,12,43420946,70,2,5400,90',1,0,Fahri Kerem Ay (Turkey U19) Goal at 90',Fahri Kerem Ay Goal,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,384013.0,2024-07-20 06:31:27
+12527,702018,14,43420962,94,2,5400,90'+4',0,0,Julio Díaz (Spain U19) Yellow Card at 94',Julio Díaz Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387493.0,2024-07-20 06:31:27
+12527,702018,15,43420963,94,2,5400,90'+4',0,0,Emre Uzun (Turkey U19) Yellow Card at 94',Emre Uzun Yellow Card,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,350905.0,2024-07-20 06:31:27
+12527,702018,13,43420957,94,2,5400,90'+3',0,0,Deniz Ertas (Turkey U19) Yellow Card at 93',Deniz Ertas Yellow Card,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,356185.0,2024-07-20 06:31:27
+12527,702018,11,43420945,76,2,5400,90',0,0,Fahri Kerem Ay (Turkey U19) Substitution at 90',Fahri Kerem Ay Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387308.0,2024-07-20 06:31:27
+12527,702019,1,43420586,70,1,1140,19',1,0,Jean-Mattéo Bahoya (France U19) Goal at 19',Jean-Mattéo Bahoya Goal,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346662.0,2024-07-20 06:31:27
+12527,702019,2,43420614,76,2,3420,57',0,0,Mathis Amougou (France U19) Substitution at 57',Mathis Amougou Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,364764.0,2024-07-20 06:31:27
+12527,702019,3,43420615,76,2,3420,57',0,0,Ayman Aiki (France U19) Substitution at 57',Ayman Aiki Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346564.0,2024-07-20 06:31:27
+12527,702019,4,43420616,76,2,3420,57',0,0,Dehmaine Assoumani (France U19) Substitution at 57',Dehmaine Assoumani Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2024-07-20 06:31:27
+12527,702019,2,43420614,76,2,3420,57',0,0,Mathis Amougou (France U19) Substitution at 57',Mathis Amougou Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,362974.0,2024-07-20 06:31:27
+12527,702019,3,43420615,76,2,3420,57',0,0,Ayman Aiki (France U19) Substitution at 57',Ayman Aiki Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,346662.0,2024-07-20 06:31:27
+12527,702019,4,43420616,76,2,3420,57',0,0,Dehmaine Assoumani (France U19) Substitution at 57',Dehmaine Assoumani Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,379088.0,2024-07-20 06:31:27
+12527,702019,5,43420617,94,2,3720,62',0,0,Villads Nielsen (Denmark U19) Yellow Card at 62',Villads Nielsen Yellow Card,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387380.0,2024-07-20 06:31:27
+12527,702019,6,43420618,70,2,3900,65',1,0,Ayman Aiki (France U19) Goal at 65',Ayman Aiki Goal,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346564.0,2024-07-20 06:31:27
+12527,702019,7,43420621,94,2,3960,66',0,0,Steve Ngoura (France U19) Yellow Card at 66',Steve Ngoura Yellow Card,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346520.0,2024-07-20 06:31:27
+12527,702019,8,43420619,76,2,4020,67',0,0,Eli Junior Kroupi (France U19) Substitution at 67',Eli Junior Kroupi Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2024-07-20 06:31:27
+12527,702019,8,43420619,76,2,4020,67',0,0,Eli Junior Kroupi (France U19) Substitution at 67',Eli Junior Kroupi Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,346520.0,2024-07-20 06:31:27
+12527,702019,9,43420620,94,2,4080,68',0,0,Dehmaine Assoumani (France U19) Yellow Card at 68',Dehmaine Assoumani Yellow Card,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2024-07-20 06:31:27
+12527,702019,10,43420622,76,2,4320,72',0,0,Hjalte Bidstrup (Denmark U19) Substitution at 72',Hjalte Bidstrup Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387497.0,2024-07-20 06:31:27
+12527,702019,10,43420622,76,2,4320,72',0,0,Hjalte Bidstrup (Denmark U19) Substitution at 72',Hjalte Bidstrup Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,359934.0,2024-07-20 06:31:27
+12527,702019,11,43420623,76,2,4380,73',0,0,Michael Opoku (Denmark U19) Substitution at 73',Michael Opoku Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,380656.0,2024-07-20 06:31:27
+12527,702019,12,43420624,76,2,4380,73',0,0,Mikel Krüger-Johnsen (Denmark U19) Substitution at 73',Mikel Krüger-Johnsen Substitutio,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,383947.0,2024-07-20 06:31:27
+12527,702019,12,43420624,76,2,4380,73',0,0,Mikel Krüger-Johnsen (Denmark U19) Substitution at 73',Mikel Krüger-Johnsen Substitutio,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,368628.0,2024-07-20 06:31:27
+12527,702019,11,43420623,76,2,4380,73',0,0,Michael Opoku (Denmark U19) Substitution at 73',Michael Opoku Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,386356.0,2024-07-20 06:31:27
+12527,702019,12,43420624,76,2,4380,73',0,0,Mikel Krüger-Johnsen (Denmark U19) Substitution at 73',Mikel Krüger-Johnsen Substitutio,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,344870.0,2024-07-20 06:31:27
+12527,702019,13,43420625,76,2,4560,76',0,0,Saïmon Bouabré (France U19) Substitution at 76',Saïmon Bouabré Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,371472.0,2024-07-20 06:31:27
+12527,702019,13,43420625,76,2,4560,76',0,0,Saïmon Bouabré (France U19) Substitution at 76',Saïmon Bouabré Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,356651.0,2024-07-20 06:31:27
+12527,702019,14,43420626,94,2,4680,78',0,0,Aboubaka Soumahoro (France U19) Yellow Card at 78',Aboubaka Soumahoro Yellow Card,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,381633.0,2024-07-20 06:31:27
+12527,702019,15,43420627,70,2,4740,79',1,0,Saïmon Bouabré (France U19) Goal at 79',Saïmon Bouabré Goal,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,371472.0,2024-07-20 06:31:27
+12527,702019,17,43420629,76,2,4860,81',0,0,Justin Janssen (Denmark U19) Substitution at 81',Justin Janssen Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387494.0,2024-07-20 06:31:27
+12527,702019,16,43420628,76,2,4860,81',0,0,Cornelius Olsson (Denmark U19) Substitution at 81',Cornelius Olsson Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387492.0,2024-07-20 06:31:27
+12527,702019,17,43420629,76,2,4860,81',0,0,Justin Janssen (Denmark U19) Substitution at 81',Justin Janssen Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387495.0,2024-07-20 06:31:27
+12527,702019,16,43420628,76,2,4860,81',0,0,Cornelius Olsson (Denmark U19) Substitution at 81',Cornelius Olsson Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,362773.0,2024-07-20 06:31:27
+12527,702019,18,43420632,70,2,5100,85',1,0,Dehmaine Assoumani (France U19) Goal at 85',Dehmaine Assoumani Goal,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2024-07-20 06:31:27
+12527,702019,19,43420633,70,2,5220,87',1,0,Cornelius Olsson (Denmark U19) Goal at 87',Cornelius Olsson Goal,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387492.0,2024-07-20 06:31:27
+12527,702019,20,43420634,70,2,5400,90'+2',1,0,Alexander Simmelhack (Denmark U19) Goal at 92',Alexander Simmelhack Goal,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,336483.0,2024-07-20 06:31:27
+12527,702020,1,43431654,70,1,420,7',1,0,Hennadiy Synchuk (Ukraine U19) Goal at 7',Hennadiy Synchuk Goal,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,384984.0,2024-07-22 11:43:24
+12527,702020,2,43431718,94,1,1860,31',0,0,Christian Corradi (Italy U19) Yellow Card at 31',Christian Corradi Yellow Card,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346959.0,2024-07-22 11:43:24
+12527,702020,3,43431723,94,1,1980,33',0,0,Daniil Vashchenko (Ukraine U19) Yellow Card at 33',Daniil Vashchenko Yellow Card,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387455.0,2024-07-22 11:43:24
+12527,702020,4,43431724,70,1,2040,34',1,0,Tommaso Ebone (Italy U19) Goal at 34',Tommaso Ebone Goal,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387442.0,2024-07-22 11:43:24
+12527,702020,5,43431749,94,1,2520,42',0,0,Matvii Ponomarenko (Ukraine U19) Yellow Card at 42',Matvii Ponomarenko Yellow Card,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,381333.0,2024-07-22 11:43:24
+12527,702020,6,43431790,76,2,2700,45',0,0,Mattia Mannini (Italy U19) Substitution at 45',Mattia Mannini Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,372786.0,2024-07-22 11:43:24
+12527,702020,6,43431790,76,2,2700,45',0,0,Mattia Mannini (Italy U19) Substitution at 45',Mattia Mannini Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387441.0,2024-07-22 11:43:24
+12527,702020,7,43431820,94,2,2940,49',0,0,Taras Mykhavko (Ukraine U19) Yellow Card at 49',Taras Mykhavko Yellow Card,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,384551.0,2024-07-22 11:43:24
+12527,702020,8,43431847,70,2,3120,52',1,0,Marco Romano (Italy U19) Goal at 52',Marco Romano Goal,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387435.0,2024-07-22 11:43:24
+12527,702020,9,43431867,70,2,3240,54',1,0,Danylo Krevsun (Ukraine U19) Goal at 54',Danylo Krevsun Goal,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387500.0,2024-07-22 11:43:24
+12527,702020,10,43431949,76,2,3840,64',0,0,Filippo Mané (Italy U19) Substitution at 64',Filippo Mané Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387437.0,2024-07-22 11:43:24
+12527,702020,10,43431949,76,2,3840,64',0,0,Filippo Mané (Italy U19) Substitution at 64',Filippo Mané Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,323061.0,2024-07-22 11:43:24
+12527,702020,11,43431998,76,2,4140,69',0,0,Simone Pafundi (Italy U19) Substitution at 69',Simone Pafundi Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,340684.0,2024-07-22 11:43:24
+12527,702020,12,43431999,76,2,4140,69',0,0,Luca Lipani (Italy U19) Substitution at 69',Luca Lipani Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,347408.0,2024-07-22 11:43:24
+12527,702020,11,43431998,76,2,4140,69',0,0,Simone Pafundi (Italy U19) Substitution at 69',Simone Pafundi Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387439.0,2024-07-22 11:43:24
+12527,702020,12,43431999,76,2,4140,69',0,0,Luca Lipani (Italy U19) Substitution at 69',Luca Lipani Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387440.0,2024-07-22 11:43:24
+12527,702020,13,43432035,93,2,4380,73',0,0,Christian Corradi (Italy U19) Red Card at 73',Christian Corradi Red Card,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346959.0,2024-07-22 11:43:24
+12527,702020,14,43432036,98,2,4440,74',1,0,Matvii Ponomarenko (Ukraine U19) Penalty - Scored at 74',Matvii Ponomarenko Penalty - Sco,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,381333.0,2024-07-22 11:43:24
+12527,702020,15,43432050,76,2,4500,75',0,0,Davide Bartesaghi (Italy U19) Substitution at 75',Davide Bartesaghi Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,345637.0,2024-07-22 11:43:24
+12527,702020,15,43432050,76,2,4500,75',0,0,Davide Bartesaghi (Italy U19) Substitution at 75',Davide Bartesaghi Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,384306.0,2024-07-22 11:43:24
+12527,702020,16,43432158,76,2,5280,88',0,0,Tymur Tutierov (Ukraine U19) Substitution at 88',Tymur Tutierov Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387460.0,2024-07-22 11:43:24
+12527,702020,16,43432158,76,2,5280,88',0,0,Tymur Tutierov (Ukraine U19) Substitution at 88',Tymur Tutierov Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,384984.0,2024-07-22 11:43:24
+12527,702020,18,43432160,94,2,5340,89',0,0,Andrii Matkevych (Ukraine U19) Yellow Card at 89',Andrii Matkevych Yellow Card,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,385727.0,2024-07-22 11:43:24
+12527,702020,17,43432159,76,2,5340,89',0,0,Samuel Obinaiia (Ukraine U19) Substitution at 89',Samuel Obinaiia Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387457.0,2024-07-22 11:43:24
+12527,702020,17,43432159,76,2,5340,89',0,0,Samuel Obinaiia (Ukraine U19) Substitution at 89',Samuel Obinaiia Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387455.0,2024-07-22 11:43:24
+12527,702020,19,43432177,76,2,5400,90'+2',0,0,Viktor Tsukanov (Ukraine U19) Substitution at 92',Viktor Tsukanov Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,380420.0,2024-07-22 11:43:24
+12527,702020,19,43432177,76,2,5400,90'+2',0,0,Viktor Tsukanov (Ukraine U19) Substitution at 92',Viktor Tsukanov Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,366065.0,2024-07-22 11:43:24
+12527,702021,1,43431722,70,1,1980,33',1,0,Daniel Braut (Norway U19) Goal at 33',Daniel Braut Goal,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387436.0,2024-07-22 11:43:24
+12527,702021,2,43431888,94,2,3360,56',0,0,Samuel Glenfield (Northern Ireland U19) Yellow Card at 56',Samuel Glenfield Yellow Card,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,347927.0,2024-07-22 11:43:24
+12527,702021,3,43431943,76,2,3780,63',0,0,Reece Evans (Northern Ireland U19) Substitution at 63',Reece Evans Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,359512.0,2024-07-22 11:43:24
+12527,702021,3,43431943,76,2,3780,63',0,0,Reece Evans (Northern Ireland U19) Substitution at 63',Reece Evans Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,229958.0,2024-07-22 11:43:24
+12527,702021,4,43431950,70,2,3900,65',1,0,Daniel Braut (Norway U19) Goal at 65',Daniel Braut Goal,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387436.0,2024-07-22 11:43:24
+12527,702021,5,43431983,76,2,4020,67',0,0,Edvin Austbø (Norway U19) Substitution at 67',Edvin Austbø Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,341309.0,2024-07-22 11:43:24
+12527,702021,6,43431984,76,2,4020,67',0,0,Sander Kilen (Norway U19) Substitution at 67',Sander Kilen Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,361822.0,2024-07-22 11:43:24
+12527,702021,5,43431983,76,2,4020,67',0,0,Edvin Austbø (Norway U19) Substitution at 67',Edvin Austbø Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,361860.0,2024-07-22 11:43:24
+12527,702021,6,43431984,76,2,4020,67',0,0,Sander Kilen (Norway U19) Substitution at 67',Sander Kilen Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,334075.0,2024-07-22 11:43:24
+12527,702021,7,43431990,94,2,4140,69',0,0,Jack Doherty (Northern Ireland U19) Yellow Card at 69',Jack Doherty Yellow Card,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,190007.0,2024-07-22 11:43:24
+12527,702021,8,43432007,76,2,4260,71',0,0,Kieran Morrison (Northern Ireland U19) Substitution at 71',Kieran Morrison Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,357162.0,2024-07-22 11:43:24
+12527,702021,8,43432007,76,2,4260,71',0,0,Kieran Morrison (Northern Ireland U19) Substitution at 71',Kieran Morrison Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,190007.0,2024-07-22 11:43:24
+12527,702021,10,43432066,76,2,4620,77',0,0,Corey Smith (Northern Ireland U19) Substitution at 77',Corey Smith Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,316819.0,2024-07-22 11:43:24
+12527,702021,9,43432065,76,2,4620,77',0,0,Lewis Trickett (Northern Ireland U19) Substitution at 77',Lewis Trickett Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,1.0,352825.0,2024-07-22 11:43:24
+12527,702021,10,43432066,76,2,4620,77',0,0,Corey Smith (Northern Ireland U19) Substitution at 77',Corey Smith Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,367559.0,2024-07-22 11:43:24
+12527,702021,9,43432065,76,2,4620,77',0,0,Lewis Trickett (Northern Ireland U19) Substitution at 77',Lewis Trickett Substitution,22256,0.0,0.0,0.0,0.0,0.0,0.0,2.0,347927.0,2024-07-22 11:43:24
+12527,702021,11,43432141,76,2,5220,87',0,0,Kristoffer Steinset (Norway U19) Substitution at 87',Kristoffer Steinset Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387438.0,2024-07-22 11:43:24
+12527,702021,11,43432141,76,2,5220,87',0,0,Kristoffer Steinset (Norway U19) Substitution at 87',Kristoffer Steinset Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,349089.0,2024-07-22 11:43:24
+12527,702021,13,43432170,76,2,5400,90'+1',0,0,Hakon Rosten (Norway U19) Substitution at 91',Hakon Rosten Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,331109.0,2024-07-22 11:43:24
+12527,702021,12,43432169,76,2,5400,90',0,0,Vetle Auklend (Norway U19) Substitution at 90',Vetle Auklend Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377601.0,2024-07-22 11:43:24
+12527,702021,13,43432170,76,2,5400,90'+1',0,0,Hakon Rosten (Norway U19) Substitution at 91',Hakon Rosten Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,361818.0,2024-07-22 11:43:24
+12527,702021,12,43432169,76,2,5400,90',0,0,Vetle Auklend (Norway U19) Substitution at 90',Vetle Auklend Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,325012.0,2024-07-22 11:43:24
+12527,702022,1,43435861,70,1,780,13',1,0,Saïmon Bouabré (France U19) Goal at 13',Saïmon Bouabré Goal,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,371472.0,2024-07-23 11:52:26
+12527,702022,2,43435866,94,1,1140,19',0,0,Dehmaine Assoumani (France U19) Yellow Card at 19',Dehmaine Assoumani Yellow Card,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2024-07-23 11:52:26
+12527,702022,3,43435911,94,1,2520,42',0,0,Elyaz Zidane (France U19) Yellow Card at 42',Elyaz Zidane Yellow Card,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387505.0,2024-07-23 11:52:26
+12527,702022,5,43435977,76,2,2700,45',0,0,Yoni Gomis (France U19) Substitution at 45',Yoni Gomis Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,345688.0,2024-07-23 11:52:26
+12527,702022,6,43435978,76,2,2700,45',0,0,Jean-Mattéo Bahoya (France U19) Substitution at 45',Jean-Mattéo Bahoya Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346662.0,2024-07-23 11:52:26
+12527,702022,4,43435921,94,1,2700,45'+2',0,0,Mamadou Sarr (France U19) Yellow Card at 47',Mamadou Sarr Yellow Card,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,355433.0,2024-07-23 11:52:26
+12527,702022,6,43435978,76,2,2700,45',0,0,Jean-Mattéo Bahoya (France U19) Substitution at 45',Jean-Mattéo Bahoya Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,346564.0,2024-07-23 11:52:26
+12527,702022,5,43435977,76,2,2700,45',0,0,Yoni Gomis (France U19) Substitution at 45',Yoni Gomis Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,355980.0,2024-07-23 11:52:26
+12527,702022,7,43436024,70,2,3900,65',1,0,Daniel Rodríguez (Spain U19) Goal at 65',Daniel Rodríguez Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,412448.0,2024-07-23 11:52:26
+12527,702022,7,43436024,70,2,3900,65',1,0,Daniel Rodríguez (Spain U19) Goal at 65',Daniel Rodríguez Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,363041.0,2024-07-23 11:52:26
+12527,702022,7,43436024,70,2,3900,65',1,0,Daniel Rodríguez (Spain U19) Goal at 65',Daniel Rodríguez Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,329654.0,2024-07-23 11:52:26
+12527,702022,7,43436024,70,2,3900,65',1,0,Daniel Rodríguez (Spain U19) Goal at 65',Daniel Rodríguez Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,292063.0,2024-07-23 11:52:26
+12527,702022,8,43436031,76,2,4080,68',0,0,Assane Diao (Spain U19) Substitution at 68',Assane Diao Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,364742.0,2024-07-23 11:52:26
+12527,702022,8,43436031,76,2,4080,68',0,0,Assane Diao (Spain U19) Substitution at 68',Assane Diao Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,375390.0,2024-07-23 11:52:26
+12527,702022,9,43436032,76,2,4140,69',0,0,Pol Fortuny (Spain U19) Substitution at 69',Pol Fortuny Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387498.0,2024-07-23 11:52:26
+12527,702022,9,43436032,76,2,4140,69',0,0,Pol Fortuny (Spain U19) Substitution at 69',Pol Fortuny Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,385017.0,2024-07-23 11:52:26
+12527,702022,11,43436036,94,2,4200,70',0,0,Tidiam Gomis (France U19) Yellow Card at 70',Tidiam Gomis Yellow Card,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,366911.0,2024-07-23 11:52:26
+12527,702022,10,43436034,76,2,4200,70',0,0,Senny Mayulu (France U19) Substitution at 70',Senny Mayulu Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,379088.0,2024-07-23 11:52:26
+12527,702022,10,43436034,76,2,4200,70',0,0,Senny Mayulu (France U19) Substitution at 70',Senny Mayulu Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,371472.0,2024-07-23 11:52:26
+12527,702022,12,43436037,70,2,4440,74',1,0,Simo (Spain U19) Goal at 74',Simo Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,353876.0,2024-07-23 11:52:26
+12527,702022,12,43436037,70,2,4440,74',1,0,Simo (Spain U19) Goal at 74',Simo Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,347425.0,2024-07-23 11:52:26
+12527,702022,12,43436037,70,2,4440,74',1,0,Simo (Spain U19) Goal at 74',Simo Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,331788.0,2024-07-23 11:52:26
+12527,702022,13,43436041,76,2,4740,79',0,0,Lucas Michel (France U19) Substitution at 79',Lucas Michel Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,356651.0,2024-07-23 11:52:26
+12527,702022,14,43436042,76,2,4740,79',0,0,Valentin Atangana (France U19) Substitution at 79',Valentin Atangana Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,359165.0,2024-07-23 11:52:26
+12527,702022,13,43436041,76,2,4740,79',0,0,Lucas Michel (France U19) Substitution at 79',Lucas Michel Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,366911.0,2024-07-23 11:52:26
+12527,702022,14,43436042,76,2,4740,79',0,0,Valentin Atangana (France U19) Substitution at 79',Valentin Atangana Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,355433.0,2024-07-23 11:52:26
+12527,702022,15,43436043,94,2,5040,84',0,0,Yarek Gasiorowski (Spain U19) Yellow Card at 84',Yarek Gasiorowski Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,364814.0,2024-07-23 11:52:26
+12527,702022,16,43436044,76,2,5160,86',0,0,Yanis Senhadji (Spain U19) Substitution at 86',Yanis Senhadji Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386257.0,2024-07-23 11:52:26
+12527,702022,16,43436044,76,2,5160,86',0,0,Yanis Senhadji (Spain U19) Substitution at 86',Yanis Senhadji Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,412448.0,2024-07-23 11:52:26
+12527,702022,16,43436044,76,2,5160,86',0,0,Yanis Senhadji (Spain U19) Substitution at 86',Yanis Senhadji Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,363041.0,2024-07-23 11:52:26
+12527,702022,16,43436044,76,2,5160,86',0,0,Yanis Senhadji (Spain U19) Substitution at 86',Yanis Senhadji Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,329654.0,2024-07-23 11:52:26
+12527,702022,16,43436044,76,2,5160,86',0,0,Yanis Senhadji (Spain U19) Substitution at 86',Yanis Senhadji Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,292063.0,2024-07-23 11:52:26
+12527,702022,17,43436045,76,2,5220,87',0,0,Daniel Díaz (Spain U19) Substitution at 87',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387496.0,2024-07-23 11:52:26
+12527,702022,17,43436045,76,2,5220,87',0,0,Daniel Díaz (Spain U19) Substitution at 87',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,363029.0,2024-07-23 11:52:26
+12527,702022,17,43436045,76,2,5220,87',0,0,Daniel Díaz (Spain U19) Substitution at 87',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,354986.0,2024-07-23 11:52:26
+12527,702022,17,43436045,76,2,5220,87',0,0,Daniel Díaz (Spain U19) Substitution at 87',Daniel Díaz Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,330242.0,2024-07-23 11:52:26
+12527,702022,19,43436050,94,2,5400,90',0,0,Assane Diao (Spain U19) Yellow Card at 90',Assane Diao Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,364742.0,2024-07-23 11:52:26
+12527,702022,18,43436047,97,2,5400,90',1,0,Raúl Jiménez (Spain U19) Own Goal at 90',Raúl Jiménez Own Goal,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,394417.0,2024-07-23 11:52:26
+12527,702022,18,43436047,97,2,5400,90',1,0,Raúl Jiménez (Spain U19) Own Goal at 90',Raúl Jiménez Own Goal,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,167060.0,2024-07-23 11:52:26
+12527,702023,1,43435867,70,1,1080,18',1,0,Oscar Schwartau (Denmark U19) Goal at 18',Oscar Schwartau Goal,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,345568.0,2024-07-23 11:52:26
+12527,702023,2,43435884,70,1,1620,27',1,0,Emir Bars (Turkey U19) Goal at 27',Emir Bars Goal,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,365038.0,2024-07-23 11:52:26
+12527,702023,3,43435888,94,1,1680,28',0,0,Haluk Tan (Turkey U19) Yellow Card at 28',Haluk Tan Yellow Card,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377770.0,2024-07-23 11:52:26
+12527,702023,6,43435973,76,2,2700,45',0,0,Emirhan Demircan (Turkey U19) Substitution at 45',Emirhan Demircan Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,352177.0,2024-07-23 11:52:26
+12527,702023,5,43435972,76,2,2700,45',0,0,Alexander Simmelhack (Denmark U19) Substitution at 45',Alexander Simmelhack Substitutio,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,336483.0,2024-07-23 11:52:26
+12527,702023,4,43435923,76,1,2700,45'+1',0,0,Oskar Boesen (Denmark U19) Substitution at 46',Oskar Boesen Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,361716.0,2024-07-23 11:52:26
+12527,702023,5,43435972,76,2,2700,45',0,0,Alexander Simmelhack (Denmark U19) Substitution at 45',Alexander Simmelhack Substitutio,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,380656.0,2024-07-23 11:52:26
+12527,702023,6,43435973,76,2,2700,45',0,0,Emirhan Demircan (Turkey U19) Substitution at 45',Emirhan Demircan Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,384013.0,2024-07-23 11:52:26
+12527,702023,4,43435923,76,1,2700,45'+1',0,0,Oskar Boesen (Denmark U19) Substitution at 46',Oskar Boesen Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,362777.0,2024-07-23 11:52:26
+12527,702023,7,43435988,70,2,3180,53',1,0,Poyraz Yildirim (Turkey U19) Goal at 53',Poyraz Yildirim Goal,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,355370.0,2024-07-23 11:52:26
+12527,702023,9,43436002,76,2,3420,57',0,0,Lucas Høgsberg (Denmark U19) Substitution at 57',Lucas Høgsberg Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,359934.0,2024-07-23 11:52:26
+12527,702023,8,43436001,76,2,3420,57',0,0,Mikel Krüger-Johnsen (Denmark U19) Substitution at 57',Mikel Krüger-Johnsen Substitutio,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,383947.0,2024-07-23 11:52:26
+12527,702023,8,43436001,76,2,3420,57',0,0,Mikel Krüger-Johnsen (Denmark U19) Substitution at 57',Mikel Krüger-Johnsen Substitutio,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,368628.0,2024-07-23 11:52:26
+12527,702023,9,43436002,76,2,3420,57',0,0,Lucas Høgsberg (Denmark U19) Substitution at 57',Lucas Høgsberg Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387497.0,2024-07-23 11:52:26
+12527,702023,8,43436001,76,2,3420,57',0,0,Mikel Krüger-Johnsen (Denmark U19) Substitution at 57',Mikel Krüger-Johnsen Substitutio,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,363429.0,2024-07-23 11:52:26
+12527,702023,10,43436018,70,2,3840,64',1,0,Mikel Krüger-Johnsen (Denmark U19) Goal at 64',Mikel Krüger-Johnsen Goal,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,383947.0,2024-07-23 11:52:26
+12527,702023,10,43436018,70,2,3840,64',1,0,Mikel Krüger-Johnsen (Denmark U19) Goal at 64',Mikel Krüger-Johnsen Goal,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,368628.0,2024-07-23 11:52:26
+12527,702023,11,43436028,76,2,3840,64',0,0,Emre Uzun (Turkey U19) Substitution at 64',Emre Uzun Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,350905.0,2024-07-23 11:52:26
+12527,702023,11,43436028,76,2,3840,64',0,0,Emre Uzun (Turkey U19) Substitution at 64',Emre Uzun Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,365038.0,2024-07-23 11:52:26
+12527,702023,12,43436035,70,2,4200,70',1,0,Efe Sarikaya (Turkey U19) Goal at 70',Efe Sarikaya Goal,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,337078.0,2024-07-23 11:52:26
+12527,702023,13,43436038,70,2,4560,76',1,0,Alexander Simmelhack (Denmark U19) Goal at 76',Alexander Simmelhack Goal,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,336483.0,2024-07-23 11:52:26
+12527,702023,14,43436039,76,2,4620,77',0,0,Muhammed Arikan (Turkey U19) Substitution at 77',Muhammed Arikan Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,307501.0,2024-07-23 11:52:26
+12527,702023,15,43436040,76,2,4620,77',0,0,Halil Özdemir (Turkey U19) Substitution at 77',Halil Özdemir Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387507.0,2024-07-23 11:52:26
+12527,702023,14,43436039,76,2,4620,77',0,0,Muhammed Arikan (Turkey U19) Substitution at 77',Muhammed Arikan Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387499.0,2024-07-23 11:52:26
+12527,702023,15,43436040,76,2,4620,77',0,0,Halil Özdemir (Turkey U19) Substitution at 77',Halil Özdemir Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,355370.0,2024-07-23 11:52:26
+12527,702023,16,43436046,94,2,5220,87',0,0,Halil Özdemir (Turkey U19) Yellow Card at 87',Halil Özdemir Yellow Card,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387507.0,2024-07-23 11:52:26
+12527,702023,17,43436048,76,2,5340,89',0,0,Frederik Roslyng (Denmark U19) Substitution at 89',Frederik Roslyng Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,362836.0,2024-07-23 11:52:26
+12527,702023,17,43436048,76,2,5340,89',0,0,Frederik Roslyng (Denmark U19) Substitution at 89',Frederik Roslyng Substitution,22257,0.0,0.0,0.0,0.0,0.0,0.0,2.0,275839.0,2024-07-23 11:52:26
+12527,702023,18,43436049,76,2,5400,90'+1',0,0,Haluk Tan (Turkey U19) Substitution at 91',Haluk Tan Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377770.0,2024-07-23 11:52:26
+12527,702023,19,43436051,94,2,5400,90'+2',0,0,Mikel Krüger-Johnsen (Denmark U19) Yellow Card at 92',Mikel Krüger-Johnsen Yellow Card,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,383947.0,2024-07-23 11:52:26
+12527,702023,19,43436051,94,2,5400,90'+2',0,0,Mikel Krüger-Johnsen (Denmark U19) Yellow Card at 92',Mikel Krüger-Johnsen Yellow Card,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,368628.0,2024-07-23 11:52:26
+12527,702023,21,43436053,94,2,5400,90'+6',0,0,Mads Lauritsen (Denmark U19) Yellow Card at 96',Mads Lauritsen Yellow Card,22257,0.0,0.0,0.0,0.0,0.0,0.0,1.0,275839.0,2024-07-23 11:52:26
+12527,702023,20,43436052,94,2,5400,90'+6',0,0,Poyraz Yildirim (Turkey U19) Yellow Card at 96',Poyraz Yildirim Yellow Card,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,355370.0,2024-07-23 11:52:26
+12527,702023,18,43436049,76,2,5400,90'+1',0,0,Haluk Tan (Turkey U19) Substitution at 91',Haluk Tan Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,345238.0,2024-07-23 11:52:26
+12526,702008,1,43449357,94,1,600,10',0,0,Francesco Camarda (Italy U19) Yellow Card at 10',Francesco Camarda Yellow Card,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377563.0,2024-07-26 11:46:51
+12526,702008,2,43449361,76,2,3300,55',0,0,David Mella (Spain U19) Substitution at 55',David Mella Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,375390.0,2024-07-26 11:46:51
+12526,702008,2,43449361,76,2,3300,55',0,0,David Mella (Spain U19) Substitution at 55',David Mella Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,385017.0,2024-07-26 11:46:51
+12526,702008,3,43449362,76,2,3360,56',0,0,Pol Fortuny (Spain U19) Substitution at 56',Pol Fortuny Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387498.0,2024-07-26 11:46:51
+12526,702008,3,43449362,76,2,3360,56',0,0,Pol Fortuny (Spain U19) Substitution at 56',Pol Fortuny Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,364742.0,2024-07-26 11:46:51
+12526,702008,4,43449369,94,2,4140,69',0,0,Luca Lipani (Italy U19) Yellow Card at 69',Luca Lipani Yellow Card,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,347408.0,2024-07-26 11:46:51
+12526,702008,6,43449371,76,2,4320,72',0,0,Vittorio Magni (Italy U19) Substitution at 72',Vittorio Magni Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,365845.0,2024-07-26 11:46:51
+12526,702008,5,43449370,76,2,4320,72',0,0,Jonas Harder (Italy U19) Substitution at 72',Jonas Harder Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387440.0,2024-07-26 11:46:51
+12526,702008,6,43449371,76,2,4320,72',0,0,Vittorio Magni (Italy U19) Substitution at 72',Vittorio Magni Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,358465.0,2024-07-26 11:46:51
+12526,702008,5,43449370,76,2,4320,72',0,0,Jonas Harder (Italy U19) Substitution at 72',Jonas Harder Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,347408.0,2024-07-26 11:46:51
+12526,702008,7,43449372,94,2,4920,82',0,0,Pol Fortuny (Spain U19) Yellow Card at 82',Pol Fortuny Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387498.0,2024-07-26 11:46:51
+12526,702008,9,43449374,76,2,5100,85',0,0,Jesús Rodriguez (Spain U19) Substitution at 85',Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387491.0,2024-07-26 11:46:51
+12526,702008,9,43449374,76,2,5100,85',0,0,Jesús Rodriguez (Spain U19) Substitution at 85',Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,140297.0,2024-07-26 11:46:51
+12526,702008,8,43449373,76,2,5100,85',0,0,Tommaso Ebone (Italy U19) Substitution at 85',Tommaso Ebone Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387442.0,2024-07-26 11:46:51
+12526,702008,9,43449374,76,2,5100,85',0,0,Jesús Rodriguez (Spain U19) Substitution at 85',Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,129732.0,2024-07-26 11:46:51
+12526,702008,9,43449374,76,2,5100,85',0,0,Jesús Rodriguez (Spain U19) Substitution at 85',Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,329654.0,2024-07-26 11:46:51
+12526,702008,8,43449373,76,2,5100,85',0,0,Tommaso Ebone (Italy U19) Substitution at 85',Tommaso Ebone Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,377563.0,2024-07-26 11:46:51
+12526,702008,9,43449374,76,2,5100,85',0,0,Jesús Rodriguez (Spain U19) Substitution at 85',Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,292063.0,2024-07-26 11:46:51
+12526,702008,9,43449374,76,2,5100,85',0,0,Jesús Rodriguez (Spain U19) Substitution at 85',Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,363041.0,2024-07-26 11:46:51
+12526,702008,9,43449374,76,2,5100,85',0,0,Jesús Rodriguez (Spain U19) Substitution at 85',Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,412448.0,2024-07-26 11:46:51
+12526,702008,10,43449375,94,2,5400,90'+1',0,0,Mattia Mannini (Italy U19) Yellow Card at 91',Mattia Mannini Yellow Card,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,372786.0,2024-07-26 11:46:51
+12526,702008,11,43449396,70,3,6000,100',1,0,Pol Fortuny (Spain U19) Goal at 100',Pol Fortuny Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387498.0,2024-07-26 11:46:51
+12526,702008,12,43449405,76,3,6120,102',0,0,Yanis Senhadji (Spain U19) Substitution at 102',Yanis Senhadji Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386257.0,2024-07-26 11:46:51
+12526,702008,12,43449405,76,3,6120,102',0,0,Yanis Senhadji (Spain U19) Substitution at 102',Yanis Senhadji Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,377843.0,2024-07-26 11:46:51
+12526,702008,13,43449426,76,4,6300,105',0,0,Marco Romano (Italy U19) Substitution at 105',Marco Romano Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387435.0,2024-07-26 11:46:51
+12526,702008,14,43449429,76,4,6300,105',0,0,Lorenzo Anghelè (Italy U19) Substitution at 105',Lorenzo Anghelè Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387439.0,2024-07-26 11:46:51
+12526,702008,14,43449429,76,4,6300,105',0,0,Lorenzo Anghelè (Italy U19) Substitution at 105',Lorenzo Anghelè Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387441.0,2024-07-26 11:46:51
+12526,702008,13,43449426,76,4,6300,105',0,0,Marco Romano (Italy U19) Substitution at 105',Marco Romano Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,372786.0,2024-07-26 11:46:51
+12526,702008,15,43449459,94,4,6840,114',0,0,Iker Bravo (Spain U19) Yellow Card at 114',Iker Bravo Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,330242.0,2024-07-26 11:46:51
+12526,702008,17,43449472,76,4,6840,114',0,0,Diego Sia (Italy U19) Substitution at 114',Diego Sia Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,384306.0,2024-07-26 11:46:51
+12526,702008,16,43449471,94,4,6840,114',0,0,Marco Romano (Italy U19) Yellow Card at 114',Marco Romano Yellow Card,9780,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387435.0,2024-07-26 11:46:51
+12526,702008,17,43449472,76,4,6840,114',0,0,Diego Sia (Italy U19) Substitution at 114',Diego Sia Substitution,9780,0.0,0.0,0.0,0.0,0.0,0.0,2.0,345637.0,2024-07-26 11:46:51
+12526,702008,19,43449736,94,4,7200,120',0,0,Miguel Carvalho (Spain U19) Yellow Card at 120',Miguel Carvalho Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,306516.0,2024-07-26 11:46:51
+12526,702008,18,43449735,94,4,7200,120',0,0,Raúl Jiménez (Spain U19) Yellow Card at 120',Raúl Jiménez Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,394417.0,2024-07-26 11:46:51
+12526,702008,18,43449735,94,4,7200,120',0,0,Raúl Jiménez (Spain U19) Yellow Card at 120',Raúl Jiménez Yellow Card,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,167060.0,2024-07-26 11:46:51
+12526,702009,1,43450738,94,1,1500,25',0,0,Viktor Tsukanov (Ukraine U19) Yellow Card at 25',Viktor Tsukanov Yellow Card,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,380420.0,2024-07-26 11:46:51
+12526,702009,3,43451125,76,2,2700,45',0,0,Tymur Tutierov (Ukraine U19) Substitution at 45',Tymur Tutierov Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387460.0,2024-07-26 11:46:51
+12526,702009,2,43451124,76,2,2700,45',0,0,Ayman Aiki (France U19) Substitution at 45',Ayman Aiki Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346564.0,2024-07-26 11:46:51
+12526,702009,3,43451125,76,2,2700,45',0,0,Tymur Tutierov (Ukraine U19) Substitution at 45',Tymur Tutierov Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,386460.0,2024-07-26 11:46:51
+12526,702009,2,43451124,76,2,2700,45',0,0,Ayman Aiki (France U19) Substitution at 45',Ayman Aiki Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,356651.0,2024-07-26 11:46:51
+12526,702009,4,43451234,94,2,3300,55',0,0,Hennadiy Synchuk (Ukraine U19) Yellow Card at 55',Hennadiy Synchuk Yellow Card,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,384984.0,2024-07-26 11:46:51
+12526,702009,5,43451275,70,2,3660,61',1,0,Valentin Atangana (France U19) Goal at 61',Valentin Atangana Goal,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,359165.0,2024-07-26 11:46:51
+12526,702009,7,43451304,76,2,3720,62',0,0,Eli Junior Kroupi (France U19) Substitution at 62',Eli Junior Kroupi Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2024-07-26 11:46:51
+12526,702009,8,43451305,76,2,3720,62',0,0,Kristian Shevchenko (Ukraine U19) Substitution at 62',Kristian Shevchenko Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387459.0,2024-07-26 11:46:51
+12526,702009,6,43451303,76,2,3720,62',0,0,Mathis Amougou (France U19) Substitution at 62',Mathis Amougou Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,364764.0,2024-07-26 11:46:51
+12526,702009,7,43451304,76,2,3720,62',0,0,Eli Junior Kroupi (France U19) Substitution at 62',Eli Junior Kroupi Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,346520.0,2024-07-26 11:46:51
+12526,702009,8,43451305,76,2,3720,62',0,0,Kristian Shevchenko (Ukraine U19) Substitution at 62',Kristian Shevchenko Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,380420.0,2024-07-26 11:46:51
+12526,702009,6,43451303,76,2,3720,62',0,0,Mathis Amougou (France U19) Substitution at 62',Mathis Amougou Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,379088.0,2024-07-26 11:46:51
+12526,702009,9,43451360,94,2,4320,72',0,0,Aboubaka Soumahoro (France U19) Yellow Card at 72',Aboubaka Soumahoro Yellow Card,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,381633.0,2024-07-26 11:46:51
+12526,702009,10,43451445,76,2,4740,79',0,0,Samuel Obinaiia (Ukraine U19) Substitution at 79',Samuel Obinaiia Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387457.0,2024-07-26 11:46:51
+12526,702009,11,43451446,76,2,4740,79',0,0,Kyrylo Dihtiar (Ukraine U19) Substitution at 79',Kyrylo Dihtiar Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387461.0,2024-07-26 11:46:51
+12526,702009,11,43451446,76,2,4740,79',0,0,Kyrylo Dihtiar (Ukraine U19) Substitution at 79',Kyrylo Dihtiar Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,384551.0,2024-07-26 11:46:51
+12526,702009,10,43451445,76,2,4740,79',0,0,Samuel Obinaiia (Ukraine U19) Substitution at 79',Samuel Obinaiia Substitution,6946,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387458.0,2024-07-26 11:46:51
+12526,702009,12,43451447,76,2,4800,80',0,0,Jean-Mattéo Bahoya (France U19) Substitution at 80',Jean-Mattéo Bahoya Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346662.0,2024-07-26 11:46:51
+12526,702009,12,43451447,76,2,4800,80',0,0,Jean-Mattéo Bahoya (France U19) Substitution at 80',Jean-Mattéo Bahoya Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,371472.0,2024-07-26 11:46:51
+12525,702011,1,43467070,70,1,2460,41',1,0,Iker Bravo (Spain U19) Goal at 41',Iker Bravo Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,330242.0,2024-07-29 12:04:54
+12525,702011,2,43467522,76,2,3720,62',0,0,Steve Ngoura (France U19) Substitution at 62',Steve Ngoura Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346520.0,2024-07-29 12:04:54
+12525,702011,4,43467524,76,2,3720,62',0,0,Senny Mayulu (France U19) Substitution at 62',Senny Mayulu Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,379088.0,2024-07-29 12:04:54
+12525,702011,3,43467523,76,2,3720,62',0,0,Lucas Michel (France U19) Substitution at 62',Lucas Michel Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,356651.0,2024-07-29 12:04:54
+12525,702011,2,43467522,76,2,3720,62',0,0,Steve Ngoura (France U19) Substitution at 62',Steve Ngoura Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,371472.0,2024-07-29 12:04:54
+12525,702011,3,43467523,76,2,3720,62',0,0,Lucas Michel (France U19) Substitution at 62',Lucas Michel Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2024-07-29 12:04:54
+12525,702011,4,43467524,76,2,3720,62',0,0,Senny Mayulu (France U19) Substitution at 62',Senny Mayulu Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,346662.0,2024-07-29 12:04:54
+12525,702011,6,43467620,97,2,4080,68',1,0,Jérémy Jacquet (France U19) Own Goal at 68',Jérémy Jacquet Own Goal,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,355980.0,2024-07-29 12:04:54
+12525,702011,5,43467619,76,2,4080,68',0,0,Assane Diao (Spain U19) Substitution at 68',Assane Diao Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,364742.0,2024-07-29 12:04:54
+12525,702011,5,43467619,76,2,4080,68',0,0,Assane Diao (Spain U19) Substitution at 68',Assane Diao Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,292063.0,2024-07-29 12:04:54
+12525,702011,5,43467619,76,2,4080,68',0,0,Assane Diao (Spain U19) Substitution at 68',Assane Diao Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,329654.0,2024-07-29 12:04:54
+12525,702011,5,43467619,76,2,4080,68',0,0,Assane Diao (Spain U19) Substitution at 68',Assane Diao Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,363041.0,2024-07-29 12:04:54
+12525,702011,5,43467619,76,2,4080,68',0,0,Assane Diao (Spain U19) Substitution at 68',Assane Diao Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,412448.0,2024-07-29 12:04:54
+12525,702011,7,43467710,76,2,4380,73',0,0,Mathis Amougou (France U19) Substitution at 73',Mathis Amougou Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,364764.0,2024-07-29 12:04:54
+12525,702011,7,43467710,76,2,4380,73',0,0,Mathis Amougou (France U19) Substitution at 73',Mathis Amougou Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,362974.0,2024-07-29 12:04:54
+12525,702011,8,43467762,93,2,4560,76',0,0,Yoni Gomis (France U19) Red Card at 76',Yoni Gomis Red Card,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,345688.0,2024-07-29 12:04:54
+12525,702011,11,43467855,76,2,4860,81',0,0,Jesús Rodriguez (Spain U19) Substitution at 81',Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387491.0,2024-07-29 12:04:54
+12525,702011,9,43467853,76,2,4860,81',0,0,Mamadou Sarr (France U19) Substitution at 81',Mamadou Sarr Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,1.0,355433.0,2024-07-29 12:04:54
+12525,702011,10,43467854,76,2,4860,81',0,0,Yanis Senhadji (Spain U19) Substitution at 81',Yanis Senhadji Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386257.0,2024-07-29 12:04:54
+12525,702011,11,43467855,76,2,4860,81',0,0,Jesús Rodriguez (Spain U19) Substitution at 81',Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,140297.0,2024-07-29 12:04:54
+12525,702011,11,43467855,76,2,4860,81',0,0,Jesús Rodriguez (Spain U19) Substitution at 81',Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,1.0,129732.0,2024-07-29 12:04:54
+12525,702011,11,43467855,76,2,4860,81',0,0,Jesús Rodriguez (Spain U19) Substitution at 81',Jesús Rodriguez Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,375390.0,2024-07-29 12:04:54
+12525,702011,9,43467853,76,2,4860,81',0,0,Mamadou Sarr (France U19) Substitution at 81',Mamadou Sarr Substitution,6930,0.0,0.0,0.0,0.0,0.0,0.0,2.0,331084.0,2024-07-29 12:04:54
+12525,702011,10,43467854,76,2,4860,81',0,0,Yanis Senhadji (Spain U19) Substitution at 81',Yanis Senhadji Substitution,9779,0.0,0.0,0.0,0.0,0.0,0.0,2.0,377843.0,2024-07-29 12:04:54
+12524,702010,1,43449522,70,1,900,15',1,0,Rasmus Holten (Norway U19) Goal at 15',Rasmus Holten Goal,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,356399.0,2024-07-26 11:46:51
+12524,702010,2,43449600,94,1,2340,39',0,0,Emre Uzun (Turkey U19) Yellow Card at 39',Emre Uzun Yellow Card,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,350905.0,2024-07-26 11:46:51
+12524,702010,5,43449756,76,2,2700,45',0,0,Emirhan Demircan (Turkey U19) Substitution at 45',Emirhan Demircan Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,352177.0,2024-07-26 11:46:51
+12524,702010,4,43449755,76,2,2700,45',0,0,Berkay Yilmaz (Turkey U19) Substitution at 45',Berkay Yilmaz Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387472.0,2024-07-26 11:46:51
+12524,702010,3,43449754,76,2,2700,45',0,0,Ali Bülbül (Turkey U19) Substitution at 45',Ali Bülbül Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,345238.0,2024-07-26 11:46:51
+12524,702010,4,43449755,76,2,2700,45',0,0,Berkay Yilmaz (Turkey U19) Substitution at 45',Berkay Yilmaz Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387330.0,2024-07-26 11:46:51
+12524,702010,5,43449756,76,2,2700,45',0,0,Emirhan Demircan (Turkey U19) Substitution at 45',Emirhan Demircan Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387499.0,2024-07-26 11:46:51
+12524,702010,3,43449754,76,2,2700,45',0,0,Ali Bülbül (Turkey U19) Substitution at 45',Ali Bülbül Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,377770.0,2024-07-26 11:46:51
+12524,702010,6,43449806,94,2,3180,53',0,0,Eivind Helland (Norway U19) Yellow Card at 53',Eivind Helland Yellow Card,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,361818.0,2024-07-26 11:46:51
+12524,702010,7,43449841,76,2,3660,61',0,0,Mats Pedersen (Norway U19) Substitution at 61',Mats Pedersen Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,328499.0,2024-07-26 11:46:51
+12524,702010,7,43449841,76,2,3660,61',0,0,Mats Pedersen (Norway U19) Substitution at 61',Mats Pedersen Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,334075.0,2024-07-26 11:46:51
+12524,702010,8,43449901,76,2,4200,70',0,0,Bork Bang-Kittilsen (Norway U19) Substitution at 70',Bork Bang-Kittilsen Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,361860.0,2024-07-26 11:46:51
+12524,702010,8,43449901,76,2,4200,70',0,0,Bork Bang-Kittilsen (Norway U19) Substitution at 70',Bork Bang-Kittilsen Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,341309.0,2024-07-26 11:46:51
+12524,702010,9,43449941,94,2,4620,77',0,0,Berkay Yilmaz (Turkey U19) Yellow Card at 77',Berkay Yilmaz Yellow Card,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,387472.0,2024-07-26 11:46:51
+12524,702010,10,43449942,76,2,4620,77',0,0,Isak Vural (Turkey U19) Substitution at 77',Isak Vural Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,340184.0,2024-07-26 11:46:51
+12524,702010,10,43449942,76,2,4620,77',0,0,Isak Vural (Turkey U19) Substitution at 77',Isak Vural Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,387308.0,2024-07-26 11:46:51
+12524,702010,11,43449960,76,2,4800,80',0,0,Hakon Rosten (Norway U19) Substitution at 80',Hakon Rosten Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,331109.0,2024-07-26 11:46:51
+12524,702010,11,43449960,76,2,4800,80',0,0,Hakon Rosten (Norway U19) Substitution at 80',Hakon Rosten Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,349089.0,2024-07-26 11:46:51
+12524,702010,12,43449961,70,2,4860,81',1,0,Isak Vural (Turkey U19) Goal at 81',Isak Vural Goal,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,340184.0,2024-07-26 11:46:51
+12524,702010,13,43450023,94,2,5160,86',0,0,Muhammed Arikan (Turkey U19) Yellow Card at 86',Muhammed Arikan Yellow Card,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,307501.0,2024-07-26 11:46:51
+12524,702010,14,43450359,76,4,6300,105',0,0,Fahri Kerem Ay (Turkey U19) Substitution at 105',Fahri Kerem Ay Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,1.0,384013.0,2024-07-26 11:46:51
+12524,702010,14,43450359,76,4,6300,105',0,0,Fahri Kerem Ay (Turkey U19) Substitution at 105',Fahri Kerem Ay Substitution,6170,0.0,0.0,0.0,0.0,0.0,0.0,2.0,365038.0,2024-07-26 11:46:51
+12524,702010,17,43450552,94,5,7200,120',0,0,Rasmus Holten (Norway U19) Yellow Card at 120',Rasmus Holten Yellow Card,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,356399.0,2024-07-26 11:46:51
+12524,702010,15,43450497,76,4,7200,120',0,0,Vetle Auklend (Norway U19) Substitution at 120',Vetle Auklend Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377601.0,2024-07-26 11:46:51
+12524,702010,16,43450498,76,4,7200,120',0,0,Julian Gonstad (Norway U19) Substitution at 120',Julian Gonstad Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,1.0,333793.0,2024-07-26 11:46:51
+12524,702010,16,43450498,76,4,7200,120',0,0,Julian Gonstad (Norway U19) Substitution at 120',Julian Gonstad Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,332568.0,2024-07-26 11:46:51
+12524,702010,15,43450497,76,4,7200,120',0,0,Vetle Auklend (Norway U19) Substitution at 120',Vetle Auklend Substitution,19232,0.0,0.0,0.0,0.0,0.0,0.0,2.0,357343.0,2024-07-26 11:46:51

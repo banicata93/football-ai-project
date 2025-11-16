@@ -1,0 +1,10 @@
+{
+  "league": "uefa_champions_league_qualifying",
+  "league_name": "UEFA Champions League Qualifying",
+  "league_id": 19874,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:35",
+  "total_matches": 182,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

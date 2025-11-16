@@ -1,0 +1,10 @@
+{
+  "league": "uefa_women's_champions_league",
+  "league_name": "UEFA Women's Champions League",
+  "league_id": 19483,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:35",
+  "total_matches": 115,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

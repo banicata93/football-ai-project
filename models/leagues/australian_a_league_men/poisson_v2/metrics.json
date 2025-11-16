@@ -1,0 +1,10 @@
+{
+  "league": "australian_a_league_men",
+  "league_name": "Australian A-League Men",
+  "league_id": 3906,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:34",
+  "total_matches": 332,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

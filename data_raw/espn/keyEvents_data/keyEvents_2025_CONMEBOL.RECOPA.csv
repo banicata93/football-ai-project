@@ -1,0 +1,109 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13040,724185,1,44736666,94,1,960,16',0,0,Marco Di Cesare (Racing Club) Yellow Card at 16',Marco Di Cesare Yellow Card,15,0.0,0.0,0.0,0.0,0.0,0.0,1,301950.0,2025-02-21 05:56:58
+13040,724185,2,44736732,94,1,1740,29',0,0,Alexander Barboza (Botafogo) Yellow Card at 29',Alexander Barboza Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,222631.0,2025-02-21 05:56:58
+13040,724185,3,44736747,98,1,1860,31',1,0,Luciano Vietto (Racing Club) Penalty - Scored at 31',Luciano Vietto Penalty - Scored,15,0.0,0.0,0.0,0.0,0.0,0.0,1,168277.0,2025-02-21 05:56:58
+13040,724185,4,44736795,76,1,2160,36',0,0,Matías Zaracho (Racing Club) Substitution at 36',Matías Zaracho Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,1,241988.0,2025-02-21 05:56:58
+13040,724185,4,44736795,76,1,2160,36',0,0,Matías Zaracho (Racing Club) Substitution at 36',Matías Zaracho Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,2,168277.0,2025-02-21 05:56:58
+13040,724185,5,44736841,94,1,2460,41',0,0,Bruno Zuculini (Racing Club) Yellow Card at 41',Bruno Zuculini Yellow Card,15,0.0,0.0,0.0,0.0,0.0,0.0,1,144267.0,2025-02-21 05:56:58
+13040,724185,6,44736874,94,1,2700,45'+3',0,0,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,75542.0,2025-02-21 05:56:58
+13040,724185,6,44736874,94,1,2700,45'+3',0,0,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,358269.0,2025-02-21 05:56:58
+13040,724185,6,44736874,94,1,2700,45'+3',0,0,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,346966.0,2025-02-21 05:56:58
+13040,724185,6,44736874,94,1,2700,45'+3',0,0,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,344844.0,2025-02-21 05:56:58
+13040,724185,6,44736874,94,1,2700,45'+3',0,0,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,306764.0,2025-02-21 05:56:58
+13040,724185,6,44736874,94,1,2700,45'+3',0,0,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,304654.0,2025-02-21 05:56:58
+13040,724185,6,44736874,94,1,2700,45'+3',0,0,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,272224.0,2025-02-21 05:56:58
+13040,724185,6,44736874,94,1,2700,45'+3',0,0,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,271431.0,2025-02-21 05:56:58
+13040,724185,6,44736874,94,1,2700,45'+3',0,0,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,258370.0,2025-02-21 05:56:58
+13040,724185,6,44736874,94,1,2700,45'+3',0,0,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,170369.0,2025-02-21 05:56:58
+13040,724185,6,44736874,94,1,2700,45'+3',0,0,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,155691.0,2025-02-21 05:56:58
+13040,724185,6,44736874,94,1,2700,45'+3',0,0,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,137777.0,2025-02-21 05:56:58
+13040,724185,6,44736874,94,1,2700,45'+3',0,0,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,99236.0,2025-02-21 05:56:58
+13040,724185,7,44737052,76,2,3540,59',0,0,Rwan Seco (Botafogo) Substitution at 59',Rwan Seco Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-02-21 05:56:58
+13040,724185,7,44737052,76,2,3540,59',0,0,Rwan Seco (Botafogo) Substitution at 59',Rwan Seco Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,380765.0,2025-02-21 05:56:58
+13040,724185,7,44737052,76,2,3540,59',0,0,Rwan Seco (Botafogo) Substitution at 59',Rwan Seco Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,379266.0,2025-02-21 05:56:58
+13040,724185,7,44737052,76,2,3540,59',0,0,Rwan Seco (Botafogo) Substitution at 59',Rwan Seco Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,223437.0,2025-02-21 05:56:58
+13040,724185,7,44737052,76,2,3540,59',0,0,Rwan Seco (Botafogo) Substitution at 59',Rwan Seco Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,143883.0,2025-02-21 05:56:58
+13040,724185,8,44737061,70,2,3780,63',1,0,Adrián Martínez (Racing Club) Goal at 63',Adrián Martínez Goal,15,0.0,0.0,0.0,0.0,0.0,0.0,1,67511.0,2025-02-21 05:56:58
+13040,724185,8,44737061,70,2,3780,63',1,0,Adrián Martínez (Racing Club) Goal at 63',Adrián Martínez Goal,15,0.0,0.0,0.0,0.0,0.0,0.0,1,3038.0,2025-02-21 05:56:58
+13040,724185,8,44737061,70,2,3780,63',1,0,Adrián Martínez (Racing Club) Goal at 63',Adrián Martínez Goal,15,0.0,0.0,0.0,0.0,0.0,0.0,1,300649.0,2025-02-21 05:56:58
+13040,724185,9,44737100,94,2,4200,70',0,0,Newton (Botafogo) Yellow Card at 70',Newton Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,357362.0,2025-02-21 05:56:58
+13040,724185,10,44737110,94,2,4320,72',0,0,Rwan Seco (Botafogo) Yellow Card at 72',Rwan Seco Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-02-21 05:56:58
+13040,724185,11,44737128,76,2,4560,76',0,0,Cuiabano (Botafogo) Substitution at 76',Cuiabano Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,334756.0,2025-02-21 05:56:58
+13040,724185,11,44737128,76,2,4560,76',0,0,Cuiabano (Botafogo) Substitution at 76',Cuiabano Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,358780.0,2025-02-21 05:56:58
+13040,724185,11,44737128,76,2,4560,76',0,0,Cuiabano (Botafogo) Substitution at 76',Cuiabano Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,314841.0,2025-02-21 05:56:58
+13040,724185,12,44737140,94,2,4860,81',0,0,Gastón Martirena (Racing Club) Yellow Card at 81',Gastón Martirena Yellow Card,15,0.0,0.0,0.0,0.0,0.0,0.0,1,302209.0,2025-02-21 05:56:58
+13040,724185,13,44737141,94,2,4920,82',0,0,Juan Nardoni (Racing Club) Yellow Card at 82',Juan Nardoni Yellow Card,15,0.0,0.0,0.0,0.0,0.0,0.0,1,290594.0,2025-02-21 05:56:58
+13040,724185,14,44737206,93,2,5220,87',0,0,Cuiabano (Botafogo) Red Card at 87',Cuiabano Red Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,334756.0,2025-02-21 05:56:58
+13040,724185,15,44737207,76,2,5280,88',0,0,Kauê (Botafogo) Substitution at 88',Kauê Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,379817.0,2025-02-21 05:56:58
+13040,724185,15,44737207,76,2,5280,88',0,0,Kauê (Botafogo) Substitution at 88',Kauê Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,379593.0,2025-02-21 05:56:58
+13040,724185,15,44737207,76,2,5280,88',0,0,Kauê (Botafogo) Substitution at 88',Kauê Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,379398.0,2025-02-21 05:56:58
+13040,724185,15,44737207,76,2,5280,88',0,0,Kauê (Botafogo) Substitution at 88',Kauê Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,360304.0,2025-02-21 05:56:58
+13040,724185,15,44737207,76,2,5280,88',0,0,Kauê (Botafogo) Substitution at 88',Kauê Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,357363.0,2025-02-21 05:56:58
+13040,724185,15,44737207,76,2,5280,88',0,0,Kauê (Botafogo) Substitution at 88',Kauê Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,259184.0,2025-02-21 05:56:58
+13040,724185,15,44737207,76,2,5280,88',0,0,Kauê (Botafogo) Substitution at 88',Kauê Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,226988.0,2025-02-21 05:56:58
+13040,724185,15,44737207,76,2,5280,88',0,0,Kauê (Botafogo) Substitution at 88',Kauê Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,177219.0,2025-02-21 05:56:58
+13040,724185,16,44737208,76,2,5340,89',0,0,Ignacio Agustin Rodríguez (Racing Club) Substitution at 89',Ignacio Agustin Rodríguez Substi,15,0.0,0.0,0.0,0.0,0.0,0.0,1,317430.0,2025-02-21 05:56:58
+13040,724185,16,44737208,76,2,5340,89',0,0,Ignacio Agustin Rodríguez (Racing Club) Substitution at 89',Ignacio Agustin Rodríguez Substi,15,0.0,0.0,0.0,0.0,0.0,0.0,2,233392.0,2025-02-21 05:56:58
+13040,724186,1,44777733,94,1,1020,17',0,0,Gregore (Botafogo) Yellow Card at 17',Gregore Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,235893.0,2025-02-28 05:55:45
+13040,724186,2,44777762,94,1,1980,33',0,0,Luciano Vietto (Racing Club) Yellow Card at 33',Luciano Vietto Yellow Card,15,0.0,0.0,0.0,0.0,0.0,0.0,1,168277.0,2025-02-28 05:55:45
+13040,724186,3,44777866,76,2,2700,45',0,0,Matías Zaracho (Racing Club) Substitution at 45',Matías Zaracho Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,1,241988.0,2025-02-28 05:55:45
+13040,724186,3,44777866,76,2,2700,45',0,0,Matías Zaracho (Racing Club) Substitution at 45',Matías Zaracho Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,2,168277.0,2025-02-28 05:55:45
+13040,724186,4,44777874,94,2,2940,49',0,0,Adrián Martínez (Racing Club) Yellow Card at 49',Adrián Martínez Yellow Card,15,0.0,0.0,0.0,0.0,0.0,0.0,1,67511.0,2025-02-28 05:55:45
+13040,724186,4,44777874,94,2,2940,49',0,0,Adrián Martínez (Racing Club) Yellow Card at 49',Adrián Martínez Yellow Card,15,0.0,0.0,0.0,0.0,0.0,0.0,1,3038.0,2025-02-28 05:55:45
+13040,724186,4,44777874,94,2,2940,49',0,0,Adrián Martínez (Racing Club) Yellow Card at 49',Adrián Martínez Yellow Card,15,0.0,0.0,0.0,0.0,0.0,0.0,1,300649.0,2025-02-28 05:55:45
+13040,724186,5,44777875,70,2,3000,50',1,0,Matías Zaracho (Racing Club) Goal at 50',Matías Zaracho Goal,15,0.0,0.0,0.0,0.0,0.0,0.0,1,241988.0,2025-02-28 05:55:45
+13040,724186,6,44777892,94,2,3180,53',0,0,Jair Paula (Botafogo) Yellow Card at 53',Jair Paula Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,338876.0,2025-02-28 05:55:45
+13040,724186,7,44777907,76,2,3300,55',0,0,Jeffinho (Botafogo) Substitution at 55',Jeffinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,333962.0,2025-02-28 05:55:45
+13040,724186,7,44777907,76,2,3300,55',0,0,Jeffinho (Botafogo) Substitution at 55',Jeffinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,301807.0,2025-02-28 05:55:45
+13040,724186,7,44777907,76,2,3300,55',0,0,Jeffinho (Botafogo) Substitution at 55',Jeffinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,301780.0,2025-02-28 05:55:45
+13040,724186,8,44777908,76,2,3300,55',0,0,Rwan Seco (Botafogo) Substitution at 55',Rwan Seco Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-02-28 05:55:45
+13040,724186,8,44777908,76,2,3300,55',0,0,Rwan Seco (Botafogo) Substitution at 55',Rwan Seco Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,235893.0,2025-02-28 05:55:45
+13040,724186,7,44777907,76,2,3300,55',0,0,Jeffinho (Botafogo) Substitution at 55',Jeffinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,236596.0,2025-02-28 05:55:45
+13040,724186,7,44777907,76,2,3300,55',0,0,Jeffinho (Botafogo) Substitution at 55',Jeffinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,236342.0,2025-02-28 05:55:45
+13040,724186,7,44777907,76,2,3300,55',0,0,Jeffinho (Botafogo) Substitution at 55',Jeffinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,224593.0,2025-02-28 05:55:45
+13040,724186,7,44777907,76,2,3300,55',0,0,Jeffinho (Botafogo) Substitution at 55',Jeffinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,196882.0,2025-02-28 05:55:45
+13040,724186,9,44777923,76,2,3420,57',0,0,Germán Conti (Racing Club) Substitution at 57',Germán Conti Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,1,185458.0,2025-02-28 05:55:45
+13040,724186,9,44777923,76,2,3420,57',0,0,Germán Conti (Racing Club) Substitution at 57',Germán Conti Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,2,301950.0,2025-02-28 05:55:45
+13040,724186,10,44777944,94,2,3960,66',0,0,Alexander Barboza (Botafogo) Yellow Card at 66',Alexander Barboza Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,222631.0,2025-02-28 05:55:45
+13040,724186,11,44777945,94,2,4020,67',0,0,Juan Nardoni (Racing Club) Yellow Card at 67',Juan Nardoni Yellow Card,15,0.0,0.0,0.0,0.0,0.0,0.0,1,290594.0,2025-02-28 05:55:45
+13040,724186,12,44777949,70,2,4140,69',1,0,Bruno Zuculini (Racing Club) Goal at 69',Bruno Zuculini Goal,15,0.0,0.0,0.0,0.0,0.0,0.0,1,144267.0,2025-02-28 05:55:45
+13040,724186,13,44777953,76,2,4200,70',0,0,Kayke (Botafogo) Substitution at 70',Kayke Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,381279.0,2025-02-28 05:55:45
+13040,724186,13,44777953,76,2,4200,70',0,0,Kayke (Botafogo) Substitution at 70',Kayke Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,198195.0,2025-02-28 05:55:45
+13040,724186,13,44777953,76,2,4200,70',0,0,Kayke (Botafogo) Substitution at 70',Kayke Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,358780.0,2025-02-28 05:55:45
+13040,724186,13,44777953,76,2,4200,70',0,0,Kayke (Botafogo) Substitution at 70',Kayke Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,314841.0,2025-02-28 05:55:45
+13040,724186,14,44778014,94,2,4260,71',0,0,Gabriel Arias (Racing Club) Yellow Card at 71',Gabriel Arias Yellow Card,15,0.0,0.0,0.0,0.0,0.0,0.0,1,124520.0,2025-02-28 05:55:45
+13040,724186,14,44777979,76,2,4680,78',0,0,Agustín Almendra (Racing Club) Substitution at 78',Agustín Almendra Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,1,269799.0,2025-03-01 05:51:44
+13040,724186,14,44777979,76,2,4680,78',0,0,Agustín Almendra (Racing Club) Substitution at 78',Agustín Almendra Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,2,144267.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,359977.0,2025-03-01 05:51:44
+13040,724186,16,44777989,76,2,4800,80',0,0,Newton (Botafogo) Substitution at 80',Newton Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,357362.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,400350.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,382962.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,380102.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,379562.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,357174.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,352257.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,341345.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,334369.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,325901.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,320823.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,319721.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,317869.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,307677.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,304362.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,287903.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,285065.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,282181.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,268700.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,266673.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,236453.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,215801.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,203104.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,193923.0,2025-03-01 05:51:44
+13040,724186,15,44777988,76,2,4800,80',0,0,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,171652.0,2025-03-01 05:51:44
+13040,724186,16,44777989,76,2,4800,80',0,0,Newton (Botafogo) Substitution at 80',Newton Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,177219.0,2025-03-01 05:51:44
+13040,724186,17,44778008,76,2,5100,85',0,0,Facundo Mura (Racing Club) Substitution at 85',Facundo Mura Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,1,285473.0,2025-03-01 05:51:44
+13040,724186,17,44778008,76,2,5100,85',0,0,Facundo Mura (Racing Club) Substitution at 85',Facundo Mura Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,2,302209.0,2025-03-01 05:51:44
+13040,724186,18,44778009,76,2,5160,86',0,0,Santiago Solari (Racing Club) Substitution at 86',Santiago Solari Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,1,315926.0,2025-03-01 05:51:44
+13040,724186,18,44778009,76,2,5160,86',0,0,Santiago Solari (Racing Club) Substitution at 86',Santiago Solari Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,2,67511.0,2025-03-01 05:51:44
+13040,724186,18,44778009,76,2,5160,86',0,0,Santiago Solari (Racing Club) Substitution at 86',Santiago Solari Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,2,3038.0,2025-03-01 05:51:44
+13040,724186,18,44778009,76,2,5160,86',0,0,Santiago Solari (Racing Club) Substitution at 86',Santiago Solari Substitution,15,0.0,0.0,0.0,0.0,0.0,0.0,2,300649.0,2025-03-01 05:51:44

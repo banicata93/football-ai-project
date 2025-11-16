@@ -1,0 +1,167 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13003,723673,1,44735809,70,1,360,6',1,0,Mina Tanaka (Japan) Goal at 6',Mina Tanaka Goal,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,223464.0,2025-02-21 05:56:58
+13003,723673,2,44736011,70,1,1920,32',1,0,Mina Tanaka (Japan) Goal at 32',Mina Tanaka Goal,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,223464.0,2025-02-21 05:56:58
+13003,723673,3,44736236,70,2,3120,52',1,0,Maika Hamano (Japan) Goal at 52',Maika Hamano Goal,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,351356.0,2025-02-21 05:56:58
+13003,723673,4,44736294,76,2,3600,60',0,0,Riko Ueki (Japan) Substitution at 60',Riko Ueki Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,287317.0,2025-02-21 05:56:58
+13003,723673,5,44736295,76,2,3600,60',0,0,Hinata Miyazawa (Japan) Substitution at 60',Hinata Miyazawa Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,283107.0,2025-02-21 05:56:58
+13003,723673,5,44736295,76,2,3600,60',0,0,Hinata Miyazawa (Japan) Substitution at 60',Hinata Miyazawa Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,282995.0,2025-02-21 05:56:58
+13003,723673,4,44736294,76,2,3600,60',0,0,Riko Ueki (Japan) Substitution at 60',Riko Ueki Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,351355.0,2025-02-21 05:56:58
+13003,723673,8,44736309,76,2,3840,64',0,0,Holly Mcnamara (Australia) Substitution at 64',Holly Mcnamara Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,330658.0,2025-02-21 05:56:58
+13003,723673,7,44736308,76,2,3840,64',0,0,Winonah Heatley (Australia) Substitution at 64',Winonah Heatley Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,300749.0,2025-02-21 05:56:58
+13003,723673,6,44736307,76,2,3840,64',0,0,Charlotte Grant (Australia) Substitution at 64',Charlotte Grant Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,300442.0,2025-02-21 05:56:58
+13003,723673,9,44736310,76,2,3840,64',0,0,Daniela Galic (Australia) Substitution at 64',Daniela Galic Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,353052.0,2025-02-21 05:56:58
+13003,723673,7,44736308,76,2,3840,64',0,0,Winonah Heatley (Australia) Substitution at 64',Winonah Heatley Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,219819.0,2025-02-21 05:56:58
+13003,723673,9,44736310,76,2,3840,64',0,0,Daniela Galic (Australia) Substitution at 64',Daniela Galic Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,276165.0,2025-02-21 05:56:58
+13003,723673,8,44736309,76,2,3840,64',0,0,Holly Mcnamara (Australia) Substitution at 64',Holly Mcnamara Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,158678.0,2025-02-21 05:56:58
+13003,723673,6,44736307,76,2,3840,64',0,0,Charlotte Grant (Australia) Substitution at 64',Charlotte Grant Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,219822.0,2025-02-21 05:56:58
+13003,723673,10,44736340,76,2,4260,71',0,0,Manaka Matsukubo (Japan) Substitution at 71',Manaka Matsukubo Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,369002.0,2025-02-21 05:56:58
+13003,723673,10,44736340,76,2,4260,71',0,0,Manaka Matsukubo (Japan) Substitution at 71',Manaka Matsukubo Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,351356.0,2025-02-21 05:56:58
+13003,723673,11,44736359,76,2,4440,74',0,0,Emily van Egmond (Australia) Substitution at 74',Emily van Egmond Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,158693.0,2025-02-21 05:56:58
+13003,723673,11,44736359,76,2,4440,74',0,0,Emily van Egmond (Australia) Substitution at 74',Emily van Egmond Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,219825.0,2025-02-21 05:56:58
+13003,723673,12,44736363,70,2,4500,75',1,0,Moeka Minami (Japan) Goal at 75',Moeka Minami Goal,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,283106.0,2025-02-21 05:56:58
+13003,723673,15,44736441,76,2,5100,85',0,0,Yuka Momiki (Japan) Substitution at 85',Yuka Momiki Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,256223.0,2025-02-21 05:56:58
+13003,723673,14,44736440,76,2,5100,85',0,0,Natasha Prior (Australia) Substitution at 85',Natasha Prior Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,316787.0,2025-02-21 05:56:58
+13003,723673,13,44736439,76,2,5100,85',0,0,Miyabi Moriya (Japan) Substitution at 85',Miyabi Moriya Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,359225.0,2025-02-21 05:56:58
+13003,723673,14,44736440,76,2,5100,85',0,0,Natasha Prior (Australia) Substitution at 85',Natasha Prior Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,288907.0,2025-02-21 05:56:58
+13003,723673,15,44736441,76,2,5100,85',0,0,Yuka Momiki (Japan) Substitution at 85',Yuka Momiki Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,223464.0,2025-02-21 05:56:58
+13003,723673,13,44736439,76,2,5100,85',0,0,Miyabi Moriya (Japan) Substitution at 85',Miyabi Moriya Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,296776.0,2025-02-21 05:56:58
+13003,723674,1,44737002,70,1,1980,33',1,0,Catarina Macario (United States) Goal at 33',Catarina Macario Goal,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,261568.0,2025-02-21 05:56:58
+13003,723674,2,44737075,76,1,2580,43',0,0,Ángela Barón (Colombia) Substitution at 43',Ángela Barón Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,336427.0,2025-02-21 05:56:58
+13003,723674,2,44737075,76,1,2580,43',0,0,Ángela Barón (Colombia) Substitution at 43',Ángela Barón Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,325886.0,2025-02-21 05:56:58
+13003,723674,2,44737075,76,1,2580,43',0,0,Ángela Barón (Colombia) Substitution at 43',Ángela Barón Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,312831.0,2025-02-21 05:56:58
+13003,723674,3,44737270,94,2,3480,58',0,0,Daniela Arias (Colombia) Yellow Card at 58',Daniela Arias Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298692.0,2025-02-21 05:56:58
+13003,723674,4,44737273,70,2,3600,60',1,0,Ally Sentnor (United States) Goal at 60',Ally Sentnor Goal,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,327195.0,2025-02-21 05:56:58
+13003,723674,5,44737292,76,2,3840,64',0,0,Michelle Cooper (United States) Substitution at 64',Michelle Cooper Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,325236.0,2025-02-21 05:56:58
+13003,723674,6,44737293,76,2,3840,64',0,0,Lynn Biyendolo (United States) Substitution at 64',Lynn Biyendolo Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,211968.0,2025-02-21 05:56:58
+13003,723674,6,44737293,76,2,3840,64',0,0,Lynn Biyendolo (United States) Substitution at 64',Lynn Biyendolo Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,261568.0,2025-02-21 05:56:58
+13003,723674,5,44737292,76,2,3840,64',0,0,Michelle Cooper (United States) Substitution at 64',Michelle Cooper Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,263902.0,2025-02-21 05:56:58
+13003,723674,8,44737307,76,2,4020,67',0,0,Maria Camila Reyes (Colombia) Substitution at 67',Maria Camila Reyes Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298774.0,2025-02-21 05:56:58
+13003,723674,7,44737306,76,2,4020,67',0,0,Karla Torres (Colombia) Substitution at 67',Karla Torres Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,395075.0,2025-02-21 05:56:58
+13003,723674,7,44737306,76,2,4020,67',0,0,Karla Torres (Colombia) Substitution at 67',Karla Torres Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298775.0,2025-02-21 05:56:58
+13003,723674,8,44737307,76,2,4020,67',0,0,Maria Camila Reyes (Colombia) Substitution at 67',Maria Camila Reyes Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,288683.0,2025-02-21 05:56:58
+13003,723674,9,44737308,76,2,4080,68',0,0,Ana Guzman (Colombia) Substitution at 68',Ana Guzman Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,328489.0,2025-02-21 05:56:58
+13003,723674,9,44737308,76,2,4080,68',0,0,Ana Guzman (Colombia) Substitution at 68',Ana Guzman Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,386858.0,2025-02-21 05:56:58
+13003,723674,11,44737328,76,2,4560,76',0,0,Jaedyn Shaw (United States) Substitution at 76',Jaedyn Shaw Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,346600.0,2025-02-21 05:56:58
+13003,723674,10,44737327,76,2,4560,76',0,0,Gisele Thompson (United States) Substitution at 76',Gisele Thompson Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,344350.0,2025-02-21 05:56:58
+13003,723674,10,44737327,76,2,4560,76',0,0,Gisele Thompson (United States) Substitution at 76',Gisele Thompson Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,292633.0,2025-02-21 05:56:58
+13003,723674,11,44737328,76,2,4560,76',0,0,Jaedyn Shaw (United States) Substitution at 76',Jaedyn Shaw Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,327195.0,2025-02-21 05:56:58
+13003,723674,12,44737329,76,2,4620,77',0,0,Korbin Albert (United States) Substitution at 77',Korbin Albert Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-02-21 05:56:58
+13003,723674,12,44737329,76,2,4620,77',0,0,Korbin Albert (United States) Substitution at 77',Korbin Albert Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,335326.0,2025-02-21 05:56:58
+13003,723674,12,44737329,76,2,4620,77',0,0,Korbin Albert (United States) Substitution at 77',Korbin Albert Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,262815.0,2025-02-21 05:56:58
+13003,723674,13,44737342,76,2,4860,81',0,0,Ivonne Chacón (Colombia) Substitution at 81',Ivonne Chacón Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,349415.0,2025-02-21 05:56:58
+13003,723674,13,44737342,76,2,4860,81',0,0,Ivonne Chacón (Colombia) Substitution at 81',Ivonne Chacón Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,219866.0,2025-02-21 05:56:58
+13003,723674,14,44737343,76,2,4920,82',0,0,Sara Martínez (Colombia) Substitution at 82',Sara Martínez Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298779.0,2025-02-21 05:56:58
+13003,723674,14,44737343,76,2,4920,82',0,0,Sara Martínez (Colombia) Substitution at 82',Sara Martínez Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,158882.0,2025-02-21 05:56:58
+13003,723674,15,44737362,94,2,5280,88',0,0,Ivonne Chacón (Colombia) Yellow Card at 88',Ivonne Chacón Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,349415.0,2025-02-21 05:56:58
+13003,723674,16,44737364,94,2,5400,90'+1',0,0,Maria Camila Reyes (Colombia) Yellow Card at 91',Maria Camila Reyes Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298774.0,2025-02-21 05:56:58
+13003,723675,1,44760313,70,1,60,1',1,0,Momoko Tanikawa (Japan) Goal at 1',Momoko Tanikawa Goal,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,351710.0,2025-02-24 05:54:37
+13003,723675,2,44760363,70,1,480,8',1,0,Mina Tanaka (Japan) Goal at 8',Mina Tanaka Goal,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,223464.0,2025-02-24 05:54:37
+13003,723675,8,44760790,76,2,2700,45',0,0,Sara Martínez (Colombia) Substitution at 45',Sara Martínez Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298779.0,2025-02-24 05:54:37
+13003,723675,9,44760791,76,2,2700,45',0,0,Fuka Nagano (Japan) Substitution at 45',Fuka Nagano Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,282995.0,2025-02-24 05:54:37
+13003,723675,7,44760789,76,2,2700,45',0,0,Maika Hamano (Japan) Substitution at 45',Maika Hamano Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,351356.0,2025-02-24 05:54:37
+13003,723675,5,44760787,76,2,2700,45',0,0,Mayra Ramírez (Colombia) Substitution at 45',Mayra Ramírez Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,288680.0,2025-02-24 05:54:37
+13003,723675,6,44760788,76,2,2700,45',0,0,Marcela Restrepo (Colombia) Substitution at 45',Marcela Restrepo Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,288683.0,2025-02-24 05:54:37
+13003,723675,3,44760606,70,1,2700,45'+4',1,0,Linda Caicedo (Colombia) Goal at 49',Linda Caicedo Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298768.0,2025-02-24 05:54:37
+13003,723675,4,44760786,76,2,2700,45',0,0,Daniela Caracas (Colombia) Substitution at 45',Daniela Caracas Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,288682.0,2025-02-24 05:54:37
+13003,723675,5,44760787,76,2,2700,45',0,0,Mayra Ramírez (Colombia) Substitution at 45',Mayra Ramírez Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298775.0,2025-02-24 05:54:37
+13003,723675,6,44760788,76,2,2700,45',0,0,Marcela Restrepo (Colombia) Substitution at 45',Marcela Restrepo Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,158872.0,2025-02-24 05:54:37
+13003,723675,8,44760790,76,2,2700,45',0,0,Sara Martínez (Colombia) Substitution at 45',Sara Martínez Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298774.0,2025-02-24 05:54:37
+13003,723675,7,44760789,76,2,2700,45',0,0,Maika Hamano (Japan) Substitution at 45',Maika Hamano Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,287317.0,2025-02-24 05:54:37
+13003,723675,4,44760786,76,2,2700,45',0,0,Daniela Caracas (Colombia) Substitution at 45',Daniela Caracas Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,386858.0,2025-02-24 05:54:37
+13003,723675,9,44760791,76,2,2700,45',0,0,Fuka Nagano (Japan) Substitution at 45',Fuka Nagano Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,276099.0,2025-02-24 05:54:37
+13003,723675,10,44760883,70,2,3420,57',1,0,Maika Hamano (Japan) Goal at 57',Maika Hamano Goal,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,351356.0,2025-02-24 05:54:37
+13003,723675,11,44760942,76,2,3960,66',0,0,Catalina Usme (Colombia) Substitution at 66',Catalina Usme Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,158882.0,2025-02-24 05:54:37
+13003,723675,11,44760942,76,2,3960,66',0,0,Catalina Usme (Colombia) Substitution at 66',Catalina Usme Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,288683.0,2025-02-24 05:54:37
+13003,723675,12,44760949,76,2,4140,69',0,0,Honoka Hayashi (Japan) Substitution at 69',Honoka Hayashi Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,303336.0,2025-02-24 05:54:37
+13003,723675,12,44760949,76,2,4140,69',0,0,Honoka Hayashi (Japan) Substitution at 69',Honoka Hayashi Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,351710.0,2025-02-24 05:54:37
+13003,723675,13,44760973,76,2,4380,73',0,0,Wendy Bonilla (Colombia) Substitution at 73',Wendy Bonilla Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298770.0,2025-02-24 05:54:37
+13003,723675,13,44760973,76,2,4380,73',0,0,Wendy Bonilla (Colombia) Substitution at 73',Wendy Bonilla Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,336427.0,2025-02-24 05:54:37
+13003,723675,14,44761008,94,2,4680,78',0,0,Luisa Agudelo (Colombia) Yellow Card at 78',Luisa Agudelo Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,352082.0,2025-02-24 05:54:37
+13003,723675,15,44761010,98,2,4800,80',1,0,Mina Tanaka (Japan) Penalty - Scored at 80',Mina Tanaka Penalty - Scored,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,223464.0,2025-02-24 05:54:37
+13003,723675,16,44761047,76,2,4980,83',0,0,Remina Chiba (Japan) Substitution at 83',Remina Chiba Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,343589.0,2025-02-24 05:54:37
+13003,723675,16,44761047,76,2,4980,83',0,0,Remina Chiba (Japan) Substitution at 83',Remina Chiba Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,223464.0,2025-02-24 05:54:37
+13003,723675,17,44761086,76,2,5280,88',0,0,Saori Takarada (Japan) Substitution at 88',Saori Takarada Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,288888.0,2025-02-24 05:54:37
+13003,723675,18,44761087,76,2,5280,88',0,0,Manaka Matsukubo (Japan) Substitution at 88',Manaka Matsukubo Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,369002.0,2025-02-24 05:54:37
+13003,723675,17,44761086,76,2,5280,88',0,0,Saori Takarada (Japan) Substitution at 88',Saori Takarada Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,296776.0,2025-02-24 05:54:37
+13003,723675,18,44761087,76,2,5280,88',0,0,Manaka Matsukubo (Japan) Substitution at 88',Manaka Matsukubo Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,351355.0,2025-02-24 05:54:37
+13003,723676,1,44762402,70,1,60,1',1,0,Lynn Biyendolo (United States) Goal at 1',Lynn Biyendolo Goal,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,211968.0,2025-02-24 05:54:37
+13003,723676,4,44764018,76,2,3720,62',0,0,Michelle Cooper (United States) Substitution at 62',Michelle Cooper Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,325236.0,2025-02-24 05:54:37
+13003,723676,2,44764016,76,2,3720,62',0,0,Ally Sentnor (United States) Substitution at 62',Ally Sentnor Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,327195.0,2025-02-24 05:54:37
+13003,723676,5,44764019,76,2,3720,62',0,0,Tara McKeown (United States) Substitution at 62',Tara McKeown Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,263690.0,2025-02-24 05:54:37
+13003,723676,3,44764017,76,2,3720,62',0,0,Yazmeen Ryan (United States) Substitution at 62',Yazmeen Ryan Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,263902.0,2025-02-24 05:54:37
+13003,723676,5,44764019,76,2,3720,62',0,0,Tara McKeown (United States) Substitution at 62',Tara McKeown Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,211968.0,2025-02-24 05:54:37
+13003,723676,4,44764018,76,2,3720,62',0,0,Michelle Cooper (United States) Substitution at 62',Michelle Cooper Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,351658.0,2025-02-24 05:54:37
+13003,723676,3,44764017,76,2,3720,62',0,0,Yazmeen Ryan (United States) Substitution at 62',Yazmeen Ryan Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,293305.0,2025-02-24 05:54:37
+13003,723676,2,44764016,76,2,3720,62',0,0,Ally Sentnor (United States) Substitution at 62',Ally Sentnor Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,227388.0,2025-02-24 05:54:37
+13003,723676,6,44764054,76,2,3840,64',0,0,Michelle Heyman (Australia) Substitution at 64',Michelle Heyman Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,158675.0,2025-02-24 05:54:37
+13003,723676,7,44764055,76,2,3840,64',0,0,Alana Murphy (Australia) Substitution at 64',Alana Murphy Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,331957.0,2025-02-24 05:54:37
+13003,723676,6,44764054,76,2,3840,64',0,0,Michelle Heyman (Australia) Substitution at 64',Michelle Heyman Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,330658.0,2025-02-24 05:54:37
+13003,723676,7,44764055,76,2,3840,64',0,0,Alana Murphy (Australia) Substitution at 64',Alana Murphy Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,276165.0,2025-02-24 05:54:37
+13003,723676,8,44764096,70,2,4080,68',1,0,Michelle Cooper (United States) Goal at 68',Michelle Cooper Goal,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,325236.0,2025-02-24 05:54:37
+13003,723676,9,44764104,76,2,4200,70',0,0,Sam Coffey (United States) Substitution at 70',Sam Coffey Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,335326.0,2025-02-24 05:54:37
+13003,723676,9,44764104,76,2,4200,70',0,0,Sam Coffey (United States) Substitution at 70',Sam Coffey Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,262815.0,2025-02-24 05:54:37
+13003,723676,9,44764104,76,2,4200,70',0,0,Sam Coffey (United States) Substitution at 70',Sam Coffey Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,344404.0,2025-02-24 05:54:37
+13003,723676,10,44764121,94,2,4380,73',0,0,Charlotte Grant (Australia) Yellow Card at 73',Charlotte Grant Yellow Card,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,300442.0,2025-02-24 05:54:37
+13003,723676,12,44764137,76,2,4440,74',0,0,Kaitlyn Torpey (Australia) Substitution at 74',Kaitlyn Torpey Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,300585.0,2025-02-24 05:54:37
+13003,723676,11,44764136,76,2,4440,74',0,0,Emily van Egmond (Australia) Substitution at 74',Emily van Egmond Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,158693.0,2025-02-24 05:54:37
+13003,723676,12,44764137,76,2,4440,74',0,0,Kaitlyn Torpey (Australia) Substitution at 74',Kaitlyn Torpey Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,158678.0,2025-02-24 05:54:37
+13003,723676,11,44764136,76,2,4440,74',0,0,Emily van Egmond (Australia) Substitution at 74',Emily van Egmond Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,219822.0,2025-02-24 05:54:37
+13003,723676,13,44764150,76,2,4620,77',0,0,Emily Fox (United States) Substitution at 77',Emily Fox Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,263684.0,2025-02-24 05:54:37
+13003,723676,13,44764150,76,2,4620,77',0,0,Emily Fox (United States) Substitution at 77',Emily Fox Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,344350.0,2025-02-24 05:54:37
+13003,723676,15,44764181,76,2,4800,80',0,0,Natasha Prior (Australia) Substitution at 80',Natasha Prior Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,316787.0,2025-02-25 05:53:41
+13003,723676,14,44764167,70,2,4800,80',1,0,Michelle Heyman (Australia) Goal at 80',Michelle Heyman Goal,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,158675.0,2025-02-24 05:54:37
+13003,723676,15,44764181,76,2,4800,80',0,0,Natasha Prior (Australia) Substitution at 80',Natasha Prior Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,219819.0,2025-02-25 05:53:41
+13003,723676,16,44764180,76,2,4860,81',0,0,Laini Freier (Australia) Substitution at 81',Laini Freier Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,393497.0,2025-02-25 05:53:41
+13003,723676,16,44764180,76,2,4860,81',0,0,Laini Freier (Australia) Substitution at 81',Laini Freier Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,288907.0,2025-02-25 05:53:41
+13003,723677,1,44775231,70,1,900,15',1,0,Wendy Bonilla (Colombia) Goal at 15',Wendy Bonilla Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298770.0,2025-02-28 05:55:45
+13003,723677,2,44775403,94,1,2280,38',0,0,Hayley Raso (Australia) Yellow Card at 38',Hayley Raso Yellow Card,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,219818.0,2025-02-28 05:55:45
+13003,723677,5,44775573,76,2,2700,45',0,0,Natasha Prior (Australia) Substitution at 45',Natasha Prior Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,316787.0,2025-02-28 05:55:45
+13003,723677,3,44775445,76,1,2700,45',0,0,Kaitlyn Torpey (Australia) Substitution at 45',Kaitlyn Torpey Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,300585.0,2025-02-28 05:55:45
+13003,723677,4,44775542,76,2,2700,45',0,0,Caitlin Foord (Australia) Substitution at 45',Caitlin Foord Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,158678.0,2025-02-28 05:55:45
+13003,723677,3,44775445,76,1,2700,45',0,0,Kaitlyn Torpey (Australia) Substitution at 45',Kaitlyn Torpey Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,236710.0,2025-02-28 05:55:45
+13003,723677,4,44775542,76,2,2700,45',0,0,Caitlin Foord (Australia) Substitution at 45',Caitlin Foord Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,158675.0,2025-02-28 05:55:45
+13003,723677,5,44775573,76,2,2700,45',0,0,Natasha Prior (Australia) Substitution at 45',Natasha Prior Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,219822.0,2025-02-28 05:55:45
+13003,723677,6,44775707,76,2,3840,64',0,0,Manuela Paví (Colombia) Substitution at 64',Manuela Paví Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298775.0,2025-02-28 05:55:45
+13003,723677,6,44775707,76,2,3840,64',0,0,Manuela Paví (Colombia) Substitution at 64',Manuela Paví Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298770.0,2025-02-28 05:55:45
+13003,723677,7,44775717,94,2,3900,65',0,0,Clare Hunt (Australia) Yellow Card at 65',Clare Hunt Yellow Card,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,312233.0,2025-02-28 05:55:45
+13003,723677,8,44775722,76,2,3960,66',0,0,Mary Fowler (Australia) Substitution at 66',Mary Fowler Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,276165.0,2025-02-28 05:55:45
+13003,723677,8,44775722,76,2,3960,66',0,0,Mary Fowler (Australia) Substitution at 66',Mary Fowler Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,158688.0,2025-02-28 05:55:45
+13003,723677,9,44775731,70,2,4140,69',1,0,Hayley Raso (Australia) Goal at 69',Hayley Raso Goal,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,219818.0,2025-02-28 05:55:45
+13003,723677,10,44775754,70,2,4380,73',1,0,Catalina Usme (Colombia) Goal at 73',Catalina Usme Goal,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,158882.0,2025-02-28 05:55:45
+13003,723677,11,44775792,76,2,4800,80',0,0,Maria Camila Reyes (Colombia) Substitution at 80',Maria Camila Reyes Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,298774.0,2025-02-28 05:55:45
+13003,723677,11,44775792,76,2,4800,80',0,0,Maria Camila Reyes (Colombia) Substitution at 80',Maria Camila Reyes Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,298779.0,2025-02-28 05:55:45
+13003,723677,12,44775810,94,2,4920,82',0,0,Katrina Gorry (Australia) Yellow Card at 82',Katrina Gorry Yellow Card,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,219825.0,2025-02-28 05:55:45
+13003,723677,13,44775811,76,2,4920,82',0,0,Alana Murphy (Australia) Substitution at 82',Alana Murphy Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1,331957.0,2025-02-28 05:55:45
+13003,723677,13,44775811,76,2,4920,82',0,0,Alana Murphy (Australia) Substitution at 82',Alana Murphy Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2,288907.0,2025-02-28 05:55:45
+13003,723677,15,44775888,76,2,5400,90'+2',0,0,Daniela Montoya (Colombia) Substitution at 92',Daniela Montoya Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,158872.0,2025-02-28 05:55:45
+13003,723677,14,44775887,76,2,5400,90'+2',0,0,Ivonne Chacón (Colombia) Substitution at 92',Ivonne Chacón Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,349415.0,2025-02-28 05:55:45
+13003,723677,16,44775908,94,2,5400,90'+8',0,0,Ivonne Chacón (Colombia) Yellow Card at 98',Ivonne Chacón Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1,349415.0,2025-02-28 05:55:45
+13003,723677,15,44775888,76,2,5400,90'+2',0,0,Daniela Montoya (Colombia) Substitution at 92',Daniela Montoya Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,219866.0,2025-02-28 05:55:45
+13003,723677,14,44775887,76,2,5400,90'+2',0,0,Ivonne Chacón (Colombia) Substitution at 92',Ivonne Chacón Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2,288680.0,2025-02-28 05:55:45
+13003,723678,1,44776238,70,1,120,2',1,0,Yuka Momiki (Japan) Goal at 2',Yuka Momiki Goal,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,256223.0,2025-02-28 05:55:45
+13003,723678,2,44776302,70,1,840,14',1,0,Ally Sentnor (United States) Goal at 14',Ally Sentnor Goal,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,327195.0,2025-02-28 05:55:45
+13003,723678,4,44776529,76,2,2700,45',0,0,Toko Koga (Japan) Substitution at 45',Toko Koga Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,351715.0,2025-02-28 05:55:45
+13003,723678,3,44776528,76,2,2700,45',0,0,Jenna Nighswonger (United States) Substitution at 45',Jenna Nighswonger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,292633.0,2025-02-28 05:55:45
+13003,723678,6,44776531,76,2,2700,45',0,0,Hinata Miyazawa (Japan) Substitution at 45',Hinata Miyazawa Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,283107.0,2025-02-28 05:55:45
+13003,723678,5,44776530,76,2,2700,45',0,0,Jaedyn Shaw (United States) Substitution at 45',Jaedyn Shaw Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,346600.0,2025-02-28 05:55:45
+13003,723678,6,44776531,76,2,2700,45',0,0,Hinata Miyazawa (Japan) Substitution at 45',Hinata Miyazawa Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,282995.0,2025-02-28 05:55:45
+13003,723678,5,44776530,76,2,2700,45',0,0,Jaedyn Shaw (United States) Substitution at 45',Jaedyn Shaw Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,327195.0,2025-02-28 05:55:45
+13003,723678,3,44776528,76,2,2700,45',0,0,Jenna Nighswonger (United States) Substitution at 45',Jenna Nighswonger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,227388.0,2025-02-28 05:55:45
+13003,723678,4,44776529,76,2,2700,45',0,0,Toko Koga (Japan) Substitution at 45',Toko Koga Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,259860.0,2025-02-28 05:55:45
+13003,723678,7,44776551,70,2,3000,50',1,0,Toko Koga (Japan) Goal at 50',Toko Koga Goal,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,351715.0,2025-02-28 05:55:45
+13003,723678,8,44776619,76,2,3420,57',0,0,Remina Chiba (Japan) Substitution at 57',Remina Chiba Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,343589.0,2025-02-28 05:55:45
+13003,723678,8,44776619,76,2,3420,57',0,0,Remina Chiba (Japan) Substitution at 57',Remina Chiba Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,351355.0,2025-02-28 05:55:45
+13003,723678,12,44776623,76,2,3480,58',0,0,Lynn Biyendolo (United States) Substitution at 58',Lynn Biyendolo Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,211968.0,2025-02-28 05:55:45
+13003,723678,10,44776621,76,2,3480,58',0,0,Alyssa Thompson (United States) Substitution at 58',Alyssa Thompson Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,351658.0,2025-02-28 05:55:45
+13003,723678,11,44776622,76,2,3480,58',0,0,Korbin Albert (United States) Substitution at 58',Korbin Albert Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-02-28 05:55:45
+13003,723678,9,44776620,76,2,3480,58',0,0,Manaka Matsukubo (Japan) Substitution at 58',Manaka Matsukubo Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,369002.0,2025-02-28 05:55:45
+13003,723678,9,44776620,76,2,3480,58',0,0,Manaka Matsukubo (Japan) Substitution at 58',Manaka Matsukubo Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,256223.0,2025-02-28 05:55:45
+13003,723678,11,44776622,76,2,3480,58',0,0,Korbin Albert (United States) Substitution at 58',Korbin Albert Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,369801.0,2025-02-28 05:55:45
+13003,723678,12,44776623,76,2,3480,58',0,0,Lynn Biyendolo (United States) Substitution at 58',Lynn Biyendolo Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,261568.0,2025-02-28 05:55:45
+13003,723678,10,44776621,76,2,3480,58',0,0,Alyssa Thompson (United States) Substitution at 58',Alyssa Thompson Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,263902.0,2025-02-28 05:55:45
+13003,723678,13,44776665,76,2,4080,68',0,0,Tierna Davidson (United States) Substitution at 68',Tierna Davidson Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1,243052.0,2025-02-28 05:55:45
+13003,723678,13,44776665,76,2,4080,68',0,0,Tierna Davidson (United States) Substitution at 68',Tierna Davidson Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2,263690.0,2025-02-28 05:55:45
+13003,723678,14,44776685,76,2,4500,75',0,0,Hana Takahashi (Japan) Substitution at 75',Hana Takahashi Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,296776.0,2025-02-28 05:55:45
+13003,723678,14,44776685,76,2,4500,75',0,0,Hana Takahashi (Japan) Substitution at 75',Hana Takahashi Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,351356.0,2025-02-28 05:55:45
+13003,723678,15,44776704,76,2,5040,84',0,0,Honoka Hayashi (Japan) Substitution at 84',Honoka Hayashi Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1,303336.0,2025-02-28 05:55:45
+13003,723678,15,44776704,76,2,5040,84',0,0,Honoka Hayashi (Japan) Substitution at 84',Honoka Hayashi Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2,359225.0,2025-02-28 05:55:45

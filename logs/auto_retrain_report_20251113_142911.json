@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-11-13T14:29:11.956460",
+  "trigger_source": "test_run",
+  "duration_seconds": 122.855335,
+  "total_scripts": 6,
+  "successful_scripts": 6,
+  "failed_scripts": 0,
+  "success_rate": 1.0,
+  "script_results": [
+    {
+      "script": "generate_features.py",
+      "success": true,
+      "output_preview": "                     date  home_team_id  away_team_id  home_elo_before  away_elo_before   elo_diff  elo_diff_normalized  home_form_5  away_form_5  form_diff_5  home_goals_scored_avg_5  home_goals_conc"
+    },
+    {
+      "script": "train_poisson.py",
+      "success": true,
+      "output_preview": ""
+    },
+    {
+      "script": "train_ml_models.py",
+      "success": true,
+      "output_preview": ""
+    },
+    {
+      "script": "train_btts_improved.py",
+      "success": true,
+      "output_preview": ""
+    },
+    {
+      "script": "train_ensemble.py",
+      "success": true,
+      "output_preview": ""
+    },
+    {
+      "script": "service_reload",
+      "success": true,
+      "output_preview": "Hot reload of prediction services"
+    }
+  ],
+  "status": "success"
+}

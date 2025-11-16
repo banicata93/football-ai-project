@@ -1,35 +1,35 @@
 {
   "train": {
-    "accuracy_1x2": 0.54739336492891,
-    "accuracy_over25": 0.6628300609343263,
-    "accuracy_btts": 0.6164522681110359,
-    "log_loss_1x2": 0.9892517106577711,
-    "log_loss_over25": 0.6138678635000937,
-    "log_loss_btts": 0.6430468677089674,
-    "mean_lambda_home": Infinity,
-    "mean_lambda_away": Infinity,
-    "mean_expected_goals": Infinity
+    "accuracy_1x2": 0.5443466486120515,
+    "accuracy_over25": 0.6325321597833446,
+    "accuracy_btts": 0.6020649966147597,
+    "log_loss_1x2": 0.9546293326764765,
+    "log_loss_over25": 0.6371369167266683,
+    "log_loss_btts": 0.65952256788681,
+    "mean_lambda_home": 1.7952216596029726,
+    "mean_lambda_away": 1.2641335550637862,
+    "mean_expected_goals": 3.0593552146667586
   },
   "validation": {
-    "accuracy_1x2": 0.45447599643448366,
-    "accuracy_over25": 0.5279511014898765,
-    "accuracy_btts": 0.5285878008404431,
-    "log_loss_1x2": 1.1813782607290242,
-    "log_loss_over25": 0.731571808245681,
-    "log_loss_btts": 0.7952891301812677,
-    "mean_lambda_home": Infinity,
-    "mean_lambda_away": Infinity,
-    "mean_expected_goals": Infinity
+    "accuracy_1x2": 0.4580415127976569,
+    "accuracy_over25": 0.5222208073347765,
+    "accuracy_btts": 0.5246402648669298,
+    "log_loss_1x2": 1.0696454380115712,
+    "log_loss_over25": 0.7069385675885816,
+    "log_loss_btts": 0.7052781142811709,
+    "mean_lambda_home": 1.637825540990267,
+    "mean_lambda_away": 1.2168935150901117,
+    "mean_expected_goals": 2.854719056080379
   },
   "test": {
-    "accuracy_1x2": 0.45214503182950455,
-    "accuracy_over25": 0.5065873235538334,
-    "accuracy_btts": 0.5014669249930805,
-    "log_loss_1x2": 1.2165793048829785,
-    "log_loss_over25": 0.7213361410510508,
-    "log_loss_btts": 0.8559325653275197,
-    "mean_lambda_home": Infinity,
-    "mean_lambda_away": Infinity,
-    "mean_expected_goals": Infinity
+    "accuracy_1x2": 0.45505120398560756,
+    "accuracy_over25": 0.5053971768613341,
+    "accuracy_btts": 0.5018544146138942,
+    "log_loss_1x2": 1.0784265876858117,
+    "log_loss_over25": 0.7087440123507746,
+    "log_loss_btts": 0.7042880269025918,
+    "mean_lambda_home": 1.5993433486275945,
+    "mean_lambda_away": 1.219220662136116,
+    "mean_expected_goals": 2.8185640107637107
   }
 }

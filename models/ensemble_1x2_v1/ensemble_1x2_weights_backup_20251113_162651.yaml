@@ -1,0 +1,37 @@
+ensemble_1x2_weights:
+  version: '1.0'
+  last_updated: '2025-11-13T15:40:00'
+  optimization_method: 'SLSQP'
+  
+  weights:
+    ml: 0.600      # ML 1X2 v2 (three binary models)
+    poisson: 0.300 # Poisson v2 with time-decay
+    elo: 0.100     # Elo rating system
+  
+  performance_metrics:
+    log_loss: 0.9850
+    brier_score: 0.2145
+    accuracy: 0.5420
+    ece: 0.0485
+  
+  data_info:
+    lookback_days: 45
+    min_predictions: 100
+    improvement_threshold: 0.02
+    total_predictions_used: 500
+    
+  optimization_info:
+    method: 'SLSQP'
+    iterations: 25
+    convergence: true
+    function_value: 0.9850
+    
+  notes: |
+    Default ensemble weights for 1X2 predictions.
+    These weights are optimized using historical prediction data
+    to minimize multi-class log loss while improving calibration.
+    
+    Components:
+    - ML: Three binary models (homewin, draw, awaywin) 
+    - Poisson: Enhanced Poisson v2 with time-decay weighting
+    - Elo: Elo rating system (fallback to ML if unavailable)

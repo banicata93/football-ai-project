@@ -1,0 +1,31 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13419,736457,1,45670510,70,1,1080,18',1,0,Harry Kane (Bayern Munich) Goal at 18',Harry Kane Goal,132,0.0,0.0,0.0,0.0,0.0,0.0,1,142200,2025-08-17 04:58:25
+13419,736457,2,45670828,94,1,2100,35',0,0,Dayot Upamecano (Bayern Munich) Yellow Card at 35',Dayot Upamecano Yellow Card,132,0.0,0.0,0.0,0.0,0.0,0.0,1,222793,2025-08-17 04:58:25
+13419,736457,3,45671041,94,1,2640,44',0,0,Maximilian Mittelstädt (VfB Stuttgart) Yellow Card at 44',Maximilian Mittelstädt Yellow Ca,134,0.0,0.0,0.0,0.0,0.0,0.0,1,216225,2025-08-17 04:58:25
+13419,736457,4,45671042,94,1,2700,45',0,0,Michael Olise (Bayern Munich) Yellow Card at 45',Michael Olise Yellow Card,132,0.0,0.0,0.0,0.0,0.0,0.0,1,286831,2025-08-17 04:58:25
+13419,736457,5,45671906,94,2,3420,57',0,0,Harry Kane (Bayern Munich) Yellow Card at 57',Harry Kane Yellow Card,132,0.0,0.0,0.0,0.0,0.0,0.0,1,142200,2025-08-17 04:58:25
+13419,736457,6,45672271,76,2,4260,71',0,0,Ermedin Demirovic (VfB Stuttgart) Substitution at 71',Ermedin Demirovic Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,1,269136,2025-08-17 04:58:25
+13419,736457,7,45672291,76,2,4260,71',0,0,Ramon Hendriks (VfB Stuttgart) Substitution at 71',Ramon Hendriks Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,1,289322,2025-08-17 04:58:25
+13419,736457,6,45672271,76,2,4260,71',0,0,Ermedin Demirovic (VfB Stuttgart) Substitution at 71',Ermedin Demirovic Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,2,268951,2025-08-17 04:58:25
+13419,736457,7,45672291,76,2,4260,71',0,0,Ramon Hendriks (VfB Stuttgart) Substitution at 71',Ramon Hendriks Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,2,258909,2025-08-17 04:58:25
+13419,736457,8,45672292,76,2,4320,72',0,0,Sacha Boey (Bayern Munich) Substitution at 72',Sacha Boey Substitution,132,0.0,0.0,0.0,0.0,0.0,0.0,1,287225,2025-08-17 04:58:25
+13419,736457,8,45672292,76,2,4320,72',0,0,Sacha Boey (Bayern Munich) Substitution at 72',Sacha Boey Substitution,132,0.0,0.0,0.0,0.0,0.0,0.0,2,169189,2025-08-17 04:58:25
+13419,736457,9,45672398,70,2,4620,77',1,0,Luis Díaz (Bayern Munich) Goal at 77',Luis Díaz Goal,132,0.0,0.0,0.0,0.0,0.0,0.0,1,257390,2025-08-17 04:58:25
+13419,736457,9,45672398,70,2,4620,77',1,0,Luis Díaz (Bayern Munich) Goal at 77',Luis Díaz Goal,132,0.0,0.0,0.0,0.0,0.0,0.0,1,286319,2025-08-17 04:58:25
+13419,736457,9,45672398,70,2,4620,77',1,0,Luis Díaz (Bayern Munich) Goal at 77',Luis Díaz Goal,132,0.0,0.0,0.0,0.0,0.0,0.0,1,341790,2025-08-17 04:58:25
+13419,736457,9,45672398,70,2,4620,77',1,0,Luis Díaz (Bayern Munich) Goal at 77',Luis Díaz Goal,132,0.0,0.0,0.0,0.0,0.0,0.0,1,383124,2025-08-17 04:58:25
+13419,736457,10,45672511,76,2,4800,80',0,0,Kim Min-Jae (Bayern Munich) Substitution at 80',Kim Min-Jae Substitution,132,0.0,0.0,0.0,0.0,0.0,0.0,1,157688,2025-08-17 04:58:25
+13419,736457,11,45672512,76,2,4800,80',0,0,Raphaël Guerreiro (Bayern Munich) Substitution at 80',Raphaël Guerreiro Substitution,132,0.0,0.0,0.0,0.0,0.0,0.0,1,176228,2025-08-17 04:58:25
+13419,736457,11,45672512,76,2,4800,80',0,0,Raphaël Guerreiro (Bayern Munich) Substitution at 80',Raphaël Guerreiro Substitution,132,0.0,0.0,0.0,0.0,0.0,0.0,2,178980,2025-08-17 04:58:25
+13419,736457,10,45672511,76,2,4800,80',0,0,Kim Min-Jae (Bayern Munich) Substitution at 80',Kim Min-Jae Substitution,132,0.0,0.0,0.0,0.0,0.0,0.0,2,222793,2025-08-17 04:58:25
+13419,736457,13,45672514,76,2,4860,81',0,0,Nikolas Nartey (VfB Stuttgart) Substitution at 81',Nikolas Nartey Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,1,259878,2025-08-17 04:58:25
+13419,736457,12,45672513,76,2,4860,81',0,0,Lorenz Assignon (VfB Stuttgart) Substitution at 81',Lorenz Assignon Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,1,308461,2025-08-17 04:58:25
+13419,736457,13,45672514,76,2,4860,81',0,0,Nikolas Nartey (VfB Stuttgart) Substitution at 81',Nikolas Nartey Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,2,241742,2025-08-17 04:58:25
+13419,736457,12,45672513,76,2,4860,81',0,0,Lorenz Assignon (VfB Stuttgart) Substitution at 81',Lorenz Assignon Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,2,266839,2025-08-17 04:58:25
+13419,736457,14,45672663,76,2,5220,87',0,0,Chema Andrés (VfB Stuttgart) Substitution at 87',Chema Andrés Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,1,387489,2025-08-17 04:58:25
+13419,736457,14,45672663,76,2,5220,87',0,0,Chema Andrés (VfB Stuttgart) Substitution at 87',Chema Andrés Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,2,290232,2025-08-17 04:58:25
+13419,736457,17,45672841,70,2,5400,90'+3',1,0,Jamie Leweling (VfB Stuttgart) Goal at 93',Jamie Leweling Goal,134,0.0,0.0,0.0,0.0,0.0,0.0,1,290811,2025-08-17 04:58:25
+13419,736457,15,45672817,76,2,5400,90'+3',0,0,Tom Bischof (Bayern Munich) Substitution at 93',Tom Bischof Substitution,132,0.0,0.0,0.0,0.0,0.0,0.0,1,324660,2025-08-17 04:58:25
+13419,736457,16,45672840,76,2,5400,90'+3',0,0,Lennart Karl (Bayern Munich) Substitution at 93',Lennart Karl Substitution,132,0.0,0.0,0.0,0.0,0.0,0.0,1,402841,2025-08-17 04:58:25
+13419,736457,16,45672840,76,2,5400,90'+3',0,0,Lennart Karl (Bayern Munich) Substitution at 93',Lennart Karl Substitution,132,0.0,0.0,0.0,0.0,0.0,0.0,2,286831,2025-08-17 04:58:25
+13419,736457,15,45672817,76,2,5400,90'+3',0,0,Tom Bischof (Bayern Munich) Substitution at 93',Tom Bischof Substitution,132,0.0,0.0,0.0,0.0,0.0,0.0,2,174550,2025-08-17 04:58:25

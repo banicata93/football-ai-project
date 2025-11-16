@@ -18,7 +18,7 @@ from typing import Dict, Tuple
 
 import xgboost as xgb
 from sklearn.calibration import CalibratedClassifierCV
-from sklearn.model_selection import cross_val_score, StratifiedKFold
+from sklearn.model_selection import cross_val_score, StratifiedKFold, train_test_split
 from sklearn.metrics import (
     accuracy_score, precision_score, recall_score, f1_score,
     brier_score_loss, log_loss, classification_report, confusion_matrix
@@ -113,14 +113,13 @@ class ImprovedBTTSTrainer:
         
         return metrics
     
-    def train_improved_btts_model(self, train_df: pd.DataFrame, val_df: pd.DataFrame, 
+    def train_improved_btts_model(self, full_df: pd.DataFrame, 
                                  config: Dict = None) -> Tuple[object, list, Dict]:
         """
-        Тренира подобрен BTTS модел
+        Тренира подобрен BTTS модел с proper train/val/test split
         
         Args:
-            train_df: Training data
-            val_df: Validation data
+            full_df: Full dataset to be split
             config: Model configuration
             
         Returns:
@@ -143,10 +142,30 @@ class ImprovedBTTSTrainer:
                 'eval_metric': 'logloss'
             }
         
+        # Split dataset into train/val/test (60%/20%/20%)
+        self.logger.info("📊 Разделяне на данните на train/val/test (60%/20%/20%)...")
+        
+        # First split: 80% train+val, 20% test
+        train_val_df, test_df = train_test_split(
+            full_df, test_size=0.2, random_state=42, 
+            stratify=full_df['btts'] if 'btts' in full_df.columns else None
+        )
+        
+        # Second split: 75% train, 25% val (of the 80%)
+        train_df, val_df = train_test_split(
+            train_val_df, test_size=0.25, random_state=42,
+            stratify=train_val_df['btts'] if 'btts' in train_val_df.columns else None
+        )
+        
+        self.logger.info(f"✓ Train: {len(train_df)} matches ({len(train_df)/len(full_df)*100:.1f}%)")
+        self.logger.info(f"✓ Val: {len(val_df)} matches ({len(val_df)/len(full_df)*100:.1f}%)")
+        self.logger.info(f"✓ Test: {len(test_df)} matches ({len(test_df)/len(full_df)*100:.1f}%)")
+        
         # Feature engineering
         self.logger.info("🔧 Прилагане на BTTS feature engineering...")
         train_enhanced = self.feature_engineer.create_btts_features(train_df)
         val_enhanced = self.feature_engineer.create_btts_features(val_df)
+        test_enhanced = self.feature_engineer.create_btts_features(test_df)
         
         # Feature selection - комбинира базови и BTTS features
         base_features = [
@@ -185,12 +204,15 @@ class ImprovedBTTSTrainer:
         # Подготвя данните
         X_train = train_enhanced[available_features].fillna(0)
         X_val = val_enhanced[available_features].fillna(0)
+        X_test = test_enhanced[available_features].fillna(0)
         
         y_train = train_enhanced['btts'].values
         y_val = val_enhanced['btts'].values
+        y_test = test_enhanced['btts'].values
         
         self.logger.info(f"Train samples: {len(X_train)} (Yes: {y_train.sum()}, No: {len(y_train)-y_train.sum()})")
         self.logger.info(f"Val samples: {len(X_val)} (Yes: {y_val.sum()}, No: {len(y_val)-y_val.sum()})")
+        self.logger.info(f"Test samples: {len(X_test)} (Yes: {y_test.sum()}, No: {len(y_test)-y_test.sum()})")
         
         # Тренировка на базовия XGBoost модел
         self.logger.info("\n🚀 Тренировка на XGBoost...")
@@ -231,6 +253,15 @@ class ImprovedBTTSTrainer:
             calibrated_model, X_val, y_val, "Calibrated Model Validation"
         )
         
+        # КРИТИЧНО: Оценка на untouched test set
+        self.logger.info("\n🔍 Оценка на UNTOUCHED TEST SET...")
+        test_metrics_cal = self.evaluate_model_comprehensive(
+            calibrated_model, X_test, y_test, "Calibrated Model TEST (UNTOUCHED)"
+        )
+        
+        # Проверка за calibration drift между val и test
+        self.check_calibration_drift(val_metrics_cal, test_metrics_cal)
+        
         # Feature importance
         self.logger.info("\n📊 Feature Importance (Top 20):")
         get_feature_importance(base_model, available_features, top_n=20)
@@ -254,7 +285,8 @@ class ImprovedBTTSTrainer:
             },
             'calibrated_model': {
                 'train': train_metrics_cal,
-                'validation': val_metrics_cal
+                'validation': val_metrics_cal,
+                'test': test_metrics_cal  # НОВИ: test метрики
             },
             'improvements': {
                 'brier_score_improvement': float(val_metrics_base['brier_score'] - val_metrics_cal['brier_score']),
@@ -265,11 +297,24 @@ class ImprovedBTTSTrainer:
                 'f1_macro_mean': float(cv_scores.mean()),
                 'f1_macro_std': float(cv_scores.std())
             },
+            'calibration_analysis': {
+                'val_vs_test_brier_diff': float(abs(val_metrics_cal['brier_score'] - test_metrics_cal['brier_score'])),
+                'val_vs_test_ece_diff': float(abs(val_metrics_cal['ece'] - test_metrics_cal['ece'])),
+                'generalization_quality': self.assess_generalization(val_metrics_cal, test_metrics_cal)
+            },
             'feature_info': {
                 'total_features': len(available_features),
                 'base_features': len(base_features),
                 'btts_features': len(btts_features),
                 'feature_list': available_features
+            },
+            'dataset_splits': {
+                'train_size': len(X_train),
+                'val_size': len(X_val),
+                'test_size': len(X_test),
+                'train_btts_rate': float(y_train.mean()),
+                'val_btts_rate': float(y_val.mean()),
+                'test_btts_rate': float(y_test.mean())
             }
         }
         
@@ -278,7 +323,54 @@ class ImprovedBTTSTrainer:
         self.logger.info(f"   ECE: {improvement_summary['improvements']['ece_improvement']:+.4f}")
         self.logger.info(f"   F1 Macro: {improvement_summary['improvements']['f1_improvement']:+.3f}")
         
+        self.logger.info("\n📊 GENERALIZATION ANALYSIS:")
+        cal_analysis = improvement_summary['calibration_analysis']
+        self.logger.info(f"   Val vs Test Brier Diff: {cal_analysis['val_vs_test_brier_diff']:.4f}")
+        self.logger.info(f"   Val vs Test ECE Diff: {cal_analysis['val_vs_test_ece_diff']:.4f}")
+        self.logger.info(f"   Generalization Quality: {cal_analysis['generalization_quality']}")
+        
         return calibrated_model, available_features, improvement_summary
+    
+    def check_calibration_drift(self, val_metrics: Dict, test_metrics: Dict, threshold: float = 0.05):
+        """Проверява за calibration drift между validation и test"""
+        
+        brier_diff = abs(val_metrics['brier_score'] - test_metrics['brier_score'])
+        ece_diff = abs(val_metrics['ece'] - test_metrics['ece'])
+        
+        self.logger.info("\n⚠️  CALIBRATION DRIFT ANALYSIS:")
+        
+        if brier_diff > threshold:
+            self.logger.warning(f"   🚨 BRIER SCORE DRIFT: {brier_diff:.4f} > {threshold}")
+            self.logger.warning(f"      Val: {val_metrics['brier_score']:.4f}, Test: {test_metrics['brier_score']:.4f}")
+        else:
+            self.logger.info(f"   ✅ Brier Score Stable: {brier_diff:.4f} <= {threshold}")
+            
+        if ece_diff > threshold:
+            self.logger.warning(f"   🚨 ECE DRIFT: {ece_diff:.4f} > {threshold}")
+            self.logger.warning(f"      Val: {val_metrics['ece']:.4f}, Test: {test_metrics['ece']:.4f}")
+        else:
+            self.logger.info(f"   ✅ ECE Stable: {ece_diff:.4f} <= {threshold}")
+            
+        if brier_diff > threshold or ece_diff > threshold:
+            self.logger.warning("   ⚠️  MODEL MAY HAVE CALIBRATION ISSUES ON NEW DATA!")
+        else:
+            self.logger.info("   ✅ Model calibration generalizes well to test data")
+    
+    def assess_generalization(self, val_metrics: Dict, test_metrics: Dict) -> str:
+        """Оценява качеството на generalization"""
+        
+        brier_diff = abs(val_metrics['brier_score'] - test_metrics['brier_score'])
+        ece_diff = abs(val_metrics['ece'] - test_metrics['ece'])
+        f1_diff = abs(val_metrics['f1_macro'] - test_metrics['f1_macro'])
+        
+        if brier_diff <= 0.01 and ece_diff <= 0.01 and f1_diff <= 0.02:
+            return "Excellent"
+        elif brier_diff <= 0.03 and ece_diff <= 0.03 and f1_diff <= 0.05:
+            return "Good"
+        elif brier_diff <= 0.05 and ece_diff <= 0.05 and f1_diff <= 0.08:
+            return "Fair"
+        else:
+            return "Poor"
     
     def save_improved_model(self, model, feature_cols: list, metrics: Dict, 
                            model_path: str = 'models/model_btts_improved'):
@@ -306,12 +398,27 @@ class ImprovedBTTSTrainer:
             f.write(f"**Training Date:** {datetime.now().isoformat()}\n\n")
             
             cal_val = metrics['calibrated_model']['validation']
+            cal_test = metrics['calibrated_model']['test']
             f.write("## Performance Metrics\n")
+            f.write("### Validation Set\n")
             f.write(f"- **Accuracy:** {cal_val['accuracy']:.3f}\n")
             f.write(f"- **F1 Macro:** {cal_val['f1_macro']:.3f}\n")
             f.write(f"- **Brier Score:** {cal_val['brier_score']:.4f}\n")
             f.write(f"- **ECE:** {cal_val['ece']:.4f}\n")
             f.write(f"- **Best Threshold:** {cal_val['best_threshold']}\n\n")
+            
+            f.write("### Test Set (Untouched)\n")
+            f.write(f"- **Accuracy:** {cal_test['accuracy']:.3f}\n")
+            f.write(f"- **F1 Macro:** {cal_test['f1_macro']:.3f}\n")
+            f.write(f"- **Brier Score:** {cal_test['brier_score']:.4f}\n")
+            f.write(f"- **ECE:** {cal_test['ece']:.4f}\n")
+            f.write(f"- **Best Threshold:** {cal_test['best_threshold']}\n\n")
+            
+            cal_analysis = metrics['calibration_analysis']
+            f.write("### Generalization Analysis\n")
+            f.write(f"- **Val vs Test Brier Diff:** {cal_analysis['val_vs_test_brier_diff']:.4f}\n")
+            f.write(f"- **Val vs Test ECE Diff:** {cal_analysis['val_vs_test_ece_diff']:.4f}\n")
+            f.write(f"- **Generalization Quality:** {cal_analysis['generalization_quality']}\n\n")
             
             improvements = metrics['improvements']
             f.write("## Improvements vs Base Model\n")
@@ -335,28 +442,35 @@ def main():
     logger.info("🚀 СТАРТИРАНЕ НА IMPROVED BTTS TRAINING")
     logger.info("=" * 60)
     
-    # Зарежда данните
+    # Зарежда данните - може да използва train+val или цялата база
     train_path = 'data/processed/train_features.parquet'
     val_path = 'data/processed/val_features.parquet'
     
-    if not os.path.exists(train_path) or not os.path.exists(val_path):
-        logger.error("❌ Training/validation data не са намерени")
-        return
+    # Опитва се да зареди комбинирани данни или отделни файлове
+    if os.path.exists(train_path) and os.path.exists(val_path):
+        logger.info("📊 Зареждане на train и val данни за комбиниране...")
+        train_df = pd.read_parquet(train_path)
+        val_df = pd.read_parquet(val_path)
+        full_df = pd.concat([train_df, val_df], ignore_index=True)
+        logger.info(f"✓ Комбинирани данни: {len(full_df)} matches")
+    else:
+        # Fallback към единичен файл ако съществува
+        full_path = 'data/processed/full_features.parquet'
+        if os.path.exists(full_path):
+            logger.info("📊 Зареждане на пълни данни...")
+            full_df = pd.read_parquet(full_path)
+            logger.info(f"✓ Пълни данни: {len(full_df)} matches")
+        else:
+            logger.error("❌ Няма налични данни за тренировка")
+            return
     
-    logger.info("📊 Зареждане на данни...")
-    train_df = pd.read_parquet(train_path)
-    val_df = pd.read_parquet(val_path)
-    
-    if 'btts' not in train_df.columns:
+    if 'btts' not in full_df.columns:
         logger.error("❌ Няма 'btts' target колона")
         return
     
-    logger.info(f"✓ Train data: {len(train_df)} matches")
-    logger.info(f"✓ Val data: {len(val_df)} matches")
-    
-    # Тренировка
+    # Тренировка с нов метод
     trainer = ImprovedBTTSTrainer()
-    model, features, metrics = trainer.train_improved_btts_model(train_df, val_df)
+    model, features, metrics = trainer.train_improved_btts_model(full_df)
     
     # Запазване
     trainer.save_improved_model(model, features, metrics)

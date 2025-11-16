@@ -1,0 +1,36 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12585,702836,2,43520572,76,2,3480,58',0,0,Facundo Pellistri (Manchester United) Substitution at 58',Facundo Pellistri Substitution,360,0.0,0.0,0.0,0.0,0.0,0.0,1,290538,2024-08-11 09:18:13
+12585,702836,1,43520571,76,2,3480,58',0,0,Scott McTominay (Manchester United) Substitution at 58',Scott McTominay Substitution,360,0.0,0.0,0.0,0.0,0.0,0.0,1,255850,2024-08-11 09:18:13
+12585,702836,1,43520571,76,2,3480,58',0,0,Scott McTominay (Manchester United) Substitution at 58',Scott McTominay Substitution,360,0.0,0.0,0.0,0.0,0.0,0.0,2,231167,2024-08-11 09:18:13
+12585,702836,2,43520572,76,2,3480,58',0,0,Facundo Pellistri (Manchester United) Substitution at 58',Facundo Pellistri Substitution,360,0.0,0.0,0.0,0.0,0.0,0.0,2,157073,2024-08-11 09:18:13
+12585,702836,3,43520573,76,2,3540,59',0,0,Alejandro Garnacho (Manchester United) Substitution at 59',Alejandro Garnacho Substitution,360,0.0,0.0,0.0,0.0,0.0,0.0,1,325555,2024-08-11 09:18:13
+12585,702836,4,43520574,76,2,3540,59',0,0,Toby Collyer (Manchester United) Substitution at 59',Toby Collyer Substitution,360,0.0,0.0,0.0,0.0,0.0,0.0,1,308778,2024-08-11 09:18:13
+12585,702836,3,43520573,76,2,3540,59',0,0,Alejandro Garnacho (Manchester United) Substitution at 59',Alejandro Garnacho Substitution,360,0.0,0.0,0.0,0.0,0.0,0.0,2,291630,2024-08-11 09:18:13
+12585,702836,4,43520574,76,2,3540,59',0,0,Toby Collyer (Manchester United) Substitution at 59',Toby Collyer Substitution,360,0.0,0.0,0.0,0.0,0.0,0.0,2,328466,2024-08-11 09:18:13
+12585,702836,6,43520637,76,2,3780,63',0,0,Sávio (Manchester City) Substitution at 63',Sávio Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,1,268697,2024-08-11 09:18:13
+12585,702836,6,43520637,76,2,3780,63',0,0,Sávio (Manchester City) Substitution at 63',Sávio Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,1,236097,2024-08-11 09:18:13
+12585,702836,6,43520637,76,2,3780,63',0,0,Sávio (Manchester City) Substitution at 63',Sávio Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,1,218930,2024-08-11 09:18:13
+12585,702836,6,43520637,76,2,3780,63',0,0,Sávio (Manchester City) Substitution at 63',Sávio Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,1,160578,2024-08-11 09:18:13
+12585,702836,5,43520636,76,2,3780,63',0,0,Matheus Nunes (Manchester City) Substitution at 63',Matheus Nunes Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,1,303785,2024-08-11 09:18:13
+12585,702836,5,43520636,76,2,3780,63',0,0,Matheus Nunes (Manchester City) Substitution at 63',Matheus Nunes Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,1,307920,2024-08-11 09:18:13
+12585,702836,5,43520636,76,2,3780,63',0,0,Matheus Nunes (Manchester City) Substitution at 63',Matheus Nunes Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,1,338877,2024-08-11 09:18:13
+12585,702836,6,43520637,76,2,3780,63',0,0,Sávio (Manchester City) Substitution at 63',Sávio Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,2,283672,2024-08-11 09:18:13
+12585,702836,5,43520636,76,2,3780,63',0,0,Matheus Nunes (Manchester City) Substitution at 63',Matheus Nunes Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,2,328464,2024-08-11 09:18:13
+12585,702836,7,43520714,94,2,4080,68',0,0,Matheus Nunes (Manchester City) Yellow Card at 68',Matheus Nunes Yellow Card,382,0.0,0.0,0.0,0.0,0.0,0.0,1,303785,2024-08-11 09:18:13
+12585,702836,7,43520714,94,2,4080,68',0,0,Matheus Nunes (Manchester City) Yellow Card at 68',Matheus Nunes Yellow Card,382,0.0,0.0,0.0,0.0,0.0,0.0,1,307920,2024-08-11 09:18:13
+12585,702836,7,43520714,94,2,4080,68',0,0,Matheus Nunes (Manchester City) Yellow Card at 68',Matheus Nunes Yellow Card,382,0.0,0.0,0.0,0.0,0.0,0.0,1,338877,2024-08-11 09:18:13
+12585,702836,8,43520861,76,2,4800,80',0,0,Bernardo Silva (Manchester City) Substitution at 80',Bernardo Silva Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,1,199833,2024-08-11 09:18:13
+12585,702836,8,43520861,76,2,4800,80',0,0,Bernardo Silva (Manchester City) Substitution at 80',Bernardo Silva Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,1,313062,2024-08-11 09:18:13
+12585,702836,8,43520861,76,2,4800,80',0,0,Bernardo Silva (Manchester City) Substitution at 80',Bernardo Silva Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,2,298518,2024-08-11 09:18:13
+12585,702836,9,43520883,70,2,4920,82',1,0,Alejandro Garnacho (Manchester United) Goal at 82',Alejandro Garnacho Goal,360,0.0,0.0,0.0,0.0,0.0,0.0,1,325555,2024-08-11 09:18:13
+12585,702836,10,43520933,76,2,4980,83',0,0,Jadon Sancho (Manchester United) Substitution at 83',Jadon Sancho Substitution,360,0.0,0.0,0.0,0.0,0.0,0.0,1,259836,2024-08-11 09:18:13
+12585,702836,10,43520933,76,2,4980,83',0,0,Jadon Sancho (Manchester United) Substitution at 83',Jadon Sancho Substitution,360,0.0,0.0,0.0,0.0,0.0,0.0,2,230945,2024-08-11 09:18:13
+12585,702836,11,43520974,94,2,5100,85',0,0,Bernardo Silva (Manchester City) Yellow Card at 85',Bernardo Silva Yellow Card,382,0.0,0.0,0.0,0.0,0.0,0.0,1,199833,2024-08-11 09:18:13
+12585,702836,11,43520974,94,2,5100,85',0,0,Bernardo Silva (Manchester City) Yellow Card at 85',Bernardo Silva Yellow Card,382,0.0,0.0,0.0,0.0,0.0,0.0,1,313062,2024-08-11 09:18:13
+12585,702836,12,43525105,94,2,5100,85',0,0,Alejandro Garnacho (Manchester United) Yellow Card at 85',Alejandro Garnacho Yellow Card,360,0.0,0.0,0.0,0.0,0.0,0.0,1,325555,2024-08-11 09:18:13
+12585,702836,13,43521055,70,2,5340,89',1,0,Bernardo Silva (Manchester City) Goal at 89',Bernardo Silva Goal,382,0.0,0.0,0.0,0.0,0.0,0.0,1,199833,2024-08-11 09:18:13
+12585,702836,13,43521055,70,2,5340,89',1,0,Bernardo Silva (Manchester City) Goal at 89',Bernardo Silva Goal,382,0.0,0.0,0.0,0.0,0.0,0.0,1,313062,2024-08-11 09:18:13
+12585,702836,15,43521095,76,2,5400,90',0,0,Kevin De Bruyne (Manchester City) Substitution at 90',Kevin De Bruyne Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,1,134947,2024-08-11 09:18:13
+12585,702836,14,43521094,76,2,5400,90',0,0,Nathan Aké (Manchester City) Substitution at 90',Nathan Aké Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,1,159248,2024-08-11 09:18:13
+12585,702836,14,43521094,76,2,5400,90',0,0,Nathan Aké (Manchester City) Substitution at 90',Nathan Aké Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,2,299910,2024-08-11 09:18:13
+12585,702836,15,43521095,76,2,5400,90',0,0,Kevin De Bruyne (Manchester City) Substitution at 90',Kevin De Bruyne Substitution,382,0.0,0.0,0.0,0.0,0.0,0.0,2,307111,2024-08-11 09:18:13

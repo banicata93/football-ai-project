@@ -425,6 +425,256 @@ async def search_teams(query: str, limit: int = 10, service: PredictionService =
     }
 
 
+@app.get("/predict/next-round", tags=["Predictions"])
+async def predict_next_round(
+    league: str,
+    prediction_service: PredictionService = Depends(get_prediction_service)
+):
+    """
+    Predict all matches in the next round for a specific league
+    
+    Args:
+        league: League slug (e.g., '2025-26-english-premier-league')
+        
+    Returns:
+        Complete round predictions with all matches
+        
+    Example:
+        GET /predict/next-round?league=2025-26-english-premier-league
+    """
+    try:
+        logger.info(f"🎯 Next round prediction request for league: {league}")
+        
+        # Get available leagues first to validate
+        from core.fixtures_loader import FixturesLoader
+        fixtures_loader = FixturesLoader()
+        available_leagues = fixtures_loader.get_available_leagues()
+        
+        # Check if league exists
+        league_exists = any(
+            l['slug'].lower() == league.lower() or 
+            l['name'].lower() == league.lower() 
+            for l in available_leagues
+        )
+        
+        if not league_exists:
+            available_names = [l['name'] for l in available_leagues[:10]]
+            raise HTTPException(
+                status_code=404, 
+                detail={
+                    "error": "League not found",
+                    "requested_league": league,
+                    "available_leagues": available_names,
+                    "total_available": len(available_leagues)
+                }
+            )
+        
+        # Make predictions
+        result = prediction_service.predict_league_round(league)
+        
+        # Check if any error occurred
+        if "error" in result and result["total_matches"] == 0:
+            raise HTTPException(
+                status_code=404,
+                detail={
+                    "error": result["error"],
+                    "league": league
+                }
+            )
+        
+        logger.info(f"✅ Next round prediction completed: {result.get('successful_predictions', 0)}/{result.get('total_matches', 0)} matches")
+        
+        return result
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"❌ Error in next round prediction: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/fixtures/upcoming", tags=["Fixtures"])
+async def get_upcoming_fixtures(days: int = 7):
+    """
+    Get upcoming fixtures for the next N days
+    
+    Args:
+        days: Number of days to look ahead (default: 7)
+        
+    Returns:
+        List of upcoming fixtures across all leagues
+    """
+    try:
+        from core.fixtures_loader import FixturesLoader
+        import pandas as pd
+        from datetime import datetime, timedelta
+        
+        fixtures_loader = FixturesLoader()
+        
+        # Get all fixtures
+        fixtures_df = fixtures_loader._load_fixtures()
+        if fixtures_df.empty:
+            return {"fixtures": [], "total": 0, "days": days}
+        
+        # Filter for upcoming fixtures within specified days
+        now = pd.Timestamp.now(tz='UTC')
+        end_date = now + timedelta(days=days)
+        
+        upcoming_mask = (fixtures_df['date'] >= now) & (fixtures_df['date'] <= end_date)
+        upcoming_fixtures = fixtures_df[upcoming_mask].copy()
+        
+        if upcoming_fixtures.empty:
+            return {"fixtures": [], "total": 0, "days": days}
+        
+        # Process fixtures
+        fixtures_list = []
+        for _, fixture in upcoming_fixtures.iterrows():
+            # Get team names and league info
+            home_team = fixtures_loader._get_team_name(fixture['homeTeamId'])
+            away_team = fixtures_loader._get_team_name(fixture['awayTeamId'])
+            league_info = fixtures_loader._get_league_info(fixture['leagueId'])
+            
+            fixtures_list.append({
+                "date": fixture['date'].isoformat(),
+                "home_team": home_team,
+                "away_team": away_team,
+                "league": league_info['name'],
+                "league_slug": league_info['slug'],
+                "event_id": fixture['eventId'],
+                "venue_id": fixture.get('venueId'),
+                "home_team_id": fixture['homeTeamId'],
+                "away_team_id": fixture['awayTeamId']
+            })
+        
+        # Sort by date
+        fixtures_list.sort(key=lambda x: x['date'])
+        
+        return {
+            "fixtures": fixtures_list,
+            "total": len(fixtures_list),
+            "days": days,
+            "date_range": {
+                "from": now.isoformat(),
+                "to": end_date.isoformat()
+            }
+        }
+        
+    except Exception as e:
+        logger.error(f"❌ Error getting upcoming fixtures: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/predict/leagues", tags=["Predictions"])
+async def get_available_leagues():
+    """
+    Get list of leagues with upcoming fixtures available for next-round prediction
+    
+    Returns:
+        List of available leagues with their names and slugs
+    """
+    try:
+        from core.fixtures_loader import FixturesLoader
+        fixtures_loader = FixturesLoader()
+        leagues = fixtures_loader.get_available_leagues()
+        
+        return {
+            "total_leagues": len(leagues),
+            "leagues": leagues
+        }
+        
+    except Exception as e:
+        logger.error(f"❌ Error getting available leagues: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/teams/by-league", tags=["Teams"])
+async def get_teams_by_league(
+    league_slug: str = None,
+    limit: int = 100
+):
+    """
+    Получи отбори за конкретна лига
+    
+    Args:
+        league_slug: Slug на лигата (напр. "premier_league")
+        limit: Максимален брой отбори
+    
+    Returns:
+        Списък с отбори за лигата
+    """
+    try:
+        import pandas as pd
+        from pathlib import Path
+        
+        # Load teams data
+        teams_path = Path("data_raw/espn/base_data/teams.csv")
+        if not teams_path.exists():
+            return {'teams': [], 'total': 0, 'league': league_slug, 'error': 'Teams data not found'}
+        
+        teams_df = pd.read_csv(teams_path)
+        
+        # Load fixtures to filter by league
+        from core.data_loader import ESPNDataLoader
+        data_loader = ESPNDataLoader()
+        fixtures_df = data_loader.load_fixtures()
+        
+        if fixtures_df is None or fixtures_df.empty:
+            # Return all teams if no fixtures
+            teams_list = teams_df['displayName'].unique().tolist()
+            teams_list = sorted(teams_list)[:limit]
+            return {
+                'teams': [{'name': team, 'display_name': team} for team in teams_list],
+                'total': len(teams_list),
+                'league': league_slug or 'all'
+            }
+        
+        # Filter by league if specified
+        if league_slug:
+            # Map league slug to league ID (numeric IDs from ESPN data)
+            league_mapping = {
+                'premier_league': 700,
+                'la_liga': 3907,  # Will find correct ID
+                'serie_a': 630,
+                'bundesliga': 3907,
+                'ligue_1': 710,
+                'eredivisie': 725,
+                'primeira_liga': 715,
+                'championship': 5672
+            }
+            
+            league_id = league_mapping.get(league_slug, league_slug)
+            
+            # Filter fixtures by league
+            if 'league_id' in fixtures_df.columns:
+                league_fixtures = fixtures_df[fixtures_df['league_id'] == league_id]
+            else:
+                league_fixtures = fixtures_df
+        else:
+            league_fixtures = fixtures_df
+        
+        # Get unique team IDs from fixtures
+        team_ids = set()
+        if 'home_team_id' in league_fixtures.columns:
+            team_ids.update(league_fixtures['home_team_id'].unique())
+        if 'away_team_id' in league_fixtures.columns:
+            team_ids.update(league_fixtures['away_team_id'].unique())
+        
+        # Get team names from teams_df
+        league_teams = teams_df[teams_df['teamId'].isin(team_ids)]
+        teams_list = league_teams['displayName'].unique().tolist()
+        teams_list = sorted(teams_list)[:limit]
+        
+        return {
+            'teams': [{'name': team, 'display_name': team} for team in teams_list],
+            'total': len(teams_list),
+            'league': league_slug or 'all'
+        }
+        
+    except Exception as e:
+        logger.error(f"Error getting teams by league: {e}")
+        return {'teams': [], 'total': 0, 'league': league_slug, 'error': str(e)}
+
+
 @app.get("/stats", tags=["Data"])
 async def service_stats(service: PredictionService = Depends(get_prediction_service)):
     """
@@ -446,10 +696,13 @@ async def service_stats(service: PredictionService = Depends(get_prediction_serv
         'features_used': len(service.feature_columns),
         'endpoints': {
             'health': '/health',
-            'predict_post': '/predict',
+            'predict': '/predict',
             'predict_get': '/predict/{home_team}/vs/{away_team}',
+            'predict_next_round': '/predict/next-round?league={league_slug}',
+            'predict_leagues': '/predict/leagues',
             'models': '/models',
             'teams': '/teams',
+            'teams_by_league': '/teams/by-league?league_slug={league_slug}',
             'teams_validate': '/teams/validate/{team_name}',
             'teams_resolve': '/teams/resolve/{team_name}',
             'teams_search': '/teams/search/{query}',

@@ -1,0 +1,10 @@
+{
+  "league": "africa_cup_of_nations_qualifying",
+  "league_name": "Africa Cup of Nations Qualifying",
+  "league_id": 8315,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:35",
+  "total_matches": 248,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

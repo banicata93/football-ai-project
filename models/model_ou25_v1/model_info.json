@@ -1,8 +1,9 @@
 {
   "model_name": "ou25",
   "model_type": "LGBMClassifier",
-  "trained_date": "2025-11-11T12:11:40.973235",
+  "trained_date": "2025-11-13T14:28:44.844998",
   "num_features": 72,
-  "train_accuracy": 0.8312457684495599,
-  "val_accuracy": 0.7772825671717815
+  "train_accuracy": 0.8353080568720379,
+  "val_accuracy": 0.7751177893798549,
+  "has_calibrators": false
 }

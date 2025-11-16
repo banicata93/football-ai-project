@@ -1,0 +1,10 @@
+{
+  "league": "uefa_women's_nations_league",
+  "league_name": "UEFA Women's Nations League",
+  "league_id": 23088,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:35",
+  "total_matches": 170,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

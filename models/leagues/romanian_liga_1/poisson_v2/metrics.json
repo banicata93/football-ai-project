@@ -1,0 +1,10 @@
+{
+  "league": "romanian_liga_1",
+  "league_name": "Romanian Liga 1",
+  "league_id": 10747,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:34",
+  "total_matches": 555,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

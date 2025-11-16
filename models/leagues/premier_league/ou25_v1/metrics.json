@@ -1,0 +1,20 @@
+{
+  "train": {
+    "accuracy": 0.7232375979112271,
+    "log_loss": 0.5447903684026266,
+    "brier_score": 0.18182370801225195,
+    "roc_auc": 0.876319732988216
+  },
+  "val": {
+    "accuracy": 0.7192307692307692,
+    "log_loss": 0.5807180683818595,
+    "brier_score": 0.19766988334299176,
+    "roc_auc": 0.579628015111886
+  },
+  "league": "premier_league",
+  "total_matches": 643,
+  "train_matches": 383,
+  "val_matches": 260,
+  "feature_count": 72,
+  "calibrated": true
+}

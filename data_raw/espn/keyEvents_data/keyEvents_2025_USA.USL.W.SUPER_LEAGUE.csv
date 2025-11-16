@@ -1,0 +1,109 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13776,759372,1,46029352,113,1,1320,22',0,0,Maddie Mercado (Carolina Ascent FC) Penalty - Missed at 22',Maddie Mercado Penalty - Missed,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,292574,2025-10-01 05:13:54
+13776,759372,2,46029353,94,1,1980,33',0,0,Mia Corbin (Carolina Ascent FC) Yellow Card at 33',Mia Corbin Yellow Card,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,241908,2025-10-01 05:13:54
+13776,759372,3,46029354,70,1,2100,35',1,0,Tori Waldeck (Spokane Zephyr FC) Goal at 35',Tori Waldeck Goal,131448,0.0,0.0,0.0,0.0,0.0,0.0,1,326947,2025-10-01 05:13:54
+13776,759372,4,46029355,76,2,2700,45',0,0,Audrey Harding (Carolina Ascent FC) Substitution at 45',Audrey Harding Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,293982,2025-10-01 05:13:54
+13776,759372,4,46029355,76,2,2700,45',0,0,Audrey Harding (Carolina Ascent FC) Substitution at 45',Audrey Harding Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,2,360955,2025-10-01 05:13:54
+13776,759372,5,46029356,94,2,3180,53',0,0,Sydney Studer (Carolina Ascent FC) Yellow Card at 53',Sydney Studer Yellow Card,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,281438,2025-10-01 05:13:54
+13776,759372,7,46029358,76,2,3660,61',0,0,Emma Jaskaniec (Spokane Zephyr FC) Substitution at 61',Emma Jaskaniec Substitution,131448,0.0,0.0,0.0,0.0,0.0,0.0,1,297406,2025-10-01 05:13:54
+13776,759372,6,46029357,76,2,3660,61',0,0,Shea Collins (Spokane Zephyr FC) Substitution at 61',Shea Collins Substitution,131448,0.0,0.0,0.0,0.0,0.0,0.0,1,368664,2025-10-01 05:13:54
+13776,759372,7,46029358,76,2,3660,61',0,0,Emma Jaskaniec (Spokane Zephyr FC) Substitution at 61',Emma Jaskaniec Substitution,131448,0.0,0.0,0.0,0.0,0.0,0.0,2,308119,2025-10-01 05:13:54
+13776,759372,6,46029357,76,2,3660,61',0,0,Shea Collins (Spokane Zephyr FC) Substitution at 61',Shea Collins Substitution,131448,0.0,0.0,0.0,0.0,0.0,0.0,2,326947,2025-10-01 05:13:54
+13776,759372,8,46029359,76,2,3960,66',0,0,Alyssa Walker (Carolina Ascent FC) Substitution at 66',Alyssa Walker Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,327485,2025-10-01 05:13:54
+13776,759372,9,46029360,76,2,3960,66',0,0,Stella Spitzer (Carolina Ascent FC) Substitution at 66',Stella Spitzer Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,411688,2025-10-01 05:13:54
+13776,759372,8,46029359,76,2,3960,66',0,0,Alyssa Walker (Carolina Ascent FC) Substitution at 66',Alyssa Walker Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,2,281438,2025-10-01 05:13:54
+13776,759372,9,46029360,76,2,3960,66',0,0,Stella Spitzer (Carolina Ascent FC) Substitution at 66',Stella Spitzer Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,2,242779,2025-10-01 05:13:54
+13776,759372,10,46029361,76,2,4140,69',0,0,Ally Cook (Spokane Zephyr FC) Substitution at 69',Ally Cook Substitution,131448,0.0,0.0,0.0,0.0,0.0,0.0,1,294743,2025-10-01 05:13:54
+13776,759372,10,46029361,76,2,4140,69',0,0,Ally Cook (Spokane Zephyr FC) Substitution at 69',Ally Cook Substitution,131448,0.0,0.0,0.0,0.0,0.0,0.0,2,279478,2025-10-01 05:13:54
+13776,759372,11,46029362,76,2,4320,72',0,0,Rylee Baisden (Carolina Ascent FC) Substitution at 72',Rylee Baisden Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,211980,2025-10-01 05:13:54
+13776,759372,11,46029362,76,2,4320,72',0,0,Rylee Baisden (Carolina Ascent FC) Substitution at 72',Rylee Baisden Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,2,292620,2025-10-01 05:13:54
+13776,759372,12,46029363,76,2,4380,73',0,0,Luana Karoline Grabias (Carolina Ascent FC) Substitution at 73',Luana Karoline Grabias Substitut,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,411689,2025-10-01 05:13:54
+13776,759372,12,46029363,76,2,4380,73',0,0,Luana Karoline Grabias (Carolina Ascent FC) Substitution at 73',Luana Karoline Grabias Substitut,131454,0.0,0.0,0.0,0.0,0.0,0.0,2,241908,2025-10-01 05:13:54
+13776,759372,13,46029364,94,2,4740,79',0,0,Meaghan Nally (Carolina Ascent FC) Yellow Card at 79',Meaghan Nally Yellow Card,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,248725,2025-10-01 05:13:54
+13776,759372,15,46029366,76,2,5100,85',0,0,Charley Boone (Spokane Zephyr FC) Substitution at 85',Charley Boone Substitution,131448,0.0,0.0,0.0,0.0,0.0,0.0,1,316935,2025-10-01 05:13:54
+13776,759372,16,46029367,76,2,5100,85',0,0,Madelyn Desiano (Spokane Zephyr FC) Substitution at 85',Madelyn Desiano Substitution,131448,0.0,0.0,0.0,0.0,0.0,0.0,1,293178,2025-10-01 05:13:54
+13776,759372,14,46029365,94,2,5100,85',0,0,Kelsey Oyler (Spokane Zephyr FC) Yellow Card at 85',Kelsey Oyler Yellow Card,131448,0.0,0.0,0.0,0.0,0.0,0.0,1,316940,2025-10-01 05:13:54
+13776,759372,16,46029367,76,2,5100,85',0,0,Madelyn Desiano (Spokane Zephyr FC) Substitution at 85',Madelyn Desiano Substitution,131448,0.0,0.0,0.0,0.0,0.0,0.0,2,329437,2025-10-01 05:13:54
+13776,759372,15,46029366,76,2,5100,85',0,0,Charley Boone (Spokane Zephyr FC) Substitution at 85',Charley Boone Substitution,131448,0.0,0.0,0.0,0.0,0.0,0.0,2,316940,2025-10-01 05:13:54
+13776,759372,17,46029368,93,2,5400,90'+2',0,0,Jenna Butler (Carolina Ascent FC) Red Card at 92',Jenna Butler Red Card,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,279023,2025-10-01 05:13:54
+13776,759373,1,46029400,70,1,540,9',1,0,Catherine Barry (Lexington SC) Goal at 9',Catherine Barry Goal,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,308502,2025-10-01 05:13:54
+13776,759373,2,46029401,70,1,1260,21',1,0,Addie McCain (Lexington SC) Goal at 21',Addie McCain Goal,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,261845,2025-10-01 05:13:54
+13776,759373,3,46029402,70,1,1440,24',1,0,Sealey Strawn (Dallas Trinity FC) Goal at 24',Sealey Strawn Goal,131447,0.0,0.0,0.0,0.0,0.0,0.0,1,411694,2025-10-01 05:13:54
+13776,759373,4,46029403,70,1,1620,27',1,0,Catherine Barry (Lexington SC) Goal at 27',Catherine Barry Goal,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,308502,2025-10-01 05:13:54
+13776,759373,5,46029404,94,1,2700,45'+1',0,0,Taylor Aylmer (Lexington SC) Yellow Card at 46',Taylor Aylmer Yellow Card,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,248457,2025-10-01 05:13:54
+13776,759373,6,46029405,94,1,2700,45'+3',0,0,Hannah Johnson (Lexington SC) Yellow Card at 48',Hannah Johnson Yellow Card,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,327391,2025-10-01 05:13:54
+13776,759373,7,46029406,94,2,2880,48',0,0,Samar Guidry (Dallas Trinity FC) Yellow Card at 48',Samar Guidry Yellow Card,131447,0.0,0.0,0.0,0.0,0.0,0.0,1,307428,2025-10-01 05:13:54
+13776,759373,10,46029409,76,2,3360,56',0,0,Rhea Moore (Dallas Trinity FC) Substitution at 56',Rhea Moore Substitution,131447,0.0,0.0,0.0,0.0,0.0,0.0,1,411693,2025-10-01 05:13:54
+13776,759373,11,46029410,76,2,3360,56',0,0,Tamara Bolt (Dallas Trinity FC) Substitution at 56',Tamara Bolt Substitution,131447,0.0,0.0,0.0,0.0,0.0,0.0,1,399645,2025-10-01 05:13:54
+13776,759373,8,46029407,76,2,3360,56',0,0,Caroline Kelly (Dallas Trinity FC) Substitution at 56',Caroline Kelly Substitution,131447,0.0,0.0,0.0,0.0,0.0,0.0,1,224874,2025-10-01 05:13:54
+13776,759373,9,46029408,76,2,3360,56',0,0,Camryn Lancaster (Dallas Trinity FC) Substitution at 56',Camryn Lancaster Substitution,131447,0.0,0.0,0.0,0.0,0.0,0.0,1,326918,2025-10-01 05:13:54
+13776,759373,10,46029409,76,2,3360,56',0,0,Rhea Moore (Dallas Trinity FC) Substitution at 56',Rhea Moore Substitution,131447,0.0,0.0,0.0,0.0,0.0,0.0,2,212194,2025-10-01 05:13:54
+13776,759373,11,46029410,76,2,3360,56',0,0,Tamara Bolt (Dallas Trinity FC) Substitution at 56',Tamara Bolt Substitution,131447,0.0,0.0,0.0,0.0,0.0,0.0,2,411694,2025-10-01 05:13:54
+13776,759373,9,46029408,76,2,3360,56',0,0,Camryn Lancaster (Dallas Trinity FC) Substitution at 56',Camryn Lancaster Substitution,131447,0.0,0.0,0.0,0.0,0.0,0.0,2,328567,2025-10-01 05:13:54
+13776,759373,8,46029407,76,2,3360,56',0,0,Caroline Kelly (Dallas Trinity FC) Substitution at 56',Caroline Kelly Substitution,131447,0.0,0.0,0.0,0.0,0.0,0.0,2,262023,2025-10-01 05:13:54
+13776,759373,12,46029411,93,2,3480,58',0,0,Samar Guidry (Dallas Trinity FC) Red Card at 58',Samar Guidry Red Card,131447,0.0,0.0,0.0,0.0,0.0,0.0,1,307428,2025-10-01 05:13:54
+13776,759373,13,46029412,76,2,4080,68',0,0,Madison Perez (Lexington SC) Substitution at 68',Madison Perez Substitution,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,411695,2025-10-01 05:13:54
+13776,759373,14,46029413,76,2,4080,68',0,0,Hannah White (Lexington SC) Substitution at 68',Hannah White Substitution,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,293616,2025-10-01 05:13:54
+13776,759373,14,46029413,76,2,4080,68',0,0,Hannah White (Lexington SC) Substitution at 68',Hannah White Substitution,131451,0.0,0.0,0.0,0.0,0.0,0.0,2,308502,2025-10-01 05:13:54
+13776,759373,13,46029412,76,2,4080,68',0,0,Madison Perez (Lexington SC) Substitution at 68',Madison Perez Substitution,131451,0.0,0.0,0.0,0.0,0.0,0.0,2,327391,2025-10-01 05:13:54
+13776,759373,15,46029414,70,2,4260,71',1,0,Emina Ekic (Lexington SC) Goal at 71',Emina Ekic Goal,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,263556,2025-10-01 05:13:54
+13776,759373,16,46029415,70,2,4620,77',1,0,Addie McCain (Lexington SC) Goal at 77',Addie McCain Goal,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,261845,2025-10-01 05:13:54
+13776,759373,19,46029418,76,2,4740,79',0,0,Justina Gaynor (Lexington SC) Substitution at 79',Justina Gaynor Substitution,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,349648,2025-10-01 05:13:54
+13776,759373,17,46029416,76,2,4740,79',0,0,Shea Moyer (Lexington SC) Substitution at 79',Shea Moyer Substitution,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,262754,2025-10-01 05:13:54
+13776,759373,18,46029417,76,2,4740,79',0,0,Kiley Dulaney (Dallas Trinity FC) Substitution at 79',Kiley Dulaney Substitution,131447,0.0,0.0,0.0,0.0,0.0,0.0,1,307879,2025-10-01 05:13:54
+13776,759373,17,46029416,76,2,4740,79',0,0,Shea Moyer (Lexington SC) Substitution at 79',Shea Moyer Substitution,131451,0.0,0.0,0.0,0.0,0.0,0.0,2,248457,2025-10-01 05:13:54
+13776,759373,19,46029418,76,2,4740,79',0,0,Justina Gaynor (Lexington SC) Substitution at 79',Justina Gaynor Substitution,131451,0.0,0.0,0.0,0.0,0.0,0.0,2,279249,2025-10-01 05:13:54
+13776,759373,18,46029417,76,2,4740,79',0,0,Kiley Dulaney (Dallas Trinity FC) Substitution at 79',Kiley Dulaney Substitution,131447,0.0,0.0,0.0,0.0,0.0,0.0,2,226782,2025-10-01 05:13:54
+13776,759373,20,46029419,76,2,4860,81',0,0,Hannah Richardson (Lexington SC) Substitution at 81',Hannah Richardson Substitution,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,292649,2025-10-01 05:13:54
+13776,759373,20,46029419,76,2,4860,81',0,0,Hannah Richardson (Lexington SC) Substitution at 81',Hannah Richardson Substitution,131451,0.0,0.0,0.0,0.0,0.0,0.0,2,263556,2025-10-01 05:13:54
+13776,759373,21,46029420,94,2,5280,88',0,0,Shea Moyer (Lexington SC) Yellow Card at 88',Shea Moyer Yellow Card,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,262754,2025-10-01 05:13:54
+13776,759373,22,46029421,70,2,5400,90'+1',1,0,Shea Moyer (Lexington SC) Goal at 91',Shea Moyer Goal,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,262754,2025-10-01 05:13:54
+13776,759373,23,46029422,94,2,5400,90'+2',0,0,Tatiana Fung (Lexington SC) Yellow Card at 92',Tatiana Fung Yellow Card,131451,0.0,0.0,0.0,0.0,0.0,0.0,1,327584,2025-10-01 05:13:54
+13776,759374,1,46034446,70,1,600,10',1,0,Ashlyn Puerta (Sporting Jax) Goal at 10',Ashlyn Puerta Goal,131453,0.0,0.0,0.0,0.0,0.0,0.0,1,389505,2025-10-01 05:13:54
+13776,759374,2,46034447,94,1,840,14',0,0,Brianna Martinez (Carolina Ascent FC) Yellow Card at 14',Brianna Martinez Yellow Card,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,361341,2025-10-01 05:13:54
+13776,759374,3,46034448,70,1,1380,23',1,0,Ashlyn Puerta (Sporting Jax) Goal at 23',Ashlyn Puerta Goal,131453,0.0,0.0,0.0,0.0,0.0,0.0,1,389505,2025-10-01 05:13:54
+13776,759374,4,46034449,70,1,1860,31',1,0,Ashlyn Puerta (Sporting Jax) Goal at 31',Ashlyn Puerta Goal,131453,0.0,0.0,0.0,0.0,0.0,0.0,1,389505,2025-10-01 05:13:54
+13776,759374,5,46034450,94,1,2160,36',0,0,Sydney Schmidt (Sporting Jax) Yellow Card at 36',Sydney Schmidt Yellow Card,131453,0.0,0.0,0.0,0.0,0.0,0.0,1,405104,2025-10-01 05:13:54
+13776,759374,6,46034451,70,1,2280,38',1,0,Rylee Baisden (Carolina Ascent FC) Goal at 38',Rylee Baisden Goal,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,211980,2025-10-01 05:13:54
+13776,759374,8,46034453,76,2,2700,45',0,0,Mackenzie George (Carolina Ascent FC) Substitution at 45',Mackenzie George Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,292620,2025-10-01 05:13:54
+13776,759374,7,46034452,94,1,2700,45',0,0,Taylor Porter (Carolina Ascent FC) Yellow Card at 45',Taylor Porter Yellow Card,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,242779,2025-10-01 05:13:54
+13776,759374,8,46034453,76,2,2700,45',0,0,Mackenzie George (Carolina Ascent FC) Substitution at 45',Mackenzie George Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,2,225047,2025-10-01 05:13:54
+13776,759374,9,46034454,70,2,2820,47',1,0,Mackenzie George (Carolina Ascent FC) Goal at 47',Mackenzie George Goal,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,292620,2025-10-01 05:13:54
+13776,759374,10,46034455,70,2,3000,50',1,0,Paige Kenton (Sporting Jax) Goal at 50',Paige Kenton Goal,131453,0.0,0.0,0.0,0.0,0.0,0.0,1,411701,2025-10-01 05:13:54
+13776,759374,11,46034456,76,2,3060,51',0,0,Madison Kemp (Sporting Jax) Substitution at 51',Madison Kemp Substitution,131453,0.0,0.0,0.0,0.0,0.0,0.0,1,316938,2025-10-01 05:13:54
+13776,759374,11,46034456,76,2,3060,51',0,0,Madison Kemp (Sporting Jax) Substitution at 51',Madison Kemp Substitution,131453,0.0,0.0,0.0,0.0,0.0,0.0,2,405104,2025-10-01 05:13:54
+13776,759374,12,46034457,94,2,3420,57',0,0,Jade Pennock (Sporting Jax) Yellow Card at 57',Jade Pennock Yellow Card,131453,0.0,0.0,0.0,0.0,0.0,0.0,1,323320,2025-10-01 05:13:54
+13776,759374,13,46034458,94,2,3840,64',0,0,Meaghan Nally (Carolina Ascent FC) Yellow Card at 64',Meaghan Nally Yellow Card,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,248725,2025-10-01 05:13:54
+13776,759374,14,46034459,70,2,3960,66',1,0,Mackenzie George (Carolina Ascent FC) Goal at 66',Mackenzie George Goal,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,292620,2025-10-01 05:13:54
+13776,759374,15,46034460,76,2,4080,68',0,0,Baylee Desmit (Sporting Jax) Substitution at 68',Baylee Desmit Substitution,131453,0.0,0.0,0.0,0.0,0.0,0.0,1,411704,2025-10-01 05:13:54
+13776,759374,15,46034460,76,2,4080,68',0,0,Baylee Desmit (Sporting Jax) Substitution at 68',Baylee Desmit Substitution,131453,0.0,0.0,0.0,0.0,0.0,0.0,2,323320,2025-10-01 05:13:54
+13776,759374,16,46034461,76,2,4320,72',0,0,Emily Moxley (Carolina Ascent FC) Substitution at 72',Emily Moxley Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,293984,2025-10-01 05:13:54
+13776,759374,16,46034461,76,2,4320,72',0,0,Emily Moxley (Carolina Ascent FC) Substitution at 72',Emily Moxley Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,2,361341,2025-10-01 05:13:54
+13776,759374,17,46034462,76,2,4920,82',0,0,Riley Parker (Carolina Ascent FC) Substitution at 82',Riley Parker Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,1,360955,2025-10-01 05:13:54
+13776,759374,17,46034462,76,2,4920,82',0,0,Riley Parker (Carolina Ascent FC) Substitution at 82',Riley Parker Substitution,131454,0.0,0.0,0.0,0.0,0.0,0.0,2,211980,2025-10-01 05:13:54
+13776,759374,18,46034463,76,2,5160,86',0,0,Jessica Hunt (Sporting Jax) Substitution at 86',Jessica Hunt Substitution,131453,0.0,0.0,0.0,0.0,0.0,0.0,1,411702,2025-10-01 05:13:54
+13776,759374,18,46034463,76,2,5160,86',0,0,Jessica Hunt (Sporting Jax) Substitution at 86',Jessica Hunt Substitution,131453,0.0,0.0,0.0,0.0,0.0,0.0,2,292481,2025-10-01 05:13:54
+13776,759374,19,46034464,76,2,5400,90',0,0,Katie Sullivan (Sporting Jax) Substitution at 90',Katie Sullivan Substitution,131453,0.0,0.0,0.0,0.0,0.0,0.0,1,246887,2025-10-01 05:13:54
+13776,759374,19,46034464,76,2,5400,90',0,0,Katie Sullivan (Sporting Jax) Substitution at 90',Katie Sullivan Substitution,131453,0.0,0.0,0.0,0.0,0.0,0.0,2,348913,2025-10-01 05:13:54
+13776,759375,1,46035064,94,1,480,8',0,0,Alice Barbieri (Brooklyn FC) Yellow Card at 8',Alice Barbieri Yellow Card,131452,0.0,0.0,0.0,0.0,0.0,0.0,1,368757,2025-10-01 05:13:54
+13776,759375,2,46035065,70,1,540,9',1,0,Stella Nyamekye (Fort Lauderdale United FC) Goal at 9',Stella Nyamekye Goal,131449,0.0,0.0,0.0,0.0,0.0,0.0,1,387274,2025-10-01 05:13:54
+13776,759375,3,46035066,94,1,1980,33',0,0,Emma Loving (Brooklyn FC) Yellow Card at 33',Emma Loving Yellow Card,131452,0.0,0.0,0.0,0.0,0.0,0.0,1,249239,2025-10-01 05:13:54
+13776,759375,4,46035067,94,1,2580,43',0,0,Kelsey Hill (Brooklyn FC) Yellow Card at 43',Kelsey Hill Yellow Card,131452,0.0,0.0,0.0,0.0,0.0,0.0,1,326942,2025-10-01 05:13:54
+13776,759375,5,46035068,70,1,2700,45'+1',1,0,Kiara Locklear (Fort Lauderdale United FC) Goal at 46',Kiara Locklear Goal,131449,0.0,0.0,0.0,0.0,0.0,0.0,1,411734,2025-10-01 05:13:54
+13776,759375,6,46035069,76,2,3780,63',0,0,Leah Scarpelli (Brooklyn FC) Substitution at 63',Leah Scarpelli Substitution,131452,0.0,0.0,0.0,0.0,0.0,0.0,1,327467,2025-10-01 05:13:54
+13776,759375,7,46035070,76,2,3780,63',0,0,Emily Pringle (Brooklyn FC) Substitution at 63',Emily Pringle Substitution,131452,0.0,0.0,0.0,0.0,0.0,0.0,1,393496,2025-10-01 05:13:54
+13776,759375,6,46035069,76,2,3780,63',0,0,Leah Scarpelli (Brooklyn FC) Substitution at 63',Leah Scarpelli Substitution,131452,0.0,0.0,0.0,0.0,0.0,0.0,2,223046,2025-10-01 05:13:54
+13776,759375,7,46035070,76,2,3780,63',0,0,Emily Pringle (Brooklyn FC) Substitution at 63',Emily Pringle Substitution,131452,0.0,0.0,0.0,0.0,0.0,0.0,2,411722,2025-10-01 05:13:54
+13776,759375,8,46035071,76,2,4080,68',0,0,Princess Ademiluyi (Fort Lauderdale United FC) Substitution at 68',Princess Ademiluyi Substitution,131449,0.0,0.0,0.0,0.0,0.0,0.0,1,362493,2025-10-01 05:13:54
+13776,759375,9,46035072,76,2,4080,68',0,0,Darya Rajaee (Fort Lauderdale United FC) Substitution at 68',Darya Rajaee Substitution,131449,0.0,0.0,0.0,0.0,0.0,0.0,1,327405,2025-10-01 05:13:54
+13776,759375,9,46035072,76,2,4080,68',0,0,Darya Rajaee (Fort Lauderdale United FC) Substitution at 68',Darya Rajaee Substitution,131449,0.0,0.0,0.0,0.0,0.0,0.0,2,211225,2025-10-01 05:13:54
+13776,759375,8,46035071,76,2,4080,68',0,0,Princess Ademiluyi (Fort Lauderdale United FC) Substitution at 68',Princess Ademiluyi Substitution,131449,0.0,0.0,0.0,0.0,0.0,0.0,2,411738,2025-10-01 05:13:54
+13776,759375,10,46035073,76,2,4320,72',0,0,Ana Maria Markovic (Brooklyn FC) Substitution at 72',Ana Maria Markovic Substitution,131452,0.0,0.0,0.0,0.0,0.0,0.0,1,339346,2025-10-01 05:13:54
+13776,759375,10,46035073,76,2,4320,72',0,0,Ana Maria Markovic (Brooklyn FC) Substitution at 72',Ana Maria Markovic Substitution,131452,0.0,0.0,0.0,0.0,0.0,0.0,2,411737,2025-10-01 05:13:54
+13776,759375,11,46035074,76,2,4740,79',0,0,Sam Rosette (Brooklyn FC) Substitution at 79',Sam Rosette Substitution,131452,0.0,0.0,0.0,0.0,0.0,0.0,1,246591,2025-10-01 05:13:54
+13776,759375,12,46035075,76,2,4740,79',0,0,Antoinette Williams (Brooklyn FC) Substitution at 79',Antoinette Williams Substitution,131452,0.0,0.0,0.0,0.0,0.0,0.0,1,411723,2025-10-01 05:13:54
+13776,759375,11,46035074,76,2,4740,79',0,0,Sam Rosette (Brooklyn FC) Substitution at 79',Sam Rosette Substitution,131452,0.0,0.0,0.0,0.0,0.0,0.0,2,368757,2025-10-01 05:13:54
+13776,759375,12,46035075,76,2,4740,79',0,0,Antoinette Williams (Brooklyn FC) Substitution at 79',Antoinette Williams Substitution,131452,0.0,0.0,0.0,0.0,0.0,0.0,2,249239,2025-10-01 05:13:54
+13776,759375,13,46035076,70,2,5220,87',1,0,Hope Breslin (Brooklyn FC) Goal at 87',Hope Breslin Goal,131452,0.0,0.0,0.0,0.0,0.0,0.0,1,262002,2025-10-01 05:13:54
+13776,759375,14,46035077,76,2,5400,90'+2',0,0,Kathrynn González (Fort Lauderdale United FC) Substitution at 92',Kathrynn González Substitution,131449,0.0,0.0,0.0,0.0,0.0,0.0,1,340376,2025-10-01 05:13:54
+13776,759375,14,46035077,76,2,5400,90'+2',0,0,Kathrynn González (Fort Lauderdale United FC) Substitution at 92',Kathrynn González Substitution,131449,0.0,0.0,0.0,0.0,0.0,0.0,2,387274,2025-10-01 05:13:54

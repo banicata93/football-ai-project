@@ -1,0 +1,24 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12586,702837,1,44488453,94,1,1380,23',0,0,Nuno Mendes (Paris Saint-Germain) Yellow Card at 23',Nuno Mendes Yellow Card,160,0.0,0.0,0.0,0.0,0.0,0.0,1,290591,2025-01-06 05:42:36
+12586,702837,2,44488504,94,1,2100,35',0,0,Vanderson (AS Monaco) Yellow Card at 35',Vanderson Yellow Card,174,0.0,0.0,0.0,0.0,0.0,0.0,1,310640,2025-01-06 05:42:36
+12586,702837,2,44488504,94,1,2100,35',0,0,Vanderson (AS Monaco) Yellow Card at 35',Vanderson Yellow Card,174,0.0,0.0,0.0,0.0,0.0,0.0,1,183576,2025-01-06 05:42:36
+12586,702837,3,44488831,76,2,4020,67',0,0,Fabián Ruiz (Paris Saint-Germain) Substitution at 67',Fabián Ruiz Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,1,214596,2025-01-06 05:42:36
+12586,702837,4,44488832,76,2,4020,67',0,0,Bradley Barcola (Paris Saint-Germain) Substitution at 67',Bradley Barcola Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,1,328238,2025-01-06 05:42:36
+12586,702837,3,44488831,76,2,4020,67',0,0,Fabián Ruiz (Paris Saint-Germain) Substitution at 67',Fabián Ruiz Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,2,355061,2025-01-06 05:42:36
+12586,702837,4,44488832,76,2,4020,67',0,0,Bradley Barcola (Paris Saint-Germain) Substitution at 67',Bradley Barcola Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,2,274197,2025-01-06 05:42:36
+12586,702837,6,44488843,76,2,4320,72',0,0,Lamine Camara (AS Monaco) Substitution at 72',Lamine Camara Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,1,38721,2025-01-06 05:42:36
+12586,702837,5,44488842,76,2,4320,72',0,0,Breel Embolo (AS Monaco) Substitution at 72',Breel Embolo Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,1,202099,2025-01-06 05:42:36
+12586,702837,7,44488844,76,2,4320,72',0,0,Gonçalo Ramos (Paris Saint-Germain) Substitution at 72',Gonçalo Ramos Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,1,354088,2025-01-06 05:42:36
+12586,702837,7,44488844,76,2,4320,72',0,0,Gonçalo Ramos (Paris Saint-Germain) Substitution at 72',Gonçalo Ramos Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,1,288896,2025-01-06 05:42:36
+12586,702837,7,44488844,76,2,4320,72',0,0,Gonçalo Ramos (Paris Saint-Germain) Substitution at 72',Gonçalo Ramos Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,2,336388,2025-01-06 05:42:36
+12586,702837,5,44488842,76,2,4320,72',0,0,Breel Embolo (AS Monaco) Substitution at 72',Breel Embolo Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,357108,2025-01-06 05:42:36
+12586,702837,6,44488843,76,2,4320,72',0,0,Lamine Camara (AS Monaco) Substitution at 72',Lamine Camara Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,195501,2025-01-06 05:42:36
+12586,702837,8,44488914,76,2,5160,86',0,0,Jordan Teze (AS Monaco) Substitution at 86',Jordan Teze Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,1,240660,2025-01-06 05:42:36
+12586,702837,9,44488915,76,2,5160,86',0,0,Soungoutou Magassa (AS Monaco) Substitution at 86',Soungoutou Magassa Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,1,333240,2025-01-06 05:42:36
+12586,702837,8,44488914,76,2,5160,86',0,0,Jordan Teze (AS Monaco) Substitution at 86',Jordan Teze Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,183576,2025-01-06 05:42:36
+12586,702837,8,44488914,76,2,5160,86',0,0,Jordan Teze (AS Monaco) Substitution at 86',Jordan Teze Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,310640,2025-01-06 05:42:36
+12586,702837,9,44488915,76,2,5160,86',0,0,Soungoutou Magassa (AS Monaco) Substitution at 86',Soungoutou Magassa Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,329690,2025-01-06 05:42:36
+12586,702837,10,44488933,94,2,5220,87',0,0,Bradley Barcola (Paris Saint-Germain) Yellow Card at 87',Bradley Barcola Yellow Card,160,0.0,0.0,0.0,0.0,0.0,0.0,1,328238,2025-01-06 05:42:36
+12586,702837,11,44488934,76,2,5280,88',0,0,Senny Mayulu (Paris Saint-Germain) Substitution at 88',Senny Mayulu Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,1,379088,2025-01-06 05:42:36
+12586,702837,11,44488934,76,2,5280,88',0,0,Senny Mayulu (Paris Saint-Germain) Substitution at 88',Senny Mayulu Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,2,345581,2025-01-06 05:42:36
+12586,702837,12,44488961,70,2,5400,90'+2',1,0,Ousmane Dembélé (Paris Saint-Germain) Goal at 92',Ousmane Dembélé Goal,160,0.0,0.0,0.0,0.0,0.0,0.0,1,229744,2025-01-06 05:42:36

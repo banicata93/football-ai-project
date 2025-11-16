@@ -1,0 +1,732 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12487,699833,1,43449376,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699833,2,43449409,94,1,638,11',0,0,Patri Guijarro (Spain) is shown the yellow card.,Patri Guijarro Yellow Card,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,264734.0,2024-07-26 11:46:51
+12487,699833,3,43449410,138,1,758,13',1,0,"Goal! Spain 0, Japan 1. Aoba Fujino (Japan) from a free kick with a right footed shot to the top right corner.",Aoba Fujino Goal - Free-kick,2758,0.0,0.0,0.534,0.621,0.0,0.538,1.0,351355.0,2024-07-26 11:46:51
+12487,699833,4,43449452,70,1,1283,22',1,0,"Goal! Spain 1, Japan 1. Aitana Bonmatí (Spain) right footed shot from the right side of the six yard box to the bottom left corner. Assisted by Athenea del Castillo with a through ball.",Aitana Bonmatí Goal,17640,0.0,0.0,0.07,0.587,0.0,0.48,1.0,268537.0,2024-07-26 11:46:51
+12487,699833,4,43449452,70,1,1283,22',1,0,"Goal! Spain 1, Japan 1. Aitana Bonmatí (Spain) right footed shot from the right side of the six yard box to the bottom left corner. Assisted by Athenea del Castillo with a through ball.",Aitana Bonmatí Goal,17640,0.0,0.0,0.07,0.587,0.0,0.48,2.0,320355.0,2024-07-26 11:46:51
+12487,699833,5,43449514,94,1,2520,42',0,0,Irene Paredes (Spain) is shown the yellow card for a bad foul.,Irene Paredes Yellow Card,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219998.0,2024-07-26 11:46:51
+12487,699833,6,43449538,81,1,2700,45'+4',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699833,8,43449548,82,2,2700,45',0,0,"Second Half begins Spain 1, Japan 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699833,7,43449543,76,2,2700,45',0,0,"Substitution, Japan. Maika Hamano replaces Kiko Seike.",Maika Hamano Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,351356.0,2024-07-26 11:46:51
+12487,699833,7,43449543,76,2,2700,45',0,0,"Substitution, Japan. Maika Hamano replaces Kiko Seike.",Maika Hamano Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,296778.0,2024-07-26 11:46:51
+12487,699833,9,43449665,76,2,3586,60',0,0,"Substitution, Spain. Oihane Hernández replaces Olga Carmona.",Oihane Hernández Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,333486.0,2024-07-26 11:46:51
+12487,699833,9,43449665,76,2,3586,60',0,0,"Substitution, Spain. Oihane Hernández replaces Olga Carmona.",Oihane Hernández Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317946.0,2024-07-26 11:46:51
+12487,699833,10,43449715,76,2,4075,68',0,0,"Substitution, Spain. Jenni Hermoso replaces Alexia Putellas.",Jenni Hermoso Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,220006.0,2024-07-26 11:46:51
+12487,699833,10,43449715,76,2,4075,68',0,0,"Substitution, Spain. Jenni Hermoso replaces Alexia Putellas.",Jenni Hermoso Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219995.0,2024-07-26 11:46:51
+12487,699833,11,43449716,76,2,4089,69',0,0,"Substitution, Japan. Hana Takahashi replaces Risa Shimizu because of an injury.",Hana Takahashi Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,296776.0,2024-07-26 11:46:51
+12487,699833,11,43449716,76,2,4089,69',0,0,"Substitution, Japan. Hana Takahashi replaces Risa Shimizu because of an injury.",Hana Takahashi Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,267529.0,2024-07-26 11:46:51
+12487,699833,12,43449760,70,2,4408,74',1,0,"Goal! Spain 2, Japan 1. Mariona Caldentey (Spain) right footed shot from the centre of the box to the bottom right corner. Assisted by Aitana Bonmatí.",Mariona Caldentey Goal,17640,0.0,0.0,0.25,0.412,0.0,0.542,1.0,257473.0,2024-07-26 11:46:51
+12487,699833,12,43449760,70,2,4408,74',1,0,"Goal! Spain 2, Japan 1. Mariona Caldentey (Spain) right footed shot from the centre of the box to the bottom right corner. Assisted by Aitana Bonmatí.",Mariona Caldentey Goal,17640,0.0,0.0,0.25,0.412,0.0,0.542,2.0,268537.0,2024-07-26 11:46:51
+12487,699833,13,43449807,76,2,4787,80',0,0,"Substitution, Japan. Remina Chiba replaces Mina Tanaka.",Remina Chiba Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,343589.0,2024-07-26 11:46:51
+12487,699833,13,43449807,76,2,4787,80',0,0,"Substitution, Japan. Remina Chiba replaces Mina Tanaka.",Remina Chiba Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,223464.0,2024-07-26 11:46:51
+12487,699833,14,43449814,76,2,4907,82',0,0,"Substitution, Spain. Lucía García replaces Athenea del Castillo.",Lucía García Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,282854.0,2024-07-26 11:46:51
+12487,699833,14,43449814,76,2,4907,82',0,0,"Substitution, Spain. Lucía García replaces Athenea del Castillo.",Lucía García Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,320355.0,2024-07-26 11:46:51
+12487,699833,15,43449815,76,2,4918,82',0,0,"Substitution, Spain. Teresa Abelleira replaces Patri Guijarro.",Teresa Abelleira Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317628.0,2024-07-26 11:46:51
+12487,699833,15,43449815,76,2,4918,82',0,0,"Substitution, Spain. Teresa Abelleira replaces Patri Guijarro.",Teresa Abelleira Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,264734.0,2024-07-26 11:46:51
+12487,699833,16,43449853,76,2,5393,90',0,0,"Substitution, Japan. Miyabi Moriya replaces Toko Koga.",Miyabi Moriya Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,359225.0,2024-07-26 11:46:51
+12487,699833,16,43449853,76,2,5393,90',0,0,"Substitution, Japan. Miyabi Moriya replaces Toko Koga.",Miyabi Moriya Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,351715.0,2024-07-26 11:46:51
+12487,699833,17,43449903,83,2,5400,90'+7',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699834,1,43449914,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699834,2,43450196,94,1,1614,27',0,0,Yayá (Brazil) is shown the yellow card for a bad foul.,Vitória Yaya  Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,296481.0,2024-08-08 09:36:57
+12487,699834,3,43450284,76,1,2160,36',0,0,"Substitution, Brazil. Yasmim replaces Tamires because of an injury.",Yasmim  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,268328.0,2024-08-08 09:36:57
+12487,699834,3,43450284,76,1,2160,36',0,0,"Substitution, Brazil. Yasmim replaces Tamires because of an injury.",Yasmim  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219826.0,2024-08-08 09:36:57
+12487,699834,4,43450291,70,1,2189,37',1,0,"Goal! Nigeria 0, Brazil 1. Gabi Nunes (Brazil) right footed shot from the right side of the box to the top right corner. Assisted by Marta with a through ball.",Gabi Nunes Goal,2752,0.0,0.0,0.204,0.674,0.0,0.528,1.0,257469.0,2024-07-26 11:46:51
+12487,699834,4,43450291,70,1,2189,37',1,0,"Goal! Nigeria 0, Brazil 1. Gabi Nunes (Brazil) right footed shot from the right side of the box to the top right corner. Assisted by Marta with a through ball.",Gabi Nunes Goal,2752,0.0,0.0,0.204,0.674,0.0,0.528,2.0,158712.0,2024-07-26 11:46:51
+12487,699834,5,43450474,81,1,2700,45'+10',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699834,7,43450574,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699834,6,43450566,76,2,2700,45',0,0,"Substitution, Nigeria. Esther Okoronkwo replaces Chinwendu Ihezuo.",Esther Okoronkwo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,279837.0,2024-07-26 11:46:51
+12487,699834,6,43450566,76,2,2700,45',0,0,"Substitution, Nigeria. Esther Okoronkwo replaces Chinwendu Ihezuo.",Esther Okoronkwo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2.0,220191.0,2024-07-26 11:46:51
+12487,699834,8,43450773,76,2,3841,65',0,0,"Substitution, Brazil. Jheniffer replaces Ludmila.",Jheniffer  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,344299.0,2024-08-08 09:36:57
+12487,699834,8,43450773,76,2,3841,65',0,0,"Substitution, Brazil. Jheniffer replaces Ludmila.",Jheniffer  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,258819.0,2024-08-08 09:36:57
+12487,699834,9,43450774,76,2,3905,66',0,0,"Substitution, Brazil. Ana Vitória replaces Yayá because of an injury.",Ana Vitória  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,310885.0,2024-08-08 09:36:57
+12487,699834,9,43450774,76,2,3905,66',0,0,"Substitution, Brazil. Ana Vitória replaces Yayá because of an injury.",Ana Vitória  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,296481.0,2024-08-08 09:36:57
+12487,699834,10,43450809,76,2,3999,67',0,0,"Substitution, Nigeria. Ifeoma Onumonu replaces Jennifer Echegini.",Ifeoma Onumonu Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,213954.0,2024-07-26 11:46:51
+12487,699834,10,43450809,76,2,3999,67',0,0,"Substitution, Nigeria. Ifeoma Onumonu replaces Jennifer Echegini.",Ifeoma Onumonu Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2.0,292902.0,2024-07-26 11:46:51
+12487,699834,11,43450810,76,2,4000,67',0,0,"Substitution, Nigeria. Uchenna Kanu replaces Toni Payne.",Uchenna Kanu Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,287381.0,2024-07-26 11:46:51
+12487,699834,11,43450810,76,2,4000,67',0,0,"Substitution, Nigeria. Uchenna Kanu replaces Toni Payne.",Uchenna Kanu Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2.0,211151.0,2024-07-26 11:46:51
+12487,699834,12,43450889,76,2,4463,75',0,0,"Substitution, Nigeria. Nicole Payne replaces Chidinma Okeke.",Nicole Payne Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,293932.0,2024-07-26 11:46:51
+12487,699834,12,43450889,76,2,4463,75',0,0,"Substitution, Nigeria. Nicole Payne replaces Chidinma Okeke.",Nicole Payne Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2.0,288708.0,2024-07-26 11:46:51
+12487,699834,13,43450981,76,2,4941,83',0,0,"Substitution, Brazil. Kerolin replaces Gabi Nunes.",Kerolin  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,281475.0,2024-08-08 09:36:57
+12487,699834,13,43450981,76,2,4941,83',0,0,"Substitution, Brazil. Kerolin replaces Gabi Nunes.",Kerolin  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,257469.0,2024-08-08 09:36:57
+12487,699834,14,43451114,83,2,5400,90'+9',0,0,"Second Half ends, Nigeria 0, Brazil 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699835,1,43449907,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699835,2,43450109,94,1,1314,22',0,0,Caitlin Foord (Australia) is shown the yellow card for a bad foul.,Caitlin Foord Yellow Card,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158678.0,2024-07-26 11:46:51
+12487,699835,3,43450128,137,1,1433,24',1,0,"Goal! Germany 1, Australia 0. Marina Hegering (Germany) header from the left side of the six yard box to the centre of the goal. Assisted by Giulia Gwinn with a cross following a corner.",Marina Hegering Goal - Header,2756,0.0,0.0,0.084,0.447,0.0,0.505,1.0,286459.0,2024-07-26 11:46:51
+12487,699835,3,43450128,137,1,1433,24',1,0,"Goal! Germany 1, Australia 0. Marina Hegering (Germany) header from the left side of the six yard box to the centre of the goal. Assisted by Giulia Gwinn with a cross following a corner.",Marina Hegering Goal - Header,2756,0.0,0.0,0.084,0.447,0.0,0.505,2.0,268102.0,2024-07-26 11:46:51
+12487,699835,5,43450431,81,1,2700,45'+3',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699835,7,43450513,82,2,2700,45',0,0,"Second Half begins Germany 1, Australia 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699835,4,43450414,94,1,2700,45'+1',0,0,Janina Minge (Germany) is shown the yellow card for a bad foul.,Janina Minge Yellow Card,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,354419.0,2024-07-26 11:46:51
+12487,699835,6,43450512,76,2,2700,45',0,0,"Substitution, Germany. Sydney Lohmann replaces Sjoeke Nüsken.",Sydney Lohmann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283073.0,2024-07-26 11:46:51
+12487,699835,6,43450512,76,2,2700,45',0,0,"Substitution, Germany. Sydney Lohmann replaces Sjoeke Nüsken.",Sydney Lohmann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,314382.0,2024-07-26 11:46:51
+12487,699835,8,43450610,76,2,3489,59',0,0,"Substitution, Australia. Sharn Freier replaces Cortnee Vine.",Sharn Freier Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,312197.0,2024-07-26 11:46:51
+12487,699835,8,43450610,76,2,3489,59',0,0,"Substitution, Australia. Sharn Freier replaces Cortnee Vine.",Sharn Freier Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2.0,300517.0,2024-07-26 11:46:51
+12487,699835,9,43450621,76,2,3495,59',0,0,"Substitution, Australia. Clare Wheeler replaces Katrina Gorry.",Clare Wheeler Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,300568.0,2024-07-26 11:46:51
+12487,699835,9,43450621,76,2,3495,59',0,0,"Substitution, Australia. Clare Wheeler replaces Katrina Gorry.",Clare Wheeler Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219825.0,2024-07-26 11:46:51
+12487,699835,10,43450680,137,2,3813,64',1,0,"Goal! Germany 2, Australia 0. Lea Schüller (Germany) header from the centre of the box to the bottom left corner. Assisted by Giulia Gwinn with a cross following a corner.",Lea Schüller Goal - Header,2756,0.0,0.0,0.152,0.485,0.0,0.468,1.0,258844.0,2024-07-26 11:46:51
+12487,699835,10,43450680,137,2,3813,64',1,0,"Goal! Germany 2, Australia 0. Lea Schüller (Germany) header from the centre of the box to the bottom left corner. Assisted by Giulia Gwinn with a cross following a corner.",Lea Schüller Goal - Header,2756,0.0,0.0,0.152,0.485,0.0,0.468,2.0,268102.0,2024-07-26 11:46:51
+12487,699835,11,43450712,70,2,4064,68',1,0,"Goal! Germany 3, Australia 0. Jule Brand (Germany) right footed shot from very close range to the bottom right corner. Assisted by Sarai Linder.",Jule Brand Goal,2756,0.0,0.0,0.072,0.522,0.0,0.532,1.0,317719.0,2024-07-26 11:46:51
+12487,699835,11,43450712,70,2,4064,68',1,0,"Goal! Germany 3, Australia 0. Jule Brand (Germany) right footed shot from very close range to the bottom right corner. Assisted by Sarai Linder.",Jule Brand Goal,2756,0.0,0.0,0.072,0.522,0.0,0.532,2.0,328135.0,2024-07-26 11:46:51
+12487,699835,12,43450786,76,2,4373,73',0,0,"Substitution, Germany. Bibiane Schulze replaces Marina Hegering.",Bibiane Schulze Solano Substitut,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,333545.0,2024-07-26 11:46:51
+12487,699835,12,43450786,76,2,4373,73',0,0,"Substitution, Germany. Bibiane Schulze replaces Marina Hegering.",Bibiane Schulze Solano Substitut,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,286459.0,2024-07-26 11:46:51
+12487,699835,13,43450787,76,2,4376,73',0,0,"Substitution, Germany. Elisa Senß replaces Janina Minge.",Elisa Senß Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377165.0,2024-07-26 11:46:51
+12487,699835,13,43450787,76,2,4376,73',0,0,"Substitution, Germany. Elisa Senß replaces Janina Minge.",Elisa Senß Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,354419.0,2024-07-26 11:46:51
+12487,699835,14,43450824,76,2,4582,77',0,0,"Substitution, Australia. Michelle Heyman replaces Caitlin Foord.",Michelle Heyman Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158675.0,2024-07-26 11:46:51
+12487,699835,14,43450824,76,2,4582,77',0,0,"Substitution, Australia. Michelle Heyman replaces Caitlin Foord.",Michelle Heyman Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2.0,158678.0,2024-07-26 11:46:51
+12487,699835,15,43450825,76,2,4586,77',0,0,"Substitution, Australia. Emily van Egmond replaces Hayley Raso.",Emily van Egmond Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158693.0,2024-07-26 11:46:51
+12487,699835,15,43450825,76,2,4586,77',0,0,"Substitution, Australia. Emily van Egmond replaces Hayley Raso.",Emily van Egmond Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219818.0,2024-07-26 11:46:51
+12487,699835,16,43450826,76,2,4593,77',0,0,"Substitution, Australia. Kaitlyn Torpey replaces Steph Catley.",Kaitlyn Torpey Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,300585.0,2024-07-26 11:46:51
+12487,699835,16,43450826,76,2,4593,77',0,0,"Substitution, Australia. Kaitlyn Torpey replaces Steph Catley.",Kaitlyn Torpey Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219822.0,2024-07-26 11:46:51
+12487,699835,17,43450989,76,2,5290,89',0,0,"Substitution, Germany. Vivien Endemann replaces Klara Bühl.",Vivien Endemann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,382439.0,2024-07-26 11:46:51
+12487,699835,17,43450989,76,2,5290,89',0,0,"Substitution, Germany. Vivien Endemann replaces Klara Bühl.",Vivien Endemann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,286460.0,2024-07-26 11:46:51
+12487,699835,18,43451061,83,2,5400,90'+7',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699836,1,43451094,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699836,2,43451249,70,1,989,17',1,0,"Goal! USA 1, Zambia 0. Trinity Rodman (USA) right footed shot from the centre of the box to the centre of the goal. Assisted by Lindsey Horan.",Trinity Rodman Goal,2765,0.0,0.0,0.25,0.488,0.0,0.49,1.0,317423.0,2024-07-26 11:46:51
+12487,699836,2,43451249,70,1,989,17',1,0,"Goal! USA 1, Zambia 0. Trinity Rodman (USA) right footed shot from the centre of the box to the centre of the goal. Assisted by Lindsey Horan.",Trinity Rodman Goal,2765,0.0,0.0,0.25,0.488,0.0,0.49,2.0,228716.0,2024-07-26 11:46:51
+12487,699836,3,43451312,70,1,1421,24',1,0,"Goal! USA 2, Zambia 0. Mallory Swanson (USA) left footed shot from the centre of the box to the bottom left corner. Assisted by Lindsey Horan with a through ball.",Mallory Swanson Goal,2765,0.0,0.0,0.15,0.437,0.0,0.48,1.0,233163.0,2024-07-26 11:46:51
+12487,699836,3,43451312,70,1,1421,24',1,0,"Goal! USA 2, Zambia 0. Mallory Swanson (USA) left footed shot from the centre of the box to the bottom left corner. Assisted by Lindsey Horan with a through ball.",Mallory Swanson Goal,2765,0.0,0.0,0.15,0.437,0.0,0.48,2.0,228716.0,2024-07-26 11:46:51
+12487,699836,4,43451324,70,1,1491,25',1,0,"Goal! USA 3, Zambia 0. Mallory Swanson (USA) left footed shot from the left side of the six yard box to the centre of the goal. Assisted by Sophia Smith with a through ball.",Mallory Swanson Goal,2765,0.0,0.0,0.09,0.433,0.0,0.491,1.0,233163.0,2024-07-26 11:46:51
+12487,699836,4,43451324,70,1,1491,25',1,0,"Goal! USA 3, Zambia 0. Mallory Swanson (USA) left footed shot from the left side of the six yard box to the centre of the goal. Assisted by Sophia Smith with a through ball.",Mallory Swanson Goal,2765,0.0,0.0,0.09,0.433,0.0,0.491,2.0,43770.0,2024-07-26 11:46:51
+12487,699836,5,43451383,93,1,1990,34',0,0,Pauline Zulu (Zambia) is shown the red card.,Pauline Zulu Red Card,20795,0.0,0.0,0.0,0.0,0.0,0.0,1.0,351434.0,2024-07-26 11:46:51
+12487,699836,6,43451419,76,1,2213,37',0,0,"Substitution, Zambia. Avell Chitundu replaces Prisca Chilufya.",Avell Chitundu Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1.0,310659.0,2024-07-26 11:46:51
+12487,699836,6,43451419,76,1,2213,37',0,0,"Substitution, Zambia. Avell Chitundu replaces Prisca Chilufya.",Avell Chitundu Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2.0,351425.0,2024-07-26 11:46:51
+12487,699836,7,43451420,76,1,2226,38',0,0,"Substitution, Zambia. Esther Muchinga replaces Grace Chanda.",Esther Muchinga Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386581.0,2024-07-26 11:46:51
+12487,699836,7,43451420,76,1,2226,38',0,0,"Substitution, Zambia. Esther Muchinga replaces Grace Chanda.",Esther Muchinga Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2.0,310642.0,2024-07-26 11:46:51
+12487,699836,8,43451479,76,1,2573,43',0,0,"Substitution, USA. Lynn Williams replaces Sophia Smith because of an injury.",Lynn Williams Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,211968.0,2024-07-26 11:46:51
+12487,699836,8,43451479,76,1,2573,43',0,0,"Substitution, USA. Lynn Williams replaces Sophia Smith because of an injury.",Lynn Williams Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,43770.0,2024-07-26 11:46:51
+12487,699836,9,43451482,94,1,2617,44',0,0,Trinity Rodman (USA) is shown the yellow card for a bad foul.,Trinity Rodman Yellow Card,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317423.0,2024-07-26 11:46:51
+12487,699836,10,43451494,94,1,2667,45',0,0,Martha Tembo (Zambia) is shown the yellow card for a bad foul.,Martha Tembo Yellow Card,20795,0.0,0.0,0.0,0.0,0.0,0.0,1.0,310662.0,2024-07-26 11:46:51
+12487,699836,11,43451520,81,1,2700,45'+3',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699836,13,43451596,82,2,2700,45',0,0,"Second Half begins USA 3, Zambia 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699836,12,43451591,76,2,2700,45',0,0,"Substitution, USA. Korbin Albert replaces Rose Lavelle.",Korbin Albert Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,327417.0,2024-07-26 11:46:51
+12487,699836,12,43451591,76,2,2700,45',0,0,"Substitution, USA. Korbin Albert replaces Rose Lavelle.",Korbin Albert Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,209984.0,2024-07-26 11:46:51
+12487,699836,14,43451744,76,2,3863,65',0,0,"Substitution, USA. Casey Krueger replaces Trinity Rodman.",Casey Krueger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,248778.0,2024-07-26 11:46:51
+12487,699836,14,43451744,76,2,3863,65',0,0,"Substitution, USA. Casey Krueger replaces Trinity Rodman.",Casey Krueger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317423.0,2024-07-26 11:46:51
+12487,699836,15,43451745,76,2,3876,65',0,0,"Substitution, USA. Jenna Nighswonger replaces Mallory Swanson.",Jenna Nighswonger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,292633.0,2024-07-26 11:46:51
+12487,699836,15,43451745,76,2,3876,65',0,0,"Substitution, USA. Jenna Nighswonger replaces Mallory Swanson.",Jenna Nighswonger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,233163.0,2024-07-26 11:46:51
+12487,699836,16,43451746,76,2,3884,65',0,0,"Substitution, USA. Emily Sonnett replaces Lindsey Horan.",Emily Sonnett Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,211034.0,2024-07-26 11:46:51
+12487,699836,16,43451746,76,2,3884,65',0,0,"Substitution, USA. Emily Sonnett replaces Lindsey Horan.",Emily Sonnett Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,228716.0,2024-07-26 11:46:51
+12487,699836,17,43451915,83,2,5400,90'+5',0,0,"Second Half ends, USA 3, Zambia 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699837,1,43465663,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699837,2,43465672,94,1,117,2',0,0,Lauren (Brazil) is shown the yellow card for a bad foul.,Lauren  Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,328198.0,2024-08-08 09:36:57
+12487,699837,3,43465951,94,1,2625,44',0,0,Marta (Brazil) is shown the yellow card for a bad foul.,Marta  Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158712.0,2024-08-08 09:36:57
+12487,699837,5,43466013,81,1,2700,45'+5',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699837,9,43466083,82,2,2700,45',0,0,"Second Half begins Brazil 0, Japan 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699837,6,43466079,76,2,2700,45',0,0,"Substitution, Brazil. Jheniffer replaces Gabi Nunes.",Jheniffer  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,344299.0,2024-08-08 09:36:57
+12487,699837,7,43466080,76,2,2700,45',0,0,"Substitution, Brazil. Ludmila replaces Priscila.",Ludmila  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,258819.0,2024-08-08 09:36:57
+12487,699837,4,43465999,114,1,2700,45'+3',0,0,Penalty saved. Mina Tanaka (Japan) right footed shot saved in the bottom right corner.,Mina Tanaka Penalty - Saved,2758,0.0,0.0,0.23,0.5,0.006,0.498,1.0,223464.0,2024-07-29 12:04:54
+12487,699837,8,43466081,76,2,2700,45',0,0,"Substitution, Brazil. Tarciane replaces Lauren.",Tarciane  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,351655.0,2024-08-08 09:36:57
+12487,699837,7,43466080,76,2,2700,45',0,0,"Substitution, Brazil. Ludmila replaces Priscila.",Ludmila  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,377166.0,2024-08-08 09:36:57
+12487,699837,8,43466081,76,2,2700,45',0,0,"Substitution, Brazil. Tarciane replaces Lauren.",Tarciane  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,328198.0,2024-08-08 09:36:57
+12487,699837,6,43466079,76,2,2700,45',0,0,"Substitution, Brazil. Jheniffer replaces Gabi Nunes.",Jheniffer  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,257469.0,2024-08-08 09:36:57
+12487,699837,10,43466130,70,2,3320,56',1,0,"Goal! Brazil 1, Japan 0. Jheniffer (Brazil) right footed shot from outside the box to the bottom right corner. Assisted by Ludmila following a fast break.",Jheniffer  Goal,2752,0.0,0.0,0.362,0.536,0.0,0.532,1.0,344299.0,2024-08-08 09:36:57
+12487,699837,10,43466130,70,2,3320,56',1,0,"Goal! Brazil 1, Japan 0. Jheniffer (Brazil) right footed shot from outside the box to the bottom right corner. Assisted by Ludmila following a fast break.",Jheniffer  Goal,2752,0.0,0.0,0.362,0.536,0.0,0.532,2.0,258819.0,2024-08-08 09:36:57
+12487,699837,11,43466136,76,2,3403,57',0,0,"Substitution, Japan. Riko Ueki replaces Maika Hamano.",Riko Ueki Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,287317.0,2024-07-29 12:04:54
+12487,699837,11,43466136,76,2,3403,57',0,0,"Substitution, Japan. Riko Ueki replaces Maika Hamano.",Riko Ueki Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,351356.0,2024-07-29 12:04:54
+12487,699837,12,43466207,76,2,4153,70',0,0,"Substitution, Brazil. Duda Sampaio replaces Angelina.",Duda Sampaio Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,343577.0,2024-07-29 12:04:54
+12487,699837,12,43466207,76,2,4153,70',0,0,"Substitution, Brazil. Duda Sampaio replaces Angelina.",Duda Sampaio Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,316035.0,2024-07-29 12:04:54
+12487,699837,13,43466208,76,2,4159,70',0,0,"Substitution, Japan. Kiko Seike replaces Toko Koga.",Kiko Seike Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,296778.0,2024-07-29 12:04:54
+12487,699837,13,43466208,76,2,4159,70',0,0,"Substitution, Japan. Kiko Seike replaces Toko Koga.",Kiko Seike Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,351715.0,2024-07-29 12:04:54
+12487,699837,14,43466213,94,2,4217,71',0,0,Moeka Minami (Japan) is shown the yellow card for a bad foul.,Moeka Minami Yellow Card,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283106.0,2024-07-29 12:04:54
+12487,699837,15,43466264,76,2,4747,80',0,0,"Substitution, Japan. Momoko Tanikawa replaces Miyabi Moriya.",Momoko Tanikawa Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,351710.0,2024-07-29 12:04:54
+12487,699837,15,43466264,76,2,4747,80',0,0,"Substitution, Japan. Momoko Tanikawa replaces Miyabi Moriya.",Momoko Tanikawa Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,359225.0,2024-07-29 12:04:54
+12487,699837,16,43466265,76,2,4753,80',0,0,"Substitution, Japan. Remina Chiba replaces Hinata Miyazawa.",Remina Chiba Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,343589.0,2024-07-29 12:04:54
+12487,699837,16,43466265,76,2,4753,80',0,0,"Substitution, Japan. Remina Chiba replaces Hinata Miyazawa.",Remina Chiba Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,283107.0,2024-07-29 12:04:54
+12487,699837,17,43466295,76,2,5063,85',0,0,"Substitution, Brazil. Kerolin replaces Marta.",Kerolin  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,281475.0,2024-08-08 09:36:57
+12487,699837,17,43466295,76,2,5063,85',0,0,"Substitution, Brazil. Kerolin replaces Marta.",Kerolin  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,158712.0,2024-08-08 09:36:57
+12487,699837,20,43466368,83,2,5400,90'+11',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699837,18,43466330,98,2,5400,90'+2',1,0,"Goal! Brazil 1, Japan 1. Saki Kumagai (Japan) converts the penalty with a right footed shot to the bottom right corner.",Saki Kumagai Penalty - Scored,2758,0.0,0.0,0.23,0.5,0.0,0.529,1.0,144829.0,2024-07-29 12:04:54
+12487,699837,19,43466350,70,2,5400,90'+6',1,0,"Goal! Brazil 1, Japan 2. Momoko Tanikawa (Japan) right footed shot from outside the box to the top left corner.",Momoko Tanikawa Goal,2758,0.0,0.0,0.618,0.605,0.0,0.465,1.0,351710.0,2024-07-29 12:04:54
+12487,699838,1,43466362,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699838,2,43466552,94,1,2179,37',0,0,Asisat Oshoala (Nigeria) is shown the yellow card for a bad foul.,Asisat Oshoala Yellow Card,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219980.0,2024-07-29 12:04:54
+12487,699838,3,43466638,81,1,2700,45'+2',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699838,6,43466678,82,2,2700,45',0,0,"Second Half begins Spain 0, Nigeria 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699838,4,43466661,76,2,2700,45',0,0,"Substitution, Spain. Olga Carmona replaces Oihane Hernández.",Olga Carmona Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317946.0,2024-07-29 12:04:54
+12487,699838,5,43466662,76,2,2700,45',0,0,"Substitution, Spain. Athenea del Castillo replaces Lucía García.",Athenea del Castillo Substitutio,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,320355.0,2024-07-29 12:04:54
+12487,699838,5,43466662,76,2,2700,45',0,0,"Substitution, Spain. Athenea del Castillo replaces Lucía García.",Athenea del Castillo Substitutio,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,282854.0,2024-07-29 12:04:54
+12487,699838,4,43466661,76,2,2700,45',0,0,"Substitution, Spain. Olga Carmona replaces Oihane Hernández.",Olga Carmona Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,333486.0,2024-07-29 12:04:54
+12487,699838,7,43466817,76,2,3488,59',0,0,"Substitution, Spain. Patri Guijarro replaces Teresa Abelleira.",Patri Guijarro Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,264734.0,2024-07-29 12:04:54
+12487,699838,7,43466817,76,2,3488,59',0,0,"Substitution, Spain. Patri Guijarro replaces Teresa Abelleira.",Patri Guijarro Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317628.0,2024-07-29 12:04:54
+12487,699838,8,43466842,76,2,3614,61',0,0,"Substitution, Nigeria. Ifeoma Onumonu replaces Esther Okoronkwo.",Ifeoma Onumonu Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,213954.0,2024-07-29 12:04:54
+12487,699838,8,43466842,76,2,3614,61',0,0,"Substitution, Nigeria. Ifeoma Onumonu replaces Esther Okoronkwo.",Ifeoma Onumonu Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2.0,279837.0,2024-07-29 12:04:54
+12487,699838,9,43466951,76,2,4304,72',0,0,"Substitution, Nigeria. Nicole Payne replaces Michelle Alozie.",Nicole Payne Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,293932.0,2024-07-29 12:04:54
+12487,699838,9,43466951,76,2,4304,72',0,0,"Substitution, Nigeria. Nicole Payne replaces Michelle Alozie.",Nicole Payne Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2.0,225731.0,2024-07-29 12:04:54
+12487,699838,10,43466953,76,2,4326,73',0,0,"Substitution, Nigeria. Chinwendu Ihezuo replaces Asisat Oshoala.",Chinwendu Ihezuo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,220191.0,2024-07-29 12:04:54
+12487,699838,10,43466953,76,2,4326,73',0,0,"Substitution, Nigeria. Chinwendu Ihezuo replaces Asisat Oshoala.",Chinwendu Ihezuo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219980.0,2024-07-29 12:04:54
+12487,699838,11,43467064,76,2,5059,85',0,0,"Substitution, Nigeria. Uchenna Kanu replaces Christy Ucheibe.",Uchenna Kanu Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,287381.0,2024-07-29 12:04:54
+12487,699838,11,43467064,76,2,5059,85',0,0,"Substitution, Nigeria. Uchenna Kanu replaces Christy Ucheibe.",Uchenna Kanu Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2.0,328066.0,2024-07-29 12:04:54
+12487,699838,12,43467065,138,2,5076,85',1,0,"Goal! Spain 1, Nigeria 0. Alexia Putellas (Spain) from a free kick with a left footed shot to the top left corner.",Alexia Putellas Goal - Free-kick,17640,0.0,0.0,0.37,0.915,0.0,0.458,1.0,219995.0,2024-07-29 12:04:54
+12487,699838,13,43467190,83,2,5400,90'+5',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699839,1,43466361,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699839,2,43466366,70,1,36,1',1,0,"Goal! Australia 0, Zambia 1. Barbra Banda (Zambia) right footed shot from outside the box to the top left corner. Assisted by Racheal Nachula.",Barbra Banda Goal,20795,0.0,0.0,0.532,0.634,0.0,0.473,1.0,310645.0,2024-07-30 07:58:52
+12487,699839,2,43466366,70,1,36,1',1,0,"Goal! Australia 0, Zambia 1. Barbra Banda (Zambia) right footed shot from outside the box to the top left corner. Assisted by Racheal Nachula.",Barbra Banda Goal,20795,0.0,0.0,0.532,0.634,0.0,0.473,2.0,310908.0,2024-07-30 07:58:52
+12487,699839,3,43466410,137,1,405,7',1,0,"Goal! Australia 1, Zambia 1. Alanna Kennedy (Australia) header from the centre of the box to the centre of the goal. Assisted by Steph Catley with a cross following a set piece situation.",Alanna Kennedy Goal - Header,2751,0.0,0.0,0.14,0.466,0.0,0.513,1.0,219819.0,2024-07-30 07:58:52
+12487,699839,3,43466410,137,1,405,7',1,0,"Goal! Australia 1, Zambia 1. Alanna Kennedy (Australia) header from the centre of the box to the centre of the goal. Assisted by Steph Catley with a cross following a set piece situation.",Alanna Kennedy Goal - Header,2751,0.0,0.0,0.14,0.466,0.0,0.513,2.0,219822.0,2024-07-30 07:58:52
+12487,699839,4,43466474,70,1,1250,21',1,0,"Goal! Australia 1, Zambia 2. Racheal Kundananji (Zambia) left footed shot from the left side of the box to the bottom right corner.",Racheal Kundananji Goal,20795,0.0,0.0,0.26,0.36,0.0,0.536,1.0,310652.0,2024-07-30 07:58:52
+12487,699839,5,43466523,70,1,1929,33',1,0,"Goal! Australia 1, Zambia 3. Barbra Banda (Zambia) right footed shot from the centre of the box to the bottom right corner following a set piece situation.",Barbra Banda Goal,20795,0.0,0.0,0.286,0.617,0.0,0.525,1.0,310645.0,2024-07-29 12:04:54
+12487,699839,6,43466541,137,1,2073,35',1,0,"Goal! Australia 2, Zambia 3. Hayley Raso (Australia) header from the right side of the six yard box to the high centre of the goal. Assisted by Kyra Cooney-Cross with a cross following a corner.",Hayley Raso Goal - Header,2751,0.0,0.0,0.066,0.575,0.0,0.5,1.0,219818.0,2024-07-30 07:58:52
+12487,699839,6,43466541,137,1,2073,35',1,0,"Goal! Australia 2, Zambia 3. Hayley Raso (Australia) header from the right side of the six yard box to the high centre of the goal. Assisted by Kyra Cooney-Cross with a cross following a corner.",Hayley Raso Goal - Header,2751,0.0,0.0,0.066,0.575,0.0,0.5,2.0,288907.0,2024-07-30 07:58:52
+12487,699839,8,43466630,81,1,2700,45'+5',0,0,"First Half ends, Australia 2, Zambia 4.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699839,9,43466698,82,2,2700,45',0,0,"Second Half begins Australia 2, Zambia 4.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699839,7,43466614,70,1,2700,45'+2',1,0,"Goal! Australia 2, Zambia 4. Barbra Banda (Zambia) right footed shot from the centre of the box to the top right corner following a corner.",Barbra Banda Goal,20795,0.0,0.0,0.14,0.491,0.0,0.543,1.0,310645.0,2024-07-29 12:04:54
+12487,699839,10,43466812,137,2,3342,56',1,0,"Goal! Australia 2, Zambia 5. Racheal Kundananji (Zambia) header from the centre of the box to the bottom left corner. Assisted by Barbra Banda with a cross following a set piece situation.",Racheal Kundananji Goal - Header,20795,0.0,0.0,0.25,0.561,0.0,0.462,1.0,310652.0,2024-07-30 07:58:52
+12487,699839,10,43466812,137,2,3342,56',1,0,"Goal! Australia 2, Zambia 5. Racheal Kundananji (Zambia) header from the centre of the box to the bottom left corner. Assisted by Barbra Banda with a cross following a set piece situation.",Racheal Kundananji Goal - Header,20795,0.0,0.0,0.25,0.561,0.0,0.462,2.0,310645.0,2024-07-30 07:58:52
+12487,699839,11,43466821,76,2,3390,57',0,0,"Substitution, Australia. Kaitlyn Torpey replaces Katrina Gorry.",Kaitlyn Torpey Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,300585.0,2024-07-29 12:04:54
+12487,699839,11,43466821,76,2,3390,57',0,0,"Substitution, Australia. Kaitlyn Torpey replaces Katrina Gorry.",Kaitlyn Torpey Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219825.0,2024-07-29 12:04:54
+12487,699839,12,43466822,76,2,3391,57',0,0,"Substitution, Australia. Michelle Heyman replaces Hayley Raso.",Michelle Heyman Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158675.0,2024-07-29 12:04:54
+12487,699839,12,43466822,76,2,3391,57',0,0,"Substitution, Australia. Michelle Heyman replaces Hayley Raso.",Michelle Heyman Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219818.0,2024-07-29 12:04:54
+12487,699839,13,43466836,76,2,3400,57',0,0,"Substitution, Australia. Clare Wheeler replaces Emily van Egmond.",Clare Wheeler Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,300568.0,2024-07-30 07:58:52
+12487,699839,13,43466836,76,2,3400,57',0,0,"Substitution, Australia. Clare Wheeler replaces Emily van Egmond.",Clare Wheeler Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2.0,158693.0,2024-07-30 07:58:52
+12487,699839,14,43466839,97,2,3434,58',1,0,"Own Goal by Ng’ambo Musole, Zambia. Australia 3, Zambia 5.",Ngambo Musole Own Goal,2751,0.0,0.0,0.024,0.491,0.0,0.492,1.0,310902.0,2024-07-30 07:58:52
+12487,699839,15,43466911,138,2,3843,65',1,0,"Goal! Australia 4, Zambia 5. Steph Catley (Australia) from a free kick with a left footed shot to the high centre of the goal.",Steph Catley Goal - Free-kick,2751,0.0,0.0,0.552,0.563,0.0,0.494,1.0,219822.0,2024-07-29 12:04:54
+12487,699839,16,43466922,76,2,3942,66',0,0,"Substitution, Zambia. Rhoda Chileshe replaces Misozi Zulu.",Rhoda Chileshe Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1.0,351435.0,2024-07-29 12:04:54
+12487,699839,16,43466922,76,2,3942,66',0,0,"Substitution, Zambia. Rhoda Chileshe replaces Misozi Zulu.",Rhoda Chileshe Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2.0,310901.0,2024-07-29 12:04:54
+12487,699839,17,43467028,94,2,4561,77',0,0,Esther Muchinga (Zambia) is shown the yellow card for a bad foul.,Esther Muchinga Yellow Card,20795,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386581.0,2024-07-30 07:58:52
+12487,699839,18,43467029,98,2,4634,78',1,0,"Goal! Australia 5, Zambia 5. Steph Catley (Australia) converts the penalty with a left footed shot to the top right corner.",Steph Catley Penalty - Scored,2751,0.0,0.0,0.23,0.5,0.0,0.532,1.0,219822.0,2024-07-29 12:04:54
+12487,699839,19,43467102,76,2,4960,83',0,0,"Substitution, Zambia. Prisca Chilufya replaces Racheal Nachula.",Prisca Chilufya Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1.0,351425.0,2024-07-30 07:58:52
+12487,699839,19,43467102,76,2,4960,83',0,0,"Substitution, Zambia. Prisca Chilufya replaces Racheal Nachula.",Prisca Chilufya Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2.0,310908.0,2024-07-30 07:58:52
+12487,699839,20,43467103,76,2,4970,83',0,0,"Substitution, Zambia. Avell Chitundu replaces Kabange Mupopo.",Avell Chitundu Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1.0,310659.0,2024-07-29 12:04:54
+12487,699839,20,43467103,76,2,4970,83',0,0,"Substitution, Zambia. Avell Chitundu replaces Kabange Mupopo.",Avell Chitundu Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2.0,386580.0,2024-07-29 12:04:54
+12487,699839,21,43467146,94,2,5185,87',0,0,Alanna Kennedy (Australia) is shown the yellow card for a bad foul.,Alanna Kennedy Yellow Card,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219819.0,2024-07-29 12:04:54
+12487,699839,22,43467176,70,2,5363,90',1,0,"Goal! Australia 6, Zambia 5. Michelle Heyman (Australia) right footed shot from outside the box to the bottom right corner. Assisted by Steph Catley with a through ball following a fast break.",Michelle Heyman Goal,2751,0.0,0.0,0.374,0.463,0.0,0.529,1.0,158675.0,2024-07-30 07:58:52
+12487,699839,22,43467176,70,2,5363,90',1,0,"Goal! Australia 6, Zambia 5. Michelle Heyman (Australia) right footed shot from outside the box to the bottom right corner. Assisted by Steph Catley with a through ball following a fast break.",Michelle Heyman Goal,2751,0.0,0.0,0.374,0.463,0.0,0.529,2.0,219822.0,2024-07-30 07:58:52
+12487,699839,23,43467239,83,2,5400,90'+9',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699840,1,43467246,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699840,2,43467360,70,1,581,10',1,0,"Goal! USA 1, Germany 0. Sophia Smith (USA) left footed shot from the centre of the box to the bottom left corner. Assisted by Trinity Rodman.",Sophia Smith Goal,2765,0.0,0.0,0.12,0.432,0.0,0.477,1.0,43770.0,2024-07-30 07:58:52
+12487,699840,2,43467360,70,1,581,10',1,0,"Goal! USA 1, Germany 0. Sophia Smith (USA) left footed shot from the centre of the box to the bottom left corner. Assisted by Trinity Rodman.",Sophia Smith Goal,2765,0.0,0.0,0.12,0.432,0.0,0.477,2.0,317423.0,2024-07-30 07:58:52
+12487,699840,3,43467489,94,1,1050,18',0,0,Kathrin Hendrich (Germany) is shown the yellow card for a bad foul.,Kathrin Hendrich Yellow Card,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,234766.0,2024-07-30 07:58:52
+12487,699840,4,43467538,70,1,1272,22',1,0,"Goal! USA 1, Germany 1. Giulia Gwinn (Germany) right footed shot from outside the box to the bottom left corner. Assisted by Sjoeke Nüsken.",Giulia Gwinn Goal,2756,0.0,0.0,0.526,0.625,0.0,0.464,1.0,268102.0,2024-07-29 12:04:54
+12487,699840,4,43467538,70,1,1272,22',1,0,"Goal! USA 1, Germany 1. Giulia Gwinn (Germany) right footed shot from outside the box to the bottom left corner. Assisted by Sjoeke Nüsken.",Giulia Gwinn Goal,2756,0.0,0.0,0.526,0.625,0.0,0.464,2.0,314382.0,2024-07-29 12:04:54
+12487,699840,5,43467564,94,1,1300,22',0,0,Sam Coffey (USA) is shown the yellow card for a bad foul.,Sam Coffey Yellow Card,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,335326.0,2024-07-29 12:04:54
+12487,699840,5,43467564,94,1,1300,22',0,0,Sam Coffey (USA) is shown the yellow card for a bad foul.,Sam Coffey Yellow Card,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,262815.0,2024-07-29 12:04:54
+12487,699840,6,43467595,70,1,1504,26',1,0,"Goal! USA 2, Germany 1. Mallory Swanson (USA) right footed shot from the left side of the six yard box to the bottom left corner.",Mallory Swanson Goal,2765,0.0,0.0,0.048,0.432,0.0,0.466,1.0,233163.0,2024-07-29 12:04:54
+12487,699840,7,43467909,76,1,2588,44',0,0,"Substitution, USA. Emily Sonnett replaces Tierna Davidson because of an injury.",Emily Sonnett Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,211034.0,2024-07-29 12:04:54
+12487,699840,7,43467909,76,1,2588,44',0,0,"Substitution, USA. Emily Sonnett replaces Tierna Davidson because of an injury.",Emily Sonnett Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,243052.0,2024-07-29 12:04:54
+12487,699840,8,43467910,70,1,2629,44',1,0,"Goal! USA 3, Germany 1. Sophia Smith (USA) right footed shot from outside the box to the centre of the goal following a corner.",Sophia Smith Goal,2765,0.0,0.0,0.374,0.32,0.0,0.483,1.0,43770.0,2024-07-29 12:04:54
+12487,699840,9,43468030,81,1,2700,45'+7',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699840,10,43468138,82,2,2700,45',0,0,"Second Half begins USA 3, Germany 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699840,11,43468481,76,2,4053,68',0,0,"Substitution, Germany. Sydney Lohmann replaces Sjoeke Nüsken.",Sydney Lohmann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283073.0,2024-07-29 12:04:54
+12487,699840,11,43468481,76,2,4053,68',0,0,"Substitution, Germany. Sydney Lohmann replaces Sjoeke Nüsken.",Sydney Lohmann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,314382.0,2024-07-29 12:04:54
+12487,699840,12,43468606,76,2,4580,77',0,0,"Substitution, Germany. Elisa Senß replaces Alexandra Popp because of an injury.",Elisa Senß Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377165.0,2024-07-29 12:04:54
+12487,699840,12,43468606,76,2,4580,77',0,0,"Substitution, Germany. Elisa Senß replaces Alexandra Popp because of an injury.",Elisa Senß Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,158735.0,2024-07-29 12:04:54
+12487,699840,13,43468697,76,2,5065,85',0,0,"Substitution, USA. Lynn Williams replaces Sophia Smith.",Lynn Williams Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,211968.0,2024-07-29 12:04:54
+12487,699840,13,43468697,76,2,5065,85',0,0,"Substitution, USA. Lynn Williams replaces Sophia Smith.",Lynn Williams Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,43770.0,2024-07-29 12:04:54
+12487,699840,14,43468733,70,2,5291,89',1,0,"Goal! USA 4, Germany 1. Lynn Williams (USA) left footed shot from the left side of the box to the bottom right corner. Assisted by Mallory Swanson following a fast break.",Lynn Williams Goal,2765,0.0,0.0,0.184,0.349,0.0,0.527,1.0,211968.0,2024-07-29 12:04:54
+12487,699840,14,43468733,70,2,5291,89',1,0,"Goal! USA 4, Germany 1. Lynn Williams (USA) left footed shot from the left side of the box to the bottom right corner. Assisted by Mallory Swanson following a fast break.",Lynn Williams Goal,2765,0.0,0.0,0.184,0.349,0.0,0.527,2.0,233163.0,2024-07-29 12:04:54
+12487,699840,17,43468829,83,2,5400,90'+7',0,0,"Second Half ends, USA 4, Germany 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699840,15,43468783,76,2,5400,90'+2',0,0,"Substitution, USA. Jenna Nighswonger replaces Trinity Rodman.",Jenna Nighswonger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,292633.0,2024-07-29 12:04:54
+12487,699840,16,43468784,76,2,5400,90'+2',0,0,"Substitution, USA. Casey Krueger replaces Emily Fox.",Casey Krueger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,248778.0,2024-07-29 12:04:54
+12487,699840,15,43468783,76,2,5400,90'+2',0,0,"Substitution, USA. Jenna Nighswonger replaces Trinity Rodman.",Jenna Nighswonger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317423.0,2024-07-29 12:04:54
+12487,699840,16,43468784,76,2,5400,90'+2',0,0,"Substitution, USA. Casey Krueger replaces Emily Fox.",Casey Krueger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,263684.0,2024-07-29 12:04:54
+12487,699841,1,43478635,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699841,2,43478714,70,1,1313,22',1,0,"Goal! Japan 1, Nigeria 0. Maika Hamano (Japan) right footed shot from the right side of the six yard box to the bottom right corner. Assisted by Riko Ueki.",Maika Hamano Goal,2758,0.0,0.0,0.076,0.573,0.0,0.523,1.0,351356.0,2024-08-01 02:14:33
+12487,699841,2,43478714,70,1,1313,22',1,0,"Goal! Japan 1, Nigeria 0. Maika Hamano (Japan) right footed shot from the right side of the six yard box to the bottom right corner. Assisted by Riko Ueki.",Maika Hamano Goal,2758,0.0,0.0,0.076,0.573,0.0,0.523,2.0,287317.0,2024-08-01 02:14:33
+12487,699841,3,43478751,70,1,1866,32',1,0,"Goal! Japan 2, Nigeria 0. Mina Tanaka (Japan) left footed shot from very close range to the bottom left corner.",Mina Tanaka Goal,2758,0.0,0.0,0.1,0.494,0.0,0.472,1.0,223464.0,2024-08-01 02:14:33
+12487,699841,4,43478786,70,1,2473,42',1,0,"Goal! Japan 2, Nigeria 1. Jennifer Echegini (Nigeria) left footed shot from outside the box to the bottom left corner. Assisted by Christy Ucheibe.",Jennifer Echegini Goal,2761,0.0,0.0,0.396,0.506,0.0,0.464,1.0,292902.0,2024-08-01 02:14:33
+12487,699841,4,43478786,70,1,2473,42',1,0,"Goal! Japan 2, Nigeria 1. Jennifer Echegini (Nigeria) left footed shot from outside the box to the bottom left corner. Assisted by Christy Ucheibe.",Jennifer Echegini Goal,2761,0.0,0.0,0.396,0.506,0.0,0.464,2.0,328066.0,2024-08-01 02:14:33
+12487,699841,7,43478815,81,1,2700,45'+7',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699841,10,43478824,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699841,5,43478808,94,1,2700,45'+4',0,0,Oluwatosin Demehin (Nigeria) is shown the yellow card for a bad foul.,Blessing Demehin Yellow Card,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,320400.0,2024-08-01 02:14:33
+12487,699841,9,43478823,76,2,2700,45',0,0,"Substitution, Japan. Kiko Seike replaces Mina Tanaka.",Kiko Seike Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,296778.0,2024-08-01 02:14:33
+12487,699841,6,43478809,138,1,2700,45'+5',1,0,"Goal! Japan 3, Nigeria 1. Hikaru Kitagawa (Japan) from a free kick with a left footed shot to the top right corner.",Hikaru Kitagawa Goal - Free-kick,2758,0.0,0.0,0.492,0.551,0.0,0.538,1.0,259860.0,2024-08-01 02:14:33
+12487,699841,8,43478822,76,2,2700,45',0,0,"Substitution, Nigeria. Nicole Payne replaces Chidinma Okeke.",Nicole Payne Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,293932.0,2024-08-01 02:14:33
+12487,699841,8,43478822,76,2,2700,45',0,0,"Substitution, Nigeria. Nicole Payne replaces Chidinma Okeke.",Nicole Payne Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2.0,288708.0,2024-08-01 02:14:33
+12487,699841,9,43478823,76,2,2700,45',0,0,"Substitution, Japan. Kiko Seike replaces Mina Tanaka.",Kiko Seike Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,223464.0,2024-08-01 02:14:33
+12487,699841,11,43478876,76,2,3551,60',0,0,"Substitution, Nigeria. Chinwendu Ihezuo replaces Asisat Oshoala.",Chinwendu Ihezuo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,220191.0,2024-08-01 02:14:33
+12487,699841,11,43478876,76,2,3551,60',0,0,"Substitution, Nigeria. Chinwendu Ihezuo replaces Asisat Oshoala.",Chinwendu Ihezuo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219980.0,2024-08-01 02:14:33
+12487,699841,12,43478877,76,2,3560,60',0,0,"Substitution, Japan. Fuka Nagano replaces Yui Hasegawa.",Fuka Nagano Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,282995.0,2024-08-01 02:14:33
+12487,699841,12,43478877,76,2,3560,60',0,0,"Substitution, Japan. Fuka Nagano replaces Yui Hasegawa.",Fuka Nagano Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,256228.0,2024-08-01 02:14:33
+12487,699841,13,43478878,76,2,3567,60',0,0,"Substitution, Japan. Hinata Miyazawa replaces Hikaru Kitagawa.",Hinata Miyazawa Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283107.0,2024-08-01 02:14:33
+12487,699841,13,43478878,76,2,3567,60',0,0,"Substitution, Japan. Hinata Miyazawa replaces Hikaru Kitagawa.",Hinata Miyazawa Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,259860.0,2024-08-01 02:14:33
+12487,699841,14,43478923,76,2,4486,75',0,0,"Substitution, Nigeria. Esther Okoronkwo replaces Deborah Abiodun because of an injury.",Esther Okoronkwo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,279837.0,2024-08-01 02:14:33
+12487,699841,14,43478923,76,2,4486,75',0,0,"Substitution, Nigeria. Esther Okoronkwo replaces Deborah Abiodun because of an injury.",Esther Okoronkwo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2.0,349550.0,2024-08-01 02:14:33
+12487,699841,15,43478942,76,2,4759,80',0,0,"Substitution, Japan. Remina Chiba replaces Miyabi Moriya.",Remina Chiba Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,343589.0,2024-08-01 02:14:33
+12487,699841,15,43478942,76,2,4759,80',0,0,"Substitution, Japan. Remina Chiba replaces Miyabi Moriya.",Remina Chiba Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,359225.0,2024-08-01 02:14:33
+12487,699841,18,43479019,83,2,5400,90'+9',0,0,"Second Half ends, Japan 3, Nigeria 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699841,16,43478993,76,2,5400,90'+1',0,0,"Substitution, Nigeria. Uchenna Kanu replaces Osinachi Ohale.",Uchenna Kanu Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1.0,287381.0,2024-08-01 02:14:33
+12487,699841,17,43478998,76,2,5400,90'+3',0,0,"Substitution, Japan. Momoko Tanikawa replaces Riko Ueki.",Momoko Tanikawa Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,351710.0,2024-08-01 02:14:33
+12487,699841,17,43478998,76,2,5400,90'+3',0,0,"Substitution, Japan. Momoko Tanikawa replaces Riko Ueki.",Momoko Tanikawa Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,287317.0,2024-08-01 02:14:33
+12487,699841,16,43478993,76,2,5400,90'+1',0,0,"Substitution, Nigeria. Uchenna Kanu replaces Osinachi Ohale.",Uchenna Kanu Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2.0,159612.0,2024-08-01 02:14:33
+12487,699842,1,43478636,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699842,3,43478820,81,1,2700,45'+10',0,0,"First Half ends, Brazil 0, Spain 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699842,6,43478840,82,2,2700,45',0,0,"Second Half begins Brazil 0, Spain 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699842,2,43478812,93,1,2700,45'+6',0,0,Marta (Brazil) is shown the red card.,Marta  Red Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158712.0,2024-08-08 09:36:57
+12487,699842,5,43478834,76,2,2700,45',0,0,"Substitution, Spain. Mariona Caldentey replaces Lucía García.",Mariona Caldentey Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,257473.0,2024-08-01 02:14:33
+12487,699842,4,43478833,76,2,2700,45',0,0,"Substitution, Spain. Salma Paralluelo replaces Eva Navarro.",Salma Paralluelo Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,333582.0,2024-08-01 02:14:33
+12487,699842,4,43478833,76,2,2700,45',0,0,"Substitution, Spain. Salma Paralluelo replaces Eva Navarro.",Salma Paralluelo Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,288443.0,2024-08-01 02:14:33
+12487,699842,5,43478834,76,2,2700,45',0,0,"Substitution, Spain. Mariona Caldentey replaces Lucía García.",Mariona Caldentey Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,282854.0,2024-08-01 02:14:33
+12487,699842,7,43478868,76,2,3253,55',0,0,"Substitution, Brazil. Gabi Portilho replaces Ludmila.",Gabi Portilho Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,339855.0,2024-08-01 02:14:33
+12487,699842,7,43478868,76,2,3253,55',0,0,"Substitution, Brazil. Gabi Portilho replaces Ludmila.",Gabi Portilho Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,258819.0,2024-08-01 02:14:33
+12487,699842,8,43478883,76,2,3508,59',0,0,"Substitution, Spain. Aitana Bonmatí replaces Jenni Hermoso.",Aitana Bonmatí Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,268537.0,2024-08-01 02:14:33
+12487,699842,8,43478883,76,2,3508,59',0,0,"Substitution, Spain. Aitana Bonmatí replaces Jenni Hermoso.",Aitana Bonmatí Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,220006.0,2024-08-01 02:14:33
+12487,699842,9,43478884,76,2,3515,59',0,0,"Substitution, Spain. Alexia Putellas replaces Patri Guijarro because of an injury.",Alexia Putellas Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219995.0,2024-08-01 02:14:33
+12487,699842,9,43478884,76,2,3515,59',0,0,"Substitution, Spain. Alexia Putellas replaces Patri Guijarro because of an injury.",Alexia Putellas Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,264734.0,2024-08-01 02:14:33
+12487,699842,10,43478889,76,2,3631,61',0,0,"Substitution, Brazil. Yasmim replaces Tamires.",Yasmim  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,268328.0,2024-08-08 09:36:57
+12487,699842,10,43478889,76,2,3631,61',0,0,"Substitution, Brazil. Yasmim replaces Tamires.",Yasmim  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219826.0,2024-08-08 09:36:57
+12487,699842,11,43478890,76,2,3660,61',0,0,"Substitution, Brazil. Ana Vitória replaces Duda Sampaio.",Ana Vitória  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,310885.0,2024-08-08 09:36:57
+12487,699842,11,43478890,76,2,3660,61',0,0,"Substitution, Brazil. Ana Vitória replaces Duda Sampaio.",Ana Vitória  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,343577.0,2024-08-08 09:36:57
+12487,699842,12,43478891,76,2,3666,62',0,0,"Substitution, Brazil. Jheniffer replaces Kerolin.",Jheniffer  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,344299.0,2024-08-08 09:36:57
+12487,699842,12,43478891,76,2,3666,62',0,0,"Substitution, Brazil. Jheniffer replaces Kerolin.",Jheniffer  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,281475.0,2024-08-08 09:36:57
+12487,699842,13,43478913,70,2,4053,68',1,0,"Goal! Brazil 0, Spain 1. Athenea del Castillo (Spain) right footed shot from very close range to the centre of the goal.",Athenea del Castillo Goal,17640,0.0,0.0,0.086,0.525,0.0,0.499,1.0,320355.0,2024-08-01 02:14:33
+12487,699842,14,43478938,76,2,4458,75',0,0,"Substitution, Spain. Misa replaces Cata Coll because of an injury.",Misa Rodríguez Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317627.0,2024-08-01 02:14:33
+12487,699842,14,43478938,76,2,4458,75',0,0,"Substitution, Spain. Misa replaces Cata Coll because of an injury.",Misa Rodríguez Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,288445.0,2024-08-01 02:14:33
+12487,699842,15,43478987,76,2,5186,87',0,0,"Substitution, Brazil. Gabi Nunes replaces Yayá.",Gabi Nunes Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,257469.0,2024-08-01 02:14:33
+12487,699842,15,43478987,76,2,5186,87',0,0,"Substitution, Brazil. Gabi Nunes replaces Yayá.",Gabi Nunes Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,296481.0,2024-08-01 02:14:33
+12487,699842,17,43479090,83,2,5400,90'+20',0,0,"Second Half ends, Brazil 0, Spain 2.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699842,16,43479070,70,2,5400,90'+17',1,0,"Goal! Brazil 0, Spain 2. Alexia Putellas (Spain) left footed shot from outside the box to the top right corner. Assisted by Mariona Caldentey.",Alexia Putellas Goal,17640,0.0,0.0,0.484,0.411,0.0,0.528,1.0,219995.0,2024-08-01 02:14:33
+12487,699842,16,43479070,70,2,5400,90'+17',1,0,"Goal! Brazil 0, Spain 2. Alexia Putellas (Spain) left footed shot from outside the box to the top right corner. Assisted by Mariona Caldentey.",Alexia Putellas Goal,17640,0.0,0.0,0.484,0.411,0.0,0.528,2.0,257473.0,2024-08-01 02:14:33
+12487,699843,1,43479011,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699843,2,43479033,94,1,178,3',0,0,Sam Coffey (USA) is shown the yellow card for a bad foul.,Sam Coffey Yellow Card,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,335326.0,2024-08-01 02:14:33
+12487,699843,2,43479033,94,1,178,3',0,0,Sam Coffey (USA) is shown the yellow card for a bad foul.,Sam Coffey Yellow Card,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,262815.0,2024-08-01 02:14:33
+12487,699843,3,43479286,70,1,2571,43',1,0,"Goal! Australia 0, USA 1. Trinity Rodman (USA) right footed shot from very close range to the bottom right corner. Assisted by Sophia Smith following a corner.Goal confirmed following VAR Review.",Trinity Rodman Goal,2765,0.0,0.0,0.02,0.526,0.0,0.527,1.0,317423.0,2024-08-05 09:30:40
+12487,699843,3,43479286,70,1,2571,43',1,0,"Goal! Australia 0, USA 1. Trinity Rodman (USA) right footed shot from very close range to the bottom right corner. Assisted by Sophia Smith following a corner.Goal confirmed following VAR Review.",Trinity Rodman Goal,2765,0.0,0.0,0.02,0.526,0.0,0.527,2.0,43770.0,2024-08-05 09:30:40
+12487,699843,4,43479361,81,1,2700,45'+11',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699843,7,43479433,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699843,5,43479426,76,2,2700,45',0,0,"Substitution, Australia. Clare Wheeler replaces Kyra Cooney-Cross.",Clare Wheeler Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,300568.0,2024-08-01 02:14:33
+12487,699843,6,43479427,76,2,2700,45',0,0,"Substitution, USA. Jenna Nighswonger replaces Crystal Dunn.",Jenna Nighswonger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,292633.0,2024-08-01 02:14:33
+12487,699843,5,43479426,76,2,2700,45',0,0,"Substitution, Australia. Clare Wheeler replaces Kyra Cooney-Cross.",Clare Wheeler Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2.0,288907.0,2024-08-01 02:14:33
+12487,699843,6,43479427,76,2,2700,45',0,0,"Substitution, USA. Jenna Nighswonger replaces Crystal Dunn.",Jenna Nighswonger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,227388.0,2024-08-01 02:14:33
+12487,699843,8,43479543,76,2,3485,59',0,0,"Substitution, Australia. Michelle Heyman replaces Kaitlyn Torpey.",Michelle Heyman Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158675.0,2024-08-05 09:30:40
+12487,699843,8,43479543,76,2,3485,59',0,0,"Substitution, Australia. Michelle Heyman replaces Kaitlyn Torpey.",Michelle Heyman Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2.0,300585.0,2024-08-05 09:30:40
+12487,699843,9,43479544,76,2,3522,59',0,0,"Substitution, Australia. Emily van Egmond replaces Katrina Gorry because of an injury.",Emily van Egmond Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158693.0,2024-08-05 09:30:40
+12487,699843,9,43479544,76,2,3522,59',0,0,"Substitution, Australia. Emily van Egmond replaces Katrina Gorry because of an injury.",Emily van Egmond Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219825.0,2024-08-05 09:30:40
+12487,699843,10,43479600,76,2,3881,65',0,0,"Substitution, USA. Lynn Williams replaces Trinity Rodman.",Lynn Williams Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,211968.0,2024-08-01 02:14:33
+12487,699843,10,43479600,76,2,3881,65',0,0,"Substitution, USA. Lynn Williams replaces Trinity Rodman.",Lynn Williams Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317423.0,2024-08-01 02:14:33
+12487,699843,11,43479601,76,2,3883,65',0,0,"Substitution, USA. Casey Krueger replaces Emily Fox.",Casey Krueger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,248778.0,2024-08-05 09:30:40
+12487,699843,11,43479601,76,2,3883,65',0,0,"Substitution, USA. Casey Krueger replaces Emily Fox.",Casey Krueger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,263684.0,2024-08-05 09:30:40
+12487,699843,12,43479602,76,2,3899,65',0,0,"Substitution, USA. Korbin Albert replaces Rose Lavelle.",Korbin Albert Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,327417.0,2024-08-01 02:14:33
+12487,699843,12,43479602,76,2,3899,65',0,0,"Substitution, USA. Korbin Albert replaces Rose Lavelle.",Korbin Albert Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,209984.0,2024-08-01 02:14:33
+12487,699843,13,43479605,94,2,3995,67',0,0,Korbin Albert (USA) is shown the yellow card for a bad foul.,Korbin Albert Yellow Card,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,327417.0,2024-08-01 02:14:33
+12487,699843,14,43479675,70,2,4573,77',1,0,"Goal! Australia 0, USA 2. Korbin Albert (USA) right footed shot from outside the box to the top left corner.",Korbin Albert Goal,2765,0.0,0.0,0.44,0.559,0.0,0.464,1.0,327417.0,2024-08-05 09:30:40
+12487,699843,15,43479716,76,2,4741,80',0,0,"Substitution, USA. Croix Bethune replaces Mallory Swanson.",Croix Bethune Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,296207.0,2024-08-05 09:30:40
+12487,699843,15,43479716,76,2,4741,80',0,0,"Substitution, USA. Croix Bethune replaces Mallory Swanson.",Croix Bethune Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,233163.0,2024-08-05 09:30:40
+12487,699843,16,43479765,76,2,5096,85',0,0,"Substitution, Australia. Tameka Yallop replaces Hayley Raso because of an injury.",Tameka Yallop Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158688.0,2024-08-01 02:14:33
+12487,699843,16,43479765,76,2,5096,85',0,0,"Substitution, Australia. Tameka Yallop replaces Hayley Raso because of an injury.",Tameka Yallop Substitution,2751,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219818.0,2024-08-01 02:14:33
+12487,699843,18,43479871,83,2,5400,90'+8',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699843,17,43479810,70,2,5400,90'+1',1,0,"Goal! Australia 1, USA 2. Alanna Kennedy (Australia) left footed shot from the centre of the box to the centre of the goal. Assisted by Michelle Heyman with a headed pass.",Alanna Kennedy Goal,2751,0.0,0.0,0.164,0.5,0.0,0.491,1.0,219819.0,2024-08-01 02:14:33
+12487,699843,17,43479810,70,2,5400,90'+1',1,0,"Goal! Australia 1, USA 2. Alanna Kennedy (Australia) left footed shot from the centre of the box to the centre of the goal. Assisted by Michelle Heyman with a headed pass.",Alanna Kennedy Goal,2751,0.0,0.0,0.164,0.5,0.0,0.491,2.0,158675.0,2024-08-01 02:14:33
+12487,699844,1,43479020,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699844,2,43479059,70,1,563,10',1,0,"Goal! Zambia 0, Germany 1. Lea Schüller (Germany) right footed shot from the centre of the box to the bottom left corner. Assisted by Klara Bühl.",Lea Schüller Goal,2756,0.0,0.0,0.224,0.563,0.0,0.471,1.0,258844.0,2024-08-01 02:14:33
+12487,699844,2,43479059,70,1,563,10',1,0,"Goal! Zambia 0, Germany 1. Lea Schüller (Germany) right footed shot from the centre of the box to the bottom left corner. Assisted by Klara Bühl.",Lea Schüller Goal,2756,0.0,0.0,0.224,0.563,0.0,0.471,2.0,286460.0,2024-08-01 02:14:33
+12487,699844,3,43479131,76,1,1288,22',0,0,"Substitution, Germany. Sara Doorsoun replaces Kathrin Hendrich because of an injury.",Sara Doorsoun Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,231202.0,2024-08-01 02:14:33
+12487,699844,3,43479131,76,1,1288,22',0,0,"Substitution, Germany. Sara Doorsoun replaces Kathrin Hendrich because of an injury.",Sara Doorsoun Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,234766.0,2024-08-01 02:14:33
+12487,699844,4,43479204,94,1,2067,35',0,0,Hellen Chanda (Zambia) is shown the yellow card for a bad foul.,Hellen Chanda Yellow Card,20795,0.0,0.0,0.0,0.0,0.0,0.0,1.0,310649.0,2024-08-01 02:14:33
+12487,699844,5,43479337,81,1,2700,45'+8',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699844,7,43479396,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699844,6,43479395,76,2,2700,45',0,0,"Substitution, Zambia. Prisca Chilufya replaces Racheal Nachula.",Prisca Chilufya Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1.0,351425.0,2024-08-01 02:14:33
+12487,699844,8,43479401,76,2,2700,45',0,0,"Substitution, Germany. Vivien Endemann replaces Jule Brand.",Vivien Endemann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,382439.0,2024-08-01 02:14:33
+12487,699844,8,43479401,76,2,2700,45',0,0,"Substitution, Germany. Vivien Endemann replaces Jule Brand.",Vivien Endemann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317719.0,2024-08-01 02:14:33
+12487,699844,6,43479395,76,2,2700,45',0,0,"Substitution, Zambia. Prisca Chilufya replaces Racheal Nachula.",Prisca Chilufya Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2.0,310908.0,2024-08-01 02:14:33
+12487,699844,9,43479406,70,2,2808,47',1,0,"Goal! Zambia 0, Germany 2. Klara Bühl (Germany) right footed shot from outside the box to the bottom left corner. Assisted by Sjoeke Nüsken.",Klara Bühl Goal,2756,0.0,0.0,0.504,0.421,0.0,0.455,1.0,286460.0,2024-08-01 02:14:33
+12487,699844,9,43479406,70,2,2808,47',1,0,"Goal! Zambia 0, Germany 2. Klara Bühl (Germany) right footed shot from outside the box to the bottom left corner. Assisted by Sjoeke Nüsken.",Klara Bühl Goal,2756,0.0,0.0,0.504,0.421,0.0,0.455,2.0,314382.0,2024-08-01 02:14:33
+12487,699844,10,43479428,70,2,2933,49',1,0,"Goal! Zambia 1, Germany 2. Barbra Banda (Zambia) right footed shot from outside the box to the bottom right corner.",Barbra Banda Goal,20795,0.0,0.0,0.416,0.352,0.0,0.534,1.0,310645.0,2024-08-01 02:14:33
+12487,699844,11,43479523,70,2,3647,61',1,0,"Goal! Zambia 1, Germany 3. Lea Schüller (Germany) left footed shot from the centre of the box to the bottom right corner. Assisted by Klara Bühl.",Lea Schüller Goal,2756,0.0,0.0,0.14,0.526,0.0,0.526,1.0,258844.0,2024-08-01 02:14:33
+12487,699844,11,43479523,70,2,3647,61',1,0,"Goal! Zambia 1, Germany 3. Lea Schüller (Germany) left footed shot from the centre of the box to the bottom right corner. Assisted by Klara Bühl.",Lea Schüller Goal,2756,0.0,0.0,0.14,0.526,0.0,0.526,2.0,286460.0,2024-08-01 02:14:33
+12487,699844,12,43479552,76,2,3854,65',0,0,"Substitution, Zambia. Mary Wilombe replaces Hellen Chanda.",Mary Wilombe Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1.0,310903.0,2024-08-01 02:14:33
+12487,699844,12,43479552,76,2,3854,65',0,0,"Substitution, Zambia. Mary Wilombe replaces Hellen Chanda.",Mary Wilombe Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2.0,310649.0,2024-08-01 02:14:33
+12487,699844,13,43479591,76,2,4105,69',0,0,"Substitution, Germany. Laura Freigang replaces Lea Schüller.",Laura Freigang Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,262757.0,2024-08-01 02:14:33
+12487,699844,13,43479591,76,2,4105,69',0,0,"Substitution, Germany. Laura Freigang replaces Lea Schüller.",Laura Freigang Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,258844.0,2024-08-01 02:14:33
+12487,699844,14,43479592,76,2,4112,69',0,0,"Substitution, Germany. Sydney Lohmann replaces Alexandra Popp.",Sydney Lohmann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283073.0,2024-08-01 02:14:33
+12487,699844,14,43479592,76,2,4112,69',0,0,"Substitution, Germany. Sydney Lohmann replaces Alexandra Popp.",Sydney Lohmann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,158735.0,2024-08-01 02:14:33
+12487,699844,15,43479763,76,2,5307,89',0,0,"Substitution, Germany. Elisa Senß replaces Sjoeke Nüsken.",Elisa Senß Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377165.0,2024-08-01 02:14:33
+12487,699844,15,43479763,76,2,5307,89',0,0,"Substitution, Germany. Elisa Senß replaces Sjoeke Nüsken.",Elisa Senß Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,314382.0,2024-08-01 02:14:33
+12487,699844,17,43479864,83,2,5400,90'+9',0,0,"Second Half ends, Zambia 1, Germany 4.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 02:14:33
+12487,699844,16,43479819,70,2,5400,90'+7',1,0,"Goal! Zambia 1, Germany 4. Elisa Senß (Germany) right footed shot from the left side of the box to the high centre of the goal following a corner.",Elisa Senß Goal,2756,0.0,0.0,0.244,0.328,0.0,0.5,1.0,377165.0,2024-08-01 02:14:33
+12487,699853,1,43449377,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699853,2,43449415,70,1,734,13',1,0,"Goal! Canada 0, New Zealand 1. Mackenzie Barry (New Zealand) right footed shot from the centre of the box to the top left corner. Assisted by Katie Kitching with a cross following a corner.",Mackenzie Barry Goal,4153,0.0,0.0,0.264,0.555,0.0,0.472,1.0,330654.0,2024-07-26 11:46:51
+12487,699853,2,43449415,70,1,734,13',1,0,"Goal! Canada 0, New Zealand 1. Mackenzie Barry (New Zealand) right footed shot from the centre of the box to the top left corner. Assisted by Katie Kitching with a cross following a corner.",Mackenzie Barry Goal,4153,0.0,0.0,0.264,0.555,0.0,0.472,2.0,268163.0,2024-07-26 11:46:51
+12487,699853,4,43449540,81,1,2700,45'+5',0,0,"First Half ends, Canada 1, New Zealand 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699853,5,43449556,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699853,3,43449536,70,1,2700,45'+4',1,0,"Goal! Canada 1, New Zealand 1. Cloé Lacasse (Canada) right footed shot from the centre of the box to the bottom right corner.",Cloé Lacasse Goal,2753,0.0,0.0,0.202,0.48,0.0,0.535,1.0,317623.0,2024-07-26 11:46:51
+12487,699853,6,43449656,76,2,3355,56',0,0,"Substitution, Canada. Jordyn Huitema replaces Cloé Lacasse.",Jordyn Huitema Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,255413.0,2024-07-26 11:46:51
+12487,699853,6,43449656,76,2,3355,56',0,0,"Substitution, Canada. Jordyn Huitema replaces Cloé Lacasse.",Jordyn Huitema Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317623.0,2024-07-26 11:46:51
+12487,699853,7,43449657,76,2,3356,56',0,0,"Substitution, Canada. Janine Beckie replaces Nichelle Prince.",Janine Beckie Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,213918.0,2024-07-26 11:46:51
+12487,699853,7,43449657,76,2,3356,56',0,0,"Substitution, Canada. Janine Beckie replaces Nichelle Prince.",Janine Beckie Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,225339.0,2024-07-26 11:46:51
+12487,699853,8,43449668,76,2,3502,59',0,0,"Substitution, New Zealand. Michaela Foster replaces Mackenzie Barry because of an injury.",Michaela Foster Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,262321.0,2024-07-26 11:46:51
+12487,699853,8,43449668,76,2,3502,59',0,0,"Substitution, New Zealand. Michaela Foster replaces Mackenzie Barry because of an injury.",Michaela Foster Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,330654.0,2024-07-26 11:46:51
+12487,699853,9,43449669,76,2,3508,59',0,0,"Substitution, New Zealand. Macey Fraser replaces Malia Steinmetz.",Macey Fraser Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,344315.0,2024-07-26 11:46:51
+12487,699853,9,43449669,76,2,3508,59',0,0,"Substitution, New Zealand. Macey Fraser replaces Malia Steinmetz.",Macey Fraser Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,264967.0,2024-07-26 11:46:51
+12487,699853,10,43449725,76,2,3926,66',0,0,"Substitution, New Zealand. Jacqui Hand replaces Milly Clegg.",Jacqui Hand Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,329946.0,2024-07-26 11:46:51
+12487,699853,10,43449725,76,2,3926,66',0,0,"Substitution, New Zealand. Jacqui Hand replaces Milly Clegg.",Jacqui Hand Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,280125.0,2024-07-26 11:46:51
+12487,699853,10,43449725,76,2,3926,66',0,0,"Substitution, New Zealand. Jacqui Hand replaces Milly Clegg.",Jacqui Hand Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,351898.0,2024-07-26 11:46:51
+12487,699853,11,43449727,76,2,3987,67',0,0,"Substitution, Canada. Simi Awujo replaces Quinn.",Simi Awujo Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,349220.0,2024-07-26 11:46:51
+12487,699853,11,43449727,76,2,3987,67',0,0,"Substitution, Canada. Simi Awujo replaces Quinn.",Simi Awujo Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,211160.0,2024-07-26 11:46:51
+12487,699853,12,43449728,76,2,4006,67',0,0,"Substitution, Canada. Évelyne Viens replaces Gabrielle Carle.",Evelyne Viens Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,242809.0,2024-07-26 11:46:51
+12487,699853,12,43449728,76,2,4006,67',0,0,"Substitution, Canada. Évelyne Viens replaces Gabrielle Carle.",Evelyne Viens Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,235713.0,2024-07-26 11:46:51
+12487,699853,13,43449811,70,2,4726,79',1,0,"Goal! Canada 2, New Zealand 1. Évelyne Viens (Canada) right footed shot from the right side of the box to the bottom left corner. Assisted by Jessie Fleming.",Evelyne Viens Goal,2753,0.0,0.0,0.254,0.696,0.0,0.458,1.0,242809.0,2024-07-26 11:46:51
+12487,699853,13,43449811,70,2,4726,79',1,0,"Goal! Canada 2, New Zealand 1. Évelyne Viens (Canada) right footed shot from the right side of the box to the bottom left corner. Assisted by Jessie Fleming.",Evelyne Viens Goal,2753,0.0,0.0,0.254,0.696,0.0,0.458,2.0,219768.0,2024-07-26 11:46:51
+12487,699853,14,43449835,94,2,5051,85',0,0,Kadeisha Buchanan (Canada) is shown the yellow card for a bad foul.,Kadeisha Buchanan Yellow Card,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,209937.0,2024-07-26 11:46:51
+12487,699853,15,43449842,76,2,5162,87',0,0,"Substitution, New Zealand. Gabi Rennie replaces Kate Taylor because of an injury.",Gabi Rennie Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,320657.0,2024-07-26 11:46:51
+12487,699853,15,43449842,76,2,5162,87',0,0,"Substitution, New Zealand. Gabi Rennie replaces Kate Taylor because of an injury.",Gabi Rennie Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,332237.0,2024-07-26 11:46:51
+12487,699853,17,43449921,83,2,5400,90'+11',0,0,"Second Half ends, Canada 2, New Zealand 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699853,16,43449890,76,2,5400,90'+4',0,0,"Substitution, Canada. Shelina Zadorsky replaces Adriana Leon.",Shelina Zadorsky Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,235712.0,2024-07-26 11:46:51
+12487,699853,16,43449890,76,2,5400,90'+4',0,0,"Substitution, Canada. Shelina Zadorsky replaces Adriana Leon.",Shelina Zadorsky Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219769.0,2024-07-26 11:46:51
+12487,699854,1,43451086,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699854,2,43451137,70,1,330,6',1,0,"Goal! France 1, Colombia 0. Marie-Antoinette Katoto (France) right footed shot from the right side of the six yard box to the bottom left corner.",Marie-Antoinette Katoto Goal,2755,0.0,0.0,0.064,0.617,0.0,0.477,1.0,283094.0,2024-07-26 11:46:51
+12487,699854,3,43451261,70,1,1064,18',1,0,"Goal! France 2, Colombia 0. Kenza Dali (France) right footed shot from the centre of the box to the high centre of the goal.",Kenza Dali Goal,2755,0.0,0.0,0.3,0.476,0.0,0.511,1.0,219119.0,2024-07-26 11:46:51
+12487,699854,4,43451452,137,1,2503,42',1,0,"Goal! France 3, Colombia 0. Marie-Antoinette Katoto (France) header from the centre of the box to the top right corner. Assisted by Kadidiatou Diani with a cross.",Marie-Antoinette Katoto Goal - H,2755,0.0,0.0,0.162,0.439,0.0,0.542,1.0,283094.0,2024-07-26 11:46:51
+12487,699854,4,43451452,137,1,2503,42',1,0,"Goal! France 3, Colombia 0. Marie-Antoinette Katoto (France) header from the centre of the box to the top right corner. Assisted by Kadidiatou Diani with a cross.",Marie-Antoinette Katoto Goal - H,2755,0.0,0.0,0.162,0.439,0.0,0.542,2.0,219121.0,2024-07-26 11:46:51
+12487,699854,5,43451536,81,1,2700,45'+5',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699854,7,43451604,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699854,6,43451603,76,2,2700,45',0,0,"Substitution, Colombia. Manuela Paví replaces Daniela Montoya.",Manuela Paví Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,298775.0,2024-07-26 11:46:51
+12487,699854,6,43451603,76,2,2700,45',0,0,"Substitution, Colombia. Manuela Paví replaces Daniela Montoya.",Manuela Paví Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2.0,158872.0,2024-07-26 11:46:51
+12487,699854,8,43451683,98,2,3239,54',1,0,"Goal! France 3, Colombia 1. Catalina Usme (Colombia) converts the penalty with a left footed shot to the bottom left corner.",Catalina Usme Penalty - Scored,11337,0.0,0.0,0.23,0.5,0.0,0.481,1.0,158882.0,2024-07-26 11:46:51
+12487,699854,9,43451753,70,2,3802,64',1,0,"Goal! France 3, Colombia 2. Manuela Paví (Colombia) right footed shot from the centre of the box to the bottom left corner. Assisted by Marcela Restrepo.",Manuela Paví Goal,11337,0.0,0.0,0.252,0.625,0.0,0.472,1.0,298775.0,2024-07-26 11:46:51
+12487,699854,9,43451753,70,2,3802,64',1,0,"Goal! France 3, Colombia 2. Manuela Paví (Colombia) right footed shot from the centre of the box to the bottom left corner. Assisted by Marcela Restrepo.",Manuela Paví Goal,11337,0.0,0.0,0.252,0.625,0.0,0.472,2.0,288683.0,2024-07-26 11:46:51
+12487,699854,10,43451807,76,2,4266,72',0,0,"Substitution, France. Sandy Baltimore replaces Delphine Cascarino.",Sandy Baltimore Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,295673.0,2024-07-26 11:46:51
+12487,699854,10,43451807,76,2,4266,72',0,0,"Substitution, France. Sandy Baltimore replaces Delphine Cascarino.",Sandy Baltimore Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,248830.0,2024-07-26 11:46:51
+12487,699854,11,43451808,76,2,4278,72',0,0,"Substitution, France. Selma Bacha replaces Sakina Karchaoui.",Selma Bacha Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,306036.0,2024-07-26 11:46:51
+12487,699854,11,43451808,76,2,4278,72',0,0,"Substitution, France. Selma Bacha replaces Sakina Karchaoui.",Selma Bacha Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,240297.0,2024-07-26 11:46:51
+12487,699854,12,43451873,76,2,4951,83',0,0,"Substitution, Colombia. Yirleidis Minota replaces Carolina Arias.",Yirleidis Quejada Minota Substit,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386858.0,2024-07-26 11:46:51
+12487,699854,12,43451873,76,2,4951,83',0,0,"Substitution, Colombia. Yirleidis Minota replaces Carolina Arias.",Yirleidis Quejada Minota Substit,11337,0.0,0.0,0.0,0.0,0.0,0.0,2.0,158875.0,2024-07-26 11:46:51
+12487,699854,13,43451883,93,2,5110,86',0,0,Mayra Ramírez (Colombia) is shown the red card.,Mayra Ramírez Red Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,288680.0,2024-07-26 11:46:51
+12487,699854,16,43451938,83,2,5400,90'+12',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-26 11:46:51
+12487,699854,14,43451914,76,2,5400,90'+1',0,0,"Substitution, France. Amandine Henry replaces Kadidiatou Diani.",Amandine Henry Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158802.0,2024-07-26 11:46:51
+12487,699854,15,43451924,76,2,5400,90'+5',0,0,"Substitution, France. Eugénie Le Sommer replaces Marie-Antoinette Katoto.",Eugénie Le Sommer Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158820.0,2024-07-26 11:46:51
+12487,699854,14,43451914,76,2,5400,90'+1',0,0,"Substitution, France. Amandine Henry replaces Kadidiatou Diani.",Amandine Henry Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219121.0,2024-07-26 11:46:51
+12487,699854,15,43451924,76,2,5400,90'+5',0,0,"Substitution, France. Eugénie Le Sommer replaces Marie-Antoinette Katoto.",Eugénie Le Sommer Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,283094.0,2024-07-26 11:46:51
+12487,699855,1,43465662,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699855,2,43465840,173,1,1589,27',1,0,"Goal! New Zealand 0, Colombia 1. Marcela Restrepo (Colombia) right footed shot from outside the box to the bottom left corner following a set piece situation.",Marcela Restrepo Goal - Volley,11337,0.0,0.0,0.364,0.654,0.0,0.466,1.0,288683.0,2024-07-30 07:58:52
+12487,699855,3,43466031,81,1,2700,45'+7',0,0,"First Half ends, New Zealand 0, Colombia 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699855,5,43466097,82,2,2700,45',0,0,"Second Half begins New Zealand 0, Colombia 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699855,6,43466104,76,2,2700,45',0,0,"Substitution, New Zealand. Annalie Longo replaces Malia Steinmetz.",Annalie Longo Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,109134.0,2024-07-29 12:04:54
+12487,699855,4,43466090,76,2,2700,45',0,0,"Substitution, New Zealand. Grace Jale replaces Milly Clegg.",Grace Jale Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,292544.0,2024-07-29 12:04:54
+12487,699855,6,43466104,76,2,2700,45',0,0,"Substitution, New Zealand. Annalie Longo replaces Malia Steinmetz.",Annalie Longo Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,264967.0,2024-07-29 12:04:54
+12487,699855,4,43466090,76,2,2700,45',0,0,"Substitution, New Zealand. Grace Jale replaces Milly Clegg.",Grace Jale Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,351898.0,2024-07-29 12:04:54
+12487,699855,7,43466203,76,2,3918,66',0,0,"Substitution, New Zealand. Ally Green replaces Jacqui Hand.",Ally Green Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,300576.0,2024-07-29 12:04:54
+12487,699855,7,43466203,76,2,3918,66',0,0,"Substitution, New Zealand. Ally Green replaces Jacqui Hand.",Ally Green Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,329946.0,2024-07-29 12:04:54
+12487,699855,7,43466203,76,2,3918,66',0,0,"Substitution, New Zealand. Ally Green replaces Jacqui Hand.",Ally Green Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,280125.0,2024-07-29 12:04:54
+12487,699855,8,43466238,70,2,4277,72',1,0,"Goal! New Zealand 0, Colombia 2. Leicy Santos (Colombia) left footed shot from the centre of the box to the top left corner. Assisted by Manuela Vanegas with a cross.",Leicy Santos Goal,11337,0.0,0.0,0.218,0.47,0.0,0.466,1.0,219866.0,2024-07-29 12:04:54
+12487,699855,8,43466238,70,2,4277,72',1,0,"Goal! New Zealand 0, Colombia 2. Leicy Santos (Colombia) left footed shot from the centre of the box to the top left corner. Assisted by Manuela Vanegas with a cross.",Leicy Santos Goal,11337,0.0,0.0,0.218,0.47,0.0,0.466,2.0,288679.0,2024-07-29 12:04:54
+12487,699855,9,43466269,76,2,4621,78',0,0,"Substitution, New Zealand. Michaela Foster replaces Mackenzie Barry.",Michaela Foster Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,262321.0,2024-07-29 12:04:54
+12487,699855,9,43466269,76,2,4621,78',0,0,"Substitution, New Zealand. Michaela Foster replaces Mackenzie Barry.",Michaela Foster Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,330654.0,2024-07-29 12:04:54
+12487,699855,11,43466271,76,2,4622,78',0,0,"Substitution, Colombia. Daniela Montoya replaces Catalina Usme.",Daniela Montoya Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158872.0,2024-07-29 12:04:54
+12487,699855,10,43466270,76,2,4622,78',0,0,"Substitution, New Zealand. Gabi Rennie replaces Kate Taylor.",Gabi Rennie Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,320657.0,2024-07-29 12:04:54
+12487,699855,10,43466270,76,2,4622,78',0,0,"Substitution, New Zealand. Gabi Rennie replaces Kate Taylor.",Gabi Rennie Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,332237.0,2024-07-29 12:04:54
+12487,699855,11,43466271,76,2,4622,78',0,0,"Substitution, Colombia. Daniela Montoya replaces Catalina Usme.",Daniela Montoya Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2.0,158882.0,2024-07-29 12:04:54
+12487,699855,12,43466319,76,2,5110,86',0,0,"Substitution, Colombia. Daniela Caracas replaces Carolina Arias.",Daniela Caracas Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,288682.0,2024-07-29 12:04:54
+12487,699855,12,43466319,76,2,5110,86',0,0,"Substitution, Colombia. Daniela Caracas replaces Carolina Arias.",Daniela Caracas Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2.0,158875.0,2024-07-29 12:04:54
+12487,699855,13,43466337,76,2,5357,90',0,0,"Substitution, Colombia. Liana Salazar replaces Ilana Izquierdo.",Liana Salazar Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,159090.0,2024-07-29 12:04:54
+12487,699855,13,43466337,76,2,5357,90',0,0,"Substitution, Colombia. Liana Salazar replaces Ilana Izquierdo.",Liana Salazar Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2.0,298767.0,2024-07-29 12:04:54
+12487,699855,14,43466338,76,2,5376,90',0,0,"Substitution, Colombia. Yirleidis Minota replaces Linda Caicedo.",Yirleidis Quejada Minota Substit,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386858.0,2024-07-29 12:04:54
+12487,699855,14,43466338,76,2,5376,90',0,0,"Substitution, Colombia. Yirleidis Minota replaces Linda Caicedo.",Yirleidis Quejada Minota Substit,11337,0.0,0.0,0.0,0.0,0.0,0.0,2.0,298768.0,2024-07-29 12:04:54
+12487,699855,15,43466386,83,2,5400,90'+10',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699856,1,43467240,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699856,2,43467868,70,1,2489,42',1,0,"Goal! France 1, Canada 0. Marie-Antoinette Katoto (France) right footed shot from the centre of the box to the bottom left corner. Assisted by Kenza Dali.",Marie-Antoinette Katoto Goal,2755,0.0,0.0,0.248,0.393,0.0,0.458,1.0,283094.0,2024-07-29 12:04:54
+12487,699856,2,43467868,70,1,2489,42',1,0,"Goal! France 1, Canada 0. Marie-Antoinette Katoto (France) right footed shot from the centre of the box to the bottom left corner. Assisted by Kenza Dali.",Marie-Antoinette Katoto Goal,2755,0.0,0.0,0.248,0.393,0.0,0.458,2.0,219119.0,2024-07-29 12:04:54
+12487,699856,4,43467982,81,1,2700,45'+4',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699856,6,43468095,82,2,2700,45',0,0,"Second Half begins France 1, Canada 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699856,3,43467956,94,1,2700,45'+2',0,0,Ashley Lawrence (Canada) is shown the yellow card for a bad foul.,Ashley Lawrence Yellow Card,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,119954.0,2024-07-29 12:04:54
+12487,699856,5,43468086,76,2,2700,45',0,0,"Substitution, Canada. Adriana Leon replaces Nichelle Prince.",Adriana Leon Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219769.0,2024-07-29 12:04:54
+12487,699856,5,43468086,76,2,2700,45',0,0,"Substitution, Canada. Adriana Leon replaces Nichelle Prince.",Adriana Leon Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,225339.0,2024-07-29 12:04:54
+12487,699856,7,43468258,70,2,3428,58',1,0,"Goal! France 1, Canada 1. Jessie Fleming (Canada) right footed shot from very close range to the centre of the goal.",Jessie Fleming Goal,2753,0.0,0.0,0.064,0.531,0.0,0.511,1.0,219768.0,2024-07-29 12:04:54
+12487,699856,8,43468372,76,2,3759,63',0,0,"Substitution, France. Sakina Karchaoui replaces Delphine Cascarino.",Sakina Karchaoui Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,240297.0,2024-07-29 12:04:54
+12487,699856,8,43468372,76,2,3759,63',0,0,"Substitution, France. Sakina Karchaoui replaces Delphine Cascarino.",Sakina Karchaoui Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,248830.0,2024-07-29 12:04:54
+12487,699856,9,43468373,76,2,3773,63',0,0,"Substitution, France. Constance Picaud replaces Pauline Peyraud-Magnin because of an injury.",Constance Picaud Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,314330.0,2024-07-29 12:04:54
+12487,699856,9,43468373,76,2,3773,63',0,0,"Substitution, France. Constance Picaud replaces Pauline Peyraud-Magnin because of an injury.",Constance Picaud Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,255451.0,2024-07-29 12:04:54
+12487,699856,10,43468412,76,2,4016,67',0,0,"Substitution, Canada. Évelyne Viens replaces Quinn.",Evelyne Viens Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,242809.0,2024-07-29 12:04:54
+12487,699856,10,43468412,76,2,4016,67',0,0,"Substitution, Canada. Évelyne Viens replaces Quinn.",Evelyne Viens Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2024-07-29 12:04:54
+12487,699856,11,43468413,76,2,4022,68',0,0,"Substitution, Canada. Janine Beckie replaces Gabrielle Carle.",Janine Beckie Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,213918.0,2024-07-29 12:04:54
+12487,699856,11,43468413,76,2,4022,68',0,0,"Substitution, Canada. Janine Beckie replaces Gabrielle Carle.",Janine Beckie Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,235713.0,2024-07-29 12:04:54
+12487,699856,12,43468473,76,2,4314,72',0,0,"Substitution, France. Maëlle Lakrar replaces Wéndie Renard because of an injury.",Maëlle Lakrar Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,347099.0,2024-07-29 12:04:54
+12487,699856,12,43468473,76,2,4314,72',0,0,"Substitution, France. Maëlle Lakrar replaces Wéndie Renard because of an injury.",Maëlle Lakrar Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,158816.0,2024-07-29 12:04:54
+12487,699856,13,43468519,94,2,4526,76',0,0,Sandie Toletti (France) is shown the yellow card for a bad foul.,Sandie Toletti Yellow Card,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,248832.0,2024-07-29 12:04:54
+12487,699856,14,43468611,76,2,4899,82',0,0,"Substitution, France. Amandine Henry replaces Kadidiatou Diani.",Amandine Henry Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158802.0,2024-07-29 12:04:54
+12487,699856,14,43468611,76,2,4899,82',0,0,"Substitution, France. Amandine Henry replaces Kadidiatou Diani.",Amandine Henry Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219121.0,2024-07-29 12:04:54
+12487,699856,15,43468721,76,2,5376,90',0,0,"Substitution, Canada. Julia Grosso replaces Simi Awujo.",Julia Grosso Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,261984.0,2024-07-29 12:04:54
+12487,699856,15,43468721,76,2,5376,90',0,0,"Substitution, Canada. Julia Grosso replaces Simi Awujo.",Julia Grosso Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,349220.0,2024-07-29 12:04:54
+12487,699856,17,43468865,83,2,5400,90'+17',0,0,"Second Half ends, France 1, Canada 2.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-07-29 12:04:54
+12487,699856,16,43468849,70,2,5400,90'+12',1,0,"Goal! France 1, Canada 2. Vanessa Gilles (Canada) left footed shot from the centre of the box to the bottom left corner.",Vanessa Gilles Goal,2753,0.0,0.0,0.24,0.403,0.0,0.461,1.0,209687.0,2024-07-29 12:04:54
+12487,699857,1,43479826,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 09:12:10
+12487,699857,2,43480003,137,1,1283,22',1,0,"Goal! New Zealand 0, France 1. Marie-Antoinette Katoto (France) header from the centre of the box to the centre of the goal. Assisted by Sandy Baltimore with a cross.",Marie-Antoinette Katoto Goal - H,2755,0.0,0.0,0.136,0.49,0.0,0.484,1.0,283094.0,2024-08-01 09:12:10
+12487,699857,2,43480003,137,1,1283,22',1,0,"Goal! New Zealand 0, France 1. Marie-Antoinette Katoto (France) header from the centre of the box to the centre of the goal. Assisted by Sandy Baltimore with a cross.",Marie-Antoinette Katoto Goal - H,2755,0.0,0.0,0.136,0.49,0.0,0.484,2.0,295673.0,2024-08-01 09:12:10
+12487,699857,3,43480111,70,1,2521,43',1,0,"Goal! New Zealand 1, France 1. Kate Taylor (New Zealand) right footed shot from outside the box to the bottom right corner. Assisted by Catherine Bott.",Kate Taylor Goal,4153,0.0,0.0,0.496,0.696,0.0,0.539,1.0,332237.0,2024-08-01 09:12:10
+12487,699857,3,43480111,70,1,2521,43',1,0,"Goal! New Zealand 1, France 1. Kate Taylor (New Zealand) right footed shot from outside the box to the bottom right corner. Assisted by Catherine Bott.",Kate Taylor Goal,4153,0.0,0.0,0.496,0.696,0.0,0.539,2.0,219962.0,2024-08-01 09:12:10
+12487,699857,4,43480143,81,1,2700,45'+4',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 09:12:10
+12487,699857,5,43480182,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 09:12:10
+12487,699857,6,43480194,70,2,2918,49',1,0,"Goal! New Zealand 1, France 2. Marie-Antoinette Katoto (France) left footed shot from the centre of the box to the centre of the goal. Assisted by Sakina Karchaoui with a cross.",Marie-Antoinette Katoto Goal,2755,0.0,0.0,0.136,0.518,0.0,0.501,1.0,283094.0,2024-08-01 09:12:10
+12487,699857,6,43480194,70,2,2918,49',1,0,"Goal! New Zealand 1, France 2. Marie-Antoinette Katoto (France) left footed shot from the centre of the box to the centre of the goal. Assisted by Sakina Karchaoui with a cross.",Marie-Antoinette Katoto Goal,2755,0.0,0.0,0.136,0.518,0.0,0.501,2.0,240297.0,2024-08-01 09:12:10
+12487,699857,7,43480230,76,2,3225,54',0,0,"Substitution, New Zealand. Milly Clegg replaces Katie Kitching.",Milly Clegg Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,351898.0,2024-08-01 09:12:10
+12487,699857,7,43480230,76,2,3225,54',0,0,"Substitution, New Zealand. Milly Clegg replaces Katie Kitching.",Milly Clegg Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,268163.0,2024-08-01 09:12:10
+12487,699857,8,43480231,76,2,3231,54',0,0,"Substitution, New Zealand. Meikayla Moore replaces Rebekah Stott.",Meikayla Moore Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219965.0,2024-08-01 09:12:10
+12487,699857,8,43480231,76,2,3231,54',0,0,"Substitution, New Zealand. Meikayla Moore replaces Rebekah Stott.",Meikayla Moore Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,175238.0,2024-08-01 09:12:10
+12487,699857,9,43480276,76,2,3732,63',0,0,"Substitution, France. Kadidiatou Diani replaces Marie-Antoinette Katoto.",Kadidiatou Diani Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219121.0,2024-08-01 09:12:10
+12487,699857,9,43480276,76,2,3732,63',0,0,"Substitution, France. Kadidiatou Diani replaces Marie-Antoinette Katoto.",Kadidiatou Diani Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,283094.0,2024-08-01 09:12:10
+12487,699857,10,43480277,76,2,3739,63',0,0,"Substitution, France. Kenza Dali replaces Grace Geyoro.",Kenza Dali Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219119.0,2024-08-01 09:12:10
+12487,699857,10,43480277,76,2,3739,63',0,0,"Substitution, France. Kenza Dali replaces Grace Geyoro.",Kenza Dali Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,252367.0,2024-08-01 09:12:10
+12487,699857,11,43480278,76,2,3754,63',0,0,"Substitution, New Zealand. Mackenzie Barry replaces Michaela Foster.",Mackenzie Barry Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,330654.0,2024-08-01 09:12:10
+12487,699857,11,43480278,76,2,3754,63',0,0,"Substitution, New Zealand. Mackenzie Barry replaces Michaela Foster.",Mackenzie Barry Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,262321.0,2024-08-01 09:12:10
+12487,699857,12,43480338,76,2,4379,73',0,0,"Substitution, New Zealand. Ally Green replaces Indiah-Paige Riley.",Ally Green Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,300576.0,2024-08-01 09:12:10
+12487,699857,12,43480338,76,2,4379,73',0,0,"Substitution, New Zealand. Ally Green replaces Indiah-Paige Riley.",Ally Green Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,300434.0,2024-08-01 09:12:10
+12487,699857,13,43480339,76,2,4387,74',0,0,"Substitution, New Zealand. Malia Steinmetz replaces Jacqui Hand.",Malia Steinmetz Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,264967.0,2024-08-01 09:12:10
+12487,699857,13,43480339,76,2,4387,74',0,0,"Substitution, New Zealand. Malia Steinmetz replaces Jacqui Hand.",Malia Steinmetz Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,329946.0,2024-08-01 09:12:10
+12487,699857,13,43480339,76,2,4387,74',0,0,"Substitution, New Zealand. Malia Steinmetz replaces Jacqui Hand.",Malia Steinmetz Substitution,4153,0.0,0.0,0.0,0.0,0.0,0.0,2.0,280125.0,2024-08-01 09:12:10
+12487,699857,14,43480340,76,2,4392,74',0,0,"Substitution, France. Sandie Toletti replaces Selma Bacha.",Sandie Toletti Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,248832.0,2024-08-01 09:12:10
+12487,699857,14,43480340,76,2,4392,74',0,0,"Substitution, France. Sandie Toletti replaces Selma Bacha.",Sandie Toletti Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,306036.0,2024-08-01 09:12:10
+12487,699857,15,43480381,76,2,4949,83',0,0,"Substitution, France. Eugénie Le Sommer replaces Delphine Cascarino.",Eugénie Le Sommer Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158820.0,2024-08-01 09:12:10
+12487,699857,15,43480381,76,2,4949,83',0,0,"Substitution, France. Eugénie Le Sommer replaces Delphine Cascarino.",Eugénie Le Sommer Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,248830.0,2024-08-01 09:12:10
+12487,699857,16,43480382,76,2,4969,83',0,0,"Substitution, France. Ève Périsset replaces Griedge Mbock.",Ève Périsset Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,248834.0,2024-08-01 09:12:10
+12487,699857,16,43480382,76,2,4969,83',0,0,"Substitution, France. Ève Périsset replaces Griedge Mbock.",Ève Périsset Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219934.0,2024-08-01 09:12:10
+12487,699857,18,43480438,83,2,5400,90'+7',0,0,"Second Half ends, New Zealand 1, France 2.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 09:12:10
+12487,699857,17,43480426,94,2,5400,90'+6',0,0,Ally Green (New Zealand) is shown the yellow card for a bad foul.,Ally Green Yellow Card,4153,0.0,0.0,0.0,0.0,0.0,0.0,1.0,300576.0,2024-08-01 09:12:10
+12487,699858,1,43479828,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 09:12:10
+12487,699858,2,43479888,94,1,336,6',0,0,Manuela Paví (Colombia) is shown the yellow card for a bad foul.,Manuela Paví Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,298775.0,2024-08-01 09:12:10
+12487,699858,3,43479983,94,1,1139,19',0,0,Yirleidis Minota (Colombia) is shown the yellow card for a bad foul.,Yirleidis Quejada Minota Yellow ,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386858.0,2024-08-01 09:12:10
+12487,699858,5,43480159,81,1,2700,45'+6',0,0,"First Half ends, Colombia 0, Canada 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 09:12:10
+12487,699858,7,43480195,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 09:12:10
+12487,699858,6,43480185,76,2,2700,45',0,0,"Substitution, Canada. Nichelle Prince replaces Cloé Lacasse.",Nichelle Prince Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,225339.0,2024-08-01 09:12:10
+12487,699858,4,43480142,94,1,2700,45'+3',0,0,Adriana Leon (Canada) is shown the yellow card for a bad foul.,Adriana Leon Yellow Card,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219769.0,2024-08-01 09:12:10
+12487,699858,6,43480185,76,2,2700,45',0,0,"Substitution, Canada. Nichelle Prince replaces Cloé Lacasse.",Nichelle Prince Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317623.0,2024-08-01 09:12:10
+12487,699858,8,43480280,76,2,3627,61',0,0,"Substitution, Canada. Évelyne Viens replaces Adriana Leon.",Evelyne Viens Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,242809.0,2024-08-01 09:12:10
+12487,699858,8,43480280,76,2,3627,61',0,0,"Substitution, Canada. Évelyne Viens replaces Adriana Leon.",Evelyne Viens Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219769.0,2024-08-01 09:12:10
+12487,699858,9,43480282,137,2,3641,61',1,0,"Goal! Colombia 0, Canada 1. Vanessa Gilles (Canada) header from the left side of the six yard box to the bottom left corner. Assisted by Jessie Fleming with a cross following a set piece situation.",Vanessa Gilles Goal - Header,2753,0.0,0.0,0.104,0.447,0.0,0.477,1.0,209687.0,2024-08-01 09:12:10
+12487,699858,9,43480282,137,2,3641,61',1,0,"Goal! Colombia 0, Canada 1. Vanessa Gilles (Canada) header from the left side of the six yard box to the bottom left corner. Assisted by Jessie Fleming with a cross following a set piece situation.",Vanessa Gilles Goal - Header,2753,0.0,0.0,0.104,0.447,0.0,0.477,2.0,219768.0,2024-08-01 09:12:10
+12487,699858,10,43480356,76,2,4432,74',0,0,"Substitution, Canada. Quinn replaces Julia Grosso.",Quinn Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2024-08-02 09:24:11
+12487,699858,10,43480356,76,2,4432,74',0,0,"Substitution, Canada. Quinn replaces Julia Grosso.",Quinn Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,261984.0,2024-08-02 09:24:11
+12487,699858,11,43480374,76,2,4678,78',0,0,"Substitution, Colombia. Daniela Montoya replaces Yirleidis Minota.",Daniela Montoya Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158872.0,2024-08-01 09:12:10
+12487,699858,11,43480374,76,2,4678,78',0,0,"Substitution, Colombia. Daniela Montoya replaces Yirleidis Minota.",Daniela Montoya Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2.0,386858.0,2024-08-01 09:12:10
+12487,699858,12,43480395,76,2,5086,85',0,0,"Substitution, Canada. Gabrielle Carle replaces Janine Beckie.",Gabrielle Carle Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,235713.0,2024-08-01 09:12:10
+12487,699858,12,43480395,76,2,5086,85',0,0,"Substitution, Canada. Gabrielle Carle replaces Janine Beckie.",Gabrielle Carle Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,213918.0,2024-08-01 09:12:10
+12487,699858,13,43480396,76,2,5091,85',0,0,"Substitution, Canada. Shelina Zadorsky replaces Vanessa Gilles.",Shelina Zadorsky Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,235712.0,2024-08-01 09:12:10
+12487,699858,13,43480396,76,2,5091,85',0,0,"Substitution, Canada. Shelina Zadorsky replaces Vanessa Gilles.",Shelina Zadorsky Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,209687.0,2024-08-01 09:12:10
+12487,699858,15,43480440,83,2,5400,90'+7',0,0,"Second Half ends, Colombia 0, Canada 1.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-01 09:12:10
+12487,699858,14,43480435,94,2,5400,90'+3',0,0,Linda Caicedo (Colombia) is shown the yellow card.,Linda Caicedo Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,298768.0,2024-08-01 09:12:10
+12486,699845,1,43489014,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699845,2,43489111,81,1,2700,45'+1',0,0,"First Half ends, USA 0, Japan 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699845,4,43489121,82,2,2700,45',0,0,"Second Half begins USA 0, Japan 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699845,3,43489119,76,2,2700,45',0,0,"Substitution, Japan. Maika Hamano replaces Kiko Seike.",Maika Hamano Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,351356.0,2024-08-04 09:28:38
+12486,699845,3,43489119,76,2,2700,45',0,0,"Substitution, Japan. Maika Hamano replaces Kiko Seike.",Maika Hamano Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,296778.0,2024-08-04 09:28:38
+12486,699845,5,43489143,94,2,3374,57',0,0,Emily Sonnett (USA) is shown the yellow card for a bad foul.,Emily Sonnett Yellow Card,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,211034.0,2024-08-04 09:28:38
+12486,699845,6,43489179,76,2,4194,70',0,0,"Substitution, Japan. Riko Ueki replaces Mina Tanaka.",Riko Ueki Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,287317.0,2024-08-04 09:28:38
+12486,699845,6,43489179,76,2,4194,70',0,0,"Substitution, Japan. Riko Ueki replaces Mina Tanaka.",Riko Ueki Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,223464.0,2024-08-04 09:28:38
+12486,699845,7,43489205,76,2,4802,81',0,0,"Substitution, Japan. Hinata Miyazawa replaces Aoba Fujino.",Hinata Miyazawa Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283107.0,2024-08-04 09:28:38
+12486,699845,7,43489205,76,2,4802,81',0,0,"Substitution, Japan. Hinata Miyazawa replaces Aoba Fujino.",Hinata Miyazawa Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,351355.0,2024-08-04 09:28:38
+12486,699845,8,43489233,83,2,5400,90'+5',0,0,"Second Half ends, USA 0, Japan 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699845,11,43489240,84,3,5400,90',0,0,"First Half Extra Time begins USA 0, Japan 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699845,10,43489239,76,3,5400,90',0,0,"Substitution, USA. Lynn Williams replaces Mallory Swanson.",Lynn Williams Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2024-08-04 09:28:38
+12486,699845,9,43489238,76,3,5400,90',0,0,"Substitution, Japan. Hana Takahashi replaces Toko Koga.",Hana Takahashi Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,296776.0,2024-08-04 09:28:38
+12486,699845,9,43489238,76,3,5400,90',0,0,"Substitution, Japan. Hana Takahashi replaces Toko Koga.",Hana Takahashi Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,351715.0,2024-08-04 09:28:38
+12486,699845,10,43489239,76,3,5400,90',0,0,"Substitution, USA. Lynn Williams replaces Mallory Swanson.",Lynn Williams Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,233163.0,2024-08-04 09:28:38
+12486,699845,13,43489359,85,3,6300,105'+4',0,0,"First Half Extra Time ends, USA 1, Japan 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699845,17,43489382,86,4,6300,105',0,0,"Second Half Extra Time begins USA 1, Japan 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699845,14,43489378,76,4,6300,105',0,0,"Substitution, Japan. Honoka Hayashi replaces Yui Hasegawa.",Honoka Hayashi Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,303336.0,2024-08-04 09:28:38
+12486,699845,16,43489380,76,4,6300,105',0,0,"Substitution, USA. Jenna Nighswonger replaces Rose Lavelle.",Jenna Nighswonger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,292633.0,2024-08-04 09:28:38
+12486,699845,15,43489379,76,4,6300,105',0,0,"Substitution, Japan. Remina Chiba replaces Hikaru Kitagawa.",Remina Chiba Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,1.0,343589.0,2024-08-04 09:28:38
+12486,699845,12,43489347,70,3,6300,105'+2',1,0,"Goal! USA 1, Japan 0. Trinity Rodman (USA) left footed shot from the right side of the box to the top left corner. Assisted by Crystal Dunn.",Trinity Rodman Goal,2765,0.0,0.0,0.16,0.705,0.0,0.455,1.0,317423.0,2024-08-04 09:28:38
+12486,699845,12,43489347,70,3,6300,105'+2',1,0,"Goal! USA 1, Japan 0. Trinity Rodman (USA) left footed shot from the right side of the box to the top left corner. Assisted by Crystal Dunn.",Trinity Rodman Goal,2765,0.0,0.0,0.16,0.705,0.0,0.455,2.0,227388.0,2024-08-04 09:28:38
+12486,699845,14,43489378,76,4,6300,105',0,0,"Substitution, Japan. Honoka Hayashi replaces Yui Hasegawa.",Honoka Hayashi Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,256228.0,2024-08-04 09:28:38
+12486,699845,16,43489380,76,4,6300,105',0,0,"Substitution, USA. Jenna Nighswonger replaces Rose Lavelle.",Jenna Nighswonger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,209984.0,2024-08-04 09:28:38
+12486,699845,15,43489379,76,4,6300,105',0,0,"Substitution, Japan. Remina Chiba replaces Hikaru Kitagawa.",Remina Chiba Substitution,2758,0.0,0.0,0.0,0.0,0.0,0.0,2.0,259860.0,2024-08-04 09:28:38
+12486,699845,19,43489551,87,4,7200,120'+3',0,0,"Second Half Extra Time ends, USA 1, Japan 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699845,18,43489533,76,4,7200,120'+1',0,0,"Substitution, USA. Casey Krueger replaces Emily Fox because of an injury.",Casey Krueger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,248778.0,2024-08-04 09:28:38
+12486,699845,18,43489533,76,4,7200,120'+1',0,0,"Substitution, USA. Casey Krueger replaces Emily Fox because of an injury.",Casey Krueger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,263684.0,2024-08-04 09:28:38
+12486,699846,1,43489259,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699846,2,43489317,94,1,470,8',0,0,Laia Aleixandri (Spain) is shown the yellow card for a bad foul.,Laia Aleixandri Yellow Card,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,286338.0,2024-08-04 09:28:38
+12486,699846,3,43489343,70,1,716,12',1,0,"Goal! Spain 0, Colombia 1. Mayra Ramírez (Colombia) right footed shot from the centre of the box to the centre of the goal. Assisted by Leicy Santos.",Mayra Ramírez Goal,11337,0.0,0.0,0.164,0.551,0.0,0.502,1.0,288680.0,2024-08-04 09:28:38
+12486,699846,3,43489343,70,1,716,12',1,0,"Goal! Spain 0, Colombia 1. Mayra Ramírez (Colombia) right footed shot from the centre of the box to the centre of the goal. Assisted by Leicy Santos.",Mayra Ramírez Goal,11337,0.0,0.0,0.164,0.551,0.0,0.502,2.0,219866.0,2024-08-04 09:28:38
+12486,699846,4,43489490,94,1,1750,30',0,0,Daniela Arias (Colombia) is shown the yellow card for a bad foul.,Daniela Arias Yellow Card,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,298692.0,2024-08-04 09:28:38
+12486,699846,6,43489680,81,1,2700,45'+10',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699846,7,43489722,82,2,2700,45',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699846,5,43489650,76,1,2700,45'+2',0,0,"Substitution, Colombia. Ilana Izquierdo replaces Manuela Paví because of an injury.",Ilana Izquierdo Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,298767.0,2024-08-04 09:28:38
+12486,699846,5,43489650,76,1,2700,45'+2',0,0,"Substitution, Colombia. Ilana Izquierdo replaces Manuela Paví because of an injury.",Ilana Izquierdo Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2.0,298775.0,2024-08-04 09:28:38
+12486,699846,8,43489755,76,2,3078,52',0,0,"Substitution, Spain. Teresa Abelleira replaces Patri Guijarro.",Teresa Abelleira Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317628.0,2024-08-04 09:28:38
+12486,699846,8,43489755,76,2,3078,52',0,0,"Substitution, Spain. Teresa Abelleira replaces Patri Guijarro.",Teresa Abelleira Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,264734.0,2024-08-04 09:28:38
+12486,699846,9,43489758,70,2,3116,52',1,0,"Goal! Spain 0, Colombia 2. Leicy Santos (Colombia) left footed shot from the centre of the box to the top left corner following a fast break.",Leicy Santos Goal,11337,0.0,0.0,0.182,0.53,0.0,0.46,1.0,219866.0,2024-08-04 09:28:38
+12486,699846,10,43489819,76,2,3863,65',0,0,"Substitution, Spain. Jenni Hermoso replaces Alexia Putellas.",Jenni Hermoso Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,220006.0,2024-08-04 09:28:38
+12486,699846,10,43489819,76,2,3863,65',0,0,"Substitution, Spain. Jenni Hermoso replaces Alexia Putellas.",Jenni Hermoso Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219995.0,2024-08-04 09:28:38
+12486,699846,11,43489820,76,2,3879,65',0,0,"Substitution, Spain. Alba Redondo replaces Olga Carmona.",Alba Redondo Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283001.0,2024-08-04 09:28:38
+12486,699846,11,43489820,76,2,3879,65',0,0,"Substitution, Spain. Alba Redondo replaces Olga Carmona.",Alba Redondo Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317946.0,2024-08-04 09:28:38
+12486,699846,12,43489826,76,2,3958,66',0,0,"Substitution, Colombia. Daniela Montoya replaces Linda Caicedo because of an injury.",Daniela Montoya Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158872.0,2024-08-04 09:28:38
+12486,699846,12,43489826,76,2,3958,66',0,0,"Substitution, Colombia. Daniela Montoya replaces Linda Caicedo because of an injury.",Daniela Montoya Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2.0,298768.0,2024-08-04 09:28:38
+12486,699846,13,43489897,76,2,4660,78',0,0,"Substitution, Spain. Laia Codina replaces Laia Aleixandri.",Laia Codina Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,295638.0,2024-08-04 09:28:38
+12486,699846,13,43489897,76,2,4660,78',0,0,"Substitution, Spain. Laia Codina replaces Laia Aleixandri.",Laia Codina Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,286338.0,2024-08-04 09:28:38
+12486,699846,14,43489898,76,2,4686,79',0,0,"Substitution, Spain. Eva Navarro replaces Athenea del Castillo.",Eva Navarro Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,288443.0,2024-08-04 09:28:38
+12486,699846,14,43489898,76,2,4686,79',0,0,"Substitution, Spain. Eva Navarro replaces Athenea del Castillo.",Eva Navarro Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,320355.0,2024-08-04 09:28:38
+12486,699846,15,43489896,70,2,4715,79',1,0,"Goal! Spain 1, Colombia 2. Jenni Hermoso (Spain) right footed shot from the centre of the box to the centre of the goal. Assisted by Salma Paralluelo.",Jenni Hermoso Goal,17640,0.0,0.0,0.19,0.445,0.0,0.506,1.0,220006.0,2024-08-04 09:28:38
+12486,699846,15,43489896,70,2,4715,79',1,0,"Goal! Spain 1, Colombia 2. Jenni Hermoso (Spain) right footed shot from the centre of the box to the centre of the goal. Assisted by Salma Paralluelo.",Jenni Hermoso Goal,17640,0.0,0.0,0.19,0.445,0.0,0.506,2.0,333582.0,2024-08-04 09:28:38
+12486,699846,16,43489939,76,2,5153,86',0,0,"Substitution, Colombia. Daniela Caracas replaces Mayra Ramírez because of an injury.",Daniela Caracas Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,288682.0,2024-08-04 09:28:38
+12486,699846,16,43489939,76,2,5153,86',0,0,"Substitution, Colombia. Daniela Caracas replaces Mayra Ramírez because of an injury.",Daniela Caracas Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2.0,288680.0,2024-08-04 09:28:38
+12486,699846,17,43489940,76,2,5158,86',0,0,"Substitution, Colombia. Liana Salazar replaces Leicy Santos.",Liana Salazar Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,159090.0,2024-08-04 09:28:38
+12486,699846,17,43489940,76,2,5158,86',0,0,"Substitution, Colombia. Liana Salazar replaces Leicy Santos.",Liana Salazar Substitution,11337,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219866.0,2024-08-04 09:28:38
+12486,699846,19,43489974,83,2,5400,90'+15',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699846,20,43489985,84,3,5400,90',0,0,"First Half Extra Time begins Spain 2, Colombia 2.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699846,18,43489955,70,2,5400,90'+7',1,0,"Goal! Spain 2, Colombia 2. Irene Paredes (Spain) right footed shot from the centre of the box to the centre of the goal. Assisted by Salma Paralluelo with a cross.",Irene Paredes Goal,17640,0.0,0.0,0.142,0.472,0.0,0.491,1.0,219998.0,2024-08-04 09:28:38
+12486,699846,18,43489955,70,2,5400,90'+7',1,0,"Goal! Spain 2, Colombia 2. Irene Paredes (Spain) right footed shot from the centre of the box to the centre of the goal. Assisted by Salma Paralluelo with a cross.",Irene Paredes Goal,17640,0.0,0.0,0.142,0.472,0.0,0.491,2.0,333582.0,2024-08-04 09:28:38
+12486,699846,21,43490033,76,3,5865,98',0,0,"Substitution, Colombia. Yirleidis Minota replaces Marcela Restrepo.",Yirleidis Quejada Minota Substit,11337,0.0,0.0,0.0,0.0,0.0,0.0,1.0,386858.0,2024-08-04 09:28:38
+12486,699846,21,43490033,76,3,5865,98',0,0,"Substitution, Colombia. Yirleidis Minota replaces Marcela Restrepo.",Yirleidis Quejada Minota Substit,11337,0.0,0.0,0.0,0.0,0.0,0.0,2.0,288683.0,2024-08-04 09:28:38
+12486,699846,22,43490063,85,3,6300,105'+1',0,0,"First Half Extra Time ends, Spain 2, Colombia 2.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699846,23,43490070,86,4,6300,105',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699846,24,43490160,87,4,7200,120'+5',0,0,"Second Half Extra Time ends, Spain 2, Colombia 2.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699846,25,43490169,88,5,7200,120',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699846,26,43490219,89,5,7200,120',0,0,"Penalty Shootout ends, Spain 2(4), Colombia 2(2).",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699847,1,43489953,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699847,2,43490159,81,1,2700,45'+6',0,0,"First Half ends, Canada 0, Germany 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699847,4,43490204,82,2,2700,45',0,0,"Second Half begins Canada 0, Germany 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699847,3,43490190,76,2,2700,45',0,0,"Substitution, Canada. Janine Beckie replaces Jessie Fleming because of an injury.",Janine Beckie Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2024-08-04 09:28:38
+12486,699847,3,43490190,76,2,2700,45',0,0,"Substitution, Canada. Janine Beckie replaces Jessie Fleming because of an injury.",Janine Beckie Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219768.0,2024-08-04 09:28:38
+12486,699847,5,43490281,76,2,3365,57',0,0,"Substitution, Canada. Évelyne Viens replaces Jordyn Huitema.",Evelyne Viens Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,242809.0,2024-08-04 09:28:38
+12486,699847,5,43490281,76,2,3365,57',0,0,"Substitution, Canada. Évelyne Viens replaces Jordyn Huitema.",Evelyne Viens Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,255413.0,2024-08-04 09:28:38
+12486,699847,6,43490282,76,2,3366,57',0,0,"Substitution, Canada. Adriana Leon replaces Nichelle Prince.",Adriana Leon Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219769.0,2024-08-04 09:28:38
+12486,699847,6,43490282,76,2,3366,57',0,0,"Substitution, Canada. Adriana Leon replaces Nichelle Prince.",Adriana Leon Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,225339.0,2024-08-04 09:28:38
+12486,699847,7,43490283,76,2,3367,57',0,0,"Substitution, Canada. Cloé Lacasse replaces Gabrielle Carle.",Cloé Lacasse Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317623.0,2024-08-04 09:28:38
+12486,699847,7,43490283,76,2,3367,57',0,0,"Substitution, Canada. Cloé Lacasse replaces Gabrielle Carle.",Cloé Lacasse Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,235713.0,2024-08-04 09:28:38
+12486,699847,8,43490334,76,2,3891,65',0,0,"Substitution, Germany. Sydney Lohmann replaces Sjoeke Nüsken.",Sydney Lohmann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283073.0,2024-08-04 09:28:38
+12486,699847,8,43490334,76,2,3891,65',0,0,"Substitution, Germany. Sydney Lohmann replaces Sjoeke Nüsken.",Sydney Lohmann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,314382.0,2024-08-04 09:28:38
+12486,699847,9,43490335,76,2,3900,65',0,0,"Substitution, Germany. Vivien Endemann replaces Klara Bühl.",Vivien Endemann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,382439.0,2024-08-04 09:28:38
+12486,699847,9,43490335,76,2,3900,65',0,0,"Substitution, Germany. Vivien Endemann replaces Klara Bühl.",Vivien Endemann Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,286460.0,2024-08-04 09:28:38
+12486,699847,10,43490426,94,2,4725,79',0,0,Jule Brand (Germany) is shown the yellow card for a bad foul.,Jule Brand Yellow Card,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317719.0,2024-08-05 09:30:40
+12486,699847,11,43490510,83,2,5400,90'+5',0,0,"Second Half ends, Canada 0, Germany 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699847,12,43490526,84,3,5400,90',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699847,13,43490649,94,3,6078,102',0,0,Felicitas Rauch (Germany) is shown the yellow card for a bad foul.,Feli Rauch Yellow Card,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,231205.0,2024-08-05 09:30:40
+12486,699847,14,43490672,76,3,6184,104',0,0,"Substitution, Germany. Elisa Senß replaces Vivien Endemann.",Elisa Senß Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377165.0,2024-08-05 09:30:40
+12486,699847,14,43490672,76,3,6184,104',0,0,"Substitution, Germany. Elisa Senß replaces Vivien Endemann.",Elisa Senß Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,382439.0,2024-08-05 09:30:40
+12486,699847,15,43490732,85,3,6300,105'+2',0,0,"First Half Extra Time ends, Canada 0, Germany 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699847,16,43490761,86,4,6300,105',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699847,17,43490804,94,4,6410,107',0,0,Giulia Gwinn (Germany) is shown the yellow card for a bad foul.,Giulia Gwinn Yellow Card,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,268102.0,2024-08-04 09:28:38
+12486,699847,18,43490805,76,4,6489,109',0,0,"Substitution, Canada. Julia Grosso replaces Simi Awujo.",Julia Grosso Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,1.0,261984.0,2024-08-04 09:28:38
+12486,699847,18,43490805,76,4,6489,109',0,0,"Substitution, Canada. Julia Grosso replaces Simi Awujo.",Julia Grosso Substitution,2753,0.0,0.0,0.0,0.0,0.0,0.0,2.0,349220.0,2024-08-04 09:28:38
+12486,699847,19,43490914,76,4,6799,114',0,0,"Substitution, Germany. Laura Freigang replaces Lea Schüller.",Laura Freigang Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,262757.0,2024-08-05 09:30:40
+12486,699847,19,43490914,76,4,6799,114',0,0,"Substitution, Germany. Laura Freigang replaces Lea Schüller.",Laura Freigang Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,258844.0,2024-08-05 09:30:40
+12486,699847,20,43490994,87,4,7200,120'+2',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699847,21,43491067,88,5,7200,120',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699847,22,43491186,89,5,7200,120',0,0,"Penalty Shootout ends, Canada 0(2), Germany 0(4).",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699848,1,43490517,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699848,2,43490519,94,1,22,1',0,0,Jheniffer (Brazil) is shown the yellow card for a bad foul.,Jheniffer Gouveia Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,344299.0,2024-08-05 09:30:40
+12486,699848,3,43490684,114,1,938,16',0,0,Penalty saved. Sakina Karchaoui (France) left footed shot saved in the bottom left corner.,Sakina Karchaoui Penalty - Saved,2755,0.0,0.0,0.23,0.5,0.006,0.496,1.0,240297.0,2024-08-04 09:28:38
+12486,699848,4,43490862,94,1,1628,28',0,0,Marie-Antoinette Katoto (France) is shown the yellow card for a bad foul.,Marie-Antoinette Katoto Yellow C,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283094.0,2024-08-04 09:28:38
+12486,699848,5,43491191,81,1,2700,45'+7',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699848,6,43491289,82,2,2700,45',0,0,"Second Half begins France 0, Brazil 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699848,7,43491412,76,2,3221,54',0,0,"Substitution, Brazil. Tamires replaces Rafaelle Souza because of an injury.",Tamires Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219826.0,2024-08-05 09:30:40
+12486,699848,7,43491412,76,2,3221,54',0,0,"Substitution, Brazil. Tamires replaces Rafaelle Souza because of an injury.",Tamires Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,158720.0,2024-08-05 09:30:40
+12486,699848,8,43491554,76,2,3730,63',0,0,"Substitution, Brazil. Kerolin replaces Gabi Nunes.",Kerolin Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,281475.0,2024-08-05 09:30:40
+12486,699848,8,43491554,76,2,3730,63',0,0,"Substitution, Brazil. Kerolin replaces Gabi Nunes.",Kerolin Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,257469.0,2024-08-05 09:30:40
+12486,699848,9,43491555,76,2,3735,63',0,0,"Substitution, Brazil. Angelina replaces Duda Sampaio.",Angelina Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,316035.0,2024-08-05 09:30:40
+12486,699848,9,43491555,76,2,3735,63',0,0,"Substitution, Brazil. Angelina replaces Duda Sampaio.",Angelina Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,343577.0,2024-08-05 09:30:40
+12486,699848,10,43491659,76,2,4125,69',0,0,"Substitution, France. Kadidiatou Diani replaces Sandy Baltimore.",Kadidiatou Diani Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219121.0,2024-08-04 09:28:38
+12486,699848,10,43491659,76,2,4125,69',0,0,"Substitution, France. Kadidiatou Diani replaces Sandy Baltimore.",Kadidiatou Diani Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,295673.0,2024-08-04 09:28:38
+12486,699848,11,43491780,94,2,4688,79',0,0,Tamires (Brazil) is shown the yellow card for a bad foul.,Tamires Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219826.0,2024-08-05 09:30:40
+12486,699848,12,43491796,94,2,4706,79',0,0,Kerolin (Brazil) is shown the yellow card.,Kerolin Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,281475.0,2024-08-05 09:30:40
+12486,699848,13,43491824,70,2,4896,82',1,0,"Goal! France 0, Brazil 1. Gabi Portilho (Brazil) right footed shot from the centre of the box to the bottom left corner. Assisted by Adriana with a through ball.",Gabi Portilho Goal,2752,0.0,0.0,0.256,0.567,0.0,0.478,1.0,339855.0,2024-08-04 09:28:38
+12486,699848,13,43491824,70,2,4896,82',1,0,"Goal! France 0, Brazil 1. Gabi Portilho (Brazil) right footed shot from the centre of the box to the bottom left corner. Assisted by Adriana with a through ball.",Gabi Portilho Goal,2752,0.0,0.0,0.256,0.567,0.0,0.478,2.0,267454.0,2024-08-04 09:28:38
+12486,699848,14,43491860,76,2,5088,85',0,0,"Substitution, France. Eugénie Le Sommer replaces Sandie Toletti.",Eugénie Le Sommer Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158820.0,2024-08-05 09:30:40
+12486,699848,14,43491860,76,2,5088,85',0,0,"Substitution, France. Eugénie Le Sommer replaces Sandie Toletti.",Eugénie Le Sommer Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,248832.0,2024-08-05 09:30:40
+12486,699848,15,43491889,76,2,5201,87',0,0,"Substitution, Brazil. Ludmila replaces Jheniffer.",Ludmila Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,258819.0,2024-08-05 09:30:40
+12486,699848,15,43491889,76,2,5201,87',0,0,"Substitution, Brazil. Ludmila replaces Jheniffer.",Ludmila Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,344299.0,2024-08-05 09:30:40
+12486,699848,16,43491890,76,2,5223,88',0,0,"Substitution, Brazil. Lauren replaces Thaís Ferreira.",Lauren Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,328198.0,2024-08-05 09:30:40
+12486,699848,16,43491890,76,2,5223,88',0,0,"Substitution, Brazil. Lauren replaces Thaís Ferreira.",Lauren Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,328197.0,2024-08-05 09:30:40
+12486,699848,16,43491890,76,2,5223,88',0,0,"Substitution, Brazil. Lauren replaces Thaís Ferreira.",Lauren Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,158704.0,2024-08-05 09:30:40
+12486,699848,22,43492082,83,2,5400,90'+19',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-04 09:28:38
+12486,699848,18,43491957,94,2,5400,90'+4',0,0,Kadidiatou Diani (France) is shown the yellow card.,Kadidiatou Diani Yellow Card,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219121.0,2024-08-05 09:30:40
+12486,699848,19,43491988,76,2,5400,90'+5',0,0,"Substitution, France. Kenza Dali replaces Élisa De Almeida.",Kenza Dali Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219119.0,2024-08-04 09:28:38
+12486,699848,21,43492021,94,2,5400,90'+10',0,0,Delphine Cascarino (France) is shown the yellow card.,Delphine Cascarino Yellow Card,2755,0.0,0.0,0.0,0.0,0.0,0.0,1.0,248830.0,2024-08-04 09:28:38
+12486,699848,17,43491958,94,2,5400,90'+4',0,0,Gabi Portilho (Brazil) is shown the yellow card.,Gabi Portilho Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,339855.0,2024-08-05 09:30:40
+12486,699848,20,43492020,94,2,5400,90'+9',0,0,Angelina (Brazil) is shown the yellow card for a bad foul.,Angelina  Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,316035.0,2024-08-04 09:28:38
+12486,699848,19,43491988,76,2,5400,90'+5',0,0,"Substitution, France. Kenza Dali replaces Élisa De Almeida.",Kenza Dali Substitution,2755,0.0,0.0,0.0,0.0,0.0,0.0,2.0,293407.0,2024-08-04 09:28:38
+12485,699849,1,43504408,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-07 09:40:27
+12485,699849,2,43504575,94,1,2596,44',0,0,Marina Hegering (Germany) is shown the yellow card for a bad foul.,Marina Hegering Yellow Card,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,286459.0,2024-08-07 09:40:27
+12485,699849,5,43504591,82,2,2700,45',0,0,"Second Half begins USA 0, Germany 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-07 09:40:27
+12485,699849,3,43504581,81,1,2700,45',0,0,"First Half ends, USA 0, Germany 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-07 09:40:27
+12485,699849,4,43504590,76,2,2700,45',0,0,"Substitution, USA. Emily Sonnett replaces Tierna Davidson.",Emily Sonnett Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,211034.0,2024-08-07 09:40:27
+12485,699849,4,43504590,76,2,2700,45',0,0,"Substitution, USA. Emily Sonnett replaces Tierna Davidson.",Emily Sonnett Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,243052.0,2024-08-07 09:40:27
+12485,699849,6,43504639,76,2,3556,60',0,0,"Substitution, USA. Lynn Williams replaces Rose Lavelle.",Lynn Williams Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2024-08-07 09:40:27
+12485,699849,6,43504639,76,2,3556,60',0,0,"Substitution, USA. Lynn Williams replaces Rose Lavelle.",Lynn Williams Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,209984.0,2024-08-07 09:40:27
+12485,699849,7,43504700,76,2,4109,69',0,0,"Substitution, Germany. Laura Freigang replaces Nicole Anyomi because of an injury.",Laura Freigang Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,262757.0,2024-08-07 09:40:27
+12485,699849,7,43504700,76,2,4109,69',0,0,"Substitution, Germany. Laura Freigang replaces Nicole Anyomi because of an injury.",Laura Freigang Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,309833.0,2024-08-07 09:40:27
+12485,699849,8,43504751,76,2,4678,78',0,0,"Substitution, Germany. Bibiane Schulze replaces Marina Hegering because of an injury.",Bibiane Schulze Solano Substitut,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,333545.0,2024-08-07 09:40:27
+12485,699849,8,43504751,76,2,4678,78',0,0,"Substitution, Germany. Bibiane Schulze replaces Marina Hegering because of an injury.",Bibiane Schulze Solano Substitut,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,286459.0,2024-08-07 09:40:27
+12485,699849,9,43504875,83,2,5400,90'+6',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-07 09:40:27
+12485,699849,12,43504894,84,3,5400,90',0,0,"First Half Extra Time begins USA 0, Germany 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-07 09:40:27
+12485,699849,13,43504900,76,3,5400,90',0,0,"Substitution, USA. Korbin Albert replaces Lindsey Horan.",Korbin Albert Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,327417.0,2024-08-07 09:40:27
+12485,699849,11,43504887,76,3,5400,90',0,0,"Substitution, USA. Jenna Nighswonger replaces Crystal Dunn.",Jenna Nighswonger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,292633.0,2024-08-07 09:40:27
+12485,699849,10,43504886,76,3,5400,90',0,0,"Substitution, Germany. Elisa Senß replaces Sydney Lohmann.",Elisa Senß Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377165.0,2024-08-07 09:40:27
+12485,699849,13,43504900,76,3,5400,90',0,0,"Substitution, USA. Korbin Albert replaces Lindsey Horan.",Korbin Albert Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,,2024-08-07 09:40:27
+12485,699849,10,43504886,76,3,5400,90',0,0,"Substitution, Germany. Elisa Senß replaces Sydney Lohmann.",Elisa Senß Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,283073.0,2024-08-07 09:40:27
+12485,699849,11,43504887,76,3,5400,90',0,0,"Substitution, USA. Jenna Nighswonger replaces Crystal Dunn.",Jenna Nighswonger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,227388.0,2024-08-07 09:40:27
+12485,699849,14,43504915,70,3,5686,95',1,0,"Goal! USA 1, Germany 0. Sophia Smith (USA) right footed shot from the right side of the box to the bottom left corner. Assisted by Mallory Swanson.",Sophia Smith Goal,2765,0.0,0.0,0.238,0.669,0.0,0.476,1.0,,2024-08-07 09:40:27
+12485,699849,14,43504915,70,3,5686,95',1,0,"Goal! USA 1, Germany 0. Sophia Smith (USA) right footed shot from the right side of the box to the bottom left corner. Assisted by Mallory Swanson.",Sophia Smith Goal,2765,0.0,0.0,0.238,0.669,0.0,0.476,2.0,233163.0,2024-08-07 09:40:27
+12485,699849,17,43504958,86,4,6300,105',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-07 09:40:27
+12485,699849,15,43504955,85,3,6300,105'+2',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-07 09:40:27
+12485,699849,16,43504957,76,4,6300,105',0,0,"Substitution, Germany. Sara Doorsoun replaces Felicitas Rauch.",Sara Doorsoun Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,231202.0,2024-08-07 09:40:27
+12485,699849,16,43504957,76,4,6300,105',0,0,"Substitution, Germany. Sara Doorsoun replaces Felicitas Rauch.",Sara Doorsoun Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,231205.0,2024-08-07 09:40:27
+12485,699849,18,43504961,94,4,6439,108',0,0,Jule Brand (Germany) is shown the yellow card for a bad foul.,Jule Brand Yellow Card,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317719.0,2024-08-07 09:40:27
+12485,699849,19,43504966,76,4,6569,110',0,0,"Substitution, USA. Casey Krueger replaces Mallory Swanson.",Casey Krueger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,248778.0,2024-08-07 09:40:27
+12485,699849,19,43504966,76,4,6569,110',0,0,"Substitution, USA. Casey Krueger replaces Mallory Swanson.",Casey Krueger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,233163.0,2024-08-07 09:40:27
+12485,699849,20,43505028,87,4,7200,120'+2',0,0,"Second Half Extra Time ends, USA 1, Germany 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-07 09:40:27
+12485,699850,1,43505189,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-07 09:40:27
+12485,699850,2,43505237,97,1,302,6',1,0,"Own Goal by Irene Paredes, Spain. Brazil 1, Spain 0.",Irene Paredes Own Goal,2752,0.0,0.0,0.154,0.508,0.0,0.467,1.0,219998.0,2024-08-07 09:40:27
+12485,699850,7,43505538,82,2,2700,45',0,0,"Second Half begins Brazil 2, Spain 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-07 09:40:27
+12485,699850,5,43505496,81,1,2700,45'+6',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-07 09:40:27
+12485,699850,8,43505547,76,2,2700,45',0,0,"Substitution, Spain. Athenea del Castillo replaces Eva Navarro.",Athenea del Castillo Substitutio,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,320355.0,2024-08-07 09:40:27
+12485,699850,3,43505476,94,1,2700,45'+4',0,0,Teresa Abelleira (Spain) is shown the yellow card for a bad foul.,Teresa Abelleira Yellow Card,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317628.0,2024-08-07 09:40:27
+12485,699850,4,43505478,70,1,2700,45'+4',1,0,"Goal! Brazil 2, Spain 0. Gabi Portilho (Brazil) right footed shot from the centre of the box to the bottom right corner. Assisted by Yasmim with a cross.",Gabi Portilho Goal,2752,0.0,0.0,0.238,0.538,0.0,0.534,1.0,339855.0,2024-08-08 09:36:57
+12485,699850,6,43505536,76,2,2700,45',0,0,"Substitution, Spain. Oihane Hernández replaces Olga Carmona.",Oihane Hernández Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,333486.0,2024-08-07 09:40:27
+12485,699850,4,43505478,70,1,2700,45'+4',1,0,"Goal! Brazil 2, Spain 0. Gabi Portilho (Brazil) right footed shot from the centre of the box to the bottom right corner. Assisted by Yasmim with a cross.",Gabi Portilho Goal,2752,0.0,0.0,0.238,0.538,0.0,0.534,2.0,268328.0,2024-08-08 09:36:57
+12485,699850,6,43505536,76,2,2700,45',0,0,"Substitution, Spain. Oihane Hernández replaces Olga Carmona.",Oihane Hernández Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317946.0,2024-08-07 09:40:27
+12485,699850,8,43505547,76,2,2700,45',0,0,"Substitution, Spain. Athenea del Castillo replaces Eva Navarro.",Athenea del Castillo Substitutio,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,288443.0,2024-08-07 09:40:27
+12485,699850,9,43505565,76,2,3056,51',0,0,"Substitution, Spain. Laia Aleixandri replaces Irene Paredes.",Laia Aleixandri Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,286338.0,2024-08-08 09:36:57
+12485,699850,9,43505565,76,2,3056,51',0,0,"Substitution, Spain. Laia Aleixandri replaces Irene Paredes.",Laia Aleixandri Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,219998.0,2024-08-08 09:36:57
+12485,699850,10,43505591,76,2,3349,56',0,0,"Substitution, Brazil. Adriana replaces Ludmila.",Adriana  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,267454.0,2024-08-08 09:36:57
+12485,699850,10,43505591,76,2,3349,56',0,0,"Substitution, Brazil. Adriana replaces Ludmila.",Adriana  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,258819.0,2024-08-08 09:36:57
+12485,699850,11,43505592,76,2,3359,56',0,0,"Substitution, Brazil. Duda Sampaio replaces Angelina.",Duda Sampaio Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,343577.0,2024-08-07 09:40:27
+12485,699850,11,43505592,76,2,3359,56',0,0,"Substitution, Brazil. Duda Sampaio replaces Angelina.",Duda Sampaio Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,316035.0,2024-08-07 09:40:27
+12485,699850,12,43505637,76,2,3847,65',0,0,"Substitution, Spain. Patri Guijarro replaces Teresa Abelleira.",Patri Guijarro Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,264734.0,2024-08-07 09:40:27
+12485,699850,12,43505637,76,2,3847,65',0,0,"Substitution, Spain. Patri Guijarro replaces Teresa Abelleira.",Patri Guijarro Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317628.0,2024-08-07 09:40:27
+12485,699850,13,43505658,76,2,4092,69',0,0,"Substitution, Brazil. Ana Vitória replaces Jheniffer.",Ana Vitória  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,310885.0,2024-08-08 09:36:57
+12485,699850,13,43505658,76,2,4092,69',0,0,"Substitution, Brazil. Ana Vitória replaces Jheniffer.",Ana Vitória  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,344299.0,2024-08-08 09:36:57
+12485,699850,14,43505670,137,2,4253,71',1,0,"Goal! Brazil 3, Spain 0. Adriana (Brazil) header from very close range to the bottom right corner. Assisted by Gabi Portilho with a headed pass following a fast break.",Adriana  Goal - Header,2752,0.0,0.0,0.048,0.527,0.0,0.534,1.0,267454.0,2024-08-07 09:40:27
+12485,699850,14,43505670,137,2,4253,71',1,0,"Goal! Brazil 3, Spain 0. Adriana (Brazil) header from very close range to the bottom right corner. Assisted by Gabi Portilho with a headed pass following a fast break.",Adriana  Goal - Header,2752,0.0,0.0,0.048,0.527,0.0,0.534,2.0,339855.0,2024-08-07 09:40:27
+12485,699850,15,43505686,76,2,4562,77',0,0,"Substitution, Brazil. Gabi Nunes replaces Priscila.",Gabi Nunes Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,257469.0,2024-08-07 09:40:27
+12485,699850,15,43505686,76,2,4562,77',0,0,"Substitution, Brazil. Gabi Nunes replaces Priscila.",Gabi Nunes Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,377166.0,2024-08-07 09:40:27
+12485,699850,16,43505687,76,2,4570,77',0,0,"Substitution, Brazil. Kerolin replaces Lauren because of an injury.",Kerolin  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,281475.0,2024-08-08 09:36:57
+12485,699850,16,43505687,76,2,4570,77',0,0,"Substitution, Brazil. Kerolin replaces Lauren because of an injury.",Kerolin  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,328198.0,2024-08-08 09:36:57
+12485,699850,17,43505688,76,2,4600,77',0,0,"Substitution, Spain. Alexia Putellas replaces Laia Codina.",Alexia Putellas Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,219995.0,2024-08-07 09:40:27
+12485,699850,17,43505688,76,2,4600,77',0,0,"Substitution, Spain. Alexia Putellas replaces Laia Codina.",Alexia Putellas Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,295638.0,2024-08-07 09:40:27
+12485,699850,18,43505706,97,2,5053,85',1,0,"Own Goal by Duda Sampaio, Brazil. Brazil 3, Spain 1.",Duda Sampaio Own Goal,17640,0.0,0.0,0.04,0.47,0.0,0.46,1.0,343577.0,2024-08-08 09:36:57
+12485,699850,18,43505706,97,2,5053,85',1,0,"Own Goal by Duda Sampaio, Brazil. Brazil 3, Spain 1.",Duda Sampaio Own Goal,17640,0.0,0.0,0.04,0.47,0.0,0.46,2.0,220006.0,2024-08-08 09:36:57
+12485,699850,19,43505725,94,2,5345,90',0,0,Gabi Portilho (Brazil) is shown the yellow card for a bad foul.,Gabi Portilho Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,339855.0,2024-08-08 09:36:57
+12485,699850,20,43505726,94,2,5367,90',0,0,Cata Coll (Spain) is shown the yellow card.,Cata Coll Yellow Card,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,288445.0,2024-08-08 09:36:57
+12485,699850,24,43505774,83,2,5400,90'+18',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-07 09:40:27
+12485,699850,22,43505751,94,2,5400,90'+9',0,0,Adriana (Brazil) is shown the yellow card for a bad foul.,Adriana  Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,267454.0,2024-08-07 09:40:27
+12485,699850,23,43505759,70,2,5400,90'+12',1,0,"Goal! Brazil 4, Spain 2. Salma Paralluelo (Spain) left footed shot from very close range to the centre of the goal following a corner.",Salma Paralluelo Goal,17640,0.0,0.0,0.078,0.497,0.0,0.495,1.0,333582.0,2024-08-08 09:36:57
+12485,699850,21,43505729,70,2,5400,90'+1',1,0,"Goal! Brazil 4, Spain 1. Kerolin (Brazil) right footed shot from the centre of the box to the centre of the goal.",Kerolin  Goal,2752,0.0,0.0,0.26,0.421,0.0,0.487,1.0,281475.0,2024-08-08 09:36:57
+12484,699851,1,43512657,80,1,0,,0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-10 09:35:51
+12484,699851,2,43512756,81,1,2700,45'+5',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-10 09:35:51
+12484,699851,4,43512757,82,2,2700,45',0,0,"Second Half begins Spain 0, Germany 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-10 09:35:51
+12484,699851,3,43512755,76,2,2700,45',0,0,"Substitution, Germany. Lea Schüller replaces Klara Bühl.",Lea Schüller Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,258844.0,2024-08-10 09:35:51
+12484,699851,3,43512755,76,2,2700,45',0,0,"Substitution, Germany. Lea Schüller replaces Klara Bühl.",Lea Schüller Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,286460.0,2024-08-10 09:35:51
+12484,699851,5,43512787,94,2,3760,63',0,0,Cata Coll (Spain) is shown the yellow card for a bad foul.,Cata Coll Yellow Card,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,288445.0,2024-08-10 09:35:51
+12484,699851,6,43512788,98,2,3897,65',1,0,"Goal! Spain 0, Germany 1. Giulia Gwinn (Germany) converts the penalty with a right footed shot to the bottom right corner.",Giulia Gwinn Penalty - Scored,2756,0.0,0.0,0.23,0.5,0.0,0.523,1.0,268102.0,2024-08-10 09:35:51
+12484,699851,7,43512797,76,2,4268,72',0,0,"Substitution, Spain. Olga Carmona replaces Oihane Hernández.",Olga Carmona Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317946.0,2024-08-10 09:35:51
+12484,699851,7,43512797,76,2,4268,72',0,0,"Substitution, Spain. Olga Carmona replaces Oihane Hernández.",Olga Carmona Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,333486.0,2024-08-10 09:35:51
+12484,699851,8,43512798,76,2,4269,72',0,0,"Substitution, Spain. Mariona Caldentey replaces Athenea del Castillo.",Mariona Caldentey Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,257473.0,2024-08-10 09:35:51
+12484,699851,8,43512798,76,2,4269,72',0,0,"Substitution, Spain. Mariona Caldentey replaces Athenea del Castillo.",Mariona Caldentey Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,320355.0,2024-08-10 09:35:51
+12484,699851,9,43512822,76,2,5092,85',0,0,"Substitution, Spain. Patri Guijarro replaces Teresa Abelleira.",Patri Guijarro Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,264734.0,2024-08-10 09:35:51
+12484,699851,9,43512822,76,2,5092,85',0,0,"Substitution, Spain. Patri Guijarro replaces Teresa Abelleira.",Patri Guijarro Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317628.0,2024-08-10 09:35:51
+12484,699851,10,43512823,76,2,5100,85',0,0,"Substitution, Spain. Lucía García replaces Laia Codina.",Lucía García Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,1.0,282854.0,2024-08-10 09:35:51
+12484,699851,10,43512823,76,2,5100,85',0,0,"Substitution, Spain. Lucía García replaces Laia Codina.",Lucía García Substitution,17640,0.0,0.0,0.0,0.0,0.0,0.0,2.0,295638.0,2024-08-10 09:35:51
+12484,699851,13,43512852,83,2,5400,90'+9',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-10 09:35:51
+12484,699851,11,43512844,76,2,5400,90'+6',0,0,"Substitution, Germany. Sara Doorsoun replaces Giulia Gwinn.",Sara Doorsoun Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,1.0,231202.0,2024-08-10 09:35:51
+12484,699851,12,43512850,114,2,5400,90'+9',0,0,Penalty saved. Alexia Putellas (Spain) left footed shot saved in the bottom right corner.,Alexia Putellas Penalty - Saved,17640,0.0,0.0,0.23,0.5,0.004,0.502,1.0,219995.0,2024-08-10 09:35:51
+12484,699851,11,43512844,76,2,5400,90'+6',0,0,"Substitution, Germany. Sara Doorsoun replaces Giulia Gwinn.",Sara Doorsoun Substitution,2756,0.0,0.0,0.0,0.0,0.0,0.0,2.0,268102.0,2024-08-10 09:35:51
+12483,699852,1,43520401,80,1,0,,0,0,First Half begins.,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-11 09:18:13
+12483,699852,2,43521148,81,1,2700,45'+7',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-11 09:18:13
+12483,699852,3,43521342,82,2,2700,45',0,0,"Second Half begins Brazil 0, USA 0.",,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-11 09:18:13
+12483,699852,4,43521476,76,2,2990,50',0,0,"Substitution, Brazil. Ana Vitória replaces Yayá because of an injury.",Ana Vitória  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,310885.0,2024-08-11 09:18:13
+12483,699852,4,43521476,76,2,2990,50',0,0,"Substitution, Brazil. Ana Vitória replaces Yayá because of an injury.",Ana Vitória  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,296481.0,2024-08-11 09:18:13
+12483,699852,5,43521553,70,2,3411,57',1,0,"Goal! Brazil 0, USA 1. Mallory Swanson (USA) right footed shot from the centre of the box to the bottom right corner. Assisted by Korbin Albert with a through ball.",Mallory Swanson Goal,2765,0.0,0.0,0.136,0.453,0.0,0.527,1.0,233163.0,2024-08-11 09:18:13
+12483,699852,5,43521553,70,2,3411,57',1,0,"Goal! Brazil 0, USA 1. Mallory Swanson (USA) right footed shot from the centre of the box to the bottom right corner. Assisted by Korbin Albert with a through ball.",Mallory Swanson Goal,2765,0.0,0.0,0.136,0.453,0.0,0.527,2.0,327417.0,2024-08-11 09:18:13
+12483,699852,6,43521612,76,2,3614,61',0,0,"Substitution, Brazil. Angelina replaces Duda Sampaio.",Angelina  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,316035.0,2024-08-12 09:38:32
+12483,699852,6,43521612,76,2,3614,61',0,0,"Substitution, Brazil. Angelina replaces Duda Sampaio.",Angelina  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,343577.0,2024-08-12 09:38:32
+12483,699852,7,43521613,76,2,3628,61',0,0,"Substitution, Brazil. Marta replaces Ludmila.",Marta  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158712.0,2024-08-11 09:18:13
+12483,699852,7,43521613,76,2,3628,61',0,0,"Substitution, Brazil. Marta replaces Ludmila.",Marta  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,258819.0,2024-08-11 09:18:13
+12483,699852,8,43521614,76,2,3633,61',0,0,"Substitution, Brazil. Priscila replaces Jheniffer.",Priscila  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377166.0,2024-08-11 09:18:13
+12483,699852,8,43521614,76,2,3633,61',0,0,"Substitution, Brazil. Priscila replaces Jheniffer.",Priscila  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,344299.0,2024-08-11 09:18:13
+12483,699852,9,43521812,76,2,4418,74',0,0,"Substitution, USA. Emily Sonnett replaces Tierna Davidson.",Emily Sonnett Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,211034.0,2024-08-11 09:18:13
+12483,699852,9,43521812,76,2,4418,74',0,0,"Substitution, USA. Emily Sonnett replaces Tierna Davidson.",Emily Sonnett Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,243052.0,2024-08-11 09:18:13
+12483,699852,10,43521895,94,2,4825,81',0,0,Tarciane (Brazil) is shown the yellow card for a bad foul.,Tarciane  Yellow Card,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,351655.0,2024-08-11 09:18:13
+12483,699852,11,43521948,76,2,5003,84',0,0,"Substitution, Brazil. Rafaelle Souza replaces Lauren.",Rafaelle  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,1.0,158720.0,2024-08-12 09:38:32
+12483,699852,11,43521948,76,2,5003,84',0,0,"Substitution, Brazil. Rafaelle Souza replaces Lauren.",Rafaelle  Substitution,2752,0.0,0.0,0.0,0.0,0.0,0.0,2.0,328198.0,2024-08-12 09:38:32
+12483,699852,12,43521949,76,2,5035,84',0,0,"Substitution, USA. Lynn Williams replaces Sophia Smith.",Lynn Williams Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,211968.0,2024-08-11 09:18:13
+12483,699852,12,43521949,76,2,5035,84',0,0,"Substitution, USA. Lynn Williams replaces Sophia Smith.",Lynn Williams Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,43770.0,2024-08-11 09:18:13
+12483,699852,14,43522333,83,2,5400,90'+13',0,0,,,-1,0.0,0.0,0.0,0.0,0.0,0.0,,,2024-08-11 09:18:13
+12483,699852,13,43522256,76,2,5400,90'+5',0,0,"Substitution, USA. Casey Krueger replaces Mallory Swanson.",Casey Krueger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,1.0,248778.0,2024-08-11 09:18:13
+12483,699852,13,43522256,76,2,5400,90'+5',0,0,"Substitution, USA. Casey Krueger replaces Mallory Swanson.",Casey Krueger Substitution,2765,0.0,0.0,0.0,0.0,0.0,0.0,2.0,233163.0,2024-08-11 09:18:13

@@ -1,0 +1,258 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13354,735715,1,45251875,70,1,1200,20',1,0,Konstantinos Doumtsios (FC Den Bosch) Goal at 20',Konstantinos Doumtsios Goal,271,0.0,0.0,0.0,0.0,0.0,0.0,1,243173,2025-05-13 04:54:35
+13354,735715,2,45251902,76,1,1800,30',0,0,Hicham Acheffay (FC Den Bosch) Substitution at 30',Hicham Acheffay Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,281179,2025-05-13 04:54:35
+13354,735715,2,45251902,76,1,1800,30',0,0,Hicham Acheffay (FC Den Bosch) Substitution at 30',Hicham Acheffay Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,159256,2025-05-13 04:54:35
+13354,735715,3,45251911,94,1,2220,37',0,0,Nicky Souren (SC Cambuur) Yellow Card at 37',Nicky Souren Yellow Card,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,259186,2025-05-13 04:54:35
+13354,735715,4,45252019,94,2,3060,51',0,0,Tyrique Mercera (SC Cambuur) Yellow Card at 51',Tyrique Mercera Yellow Card,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,375666,2025-05-13 04:54:35
+13354,735715,5,45252024,94,2,3240,54',0,0,Teun van Grunsven (FC Den Bosch) Yellow Card at 54',Teun van Grunsven Yellow Card,271,0.0,0.0,0.0,0.0,0.0,0.0,1,297940,2025-05-13 04:54:35
+13354,735715,6,45252030,76,2,3420,57',0,0,Jeremy Van Mullem (SC Cambuur) Substitution at 57',Jeremy Van Mullem Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,306438,2025-05-13 04:54:35
+13354,735715,7,45252031,76,2,3420,57',0,0,Wiebe Kooistra (SC Cambuur) Substitution at 57',Wiebe Kooistra Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,364992,2025-05-13 04:54:35
+13354,735715,6,45252030,76,2,3420,57',0,0,Jeremy Van Mullem (SC Cambuur) Substitution at 57',Jeremy Van Mullem Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,2,259186,2025-05-13 04:54:35
+13354,735715,7,45252031,76,2,3420,57',0,0,Wiebe Kooistra (SC Cambuur) Substitution at 57',Wiebe Kooistra Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,2,228657,2025-05-13 04:54:35
+13354,735715,8,45252082,76,2,3960,66',0,0,Thomas Poll (SC Cambuur) Substitution at 66',Thomas Poll Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,301667,2025-05-13 04:54:35
+13354,735715,8,45252082,76,2,3960,66',0,0,Thomas Poll (SC Cambuur) Substitution at 66',Thomas Poll Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,2,348266,2025-05-13 04:54:35
+13354,735715,9,45252099,76,2,4200,70',0,0,Sheddy Barglan (FC Den Bosch) Substitution at 70',Sheddy Barglan Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,355504,2025-05-13 04:54:35
+13354,735715,10,45252100,94,2,4200,70',0,0,Sturla Ottesen (SC Cambuur) Yellow Card at 70',Sturla Ottesen Yellow Card,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,308547,2025-05-13 04:54:35
+13354,735715,9,45252099,76,2,4200,70',0,0,Sheddy Barglan (FC Den Bosch) Substitution at 70',Sheddy Barglan Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,243173,2025-05-13 04:54:35
+13354,735715,11,45252101,76,2,4260,71',0,0,Denzel Kuijpers (FC Den Bosch) Substitution at 71',Denzel Kuijpers Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,365025,2025-05-13 04:54:35
+13354,735715,11,45252101,76,2,4260,71',0,0,Denzel Kuijpers (FC Den Bosch) Substitution at 71',Denzel Kuijpers Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,130516,2025-05-13 04:54:35
+13354,735715,12,45252120,94,2,4560,76',0,0,Floris Smand (SC Cambuur) Yellow Card at 76',Floris Smand Yellow Card,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,346837,2025-05-13 04:54:35
+13354,735715,14,45252141,76,2,4980,83',0,0,Daan Visser (SC Cambuur) Substitution at 83',Daan Visser Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,402838,2025-05-13 04:54:35
+13354,735715,13,45252138,76,2,4980,83',0,0,Michael de Leeuw (SC Cambuur) Substitution at 83',Michael de Leeuw Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,138532,2025-05-13 04:54:35
+13354,735715,14,45252141,76,2,4980,83',0,0,Daan Visser (SC Cambuur) Substitution at 83',Daan Visser Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,2,362859,2025-05-13 04:54:35
+13354,735715,13,45252138,76,2,4980,83',0,0,Michael de Leeuw (SC Cambuur) Substitution at 83',Michael de Leeuw Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,2,379166,2025-05-13 04:54:35
+13354,735715,15,45252142,94,2,5100,85',0,0,Nick De Groot (FC Den Bosch) Yellow Card at 85',Nick De Groot Yellow Card,271,0.0,0.0,0.0,0.0,0.0,0.0,1,195965,2025-05-13 04:54:35
+13354,735715,16,45252156,76,2,5340,89',0,0,Markus Soomets (FC Den Bosch) Substitution at 89',Markus Soomets Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,305460,2025-05-13 04:54:35
+13354,735715,16,45252156,76,2,5340,89',0,0,Markus Soomets (FC Den Bosch) Substitution at 89',Markus Soomets Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,292770,2025-05-13 04:54:35
+13354,735715,18,45252165,94,2,5400,90'+2',0,0,Markus Soomets (FC Den Bosch) Yellow Card at 92',Markus Soomets Yellow Card,271,0.0,0.0,0.0,0.0,0.0,0.0,1,305460,2025-05-13 04:54:35
+13354,735715,17,45252160,94,2,5400,90'+1',0,0,Bryant Nieling (SC Cambuur) Yellow Card at 91',Bryant Nieling Yellow Card,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,346826,2025-05-13 04:54:35
+13354,735716,1,45253726,70,1,300,5',1,0,Youssef El Kachati (Telstar) Goal at 5',Youssef El Kachati Goal,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,281525,2025-05-14 04:52:54
+13354,735716,2,45253728,94,1,540,9',0,0,Juho Kilo (ADO Den Haag) Yellow Card at 9',Juho Kilo Yellow Card,2726,0.0,0.0,0.0,0.0,0.0,0.0,1,338244,2025-05-14 04:52:54
+13354,735716,4,45253815,76,2,2700,45',0,0,Jayden Turfkruier (Telstar) Substitution at 45',Jayden Turfkruier Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,354566,2025-05-14 04:52:54
+13354,735716,3,45253781,70,1,2700,45'+1',1,0,Danny Bakker (Telstar) Goal at 46',Danny Bakker Goal,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,181345,2025-05-14 04:52:54
+13354,735716,4,45253815,76,2,2700,45',0,0,Jayden Turfkruier (Telstar) Substitution at 45',Jayden Turfkruier Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,306461,2025-05-14 04:52:54
+13354,735716,5,45253984,94,2,3180,53',0,0,Jeff Hardeveld (Telstar) Yellow Card at 53',Jeff Hardeveld Yellow Card,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,200158,2025-05-14 04:52:54
+13354,735716,6,45254537,76,2,3480,58',0,0,Luka Reischl (ADO Den Haag) Substitution at 58',Luka Reischl Substitution,2726,0.0,0.0,0.0,0.0,0.0,0.0,1,329481,2025-05-14 04:52:54
+13354,735716,6,45254537,76,2,3480,58',0,0,Luka Reischl (ADO Den Haag) Substitution at 58',Luka Reischl Substitution,2726,0.0,0.0,0.0,0.0,0.0,0.0,2,313072,2025-05-14 04:52:54
+13354,735716,7,45254715,76,2,4140,69',0,0,Alex Schalk (ADO Den Haag) Substitution at 69',Alex Schalk Substitution,2726,0.0,0.0,0.0,0.0,0.0,0.0,1,157894,2025-05-14 04:52:54
+13354,735716,7,45254715,76,2,4140,69',0,0,Alex Schalk (ADO Den Haag) Substitution at 69',Alex Schalk Substitution,2726,0.0,0.0,0.0,0.0,0.0,0.0,2,297069,2025-05-14 04:52:54
+13354,735716,9,45254737,76,2,4500,75',0,0,Reda Kharchouch (Telstar) Substitution at 75',Reda Kharchouch Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,265590,2025-05-14 04:52:54
+13354,735716,8,45254732,76,2,4500,75',0,0,Remi Van Ekeris (Telstar) Substitution at 75',Remi Van Ekeris Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,334533,2025-05-14 04:52:54
+13354,735716,8,45254732,76,2,4500,75',0,0,Remi Van Ekeris (Telstar) Substitution at 75',Remi Van Ekeris Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,205654,2025-05-14 04:52:54
+13354,735716,9,45254737,76,2,4500,75',0,0,Reda Kharchouch (Telstar) Substitution at 75',Reda Kharchouch Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,281525,2025-05-14 04:52:54
+13354,735716,10,45254758,94,2,4860,81',0,0,Matteo Waem (ADO Den Haag) Yellow Card at 81',Matteo Waem Yellow Card,2726,0.0,0.0,0.0,0.0,0.0,0.0,1,306880,2025-05-14 04:52:54
+13354,735716,11,45254759,76,2,4920,82',0,0,Mees Kaandorp (Telstar) Substitution at 82',Mees Kaandorp Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,263498,2025-05-14 04:52:54
+13354,735716,11,45254759,76,2,4920,82',0,0,Mees Kaandorp (Telstar) Substitution at 82',Mees Kaandorp Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,181345,2025-05-14 04:52:54
+13354,735716,12,45254775,76,2,5040,84',0,0,Illaijh De Ruijter (ADO Den Haag) Substitution at 84',Illaijh De Ruijter Substitution,2726,0.0,0.0,0.0,0.0,0.0,0.0,1,395146,2025-05-14 04:52:54
+13354,735716,12,45254775,76,2,5040,84',0,0,Illaijh De Ruijter (ADO Den Haag) Substitution at 84',Illaijh De Ruijter Substitution,2726,0.0,0.0,0.0,0.0,0.0,0.0,2,297289,2025-05-14 04:52:54
+13354,735716,13,45254791,76,2,5340,89',0,0,Adil Lechkar (Telstar) Substitution at 89',Adil Lechkar Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,375939,2025-05-14 04:52:54
+13354,735716,13,45254791,76,2,5340,89',0,0,Adil Lechkar (Telstar) Substitution at 89',Adil Lechkar Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,359132,2025-05-14 04:52:54
+13354,735717,1,45254984,94,1,1020,17',0,0,Jeffry Fortes (De Graafschap) Yellow Card at 17',Jeffry Fortes Yellow Card,144,0.0,0.0,0.0,0.0,0.0,0.0,1,132001,2025-05-14 04:52:54
+13354,735717,2,45255029,94,1,1500,25',0,0,Yannis M'Bemba (FC Dordrecht) Yellow Card at 25',Yannis M'Bemba Yellow Card,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,324394,2025-05-14 04:52:54
+13354,735717,3,45255148,94,1,2460,41',0,0,Donny Warmerdam (De Graafschap) Yellow Card at 41',Donny Warmerdam Yellow Card,144,0.0,0.0,0.0,0.0,0.0,0.0,1,305591,2025-05-14 04:52:54
+13354,735717,4,45255467,76,2,4020,67',0,0,Philip Brittijn (De Graafschap) Substitution at 67',Philip Brittijn Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,1,324486,2025-05-14 04:52:54
+13354,735717,4,45255467,76,2,4020,67',0,0,Philip Brittijn (De Graafschap) Substitution at 67',Philip Brittijn Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,2,340557,2025-05-14 04:52:54
+13354,735717,5,45255468,76,2,4080,68',0,0,Arjen van der Heide (De Graafschap) Substitution at 68',Arjen van der Heide Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,1,285153,2025-05-14 04:52:54
+13354,735717,5,45255468,76,2,4080,68',0,0,Arjen van der Heide (De Graafschap) Substitution at 68',Arjen van der Heide Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,2,326255,2025-05-14 04:52:54
+13354,735717,6,45255499,76,2,4620,77',0,0,Joep van der Sluijs (FC Dordrecht) Substitution at 77',Joep van der Sluijs Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,304729,2025-05-14 04:52:54
+13354,735717,6,45255499,76,2,4620,77',0,0,Joep van der Sluijs (FC Dordrecht) Substitution at 77',Joep van der Sluijs Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,2,324731,2025-05-14 04:52:54
+13354,735717,7,45255516,94,2,4800,80',0,0,Arjen van der Heide (De Graafschap) Yellow Card at 80',Arjen van der Heide Yellow Card,144,0.0,0.0,0.0,0.0,0.0,0.0,1,285153,2025-05-14 04:52:54
+13354,735717,8,45255517,76,2,4860,81',0,0,Simon Colyn (De Graafschap) Substitution at 81',Simon Colyn Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,1,272726,2025-05-14 04:52:54
+13354,735717,8,45255517,76,2,4860,81',0,0,Simon Colyn (De Graafschap) Substitution at 81',Simon Colyn Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,2,241019,2025-05-14 04:52:54
+13354,735717,9,45255546,76,2,5280,88',0,0,Kwame Tabiri (FC Dordrecht) Substitution at 88',Kwame Tabiri Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,384375,2025-05-14 04:52:54
+13354,735717,10,45255555,76,2,5280,88',0,0,Leo Seydoux (FC Dordrecht) Substitution at 88',Leo Seydoux Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,272698,2025-05-14 04:52:54
+13354,735717,9,45255546,76,2,5280,88',0,0,Kwame Tabiri (FC Dordrecht) Substitution at 88',Kwame Tabiri Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,2,388551,2025-05-14 04:52:54
+13354,735717,10,45255555,76,2,5280,88',0,0,Leo Seydoux (FC Dordrecht) Substitution at 88',Leo Seydoux Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,2,344195,2025-05-14 04:52:54
+13354,735717,11,45255562,76,2,5400,90',0,0,Mimoun Mahi (De Graafschap) Substitution at 90',Mimoun Mahi Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,1,177133,2025-05-14 04:52:54
+13354,735717,11,45255562,76,2,5400,90',0,0,Mimoun Mahi (De Graafschap) Substitution at 90',Mimoun Mahi Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,2,310712,2025-05-14 04:52:54
+13354,735718,1,45270552,94,1,1860,31',0,0,Konstantinos Doumtsios (FC Den Bosch) Yellow Card at 31',Konstantinos Doumtsios Yellow Ca,271,0.0,0.0,0.0,0.0,0.0,0.0,1,243173,2025-05-17 04:51:14
+13354,735718,2,45270685,76,2,2700,45',0,0,Sheddy Barglan (FC Den Bosch) Substitution at 45',Sheddy Barglan Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,355504,2025-05-17 04:51:14
+13354,735718,2,45270685,76,2,2700,45',0,0,Sheddy Barglan (FC Den Bosch) Substitution at 45',Sheddy Barglan Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,281179,2025-05-17 04:51:14
+13354,735718,3,45270765,94,2,3600,60',0,0,Mikulás Bakala (FC Den Bosch) Yellow Card at 60',Mikulás Bakala Yellow Card,271,0.0,0.0,0.0,0.0,0.0,0.0,1,338305,2025-05-17 04:51:14
+13354,735718,4,45270766,70,2,3660,61',1,0,Mark Diemers (SC Cambuur) Goal at 61',Mark Diemers Goal,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,177029,2025-05-17 04:51:14
+13354,735718,5,45270826,76,2,4080,68',0,0,Denzel Kuijpers (FC Den Bosch) Substitution at 68',Denzel Kuijpers Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,365025,2025-05-17 04:51:14
+13354,735718,5,45270826,76,2,4080,68',0,0,Denzel Kuijpers (FC Den Bosch) Substitution at 68',Denzel Kuijpers Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,243173,2025-05-17 04:51:14
+13354,735718,6,45270836,94,2,4140,69',0,0,Stan Hendrikx (FC Den Bosch) Yellow Card at 69',Stan Hendrikx Yellow Card,271,0.0,0.0,0.0,0.0,0.0,0.0,1,324740,2025-05-17 04:51:14
+13354,735718,7,45270868,94,2,4260,71',0,0,Byron Burgering (FC Den Bosch) Yellow Card at 71',Byron Burgering Yellow Card,271,0.0,0.0,0.0,0.0,0.0,0.0,1,291732,2025-05-17 04:51:14
+13354,735718,10,45270932,76,2,4800,80',0,0,Markus Soomets (FC Den Bosch) Substitution at 80',Markus Soomets Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,305460,2025-05-17 04:51:14
+13354,735718,9,45270917,76,2,4800,80',0,0,Jeredy Hilterman (SC Cambuur) Substitution at 80',Jeredy Hilterman Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,262471,2025-05-17 04:51:14
+13354,735718,8,45270916,76,2,4800,80',0,0,Sturla Ottesen (SC Cambuur) Substitution at 80',Sturla Ottesen Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,308547,2025-05-17 04:51:14
+13354,735718,9,45270917,76,2,4800,80',0,0,Jeredy Hilterman (SC Cambuur) Substitution at 80',Jeredy Hilterman Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,2,362859,2025-05-17 04:51:14
+13354,735718,10,45270932,76,2,4800,80',0,0,Markus Soomets (FC Den Bosch) Substitution at 80',Markus Soomets Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,338305,2025-05-17 04:51:14
+13354,735718,8,45270916,76,2,4800,80',0,0,Sturla Ottesen (SC Cambuur) Substitution at 80',Sturla Ottesen Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,2,346837,2025-05-17 04:51:14
+13354,735718,11,45271013,94,2,5340,89',0,0,Sheddy Barglan (FC Den Bosch) Yellow Card at 89',Sheddy Barglan Yellow Card,271,0.0,0.0,0.0,0.0,0.0,0.0,1,355504,2025-05-17 04:51:14
+13354,735718,14,45271043,94,2,5400,90'+3',0,0,Teun van Grunsven (FC Den Bosch) Yellow Card at 93',Teun van Grunsven Yellow Card,271,0.0,0.0,0.0,0.0,0.0,0.0,1,297940,2025-05-17 04:51:14
+13354,735718,13,45271042,94,2,5400,90'+3',0,0,Jeredy Hilterman (SC Cambuur) Yellow Card at 93',Jeredy Hilterman Yellow Card,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,262471,2025-05-17 04:51:14
+13354,735718,15,45271096,76,3,5400,90',0,0,Rein Van Hedel (FC Den Bosch) Substitution at 90',Rein Van Hedel Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,330212,2025-05-17 04:51:14
+13354,735718,12,45271027,94,2,5400,90'+1',0,0,Danny Verbeek (FC Den Bosch) Yellow Card at 91',Danny Verbeek Yellow Card,271,0.0,0.0,0.0,0.0,0.0,0.0,1,130516,2025-05-17 04:51:14
+13354,735718,15,45271096,76,3,5400,90',0,0,Rein Van Hedel (FC Den Bosch) Substitution at 90',Rein Van Hedel Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,130516,2025-05-17 04:51:14
+13354,735718,17,45271122,76,3,5640,94',0,0,Thomas Poll (SC Cambuur) Substitution at 94',Thomas Poll Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,301667,2025-05-17 04:51:14
+13354,735718,16,45271121,76,3,5640,94',0,0,Maikel Kieftenbeld (SC Cambuur) Substitution at 94',Maikel Kieftenbeld Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,150202,2025-05-17 04:51:14
+13354,735718,16,45271121,76,3,5640,94',0,0,Maikel Kieftenbeld (SC Cambuur) Substitution at 94',Maikel Kieftenbeld Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,2,306438,2025-05-17 04:51:14
+13354,735718,17,45271122,76,3,5640,94',0,0,Thomas Poll (SC Cambuur) Substitution at 94',Thomas Poll Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,2,348266,2025-05-17 04:51:14
+13354,735718,18,45271131,94,3,5880,98',0,0,Mees Laros (FC Den Bosch) Yellow Card at 98',Mees Laros Yellow Card,271,0.0,0.0,0.0,0.0,0.0,0.0,1,365029,2025-05-17 04:51:14
+13354,735718,19,45271159,76,4,6300,105',0,0,Iwan Henstra (SC Cambuur) Substitution at 105',Iwan Henstra Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,370607,2025-05-17 04:51:14
+13354,735718,19,45271159,76,4,6300,105',0,0,Iwan Henstra (SC Cambuur) Substitution at 105',Iwan Henstra Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,2,379166,2025-05-17 04:51:14
+13354,735718,20,45271197,70,4,6780,113',1,0,Sheddy Barglan (FC Den Bosch) Goal at 113',Sheddy Barglan Goal,271,0.0,0.0,0.0,0.0,0.0,0.0,1,355504,2025-05-17 04:51:14
+13354,735718,21,45271208,76,4,6780,113',0,0,Michael de Leeuw (SC Cambuur) Substitution at 113',Michael de Leeuw Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,138532,2025-05-17 04:51:14
+13354,735718,21,45271208,76,4,6780,113',0,0,Michael de Leeuw (SC Cambuur) Substitution at 113',Michael de Leeuw Substitution,3736,0.0,0.0,0.0,0.0,0.0,0.0,2,375666,2025-05-17 04:51:14
+13354,735718,22,45271203,94,4,6900,115',0,0,Thomas Poll (SC Cambuur) Yellow Card at 115',Thomas Poll Yellow Card,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,301667,2025-05-17 04:51:14
+13354,735718,23,45271220,94,4,7140,119',0,0,Remco Balk (SC Cambuur) Yellow Card at 119',Remco Balk Yellow Card,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,303565,2025-05-17 04:51:14
+13354,735718,24,45271232,94,4,7200,120',0,0,Maikel Kieftenbeld (SC Cambuur) Yellow Card at 120',Maikel Kieftenbeld Yellow Card,3736,0.0,0.0,0.0,0.0,0.0,0.0,1,150202,2025-05-17 04:51:14
+13354,735718,25,45271233,76,4,7200,120',0,0,Stan Maas (FC Den Bosch) Substitution at 120',Stan Maas Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,308027,2025-05-17 04:51:14
+13354,735718,25,45271233,76,4,7200,120',0,0,Stan Maas (FC Den Bosch) Substitution at 120',Stan Maas Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,291732,2025-05-17 04:51:14
+13354,735719,1,45274432,94,1,2400,40',0,0,Tyrone Owusu (Telstar) Yellow Card at 40',Tyrone Owusu Yellow Card,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,306461,2025-05-18 04:53:38
+13354,735719,3,45274722,76,2,3480,58',0,0,Milan Hokke (ADO Den Haag) Substitution at 58',Milan Hokke Substitution,2726,0.0,0.0,0.0,0.0,0.0,0.0,1,338118,2025-05-18 04:53:38
+13354,735719,2,45274719,76,2,3480,58',0,0,Luka Reischl (ADO Den Haag) Substitution at 58',Luka Reischl Substitution,2726,0.0,0.0,0.0,0.0,0.0,0.0,1,329481,2025-05-18 04:53:38
+13354,735719,3,45274722,76,2,3480,58',0,0,Milan Hokke (ADO Den Haag) Substitution at 58',Milan Hokke Substitution,2726,0.0,0.0,0.0,0.0,0.0,0.0,2,281140,2025-05-18 04:53:38
+13354,735719,2,45274719,76,2,3480,58',0,0,Luka Reischl (ADO Den Haag) Substitution at 58',Luka Reischl Substitution,2726,0.0,0.0,0.0,0.0,0.0,0.0,2,157894,2025-05-18 04:53:38
+13354,735719,4,45274726,76,2,3600,60',0,0,Reda Kharchouch (Telstar) Substitution at 60',Reda Kharchouch Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,265590,2025-05-18 04:53:38
+13354,735719,4,45274726,76,2,3600,60',0,0,Reda Kharchouch (Telstar) Substitution at 60',Reda Kharchouch Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,205654,2025-05-18 04:53:38
+13354,735719,6,45274742,76,2,4140,69',0,0,Mees Kaandorp (Telstar) Substitution at 69',Mees Kaandorp Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,263498,2025-05-18 04:53:38
+13354,735719,5,45274739,94,2,4140,69',0,0,Milan Hokke (ADO Den Haag) Yellow Card at 69',Milan Hokke Yellow Card,2726,0.0,0.0,0.0,0.0,0.0,0.0,1,338118,2025-05-18 04:53:38
+13354,735719,6,45274742,76,2,4140,69',0,0,Mees Kaandorp (Telstar) Substitution at 69',Mees Kaandorp Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,304595,2025-05-18 04:53:38
+13354,735719,7,45274752,70,2,4260,71',1,0,Youssef El Kachati (Telstar) Goal at 71',Youssef El Kachati Goal,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,281525,2025-05-18 04:53:38
+13354,735719,8,45274756,76,2,4500,75',0,0,Lee Bonis (ADO Den Haag) Substitution at 75',Lee Bonis Substitution,2726,0.0,0.0,0.0,0.0,0.0,0.0,1,313072,2025-05-18 04:53:38
+13354,735719,8,45274756,76,2,4500,75',0,0,Lee Bonis (ADO Den Haag) Substitution at 75',Lee Bonis Substitution,2726,0.0,0.0,0.0,0.0,0.0,0.0,2,395146,2025-05-18 04:53:38
+13354,735719,11,45274776,76,2,4740,79',0,0,Remi Van Ekeris (Telstar) Substitution at 79',Remi Van Ekeris Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,334533,2025-05-18 04:53:38
+13354,735719,9,45274768,76,2,4740,79',0,0,Sebastiaan Hagedoorn (Telstar) Substitution at 79',Sebastiaan Hagedoorn Substitutio,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,375488,2025-05-18 04:53:38
+13354,735719,10,45274770,76,2,4740,79',0,0,Jayden Turfkruier (Telstar) Substitution at 79',Jayden Turfkruier Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,354566,2025-05-18 04:53:38
+13354,735719,10,45274770,76,2,4740,79',0,0,Jayden Turfkruier (Telstar) Substitution at 79',Jayden Turfkruier Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,306461,2025-05-18 04:53:38
+13354,735719,11,45274776,76,2,4740,79',0,0,Remi Van Ekeris (Telstar) Substitution at 79',Remi Van Ekeris Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,308107,2025-05-18 04:53:38
+13354,735719,9,45274768,76,2,4740,79',0,0,Sebastiaan Hagedoorn (Telstar) Substitution at 79',Sebastiaan Hagedoorn Substitutio,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,281525,2025-05-18 04:53:38
+13354,735719,12,45274780,94,2,4860,81',0,0,Tyrese Noslin (Telstar) Yellow Card at 81',Tyrese Noslin Yellow Card,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,359132,2025-05-18 04:53:38
+13354,735719,13,45274787,94,2,4980,83',0,0,Jayden Turfkruier (Telstar) Yellow Card at 83',Jayden Turfkruier Yellow Card,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,354566,2025-05-18 04:53:38
+13354,735719,14,45274793,94,2,5040,84',0,0,Remi Van Ekeris (Telstar) Yellow Card at 84',Remi Van Ekeris Yellow Card,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,334533,2025-05-18 04:53:38
+13354,735720,1,45275873,174,1,720,12',0,0,Ralf Seuntjens (De Graafschap) Penalty - Saved at 12',Ralf Seuntjens Penalty - Saved,144,0.0,0.0,0.0,0.0,0.0,0.0,1,129801,2025-05-18 04:53:38
+13354,735720,2,45277449,76,2,3840,64',0,0,Kwame Tabiri (FC Dordrecht) Substitution at 64',Kwame Tabiri Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,384375,2025-05-18 04:53:38
+13354,735720,2,45277449,76,2,3840,64',0,0,Kwame Tabiri (FC Dordrecht) Substitution at 64',Kwame Tabiri Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,2,328957,2025-05-18 04:53:38
+13354,735720,3,45277561,70,2,4080,68',1,0,Gabriele Parlanti (FC Dordrecht) Goal at 68',Gabriele Parlanti Goal,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,388551,2025-05-18 04:53:38
+13354,735720,4,45277632,76,2,4140,69',0,0,Philip Brittijn (De Graafschap) Substitution at 69',Philip Brittijn Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,1,324486,2025-05-18 04:53:38
+13354,735720,4,45277632,76,2,4140,69',0,0,Philip Brittijn (De Graafschap) Substitution at 69',Philip Brittijn Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,2,241019,2025-05-18 04:53:38
+13354,735720,5,45277711,76,2,4380,73',0,0,Vieri Kotzebue (FC Dordrecht) Substitution at 73',Vieri Kotzebue Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,324731,2025-05-18 04:53:38
+13354,735720,5,45277711,76,2,4380,73',0,0,Vieri Kotzebue (FC Dordrecht) Substitution at 73',Vieri Kotzebue Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,2,295998,2025-05-18 04:53:38
+13354,735720,6,45277724,76,2,4440,74',0,0,Ibrahim El Kadiri (De Graafschap) Substitution at 74',Ibrahim El Kadiri Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,1,299044,2025-05-18 04:53:38
+13354,735720,6,45277724,76,2,4440,74',0,0,Ibrahim El Kadiri (De Graafschap) Substitution at 74',Ibrahim El Kadiri Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,2,344752,2025-05-18 04:53:38
+13354,735720,8,45277753,76,2,4500,75',0,0,Arjen van der Heide (De Graafschap) Substitution at 75',Arjen van der Heide Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,1,285153,2025-05-18 04:53:38
+13354,735720,7,45277752,76,2,4500,75',0,0,Jesse Van De Haar (De Graafschap) Substitution at 75',Jesse Van De Haar Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,1,355505,2025-05-18 04:53:38
+13354,735720,8,45277753,76,2,4500,75',0,0,Arjen van der Heide (De Graafschap) Substitution at 75',Arjen van der Heide Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,2,326255,2025-05-18 04:53:38
+13354,735720,7,45277752,76,2,4500,75',0,0,Jesse Van De Haar (De Graafschap) Substitution at 75',Jesse Van De Haar Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,2,310712,2025-05-18 04:53:38
+13354,735720,9,45277901,76,2,4980,83',0,0,Youssef El Jebli (De Graafschap) Substitution at 83',Youssef El Jebli Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,1,221418,2025-05-18 04:53:38
+13354,735720,9,45277901,76,2,4980,83',0,0,Youssef El Jebli (De Graafschap) Substitution at 83',Youssef El Jebli Substitution,144,0.0,0.0,0.0,0.0,0.0,0.0,2,340557,2025-05-18 04:53:38
+13354,735720,10,45277957,70,2,5220,87',1,0,Jaden Slory (FC Dordrecht) Goal at 87',Jaden Slory Goal,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,344195,2025-05-18 04:53:38
+13354,735720,11,45277997,76,2,5280,88',0,0,Lorenzo Codutti (FC Dordrecht) Substitution at 88',Lorenzo Codutti Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,333594,2025-05-18 04:53:38
+13354,735720,11,45277997,76,2,5280,88',0,0,Lorenzo Codutti (FC Dordrecht) Substitution at 88',Lorenzo Codutti Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,2,344195,2025-05-18 04:53:38
+13353,735721,1,45306571,70,1,1080,18',1,0,Teun van Grunsven (FC Den Bosch) Goal at 18',Teun van Grunsven Goal,271,0.0,0.0,0.0,0.0,0.0,0.0,1,297940,2025-05-24 04:58:00
+13353,735721,2,45306573,98,1,1800,30',1,0,Youssef El Kachati (Telstar) Penalty - Scored at 30',Youssef El Kachati Penalty - Sco,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,281525,2025-05-24 04:58:00
+13353,735721,3,45306749,76,2,3660,61',0,0,Mees Kaandorp (Telstar) Substitution at 61',Mees Kaandorp Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,263498,2025-05-24 04:58:00
+13353,735721,3,45306749,76,2,3660,61',0,0,Mees Kaandorp (Telstar) Substitution at 61',Mees Kaandorp Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,205654,2025-05-24 04:58:00
+13353,735721,4,45306770,76,2,3780,63',0,0,Markus Soomets (FC Den Bosch) Substitution at 63',Markus Soomets Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,305460,2025-05-24 04:58:00
+13353,735721,4,45306770,76,2,3780,63',0,0,Markus Soomets (FC Den Bosch) Substitution at 63',Markus Soomets Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,338305,2025-05-24 04:58:00
+13353,735721,5,45306849,76,2,4680,78',0,0,Konstantinos Doumtsios (FC Den Bosch) Substitution at 78',Konstantinos Doumtsios Substitut,271,0.0,0.0,0.0,0.0,0.0,0.0,1,243173,2025-05-24 04:58:00
+13353,735721,5,45306849,76,2,4680,78',0,0,Konstantinos Doumtsios (FC Den Bosch) Substitution at 78',Konstantinos Doumtsios Substitut,271,0.0,0.0,0.0,0.0,0.0,0.0,2,365025,2025-05-24 04:58:00
+13353,735721,7,45306875,76,2,5040,84',0,0,Tom Overtoom (Telstar) Substitution at 84',Tom Overtoom Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,140527,2025-05-24 04:58:00
+13353,735721,6,45306874,76,2,5040,84',0,0,Jayden Turfkruier (Telstar) Substitution at 84',Jayden Turfkruier Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,354566,2025-05-24 04:58:00
+13353,735721,7,45306875,76,2,5040,84',0,0,Tom Overtoom (Telstar) Substitution at 84',Tom Overtoom Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,306461,2025-05-24 04:58:00
+13353,735721,6,45306874,76,2,5040,84',0,0,Jayden Turfkruier (Telstar) Substitution at 84',Jayden Turfkruier Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,200158,2025-05-24 04:58:00
+13353,735721,8,45306899,76,3,5400,90',0,0,Ilias Boumassaoudi (FC Den Bosch) Substitution at 90',Ilias Boumassaoudi Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,362523,2025-05-24 04:58:00
+13353,735721,10,45306904,76,3,5400,90',0,0,Reda Kharchouch (Telstar) Substitution at 90',Reda Kharchouch Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,265590,2025-05-24 04:58:00
+13353,735721,9,45306900,76,3,5400,90',0,0,Rein Van Hedel (FC Den Bosch) Substitution at 90',Rein Van Hedel Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,330212,2025-05-24 04:58:00
+13353,735721,10,45306904,76,3,5400,90',0,0,Reda Kharchouch (Telstar) Substitution at 90',Reda Kharchouch Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,332709,2025-05-24 04:58:00
+13353,735721,8,45306899,76,3,5400,90',0,0,Ilias Boumassaoudi (FC Den Bosch) Substitution at 90',Ilias Boumassaoudi Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,130516,2025-05-24 04:58:00
+13353,735721,9,45306900,76,3,5400,90',0,0,Rein Van Hedel (FC Den Bosch) Substitution at 90',Rein Van Hedel Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,281179,2025-05-24 04:58:00
+13353,735721,11,45306931,76,3,5940,99',0,0,Kévin Monzialo (FC Den Bosch) Substitution at 99',Kévin Monzialo Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,308846,2025-05-24 04:58:00
+13353,735721,11,45306931,76,3,5940,99',0,0,Kévin Monzialo (FC Den Bosch) Substitution at 99',Kévin Monzialo Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,355504,2025-05-24 04:58:00
+13353,735721,12,45306973,94,3,6300,105'+2',0,0,Reda Kharchouch (Telstar) Yellow Card at 107',Reda Kharchouch Yellow Card,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,265590,2025-05-24 04:58:00
+13353,735721,13,45307032,70,4,6540,109',1,0,Danny Bakker (Telstar) Goal at 109',Danny Bakker Goal,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,181345,2025-05-24 04:58:00
+13353,735721,14,45307043,76,4,6660,111',0,0,Sebastiaan Hagedoorn (Telstar) Substitution at 111',Sebastiaan Hagedoorn Substitutio,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,375488,2025-05-24 04:58:00
+13353,735721,14,45307043,76,4,6660,111',0,0,Sebastiaan Hagedoorn (Telstar) Substitution at 111',Sebastiaan Hagedoorn Substitutio,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,281525,2025-05-24 04:58:00
+13353,735721,15,45307089,76,4,7140,119',0,0,Victor van den Bogert (FC Den Bosch) Substitution at 119',Victor van den Bogert Substituti,271,0.0,0.0,0.0,0.0,0.0,0.0,1,251734,2025-05-24 04:58:00
+13353,735721,15,45307089,76,4,7140,119',0,0,Victor van den Bogert (FC Den Bosch) Substitution at 119',Victor van den Bogert Substituti,271,0.0,0.0,0.0,0.0,0.0,0.0,2,292770,2025-05-24 04:58:00
+13353,735722,1,45301168,70,1,1080,18',1,0,Devin Haen (FC Dordrecht) Goal at 18',Devin Haen Goal,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,315631,2025-05-22 01:24:18
+13353,735722,2,45301173,70,1,1740,29',1,0,Sem Valk (FC Dordrecht) Goal at 29',Sem Valk Goal,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,319369,2025-05-22 01:24:18
+13353,735722,3,45301175,94,1,1800,30',0,0,Erik Schouten (Willem II) Yellow Card at 30',Erik Schouten Yellow Card,156,0.0,0.0,0.0,0.0,0.0,0.0,1,150194,2025-05-22 01:24:18
+13353,735722,4,45301176,70,1,2100,35',1,0,Ringo Meerveld (Willem II) Goal at 35',Ringo Meerveld Goal,156,0.0,0.0,0.0,0.0,0.0,0.0,1,291972,2025-05-22 01:24:18
+13353,735722,5,45301185,94,2,2940,49',0,0,Amine Lachkar (Willem II) Yellow Card at 49',Amine Lachkar Yellow Card,156,0.0,0.0,0.0,0.0,0.0,0.0,1,352535,2025-05-22 01:24:18
+13353,735722,6,45301191,76,2,3540,59',0,0,Kwame Tabiri (FC Dordrecht) Substitution at 59',Kwame Tabiri Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,384375,2025-05-22 01:24:18
+13353,735722,7,45301192,76,2,3540,59',0,0,Joshua Pynadath (FC Dordrecht) Substitution at 59',Joshua Pynadath Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,295998,2025-05-22 01:24:18
+13353,735722,7,45301192,76,2,3540,59',0,0,Joshua Pynadath (FC Dordrecht) Substitution at 59',Joshua Pynadath Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,2,324731,2025-05-22 01:24:18
+13353,735722,6,45301191,76,2,3540,59',0,0,Kwame Tabiri (FC Dordrecht) Substitution at 59',Kwame Tabiri Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,2,304811,2025-05-22 01:24:18
+13353,735722,8,45301198,76,2,3900,65',0,0,Jeremy Bokila (Willem II) Substitution at 65',Jeremy Bokila Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,1,122636,2025-05-22 01:24:18
+13353,735722,8,45301198,76,2,3900,65',0,0,Jeremy Bokila (Willem II) Substitution at 65',Jeremy Bokila Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,2,343979,2025-05-22 01:24:18
+13353,735722,9,45301200,94,2,3960,66',0,0,Jeremy Bokila (Willem II) Yellow Card at 66',Jeremy Bokila Yellow Card,156,0.0,0.0,0.0,0.0,0.0,0.0,1,122636,2025-05-22 01:24:18
+13353,735722,10,45301201,94,2,4080,68',0,0,Rob Nizet (Willem II) Yellow Card at 68',Rob Nizet Yellow Card,156,0.0,0.0,0.0,0.0,0.0,0.0,1,294328,2025-05-22 01:24:18
+13353,735722,11,45301205,94,2,4560,76',0,0,Gabriele Parlanti (FC Dordrecht) Yellow Card at 76',Gabriele Parlanti Yellow Card,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,388551,2025-05-22 01:24:18
+13353,735722,13,45301209,76,2,4860,81',0,0,Dennis Kaygin (Willem II) Substitution at 81',Dennis Kaygin Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,1,364528,2025-05-22 01:24:18
+13353,735722,12,45301208,76,2,4860,81',0,0,Nick Doodeman (Willem II) Substitution at 81',Nick Doodeman Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,1,227279,2025-05-22 01:24:18
+13353,735722,12,45301208,76,2,4860,81',0,0,Nick Doodeman (Willem II) Substitution at 81',Nick Doodeman Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,2,343982,2025-05-22 01:24:18
+13353,735722,13,45301209,76,2,4860,81',0,0,Dennis Kaygin (Willem II) Substitution at 81',Dennis Kaygin Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,2,352535,2025-05-22 01:24:18
+13353,735722,14,45301210,76,2,5040,84',0,0,Lorenzo Codutti (FC Dordrecht) Substitution at 84',Lorenzo Codutti Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,1,333594,2025-05-22 01:24:18
+13353,735722,14,45301210,76,2,5040,84',0,0,Lorenzo Codutti (FC Dordrecht) Substitution at 84',Lorenzo Codutti Substitution,4426,0.0,0.0,0.0,0.0,0.0,0.0,2,344195,2025-05-22 01:24:18
+13353,735723,1,45299002,94,2,3060,51',0,0,Guus Offerhaus (Telstar) Yellow Card at 51',Guus Offerhaus Yellow Card,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,304595,2025-05-22 01:24:18
+13353,735723,2,45299015,76,2,3180,53',0,0,Sheddy Barglan (FC Den Bosch) Substitution at 53',Sheddy Barglan Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,355504,2025-05-22 01:24:18
+13353,735723,3,45299016,76,2,3180,53',0,0,Denzel Kuijpers (FC Den Bosch) Substitution at 53',Denzel Kuijpers Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,365025,2025-05-22 01:24:18
+13353,735723,3,45299016,76,2,3180,53',0,0,Denzel Kuijpers (FC Den Bosch) Substitution at 53',Denzel Kuijpers Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,243173,2025-05-22 01:24:18
+13353,735723,2,45299015,76,2,3180,53',0,0,Sheddy Barglan (FC Den Bosch) Substitution at 53',Sheddy Barglan Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,281179,2025-05-22 01:24:18
+13353,735723,4,45299035,76,2,3540,59',0,0,Reda Kharchouch (Telstar) Substitution at 59',Reda Kharchouch Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,265590,2025-05-22 01:24:18
+13353,735723,5,45299042,76,2,3540,59',0,0,Mees Kaandorp (Telstar) Substitution at 59',Mees Kaandorp Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,263498,2025-05-22 01:24:18
+13353,735723,5,45299042,76,2,3540,59',0,0,Mees Kaandorp (Telstar) Substitution at 59',Mees Kaandorp Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,304595,2025-05-22 01:24:18
+13353,735723,4,45299035,76,2,3540,59',0,0,Reda Kharchouch (Telstar) Substitution at 59',Reda Kharchouch Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,205654,2025-05-22 01:24:18
+13353,735723,6,45299082,76,2,4260,71',0,0,Victor van den Bogert (FC Den Bosch) Substitution at 71',Victor van den Bogert Substituti,271,0.0,0.0,0.0,0.0,0.0,0.0,1,251734,2025-05-22 01:24:18
+13353,735723,6,45299082,76,2,4260,71',0,0,Victor van den Bogert (FC Den Bosch) Substitution at 71',Victor van den Bogert Substituti,271,0.0,0.0,0.0,0.0,0.0,0.0,2,308027,2025-05-22 01:24:18
+13353,735723,7,45299083,76,2,4320,72',0,0,Rein Van Hedel (FC Den Bosch) Substitution at 72',Rein Van Hedel Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,330212,2025-05-22 01:24:18
+13353,735723,7,45299083,76,2,4320,72',0,0,Rein Van Hedel (FC Den Bosch) Substitution at 72',Rein Van Hedel Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,130516,2025-05-22 01:24:18
+13353,735723,8,45299114,76,2,4740,79',0,0,Jayden Turfkruier (Telstar) Substitution at 79',Jayden Turfkruier Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,354566,2025-05-22 01:24:18
+13353,735723,9,45299122,76,2,4740,79',0,0,Sebastiaan Hagedoorn (Telstar) Substitution at 79',Sebastiaan Hagedoorn Substitutio,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,375488,2025-05-22 01:24:18
+13353,735723,8,45299114,76,2,4740,79',0,0,Jayden Turfkruier (Telstar) Substitution at 79',Jayden Turfkruier Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,181345,2025-05-22 01:24:18
+13353,735723,9,45299122,76,2,4740,79',0,0,Sebastiaan Hagedoorn (Telstar) Substitution at 79',Sebastiaan Hagedoorn Substitutio,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,281525,2025-05-22 01:24:18
+13353,735723,10,45299143,76,2,5280,88',0,0,Tom Overtoom (Telstar) Substitution at 88',Tom Overtoom Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,140527,2025-05-22 01:24:18
+13353,735723,10,45299143,76,2,5280,88',0,0,Tom Overtoom (Telstar) Substitution at 88',Tom Overtoom Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,306461,2025-05-22 01:24:18
+13353,735723,11,45299169,76,2,5340,89',0,0,David Jonathans (FC Den Bosch) Substitution at 89',David Jonathans Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,1,354829,2025-05-22 01:24:18
+13353,735723,11,45299169,76,2,5340,89',0,0,David Jonathans (FC Den Bosch) Substitution at 89',David Jonathans Substitution,271,0.0,0.0,0.0,0.0,0.0,0.0,2,291732,2025-05-22 01:24:18
+13352,735725,1,45334390,70,1,840,14',1,0,Ringo Meerveld (Willem II) Goal at 14',Ringo Meerveld Goal,156,0.0,0.0,0.0,0.0,0.0,0.0,1,291972,2025-05-30 04:53:52
+13352,735725,2,45334392,94,1,960,16',0,0,Dewon Koswal (Telstar) Yellow Card at 16',Dewon Koswal Yellow Card,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,308107,2025-05-30 04:53:52
+13352,735725,3,45334399,76,2,2700,45',0,0,Jayden Turfkruier (Telstar) Substitution at 45',Jayden Turfkruier Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,354566,2025-05-30 04:53:52
+13352,735725,3,45334399,76,2,2700,45',0,0,Jayden Turfkruier (Telstar) Substitution at 45',Jayden Turfkruier Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,308107,2025-05-30 04:53:52
+13352,735725,4,45334407,97,2,3360,56',1,0,Runar Sigurgeirsson (Willem II) Own Goal at 56',Runar Sigurgeirsson Own Goal,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,319425,2025-05-30 04:53:52
+13352,735725,5,45334409,94,2,3660,61',0,0,Raffael Behounek (Willem II) Yellow Card at 61',Raffael Behounek Yellow Card,156,0.0,0.0,0.0,0.0,0.0,0.0,1,274019,2025-05-30 04:53:52
+13352,735725,6,45334410,70,2,3900,65',1,0,Youssef El Kachati (Telstar) Goal at 65',Youssef El Kachati Goal,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,281525,2025-05-30 04:53:52
+13352,735725,7,45334411,76,2,4140,69',0,0,Remi Van Ekeris (Telstar) Substitution at 69',Remi Van Ekeris Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,334533,2025-05-30 04:53:52
+13352,735725,7,45334411,76,2,4140,69',0,0,Remi Van Ekeris (Telstar) Substitution at 69',Remi Van Ekeris Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,263498,2025-05-30 04:53:52
+13352,735725,8,45334412,76,2,4260,71',0,0,Emilio Kehrer (Willem II) Substitution at 71',Emilio Kehrer Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,1,343982,2025-05-30 04:53:52
+13352,735725,9,45334413,76,2,4260,71',0,0,Cisse Sandra (Willem II) Substitution at 71',Cisse Sandra Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,1,312758,2025-05-30 04:53:52
+13352,735725,9,45334413,76,2,4260,71',0,0,Cisse Sandra (Willem II) Substitution at 71',Cisse Sandra Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,2,364528,2025-05-30 04:53:52
+13352,735725,8,45334412,76,2,4260,71',0,0,Emilio Kehrer (Willem II) Substitution at 71',Emilio Kehrer Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,2,227279,2025-05-30 04:53:52
+13352,735725,10,45334414,70,2,4860,81',1,0,Emilio Kehrer (Willem II) Goal at 81',Emilio Kehrer Goal,156,0.0,0.0,0.0,0.0,0.0,0.0,1,343982,2025-05-30 04:53:52
+13352,735725,12,45334416,76,2,4920,82',0,0,Reda Kharchouch (Telstar) Substitution at 82',Reda Kharchouch Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,265590,2025-05-30 04:53:52
+13352,735725,11,45334415,76,2,4920,82',0,0,Tom Overtoom (Telstar) Substitution at 82',Tom Overtoom Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,140527,2025-05-30 04:53:52
+13352,735725,11,45334415,76,2,4920,82',0,0,Tom Overtoom (Telstar) Substitution at 82',Tom Overtoom Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,306461,2025-05-30 04:53:52
+13352,735725,12,45334416,76,2,4920,82',0,0,Reda Kharchouch (Telstar) Substitution at 82',Reda Kharchouch Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,281525,2025-05-30 04:53:52
+13352,735725,13,45334430,94,2,5160,86',0,0,Boris Lambert (Willem II) Yellow Card at 86',Boris Lambert Yellow Card,156,0.0,0.0,0.0,0.0,0.0,0.0,1,274012,2025-05-30 04:53:52
+13352,735725,14,45334431,76,2,5220,87',0,0,Youssuf Sylla (Willem II) Substitution at 87',Youssuf Sylla Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,1,312714,2025-05-30 04:53:52
+13352,735725,14,45334431,76,2,5220,87',0,0,Youssuf Sylla (Willem II) Substitution at 87',Youssuf Sylla Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,2,343979,2025-05-30 04:53:52
+13352,735725,15,45334433,76,2,5280,88',0,0,Sebastiaan Hagedoorn (Telstar) Substitution at 88',Sebastiaan Hagedoorn Substitutio,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,375488,2025-05-30 04:53:52
+13352,735725,15,45334433,76,2,5280,88',0,0,Sebastiaan Hagedoorn (Telstar) Substitution at 88',Sebastiaan Hagedoorn Substitutio,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,359132,2025-05-30 04:53:52
+13352,735726,1,45344111,70,1,360,6',1,0,Mees Kaandorp (Telstar) Goal at 6',Mees Kaandorp Goal,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,263498,2025-06-02 04:55:15
+13352,735726,2,45344118,70,1,720,12',1,0,Youssef El Kachati (Telstar) Goal at 12',Youssef El Kachati Goal,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,281525,2025-06-02 04:55:15
+13352,735726,3,45344126,70,1,1020,17',1,0,Rob Nizet (Willem II) Goal at 17',Rob Nizet Goal,156,0.0,0.0,0.0,0.0,0.0,0.0,1,294328,2025-06-02 04:55:15
+13352,735726,4,45344137,94,1,1320,22',0,0,Danny Bakker (Telstar) Yellow Card at 22',Danny Bakker Yellow Card,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,181345,2025-06-02 04:55:15
+13352,735726,5,45344235,70,2,3480,58',1,0,Mees Kaandorp (Telstar) Goal at 58',Mees Kaandorp Goal,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,263498,2025-06-02 04:55:15
+13352,735726,6,45344241,76,2,3840,64',0,0,Runar Sigurgeirsson (Willem II) Substitution at 64',Runar Sigurgeirsson Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,1,319425,2025-06-02 04:55:15
+13352,735726,7,45344245,76,2,3840,64',0,0,Kyan Vaesen (Willem II) Substitution at 64',Kyan Vaesen Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,1,343979,2025-06-02 04:55:15
+13352,735726,8,45344246,76,2,3840,64',0,0,Nick Doodeman (Willem II) Substitution at 64',Nick Doodeman Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,1,227279,2025-06-02 04:55:15
+13352,735726,8,45344246,76,2,3840,64',0,0,Nick Doodeman (Willem II) Substitution at 64',Nick Doodeman Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,2,312758,2025-06-02 04:55:15
+13352,735726,6,45344241,76,2,3840,64',0,0,Runar Sigurgeirsson (Willem II) Substitution at 64',Runar Sigurgeirsson Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,2,343982,2025-06-02 04:55:15
+13352,735726,7,45344245,76,2,3840,64',0,0,Kyan Vaesen (Willem II) Substitution at 64',Kyan Vaesen Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,2,274019,2025-06-02 04:55:15
+13352,735726,9,45344256,76,2,4260,71',0,0,Dennis Kaygin (Willem II) Substitution at 71',Dennis Kaygin Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,1,364528,2025-06-02 04:55:15
+13352,735726,9,45344256,76,2,4260,71',0,0,Dennis Kaygin (Willem II) Substitution at 71',Dennis Kaygin Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,2,290518,2025-06-02 04:55:15
+13352,735726,10,45344255,76,2,4320,72',0,0,Jayden Turfkruier (Telstar) Substitution at 72',Jayden Turfkruier Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,354566,2025-06-02 04:55:15
+13352,735726,10,45344255,76,2,4320,72',0,0,Jayden Turfkruier (Telstar) Substitution at 72',Jayden Turfkruier Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,332709,2025-06-02 04:55:15
+13352,735726,11,45344261,94,2,4440,74',0,0,Jeremy Bokila (Willem II) Yellow Card at 74',Jeremy Bokila Yellow Card,156,0.0,0.0,0.0,0.0,0.0,0.0,1,122636,2025-06-02 04:55:15
+13352,735726,12,45344264,76,2,4500,75',0,0,Youssuf Sylla (Willem II) Substitution at 75',Youssuf Sylla Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,1,312714,2025-06-02 04:55:15
+13352,735726,12,45344264,76,2,4500,75',0,0,Youssuf Sylla (Willem II) Substitution at 75',Youssuf Sylla Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,2,122636,2025-06-02 04:55:15
+13352,735726,13,45344270,76,2,4680,78',0,0,Tom Overtoom (Telstar) Substitution at 78',Tom Overtoom Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,140527,2025-06-02 04:55:15
+13352,735726,13,45344270,76,2,4680,78',0,0,Tom Overtoom (Telstar) Substitution at 78',Tom Overtoom Substitution,3735,0.0,0.0,0.0,0.0,0.0,0.0,2,263498,2025-06-02 04:55:15
+13352,735726,14,45344279,76,2,4800,80',0,0,Uriel Van Aalst (Willem II) Substitution at 80',Uriel Van Aalst Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,1,397219,2025-06-02 04:55:15
+13352,735726,15,45344284,94,2,4800,80',0,0,Tommy St. Jago (Willem II) Yellow Card at 80',Tommy St. Jago Yellow Card,156,0.0,0.0,0.0,0.0,0.0,0.0,1,263628,2025-06-02 04:55:15
+13352,735726,14,45344279,76,2,4800,80',0,0,Uriel Van Aalst (Willem II) Substitution at 80',Uriel Van Aalst Substitution,156,0.0,0.0,0.0,0.0,0.0,0.0,2,294328,2025-06-02 04:55:15
+13352,735726,16,45344314,94,2,5400,90'+5',0,0,Mitch Apau (Telstar) Yellow Card at 95',Mitch Apau Yellow Card,3735,0.0,0.0,0.0,0.0,0.0,0.0,1,138531,2025-06-02 04:55:15

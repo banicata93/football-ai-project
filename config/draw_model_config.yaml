@@ -1,0 +1,160 @@
+draw_model_config:
+  version: '1.0'
+  model_type: 'draw_specialist_binary_classifier'
+  
+  # Data Configuration
+  data:
+    lookback_years: 3
+    feature_lookback_days: 180
+    min_matches_per_team: 10
+    test_size_months: 6
+    target_definition: 'is_draw = 1 if home_score == away_score else 0'
+  
+  # Feature Configuration
+  features:
+    draw_specific_features:
+      - possession_symmetry          # Expected possession balance (0-1)
+      - shot_balance                # Expected shot balance (0-1)
+      - pace_of_play_proxy          # Match pace indicator, inverted (0-1)
+      - defensive_stability_delta   # Defensive stability similarity (0-1)
+      - form_equilibrium_index      # Recent form similarity (0-1)
+      - xg_balance_proxy           # Expected goals balance (0-1)
+      - league_draw_rate           # Historical league draw rate (0-1)
+      - home_vs_away_diff_compressed # Compressed strength difference (0-1)
+    
+    feature_descriptions:
+      possession_symmetry: 'How balanced possession is expected to be'
+      shot_balance: 'Expected shot balance between teams'
+      pace_of_play_proxy: 'Match pace indicator (draws often slower)'
+      defensive_stability_delta: 'Difference in defensive stability'
+      form_equilibrium_index: 'How similar recent form is'
+      xg_balance_proxy: 'Expected goals balance'
+      league_draw_rate: 'Historical draw rate for league'
+      home_vs_away_diff_compressed: 'Compressed strength difference'
+  
+  # Model Hyperparameters
+  model:
+    algorithm: 'lightgbm'
+    objective: 'binary'
+    
+    lightgbm_params:
+      objective: 'binary'
+      metric: 'binary_logloss'
+      boosting_type: 'gbdt'
+      num_leaves: 15              # Reduced for stability
+      learning_rate: 0.1          # Increased for faster convergence
+      feature_fraction: 0.9       # Use more features
+      bagging_fraction: 0.9       # Use more data
+      bagging_freq: 3             # Less frequent bagging
+      verbose: -1
+      random_state: 42
+      min_data_in_leaf: 20        # Prevent overfitting
+      lambda_l1: 0.1              # L1 regularization
+      lambda_l2: 0.1              # L2 regularization
+    
+    training:
+      n_estimators: 100           # Reduced for faster training
+      early_stopping_rounds: 15   # Earlier stopping
+      calibration: true
+      calibration_method: 'isotonic'
+  
+  # Validation Configuration
+  validation:
+    method: 'time_series_split'
+    cv_folds: 5
+    test_split: 0.2
+    
+    target_metrics:
+      primary: 'draw_recall'      # Most important for draw prediction
+      secondary: 'roc_auc'        # Overall discrimination
+      calibration: 'brier_score'  # Probability calibration
+    
+    minimum_performance:
+      draw_recall: 0.30           # At least 30% of draws detected
+      roc_auc: 0.60              # Better than random
+      accuracy: 0.50             # Overall accuracy
+  
+  # Prediction Configuration
+  prediction:
+    combination_weights:
+      draw_model: 0.4             # Specialized draw model
+      ml_1x2: 0.3                # ML 1X2 draw probability
+      poisson: 0.2               # Poisson draw probability
+      league_prior: 0.1          # League draw rate prior
+    
+    probability_bounds:
+      min_prob: 0.01             # Minimum draw probability
+      max_prob: 0.99             # Maximum draw probability
+    
+    confidence_calculation:
+      method: 'component_agreement'
+      max_std_for_high_confidence: 0.1
+  
+  # Output Configuration
+  output:
+    model_directory: 'models/draw_model_v1'
+    log_file: 'logs/draw_training.log'
+    
+    save_artifacts:
+      - 'draw_model.pkl'          # Trained model
+      - 'feature_list.json'       # Feature names
+      - 'metrics.json'            # Performance metrics
+      - 'config.yaml'             # Training configuration
+    
+    backup_previous: true
+    versioning: true
+  
+  # Integration Configuration
+  integration:
+    api_method: 'predict_draw_specialist'
+    fallback_behavior: 'use_ml_1x2_draw_prob'
+    
+    enhancement_mode:
+      description: 'Enhances existing 1X2 predictions without replacing them'
+      usage: 'Optional enhancement for draw probability refinement'
+      backward_compatible: true
+  
+  # Performance Expectations
+  expected_performance:
+    draw_detection_improvement: '15-25%'  # vs baseline ML 1X2
+    overall_1x2_accuracy_gain: '2-5%'    # when integrated
+    calibration_improvement: '10-20%'    # better probability estimates
+    
+    typical_metrics:
+      draw_recall: '0.35-0.45'
+      draw_precision: '0.30-0.40'
+      roc_auc: '0.65-0.75'
+      log_loss: '0.60-0.65'
+      brier_score: '0.20-0.25'
+  
+  # Notes and Documentation
+  notes: |
+    Draw Specialist Model v1 Configuration
+    
+    This model is designed to improve draw prediction accuracy by:
+    1. Using draw-specific features that capture match balance and equilibrium
+    2. Training a dedicated binary classifier (draw vs non-draw)
+    3. Combining with existing prediction sources using learned weights
+    
+    Key Features:
+    - Possession and shot balance indicators
+    - Defensive stability and form equilibrium
+    - League-specific draw rate priors
+    - Compressed strength differences
+    
+    Integration:
+    - ADDITIVE: Does not replace existing 1X2 models
+    - OPTIONAL: Can be used to enhance draw probabilities
+    - FALLBACK: Safe degradation to existing predictions
+    
+    Expected Impact:
+    - Better draw detection (higher recall for X class)
+    - Improved probability calibration
+    - Enhanced overall 1X2 prediction accuracy
+  
+  # Output Configuration
+  output:
+    model_path: 'models/draw_model_v1/draw_model.pkl'
+    feature_list_path: 'models/draw_model_v1/feature_list.json'
+    evaluation_report_path: 'reports/draw_model_evaluation.json'
+    log_file: 'logs/draw_model_training.log'

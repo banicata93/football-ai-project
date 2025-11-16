@@ -1,0 +1,10 @@
+{
+  "league": "welsh_premier_league",
+  "league_name": "Welsh Premier League",
+  "league_id": 3963,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:35",
+  "total_matches": 196,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

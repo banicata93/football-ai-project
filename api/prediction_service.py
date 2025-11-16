@@ -11,7 +11,8 @@ import pandas as pd
 import numpy as np
 import joblib
 import json
-from typing import Dict, Tuple, Optional
+import pickle
+from typing import Dict, Tuple, Optional, List
 from datetime import datetime
 
 from core.utils import setup_logging
@@ -23,6 +24,10 @@ from core.ensemble import EnsembleModel, FootballIntelligenceIndex
 from core.team_name_resolver import TeamNameResolver
 from core.btts_features import BTTSFeatureEngineer
 from core.btts_ensemble import BTTSEnsemble
+from core.poisson_v2 import PoissonV2Model
+from core.calibration_multiclass import MulticlassCalibrator
+from core.features_1x2 import Features1X2
+from core.hybrid_1x2_predictor import Hybrid1X2Predictor
 
 
 class PredictionService:
@@ -43,6 +48,16 @@ class PredictionService:
         # Инициализиране на prediction logger
         self.prediction_logger = PredictionLogger()
         
+        # Initialize Hybrid 1X2 Predictor
+        try:
+            self.hybrid_predictor = Hybrid1X2Predictor()
+            self.hybrid_enabled = self.hybrid_predictor.is_available()
+            self.logger.info(f"🎯 Hybrid 1X2 Predictor: {'✅ Enabled' if self.hybrid_enabled else '❌ Disabled'}")
+        except Exception as e:
+            self.logger.warning(f"⚠️ Hybrid 1X2 Predictor not available: {e}")
+            self.hybrid_predictor = None
+            self.hybrid_enabled = False
+        
         # Per-league модели
         self.ou25_models_by_league = {}
         self.ou25_calibrators_by_league = {}
@@ -55,10 +70,18 @@ class PredictionService:
         self.btts_ensemble = BTTSEnsemble()
         self.improved_btts_model = None
         
+        # 1X2 v2 components
+        self.x1x2_v2_models = {}  # Per-league binary models
+        self.x1x2_v2_calibrators = {}  # Per-league calibrators
+        self.poisson_v2_models = {}  # Per-league Poisson v2 models
+        self.features_1x2 = Features1X2()
+        self.x1x2_v2_enabled = True
+        
         # Зареждане на всички компоненти
         self._load_models()
         self._load_team_data()
         self._load_per_league_models()
+        self._load_1x2_v2_models()
         self._load_team_names()
         
         self.logger.info("PredictionService инициализиран успешно")
@@ -71,17 +94,20 @@ class PredictionService:
             # Poisson
             self.models['poisson'] = joblib.load('models/model_poisson_v1/poisson_model.pkl')
             
-            # ML Models with feature lists
+            # ML Models with feature lists (excluding BTTS - loaded separately)
             ml_models = {
                 '1x2': 'models/model_1x2_v1',
-                'ou25': 'models/model_ou25_v1',
-                'btts': 'models/model_btts_v1'
+                'ou25': 'models/model_ou25_v1'
             }
             
             for model_name, model_dir in ml_models.items():
                 # Load model
                 model_file = f"{model_dir}/{model_name}_model.pkl"
                 self.models[model_name] = joblib.load(model_file)
+                
+                # Специално зареждане на калибратори за 1X2 модел
+                if model_name == '1x2':
+                    self._load_1x2_calibrators(model_dir)
                 
                 # Load feature list
                 feature_list_file = f"{model_dir}/feature_list.json"
@@ -93,31 +119,16 @@ class PredictionService:
                     self.logger.warning(f"⚠ Feature list not found for {model_name}, using empty list")
                     self.feature_lists[model_name] = []
             
+            # Load BTTS model (prioritize improved version)
+            self._load_btts_models()
+            
+            # Зареждане на глобален OU2.5 калибратор
+            self._load_global_ou25_calibrator()
+            
             # Ensemble
             self.models['ensemble'] = joblib.load('models/ensemble_v1/ensemble_model.pkl')
             self.models['fii'] = joblib.load('models/ensemble_v1/fii_model.pkl')
             
-            # Improved BTTS model (ако е налично)
-            try:
-                improved_btts_path = 'models/model_btts_improved/btts_model_improved.pkl'
-                if os.path.exists(improved_btts_path):
-                    self.improved_btts_model = joblib.load(improved_btts_path)
-                    
-                    # Зарежда feature list за improved BTTS
-                    improved_features_path = 'models/model_btts_improved/feature_columns.json'
-                    if os.path.exists(improved_features_path):
-                        with open(improved_features_path, 'r') as f:
-                            feature_data = json.load(f)
-                            if isinstance(feature_data, dict) and 'features' in feature_data:
-                                self.feature_lists['btts_improved'] = feature_data['features']
-                            else:
-                                self.feature_lists['btts_improved'] = feature_data
-                    
-                    self.logger.info(f"✓ Improved BTTS model зареден с {len(self.feature_lists.get('btts_improved', []))} features")
-                else:
-                    self.logger.info("⚠ Improved BTTS model не е намерен, използвам стандартния")
-            except Exception as e:
-                self.logger.warning(f"⚠ Грешка при зареждане на improved BTTS: {e}")
             
             # Feature columns (all features for feature engineering)
             try:
@@ -133,6 +144,64 @@ class PredictionService:
         except Exception as e:
             self.logger.error(f"Грешка при зареждане на модели: {e}")
             raise
+    
+    def _load_btts_models(self):
+        """Зареждане на BTTS модели с приоритет на improved версията"""
+        btts_loaded = False
+        
+        # Опит за зареждане на improved BTTS модел
+        try:
+            improved_btts_path = 'models/model_btts_improved/btts_model_improved.pkl'
+            improved_features_path = 'models/model_btts_improved/feature_columns.json'
+            
+            if os.path.exists(improved_btts_path):
+                self.improved_btts_model = joblib.load(improved_btts_path)
+                
+                # Зарежда feature list за improved BTTS
+                if os.path.exists(improved_features_path):
+                    with open(improved_features_path, 'r') as f:
+                        feature_data = json.load(f)
+                        if isinstance(feature_data, dict) and 'features' in feature_data:
+                            self.feature_lists['btts'] = feature_data['features']
+                        else:
+                            self.feature_lists['btts'] = feature_data
+                
+                self.logger.info(f"✓ Improved BTTS model зареден като основен с {len(self.feature_lists.get('btts', []))} features")
+                btts_loaded = True
+            else:
+                self.logger.warning("⚠ Improved BTTS model файл не съществува")
+                
+        except Exception as e:
+            self.logger.warning(f"⚠ Грешка при зареждане на improved BTTS: {e}")
+        
+        # Fallback към legacy BTTS модел ако improved не е зареден
+        if not btts_loaded:
+            try:
+                legacy_btts_path = 'models/model_btts_v1/btts_model.pkl'
+                legacy_features_path = 'models/model_btts_v1/feature_list.json'
+                
+                if os.path.exists(legacy_btts_path):
+                    self.models['btts'] = joblib.load(legacy_btts_path)
+                    
+                    # Зарежда legacy feature list
+                    if os.path.exists(legacy_features_path):
+                        with open(legacy_features_path, 'r') as f:
+                            self.feature_lists['btts'] = json.load(f)
+                    
+                    self.logger.warning(f"⚠ Fallback към legacy BTTS model с {len(self.feature_lists.get('btts', []))} features")
+                    # Няма improved модел за fallback
+                    self.improved_btts_model = None
+                else:
+                    self.logger.error("❌ Нито improved, нито legacy BTTS модел не могат да се заредят")
+                    self.models['btts'] = None
+                    self.improved_btts_model = None
+                    self.feature_lists['btts'] = []
+                    
+            except Exception as e:
+                self.logger.error(f"❌ Грешка при зареждане на legacy BTTS: {e}")
+                self.models['btts'] = None
+                self.improved_btts_model = None
+                self.feature_lists['btts'] = []
     
     def _load_team_data(self):
         """Зареждане на team data (Elo, stats)"""
@@ -175,6 +244,128 @@ class PredictionService:
             self.logger.warning(f"Не мога да заредя team data: {e}")
             self.elo_ratings = {}
     
+    def _load_1x2_v2_models(self):
+        """Зареждане на 1X2 v2 модели и компоненти"""
+        if not self.x1x2_v2_enabled:
+            self.logger.info("1X2 v2 е изключен")
+            return
+            
+        self.logger.info("🔄 Зареждане на 1X2 v2 модели...")
+        
+        try:
+            # Major leagues за per-league modeling
+            major_leagues = [
+                'premier_league', 'la_liga', 'serie_a', 'bundesliga',
+                'ligue_1', 'eredivisie', 'primeira_liga', 'championship'
+            ]
+            
+            loaded_leagues = 0
+            
+            # Зареждане на модели за всяка лига
+            for league in major_leagues:
+                if self._load_1x2_v2_league_models(league):
+                    loaded_leagues += 1
+            
+            # Зареждане на глобален fallback модел
+            if self._load_1x2_v2_league_models('global'):
+                loaded_leagues += 1
+            
+            # Зареждане на Poisson v2 модели
+            self._load_poisson_v2_models()
+            
+            self.logger.info(f"✅ Заредени 1X2 v2 модели за {loaded_leagues} лиги/глобален")
+            
+        except Exception as e:
+            self.logger.error(f"❌ Грешка при зареждане на 1X2 v2 модели: {e}")
+            self.x1x2_v2_enabled = False
+    
+    def _load_1x2_v2_league_models(self, league: str) -> bool:
+        """
+        Зареждане на 1X2 v2 модели за конкретна лига
+        
+        Args:
+            league: League slug или 'global'
+            
+        Returns:
+            True ако моделите са заредени успешно
+        """
+        try:
+            model_dir = Path(f"models/leagues/{league}/1x2_v2")
+            
+            if not model_dir.exists():
+                self.logger.warning(f"⚠️ Директория за {league} 1X2 v2 не съществува: {model_dir}")
+                return False
+            
+            # Зареждане на 3-те binary модела
+            binary_models = {}
+            model_files = {
+                'homewin': model_dir / 'homewin_model.pkl',
+                'draw': model_dir / 'draw_model.pkl', 
+                'awaywin': model_dir / 'awaywin_model.pkl'
+            }
+            
+            for model_name, model_file in model_files.items():
+                if model_file.exists():
+                    with open(model_file, 'rb') as f:
+                        binary_models[model_name] = pickle.load(f)
+                else:
+                    self.logger.warning(f"⚠️ Липсва {model_name} модел за {league}")
+                    return False
+            
+            # Зареждане на калибратор
+            calibrator_file = model_dir / 'calibrator.pkl'
+            calibrator = None
+            if calibrator_file.exists():
+                calibrator = MulticlassCalibrator.load_calibrator(str(calibrator_file))
+            
+            # Зареждане на feature list
+            feature_file = model_dir / 'feature_list.json'
+            feature_list = []
+            if feature_file.exists():
+                with open(feature_file, 'r') as f:
+                    feature_list = json.load(f)
+            
+            # Съхраняване на моделите
+            self.x1x2_v2_models[league] = {
+                'models': binary_models,
+                'feature_list': feature_list
+            }
+            
+            if calibrator:
+                self.x1x2_v2_calibrators[league] = calibrator
+            
+            self.logger.info(f"✅ Заредени 1X2 v2 модели за {league}")
+            return True
+            
+        except Exception as e:
+            self.logger.error(f"❌ Грешка при зареждане на 1X2 v2 модели за {league}: {e}")
+            return False
+    
+    def _load_poisson_v2_models(self):
+        """Зареждане на Poisson v2 модели"""
+        try:
+            poisson_dir = Path("models/leagues/poisson_v2")
+            
+            if not poisson_dir.exists():
+                self.logger.warning("⚠️ Poisson v2 директория не съществува")
+                return
+            
+            # Зареждане на всички Poisson v2 модели
+            for poisson_file in poisson_dir.glob("*_poisson_v2.pkl"):
+                league = poisson_file.stem.replace('_poisson_v2', '')
+                
+                try:
+                    poisson_model = PoissonV2Model.load_model(str(poisson_file))
+                    self.poisson_v2_models[league] = poisson_model
+                    self.logger.info(f"✅ Зареден Poisson v2 за {league}")
+                except Exception as e:
+                    self.logger.warning(f"⚠️ Грешка при зареждане на Poisson v2 за {league}: {e}")
+            
+            self.logger.info(f"✅ Заредени {len(self.poisson_v2_models)} Poisson v2 модела")
+            
+        except Exception as e:
+            self.logger.error(f"❌ Грешка при зареждане на Poisson v2 модели: {e}")
+
     def _load_team_names(self):
         """Зареждане на реални имена на отборите"""
         try:
@@ -187,11 +378,77 @@ class PredictionService:
                 team_key = f"Team_{team_id}"
                 self.team_names[team_key] = info
             
-            self.logger.info(f"✓ Реални имена заредени за {len(self.team_names)} отбора")
+            self.logger.info(f"✅ Имена на отборите заредени: {len(self.team_names)} отбора")
+        except Exception as e:
+            self.logger.warning(f"⚠ Грешка при зареждане на имена на отборите: {e}")
+            self.team_names = {}
+    
+    def _load_1x2_calibrators(self, model_dir: str):
+        """Зарежда IsotonicRegression калибратори за 1X2 модела"""
+        try:
+            self.calibrators_1x2 = {}
+            class_names = ['1', 'X', '2']
+            
+            for class_name in class_names:
+                calibrator_file = f"{model_dir}/calibrator_{class_name}.pkl"
+                if os.path.exists(calibrator_file):
+                    self.calibrators_1x2[class_name] = joblib.load(calibrator_file)
+                    self.logger.info(f"✓ Калибратор {class_name} зареден")
+                else:
+                    self.logger.warning(f"⚠ Калибратор {class_name} не е намерен: {calibrator_file}")
+                    self.calibrators_1x2[class_name] = None
+            
+            if all(cal is not None for cal in self.calibrators_1x2.values()):
+                self.logger.info("✅ Всички 1X2 калибратори заредени успешно")
+            else:
+                self.logger.warning("⚠ Някои 1X2 калибратори липсват")
+                
+        except Exception as e:
+            self.logger.error(f"❌ Грешка при зареждане на 1X2 калибратори: {e}")
+            self.calibrators_1x2 = {}
+    
+    def _apply_1x2_calibration(self, raw_probs: np.ndarray) -> np.ndarray:
+        """Прилага независими калибратори за всеки клас и нормализира"""
+        if not hasattr(self, 'calibrators_1x2') or not self.calibrators_1x2:
+            self.logger.warning("Няма заредени калибратори, връщам raw probabilities")
+            return raw_probs
+        
+        try:
+            calibrated_probs = np.zeros_like(raw_probs)
+            class_names = ['1', 'X', '2']
+            
+            # Прилагаме калибрация за всеки клас
+            for i, class_name in enumerate(class_names):
+                if self.calibrators_1x2.get(class_name) is not None:
+                    calibrated_probs[:, i] = self.calibrators_1x2[class_name].predict(raw_probs[:, i])
+                else:
+                    # Fallback към raw probability ако калибраторът липсва
+                    calibrated_probs[:, i] = raw_probs[:, i]
+            
+            # Нормализация до сума = 1
+            row_sums = calibrated_probs.sum(axis=1, keepdims=True)
+            row_sums = np.where(row_sums == 0, 1, row_sums)  # Избягване на деление на 0
+            calibrated_probs = calibrated_probs / row_sums
+            
+            return calibrated_probs
             
         except Exception as e:
-            self.logger.warning(f"Не мога да заредя team names: {e}")
-            self.team_names = {}
+            self.logger.error(f"Грешка при калибрация: {e}, връщам raw probabilities")
+            return raw_probs
+    
+    def _load_global_ou25_calibrator(self):
+        """Зарежда глобален OU2.5 калибратор ако съществува"""
+        try:
+            global_calibrator_path = 'models/model_ou25_v1/calibrator.pkl'
+            if os.path.exists(global_calibrator_path):
+                self.global_ou25_calibrator = joblib.load(global_calibrator_path)
+                self.logger.info("✓ Глобален OU2.5 калибратор зареден")
+            else:
+                self.global_ou25_calibrator = None
+                self.logger.info("ℹ Глобален OU2.5 калибратор не е намерен")
+        except Exception as e:
+            self.logger.warning(f"⚠ Грешка при зареждане на глобален OU2.5 калибратор: {e}")
+            self.global_ou25_calibrator = None
     
     def _load_per_league_models(self):
         """Зареждане на per-league OU2.5 модели"""
@@ -306,7 +563,8 @@ class PredictionService:
         
         # Fallback към глобален модел
         global_model = self.models.get('ou25')
-        global_calibrator = None  # Глобалният модел може да няма калибратор
+        # Опитва се да зареди глобален калибратор
+        global_calibrator = getattr(self, 'global_ou25_calibrator', None)
         
         return global_model, global_calibrator, "global_ou25"
     
@@ -493,9 +751,10 @@ class PredictionService:
         # Align features for each model (използваме legacy метод)
         X_1x2, _ = align_features(X_all, self.feature_lists['1x2'], use_intelligent_imputation=False)
         X_ou25, _ = align_features(X_all, self.feature_lists['ou25'], use_intelligent_imputation=False)
-        X_btts, _ = align_features(X_all, self.feature_lists['btts'], use_intelligent_imputation=False)
         
-        ml_1x2 = self.models['1x2'].predict_proba(X_1x2)[0]
+        # 1X2 prediction с калибрация
+        ml_1x2_raw = self.models['1x2'].predict_proba(X_1x2)[0:1]  # Keep as 2D array
+        ml_1x2 = self._apply_1x2_calibration(ml_1x2_raw)[0]  # Apply calibration and get first row
         
         # OU2.5 prediction с per-league модел или fallback
         ou25_model, ou25_calibrator, ou25_source = self._get_ou25_model_for_league(league)
@@ -507,24 +766,31 @@ class PredictionService:
             else:
                 ml_ou25_raw = ou25_model.predict(X_ou25)[0] if hasattr(ou25_model, 'predict') else ou25_model.predict_proba(X_ou25)[0, 1]
             
-            # Прилага калибрация ако е налична
+            # Прилага калибрация - първо league-specific, после глобален, накрая raw
             if ou25_calibrator is not None:
-                # IsotonicRegression калибрация
+                # League-specific калибратор
                 ml_ou25 = ou25_calibrator.predict([ml_ou25_raw])[0]
+                self.logger.debug(f"Използван {ou25_source} калибратор за OU2.5")
+            elif hasattr(self, 'global_ou25_calibrator') and self.global_ou25_calibrator is not None:
+                # Fallback към глобален калибратор
+                ml_ou25 = self.global_ou25_calibrator.predict([ml_ou25_raw])[0]
+                self.logger.debug("Използван глобален OU2.5 калибратор")
             else:
+                # Няма калибратор - използва raw probability
                 ml_ou25 = ml_ou25_raw
+                self.logger.warning(f"Няма калибратор за OU2.5 ({ou25_source}), използвам raw probability")
         else:
             # Fallback към глобален модел
-            ml_ou25 = self.models['ou25'].predict_proba(X_ou25)[0, 1]
+            ml_ou25_raw = self.models['ou25'].predict_proba(X_ou25)[0, 1]
             ou25_source = "global_ou25"
-        ml_btts_raw = self.models['btts'].predict_proba(X_btts)[0, 1]
-        
-        # BTTS Calibration layer (reduce overconfidence)
-        ml_btts_calibrated = 0.5 + (ml_btts_raw - 0.5) * 0.85
-        ml_btts_calibrated = np.clip(ml_btts_calibrated, 0.05, 0.95)
-        
-        # Blend with Poisson for BTTS
-        ml_btts = 0.8 * ml_btts_calibrated + 0.2 * poisson_pred['prob_btts']
+            
+            # Прилага глобален калибратор ако е наличен
+            if hasattr(self, 'global_ou25_calibrator') and self.global_ou25_calibrator is not None:
+                ml_ou25 = self.global_ou25_calibrator.predict([ml_ou25_raw])[0]
+                self.logger.debug("Използван глобален OU2.5 калибратор за fallback модел")
+            else:
+                ml_ou25 = ml_ou25_raw
+                self.logger.warning("Няма калибратор за глобален OU2.5 модел, използвам raw probability")
         
         # Ensemble predictions with dynamic weighting
         # Map league name to ID for ensemble (простo mapping за демонстрация)
@@ -543,14 +809,16 @@ class PredictionService:
             league_id=league_id
         )[0]
         
-        ensemble_ou25 = self.models['ensemble'].predict(
+        # Enhanced OU2.5 prediction with overconfidence fixes
+        ensemble_ou25 = self.models['ensemble'].predict_ou25(
             np.array([[poisson_pred['prob_over25']]]),
             np.array([[ml_ou25]]),
+            league=league,
             league_id=league_id
         )[0, 0]
         
-        # Подобрена BTTS прогноза
-        btts_improved = self.predict_btts_improved(match_df, poisson_pred['prob_btts'])
+        # Подобрена BTTS прогноза with league context
+        btts_improved = self.predict_btts_improved(match_df, poisson_pred['prob_btts'], league=league)
         ensemble_btts = btts_improved['prob_yes']
         
         # FII
@@ -769,39 +1037,443 @@ class PredictionService:
         return 'Yes' if prob_btts > threshold else 'No'
     
     def get_model_info(self) -> Dict:
-        """Информация за моделите"""
+        """Информация за моделите с пълни метрики и статус"""
         
         models_list = []
         
-        # Зареждане на метрики
-        model_configs = [
-            ('Poisson', 'v1', 'models/model_poisson_v1/metrics.json'),
-            ('1X2', 'v1', 'models/model_1x2_v1/metrics.json'),
-            ('OU2.5', 'v1', 'models/model_ou25_v1/metrics.json'),
-            ('BTTS', 'v1', 'models/model_btts_v1/metrics.json'),
-            ('Ensemble', 'v1', 'models/ensemble_v1/metrics.json')
-        ]
+        # 1X2 v1 Model
+        models_list.append(self._get_single_model_info(
+            name='1X2',
+            version='v1',
+            model_key='1x2',
+            metrics_path='models/model_1x2_v1/metrics.json',
+            use_val=True
+        ))
         
-        for name, version, metrics_path in model_configs:
-            try:
-                with open(metrics_path, 'r') as f:
-                    metrics = json.load(f)
-                
-                model_info = {
-                    'model_name': name,
-                    'version': version,
-                    'trained_date': 'N/A',
-                    'accuracy': None,
-                    'metrics': metrics.get('validation', {}) if name != 'Ensemble' else metrics.get('test', {})
-                }
-                
-                models_list.append(model_info)
-            except Exception as e:
-                self.logger.warning(f"Не мога да заредя метрики за {name}: {e}")
+        # 1X2 v2 Per-League Models (aggregated)
+        models_list.append(self._get_1x2_v2_aggregated_info())
+        
+        # 1X2 Hybrid Model
+        models_list.append(self._get_hybrid_1x2_info())
+        
+        # Poisson v1
+        models_list.append(self._get_single_model_info(
+            name='Poisson',
+            version='v1',
+            model_key='poisson',
+            metrics_path='models/model_poisson_v1/metrics.json',
+            use_val=True,
+            metric_prefix='1x2'
+        ))
+        
+        # Poisson v2 Per-League (aggregated)
+        models_list.append(self._get_poisson_v2_aggregated_info())
+        
+        # OU2.5 v1 Global
+        models_list.append(self._get_single_model_info(
+            name='OU2.5',
+            version='v1',
+            model_key='ou25',
+            metrics_path='models/model_ou25_v1/metrics.json',
+            use_val=True
+        ))
+        
+        # OU2.5 Per-League (aggregated)
+        models_list.append(self._get_ou25_per_league_info())
+        
+        # BTTS v1
+        models_list.append(self._get_single_model_info(
+            name='BTTS',
+            version='v1',
+            model_key='btts',
+            metrics_path='models/model_btts_v1/metrics.json',
+            use_val=True
+        ))
+        
+        # BTTS v2
+        models_list.append(self._get_single_model_info(
+            name='BTTS',
+            version='v2',
+            model_key='btts_improved',
+            metrics_path='models/model_btts_v2/metrics.json',
+            use_val=True
+        ))
+        
+        # Draw Specialist
+        models_list.append(self._get_draw_specialist_info())
+        
+        # Scoreline v1
+        models_list.append(self._get_scoreline_info())
+        
+        # Ensemble
+        models_list.append(self._get_ensemble_info())
         
         return {
             'models': models_list,
             'total_models': len(models_list)
+        }
+    
+    def _get_single_model_info(self, name: str, version: str, model_key: str, 
+                                metrics_path: str, use_val: bool = True, 
+                                use_test: bool = False, metric_prefix: str = None) -> Dict:
+        """Зарежда информация за единичен модел"""
+        
+        errors = []
+        metrics = {}
+        accuracy = None
+        trained_date = 'N/A'
+        loaded = model_key in self.models
+        
+        try:
+            with open(metrics_path, 'r') as f:
+                metrics_data = json.load(f)
+            
+            # Избери правилния dataset
+            if use_test and 'test' in metrics_data:
+                dataset = metrics_data['test']
+            elif use_val and 'val' in metrics_data:
+                dataset = metrics_data['val']
+            elif 'validation' in metrics_data:
+                dataset = metrics_data['validation']
+            else:
+                dataset = metrics_data.get('train', {})
+            
+            # Извлечи метрики
+            if metric_prefix:
+                accuracy = dataset.get(f'accuracy_{metric_prefix}')
+                metrics = {
+                    'accuracy': dataset.get(f'accuracy_{metric_prefix}'),
+                    'log_loss': dataset.get(f'log_loss_{metric_prefix}')
+                }
+            else:
+                accuracy = dataset.get('accuracy')
+                metrics = {
+                    'accuracy': dataset.get('accuracy'),
+                    'log_loss': dataset.get('log_loss'),
+                    'brier_score': dataset.get('brier_score'),
+                    'roc_auc': dataset.get('roc_auc')
+                }
+            
+            # Премахни None стойности
+            metrics = {k: v for k, v in metrics.items() if v is not None}
+            
+            # Опит за извличане на дата
+            import os
+            if os.path.exists(metrics_path):
+                import datetime
+                mtime = os.path.getmtime(metrics_path)
+                trained_date = datetime.datetime.fromtimestamp(mtime).strftime('%Y-%m-%d %H:%M:%S')
+                
+        except FileNotFoundError:
+            errors.append('metrics_file_missing')
+            loaded = False
+        except Exception as e:
+            errors.append(f'error_loading_metrics: {str(e)}')
+            self.logger.warning(f"Грешка при зареждане на метрики за {name} {version}: {e}")
+        
+        return {
+            'model_name': name,
+            'version': version,
+            'trained_date': trained_date,
+            'accuracy': accuracy,
+            'metrics': metrics,
+            'loaded': loaded,
+            'errors': errors
+        }
+    
+    def _get_1x2_v2_aggregated_info(self) -> Dict:
+        """Агрегирана информация за 1X2 v2 per-league модели"""
+        
+        errors = []
+        leagues_trained = len(self.x1x2_v2_models)
+        loaded = leagues_trained > 0
+        
+        if leagues_trained == 0:
+            errors.append('no_leagues_trained')
+            return {
+                'model_name': '1X2',
+                'version': 'v2',
+                'trained_date': 'N/A',
+                'accuracy': None,
+                'metrics': {},
+                'loaded': False,
+                'errors': errors,
+                'leagues_trained': 0
+            }
+        
+        # Агрегирай метрики от всички лиги
+        accuracies = []
+        log_losses = []
+        
+        for league in ['premier_league', 'la_liga', 'bundesliga', 'serie_a', 
+                       'ligue_1', 'eredivisie', 'primeira_liga', 'championship']:
+            metrics_path = f'models/leagues/{league}/1x2_v2/metrics.json'
+            try:
+                with open(metrics_path, 'r') as f:
+                    metrics_data = json.load(f)
+                    val_data = metrics_data.get('val', {})
+                    if 'accuracy' in val_data:
+                        accuracies.append(val_data['accuracy'])
+                    if 'log_loss' in val_data:
+                        log_losses.append(val_data['log_loss'])
+            except:
+                pass
+        
+        avg_accuracy = sum(accuracies) / len(accuracies) if accuracies else None
+        avg_log_loss = sum(log_losses) / len(log_losses) if log_losses else None
+        
+        return {
+            'model_name': '1X2',
+            'version': 'v2',
+            'trained_date': 'N/A',
+            'accuracy': avg_accuracy,
+            'metrics': {
+                'accuracy': avg_accuracy,
+                'log_loss': avg_log_loss,
+                'leagues_count': len(accuracies)
+            },
+            'loaded': loaded,
+            'errors': errors,
+            'leagues_trained': leagues_trained
+        }
+    
+    def _get_hybrid_1x2_info(self) -> Dict:
+        """Информация за Hybrid 1X2 модел"""
+        
+        loaded = self.hybrid_enabled and self.hybrid_predictor is not None
+        errors = [] if loaded else ['hybrid_not_available']
+        
+        # Опит за зареждане на метрики
+        metrics = {}
+        accuracy = None
+        
+        try:
+            metrics_path = 'models/1x2_hybrid_v1/metrics.json'
+            with open(metrics_path, 'r') as f:
+                metrics_data = json.load(f)
+                val_data = metrics_data.get('val', metrics_data.get('validation', {}))
+                accuracy = val_data.get('accuracy')
+                metrics = {
+                    'accuracy': val_data.get('accuracy'),
+                    'log_loss': val_data.get('log_loss')
+                }
+                metrics = {k: v for k, v in metrics.items() if v is not None}
+        except:
+            errors.append('metrics_file_missing')
+        
+        return {
+            'model_name': '1X2 Hybrid',
+            'version': 'hybrid_v1',
+            'trained_date': 'N/A',
+            'accuracy': accuracy,
+            'metrics': metrics,
+            'loaded': loaded,
+            'errors': errors
+        }
+    
+    def _get_poisson_v2_aggregated_info(self) -> Dict:
+        """Агрегирана информация за Poisson v2 per-league модели"""
+        
+        leagues_trained = len(self.poisson_v2_models)
+        loaded = leagues_trained > 0
+        errors = [] if loaded else ['no_leagues_trained']
+        
+        return {
+            'model_name': 'Poisson',
+            'version': 'v2',
+            'trained_date': 'N/A',
+            'accuracy': None,
+            'metrics': {},
+            'loaded': loaded,
+            'errors': errors,
+            'leagues_trained': leagues_trained
+        }
+    
+    def _get_ou25_per_league_info(self) -> Dict:
+        """Агрегирана информация за OU2.5 per-league модели"""
+        
+        # Провери колко лиги имат тренирани модели на диска (не в паметта)
+        leagues_on_disk = []
+        target_leagues = ['premier_league', 'la_liga', 'serie_a', 'bundesliga', 
+                         'ligue_1', 'eredivisie', 'primeira_liga', 'championship']
+        
+        for league in target_leagues:
+            model_path = f'models/leagues/{league}/ou25_v1/ou25_model.pkl'
+            if os.path.exists(model_path):
+                leagues_on_disk.append(league)
+        
+        leagues_trained = len(leagues_on_disk)
+        loaded = leagues_trained > 0
+        
+        if leagues_trained == 0:
+            return {
+                'model_name': 'OU2.5 Per-League',
+                'version': 'v1',
+                'trained_date': 'N/A',
+                'accuracy': None,
+                'metrics': {},
+                'loaded': False,
+                'errors': ['no_leagues_trained'],
+                'leagues_trained': 0
+            }
+        
+        # Агрегирай метрики от всички тренирани лиги
+        accuracies = []
+        log_losses = []
+        
+        for league in leagues_on_disk:
+            metrics_path = f'models/leagues/{league}/ou25_v1/metrics.json'
+            try:
+                with open(metrics_path, 'r') as f:
+                    metrics_data = json.load(f)
+                    val_data = metrics_data.get('val', {})
+                    if 'accuracy' in val_data:
+                        accuracies.append(val_data['accuracy'])
+                    if 'log_loss' in val_data:
+                        log_losses.append(val_data['log_loss'])
+            except:
+                pass
+        
+        avg_accuracy = sum(accuracies) / len(accuracies) if accuracies else None
+        avg_log_loss = sum(log_losses) / len(log_losses) if log_losses else None
+        
+        return {
+            'model_name': 'OU2.5 Per-League',
+            'version': 'v1',
+            'trained_date': 'N/A',
+            'accuracy': avg_accuracy,
+            'metrics': {
+                'accuracy': avg_accuracy,
+                'log_loss': avg_log_loss,
+                'leagues_count': float(len(accuracies))
+            },
+            'loaded': loaded,
+            'errors': [],
+            'leagues_trained': leagues_trained
+        }
+    
+    def _get_draw_specialist_info(self) -> Dict:
+        """Информация за Draw Specialist модел"""
+        
+        # Провери дали е зареден
+        loaded = hasattr(self, 'draw_predictor') and self.draw_predictor is not None
+        errors = []
+        
+        if not loaded:
+            errors.append('optional_feature_not_trained')
+        
+        # Draw Specialist е optional feature - не е критичен за системата
+        return {
+            'model_name': 'Draw Specialist',
+            'version': 'v1',
+            'trained_date': 'N/A',
+            'accuracy': None,
+            'metrics': {},
+            'loaded': loaded,
+            'errors': errors
+        }
+    
+    def _get_scoreline_info(self) -> Dict:
+        """Информация за Scoreline модел"""
+        
+        # Провери дали е зареден
+        loaded = 'poisson' in self.models
+        errors = [] if loaded else ['model_not_loaded']
+        
+        # Scoreline използва Poisson, така че вземи метриките от Poisson
+        accuracy = None
+        metrics = {}
+        trained_date = 'N/A'
+        
+        try:
+            metrics_path = 'models/model_poisson_v1/metrics.json'
+            with open(metrics_path, 'r') as f:
+                metrics_data = json.load(f)
+                val_data = metrics_data.get('validation', {})
+                
+                # Scoreline е базиран на Poisson, така че използваме неговите метрики
+                accuracy = val_data.get('accuracy_1x2')
+                metrics = {
+                    'accuracy_1x2': val_data.get('accuracy_1x2'),
+                    'log_loss_1x2': val_data.get('log_loss_1x2')
+                }
+                metrics = {k: v for k, v in metrics.items() if v is not None}
+                
+                import os
+                if os.path.exists(metrics_path):
+                    import datetime
+                    mtime = os.path.getmtime(metrics_path)
+                    trained_date = datetime.datetime.fromtimestamp(mtime).strftime('%Y-%m-%d %H:%M:%S')
+        except:
+            pass
+        
+        return {
+            'model_name': 'Scoreline',
+            'version': 'v1',
+            'trained_date': trained_date,
+            'accuracy': accuracy,
+            'metrics': metrics,
+            'loaded': loaded,
+            'errors': errors
+        }
+    
+    def _get_ensemble_info(self) -> Dict:
+        """Информация за Ensemble модел"""
+        
+        loaded = 'ensemble' in self.models
+        errors = [] if loaded else ['model_not_loaded']
+        
+        accuracy = None
+        metrics = {}
+        trained_date = 'N/A'
+        
+        try:
+            metrics_path = 'models/ensemble_v1/metrics.json'
+            with open(metrics_path, 'r') as f:
+                metrics_data = json.load(f)
+                test_data = metrics_data.get('test', {})
+                
+                # Изчисли средна accuracy от всички задачи
+                accuracies = [
+                    test_data.get('1x2_accuracy'),
+                    test_data.get('ou25_accuracy'),
+                    test_data.get('btts_accuracy')
+                ]
+                accuracies = [a for a in accuracies if a is not None]
+                
+                if accuracies:
+                    accuracy = sum(accuracies) / len(accuracies)
+                
+                # Върни всички метрики
+                metrics = {
+                    'avg_accuracy': accuracy,
+                    '1x2_accuracy': test_data.get('1x2_accuracy'),
+                    '1x2_log_loss': test_data.get('1x2_log_loss'),
+                    'ou25_accuracy': test_data.get('ou25_accuracy'),
+                    'ou25_log_loss': test_data.get('ou25_log_loss'),
+                    'btts_accuracy': test_data.get('btts_accuracy'),
+                    'btts_log_loss': test_data.get('btts_log_loss')
+                }
+                metrics = {k: v for k, v in metrics.items() if v is not None}
+                
+                import os
+                if os.path.exists(metrics_path):
+                    import datetime
+                    mtime = os.path.getmtime(metrics_path)
+                    trained_date = datetime.datetime.fromtimestamp(mtime).strftime('%Y-%m-%d %H:%M:%S')
+                    
+        except Exception as e:
+            errors.append(f'error_loading_metrics: {str(e)}')
+            self.logger.warning(f"Грешка при зареждане на Ensemble метрики: {e}")
+        
+        return {
+            'model_name': 'Ensemble',
+            'version': 'v1',
+            'trained_date': trained_date,
+            'accuracy': accuracy,
+            'metrics': metrics,
+            'loaded': loaded,
+            'errors': errors
         }
     
     def resolve_team_name(self, team_name: str) -> str:
@@ -847,7 +1519,7 @@ class PredictionService:
         
         return result
     
-    def predict_btts_improved(self, match_df: pd.DataFrame, poisson_btts_prob: float) -> Dict:
+    def predict_btts_improved(self, match_df: pd.DataFrame, poisson_btts_prob: float, league: str = None) -> Dict:
         """
         Подобрена BTTS прогноза с enhanced features и ensemble logic
         
@@ -861,40 +1533,46 @@ class PredictionService:
         try:
             if self.improved_btts_model is None:
                 # Fallback към стандартния модел
+                self.logger.warning("Improved BTTS model не е наличен, използвам fallback")
                 return self._predict_btts_standard(match_df, poisson_btts_prob)
             
             # Прилага BTTS feature engineering
             enhanced_df = self.btts_feature_engineer.create_btts_features(match_df)
             
             # Подготвя features за improved модел
-            improved_features = self.feature_lists.get('btts_improved', [])
+            improved_features = self.feature_lists.get('btts', [])
             available_features = [f for f in improved_features if f in enhanced_df.columns]
             
             if len(available_features) < len(improved_features) * 0.8:  # Минимум 80% features
-                self.logger.warning(f"Недостатъчно features за improved BTTS: {len(available_features)}/{len(improved_features)}")
+                self.logger.warning(f"Недостатъчно features за improved BTTS: {len(available_features)}/{len(improved_features)}, fallback към стандартен")
                 return self._predict_btts_standard(match_df, poisson_btts_prob)
             
-            # ML prediction с improved модел
+            # ML prediction с improved модел (вече калибриран)
             X_improved = enhanced_df[available_features].fillna(0)
             ml_btts_prob = self.improved_btts_model.predict_proba(X_improved)[:, 1][0]
             
-            # Enhanced ensemble logic
+            # Enhanced ensemble logic with league-aware regularization
             ensemble_result = self.btts_ensemble.enhanced_btts_ensemble(
                 ml_prob=ml_btts_prob,
                 poisson_prob=poisson_btts_prob,
-                ml_weight=0.85  # По-висока тежест за improved модел
+                ml_weight=0.85,  # По-висока тежест за improved модел
+                league=league    # League for base rate regularization
             )
+            
+            # Използваме 0.6 threshold за predicted outcome
+            final_prob = ensemble_result['probability']
+            predicted_outcome = 'Yes' if final_prob >= 0.6 else 'No'
             
             # Threshold препоръки
             threshold_rec = self.btts_ensemble.get_threshold_recommendation(
-                ensemble_result['probability'], 
+                final_prob, 
                 ensemble_result['confidence']
             )
             
             return {
-                'prob_yes': ensemble_result['probability'],
-                'prob_no': 1 - ensemble_result['probability'],
-                'predicted_outcome': ensemble_result['predicted_outcome'],
+                'prob_yes': final_prob,
+                'prob_no': 1 - final_prob,
+                'predicted_outcome': predicted_outcome,
                 'confidence': ensemble_result['confidence'],
                 'confidence_level': ensemble_result['confidence_level'],
                 'model_source': 'improved_btts',
@@ -910,39 +1588,47 @@ class PredictionService:
     def _predict_btts_standard(self, match_df: pd.DataFrame, poisson_btts_prob: float) -> Dict:
         """Стандартна BTTS прогноза (fallback)"""
         try:
+            self.logger.info("Използвам стандартен BTTS модел като fallback")
+            
             # Използва стандартния BTTS модел
             btts_features = self.feature_lists.get('btts', [])
-            if btts_features:
+            if btts_features and self.models.get('btts') is not None:
                 X_btts = match_df[btts_features].fillna(0)
                 ml_btts_prob = self.models['btts'].predict_proba(X_btts)[:, 1][0]
+                model_source = 'legacy_btts'
             else:
+                self.logger.warning("Няма наличен BTTS модел, използвам default стойности")
                 ml_btts_prob = 0.5  # Default
+                model_source = 'fallback_default'
             
             # Стандартна ensemble логика
             ensemble_prob = 0.8 * ml_btts_prob + 0.2 * poisson_btts_prob
             confidence = abs(ensemble_prob - 0.5) * 2
             
+            # Използваме 0.6 threshold за consistency
+            predicted_outcome = 'Yes' if ensemble_prob >= 0.6 else 'No'
+            
             return {
                 'prob_yes': ensemble_prob,
                 'prob_no': 1 - ensemble_prob,
-                'predicted_outcome': 'Yes' if ensemble_prob > 0.5 else 'No',
+                'predicted_outcome': predicted_outcome,
                 'confidence': confidence,
                 'confidence_level': 'Medium' if confidence > 0.3 else 'Low',
-                'model_source': 'standard_btts',
-                'threshold_recommendation': 0.5,
-                'features_used': len(btts_features)
+                'model_source': model_source,
+                'threshold_recommendation': 0.6,
+                'features_used': len(btts_features) if btts_features else 0
             }
             
         except Exception as e:
-            self.logger.error(f"Грешка и в стандартния BTTS: {e}")
+            self.logger.error(f"Грешка и в стандартния BTTS: {e}, използвам default стойности")
             return {
                 'prob_yes': 0.5,
                 'prob_no': 0.5,
-                'predicted_outcome': 'Unknown',
+                'predicted_outcome': 'No',  # Conservative default with 0.6 threshold
                 'confidence': 0.0,
-                'confidence_level': 'Low',
-                'model_source': 'fallback',
-                'threshold_recommendation': 0.5,
+                'confidence_level': 'Very Low',
+                'model_source': 'error_fallback',
+                'threshold_recommendation': 0.6,
                 'features_used': 0
             }
     
@@ -956,7 +1642,557 @@ class PredictionService:
             'num_teams': len(self.elo_ratings),
             'team_resolver_loaded': self.team_resolver is not None,
             'improved_btts_loaded': self.improved_btts_model is not None,
-            'btts_features_available': len(self.feature_lists.get('btts_improved', []))
+            'btts_features_available': len(self.feature_lists.get('btts', []))
+        }
+
+
+    def predict_league_round(self, league_slug: str) -> Dict:
+        """
+        Predict all matches in the next round for a specific league
+        
+        Args:
+            league_slug: League identifier (e.g., '2025-26-english-premier-league')
+            
+        Returns:
+            Dict: Complete round predictions with structure:
+                {
+                    "league": league_slug,
+                    "round": detected_round,
+                    "round_date": "2025-11-22",
+                    "total_matches": 10,
+                    "matches": [
+                        {
+                            "home_team": "...",
+                            "away_team": "...", 
+                            "date": "2025-11-22T15:00:00Z",
+                            "predictions": {
+                                "1x2": {...},
+                                "ou25": {...},
+                                "btts": {...}
+                            }
+                        }
+                    ]
+                }
+        """
+        try:
+            self.logger.info(f"🎯 Predicting next round for league: {league_slug}")
+            
+            # Import fixtures loader
+            from core.fixtures_loader import FixturesLoader
+            
+            # Load next round fixtures
+            fixtures_loader = FixturesLoader()
+            fixtures_df = fixtures_loader.get_next_round(league_slug)
+            
+            if fixtures_df.empty:
+                self.logger.warning(f"⚠️  No fixtures found for league: {league_slug}")
+                return {
+                    "league": league_slug,
+                    "round": None,
+                    "round_date": None,
+                    "total_matches": 0,
+                    "matches": [],
+                    "error": "No upcoming fixtures found for this league"
+                }
+            
+            # Extract round information
+            round_date = fixtures_df.iloc[0]['round_date']
+            round_date_str = round_date.strftime('%Y-%m-%d') if round_date else None
+            
+            # Predict each match
+            match_predictions = []
+            successful_predictions = 0
+            
+            for _, fixture in fixtures_df.iterrows():
+                try:
+                    # Map ESPN league slug to our system's league name
+                    our_league_name = self._map_espn_league_to_our_system(league_slug)
+                    
+                    # Make prediction using existing predict method
+                    prediction = self.predict(
+                        home_team=fixture['home_team'],
+                        away_team=fixture['away_team'],
+                        league=our_league_name
+                    )
+                    
+                    # Structure the match prediction
+                    match_prediction = {
+                        "home_team": fixture['home_team'],
+                        "away_team": fixture['away_team'],
+                        "date": fixture['date'].isoformat(),
+                        "event_id": fixture.get('event_id'),
+                        "predictions": {
+                            "1x2": prediction['prediction_1x2'],
+                            "ou25": prediction['prediction_ou25'],
+                            "btts": prediction['prediction_btts']
+                        },
+                        "confidence": {
+                            "overall": prediction.get('confidence', 0.5),
+                            "fii_score": prediction.get('fii_score', 0.5)
+                        }
+                    }
+                    
+                    match_predictions.append(match_prediction)
+                    successful_predictions += 1
+                    
+                    self.logger.debug(f"✅ Predicted: {fixture['home_team']} vs {fixture['away_team']}")
+                    
+                except Exception as e:
+                    self.logger.error(f"❌ Failed to predict {fixture['home_team']} vs {fixture['away_team']}: {e}")
+                    
+                    # Add failed prediction with error info
+                    match_predictions.append({
+                        "home_team": fixture['home_team'],
+                        "away_team": fixture['away_team'],
+                        "date": fixture['date'].isoformat(),
+                        "event_id": fixture.get('event_id'),
+                        "error": str(e),
+                        "predictions": None
+                    })
+            
+            # Build final result
+            result = {
+                "league": league_slug,
+                "round": f"Round {round_date_str}" if round_date_str else "Next Round",
+                "round_date": round_date_str,
+                "total_matches": len(fixtures_df),
+                "successful_predictions": successful_predictions,
+                "failed_predictions": len(fixtures_df) - successful_predictions,
+                "matches": match_predictions,
+                "generated_at": pd.Timestamp.now(tz='UTC').isoformat()
+            }
+            
+            return result
+            
+        except Exception as e:
+            self.logger.error(f"❌ Error in next round prediction: {e}")
+            raise
+    
+    def _map_espn_league_to_our_system(self, espn_league_slug: str) -> str:
+        """
+        Map ESPN league slug to our system's league names
+        
+        Args:
+            espn_league_slug: ESPN league identifier
+            
+        Returns:
+            str: Our system's league name
+        """
+        mapping = {
+            '2025-26-english-premier-league': 'Premier League',
+            '2025-26-laliga': 'La Liga',
+            '2025-26-italian-serie-a': 'Serie A', 
+            '2025-26-german-bundesliga': 'Bundesliga',
+            '2025-26-ligue-1': 'Ligue 1',
+            '2025-26-portuguese-primeira-liga': 'Primeira Liga',
+            '2025-26-dutch-eredivisie': 'Eredivisie',
+            '2025-26-english-championship': 'Championship'
+        }
+        
+        return mapping.get(espn_league_slug, 'Premier League')  # Default fallback
+    
+    def _predict_1x2_v2(self, home_team: str, away_team: str, league: str = None) -> Dict:
+        """
+        1X2 v2 prediction using per-league binary models + Poisson v2 + calibration
+        
+        Args:
+            home_team: Home team name
+            away_team: Away team name
+            league: League name
+            
+        Returns:
+            Dictionary with 1X2 v2 predictions
+        """
+        if not self.x1x2_v2_enabled:
+            self.logger.warning("1X2 v2 е изключен, използвам fallback")
+            return self._predict_1x2_fallback(home_team, away_team, league)
+        
+        try:
+            self.logger.info(f"🎯 1X2 v2 prediction: {home_team} vs {away_team}")
+            
+            # Determine league slug
+            from core.league_utils import get_league_slug
+            league_slug = get_league_slug(league) if league else None
+            
+            # Get appropriate models (per-league or global fallback)
+            models_info = self._get_1x2_v2_models_for_league(league_slug)
+            if not models_info:
+                self.logger.warning(f"⚠️ Няма 1X2 v2 модели за {league_slug}, използвам fallback")
+                return self._predict_1x2_fallback(home_team, away_team, league)
+            
+            binary_models = models_info['models']
+            feature_list = models_info['feature_list']
+            calibrator = models_info.get('calibrator')
+            
+            # Create features
+            features = self._create_1x2_v2_features(home_team, away_team, league)
+            
+            # Align features with model expectations
+            feature_vector = self._align_1x2_v2_features(features, feature_list)
+            
+            # Get predictions from 3 binary models
+            pred_homewin = binary_models['homewin'].predict_proba(feature_vector.reshape(1, -1))[0, 1]
+            pred_draw = binary_models['draw'].predict_proba(feature_vector.reshape(1, -1))[0, 1]
+            pred_awaywin = binary_models['awaywin'].predict_proba(feature_vector.reshape(1, -1))[0, 1]
+            
+            # Combine and normalize ML predictions
+            ml_predictions = np.array([pred_homewin, pred_draw, pred_awaywin])
+            ml_predictions = ml_predictions / np.sum(ml_predictions)
+            
+            # Get Poisson v2 predictions
+            poisson_predictions = self._get_poisson_v2_predictions(home_team, away_team, league_slug)
+            
+            # Combine ML and Poisson predictions
+            ml_weight = 0.7  # Can be made configurable
+            poisson_weight = 0.3
+            
+            combined_predictions = (ml_weight * ml_predictions + 
+                                  poisson_weight * poisson_predictions)
+            combined_predictions = combined_predictions / np.sum(combined_predictions)
+            
+            # Check if hybrid prediction should be used
+            if self.hybrid_enabled and self.hybrid_predictor:
+                try:
+                    # Create features DataFrame for hybrid predictor
+                    features_df = pd.DataFrame([features])
+                    
+                    context = {
+                        'home_team': home_team,
+                        'away_team': away_team,
+                        'league': league,
+                        'home_team_id': features.get('home_team_id'),
+                        'away_team_id': features.get('away_team_id')
+                    }
+                    
+                    # Get hybrid prediction
+                    hybrid_result = self.hybrid_predictor.predict_hybrid_1x2(features_df, context)
+                    
+                    # Return hybrid result with additional metadata
+                    return {
+                        'prob_home_win': hybrid_result['prob_home_win'],
+                        'prob_draw': hybrid_result['prob_draw'],
+                        'prob_away_win': hybrid_result['prob_away_win'],
+                        'predicted_outcome': hybrid_result['predicted_outcome'],
+                        'confidence': hybrid_result['confidence'],
+                        'model_version': '1x2_hybrid_v1',
+                        'league_used': league or 'default',
+                        'using_hybrid': True,
+                        'hybrid_sources': hybrid_result.get('sources_used', {}),
+                        'calibrated': hybrid_result.get('calibrated', False),
+                        'components': hybrid_result.get('components', {}),
+                        'weights_used': hybrid_result.get('weights_used', {}),
+                        'timestamp': hybrid_result.get('timestamp')
+                    }
+                    
+                except Exception as e:
+                    self.logger.warning(f"⚠️ Hybrid prediction failed, using ML v2: {e}")
+                    # Continue with ML v2 prediction below
+            
+            # Apply calibration if available
+            if calibrator:
+                # Convert to logits for calibration
+                logits = np.log(np.clip(combined_predictions, 1e-15, 1.0))
+                calibrated_predictions = calibrator.predict_proba(
+                    combined_predictions.reshape(1, -1), 
+                    logits.reshape(1, -1)
+                )[0]
+            else:
+                calibrated_predictions = combined_predictions
+            
+            # Ensure probabilities sum to 1
+            calibrated_predictions = calibrated_predictions / np.sum(calibrated_predictions)
+            
+            # Determine predicted outcome
+            predicted_class = np.argmax(calibrated_predictions)
+            outcome_map = {0: '1', 1: 'X', 2: '2'}
+            predicted_outcome = outcome_map[predicted_class]
+            
+            # Calculate confidence
+            max_prob = np.max(calibrated_predictions)
+            confidence = max_prob
+            
+            result = {
+                'prob_home_win': float(calibrated_predictions[0]),
+                'prob_draw': float(calibrated_predictions[1]),
+                'prob_away_win': float(calibrated_predictions[2]),
+                'predicted_outcome': predicted_outcome,
+                'confidence': float(confidence),
+                'model_version': '1x2_v2',
+                'league_used': league_slug or 'global',
+                'using_hybrid': False,
+                'ml_predictions': {
+                    'home': float(ml_predictions[0]),
+                    'draw': float(ml_predictions[1]),
+                    'away': float(ml_predictions[2])
+                },
+                'poisson_predictions': {
+                    'home': float(poisson_predictions[0]),
+                    'draw': float(poisson_predictions[1]),
+                    'away': float(poisson_predictions[2])
+                },
+                'calibrated': calibrator is not None
+            }
+            
+            self.logger.info(f"✅ 1X2 v2: {predicted_outcome} ({confidence:.3f} confidence)")
+            return result
+            
+        except Exception as e:
+            self.logger.error(f"❌ Грешка в 1X2 v2 prediction: {e}")
+            return self._predict_1x2_fallback(home_team, away_team, league)
+    
+    def _get_1x2_v2_models_for_league(self, league_slug: str = None) -> Dict:
+        """Get 1X2 v2 models for league with fallback to global"""
+        if league_slug and league_slug in self.x1x2_v2_models:
+            models_info = self.x1x2_v2_models[league_slug].copy()
+            models_info['calibrator'] = self.x1x2_v2_calibrators.get(league_slug)
+            return models_info
+        elif 'global' in self.x1x2_v2_models:
+            models_info = self.x1x2_v2_models['global'].copy()
+            models_info['calibrator'] = self.x1x2_v2_calibrators.get('global')
+            return models_info
+        else:
+            return None
+    
+    def _create_1x2_v2_features(self, home_team: str, away_team: str, league: str) -> Dict:
+        """Create features for 1X2 v2 prediction"""
+        try:
+            # Load historical data for feature creation
+            from core.data_loader import ESPNDataLoader
+            data_loader = ESPNDataLoader()
+            df = data_loader.load_fixtures()
+            
+            if df is None or df.empty:
+                self.logger.warning("⚠️ Няма исторически данни за features")
+                return {}
+            
+            # Create 1X2-specific features
+            features = self.features_1x2.create_1x2_features(
+                home_team, away_team, league, df, datetime.now()
+            )
+            
+            # Add standard features (simplified)
+            standard_features = {
+                'home_team_basic': hash(home_team) % 10000,
+                'away_team_basic': hash(away_team) % 10000,
+                'league_basic': hash(league) % 100 if league else 0
+            }
+            
+            # Combine features
+            combined_features = {**standard_features, **features}
+            
+            return combined_features
+            
+        except Exception as e:
+            self.logger.error(f"❌ Грешка при създаване на 1X2 v2 features: {e}")
+            return {}
+    
+    def _align_1x2_v2_features(self, features: Dict, feature_list: List[str]) -> np.ndarray:
+        """Align features with model expectations"""
+        try:
+            feature_vector = []
+            
+            for feature_name in feature_list:
+                if feature_name in features:
+                    value = features[feature_name]
+                    # Handle non-numeric values
+                    if isinstance(value, (int, float)) and not np.isnan(value):
+                        feature_vector.append(float(value))
+                    else:
+                        feature_vector.append(0.0)
+                else:
+                    feature_vector.append(0.0)  # Default value for missing features
+            
+            return np.array(feature_vector)
+            
+        except Exception as e:
+            self.logger.error(f"❌ Грешка при align на features: {e}")
+            return np.zeros(len(feature_list))
+    
+    def _get_poisson_v2_predictions(self, home_team: str, away_team: str, 
+                                   league_slug: str = None) -> np.ndarray:
+        """Get Poisson v2 predictions"""
+        try:
+            # Get appropriate Poisson v2 model
+            if league_slug and league_slug in self.poisson_v2_models:
+                poisson_model = self.poisson_v2_models[league_slug]
+            elif 'global' in self.poisson_v2_models:
+                poisson_model = self.poisson_v2_models['global']
+            else:
+                # Fallback to default probabilities
+                self.logger.warning("⚠️ Няма Poisson v2 модел, използвам default")
+                return np.array([0.45, 0.25, 0.30])  # Default home/draw/away
+            
+            # Get Poisson prediction
+            prediction = poisson_model.predict_match(home_team, away_team, league_slug)
+            
+            return np.array([
+                prediction['poisson_p_home'],
+                prediction['poisson_p_draw'],
+                prediction['poisson_p_away']
+            ])
+            
+        except Exception as e:
+            self.logger.error(f"❌ Грешка в Poisson v2 prediction: {e}")
+            return np.array([0.45, 0.25, 0.30])  # Default fallback
+    
+    def _predict_1x2_fallback(self, home_team: str, away_team: str, league: str = None) -> Dict:
+        """Fallback 1X2 prediction using existing models"""
+        try:
+            # Use existing 1X2 prediction logic as fallback
+            # This would call the original predict method's 1X2 logic
+            self.logger.info("🔄 Using 1X2 fallback prediction")
+            
+            # Simplified fallback - in practice this would use existing models
+            return {
+                'prob_home_win': 0.45,
+                'prob_draw': 0.25,
+                'prob_away_win': 0.30,
+                'predicted_outcome': '1',
+                'confidence': 0.45,
+                'model_version': '1x2_fallback',
+                'league_used': 'fallback'
+            }
+            
+        except Exception as e:
+            self.logger.error(f"❌ Грешка в 1X2 fallback: {e}")
+            return {
+                'prob_home_win': 0.33,
+                'prob_draw': 0.34,
+                'prob_away_win': 0.33,
+                'predicted_outcome': 'X',
+                'confidence': 0.34,
+                'model_version': '1x2_default',
+                'league_used': 'default'
+            }
+    
+    def predict_draw_specialist(self, home_team: str, away_team: str, 
+                              league: str = None) -> Dict[str, any]:
+        """
+        Predict draw probability using specialized draw model
+        
+        ADDITIVE method - does not modify existing 1X2 prediction logic.
+        Provides enhanced draw probability estimation.
+        
+        Args:
+            home_team: Home team name
+            away_team: Away team name
+            league: League name (optional)
+            
+        Returns:
+            Dictionary with draw specialist prediction
+        """
+        try:
+            self.logger.info(f"🎯 Draw specialist prediction: {home_team} vs {away_team}")
+            
+            # Load draw predictor (lazy loading)
+            if not hasattr(self, 'draw_predictor'):
+                try:
+                    from core.draw_predictor import DrawPredictor
+                    self.draw_predictor = DrawPredictor()
+                    self.logger.info("✅ Draw predictor loaded")
+                except Exception as e:
+                    self.logger.warning(f"⚠️ Could not load draw predictor: {e}")
+                    self.draw_predictor = None
+            
+            # Get historical data for features
+            from core.data_loader import ESPNDataLoader
+            data_loader = ESPNDataLoader()
+            df = data_loader.load_fixtures()
+            
+            if df is None or df.empty:
+                self.logger.warning("⚠️ No historical data for draw prediction")
+                return self._draw_specialist_fallback(home_team, away_team, league)
+            
+            # Add required columns
+            df['league'] = df['league_id'].astype(str) if 'league_id' in df.columns else 'unknown'
+            df['home_team'] = df['home_team_id'].astype(str) if 'home_team_id' in df.columns else 'unknown'
+            df['away_team'] = df['away_team_id'].astype(str) if 'away_team_id' in df.columns else 'unknown'
+            
+            # Get existing 1X2 prediction for ML draw probability
+            existing_prediction = None
+            p_ml_draw = None
+            p_poisson_draw = None
+            
+            try:
+                existing_prediction = self.predict(home_team, away_team, league)
+                if existing_prediction and 'prediction_1x2' in existing_prediction:
+                    p_ml_draw = existing_prediction['prediction_1x2'].get('prob_draw', 0.25)
+                    # Try to get Poisson draw probability if available
+                    p_poisson_draw = existing_prediction['prediction_1x2'].get('poisson_p_draw', 0.25)
+            except Exception as e:
+                self.logger.warning(f"⚠️ Could not get existing 1X2 prediction: {e}")
+            
+            # Use draw predictor if available
+            if self.draw_predictor:
+                draw_result = self.draw_predictor.predict_draw_probability(
+                    home_team=home_team,
+                    away_team=away_team,
+                    league=league or 'unknown',
+                    df=df,
+                    reference_date=datetime.now(),
+                    p_ml_draw=p_ml_draw,
+                    p_poisson_draw=p_poisson_draw
+                )
+                
+                # Enhance with existing prediction context
+                if existing_prediction:
+                    draw_result['enhanced_1x2_prediction'] = {
+                        'original_draw_prob': p_ml_draw,
+                        'enhanced_draw_prob': draw_result['draw_probability'],
+                        'improvement': draw_result['draw_probability'] - (p_ml_draw or 0.25),
+                        'other_probs': {
+                            'prob_home_win': existing_prediction['prediction_1x2'].get('prob_home_win', 0.33),
+                            'prob_away_win': existing_prediction['prediction_1x2'].get('prob_away_win', 0.33)
+                        }
+                    }
+                
+                return draw_result
+            else:
+                return self._draw_specialist_fallback(home_team, away_team, league, p_ml_draw)
+                
+        except Exception as e:
+            self.logger.error(f"❌ Error in draw specialist prediction: {e}")
+            return self._draw_specialist_fallback(home_team, away_team, league)
+    
+    def _draw_specialist_fallback(self, home_team: str, away_team: str, 
+                                league: str = None, p_ml_draw: float = None) -> Dict[str, any]:
+        """
+        Fallback prediction when draw specialist fails
+        
+        Args:
+            home_team: Home team name
+            away_team: Away team name
+            league: League name
+            p_ml_draw: ML draw probability if available
+            
+        Returns:
+            Fallback draw prediction
+        """
+        fallback_prob = p_ml_draw if p_ml_draw is not None else 0.25
+        
+        return {
+            'draw_probability': fallback_prob,
+            'confidence': 0.3,  # Low confidence for fallback
+            'components': {
+                'draw_model': 0.25,
+                'ml_1x2': fallback_prob,
+                'poisson': 0.25,
+                'league_prior': 0.25
+            },
+            'weights_used': {
+                'draw_model': 0.0,
+                'ml_1x2': 1.0,
+                'poisson': 0.0,
+                'league_prior': 0.0
+            },
+            'model_version': 'draw_specialist_fallback',
+            'is_model_loaded': False,
+            'fallback_reason': 'Draw specialist model not available',
+            'match_info': {
+                'home_team': home_team,
+                'away_team': away_team,
+                'league': league
+            }
         }
 
 

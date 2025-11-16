@@ -1,0 +1,8 @@
+{
+  "league": "eredivisie",
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:21:16",
+  "total_matches": 615,
+  "decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

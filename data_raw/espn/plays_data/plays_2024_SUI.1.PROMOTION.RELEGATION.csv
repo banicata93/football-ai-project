@@ -1,0 +1,58 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+13377,735925,1,45326795,70,Lee Young-Jun (Grasshoppers) Goal at 14',Lee Young-Jun Goal,1,840,14',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,362197,Lee Young-Jun,2025-05-28 04:50:34
+13377,735925,2,45326796,76,Pascal Schürpf (Grasshoppers) Substitution at 27',Pascal Schürpf Substitution,1,1620,27',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,126518,Pascal Schürpf,2025-05-28 04:50:34
+13377,735925,2,45326796,76,Pascal Schürpf (Grasshoppers) Substitution at 27',Pascal Schürpf Substitution,1,1620,27',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,362197,Lee Young-Jun,2025-05-28 04:50:34
+13377,735925,3,45326797,94,Nikola Gjorgjev (FC Aarau) Yellow Card at 40',Nikola Gjorgjev Yellow Card,1,2400,40',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219675,Nikola Gjorgjev,2025-05-28 04:50:34
+13377,735925,4,45326798,70,Pascal Schürpf (Grasshoppers) Goal at 41',Pascal Schürpf Goal,1,2460,41',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,126518,Pascal Schürpf,2025-05-28 04:50:34
+13377,735925,5,45326803,94,Tomás Verón Lupi (Grasshoppers) Yellow Card at 49',Tomás Verón Lupi Yellow Card,2,2940,49',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,278517,Tomás Verón Lupi,2025-05-28 04:50:34
+13377,735925,6,45326806,76,Nestory Irankunda (Grasshoppers) Substitution at 64',Nestory Irankunda Substitution,2,3840,64',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328535,Nestory Irankunda,2025-05-28 04:50:34
+13377,735925,6,45326806,76,Nestory Irankunda (Grasshoppers) Substitution at 64',Nestory Irankunda Substitution,2,3840,64',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,126518,Pascal Schürpf,2025-05-28 04:50:34
+13377,735925,7,45326811,76,Sofian Bahloul (FC Aarau) Substitution at 72',Sofian Bahloul Substitution,2,4320,72',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,380113,Sofian Bahloul,2025-05-28 04:50:34
+13377,735925,7,45326811,76,Sofian Bahloul (FC Aarau) Substitution at 72',Sofian Bahloul Substitution,2,4320,72',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,303838,Henri Koide,2025-05-28 04:50:34
+13377,735925,8,45326812,76,Olivier Jäckle (FC Aarau) Substitution at 73',Olivier Jäckle Substitution,2,4380,73',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288931,Olivier Jäckle,2025-05-28 04:50:34
+13377,735925,8,45326812,76,Olivier Jäckle (FC Aarau) Substitution at 73',Olivier Jäckle Substitution,2,4380,73',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333318,Emmanuel Essiam,2025-05-28 04:50:34
+13377,735925,9,45326813,94,Manuel Kuttin (Grasshoppers) Yellow Card at 76',Manuel Kuttin Yellow Card,2,4560,76',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,201375,Manuel Kuttin,2025-05-28 04:50:34
+13377,735925,10,45326816,70,Nikolas Muci (Grasshoppers) Goal at 79',Nikolas Muci Goal,2,4740,79',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,317872,Nikolas Muci,2025-05-28 04:50:34
+13377,735925,11,45326817,76,Raúl Bobadilla (FC Aarau) Substitution at 80',Raúl Bobadilla Substitution,2,4800,80',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,105233,Raúl Bobadilla,2025-05-28 04:50:34
+13377,735925,11,45326817,76,Raúl Bobadilla (FC Aarau) Substitution at 80',Raúl Bobadilla Substitution,2,4800,80',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,281712,Yannick Toure,2025-05-28 04:50:34
+13377,735925,12,45326818,94,Serge Muller (FC Aarau) Yellow Card at 83',Serge Muller Yellow Card,2,4980,83',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,267618,Serge Muller,2025-05-28 04:50:34
+13377,735925,13,45326819,94,David Acquah (FC Aarau) Yellow Card at 84',David Acquah Yellow Card,2,5040,84',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,403671,David Acquah,2025-05-28 04:50:34
+13377,735925,14,45326820,98,Ayumu Seko (Grasshoppers) Penalty - Scored at 86',Ayumu Seko Penalty - Scored,2,5160,86',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,258270,Ayumu Seko,2025-05-28 04:50:34
+13377,735925,15,45326822,76,Saulo Decarli (Grasshoppers) Substitution at 87',Saulo Decarli Substitution,2,5220,87',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,179391,Saulo Decarli,2025-05-28 04:50:34
+13377,735925,16,45326823,76,Leart Kabashi (Grasshoppers) Substitution at 87',Leart Kabashi Substitution,2,5220,87',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,397295,Leart Kabashi,2025-05-28 04:50:34
+13377,735925,17,45326824,76,Mathieu Choinière (Grasshoppers) Substitution at 87',Mathieu Choinière Substitution,2,5220,87',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,274296,Mathieu Choinière,2025-05-28 04:50:34
+13377,735925,15,45326822,76,Saulo Decarli (Grasshoppers) Substitution at 87',Saulo Decarli Substitution,2,5220,87',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,149845,Amir Abrashi,2025-05-28 04:50:34
+13377,735925,16,45326823,76,Leart Kabashi (Grasshoppers) Substitution at 87',Leart Kabashi Substitution,2,5220,87',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,317872,Nikolas Muci,2025-05-28 04:50:34
+13377,735925,17,45326824,76,Mathieu Choinière (Grasshoppers) Substitution at 87',Mathieu Choinière Substitution,2,5220,87',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,190599,Tim Meyer,2025-05-28 04:50:34
+13377,735925,18,45326825,76,Colin Odutayo (FC Aarau) Substitution at 88',Colin Odutayo Substitution,2,5280,88',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,296898,Colin Odutayo,2025-05-28 04:50:34
+13377,735925,19,45326826,76,Elias Filet (FC Aarau) Substitution at 88',Elias Filet Substitution,2,5280,88',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,338815,Elias Filet,2025-05-28 04:50:34
+13377,735925,19,45326826,76,Elias Filet (FC Aarau) Substitution at 88',Elias Filet Substitution,2,5280,88',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,253397,Valon Fazliu,2025-05-28 04:50:34
+13377,735925,18,45326825,76,Colin Odutayo (FC Aarau) Substitution at 88',Colin Odutayo Substitution,2,5280,88',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219675,Nikola Gjorgjev,2025-05-28 04:50:34
+13377,735926,1,45337169,94,Ayumu Seko (Grasshoppers) Yellow Card at 21',Ayumu Seko Yellow Card,1,1260,21',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,258270,Ayumu Seko,2025-05-31 04:50:33
+13377,735926,2,45337197,94,Nestory Irankunda (Grasshoppers) Yellow Card at 37',Nestory Irankunda Yellow Card,1,2220,37',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328535,Nestory Irankunda,2025-05-31 04:50:33
+13377,735926,3,45337201,76,Linus Obexer (FC Aarau) Substitution at 42',Linus Obexer Substitution,1,2520,42',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,235113,Linus Obexer,2025-05-31 04:50:33
+13377,735926,3,45337201,76,Linus Obexer (FC Aarau) Substitution at 42',Linus Obexer Substitution,1,2520,42',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,320853,Marcin Tom Dickenmann,2025-05-31 04:50:33
+13377,735926,4,45337207,94,Elias Filet (FC Aarau) Yellow Card at 47',Elias Filet Yellow Card,1,2700,45'+2',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,338815,Elias Filet,2025-05-31 04:50:33
+13377,735926,5,45337232,76,Nikola Gjorgjev (FC Aarau) Substitution at 45',Nikola Gjorgjev Substitution,2,2700,45',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219675,Nikola Gjorgjev,2025-05-31 04:50:33
+13377,735926,5,45337232,76,Nikola Gjorgjev (FC Aarau) Substitution at 45',Nikola Gjorgjev Substitution,2,2700,45',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,303838,Henri Koide,2025-05-31 04:50:33
+13377,735926,6,45337269,76,Raúl Bobadilla (FC Aarau) Substitution at 58',Raúl Bobadilla Substitution,2,3480,58',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,105233,Raúl Bobadilla,2025-05-31 04:50:33
+13377,735926,7,45337276,76,Colin Odutayo (FC Aarau) Substitution at 58',Colin Odutayo Substitution,2,3480,58',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,296898,Colin Odutayo,2025-05-31 04:50:33
+13377,735926,6,45337269,76,Raúl Bobadilla (FC Aarau) Substitution at 58',Raúl Bobadilla Substitution,2,3480,58',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,338815,Elias Filet,2025-05-31 04:50:33
+13377,735926,7,45337276,76,Colin Odutayo (FC Aarau) Substitution at 58',Colin Odutayo Substitution,2,3480,58',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,403674,Ryan Kessler,2025-05-31 04:50:33
+13377,735926,8,45337277,76,Saulo Decarli (Grasshoppers) Substitution at 60',Saulo Decarli Substitution,2,3600,60',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,179391,Saulo Decarli,2025-05-31 04:50:33
+13377,735926,8,45337277,76,Saulo Decarli (Grasshoppers) Substitution at 60',Saulo Decarli Substitution,2,3600,60',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,149845,Amir Abrashi,2025-05-31 04:50:33
+13377,735926,9,45337318,94,Nikolas Muci (Grasshoppers) Yellow Card at 78',Nikolas Muci Yellow Card,2,4680,78',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,317872,Nikolas Muci,2025-05-31 04:50:33
+13377,735926,10,45337322,76,Pascal Schürpf (Grasshoppers) Substitution at 81',Pascal Schürpf Substitution,2,4860,81',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,126518,Pascal Schürpf,2025-05-31 04:50:33
+13377,735926,11,45337325,76,Tugra Turhan (Grasshoppers) Substitution at 81',Tugra Turhan Substitution,2,4860,81',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,397221,Tugra Turhan,2025-05-31 04:50:33
+13377,735926,12,45337326,76,Sonny Kittel (Grasshoppers) Substitution at 81',Sonny Kittel Substitution,2,4860,81',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,149565,Sonny Kittel,2025-05-31 04:50:33
+13377,735926,10,45337322,76,Pascal Schürpf (Grasshoppers) Substitution at 81',Pascal Schürpf Substitution,2,4860,81',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328535,Nestory Irankunda,2025-05-31 04:50:33
+13377,735926,11,45337325,76,Tugra Turhan (Grasshoppers) Substitution at 81',Tugra Turhan Substitution,2,4860,81',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,317872,Nikolas Muci,2025-05-31 04:50:33
+13377,735926,12,45337326,76,Sonny Kittel (Grasshoppers) Substitution at 81',Sonny Kittel Substitution,2,4860,81',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,278517,Tomás Verón Lupi,2025-05-31 04:50:33
+13377,735926,13,45337327,70,Linus Obexer (FC Aarau) Goal at 82',Linus Obexer Goal,2,4920,82',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,235113,Linus Obexer,2025-05-31 04:50:33
+13377,735926,14,45337332,76,Tsiy William Ndenge (Grasshoppers) Substitution at 90',Tsiy William Ndenge Substitution,2,5400,90',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,222445,Tsiy William Ndenge,2025-05-31 04:50:33
+13377,735926,15,45337339,76,Yannick Toure (FC Aarau) Substitution at 95',Yannick Toure Substitution,2,5400,90'+5',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,281712,Yannick Toure,2025-05-31 04:50:33
+13377,735926,16,45337340,94,Benno Schmitz (Grasshoppers) Yellow Card at 100',Benno Schmitz Yellow Card,2,5400,90'+10',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,191017,Benno Schmitz,2025-05-31 04:50:33
+13377,735926,17,45337341,94,Sonny Kittel (Grasshoppers) Yellow Card at 103',Sonny Kittel Yellow Card,2,5400,90'+13',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,149565,Sonny Kittel,2025-05-31 04:50:33
+13377,735926,18,45337342,94,Linus Obexer (FC Aarau) Yellow Card at 103',Linus Obexer Yellow Card,2,5400,90'+13',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,235113,Linus Obexer,2025-05-31 04:50:33
+13377,735926,14,45337332,76,Tsiy William Ndenge (Grasshoppers) Substitution at 90',Tsiy William Ndenge Substitution,2,5400,90',492,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,179391,Saulo Decarli,2025-05-31 04:50:33
+13377,735926,15,45337339,76,Yannick Toure (FC Aarau) Substitution at 95',Yannick Toure Substitution,2,5400,90'+5',3035,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,164551,Mamadou Fofana,2025-05-31 04:50:33

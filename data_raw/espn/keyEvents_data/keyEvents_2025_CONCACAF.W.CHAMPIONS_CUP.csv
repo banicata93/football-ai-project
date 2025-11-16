@@ -1,0 +1,471 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13462,739026,1,45708947,98,1,1260,21',1,0,Rosemonde Kouassi (Washington Spirit) Penalty - Scored at 21',Rosemonde Kouassi Penalty - Scor,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,347222.0,2025-08-20 04:56:27
+13462,739026,2,45708959,70,1,1440,24',1,0,Chloe Ricketts (Washington Spirit) Goal at 24',Chloe Ricketts Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,360896.0,2025-08-20 04:56:27
+13462,739026,4,45709304,76,2,2700,45',0,0,Génesis Carpio (Alianza FC) Substitution at 45',Génesis Carpio Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,393222.0,2025-08-20 04:56:27
+13462,739026,5,45709305,76,2,2700,45',0,0,Trinity Rodman (Washington Spirit) Substitution at 45',Trinity Rodman Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,317423.0,2025-08-20 04:56:27
+13462,739026,6,45709306,76,2,2700,45',0,0,Joseline Rivas (Alianza FC) Substitution at 45',Joseline Rivas Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,340398.0,2025-08-20 04:56:27
+13462,739026,3,45709303,76,2,2700,45',0,0,Rebeca Bernal (Washington Spirit) Substitution at 45',Rebeca Bernal Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,259180.0,2025-08-20 04:56:27
+13462,739026,4,45709304,76,2,2700,45',0,0,Génesis Carpio (Alianza FC) Substitution at 45',Génesis Carpio Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,340299.0,2025-08-20 04:56:27
+13462,739026,3,45709303,76,2,2700,45',0,0,Rebeca Bernal (Washington Spirit) Substitution at 45',Rebeca Bernal Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,276099.0,2025-08-20 04:56:27
+13462,739026,6,45709306,76,2,2700,45',0,0,Joseline Rivas (Alianza FC) Substitution at 45',Joseline Rivas Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,408687.0,2025-08-20 04:56:27
+13462,739026,5,45709305,76,2,2700,45',0,0,Trinity Rodman (Washington Spirit) Substitution at 45',Trinity Rodman Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,360895.0,2025-08-20 04:56:27
+13462,739026,7,45709352,70,2,2940,49',1,0,Brittany Ratcliffe (Washington Spirit) Goal at 49',Brittany Ratcliffe Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,211049.0,2025-08-20 04:56:27
+13462,739026,8,45709376,70,2,3120,52',1,0,Rosemonde Kouassi (Washington Spirit) Goal at 52',Rosemonde Kouassi Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,347222.0,2025-08-20 04:56:27
+13462,739026,9,45709401,76,2,3240,54',0,0,Glenda Cerén (Alianza FC) Substitution at 54',Glenda Cerén Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,340294.0,2025-08-20 04:56:27
+13462,739026,9,45709401,76,2,3240,54',0,0,Glenda Cerén (Alianza FC) Substitution at 54',Glenda Cerén Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,393235.0,2025-08-20 04:56:27
+13462,739026,10,45709434,70,2,3360,56',1,0,Trinity Rodman (Washington Spirit) Goal at 56',Trinity Rodman Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,317423.0,2025-08-20 04:56:27
+13462,739026,11,45709473,76,2,3480,58',0,0,Priscila Ortiz (Alianza FC) Substitution at 58',Priscila Ortiz Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,340395.0,2025-08-20 04:56:27
+13462,739026,11,45709473,76,2,3480,58',0,0,Priscila Ortiz (Alianza FC) Substitution at 58',Priscila Ortiz Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,408690.0,2025-08-20 04:56:27
+13462,739026,12,45709479,70,2,3540,59',1,0,Rosemonde Kouassi (Washington Spirit) Goal at 59',Rosemonde Kouassi Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,347222.0,2025-08-20 04:56:27
+13462,739026,13,45709487,76,2,3720,62',0,0,Sofia Cantore (Washington Spirit) Substitution at 62',Sofia Cantore Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,317685.0,2025-08-20 04:56:27
+13462,739026,13,45709487,76,2,3720,62',0,0,Sofia Cantore (Washington Spirit) Substitution at 62',Sofia Cantore Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,347222.0,2025-08-20 04:56:27
+13462,739026,15,45709530,76,2,4380,73',0,0,Croix Bethune (Washington Spirit) Substitution at 73',Croix Bethune Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,296207.0,2025-08-20 04:56:27
+13462,739026,14,45709529,76,2,4380,73',0,0,Leicy Santos (Washington Spirit) Substitution at 73',Leicy Santos Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,219866.0,2025-08-20 04:56:27
+13462,739026,15,45709530,76,2,4380,73',0,0,Croix Bethune (Washington Spirit) Substitution at 73',Croix Bethune Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,317423.0,2025-08-20 04:56:27
+13462,739026,14,45709529,76,2,4380,73',0,0,Leicy Santos (Washington Spirit) Substitution at 73',Leicy Santos Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,360896.0,2025-08-20 04:56:27
+13462,739026,16,45709555,76,2,4440,74',0,0,Gladis Ulloa (Alianza FC) Substitution at 74',Gladis Ulloa Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,393255.0,2025-08-20 04:56:27
+13462,739026,16,45709555,76,2,4440,74',0,0,Gladis Ulloa (Alianza FC) Substitution at 74',Gladis Ulloa Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,409387.0,2025-08-20 04:56:27
+13462,739026,17,45709699,70,2,5340,89',1,0,Sofia Cantore (Washington Spirit) Goal at 89',Sofia Cantore Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,317685.0,2025-08-20 04:56:27
+13462,739027,1,45710129,70,1,1140,19',1,0,Jocelyn Orejel (Pachuca) Goal at 19',Jocelyn Orejel Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,272482.0,2025-08-20 04:56:27
+13462,739027,2,45710158,70,1,1260,21',1,0,Natalia Mauleón (Pachuca) Goal at 21',Natalia Mauleón Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,351881.0,2025-08-27 05:02:40
+13462,739027,4,45710315,76,2,2700,45',0,0,Paola García (Pachuca) Substitution at 45',Paola García Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,315353.0,2025-08-20 04:56:27
+13462,739027,3,45710314,76,2,2700,45',0,0,Chinwendu Ihezuo (Pachuca) Substitution at 45',Chinwendu Ihezuo Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,220191.0,2025-08-20 04:56:27
+13462,739027,5,45710316,76,2,2700,45',0,0,Andreas Pereira (Pachuca) Substitution at 45',Andreas Pereira Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,210143.0,2025-08-22 04:59:44
+13462,739027,3,45710314,76,2,2700,45',0,0,Chinwendu Ihezuo (Pachuca) Substitution at 45',Chinwendu Ihezuo Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,158840.0,2025-08-20 04:56:27
+13462,739027,5,45710316,76,2,2700,45',0,0,Andreas Pereira (Pachuca) Substitution at 45',Andreas Pereira Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,393165.0,2025-08-22 04:59:44
+13462,739027,4,45710315,76,2,2700,45',0,0,Paola García (Pachuca) Substitution at 45',Paola García Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,351881.0,2025-08-20 04:56:27
+13462,739027,6,45710317,70,2,3120,52',1,0,Paola García (Pachuca) Goal at 52',Paola García Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,315353.0,2025-08-20 04:56:27
+13462,739027,7,45710319,76,2,3240,54',0,0,Grace Guerra (Chorrillo FC) Substitution at 54',Grace Guerra Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408693.0,2025-08-20 04:56:27
+13462,739027,7,45710319,76,2,3240,54',0,0,Grace Guerra (Chorrillo FC) Substitution at 54',Grace Guerra Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,340429.0,2025-08-20 04:56:27
+13462,739027,8,45710320,76,2,3300,55',0,0,Yamileth Palacio (Chorrillo FC) Substitution at 55',Yamileth Palacio Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,380699.0,2025-08-20 04:56:27
+13462,739027,9,45710321,94,2,3300,55',0,0,Yasselis Magallón (Chorrillo FC) Yellow Card at 55',Yasselis Magallón Yellow Card,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,393232.0,2025-08-20 04:56:27
+13462,739027,8,45710320,76,2,3300,55',0,0,Yamileth Palacio (Chorrillo FC) Substitution at 55',Yamileth Palacio Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,408706.0,2025-08-20 04:56:27
+13462,739027,10,45710325,76,2,3960,66',0,0,Selene Valera (Pachuca) Substitution at 66',Selene Valera Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,408719.0,2025-08-20 04:56:27
+13462,739027,10,45710325,76,2,3960,66',0,0,Selene Valera (Pachuca) Substitution at 66',Selene Valera Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,310926.0,2025-08-20 04:56:27
+13462,739027,11,45710328,70,2,4080,68',1,0,Chinwendu Ihezuo (Pachuca) Goal at 68',Chinwendu Ihezuo Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,220191.0,2025-08-20 04:56:27
+13462,739027,12,45710330,76,2,4140,69',0,0,Shaday Mow (Chorrillo FC) Substitution at 69',Shaday Mow Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408713.0,2025-08-20 04:56:27
+13462,739027,12,45710330,76,2,4140,69',0,0,Shaday Mow (Chorrillo FC) Substitution at 69',Shaday Mow Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,393232.0,2025-08-20 04:56:27
+13462,739027,13,45710331,76,2,4200,70',0,0,Nayeli Díaz (Pachuca) Substitution at 70',Nayeli Díaz Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,320220.0,2025-08-20 04:56:27
+13462,739027,13,45710331,76,2,4200,70',0,0,Nayeli Díaz (Pachuca) Substitution at 70',Nayeli Díaz Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,328242.0,2025-08-20 04:56:27
+13462,739027,14,45710336,76,2,4620,77',0,0,Anaí Robles (Chorrillo FC) Substitution at 77',Anaí Robles Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408710.0,2025-08-20 04:56:27
+13462,739027,14,45710336,76,2,4620,77',0,0,Anaí Robles (Chorrillo FC) Substitution at 77',Anaí Robles Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,340431.0,2025-08-20 04:56:27
+13462,739027,15,45710337,76,2,4680,78',0,0,Kayra Pérez (Chorrillo FC) Substitution at 78',Kayra Pérez Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408709.0,2025-08-20 04:56:27
+13462,739027,15,45710337,76,2,4680,78',0,0,Kayra Pérez (Chorrillo FC) Substitution at 78',Kayra Pérez Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,302493.0,2025-08-20 04:56:27
+13462,739027,16,45710339,70,2,4980,83',1,0,Nina Nicosia (Pachuca) Goal at 83',Nina Nicosia Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,325905.0,2025-08-20 04:56:27
+13462,739027,17,45710341,70,2,5160,86',1,0,Nina Nicosia (Pachuca) Goal at 86',Nina Nicosia Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,325905.0,2025-08-20 04:56:27
+13462,739028,1,45714548,70,1,360,6',1,0,Bruninha (Gotham FC) Goal at 6',Bruninha Goal,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,328199.0,2025-08-22 04:59:44
+13462,739028,2,45714668,70,1,1440,24',1,0,Khyah Harper (Gotham FC) Goal at 24',Khyah Harper Goal,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,348028.0,2025-08-21 04:57:07
+13462,739028,3,45714717,70,1,1920,32',1,0,Marcela Restrepo (Monterrey) Goal at 32',Marcela Restrepo Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,288683.0,2025-08-21 04:57:07
+13462,739028,4,45714921,76,2,2700,45',0,0,Esther González (Gotham FC) Substitution at 45',Esther González Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,259791.0,2025-08-21 04:57:07
+13462,739028,5,45714922,76,2,2700,45',0,0,Jessica Carter (Gotham FC) Substitution at 45',Jessica Carter Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,255453.0,2025-08-21 04:57:07
+13462,739028,4,45714921,76,2,2700,45',0,0,Esther González (Gotham FC) Substitution at 45',Esther González Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,290269.0,2025-08-21 04:57:07
+13462,739028,5,45714922,76,2,2700,45',0,0,Jessica Carter (Gotham FC) Substitution at 45',Jessica Carter Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,211034.0,2025-08-21 04:57:07
+13462,739028,6,45714955,76,2,3660,61',0,0,Gabi Portilho (Gotham FC) Substitution at 61',Gabi Portilho Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,339855.0,2025-08-21 04:57:07
+13462,739028,6,45714955,76,2,3660,61',0,0,Gabi Portilho (Gotham FC) Substitution at 61',Gabi Portilho Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,268325.0,2025-08-21 04:57:07
+13462,739028,7,45714998,76,2,4080,68',0,0,Jermaine Seoposenwe (Monterrey) Substitution at 68',Jermaine Seoposenwe Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,176035.0,2025-08-21 04:57:07
+13462,739028,7,45714998,76,2,4080,68',0,0,Jermaine Seoposenwe (Monterrey) Substitution at 68',Jermaine Seoposenwe Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,259620.0,2025-08-21 04:57:07
+13462,739028,9,45715028,76,2,4260,71',0,0,Katty Martínez (Monterrey) Substitution at 71',Katty Martínez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,287339.0,2025-08-21 04:57:07
+13462,739028,8,45715027,76,2,4260,71',0,0,Nicole Pérez (Monterrey) Substitution at 71',Nicole Pérez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,314323.0,2025-08-21 04:57:07
+13462,739028,8,45715027,76,2,4260,71',0,0,Nicole Pérez (Monterrey) Substitution at 71',Nicole Pérez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,344414.0,2025-08-21 04:57:07
+13462,739028,9,45715028,76,2,4260,71',0,0,Katty Martínez (Monterrey) Substitution at 71',Katty Martínez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,364526.0,2025-08-21 04:57:07
+13462,739028,10,45715048,94,2,4380,73',0,0,Jermaine Seoposenwe (Monterrey) Yellow Card at 73',Jermaine Seoposenwe Yellow Card,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,176035.0,2025-08-21 04:57:07
+13462,739028,12,45715178,76,2,5220,87',0,0,Mandy Freeman (Gotham FC) Substitution at 87',Mandy Freeman Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,245160.0,2025-08-21 04:57:07
+13462,739028,11,45715151,76,2,5220,87',0,0,Allison Veloz (Monterrey) Substitution at 87',Allison Veloz Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,408680.0,2025-08-21 04:57:07
+13462,739028,12,45715178,76,2,5220,87',0,0,Mandy Freeman (Gotham FC) Substitution at 87',Mandy Freeman Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,348028.0,2025-08-21 04:57:07
+13462,739028,11,45715151,76,2,5220,87',0,0,Allison Veloz (Monterrey) Substitution at 87',Allison Veloz Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,288683.0,2025-08-21 04:57:07
+13462,739028,13,45715197,76,2,5400,90',0,0,Mak Whitham (Gotham FC) Substitution at 90',Mak Whitham Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,388168.0,2025-08-21 04:57:07
+13462,739028,13,45715197,76,2,5400,90',0,0,Mak Whitham (Gotham FC) Substitution at 90',Mak Whitham Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,349338.0,2025-08-21 04:57:07
+13462,739029,1,45716108,94,1,960,16',0,0,Marilenis Oporta (Alajuelense) Yellow Card at 16',Marilenis Oporta Yellow Card,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,349428.0,2025-08-21 04:57:07
+13462,739029,2,45716333,94,1,2400,40',0,0,Scarlett Camberos (América) Yellow Card at 40',Scarlett Camberos Yellow Card,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,292838.0,2025-08-21 04:57:07
+13462,739029,3,45716340,94,1,2520,42',0,0,Gabriela Guillen (Alajuelense) Yellow Card at 42',Gabriela Guillen Yellow Card,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,219878.0,2025-08-21 04:57:07
+13462,739029,4,45716499,76,2,3360,56',0,0,Bruna Vilamala (América) Substitution at 56',Bruna Vilamala Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,305984.0,2025-08-21 04:57:07
+13462,739029,4,45716499,76,2,3360,56',0,0,Bruna Vilamala (América) Substitution at 56',Bruna Vilamala Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,292838.0,2025-08-21 04:57:07
+13462,739029,5,45716501,76,2,3420,57',0,0,Annie Karich (América) Substitution at 57',Annie Karich Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,348546.0,2025-08-21 04:57:07
+13462,739029,6,45716502,76,2,3420,57',0,0,Yeslim Alvarado (Alajuelense) Substitution at 57',Yeslim Alvarado Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,408685.0,2025-08-21 04:57:07
+13462,739029,5,45716501,76,2,3420,57',0,0,Annie Karich (América) Substitution at 57',Annie Karich Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,259182.0,2025-08-21 04:57:07
+13462,739029,6,45716502,76,2,3420,57',0,0,Yeslim Alvarado (Alajuelense) Substitution at 57',Yeslim Alvarado Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,349427.0,2025-08-21 04:57:07
+13462,739029,7,45716536,76,2,4140,69',0,0,Alexandra Pinell (Alajuelense) Substitution at 69',Alexandra Pinell Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,349425.0,2025-08-21 04:57:07
+13462,739029,7,45716536,76,2,4140,69',0,0,Alexandra Pinell (Alajuelense) Substitution at 69',Alexandra Pinell Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,298753.0,2025-08-21 04:57:07
+13462,739029,8,45716537,76,2,4200,70',0,0,Yoanka Villanueva (Alajuelense) Substitution at 70',Yoanka Villanueva Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,354442.0,2025-08-21 04:57:07
+13462,739029,8,45716537,76,2,4200,70',0,0,Yoanka Villanueva (Alajuelense) Substitution at 70',Yoanka Villanueva Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,386985.0,2025-08-21 04:57:07
+13462,739029,9,45716558,76,2,4800,80',0,0,Angela Quirós (Alajuelense) Substitution at 80',Angela Quirós Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,372670.0,2025-08-21 04:57:07
+13462,739029,9,45716558,76,2,4800,80',0,0,Angela Quirós (Alajuelense) Substitution at 80',Angela Quirós Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,272318.0,2025-08-21 04:57:07
+13462,739029,10,45716571,76,2,5160,86',0,0,Ana Paula (América) Substitution at 86',Ana Paula Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,403630.0,2025-08-21 04:57:07
+13462,739029,10,45716571,76,2,5160,86',0,0,Ana Paula (América) Substitution at 86',Ana Paula Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,278289.0,2025-08-21 04:57:07
+13462,739030,1,45823236,76,2,2700,45',0,0,Carson Pickett (Orlando Pride) Substitution at 45',Carson Pickett Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,211615.0,2025-09-03 05:11:26
+13462,739030,1,45823236,76,2,2700,45',0,0,Carson Pickett (Orlando Pride) Substitution at 45',Carson Pickett Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,351425.0,2025-09-03 05:11:26
+13462,739030,2,45823243,70,2,2940,49',1,0,Julie Doyle (Orlando Pride) Goal at 49',Julie Doyle Goal,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,279438.0,2025-09-03 05:11:26
+13462,739030,3,45823256,76,2,3240,54',0,0,Yoanka Villanueva (Alajuelense) Substitution at 54',Yoanka Villanueva Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,354442.0,2025-09-03 05:11:26
+13462,739030,3,45823256,76,2,3240,54',0,0,Yoanka Villanueva (Alajuelense) Substitution at 54',Yoanka Villanueva Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,349427.0,2025-09-03 05:11:26
+13462,739030,4,45823265,76,2,3480,58',0,0,Sianyf Agüero (Alajuelense) Substitution at 58',Sianyf Agüero Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,386985.0,2025-09-03 05:11:26
+13462,739030,4,45823265,76,2,3480,58',0,0,Sianyf Agüero (Alajuelense) Substitution at 58',Sianyf Agüero Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,281612.0,2025-09-03 05:11:26
+13462,739030,5,45823269,76,2,3660,61',0,0,Emily Sams (Orlando Pride) Substitution at 61',Emily Sams Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,262615.0,2025-09-03 05:11:26
+13462,739030,5,45823269,76,2,3660,61',0,0,Emily Sams (Orlando Pride) Substitution at 61',Emily Sams Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,333486.0,2025-09-03 05:11:26
+13462,739030,6,45823270,70,2,3840,64',1,0,Carson Pickett (Orlando Pride) Goal at 64',Carson Pickett Goal,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,211615.0,2025-09-03 05:11:26
+13462,739030,7,45823272,76,2,4200,70',0,0,Luana (Orlando Pride) Substitution at 70',Luana Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-09-03 05:11:26
+13462,739030,7,45823272,76,2,4200,70',0,0,Luana (Orlando Pride) Substitution at 70',Luana Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,349344.0,2025-09-03 05:11:26
+13462,739030,8,45823273,76,2,4740,79',0,0,Yeslim Alvarado (Alajuelense) Substitution at 79',Yeslim Alvarado Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,408685.0,2025-09-03 05:11:26
+13462,739030,8,45823273,76,2,4740,79',0,0,Yeslim Alvarado (Alajuelense) Substitution at 79',Yeslim Alvarado Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,298753.0,2025-09-03 05:11:26
+13462,739030,9,45823274,76,2,4800,80',0,0,Keylin Gómez (Alajuelense) Substitution at 80',Keylin Gómez Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,326070.0,2025-09-03 05:11:26
+13462,739030,10,45823275,76,2,4800,80',0,0,Paula Arce (Alajuelense) Substitution at 80',Paula Arce Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,384629.0,2025-09-03 05:11:26
+13462,739030,10,45823275,76,2,4800,80',0,0,Paula Arce (Alajuelense) Substitution at 80',Paula Arce Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,377205.0,2025-09-03 05:11:26
+13462,739030,9,45823274,76,2,4800,80',0,0,Keylin Gómez (Alajuelense) Substitution at 80',Keylin Gómez Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,219872.0,2025-09-03 05:11:26
+13462,739030,11,45823276,70,2,4860,81',1,0,Simone Jackson (Orlando Pride) Goal at 81',Simone Jackson Goal,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,368732.0,2025-09-03 05:11:26
+13462,739030,12,45823277,76,2,4920,82',0,0,Ally Watt (Orlando Pride) Substitution at 82',Ally Watt Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,225083.0,2025-09-03 05:11:26
+13462,739030,13,45823278,76,2,4920,82',0,0,Elyse Bennett (Orlando Pride) Substitution at 82',Elyse Bennett Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,261922.0,2025-09-03 05:11:26
+13462,739030,12,45823277,76,2,4920,82',0,0,Ally Watt (Orlando Pride) Substitution at 82',Ally Watt Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,368732.0,2025-09-03 05:11:26
+13462,739030,13,45823278,76,2,4920,82',0,0,Elyse Bennett (Orlando Pride) Substitution at 82',Elyse Bennett Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,277937.0,2025-09-03 05:11:26
+13462,739031,1,45823279,94,1,2520,42',0,0,Taryn Torres (Gotham FC) Yellow Card at 42',Taryn Torres Yellow Card,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,280976.0,2025-09-03 05:11:26
+13462,739031,3,45823281,76,2,2700,45',0,0,Bruninha (Gotham FC) Substitution at 45',Bruninha Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,328199.0,2025-09-03 05:11:26
+13462,739031,2,45823280,76,2,2700,45',0,0,Katie Stengel (Gotham FC) Substitution at 45',Katie Stengel Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,290269.0,2025-09-03 05:11:26
+13462,739031,2,45823280,76,2,2700,45',0,0,Katie Stengel (Gotham FC) Substitution at 45',Katie Stengel Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,388168.0,2025-09-03 05:11:26
+13462,739031,3,45823281,76,2,2700,45',0,0,Bruninha (Gotham FC) Substitution at 45',Bruninha Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,255453.0,2025-09-03 05:11:26
+13462,739031,4,45823282,94,2,3060,51',0,0,Priscila Ortiz (Alianza FC) Yellow Card at 51',Priscila Ortiz Yellow Card,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,340395.0,2025-09-03 05:11:26
+13462,739031,5,45823283,76,2,3480,58',0,0,Nelly Raquel Ramirez (Alianza FC) Substitution at 58',Nelly Raquel Ramirez Substitutio,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,340299.0,2025-09-03 05:11:26
+13462,739031,5,45823283,76,2,3480,58',0,0,Nelly Raquel Ramirez (Alianza FC) Substitution at 58',Nelly Raquel Ramirez Substitutio,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,393222.0,2025-09-03 05:11:26
+13462,739031,6,45823284,98,2,3720,62',1,0,Geyse (Gotham FC) Penalty - Scored at 62',Geyse Penalty - Scored,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,268325.0,2025-09-03 05:11:26
+13462,739031,7,45823285,76,2,3780,63',0,0,Gabi Portilho (Gotham FC) Substitution at 63',Gabi Portilho Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,339855.0,2025-09-03 05:11:26
+13462,739031,8,45823286,76,2,3780,63',0,0,Midge Purce (Gotham FC) Substitution at 63',Midge Purce Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,226566.0,2025-09-03 05:11:26
+13462,739031,8,45823286,76,2,3780,63',0,0,Midge Purce (Gotham FC) Substitution at 63',Midge Purce Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,245160.0,2025-09-03 05:11:26
+13462,739031,7,45823285,76,2,3780,63',0,0,Gabi Portilho (Gotham FC) Substitution at 63',Gabi Portilho Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,268325.0,2025-09-03 05:11:26
+13462,739031,9,45823287,94,2,4380,73',0,0,Linda Guillén (Alianza FC) Yellow Card at 73',Linda Guillén Yellow Card,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,340399.0,2025-09-03 05:11:26
+13462,739031,11,45823289,76,2,4500,75',0,0,Neyda Martinez (Alianza FC) Substitution at 75',Neyda Martinez Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,408690.0,2025-09-03 05:11:26
+13462,739031,10,45823288,76,2,4500,75',0,0,Josefine Hasbo (Gotham FC) Substitution at 75',Josefine Hasbo Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,314818.0,2025-09-03 05:11:26
+13462,739031,10,45823288,76,2,4500,75',0,0,Josefine Hasbo (Gotham FC) Substitution at 75',Josefine Hasbo Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,290269.0,2025-09-03 05:11:26
+13462,739031,11,45823289,76,2,4500,75',0,0,Neyda Martinez (Alianza FC) Substitution at 75',Neyda Martinez Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,340399.0,2025-09-03 05:11:26
+13462,739031,12,45823290,76,2,4860,81',0,0,Yaneth Sotelo (Alianza FC) Substitution at 81',Yaneth Sotelo Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,393218.0,2025-09-03 05:11:26
+13462,739031,12,45823290,76,2,4860,81',0,0,Yaneth Sotelo (Alianza FC) Substitution at 81',Yaneth Sotelo Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,393235.0,2025-09-03 05:11:26
+13462,739031,13,45823291,76,2,4920,82',0,0,Joseline Rivas (Alianza FC) Substitution at 82',Joseline Rivas Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,340398.0,2025-09-06 05:17:18
+13462,739031,13,45823291,76,2,4920,82',0,0,Joseline Rivas (Alianza FC) Substitution at 82',Joseline Rivas Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,408687.0,2025-09-06 05:17:18
+13462,739031,14,45823292,70,2,5400,90'+4',1,0,Kayla Duran (Gotham FC) Goal at 94',Kayla Duran Goal,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,282395.0,2025-09-03 05:11:26
+13462,739032,1,45823876,70,1,1860,31',1,0,Tara McKeown (Washington Spirit) Goal at 31',Tara McKeown Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,263690.0,2025-09-04 05:12:17
+13462,739032,2,45823879,70,1,2460,41',1,0,Heather Stainbrook (Washington Spirit) Goal at 41',Heather Stainbrook Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,316914.0,2025-09-04 05:12:17
+13462,739032,5,45823884,76,2,2700,45',0,0,Croix Bethune (Washington Spirit) Substitution at 45',Croix Bethune Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,296207.0,2025-09-04 05:12:17
+13462,739032,3,45823880,70,1,2700,45',1,0,Trinity Rodman (Washington Spirit) Goal at 45',Trinity Rodman Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,317423.0,2025-09-04 05:12:17
+13462,739032,7,45823886,76,2,2700,45',0,0,Kristen Sakaki (Vancouver Rise FC Academy) Substitution at 45',Kristen Sakaki Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,365606.0,2025-09-04 05:12:17
+13462,739032,6,45823885,76,2,2700,45',0,0,Gabrielle Carle (Washington Spirit) Substitution at 45',Gabrielle Carle Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,235713.0,2025-09-04 05:12:17
+13462,739032,4,45823883,76,2,2700,45',0,0,Deborah Abiodun (Washington Spirit) Substitution at 45',Deborah Abiodun Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,349550.0,2025-09-04 05:12:17
+13462,739032,4,45823883,76,2,2700,45',0,0,Deborah Abiodun (Washington Spirit) Substitution at 45',Deborah Abiodun Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,263690.0,2025-09-04 05:12:17
+13462,739032,5,45823884,76,2,2700,45',0,0,Croix Bethune (Washington Spirit) Substitution at 45',Croix Bethune Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,317423.0,2025-09-04 05:12:17
+13462,739032,7,45823886,76,2,2700,45',0,0,Kristen Sakaki (Vancouver Rise FC Academy) Substitution at 45',Kristen Sakaki Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,406486.0,2025-09-04 05:12:17
+13462,739032,6,45823885,76,2,2700,45',0,0,Gabrielle Carle (Washington Spirit) Substitution at 45',Gabrielle Carle Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,360895.0,2025-09-04 05:12:17
+13462,739032,8,45823891,76,2,3420,57',0,0,Racquel Partovi (Vancouver Rise FC Academy) Substitution at 57',Racquel Partovi Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,393290.0,2025-09-04 05:12:17
+13462,739032,9,45823892,76,2,3420,57',0,0,Bianca Patik (Vancouver Rise FC Academy) Substitution at 57',Bianca Patik Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,393242.0,2025-09-04 05:12:17
+13462,739032,9,45823892,76,2,3420,57',0,0,Bianca Patik (Vancouver Rise FC Academy) Substitution at 57',Bianca Patik Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,408731.0,2025-09-04 05:12:17
+13462,739032,8,45823891,76,2,3420,57',0,0,Racquel Partovi (Vancouver Rise FC Academy) Substitution at 57',Racquel Partovi Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,408717.0,2025-09-04 05:12:17
+13462,739032,10,45823893,76,2,3660,61',0,0,Rosemonde Kouassi (Washington Spirit) Substitution at 61',Rosemonde Kouassi Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,347222.0,2025-09-04 05:12:17
+13462,739032,10,45823893,76,2,3660,61',0,0,Rosemonde Kouassi (Washington Spirit) Substitution at 61',Rosemonde Kouassi Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,320403.0,2025-09-04 05:12:17
+13462,739032,11,45823894,76,2,3720,62',0,0,Kate Wiesner (Washington Spirit) Substitution at 62',Kate Wiesner Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,318592.0,2025-09-04 05:12:17
+13462,739032,11,45823894,76,2,3720,62',0,0,Kate Wiesner (Washington Spirit) Substitution at 62',Kate Wiesner Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,328107.0,2025-09-04 05:12:17
+13462,739032,12,45823896,94,2,3780,63',0,0,Heather Stainbrook (Washington Spirit) Yellow Card at 63',Heather Stainbrook Yellow Card,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,316914.0,2025-09-04 05:12:17
+13462,739032,13,45823902,76,2,4020,67',0,0,Jenna-Lee Baxter (Vancouver Rise FC Academy) Substitution at 67',Jenna-Lee Baxter Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,410316.0,2025-09-04 05:12:17
+13462,739032,13,45823902,76,2,4020,67',0,0,Jenna-Lee Baxter (Vancouver Rise FC Academy) Substitution at 67',Jenna-Lee Baxter Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,318043.0,2025-09-04 05:12:17
+13462,739032,14,45823911,70,2,4860,81',1,0,Deborah Abiodun (Washington Spirit) Goal at 81',Deborah Abiodun Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,349550.0,2025-09-04 05:12:17
+13462,739032,15,45823915,76,2,5160,86',0,0,Zahra Bains (Vancouver Rise FC Academy) Substitution at 86',Zahra Bains Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,393252.0,2025-09-04 05:12:17
+13462,739032,15,45823915,76,2,5160,86',0,0,Zahra Bains (Vancouver Rise FC Academy) Substitution at 86',Zahra Bains Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,393295.0,2025-09-04 05:12:17
+13462,739033,1,45823933,70,1,840,14',1,0,Kiana Palacios (América) Goal at 14',Kiana Palacios Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,210325.0,2025-09-04 05:12:17
+13462,739033,2,45823934,70,1,1680,28',1,0,Bruna Vilamala (América) Goal at 28',Bruna Vilamala Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,305984.0,2025-09-04 05:12:17
+13462,739033,3,45823935,70,1,2220,37',1,0,Bruna Vilamala (América) Goal at 37',Bruna Vilamala Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,305984.0,2025-09-04 05:12:17
+13462,739033,4,45823936,70,1,2280,38',1,0,Montserrat Saldivar (América) Goal at 38',Montserrat Saldivar Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,344418.0,2025-09-04 05:12:17
+13462,739033,5,45823937,70,1,2580,43',1,0,Irene Guerrero (América) Goal at 43',Irene Guerrero Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,287323.0,2025-09-04 05:12:17
+13462,739033,6,45823938,94,2,3180,53',0,0,Montserrat Saldivar (América) Yellow Card at 53',Montserrat Saldivar Yellow Card,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,344418.0,2025-09-04 05:12:17
+13462,739033,7,45823939,70,2,3300,55',1,0,Irene Guerrero (América) Goal at 55',Irene Guerrero Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,287323.0,2025-09-04 05:12:17
+13462,739033,9,45823941,76,2,3540,59',0,0,Shaday Mow (Chorrillo FC) Substitution at 59',Shaday Mow Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408713.0,2025-09-04 05:12:17
+13462,739033,10,45823942,76,2,3540,59',0,0,Mariela Ramos (América) Substitution at 59',Mariela Ramos Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,403629.0,2025-09-04 05:12:17
+13462,739033,8,45823940,76,2,3540,59',0,0,Kayra Pérez (Chorrillo FC) Substitution at 59',Kayra Pérez Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408709.0,2025-09-04 05:12:17
+13462,739033,10,45823942,76,2,3540,59',0,0,Mariela Ramos (América) Substitution at 59',Mariela Ramos Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,403631.0,2025-09-04 05:12:17
+13462,739033,9,45823941,76,2,3540,59',0,0,Shaday Mow (Chorrillo FC) Substitution at 59',Shaday Mow Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,340429.0,2025-09-04 05:12:17
+13462,739033,8,45823940,76,2,3540,59',0,0,Kayra Pérez (Chorrillo FC) Substitution at 59',Kayra Pérez Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,302493.0,2025-09-04 05:12:17
+13462,739033,11,45823943,94,2,3960,66',0,0,Stepfany Toral (Chorrillo FC) Yellow Card at 66',Stepfany Toral Yellow Card,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408689.0,2025-09-04 05:12:17
+13462,739033,12,45823944,70,2,4080,68',1,0,Irene Guerrero (América) Goal at 68',Irene Guerrero Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,287323.0,2025-09-04 05:12:17
+13462,739033,14,45823946,76,2,4140,69',0,0,Allison García (América) Substitution at 69',Allison García Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,408658.0,2025-09-04 05:12:17
+13462,739033,13,45823945,94,2,4140,69',0,0,Shayari Camarena (Chorrillo FC) Yellow Card at 69',Shayari Camarena Yellow Card,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,340431.0,2025-09-04 05:12:17
+13462,739033,14,45823946,76,2,4140,69',0,0,Allison García (América) Substitution at 69',Allison García Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,305984.0,2025-09-04 05:12:17
+13462,739033,15,45823947,76,2,4440,74',0,0,Karla Ovalle (Chorrillo FC) Substitution at 74',Karla Ovalle Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408711.0,2025-09-04 05:12:17
+13462,739033,16,45823948,76,2,4440,74',0,0,Vilma García (Chorrillo FC) Substitution at 74',Vilma García Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408694.0,2025-09-04 05:12:17
+13462,739033,15,45823947,76,2,4440,74',0,0,Karla Ovalle (Chorrillo FC) Substitution at 74',Karla Ovalle Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,408710.0,2025-09-04 05:12:17
+13462,739033,16,45823948,76,2,4440,74',0,0,Vilma García (Chorrillo FC) Substitution at 74',Vilma García Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,393232.0,2025-09-04 05:12:17
+13462,739033,17,45823949,70,2,4620,77',1,0,Scarlett Camberos (América) Goal at 77',Scarlett Camberos Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,292838.0,2025-09-04 05:12:17
+13462,739033,18,45823950,76,2,4680,78',0,0,Alondra Cabanillas (América) Substitution at 78',Alondra Cabanillas Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,393202.0,2025-09-04 05:12:17
+13462,739033,19,45823951,76,2,4680,78',0,0,Ana Paula (América) Substitution at 78',Ana Paula Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,403630.0,2025-09-04 05:12:17
+13462,739033,18,45823950,76,2,4680,78',0,0,Alondra Cabanillas (América) Substitution at 78',Alondra Cabanillas Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,344418.0,2025-09-04 05:12:17
+13462,739033,19,45823951,76,2,4680,78',0,0,Ana Paula (América) Substitution at 78',Ana Paula Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,348546.0,2025-09-04 05:12:17
+13462,739033,20,45823952,76,2,4920,82',0,0,Yamileth Palacio (Chorrillo FC) Substitution at 82',Yamileth Palacio Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,380699.0,2025-09-04 05:12:17
+13462,739033,20,45823952,76,2,4920,82',0,0,Yamileth Palacio (Chorrillo FC) Substitution at 82',Yamileth Palacio Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,219880.0,2025-09-04 05:12:17
+13462,739033,21,45823953,70,2,5220,87',1,0,Kiana Palacios (América) Goal at 87',Kiana Palacios Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,210325.0,2025-09-07 05:23:21
+13462,739034,1,45907158,70,1,240,4',1,0,Julie Doyle (Orlando Pride) Goal at 4',Julie Doyle Goal,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,279438.0,2025-09-17 05:16:16
+13462,739034,2,45907183,70,1,360,6',1,0,Summer Yates (Orlando Pride) Goal at 6',Summer Yates Goal,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,277937.0,2025-09-17 05:16:16
+13462,739034,3,45907303,94,1,1020,17',0,0,Zara Chavoshi (Orlando Pride) Yellow Card at 17',Zara Chavoshi Yellow Card,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,329064.0,2025-09-17 05:16:16
+13462,739034,4,45907334,70,1,1320,22',1,0,Summer Yates (Orlando Pride) Goal at 22',Summer Yates Goal,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,277937.0,2025-09-17 05:16:16
+13462,739034,5,45907675,76,2,2700,45',0,0,Simone Charley (Orlando Pride) Substitution at 45',Simone Charley Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,209067.0,2025-09-17 05:16:16
+13462,739034,6,45907680,76,2,2700,45',0,0,Ally Lemos (Orlando Pride) Substitution at 45',Ally Lemos Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,349344.0,2025-09-17 05:16:16
+13462,739034,7,45907681,76,2,2700,45',0,0,Oihane Hernández (Orlando Pride) Substitution at 45',Oihane Hernández Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,333486.0,2025-09-17 05:16:16
+13462,739034,6,45907680,76,2,2700,45',0,0,Ally Lemos (Orlando Pride) Substitution at 45',Ally Lemos Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,351936.0,2025-09-17 05:16:16
+13462,739034,6,45907680,76,2,2700,45',0,0,Ally Lemos (Orlando Pride) Substitution at 45',Ally Lemos Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,258821.0,2025-09-17 05:16:16
+13462,739034,5,45907675,76,2,2700,45',0,0,Simone Charley (Orlando Pride) Substitution at 45',Simone Charley Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,351425.0,2025-09-17 05:16:16
+13462,739034,7,45907681,76,2,2700,45',0,0,Oihane Hernández (Orlando Pride) Substitution at 45',Oihane Hernández Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,381596.0,2025-09-17 05:16:16
+13462,739034,7,45907681,76,2,2700,45',0,0,Oihane Hernández (Orlando Pride) Substitution at 45',Oihane Hernández Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,318584.0,2025-09-17 05:16:16
+13462,739034,8,45907734,94,2,3240,54',0,0,Delineth Rivera (Chorrillo FC) Yellow Card at 54',Delineth Rivera Yellow Card,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408708.0,2025-09-17 05:16:16
+13462,739034,9,45907743,98,2,3480,58',1,0,Summer Yates (Orlando Pride) Penalty - Scored at 58',Summer Yates Penalty - Scored,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,277937.0,2025-09-17 05:16:16
+13462,739034,10,45907767,94,2,3600,60',0,0,Julie Doyle (Orlando Pride) Yellow Card at 60',Julie Doyle Yellow Card,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,279438.0,2025-09-17 05:16:16
+13462,739034,11,45907775,76,2,3780,63',0,0,Gloria Saénz (Chorrillo FC) Substitution at 63',Gloria Saénz Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,302493.0,2025-09-17 05:16:16
+13462,739034,11,45907775,76,2,3780,63',0,0,Gloria Saénz (Chorrillo FC) Substitution at 63',Gloria Saénz Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,408709.0,2025-09-17 05:16:16
+13462,739034,12,45907829,76,2,4260,71',0,0,Yeisi Fuentes (Chorrillo FC) Substitution at 71',Yeisi Fuentes Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,340429.0,2025-09-17 05:16:16
+13462,739034,12,45907829,76,2,4260,71',0,0,Yeisi Fuentes (Chorrillo FC) Substitution at 71',Yeisi Fuentes Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,328204.0,2025-09-17 05:16:16
+13462,739034,13,45907876,76,2,4860,81',0,0,Grace Guerra (Chorrillo FC) Substitution at 81',Grace Guerra Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408693.0,2025-09-17 05:16:16
+13462,739034,13,45907876,76,2,4860,81',0,0,Grace Guerra (Chorrillo FC) Substitution at 81',Grace Guerra Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,380699.0,2025-09-17 05:16:16
+13462,739034,14,45907894,70,2,5040,84',1,0,Ally Lemos (Orlando Pride) Goal at 84',Ally Lemos Goal,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,349344.0,2025-09-17 05:16:16
+13462,739034,15,45907922,94,2,5400,90',0,0,Ally Lemos (Orlando Pride) Yellow Card at 90',Ally Lemos Yellow Card,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,349344.0,2025-09-17 05:16:16
+13462,739035,1,45908025,70,1,540,9',1,0,Josefine Hasbo (Gotham FC) Goal at 9',Josefine Hasbo Goal,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,314818.0,2025-09-17 05:16:16
+13462,739035,2,45908032,70,1,720,12',1,0,Katie Stengel (Gotham FC) Goal at 12',Katie Stengel Goal,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,290269.0,2025-09-17 05:16:16
+13462,739035,3,45908043,70,1,840,14',1,0,Anna Bout (Vancouver Rise FC Academy) Goal at 14',Anna Bout Goal,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,292809.0,2025-09-17 05:16:16
+13462,739035,4,45908131,76,2,2700,45',0,0,Esther González (Gotham FC) Substitution at 45',Esther González Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,259791.0,2025-09-17 05:16:16
+13462,739035,5,45908132,76,2,2700,45',0,0,Bruninha (Gotham FC) Substitution at 45',Bruninha Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,328199.0,2025-09-17 05:16:16
+13462,739035,4,45908131,76,2,2700,45',0,0,Esther González (Gotham FC) Substitution at 45',Esther González Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,349350.0,2025-09-17 05:16:16
+13462,739035,5,45908132,76,2,2700,45',0,0,Bruninha (Gotham FC) Substitution at 45',Bruninha Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,346600.0,2025-09-17 05:16:16
+13462,739035,6,45908133,70,2,2760,46',1,0,Esther González (Gotham FC) Goal at 46',Esther González Goal,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,259791.0,2025-09-17 05:16:16
+13462,739035,7,45908134,76,2,3720,62',0,0,Mak Whitham (Gotham FC) Substitution at 62',Mak Whitham Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,388168.0,2025-09-17 05:16:16
+13462,739035,10,45908137,76,2,3720,62',0,0,Racquel Partovi (Vancouver Rise FC Academy) Substitution at 62',Racquel Partovi Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,393290.0,2025-09-17 05:16:16
+13462,739035,8,45908135,76,2,3720,62',0,0,Daniela Feria-Estrada (Vancouver Rise FC Academy) Substitution at 62',Daniela Feria-Estrada Substituti,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,408731.0,2025-09-17 05:16:16
+13462,739035,9,45908136,76,2,3720,62',0,0,Rebecca Lake (Vancouver Rise FC Academy) Substitution at 62',Rebecca Lake Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,357414.0,2025-09-17 05:16:16
+13462,739035,9,45908136,76,2,3720,62',0,0,Rebecca Lake (Vancouver Rise FC Academy) Substitution at 62',Rebecca Lake Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,393228.0,2025-09-17 05:16:16
+13462,739035,8,45908135,76,2,3720,62',0,0,Daniela Feria-Estrada (Vancouver Rise FC Academy) Substitution at 62',Daniela Feria-Estrada Substituti,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,292809.0,2025-09-17 05:16:16
+13462,739035,10,45908137,76,2,3720,62',0,0,Racquel Partovi (Vancouver Rise FC Academy) Substitution at 62',Racquel Partovi Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,408717.0,2025-09-17 05:16:16
+13462,739035,7,45908134,76,2,3720,62',0,0,Mak Whitham (Gotham FC) Substitution at 62',Mak Whitham Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,339855.0,2025-09-17 05:16:16
+13462,739035,11,45908138,76,2,3840,64',0,0,Zahra Bains (Vancouver Rise FC Academy) Substitution at 64',Zahra Bains Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,393252.0,2025-09-17 05:16:16
+13462,739035,11,45908138,76,2,3840,64',0,0,Zahra Bains (Vancouver Rise FC Academy) Substitution at 64',Zahra Bains Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,354686.0,2025-09-17 05:16:16
+13462,739035,12,45908139,76,2,4500,75',0,0,Jaime Perrault (Vancouver Rise FC Academy) Substitution at 75',Jaime Perrault Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,344433.0,2025-09-17 05:16:16
+13462,739035,12,45908139,76,2,4500,75',0,0,Jaime Perrault (Vancouver Rise FC Academy) Substitution at 75',Jaime Perrault Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,393295.0,2025-09-17 05:16:16
+13462,739035,13,45908140,76,2,4860,81',0,0,Emily Sonnett (Gotham FC) Substitution at 81',Emily Sonnett Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,211034.0,2025-09-17 05:16:16
+13462,739035,13,45908140,76,2,4860,81',0,0,Emily Sonnett (Gotham FC) Substitution at 81',Emily Sonnett Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,290269.0,2025-09-17 05:16:16
+13462,739035,14,45908141,70,2,5400,90'+3',1,0,Bruninha (Gotham FC) Goal at 93',Bruninha Goal,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,328199.0,2025-09-17 05:16:16
+13462,739036,1,45912012,70,1,840,14',1,0,Day Silva (Monterrey) Goal at 14',Day Silva Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,349168.0,2025-09-18 05:13:10
+13462,739036,2,45912108,70,1,1620,27',1,0,Diana Evangelista (Monterrey) Goal at 27',Diana Evangelista Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,300137.0,2025-09-18 05:13:10
+13462,739036,3,45912148,70,1,1920,32',1,0,Jermaine Seoposenwe (Monterrey) Goal at 32',Jermaine Seoposenwe Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,176035.0,2025-09-18 05:13:10
+13462,739036,4,45912223,70,1,2700,45',1,0,Alice Soto (Monterrey) Goal at 45',Alice Soto Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,344414.0,2025-09-18 05:13:10
+13462,739036,8,45912416,76,2,2700,45',0,0,Gladis Ulloa (Alianza FC) Substitution at 45',Gladis Ulloa Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,393255.0,2025-09-18 05:13:10
+13462,739036,7,45912415,76,2,2700,45',0,0,Katty Martínez (Monterrey) Substitution at 45',Katty Martínez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,287339.0,2025-09-18 05:13:10
+13462,739036,9,45912432,76,2,2700,45',0,0,Neyda Martinez (Alianza FC) Substitution at 45',Neyda Martinez Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,408690.0,2025-09-18 05:13:10
+13462,739036,5,45912402,76,2,2700,45',0,0,Emily Gielnik (Monterrey) Substitution at 45',Emily Gielnik Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,259620.0,2025-09-18 05:13:10
+13462,739036,6,45912406,76,2,2700,45',0,0,Nicole Pérez (Monterrey) Substitution at 45',Nicole Pérez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,314323.0,2025-09-18 05:13:10
+13462,739036,7,45912415,76,2,2700,45',0,0,Katty Martínez (Monterrey) Substitution at 45',Katty Martínez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,364526.0,2025-09-18 05:13:10
+13462,739036,8,45912416,76,2,2700,45',0,0,Gladis Ulloa (Alianza FC) Substitution at 45',Gladis Ulloa Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,393222.0,2025-09-18 05:13:10
+13462,739036,5,45912402,76,2,2700,45',0,0,Emily Gielnik (Monterrey) Substitution at 45',Emily Gielnik Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,317893.0,2025-09-18 05:13:10
+13462,739036,9,45912432,76,2,2700,45',0,0,Neyda Martinez (Alianza FC) Substitution at 45',Neyda Martinez Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,393235.0,2025-09-18 05:13:10
+13462,739036,6,45912406,76,2,2700,45',0,0,Nicole Pérez (Monterrey) Substitution at 45',Nicole Pérez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,300137.0,2025-09-18 05:13:10
+13462,739036,11,45912495,76,2,3360,56',0,0,Nelly Raquel Ramirez (Alianza FC) Substitution at 56',Nelly Raquel Ramirez Substitutio,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,340299.0,2025-09-18 05:13:10
+13462,739036,10,45912494,76,2,3360,56',0,0,Glenda Cerén (Alianza FC) Substitution at 56',Glenda Cerén Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,340294.0,2025-09-18 05:13:10
+13462,739036,11,45912495,76,2,3360,56',0,0,Nelly Raquel Ramirez (Alianza FC) Substitution at 56',Nelly Raquel Ramirez Substitutio,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,408688.0,2025-09-18 05:13:10
+13462,739036,10,45912494,76,2,3360,56',0,0,Glenda Cerén (Alianza FC) Substitution at 56',Glenda Cerén Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,340399.0,2025-09-18 05:13:10
+13462,739036,12,45912521,97,2,3600,60',1,0,Samantha Valadez (Alianza FC) Own Goal at 60',Samantha Valadez Own Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,364544.0,2025-09-18 05:13:10
+13462,739036,13,45912636,76,2,3960,66',0,0,Allison Veloz (Monterrey) Substitution at 66',Allison Veloz Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,408680.0,2025-09-18 05:13:10
+13462,739036,13,45912636,76,2,3960,66',0,0,Allison Veloz (Monterrey) Substitution at 66',Allison Veloz Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,176035.0,2025-09-18 05:13:10
+13462,739036,14,45912650,94,2,4560,76',0,0,Daniela Monroy (Monterrey) Yellow Card at 76',Daniela Monroy Yellow Card,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,364533.0,2025-09-18 05:13:10
+13462,739036,15,45912653,70,2,4740,79',1,0,Katty Martínez (Monterrey) Goal at 79',Katty Martínez Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,287339.0,2025-09-18 05:13:10
+13462,739036,16,45912658,70,2,4800,80',1,0,Alice Soto (Monterrey) Goal at 80',Alice Soto Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,344414.0,2025-09-18 05:13:10
+13462,739036,17,45912662,76,2,4860,81',0,0,Samantha Simental (Monterrey) Substitution at 81',Samantha Simental Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,393157.0,2025-09-18 05:13:10
+13462,739036,17,45912662,76,2,4860,81',0,0,Samantha Simental (Monterrey) Substitution at 81',Samantha Simental Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,364533.0,2025-09-18 05:13:10
+13462,739036,18,45912676,70,2,5100,85',1,0,Alice Soto (Monterrey) Goal at 85',Alice Soto Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,344414.0,2025-09-18 05:13:10
+13462,739036,19,45913084,76,2,5400,90',0,0,Rosmery Mendoza (Alianza FC) Substitution at 90',Rosmery Mendoza Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,393236.0,2025-09-19 05:15:24
+13462,739036,19,45913084,76,2,5400,90',0,0,Rosmery Mendoza (Alianza FC) Substitution at 90',Rosmery Mendoza Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,409387.0,2025-09-19 05:15:24
+13462,739037,1,45915717,70,1,1140,19',1,0,Scarlett Camberos (América) Goal at 19',Scarlett Camberos Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,292838.0,2025-09-19 05:15:24
+13462,739037,2,45916002,76,2,4260,71',0,0,Ayooluwa Oke (Pachuca) Substitution at 71',Ayooluwa Oke Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,408716.0,2025-09-19 05:15:24
+13462,739037,2,45916002,76,2,4260,71',0,0,Ayooluwa Oke (Pachuca) Substitution at 71',Ayooluwa Oke Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,159612.0,2025-09-19 05:15:24
+13462,739037,3,45916003,76,2,4380,73',0,0,Bruna Vilamala (América) Substitution at 73',Bruna Vilamala Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,305984.0,2025-09-19 05:15:24
+13462,739037,3,45916003,76,2,4380,73',0,0,Bruna Vilamala (América) Substitution at 73',Bruna Vilamala Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,344418.0,2025-09-19 05:15:24
+13462,739037,4,45916017,76,2,4680,78',0,0,Alexa Soto (América) Substitution at 78',Alexa Soto Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,386655.0,2025-09-19 05:15:24
+13462,739037,4,45916017,76,2,4680,78',0,0,Alexa Soto (América) Substitution at 78',Alexa Soto Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,259182.0,2025-09-19 05:15:24
+13462,739037,5,45916022,94,2,5040,84',0,0,Irene Guerrero (América) Yellow Card at 84',Irene Guerrero Yellow Card,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,287323.0,2025-09-19 05:15:24
+13462,739037,6,45916029,94,2,5220,87',0,0,Scarlett Camberos (América) Yellow Card at 87',Scarlett Camberos Yellow Card,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,292838.0,2025-09-19 05:15:24
+13462,739037,7,45916030,76,2,5220,87',0,0,Natalia Mauleón (Pachuca) Substitution at 87',Natalia Mauleón Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,351881.0,2025-09-19 05:15:24
+13462,739037,7,45916030,76,2,5220,87',0,0,Natalia Mauleón (Pachuca) Substitution at 87',Natalia Mauleón Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,328242.0,2025-09-19 05:15:24
+13462,739037,9,45916042,76,2,5400,90'+3',0,0,Fabiola Ibarra (Pachuca) Substitution at 93',Fabiola Ibarra Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,219204.0,2025-09-19 05:15:24
+13462,739037,8,45916038,76,2,5400,90'+2',0,0,Karina Rodriguez (América) Substitution at 92',Karina Rodriguez Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,279298.0,2025-09-19 05:15:24
+13462,739037,8,45916038,76,2,5400,90'+2',0,0,Karina Rodriguez (América) Substitution at 92',Karina Rodriguez Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,292838.0,2025-09-19 05:15:24
+13462,739037,9,45916042,76,2,5400,90'+3',0,0,Fabiola Ibarra (Pachuca) Substitution at 93',Fabiola Ibarra Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,325905.0,2025-09-19 05:15:24
+13462,739038,1,46035758,70,1,420,7',1,0,Kiana Palacios (América) Goal at 7',Kiana Palacios Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,210325.0,2025-10-01 05:13:54
+13462,739038,2,46035814,76,1,1140,19',0,0,Simone Jackson (Orlando Pride) Substitution at 19',Simone Jackson Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,368732.0,2025-10-01 05:13:54
+13462,739038,2,46035814,76,1,1140,19',0,0,Simone Jackson (Orlando Pride) Substitution at 19',Simone Jackson Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,277937.0,2025-10-01 05:13:54
+13462,739038,3,46035861,76,1,2160,36',0,0,Annia Mejía (América) Substitution at 36',Annia Mejía Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,213949.0,2025-10-01 05:13:54
+13462,739038,3,46035861,76,1,2160,36',0,0,Annia Mejía (América) Substitution at 36',Annia Mejía Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,288708.0,2025-10-01 05:13:54
+13462,739038,4,46035979,76,2,2700,45',0,0,Prisca Chilufya (Orlando Pride) Substitution at 45',Prisca Chilufya Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,351425.0,2025-10-01 05:13:54
+13462,739038,5,46035988,76,2,2700,45',0,0,Rafaelle (Orlando Pride) Substitution at 45',Rafaelle Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,158720.0,2025-10-03 05:15:40
+13462,739038,4,46035979,76,2,2700,45',0,0,Prisca Chilufya (Orlando Pride) Substitution at 45',Prisca Chilufya Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,209067.0,2025-10-01 05:13:54
+13462,739038,5,46035988,76,2,2700,45',0,0,Rafaelle (Orlando Pride) Substitution at 45',Rafaelle Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,262615.0,2025-10-03 05:15:40
+13462,739038,6,46036010,94,2,3060,51',0,0,Luana (Orlando Pride) Yellow Card at 51',Luana Yellow Card,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,351936.0,2025-10-03 05:15:40
+13462,739038,6,46036010,94,2,3060,51',0,0,Luana (Orlando Pride) Yellow Card at 51',Luana Yellow Card,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,258821.0,2025-10-03 05:15:40
+13462,739038,7,46036022,76,2,3300,55',0,0,Angelina (Orlando Pride) Substitution at 55',Angelina Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,316035.0,2025-10-03 05:15:40
+13462,739038,7,46036022,76,2,3300,55',0,0,Angelina (Orlando Pride) Substitution at 55',Angelina Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,333486.0,2025-10-03 05:15:40
+13462,739038,8,46036049,76,2,3660,61',0,0,Lizbeth Ovalle (Orlando Pride) Substitution at 61',Lizbeth Ovalle Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,279197.0,2025-10-01 05:13:54
+13462,739038,8,46036049,76,2,3660,61',0,0,Lizbeth Ovalle (Orlando Pride) Substitution at 61',Lizbeth Ovalle Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,351936.0,2025-10-01 05:13:54
+13462,739038,8,46036049,76,2,3660,61',0,0,Lizbeth Ovalle (Orlando Pride) Substitution at 61',Lizbeth Ovalle Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,258821.0,2025-10-01 05:13:54
+13462,739038,9,46036068,76,2,4200,70',0,0,Alondra Cabanillas (América) Substitution at 70',Alondra Cabanillas Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,393202.0,2025-10-01 05:13:54
+13462,739038,9,46036068,76,2,4200,70',0,0,Alondra Cabanillas (América) Substitution at 70',Alondra Cabanillas Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,305984.0,2025-10-01 05:13:54
+13462,739038,10,46036075,70,2,4500,75',1,0,Jana Gutiérrez (América) Goal at 75',Jana Gutiérrez Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,393149.0,2025-10-01 05:13:54
+13462,739038,11,46036079,94,2,4680,78',0,0,Alondra Cabanillas (América) Yellow Card at 78',Alondra Cabanillas Yellow Card,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,393202.0,2025-10-01 05:13:54
+13462,739038,12,46036086,94,2,5400,90'+1',0,0,Zara Chavoshi (Orlando Pride) Yellow Card at 91',Zara Chavoshi Yellow Card,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,329064.0,2025-10-01 05:13:54
+13462,739038,13,46036087,76,2,5400,90'+4',0,0,Mariela Ramos (América) Substitution at 94',Mariela Ramos Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,403629.0,2025-10-01 05:13:54
+13462,739038,13,46036087,76,2,5400,90'+4',0,0,Mariela Ramos (América) Substitution at 94',Mariela Ramos Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,393202.0,2025-10-01 05:13:54
+13462,739039,1,46042926,76,2,2700,45',0,0,Deborah Abiodun (Washington Spirit) Substitution at 45',Deborah Abiodun Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,349550.0,2025-10-03 05:15:40
+13462,739039,2,46042927,76,2,2700,45',0,0,Esme Morgan (Washington Spirit) Substitution at 45',Esme Morgan Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,311198.0,2025-10-03 05:15:40
+13462,739039,2,46042927,76,2,2700,45',0,0,Esme Morgan (Washington Spirit) Substitution at 45',Esme Morgan Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,263690.0,2025-10-03 05:15:40
+13462,739039,1,46042926,76,2,2700,45',0,0,Deborah Abiodun (Washington Spirit) Substitution at 45',Deborah Abiodun Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,235713.0,2025-10-03 05:15:40
+13462,739039,4,46043080,76,2,3720,62',0,0,Leicy Santos (Washington Spirit) Substitution at 62',Leicy Santos Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,219866.0,2025-10-03 05:15:40
+13462,739039,3,46043079,76,2,3720,62',0,0,Rebeca Bernal (Washington Spirit) Substitution at 62',Rebeca Bernal Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,259180.0,2025-10-03 05:15:40
+13462,739039,3,46043079,76,2,3720,62',0,0,Rebeca Bernal (Washington Spirit) Substitution at 62',Rebeca Bernal Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,328107.0,2025-10-03 05:15:40
+13462,739039,4,46043080,76,2,3720,62',0,0,Leicy Santos (Washington Spirit) Substitution at 62',Leicy Santos Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,292603.0,2025-10-03 05:15:40
+13462,739039,6,46043133,76,2,3960,66',0,0,Bruninha (Gotham FC) Substitution at 66',Bruninha Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,328199.0,2025-10-03 05:15:40
+13462,739039,5,46043109,76,2,3960,66',0,0,Jaedyn Shaw (Gotham FC) Substitution at 66',Jaedyn Shaw Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,346600.0,2025-10-03 05:15:40
+13462,739039,6,46043133,76,2,3960,66',0,0,Bruninha (Gotham FC) Substitution at 66',Bruninha Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,245160.0,2025-10-03 05:15:40
+13462,739039,5,46043109,76,2,3960,66',0,0,Jaedyn Shaw (Gotham FC) Substitution at 66',Jaedyn Shaw Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,348028.0,2025-10-03 05:15:40
+13462,739039,7,46043134,76,2,4020,67',0,0,Emily Sonnett (Gotham FC) Substitution at 67',Emily Sonnett Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,211034.0,2025-10-03 05:15:40
+13462,739039,7,46043134,76,2,4020,67',0,0,Emily Sonnett (Gotham FC) Substitution at 67',Emily Sonnett Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,255453.0,2025-10-03 05:15:40
+13462,739039,8,46043165,76,2,4200,70',0,0,Croix Bethune (Washington Spirit) Substitution at 70',Croix Bethune Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,296207.0,2025-10-03 05:15:40
+13462,739039,8,46043165,76,2,4200,70',0,0,Croix Bethune (Washington Spirit) Substitution at 70',Croix Bethune Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,320403.0,2025-10-03 05:15:40
+13462,739039,10,46043411,76,2,4740,79',0,0,Rose Lavelle (Gotham FC) Substitution at 79',Rose Lavelle Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,209984.0,2025-10-03 05:15:40
+13462,739039,9,46043410,76,2,4740,79',0,0,Midge Purce (Gotham FC) Substitution at 79',Midge Purce Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,226566.0,2025-10-03 05:15:40
+13462,739039,10,46043411,76,2,4740,79',0,0,Rose Lavelle (Gotham FC) Substitution at 79',Rose Lavelle Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,349338.0,2025-10-03 05:15:40
+13462,739039,9,46043410,76,2,4740,79',0,0,Midge Purce (Gotham FC) Substitution at 79',Midge Purce Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,290269.0,2025-10-03 05:15:40
+13462,739040,1,46043667,70,1,600,10',1,0,Chinwendu Ihezuo (Pachuca) Goal at 10',Chinwendu Ihezuo Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,220191.0,2025-10-03 05:15:40
+13462,739040,2,46043727,70,1,1500,25',1,0,Chinwendu Ihezuo (Pachuca) Goal at 25',Chinwendu Ihezuo Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,220191.0,2025-10-03 05:15:40
+13462,739040,3,46043797,70,1,2340,39',1,0,Chinwendu Ihezuo (Pachuca) Goal at 39',Chinwendu Ihezuo Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,220191.0,2025-10-03 05:15:40
+13462,739040,5,46043975,76,2,2700,45',0,0,Anna Gilbertson (Alajuelense) Substitution at 45',Anna Gilbertson Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,256230.0,2025-10-03 05:15:40
+13462,739040,4,46043972,76,2,2700,45',0,0,Natalia Mauleón (Pachuca) Substitution at 45',Natalia Mauleón Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,351881.0,2025-10-03 05:15:40
+13462,739040,6,46043976,76,2,2700,45',0,0,Paula Arce (Alajuelense) Substitution at 45',Paula Arce Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,384629.0,2025-10-03 05:15:40
+13462,739040,6,46043976,76,2,2700,45',0,0,Paula Arce (Alajuelense) Substitution at 45',Paula Arce Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,349427.0,2025-10-03 05:15:40
+13462,739040,5,46043975,76,2,2700,45',0,0,Anna Gilbertson (Alajuelense) Substitution at 45',Anna Gilbertson Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,219872.0,2025-10-03 05:15:40
+13462,739040,4,46043972,76,2,2700,45',0,0,Natalia Mauleón (Pachuca) Substitution at 45',Natalia Mauleón Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,158840.0,2025-10-03 05:15:40
+13462,739040,7,46044039,76,2,3660,61',0,0,Angela Quirós (Alajuelense) Substitution at 61',Angela Quirós Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,372670.0,2025-10-03 05:15:40
+13462,739040,7,46044039,76,2,3660,61',0,0,Angela Quirós (Alajuelense) Substitution at 61',Angela Quirós Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,298753.0,2025-10-03 05:15:40
+13462,739040,8,46044051,76,2,3840,64',0,0,Paola García (Pachuca) Substitution at 64',Paola García Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,315353.0,2025-10-03 05:15:40
+13462,739040,9,46044057,76,2,3840,64',0,0,Abril Fragoso (Pachuca) Substitution at 64',Abril Fragoso Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,386652.0,2025-10-03 05:15:40
+13462,739040,9,46044057,76,2,3840,64',0,0,Abril Fragoso (Pachuca) Substitution at 64',Abril Fragoso Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,272482.0,2025-10-03 05:15:40
+13462,739040,8,46044051,76,2,3840,64',0,0,Paola García (Pachuca) Substitution at 64',Paola García Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,220191.0,2025-10-03 05:15:40
+13462,739040,10,46044058,70,2,3900,65',1,0,Natalia Mauleón (Pachuca) Goal at 65',Natalia Mauleón Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,351881.0,2025-10-03 05:15:40
+13462,739040,11,46044070,70,2,4140,69',1,0,Paola García (Pachuca) Goal at 69',Paola García Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,315353.0,2025-10-03 05:15:40
+13462,739040,12,46044075,76,2,4200,70',0,0,Keylin Gómez (Alajuelense) Substitution at 70',Keylin Gómez Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,326070.0,2025-10-03 05:15:40
+13462,739040,12,46044075,76,2,4200,70',0,0,Keylin Gómez (Alajuelense) Substitution at 70',Keylin Gómez Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,272318.0,2025-10-03 05:15:40
+13462,739040,14,46044081,76,2,4440,74',0,0,Nayeli Díaz (Pachuca) Substitution at 74',Nayeli Díaz Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,320220.0,2025-10-03 05:15:40
+13462,739040,13,46044080,76,2,4440,74',0,0,Carmen López (Pachuca) Substitution at 74',Carmen López Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,344410.0,2025-10-03 05:15:40
+13462,739040,14,46044081,76,2,4440,74',0,0,Nayeli Díaz (Pachuca) Substitution at 74',Nayeli Díaz Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,393165.0,2025-10-03 05:15:40
+13462,739040,13,46044080,76,2,4440,74',0,0,Carmen López (Pachuca) Substitution at 74',Carmen López Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,258847.0,2025-10-03 05:15:40
+13462,739040,15,46044082,76,2,4620,77',0,0,Yoanka Villanueva (Alajuelense) Substitution at 77',Yoanka Villanueva Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,354442.0,2025-10-03 05:15:40
+13462,739040,15,46044082,76,2,4620,77',0,0,Yoanka Villanueva (Alajuelense) Substitution at 77',Yoanka Villanueva Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,281612.0,2025-10-03 05:15:40
+13462,739041,1,46053593,70,1,1200,20',1,0,Emily Gielnik (Monterrey) Goal at 20',Emily Gielnik Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,259620.0,2025-10-03 05:15:40
+13462,739041,2,46053612,70,1,1500,25',1,0,Emily Gielnik (Monterrey) Goal at 25',Emily Gielnik Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,259620.0,2025-10-03 05:15:40
+13462,739041,3,46053620,94,1,1920,32',0,0,Kristen Sakaki (Vancouver Rise FC Academy) Yellow Card at 32',Kristen Sakaki Yellow Card,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,365606.0,2025-10-03 05:15:40
+13462,739041,4,46053638,70,1,2340,39',1,0,Nicole Pérez (Monterrey) Goal at 39',Nicole Pérez Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,314323.0,2025-10-04 05:15:03
+13462,739041,6,46053702,76,2,2700,45',0,0,Zellyka Arce (Monterrey) Substitution at 45',Zellyka Arce Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,393171.0,2025-10-03 05:15:40
+13462,739041,5,46053656,70,1,2700,45'+1',1,0,Katty Martínez (Monterrey) Goal at 46',Katty Martínez Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,287339.0,2025-10-03 05:15:40
+13462,739041,7,46053704,76,2,2700,45',0,0,Allison Veloz (Monterrey) Substitution at 45',Allison Veloz Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,408680.0,2025-10-03 05:15:40
+13462,739041,9,46053712,76,2,2700,45',0,0,Bianca Patik (Vancouver Rise FC Academy) Substitution at 45',Bianca Patik Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,393242.0,2025-10-03 05:15:40
+13462,739041,8,46053705,76,2,2700,45',0,0,Diana Evangelista (Monterrey) Substitution at 45',Diana Evangelista Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,300137.0,2025-10-03 05:15:40
+13462,739041,9,46053712,76,2,2700,45',0,0,Bianca Patik (Vancouver Rise FC Academy) Substitution at 45',Bianca Patik Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,344433.0,2025-10-03 05:15:40
+13462,739041,6,46053702,76,2,2700,45',0,0,Zellyka Arce (Monterrey) Substitution at 45',Zellyka Arce Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,287339.0,2025-10-03 05:15:40
+13462,739041,8,46053705,76,2,2700,45',0,0,Diana Evangelista (Monterrey) Substitution at 45',Diana Evangelista Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,282854.0,2025-10-03 05:15:40
+13462,739041,7,46053704,76,2,2700,45',0,0,Allison Veloz (Monterrey) Substitution at 45',Allison Veloz Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,176035.0,2025-10-03 05:15:40
+13462,739041,11,46053745,76,2,3480,58',0,0,Seina Kashima (Vancouver Rise FC Academy) Substitution at 58',Seina Kashima Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,408717.0,2025-10-03 05:15:40
+13462,739041,10,46053744,76,2,3480,58',0,0,Jenna-Lee Baxter (Vancouver Rise FC Academy) Substitution at 58',Jenna-Lee Baxter Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,410316.0,2025-10-03 05:15:40
+13462,739041,11,46053745,76,2,3480,58',0,0,Seina Kashima (Vancouver Rise FC Academy) Substitution at 58',Seina Kashima Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,393288.0,2025-10-03 05:15:40
+13462,739041,10,46053744,76,2,3480,58',0,0,Jenna-Lee Baxter (Vancouver Rise FC Academy) Substitution at 58',Jenna-Lee Baxter Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,393252.0,2025-10-03 05:15:40
+13462,739041,13,46053759,76,2,3840,64',0,0,Ashlyn Fernandez (Monterrey) Substitution at 64',Ashlyn Fernandez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,369098.0,2025-10-03 05:15:40
+13462,739041,12,46053754,76,2,3840,64',0,0,Samantha Simental (Monterrey) Substitution at 64',Samantha Simental Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,393157.0,2025-10-03 05:15:40
+13462,739041,13,46053759,76,2,3840,64',0,0,Ashlyn Fernandez (Monterrey) Substitution at 64',Ashlyn Fernandez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,260688.0,2025-10-03 05:15:40
+13462,739041,12,46053754,76,2,3840,64',0,0,Samantha Simental (Monterrey) Substitution at 64',Samantha Simental Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,364533.0,2025-10-03 05:15:40
+13462,739041,14,46053781,76,2,4680,78',0,0,Daniela Feria-Estrada (Vancouver Rise FC Academy) Substitution at 78',Daniela Feria-Estrada Substituti,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,408731.0,2025-10-03 05:15:40
+13462,739041,14,46053781,76,2,4680,78',0,0,Daniela Feria-Estrada (Vancouver Rise FC Academy) Substitution at 78',Daniela Feria-Estrada Substituti,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,410315.0,2025-10-03 05:15:40
+13462,739041,15,46053784,76,2,4800,80',0,0,Racquel Partovi (Vancouver Rise FC Academy) Substitution at 80',Racquel Partovi Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,393290.0,2025-10-03 05:15:40
+13462,739041,15,46053784,76,2,4800,80',0,0,Racquel Partovi (Vancouver Rise FC Academy) Substitution at 80',Racquel Partovi Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,365606.0,2025-10-03 05:15:40
+13462,739042,1,46147812,94,1,240,4',0,0,Yasselis Magallón (Chorrillo FC) Yellow Card at 4',Yasselis Magallón Yellow Card,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,393232.0,2025-10-15 05:14:58
+13462,739042,2,46147909,70,1,660,11',1,0,Sofía Varela (Alajuelense) Goal at 11',Sofía Varela Goal,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,272318.0,2025-10-15 05:14:58
+13462,739042,3,46148076,94,1,1740,29',0,0,Kayra Pérez (Chorrillo FC) Yellow Card at 29',Kayra Pérez Yellow Card,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408709.0,2025-10-15 05:14:58
+13462,739042,4,46148146,76,1,2100,35',0,0,Viviana Chinchilla (Alajuelense) Substitution at 35',Viviana Chinchilla Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,298753.0,2025-10-15 05:14:58
+13462,739042,4,46148146,76,1,2100,35',0,0,Viviana Chinchilla (Alajuelense) Substitution at 35',Viviana Chinchilla Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,326070.0,2025-10-15 05:14:58
+13462,739042,5,46148626,94,2,3000,50',0,0,Viviana Chinchilla (Alajuelense) Yellow Card at 50',Viviana Chinchilla Yellow Card,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,298753.0,2025-10-15 05:14:58
+13462,739042,6,46148837,76,2,4020,67',0,0,Vilma García (Chorrillo FC) Substitution at 67',Vilma García Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408694.0,2025-10-15 05:14:58
+13462,739042,7,46148838,76,2,4020,67',0,0,Gloria Saénz (Chorrillo FC) Substitution at 67',Gloria Saénz Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,302493.0,2025-10-15 05:14:58
+13462,739042,6,46148837,76,2,4020,67',0,0,Vilma García (Chorrillo FC) Substitution at 67',Vilma García Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,408693.0,2025-10-15 05:14:58
+13462,739042,7,46148838,76,2,4020,67',0,0,Gloria Saénz (Chorrillo FC) Substitution at 67',Gloria Saénz Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,408709.0,2025-10-15 05:14:58
+13462,739042,8,46148883,76,2,4380,73',0,0,Anna Gilbertson (Alajuelense) Substitution at 73',Anna Gilbertson Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,256230.0,2025-10-15 05:14:58
+13462,739042,8,46148883,76,2,4380,73',0,0,Anna Gilbertson (Alajuelense) Substitution at 73',Anna Gilbertson Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,298753.0,2025-10-15 05:14:58
+13462,739042,9,46148917,76,2,4620,77',0,0,Anaí Robles (Chorrillo FC) Substitution at 77',Anaí Robles Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,408710.0,2025-10-15 05:14:58
+13462,739042,9,46148917,76,2,4620,77',0,0,Anaí Robles (Chorrillo FC) Substitution at 77',Anaí Robles Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,380699.0,2025-10-15 05:14:58
+13462,739042,10,46148918,76,2,4680,78',0,0,Yoanka Villanueva (Alajuelense) Substitution at 78',Yoanka Villanueva Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,354442.0,2025-10-15 05:14:58
+13462,739042,11,46148932,76,2,4680,78',0,0,Angela Quirós (Alajuelense) Substitution at 78',Angela Quirós Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,372670.0,2025-10-15 05:14:58
+13462,739042,11,46148932,76,2,4680,78',0,0,Angela Quirós (Alajuelense) Substitution at 78',Angela Quirós Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,281612.0,2025-10-15 05:14:58
+13462,739042,10,46148918,76,2,4680,78',0,0,Yoanka Villanueva (Alajuelense) Substitution at 78',Yoanka Villanueva Substitution,22420,0.0,0.0,0.0,0.0,0.0,0.0,2,349425.0,2025-10-15 05:14:58
+13462,739042,12,46148998,94,2,5280,88',0,0,Marilenis Oporta (Alajuelense) Yellow Card at 88',Marilenis Oporta Yellow Card,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,349428.0,2025-10-15 05:14:58
+13462,739042,13,46149014,94,2,5400,90',0,0,Angela Quirós (Alajuelense) Yellow Card at 90',Angela Quirós Yellow Card,22420,0.0,0.0,0.0,0.0,0.0,0.0,1,372670.0,2025-10-15 05:14:58
+13462,739042,14,46149015,76,2,5400,90'+1',0,0,Yeisi Fuentes (Chorrillo FC) Substitution at 91',Yeisi Fuentes Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,1,340429.0,2025-10-15 05:14:58
+13462,739042,14,46149015,76,2,5400,90'+1',0,0,Yeisi Fuentes (Chorrillo FC) Substitution at 91',Yeisi Fuentes Substitution,131210,0.0,0.0,0.0,0.0,0.0,0.0,2,393232.0,2025-10-15 05:14:58
+13462,739043,1,46151615,70,1,360,6',1,0,Croix Bethune (Washington Spirit) Goal at 6',Croix Bethune Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,296207.0,2025-10-16 05:16:43
+13462,739043,2,46151827,76,1,2460,41',0,0,Brittany Ratcliffe (Washington Spirit) Substitution at 41',Brittany Ratcliffe Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,211049.0,2025-10-16 05:16:43
+13462,739043,2,46151827,76,1,2460,41',0,0,Brittany Ratcliffe (Washington Spirit) Substitution at 41',Brittany Ratcliffe Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,317423.0,2025-10-16 05:16:43
+13462,739043,3,46151988,76,2,2700,45',0,0,Fátima Servín (Monterrey) Substitution at 45',Fátima Servín Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,352043.0,2025-10-16 05:16:43
+13462,739043,4,46151991,76,2,2700,45',0,0,Ashlyn Fernandez (Monterrey) Substitution at 45',Ashlyn Fernandez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,369098.0,2025-10-16 05:16:43
+13462,739043,3,46151988,76,2,2700,45',0,0,Fátima Servín (Monterrey) Substitution at 45',Fátima Servín Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,176035.0,2025-10-16 05:16:43
+13462,739043,4,46151991,76,2,2700,45',0,0,Ashlyn Fernandez (Monterrey) Substitution at 45',Ashlyn Fernandez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,364533.0,2025-10-16 05:16:43
+13462,739043,5,46152084,70,2,3240,54',1,0,Rosemonde Kouassi (Washington Spirit) Goal at 54',Rosemonde Kouassi Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,347222.0,2025-10-16 05:16:43
+13462,739043,6,46152111,70,2,3420,57',1,0,Gift Monday (Washington Spirit) Goal at 57',Gift Monday Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,320403.0,2025-10-16 05:16:43
+13462,739043,7,46152137,94,2,3660,61',0,0,Fátima Servín (Monterrey) Yellow Card at 61',Fátima Servín Yellow Card,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,352043.0,2025-10-16 05:16:43
+13462,739043,8,46152154,76,2,3660,61',0,0,Paige Metayer (Washington Spirit) Substitution at 61',Paige Metayer Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,360895.0,2025-10-16 05:16:43
+13462,739043,8,46152154,76,2,3660,61',0,0,Paige Metayer (Washington Spirit) Substitution at 61',Paige Metayer Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,259180.0,2025-10-16 05:16:43
+13462,739043,9,46152155,76,2,3720,62',0,0,Sofia Cantore (Washington Spirit) Substitution at 62',Sofia Cantore Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,317685.0,2025-10-16 05:16:43
+13462,739043,9,46152155,76,2,3720,62',0,0,Sofia Cantore (Washington Spirit) Substitution at 62',Sofia Cantore Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,320403.0,2025-10-16 05:16:43
+13462,739043,10,46152218,97,2,4020,67',1,0,Valeria Del Campo (Monterrey) Own Goal at 67',Valeria Del Campo Own Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,260688.0,2025-10-16 05:16:43
+13462,739043,11,46152242,76,2,4260,71',0,0,Heather Stainbrook (Washington Spirit) Substitution at 71',Heather Stainbrook Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,316914.0,2025-10-16 05:16:43
+13462,739043,12,46152268,76,2,4260,71',0,0,Kate Wiesner (Washington Spirit) Substitution at 71',Kate Wiesner Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,318592.0,2025-10-16 05:16:43
+13462,739043,11,46152242,76,2,4260,71',0,0,Heather Stainbrook (Washington Spirit) Substitution at 71',Heather Stainbrook Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,296207.0,2025-10-16 05:16:43
+13462,739043,12,46152268,76,2,4260,71',0,0,Kate Wiesner (Washington Spirit) Substitution at 71',Kate Wiesner Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,263690.0,2025-10-16 05:16:43
+13462,739043,14,46152270,76,2,4320,72',0,0,Tanna Sánchez (Monterrey) Substitution at 72',Tanna Sánchez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,393144.0,2025-10-16 05:16:43
+13462,739043,13,46152269,76,2,4320,72',0,0,Allison Veloz (Monterrey) Substitution at 72',Allison Veloz Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,408680.0,2025-10-16 05:16:43
+13462,739043,13,46152269,76,2,4320,72',0,0,Allison Veloz (Monterrey) Substitution at 72',Allison Veloz Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,282854.0,2025-10-16 05:16:43
+13462,739043,14,46152270,76,2,4320,72',0,0,Tanna Sánchez (Monterrey) Substitution at 72',Tanna Sánchez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,288683.0,2025-10-16 05:16:43
+13462,739043,15,46152391,76,2,5220,87',0,0,Diana Evangelista (Monterrey) Substitution at 87',Diana Evangelista Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,300137.0,2025-10-16 05:16:43
+13462,739043,15,46152391,76,2,5220,87',0,0,Diana Evangelista (Monterrey) Substitution at 87',Diana Evangelista Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,344414.0,2025-10-16 05:16:43
+13462,739044,1,46152793,70,1,1500,25',1,0,Marta (Orlando Pride) Goal at 25',Marta Goal,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,158712.0,2025-10-16 05:16:43
+13462,739044,2,46153236,76,2,2700,45',0,0,Carson Pickett (Orlando Pride) Substitution at 45',Carson Pickett Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,211615.0,2025-10-16 05:16:43
+13462,739044,3,46153249,76,2,2700,45',0,0,Haley McCutcheon (Orlando Pride) Substitution at 45',Haley McCutcheon Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,227076.0,2025-10-16 05:16:43
+13462,739044,4,46153250,76,2,2700,45',0,0,Angelina (Orlando Pride) Substitution at 45',Angelina Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,316035.0,2025-10-16 05:16:43
+13462,739044,3,46153249,76,2,2700,45',0,0,Haley McCutcheon (Orlando Pride) Substitution at 45',Haley McCutcheon Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,351936.0,2025-10-16 05:16:43
+13462,739044,3,46153249,76,2,2700,45',0,0,Haley McCutcheon (Orlando Pride) Substitution at 45',Haley McCutcheon Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,258821.0,2025-10-16 05:16:43
+13462,739044,4,46153250,76,2,2700,45',0,0,Angelina (Orlando Pride) Substitution at 45',Angelina Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,279296.0,2025-10-16 05:16:43
+13462,739044,2,46153236,76,2,2700,45',0,0,Carson Pickett (Orlando Pride) Substitution at 45',Carson Pickett Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,158720.0,2025-10-16 05:16:43
+13462,739044,5,46153274,70,2,3240,54',1,0,Chinwendu Ihezuo (Pachuca) Goal at 54',Chinwendu Ihezuo Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,220191.0,2025-10-16 05:16:43
+13462,739044,6,46153275,76,2,3300,55',0,0,Ayooluwa Oke (Pachuca) Substitution at 55',Ayooluwa Oke Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,408716.0,2025-10-16 05:16:43
+13462,739044,6,46153275,76,2,3300,55',0,0,Ayooluwa Oke (Pachuca) Substitution at 55',Ayooluwa Oke Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,325905.0,2025-10-16 05:16:43
+13462,739044,7,46153277,76,2,3720,62',0,0,Lizbeth Ovalle (Orlando Pride) Substitution at 62',Lizbeth Ovalle Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,279197.0,2025-10-16 05:16:43
+13462,739044,7,46153277,76,2,3720,62',0,0,Lizbeth Ovalle (Orlando Pride) Substitution at 62',Lizbeth Ovalle Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,209067.0,2025-10-16 05:16:43
+13462,739044,8,46153309,94,2,4020,67',0,0,Yirleidis Quejada Minota (Pachuca) Yellow Card at 67',Yirleidis Quejada Minota Yellow ,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,386858.0,2025-10-16 05:16:43
+13462,739044,9,46153316,76,2,4200,70',0,0,Elyse Bennett (Orlando Pride) Substitution at 70',Elyse Bennett Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,261922.0,2025-10-16 05:16:43
+13462,739044,9,46153316,76,2,4200,70',0,0,Elyse Bennett (Orlando Pride) Substitution at 70',Elyse Bennett Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,368732.0,2025-10-16 05:16:43
+13462,739044,10,46153389,94,2,4860,81',0,0,Cori Dyke (Orlando Pride) Yellow Card at 81',Cori Dyke Yellow Card,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,381596.0,2025-10-16 05:16:43
+13462,739044,10,46153389,94,2,4860,81',0,0,Cori Dyke (Orlando Pride) Yellow Card at 81',Cori Dyke Yellow Card,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,318584.0,2025-10-16 05:16:43
+13462,739044,12,46153473,76,2,5400,90'+5',0,0,Paola García (Pachuca) Substitution at 95',Paola García Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,315353.0,2025-10-16 05:16:43
+13462,739044,11,46153467,76,2,5400,90'+3',0,0,Alexandra Godínez (Pachuca) Substitution at 93',Alexandra Godínez Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,393168.0,2025-10-16 05:16:43
+13462,739044,12,46153473,76,2,5400,90'+5',0,0,Paola García (Pachuca) Substitution at 95',Paola García Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,158840.0,2025-10-16 05:16:43
+13462,739044,11,46153467,76,2,5400,90'+3',0,0,Alexandra Godínez (Pachuca) Substitution at 93',Alexandra Godínez Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,220191.0,2025-10-16 05:16:43
+13462,739045,1,46155983,70,1,180,3',1,0,Seina Kashima (Vancouver Rise FC Academy) Goal at 3',Seina Kashima Goal,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,408717.0,2025-10-17 05:16:47
+13462,739045,2,46156033,98,1,720,12',1,0,Jenna-Lee Baxter (Vancouver Rise FC Academy) Penalty - Scored at 12',Jenna-Lee Baxter Penalty - Score,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,410316.0,2025-10-17 05:16:47
+13462,739045,3,46156068,70,1,1380,23',1,0,Seina Kashima (Vancouver Rise FC Academy) Goal at 23',Seina Kashima Goal,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,408717.0,2025-10-17 05:16:47
+13462,739045,4,46156091,70,1,2340,39',1,0,Myla Ewasiuk (Vancouver Rise FC Academy) Goal at 39',Myla Ewasiuk Goal,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,408718.0,2025-10-17 05:16:47
+13462,739045,5,46156093,70,1,2520,42',1,0,Bianca Patik (Vancouver Rise FC Academy) Goal at 42',Bianca Patik Goal,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,393242.0,2025-10-17 05:16:47
+13462,739045,6,46156097,70,1,2640,44',1,0,Jenna-Lee Baxter (Vancouver Rise FC Academy) Goal at 44',Jenna-Lee Baxter Goal,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,410316.0,2025-10-17 05:16:47
+13462,739045,8,46156103,76,2,2700,45',0,0,Nelly Raquel Ramirez (Alianza FC) Substitution at 45',Nelly Raquel Ramirez Substitutio,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,340299.0,2025-10-17 05:16:47
+13462,739045,7,46156102,76,2,2700,45',0,0,Joseline Rivas (Alianza FC) Substitution at 45',Joseline Rivas Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,340398.0,2025-10-17 05:16:47
+13462,739045,7,46156102,76,2,2700,45',0,0,Joseline Rivas (Alianza FC) Substitution at 45',Joseline Rivas Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,340399.0,2025-10-17 05:16:47
+13462,739045,8,46156103,76,2,2700,45',0,0,Nelly Raquel Ramirez (Alianza FC) Substitution at 45',Nelly Raquel Ramirez Substitutio,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,408687.0,2025-10-17 05:16:47
+13462,739045,9,46156104,70,2,2940,49',1,0,Myla Ewasiuk (Vancouver Rise FC Academy) Goal at 49',Myla Ewasiuk Goal,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,408718.0,2025-10-17 05:16:47
+13462,739045,10,46156105,76,2,3600,60',0,0,Racquel Partovi (Vancouver Rise FC Academy) Substitution at 60',Racquel Partovi Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,393290.0,2025-10-17 05:16:47
+13462,739045,10,46156105,76,2,3600,60',0,0,Racquel Partovi (Vancouver Rise FC Academy) Substitution at 60',Racquel Partovi Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,410315.0,2025-10-17 05:16:47
+13462,739045,11,46156106,76,2,3660,61',0,0,Allie Pazark (Vancouver Rise FC Academy) Substitution at 61',Allie Pazark Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,412745.0,2025-10-17 05:16:47
+13462,739045,11,46156106,76,2,3660,61',0,0,Allie Pazark (Vancouver Rise FC Academy) Substitution at 61',Allie Pazark Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,408717.0,2025-10-17 05:16:47
+13462,739045,12,46156107,70,2,3720,62',1,0,Bianca Patik (Vancouver Rise FC Academy) Goal at 62',Bianca Patik Goal,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,393242.0,2025-10-17 05:16:47
+13462,739045,13,46156108,76,2,3960,66',0,0,Brooklyn Boldt (Vancouver Rise FC Academy) Substitution at 66',Brooklyn Boldt Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,408734.0,2025-10-17 05:16:47
+13462,739045,13,46156108,76,2,3960,66',0,0,Brooklyn Boldt (Vancouver Rise FC Academy) Substitution at 66',Brooklyn Boldt Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,410316.0,2025-10-17 05:16:47
+13462,739045,14,46156109,76,2,4500,75',0,0,Alejandra Agundez (Alianza FC) Substitution at 75',Alejandra Agundez Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,1,408688.0,2025-10-17 05:16:47
+13462,739045,14,46156109,76,2,4500,75',0,0,Alejandra Agundez (Alianza FC) Substitution at 75',Alejandra Agundez Substitution,22418,0.0,0.0,0.0,0.0,0.0,0.0,2,409387.0,2025-10-17 05:16:47
+13462,739045,15,46156110,76,2,4740,79',0,0,Elizabeth Hicks (Vancouver Rise FC Academy) Substitution at 79',Elizabeth Hicks Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,408733.0,2025-10-17 05:16:47
+13462,739045,15,46156110,76,2,4740,79',0,0,Elizabeth Hicks (Vancouver Rise FC Academy) Substitution at 79',Elizabeth Hicks Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,408705.0,2025-10-17 05:16:47
+13462,739045,16,46156111,76,2,4800,80',0,0,Analisia Rafou (Vancouver Rise FC Academy) Substitution at 80',Analisia Rafou Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,1,408727.0,2025-10-17 05:16:47
+13462,739045,16,46156111,76,2,4800,80',0,0,Analisia Rafou (Vancouver Rise FC Academy) Substitution at 80',Analisia Rafou Substitution,131381,0.0,0.0,0.0,0.0,0.0,0.0,2,393252.0,2025-10-17 05:16:47

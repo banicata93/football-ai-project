@@ -52,7 +52,7 @@ run-api:
 
 # Стартиране в development режим
 run-dev:
-	uvicorn api.main:app --reload --host 0.0.0.0 --port 3000
+	uvicorn api.main:app --reload --host 0.0.0.0 --port 8000
 
 # Docker билд
 docker-build:
@@ -60,7 +60,7 @@ docker-build:
 
 # Docker пуск
 docker-run:
-	docker run -p 3000:3000 football-ai-service
+	docker run -p 8000:8000 football-ai-service
 
 # Генериране на features
 generate-features:

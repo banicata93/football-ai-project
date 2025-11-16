@@ -1,0 +1,10 @@
+{
+  "league": "usl_super_league",
+  "league_name": "USL Super League",
+  "league_id": 23633,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:35",
+  "total_matches": 118,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

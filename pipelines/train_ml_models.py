@@ -18,6 +18,7 @@ import xgboost as xgb
 import lightgbm as lgb
 from sklearn.preprocessing import LabelEncoder
 from sklearn.calibration import CalibratedClassifierCV
+from sklearn.isotonic import IsotonicRegression
 
 from core.ml_utils import (
     get_feature_columns, prepare_features, evaluate_classification,
@@ -53,8 +54,8 @@ def train_1x2_model(
     feature_cols = get_feature_columns()
     
     # Prepare features
-    X_train = prepare_features(train_df, feature_cols)
-    X_val = prepare_features(val_df, feature_cols)
+    X_train, _ = prepare_features(train_df, feature_cols)
+    X_val, _ = prepare_features(val_df, feature_cols)
     
     # Encode target
     y_train, label_map = encode_target_1x2(train_df['result'])
@@ -79,30 +80,80 @@ def train_1x2_model(
             verbose=False
         )
     
-    # Predictions
-    y_train_pred = model.predict(X_train)
-    y_train_proba = model.predict_proba(X_train)
+    # Raw predictions за калибрация
+    logger.info("\n🎯 КАЛИБРАЦИЯ НА 1X2 МОДЕЛ...")
     
-    y_val_pred = model.predict(X_val)
-    y_val_proba = model.predict_proba(X_val)
+    # Получаваме raw probabilities
+    y_train_proba_raw = model.predict_proba(X_train)
+    y_val_proba_raw = model.predict_proba(X_val)
+    
+    # Създаваме независими калибратори за всеки клас
+    calibrators = {}
+    class_names = ['1', 'X', '2']
+    
+    logger.info("Тренировка на IsotonicRegression калибратори...")
+    
+    for i, class_name in enumerate(class_names):
+        logger.info(f"  Калибратор за клас {class_name}...")
+        
+        # Бинарни targets за текущия клас
+        y_val_binary = (y_val == i).astype(int)
+        y_val_prob_class = y_val_proba_raw[:, i]
+        
+        # Тренираме IsotonicRegression калибратор
+        calibrator = IsotonicRegression(out_of_bounds='clip')
+        calibrator.fit(y_val_prob_class, y_val_binary)
+        
+        calibrators[class_name] = calibrator
+        
+        logger.info(f"    ✓ Калибратор {class_name}: {len(y_val_prob_class)} samples")
+    
+    # Прилагаме калибрация
+    def apply_calibration(raw_probs, calibrators):
+        """Прилага калибрация и нормализира вероятностите"""
+        calibrated_probs = np.zeros_like(raw_probs)
+        
+        for i, class_name in enumerate(['1', 'X', '2']):
+            calibrated_probs[:, i] = calibrators[class_name].predict(raw_probs[:, i])
+        
+        # Нормализация до сума = 1
+        row_sums = calibrated_probs.sum(axis=1, keepdims=True)
+        row_sums = np.where(row_sums == 0, 1, row_sums)  # Избягване на деление на 0
+        calibrated_probs = calibrated_probs / row_sums
+        
+        return calibrated_probs
+    
+    # Калибрирани predictions
+    y_train_proba = apply_calibration(y_train_proba_raw, calibrators)
+    y_val_proba = apply_calibration(y_val_proba_raw, calibrators)
+    
+    y_train_pred = np.argmax(y_train_proba, axis=1)
+    y_val_pred = np.argmax(y_val_proba, axis=1)
     
     # Evaluation
-    logger.info("\n--- TRAIN SET ---")
+    logger.info("\n--- TRAIN SET (Калибриран) ---")
     train_metrics = evaluate_classification(
         y_train, y_train_pred, y_train_proba,
-        labels=['1', 'X', '2'], model_name="1X2 Train"
+        labels=['1', 'X', '2'], model_name="1X2 Train Calibrated"
     )
     
-    logger.info("\n--- VALIDATION SET ---")
+    logger.info("\n--- VALIDATION SET (Калибриран) ---")
     val_metrics = evaluate_classification(
         y_val, y_val_pred, y_val_proba,
-        labels=['1', 'X', '2'], model_name="1X2 Val"
+        labels=['1', 'X', '2'], model_name="1X2 Val Calibrated"
     )
     
     # Feature importance
     get_feature_importance(model, X_train.columns.tolist(), top_n=15)
     
-    return model, X_train.columns.tolist(), {'train': train_metrics, 'val': val_metrics}
+    # Връщаме модела с калибраторите
+    model_with_calibrators = {
+        'base_model': model,
+        'calibrators': calibrators,
+        'apply_calibration': apply_calibration
+    }
+    
+    return model_with_calibrators, X_train.columns.tolist(), {'train': train_metrics, 'val': val_metrics}
 
 
 def train_ou25_model(
@@ -131,8 +182,8 @@ def train_ou25_model(
     feature_cols = get_feature_columns()
     
     # Prepare features
-    X_train = prepare_features(train_df, feature_cols)
-    X_val = prepare_features(val_df, feature_cols)
+    X_train, _ = prepare_features(train_df, feature_cols)
+    X_val, _ = prepare_features(val_df, feature_cols)
     
     # Target
     y_train = train_df['over_25'].values
@@ -209,8 +260,8 @@ def train_btts_model(
     feature_cols = get_feature_columns()
     
     # Prepare features
-    X_train = prepare_features(train_df, feature_cols)
-    X_val = prepare_features(val_df, feature_cols)
+    X_train, _ = prepare_features(train_df, feature_cols)
+    X_val, _ = prepare_features(val_df, feature_cols)
     
     # Target
     y_train = train_df['btts'].values
@@ -406,7 +457,7 @@ def save_model(
     Запазване на модел
     
     Args:
-        model: Обучен модел
+        model: Обучен модел (може да е dict с калибратори за 1X2)
         feature_cols: Feature колони
         metrics: Метрики
         model_name: Име на модела
@@ -416,10 +467,26 @@ def save_model(
     
     os.makedirs(output_dir, exist_ok=True)
     
-    # Запазване на модела
-    model_path = os.path.join(output_dir, f"{model_name}_model.pkl")
-    joblib.dump(model, model_path)
-    logger.info(f"Модел запазен: {model_path}")
+    # Специално третиране за 1X2 модел с калибратори
+    if isinstance(model, dict) and 'calibrators' in model:
+        # Запазване на базовия модел
+        base_model_path = os.path.join(output_dir, f"{model_name}_model.pkl")
+        joblib.dump(model['base_model'], base_model_path)
+        logger.info(f"Базов модел запазен: {base_model_path}")
+        
+        # Запазване на калибраторите
+        for class_name, calibrator in model['calibrators'].items():
+            calibrator_path = os.path.join(output_dir, f"calibrator_{class_name}.pkl")
+            joblib.dump(calibrator, calibrator_path)
+            logger.info(f"Калибратор {class_name} запазен: {calibrator_path}")
+        
+        model_type = f"{type(model['base_model']).__name__}_with_calibrators"
+    else:
+        # Стандартно запазване на модела
+        model_path = os.path.join(output_dir, f"{model_name}_model.pkl")
+        joblib.dump(model, model_path)
+        logger.info(f"Модел запазен: {model_path}")
+        model_type = type(model).__name__
     
     # Запазване на feature columns
     features_path = os.path.join(output_dir, "feature_columns.json")
@@ -433,11 +500,12 @@ def save_model(
     # Model info
     model_info = {
         'model_name': model_name,
-        'model_type': type(model).__name__,
+        'model_type': model_type,
         'trained_date': datetime.now().isoformat(),
         'num_features': len(feature_cols),
         'train_accuracy': metrics['train'].get('accuracy', 0),
-        'val_accuracy': metrics['val'].get('accuracy', 0)
+        'val_accuracy': metrics['val'].get('accuracy', 0),
+        'has_calibrators': isinstance(model, dict) and 'calibrators' in model
     }
     
     info_path = os.path.join(output_dir, "model_info.json")

@@ -1,0 +1,187 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+12902,731056,1,44657350,70,Daizen Maeda (Celtic) Goal at 6',Daizen Maeda Goal,1,360,6',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,286347,Daizen Maeda,2025-02-09 05:52:19
+12902,731056,2,44657704,76,Reo Hatate (Celtic) Substitution at 37',Reo Hatate Substitution,1,2220,37',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288891,Reo Hatate,2025-02-09 05:52:19
+12902,731056,2,44657704,76,Reo Hatate (Celtic) Substitution at 37',Reo Hatate Substitution,1,2220,37',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,310802,Paulo Bernardo,2025-02-09 05:52:19
+12902,731056,3,44657865,70,Daizen Maeda (Celtic) Goal at 48',Daizen Maeda Goal,1,2700,45'+3',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,286347,Daizen Maeda,2025-02-09 05:52:19
+12902,731056,4,44658071,70,Luke McCowan (Celtic) Goal at 47',Luke McCowan Goal,2,2820,47',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,259208,Luke McCowan,2025-02-09 05:52:19
+12902,731056,5,44658181,70,Yang Hyun-Jun (Celtic) Goal at 56',Yang Hyun-Jun Goal,2,3360,56',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,350711,Yang Hyun-Jun,2025-02-09 05:52:19
+12902,731056,6,44658202,76,Finlay Pollock (Raith Rovers) Substitution at 57',Finlay Pollock Substitution,2,3420,57',249,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,318357,Finlay Pollock,2025-02-09 05:52:19
+12902,731056,6,44658202,76,Finlay Pollock (Raith Rovers) Substitution at 57',Finlay Pollock Substitution,2,3420,57',249,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,261453,James Gullan,2025-02-09 05:52:19
+12902,731056,7,44658295,76,Arne Engels (Celtic) Substitution at 65',Arne Engels Substitution,2,3900,65',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,314177,Arne Engels,2025-02-09 05:52:19
+12902,731056,8,44658296,76,Jota (Celtic) Substitution at 65',Jota Substitution,2,3900,65',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,258915,Jota,2025-02-09 05:52:19
+12902,731056,9,44658297,76,Johnny Kenny (Celtic) Substitution at 65',Johnny Kenny Substitution,2,3900,65',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,318052,Johnny Kenny,2025-02-09 05:52:19
+12902,731056,7,44658295,76,Arne Engels (Celtic) Substitution at 65',Arne Engels Substitution,2,3900,65',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,84049,Callum McGregor,2025-02-09 05:52:19
+12902,731056,8,44658296,76,Jota (Celtic) Substitution at 65',Jota Substitution,2,3900,65',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260262,Nicolas Kühn,2025-02-09 05:52:19
+12902,731056,9,44658297,76,Johnny Kenny (Celtic) Substitution at 65',Johnny Kenny Substitution,2,3900,65',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,350711,Yang Hyun-Jun,2025-02-09 05:52:19
+12902,731056,10,44658375,76,Maik Nawrocki (Celtic) Substitution at 72',Maik Nawrocki Substitution,2,4320,72',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288487,Maik Nawrocki,2025-02-09 05:52:19
+12902,731056,10,44658375,76,Maik Nawrocki (Celtic) Substitution at 72',Maik Nawrocki Substitution,2,4320,72',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,205646,Jeff Schlupp,2025-02-09 05:52:19
+12902,731056,11,44658441,70,Daizen Maeda (Celtic) Goal at 77',Daizen Maeda Goal,2,4620,77',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,286347,Daizen Maeda,2025-02-09 05:52:19
+12902,731056,12,44658707,76,Aiden Marsh (Raith Rovers) Substitution at 89',Aiden Marsh Substitution,2,5340,89',249,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291254,Aiden Marsh,2025-02-09 05:52:19
+12902,731056,12,44658707,76,Aiden Marsh (Raith Rovers) Substitution at 89',Aiden Marsh Substitution,2,5340,89',249,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,168215,Dylan Easton,2025-02-09 05:52:19
+12902,731057,1,44674381,70,Mikael Mandron (St Mirren) Goal at 23',Mikael Mandron Goal,1,1380,23',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,185462,Mikael Mandron,2025-02-11 05:49:50
+12902,731057,2,44674714,76,Michael Steinwender (Heart of Midlothian) Substitution at 52',Michael Steinwender Substitution,2,3120,52',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,274020,Michael Steinwender,2025-02-11 05:49:50
+12902,731057,2,44674714,76,Michael Steinwender (Heart of Midlothian) Substitution at 52',Michael Steinwender Substitution,2,3120,52',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,302077,Lewis Neilson,2025-02-11 05:49:50
+12902,731057,3,44674792,76,James Wilson (Heart of Midlothian) Substitution at 63',James Wilson Substitution,2,3780,63',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,362560,James Wilson,2025-02-11 05:49:50
+12902,731057,4,44674793,76,Sander Kartum (Heart of Midlothian) Substitution at 63',Sander Kartum Substitution,2,3780,63',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312900,Sander Kartum,2025-02-11 05:49:50
+12902,731057,3,44674792,76,James Wilson (Heart of Midlothian) Substitution at 63',James Wilson Substitution,2,3780,63',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,276917,Cameron Devlin,2025-02-11 05:49:50
+12902,731057,4,44674793,76,Sander Kartum (Heart of Midlothian) Substitution at 63',Sander Kartum Substitution,2,3780,63',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,190289,Alan Forrest,2025-02-11 05:49:50
+12902,731057,5,44674846,76,Elvis Bwomono (St Mirren) Substitution at 70',Elvis Bwomono Substitution,2,4200,70',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,262054,Elvis Bwomono,2025-02-11 05:49:50
+12902,731057,5,44674846,76,Elvis Bwomono (St Mirren) Substitution at 70',Elvis Bwomono Substitution,2,4200,70',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,307162,Ryan Alebiousu,2025-02-11 05:49:50
+12902,731057,6,44674956,76,Calem Nieuwenhof (Heart of Midlothian) Substitution at 83',Calem Nieuwenhof Substitution,2,4980,83',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,295546,Calem Nieuwenhof,2025-02-11 05:49:50
+12902,731057,7,44674957,76,Gerald Taylor (Heart of Midlothian) Substitution at 83',Gerald Taylor Substitution,2,4980,83',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335998,Gerald Taylor,2025-02-11 05:49:50
+12902,731057,6,44674956,76,Calem Nieuwenhof (Heart of Midlothian) Substitution at 83',Calem Nieuwenhof Substitution,2,4980,83',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,178894,Blair Spittal,2025-02-11 05:49:50
+12902,731057,7,44674957,76,Gerald Taylor (Heart of Midlothian) Substitution at 83',Gerald Taylor Substitution,2,4980,83',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,350934,Adam Forrester,2025-02-11 05:49:50
+12902,731057,8,44674958,70,Calem Nieuwenhof (Heart of Midlothian) Goal at 84',Calem Nieuwenhof Goal,2,5040,84',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,295546,Calem Nieuwenhof,2025-02-11 05:49:50
+12902,731057,9,44675037,76,Evan Mooney (St Mirren) Substitution at 92',Evan Mooney Substitution,2,5400,90'+2',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,379450,Evan Mooney,2025-02-11 05:49:50
+12902,731057,10,44675101,94,Alexander Gogic (St Mirren) Yellow Card at 101',Alexander Gogic Yellow Card,2,5400,90'+11',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,243535,Alexander Gogic,2025-02-11 05:49:50
+12902,731057,11,44675123,76,Oisin Smyth (St Mirren) Substitution at 90',Oisin Smyth Substitution,3,5400,90',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,314525,Oisin Smyth,2025-02-11 05:49:50
+12902,731057,12,44675124,76,Greg Kiltie (St Mirren) Substitution at 90',Greg Kiltie Substitution,3,5400,90',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,198162,Greg Kiltie,2025-02-11 05:49:50
+12902,731057,9,44675037,76,Evan Mooney (St Mirren) Substitution at 92',Evan Mooney Substitution,2,5400,90'+2',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,236121,Toyosi Olusanya,2025-02-11 05:49:50
+12902,731057,11,44675123,76,Oisin Smyth (St Mirren) Substitution at 90',Oisin Smyth Substitution,3,5400,90',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291527,Caolan Boyd-Munce,2025-02-11 05:49:50
+12902,731057,12,44675124,76,Greg Kiltie (St Mirren) Substitution at 90',Greg Kiltie Substitution,3,5400,90',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,177854,Mark O'Hara,2025-02-11 05:49:50
+12902,731057,13,44675203,76,Jorge Grant (Heart of Midlothian) Substitution at 105',Jorge Grant Substitution,4,6300,105',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,190876,Jorge Grant,2025-02-11 05:49:50
+12902,731057,14,44675204,76,Kenneth Vargas (Heart of Midlothian) Substitution at 105',Kenneth Vargas Substitution,4,6300,105',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,326191,Kenneth Vargas,2025-02-11 05:49:50
+12902,731057,13,44675203,76,Jorge Grant (Heart of Midlothian) Substitution at 105',Jorge Grant Substitution,4,6300,105',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,173306,Lawrence Shankland,2025-02-11 05:49:50
+12902,731057,14,44675204,76,Kenneth Vargas (Heart of Midlothian) Substitution at 105',Kenneth Vargas Substitution,4,6300,105',262,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,254275,Elton Kabangu,2025-02-11 05:49:50
+12902,731057,15,44675225,76,James Scott (St Mirren) Substitution at 110',James Scott Substitution,4,6600,110',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,179432,James Scott,2025-02-11 05:49:50
+12902,731057,15,44675225,76,James Scott (St Mirren) Substitution at 110',James Scott Substitution,4,6600,110',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,185462,Mikael Mandron,2025-02-11 05:49:50
+12902,731057,16,44675226,76,Luke Kenny (St Mirren) Substitution at 111',Luke Kenny Substitution,4,6660,111',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,323090,Luke Kenny,2025-02-11 05:49:50
+12902,731057,16,44675226,76,Luke Kenny (St Mirren) Substitution at 111',Luke Kenny Substitution,4,6660,111',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,319132,Killian Phillips,2025-02-11 05:49:50
+12902,731057,17,44675232,94,Oisin Smyth (St Mirren) Yellow Card at 120',Oisin Smyth Yellow Card,4,7200,120',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,314525,Oisin Smyth,2025-02-11 05:49:50
+12902,731057,18,44675234,94,Marcus Fraser (St Mirren) Yellow Card at 120',Marcus Fraser Yellow Card,5,7200,120',250,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,168398,Marcus Fraser,2025-02-11 05:49:50
+12902,731058,1,44664758,94,Chris Hamilton (Dunfermline Athletic) Yellow Card at 33',Chris Hamilton Yellow Card,1,1980,33',265,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,238867,Chris Hamilton,2025-02-10 05:49:14
+12902,731058,2,44664908,70,Habib Gueye (Aberdeen) Goal at 46',Habib Gueye Goal,1,2700,45'+1',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,256674,Habib Gueye,2025-02-10 05:49:14
+12902,731058,3,44665070,70,Alexander Jensen (Aberdeen) Goal at 50',Alexander Jensen Goal,2,3000,50',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,259529,Alexander Jensen,2025-02-10 05:49:14
+12902,731058,4,44665133,76,Ephraim Yeboah (Dunfermline Athletic) Substitution at 55',Ephraim Yeboah Substitution,2,3300,55',265,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,367505,Ephraim Yeboah,2025-02-10 05:49:14
+12902,731058,5,44665134,76,Kieran Ngwenya (Dunfermline Athletic) Substitution at 55',Kieran Ngwenya Substitution,2,3300,55',265,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,308893,Kieran Ngwenya,2025-02-10 05:49:14
+12902,731058,4,44665133,76,Ephraim Yeboah (Dunfermline Athletic) Substitution at 55',Ephraim Yeboah Substitution,2,3300,55',265,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,238867,Chris Hamilton,2025-02-10 05:49:14
+12902,731058,5,44665134,76,Kieran Ngwenya (Dunfermline Athletic) Substitution at 55',Kieran Ngwenya Substitution,2,3300,55',265,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,168397,Joe Chalmers,2025-02-10 05:49:14
+12902,731058,6,44665207,76,Shayden Morris (Aberdeen) Substitution at 61',Shayden Morris Substitution,2,3660,61',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,296466,Shayden Morris,2025-02-10 05:49:14
+12902,731058,6,44665207,76,Shayden Morris (Aberdeen) Substitution at 61',Shayden Morris Substitution,2,3660,61',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239166,Jeppe Okkels,2025-02-10 05:49:14
+12902,731058,7,44665257,76,Kane Ritchie-Hosler (Dunfermline Athletic) Substitution at 67',Kane Ritchie-Hosler Substitution,2,4020,67',265,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,293660,Kane Ritchie-Hosler,2025-02-10 05:49:14
+12902,731058,8,44665258,76,Michael O'Halloran (Dunfermline Athletic) Substitution at 67',Michael O'Halloran Substitution,2,4020,67',265,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,154809,Michael O'Halloran,2025-02-10 05:49:14
+12902,731058,7,44665257,76,Kane Ritchie-Hosler (Dunfermline Athletic) Substitution at 67',Kane Ritchie-Hosler Substitution,2,4020,67',265,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,162837,Christopher Kane,2025-02-10 05:49:14
+12902,731058,8,44665258,76,Michael O'Halloran (Dunfermline Athletic) Substitution at 67',Michael O'Halloran Substitution,2,4020,67',265,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,349118,Archie Stevens,2025-02-10 05:49:14
+12902,731058,9,44665259,76,Alfie Dorrington (Aberdeen) Substitution at 68',Alfie Dorrington Substitution,2,4080,68',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,348264,Alfie Dorrington,2025-02-10 05:49:14
+12902,731058,10,44665260,76,Graeme Shinnie (Aberdeen) Substitution at 68',Graeme Shinnie Substitution,2,4080,68',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,138206,Graeme Shinnie,2025-02-10 05:49:14
+12902,731058,9,44665259,76,Alfie Dorrington (Aberdeen) Substitution at 68',Alfie Dorrington Substitution,2,4080,68',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,284741,Mats Knoester,2025-02-10 05:49:14
+12902,731058,10,44665260,76,Graeme Shinnie (Aberdeen) Substitution at 68',Graeme Shinnie Substitution,2,4080,68',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,238091,Sivert Heltne Nilsen,2025-02-10 05:49:14
+12902,731058,11,44665425,94,Ephraim Yeboah (Dunfermline Athletic) Yellow Card at 81',Ephraim Yeboah Yellow Card,2,4860,81',265,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,367505,Ephraim Yeboah,2025-02-10 05:49:14
+12902,731058,12,44665511,70,Kevin Nisbet (Aberdeen) Goal at 85',Kevin Nisbet Goal,2,5100,85',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,223369,Kevin Nisbet,2025-02-10 05:49:14
+12902,731058,13,44665571,76,Fletcher Boyd (Aberdeen) Substitution at 88',Fletcher Boyd Substitution,2,5280,88',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366762,Fletcher Boyd,2025-02-10 05:49:14
+12902,731058,14,44665572,76,Leighton Clarkson (Aberdeen) Substitution at 88',Leighton Clarkson Substitution,2,5280,88',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291642,Leighton Clarkson,2025-02-10 05:49:14
+12902,731058,15,44665573,76,Owen Hampson (Dunfermline Athletic) Substitution at 88',Owen Hampson Substitution,2,5280,88',265,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,384109,Owen Hampson,2025-02-10 05:49:14
+12902,731058,13,44665571,76,Fletcher Boyd (Aberdeen) Substitution at 88',Fletcher Boyd Substitution,2,5280,88',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,256674,Habib Gueye,2025-02-10 05:49:14
+12902,731058,14,44665572,76,Leighton Clarkson (Aberdeen) Substitution at 88',Leighton Clarkson Substitution,2,5280,88',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,276581,Ante Palaversa,2025-02-10 05:49:14
+12902,731058,15,44665573,76,Owen Hampson (Dunfermline Athletic) Substitution at 88',Owen Hampson Substitution,2,5280,88',265,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,137726,David Wotherspoon,2025-02-10 05:49:14
+12902,731058,16,44665657,94,Kristers Tobers (Aberdeen) Yellow Card at 95',Kristers Tobers Yellow Card,2,5400,90'+5',263,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,274560,Kristers Tobers,2025-02-10 05:49:14
+12902,731059,1,44653643,70,Clark Robertson (Dundee) Goal at 13',Clark Robertson Goal,1,780,13',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,146546,Clark Robertson,2025-02-09 05:52:19
+12902,731059,2,44653948,70,Lyall Cameron (Dundee) Goal at 25',Lyall Cameron Goal,1,1500,25',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288579,Lyall Cameron,2025-02-09 05:52:19
+12902,731059,3,44654430,70,Oluwaseun Adewumi (Dundee) Goal at 40',Oluwaseun Adewumi Goal,1,2400,40',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,390645,Oluwaseun Adewumi,2025-02-09 05:52:19
+12902,731059,4,44654562,70,Lyall Cameron (Dundee) Goal at 44',Lyall Cameron Goal,1,2640,44',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288579,Lyall Cameron,2025-02-09 05:52:19
+12902,731059,5,44655409,76,Rhys Armstrong (Airdrieonians) Substitution at 57',Rhys Armstrong Substitution,2,3420,57',2500,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,298262,Rhys Armstrong,2025-02-09 05:52:19
+12902,731059,6,44655410,76,Lewis Mcgregor (Airdrieonians) Substitution at 57',Lewis Mcgregor Substitution,2,3420,57',2500,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,322779,Lewis Mcgregor,2025-02-09 05:52:19
+12902,731059,5,44655409,76,Rhys Armstrong (Airdrieonians) Substitution at 57',Rhys Armstrong Substitution,2,3420,57',2500,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,293661,Dean Mcmaster,2025-02-09 05:52:19
+12902,731059,6,44655410,76,Lewis Mcgregor (Airdrieonians) Substitution at 57',Lewis Mcgregor Substitution,2,3420,57',2500,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282316,Lewis Mcgrattan,2025-02-09 05:52:19
+12902,731059,7,44655459,94,Lyall Cameron (Dundee) Yellow Card at 59',Lyall Cameron Yellow Card,2,3540,59',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288579,Lyall Cameron,2025-02-09 05:52:19
+12902,731059,8,44655566,76,Victor Lopez (Dundee) Substitution at 61',Victor Lopez Substitution,2,3660,61',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,364700,Victor Lopez,2025-02-09 05:52:19
+12902,731059,8,44655566,76,Victor Lopez (Dundee) Substitution at 61',Victor Lopez Substitution,2,3660,61',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,390645,Oluwaseun Adewumi,2025-02-09 05:52:19
+12902,731059,9,44655674,94,Clark Robertson (Dundee) Yellow Card at 64',Clark Robertson Yellow Card,2,3840,64',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,146546,Clark Robertson,2025-02-09 05:52:19
+12902,731059,10,44655764,76,Liam Mcstravick (Airdrieonians) Substitution at 66',Liam Mcstravick Substitution,2,3960,66',2500,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,355491,Liam Mcstravick,2025-02-09 05:52:19
+12902,731059,11,44655765,76,Mason Hancock (Airdrieonians) Substitution at 66',Mason Hancock Substitution,2,3960,66',2500,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,323780,Mason Hancock,2025-02-09 05:52:19
+12902,731059,10,44655764,76,Liam Mcstravick (Airdrieonians) Substitution at 66',Liam Mcstravick Substitution,2,3960,66',2500,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,287931,Chris Mochrie,2025-02-09 05:52:19
+12902,731059,11,44655765,76,Mason Hancock (Airdrieonians) Substitution at 66',Mason Hancock Substitution,2,3960,66',2500,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,337086,Cameron Bruce,2025-02-09 05:52:19
+12902,731059,12,44655991,76,Imari Samuels (Dundee) Substitution at 71',Imari Samuels Substitution,2,4260,71',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,306493,Imari Samuels,2025-02-09 05:52:19
+12902,731059,13,44655992,76,Mohamad Sylla (Dundee) Substitution at 71',Mohamad Sylla Substitution,2,4260,71',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,284426,Mohamad Sylla,2025-02-09 05:52:19
+12902,731059,12,44655991,76,Imari Samuels (Dundee) Substitution at 71',Imari Samuels Substitution,2,4260,71',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,307164,Ziyad Larkeche,2025-02-09 05:52:19
+12902,731059,13,44655992,76,Mohamad Sylla (Dundee) Substitution at 71',Mohamad Sylla Substitution,2,4260,71',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288579,Lyall Cameron,2025-02-09 05:52:19
+12902,731059,14,44655993,76,Finlay Robertson (Dundee) Substitution at 72',Finlay Robertson Substitution,2,4320,72',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288581,Finlay Robertson,2025-02-09 05:52:19
+12902,731059,14,44655993,76,Finlay Robertson (Dundee) Substitution at 72',Finlay Robertson Substitution,2,4320,72',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,186166,Jordan McGhee,2025-02-09 05:52:19
+12902,731059,15,44656200,76,Cameron Cooper (Airdrieonians) Substitution at 80',Cameron Cooper Substitution,2,4800,80',2500,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,386210,Cameron Cooper,2025-02-09 05:52:19
+12902,731059,15,44656200,76,Cameron Cooper (Airdrieonians) Substitution at 80',Cameron Cooper Substitution,2,4800,80',2500,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,169619,Ben Wilson,2025-02-09 05:52:19
+12902,731059,16,44656297,76,Joe Shaughnessy (Dundee) Substitution at 82',Joe Shaughnessy Substitution,2,4920,82',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,143180,Joe Shaughnessy,2025-02-09 05:52:19
+12902,731059,16,44656297,76,Joe Shaughnessy (Dundee) Substitution at 82',Joe Shaughnessy Substitution,2,4920,82',261,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,146546,Clark Robertson,2025-02-09 05:52:19
+12902,731059,17,44656500,94,Dylan Mcdonald (Airdrieonians) Yellow Card at 87',Dylan Mcdonald Yellow Card,2,5220,87',2500,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,295739,Dylan Mcdonald,2025-02-09 05:52:19
+12902,731060,1,44653868,70,Ryan McGowan (Livingston) Goal at 25',Ryan McGowan Goal,1,1500,25',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,161755,Ryan McGowan,2025-02-09 05:52:19
+12902,731060,2,44655252,76,Tete Yengi (Livingston) Substitution at 56',Tete Yengi Substitution,2,3360,56',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312261,Tete Yengi,2025-02-09 05:52:19
+12902,731060,3,44655253,76,Scott Pittman (Livingston) Substitution at 56',Scott Pittman Substitution,2,3360,56',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,223406,Scott Pittman,2025-02-09 05:52:19
+12902,731060,2,44655252,76,Tete Yengi (Livingston) Substitution at 56',Tete Yengi Substitution,2,3360,56',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,137367,Cristian Montano,2025-02-09 05:52:19
+12902,731060,3,44655253,76,Scott Pittman (Livingston) Substitution at 56',Scott Pittman Substitution,2,3360,56',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,294322,Reece McAlear,2025-02-09 05:52:19
+12902,731060,4,44655575,76,Matthew Clarke (Livingston) Substitution at 64',Matthew Clarke Substitution,2,3840,64',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,199321,Matthew Clarke,2025-02-09 05:52:19
+12902,731060,5,44655576,76,Andrew Shinnie (Livingston) Substitution at 64',Andrew Shinnie Substitution,2,3840,64',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,108365,Andrew Shinnie,2025-02-09 05:52:19
+12902,731060,4,44655575,76,Matthew Clarke (Livingston) Substitution at 64',Matthew Clarke Substitution,2,3840,64',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,322992,Robbie Fraser,2025-02-09 05:52:19
+12902,731060,5,44655576,76,Andrew Shinnie (Livingston) Substitution at 64',Andrew Shinnie Substitution,2,3840,64',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239256,Jamie Brandon,2025-02-09 05:52:19
+12902,731060,6,44656085,76,William Gillingham (Cove Rangers) Substitution at 78',William Gillingham Substitution,2,4680,78',2613,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,300075,William Gillingham,2025-02-09 05:52:19
+12902,731060,7,44656086,76,Miles Gaffney (Cove Rangers) Substitution at 78',Miles Gaffney Substitution,2,4680,78',2613,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,321821,Miles Gaffney,2025-02-09 05:52:19
+12902,731060,8,44656087,76,Liam Parker (Cove Rangers) Substitution at 78',Liam Parker Substitution,2,4680,78',2613,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,324849,Liam Parker,2025-02-09 05:52:19
+12902,731060,6,44656085,76,William Gillingham (Cove Rangers) Substitution at 78',William Gillingham Substitution,2,4680,78',2613,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260284,Declan Glass,2025-02-09 05:52:19
+12902,731060,7,44656086,76,Miles Gaffney (Cove Rangers) Substitution at 78',Miles Gaffney Substitution,2,4680,78',2613,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,194473,Conor Scully,2025-02-09 05:52:19
+12902,731060,8,44656087,76,Liam Parker (Cove Rangers) Substitution at 78',Liam Parker Substitution,2,4680,78',2613,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,324755,Findlay Marshall,2025-02-09 05:52:19
+12902,731060,9,44656088,76,Lewis Smith (Livingston) Substitution at 79',Lewis Smith Substitution,2,4740,79',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,192094,Lewis Smith,2025-02-09 05:52:19
+12902,731060,9,44656088,76,Lewis Smith (Livingston) Substitution at 79',Lewis Smith Substitution,2,4740,79',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,16154,Stevie May,2025-02-09 05:52:19
+12902,731060,10,44656141,70,Tete Yengi (Livingston) Goal at 81',Tete Yengi Goal,2,4860,81',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312261,Tete Yengi,2025-02-09 05:52:19
+12902,731060,11,44656190,70,Tete Yengi (Livingston) Goal at 83',Tete Yengi Goal,2,4980,83',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312261,Tete Yengi,2025-02-09 05:52:19
+12902,731060,12,44656290,76,Grady Mcgrath (Cove Rangers) Substitution at 84',Grady Mcgrath Substitution,2,5040,84',2613,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279963,Grady Mcgrath,2025-02-09 05:52:19
+12902,731060,12,44656290,76,Grady Mcgrath (Cove Rangers) Substitution at 84',Grady Mcgrath Substitution,2,5040,84',2613,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,137801,Mitchel Megginson,2025-02-09 05:52:19
+12902,731060,13,44656460,94,Fraser Fyvie (Cove Rangers) Yellow Card at 88',Fraser Fyvie Yellow Card,2,5280,88',2613,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,139657,Fraser Fyvie,2025-02-09 05:52:19
+12902,731061,1,44667491,76,Cyriel Dessers (Rangers) Substitution at 45',Cyriel Dessers Substitution,2,2700,45',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,212250,Cyriel Dessers,2025-02-10 05:49:14
+12902,731061,2,44667492,76,Nicolas Raskin (Rangers) Substitution at 45',Nicolas Raskin Substitution,2,2700,45',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260027,Nicolas Raskin,2025-02-10 05:49:14
+12902,731061,1,44667491,76,Cyriel Dessers (Rangers) Substitution at 45',Cyriel Dessers Substitution,2,2700,45',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,252559,Nedim Bajrami,2025-02-10 05:49:14
+12902,731061,2,44667492,76,Nicolas Raskin (Rangers) Substitution at 45',Nicolas Raskin Substitution,2,2700,45',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,354402,Bailey Rice,2025-02-10 05:49:14
+12902,731061,3,44667776,76,John Souttar (Rangers) Substitution at 60',John Souttar Substitution,2,3600,60',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,181394,John Souttar,2025-02-10 05:49:14
+12902,731061,3,44667776,76,John Souttar (Rangers) Substitution at 60',John Souttar Substitution,2,3600,60',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,346675,Rafael Fernandes,2025-02-10 05:49:14
+12902,731061,4,44667777,76,Ridvan Yilmaz (Rangers) Substitution at 61',Ridvan Yilmaz Substitution,2,3660,61',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,283691,Ridvan Yilmaz,2025-02-10 05:49:14
+12902,731061,4,44667777,76,Ridvan Yilmaz (Rangers) Substitution at 61',Ridvan Yilmaz Substitution,2,3660,61',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,240062,Ianis Hagi,2025-02-10 05:49:14
+12902,731061,5,44667882,76,Seb Drozd (Queen's Park) Substitution at 67',Seb Drozd Substitution,2,4020,67',422,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,359709,Seb Drozd,2025-02-10 05:49:14
+12902,731061,5,44667882,76,Seb Drozd (Queen's Park) Substitution at 67',Seb Drozd Substitution,2,4020,67',422,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,306846,Kyle Hurst,2025-02-10 05:49:14
+12902,731061,6,44667916,70,Seb Drozd (Queen's Park) Goal at 69',Seb Drozd Goal,2,4140,69',422,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,359709,Seb Drozd,2025-02-10 05:49:14
+12902,731061,7,44667987,76,Adam Montgomery (Queen's Park) Substitution at 72',Adam Montgomery Substitution,2,4320,72',422,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,287698,Adam Montgomery,2025-02-10 05:49:14
+12902,731061,7,44667987,76,Adam Montgomery (Queen's Park) Substitution at 72',Adam Montgomery Substitution,2,4320,72',422,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,38106,Joshua Scott,2025-02-10 05:49:14
+12902,731061,8,44668199,76,Tom Lawrence (Rangers) Substitution at 86',Tom Lawrence Substitution,2,5160,86',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,196698,Tom Lawrence,2025-02-10 05:49:14
+12902,731061,8,44668199,76,Tom Lawrence (Rangers) Substitution at 86',Tom Lawrence Substitution,2,5160,86',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,303049,Mohammed Diomande,2025-02-10 05:49:14
+12902,731061,9,44668343,174,James Tavernier (Rangers) Penalty - Saved at 97',James Tavernier Penalty - Saved,2,5400,90'+7',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,141144,James Tavernier,2025-02-10 05:49:14
+12902,731062,1,44654232,94,Elliot Watt (St Johnstone) Yellow Card at 35',Elliot Watt Yellow Card,1,2100,35',267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,252392,Elliot Watt,2025-02-09 05:52:19
+12902,731062,2,44654559,94,Kyle MacDonald (Hamilton Academical) Yellow Card at 45',Kyle MacDonald Yellow Card,1,2700,45',409,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,168204,Kyle MacDonald,2025-02-09 05:52:19
+12902,731062,3,44654982,76,Stephen Duke-McKenna (St Johnstone) Substitution at 45',Stephen Duke-McKenna Substitutio,2,2700,45',267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,268783,Stephen Duke-McKenna,2025-02-09 05:52:19
+12902,731062,3,44654982,76,Stephen Duke-McKenna (St Johnstone) Substitution at 45',Stephen Duke-McKenna Substitutio,2,2700,45',267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,209485,Sam Curtis,2025-02-09 05:52:19
+12902,731062,4,44655364,94,Stephen Hendrie (Hamilton Academical) Yellow Card at 55',Stephen Hendrie Yellow Card,2,3300,55',409,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,157908,Stephen Hendrie,2025-02-09 05:52:19
+12902,731062,5,44655490,76,Jackson Longridge (Hamilton Academical) Substitution at 59',Jackson Longridge Substitution,2,3540,59',409,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,173197,Jackson Longridge,2025-02-09 05:52:19
+12902,731062,6,44655491,76,Stuart Mckinstry (Hamilton Academical) Substitution at 59',Stuart Mckinstry Substitution,2,3540,59',409,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,284083,Stuart Mckinstry,2025-02-09 05:52:19
+12902,731062,7,44655492,76,Reghan Tumilty (Hamilton Academical) Substitution at 59',Reghan Tumilty Substitution,2,3540,59',409,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,223341,Reghan Tumilty,2025-02-09 05:52:19
+12902,731062,8,44655493,76,Oliver Shaw (Hamilton Academical) Substitution at 59',Oliver Shaw Substitution,2,3540,59',409,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,223407,Oliver Shaw,2025-02-09 05:52:19
+12902,731062,5,44655490,76,Jackson Longridge (Hamilton Academical) Substitution at 59',Jackson Longridge Substitution,2,3540,59',409,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,157908,Stephen Hendrie,2025-02-09 05:52:19
+12902,731062,6,44655491,76,Stuart Mckinstry (Hamilton Academical) Substitution at 59',Stuart Mckinstry Substitution,2,3540,59',409,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,230658,Nikolay Todorov,2025-02-09 05:52:19
+12902,731062,7,44655492,76,Reghan Tumilty (Hamilton Academical) Substitution at 59',Reghan Tumilty Substitution,2,3540,59',409,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,167811,Ricki Lamie,2025-02-09 05:52:19
+12902,731062,8,44655493,76,Oliver Shaw (Hamilton Academical) Substitution at 59',Oliver Shaw Substitution,2,3540,59',409,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,206526,Kevin O'Hara,2025-02-09 05:52:19
+12902,731062,9,44655728,76,Graham Carey (St Johnstone) Substitution at 65',Graham Carey Substitution,2,3900,65',267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,140769,Graham Carey,2025-02-09 05:52:19
+12902,731062,9,44655728,76,Graham Carey (St Johnstone) Substitution at 65',Graham Carey Substitution,2,3900,65',267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,250167,Jonathan Svedberg,2025-02-09 05:52:19
+12902,731062,10,44656447,76,Euan Henderson (Hamilton Academical) Substitution at 84',Euan Henderson Substitution,2,5040,84',409,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,256760,Euan Henderson,2025-02-09 05:52:19
+12902,731062,10,44656447,76,Euan Henderson (Hamilton Academical) Substitution at 84',Euan Henderson Substitution,2,5040,84',409,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,243340,Bradley Stevenson,2025-02-09 05:52:19
+12902,731062,11,44656448,76,Adama Sidibeh (St Johnstone) Substitution at 85',Adama Sidibeh Substitution,2,5100,85',267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,380022,Adama Sidibeh,2025-02-09 05:52:19
+12902,731062,12,44656449,76,Nicholas Clark (St Johnstone) Substitution at 85',Nicholas Clark Substitution,2,5100,85',267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,154789,Nicholas Clark,2025-02-09 05:52:19
+12902,731062,11,44656448,76,Adama Sidibeh (St Johnstone) Substitution at 85',Adama Sidibeh Substitution,2,5100,85',267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,325134,Mackenzie Kirk,2025-02-09 05:52:19
+12902,731062,12,44656449,76,Nicholas Clark (St Johnstone) Substitution at 85',Nicholas Clark Substitution,2,5100,85',267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,287449,Victor Griffith,2025-02-09 05:52:19
+12902,731062,13,44656521,70,Adama Sidibeh (St Johnstone) Goal at 87',Adama Sidibeh Goal,2,5220,87',267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,380022,Adama Sidibeh,2025-02-09 05:52:19
+12902,731062,14,44656576,76,Zach Mitchell (St Johnstone) Substitution at 89',Zach Mitchell Substitution,2,5340,89',267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,353599,Zach Mitchell,2025-02-09 05:52:19
+12902,731062,14,44656576,76,Zach Mitchell (St Johnstone) Substitution at 89',Zach Mitchell Substitution,2,5340,89',267,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,225203,Taylor Steven,2025-02-09 05:52:19
+12902,731062,15,44656793,94,Jackson Longridge (Hamilton Academical) Yellow Card at 96',Jackson Longridge Yellow Card,2,5400,90'+6',409,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,173197,Jackson Longridge,2025-02-09 05:52:19
+12902,731063,1,44647744,94,Nectarios Triantis (Hibernian) Yellow Card at 2',Nectarios Triantis Yellow Card,1,120,2',258,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328543,Nectarios Triantis,2025-02-09 05:52:19
+12902,731063,2,44648385,94,Scott McMann (Ayr United) Yellow Card at 48',Scott McMann Yellow Card,2,2880,48',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,179636,Scott McMann,2025-02-09 05:52:19
+12902,731063,3,44648549,76,Kieron Bowie (Hibernian) Substitution at 62',Kieron Bowie Substitution,2,3720,62',258,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,283375,Kieron Bowie,2025-02-09 05:52:19
+12902,731063,3,44648549,76,Kieron Bowie (Hibernian) Substitution at 62',Kieron Bowie Substitution,2,3720,62',258,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,323212,Mykola Kukharevych,2025-02-09 05:52:19
+12902,731063,4,44648701,76,Nathan Moriah-Welsh (Hibernian) Substitution at 74',Nathan Moriah-Welsh Substitution,2,4440,74',258,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,316545,Nathan Moriah-Welsh,2025-02-09 05:52:19
+12902,731063,5,44648702,76,Jamie Murphy (Ayr United) Substitution at 74',Jamie Murphy Substitution,2,4440,74',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,98298,Jamie Murphy,2025-02-09 05:52:19
+12902,731063,6,44648703,76,Marco Rus (Ayr United) Substitution at 74',Marco Rus Substitution,2,4440,74',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,294282,Marco Rus,2025-02-09 05:52:19
+12902,731063,4,44648701,76,Nathan Moriah-Welsh (Hibernian) Substitution at 74',Nathan Moriah-Welsh Substitution,2,4440,74',258,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288838,Dylan Levitt,2025-02-09 05:52:19
+12902,731063,5,44648702,76,Jamie Murphy (Ayr United) Substitution at 74',Jamie Murphy Substitution,2,4440,74',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291484,Cole McKinnon,2025-02-09 05:52:19
+12902,731063,6,44648703,76,Marco Rus (Ayr United) Substitution at 74',Marco Rus Substitution,2,4440,74',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282119,Jay Henderson,2025-02-09 05:52:19
+12902,731063,7,44648736,94,George Oakley (Ayr United) Yellow Card at 77',George Oakley Yellow Card,2,4620,77',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,200853,George Oakley,2025-02-09 05:52:19
+12902,731063,8,44648829,94,Marco Rus (Ayr United) Yellow Card at 83',Marco Rus Yellow Card,2,4980,83',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,294282,Marco Rus,2025-02-09 05:52:19
+12902,731063,9,44648896,76,Nicholas Mcallister (Ayr United) Substitution at 87',Nicholas Mcallister Substitution,2,5220,87',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,290419,Nicholas Mcallister,2025-02-09 05:52:19
+12902,731063,10,44648897,76,Curtis Main (Ayr United) Substitution at 87',Curtis Main Substitution,2,5220,87',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,119083,Curtis Main,2025-02-09 05:52:19
+12902,731063,11,44648914,70,Rocky Bushiri (Hibernian) Goal at 87',Rocky Bushiri Goal,2,5220,87',258,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,259924,Rocky Bushiri,2025-02-09 05:52:19
+12902,731063,9,44648896,76,Nicholas Mcallister (Ayr United) Substitution at 87',Nicholas Mcallister Substitution,2,5220,87',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,386193,Mark McKenzie,2025-02-09 05:52:19
+12902,731063,10,44648897,76,Curtis Main (Ayr United) Substitution at 87',Curtis Main Substitution,2,5220,87',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,200853,George Oakley,2025-02-09 05:52:19
+12902,731063,12,44648947,94,Nicky Cadden (Hibernian) Yellow Card at 90',Nicky Cadden Yellow Card,2,5400,90',258,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,194180,Nicky Cadden,2025-02-09 05:52:19
+12902,731063,13,44648948,76,Jordan Obita (Hibernian) Substitution at 90',Jordan Obita Substitution,2,5400,90',258,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,150970,Jordan Obita,2025-02-09 05:52:19
+12902,731063,13,44648948,76,Jordan Obita (Hibernian) Substitution at 90',Jordan Obita Substitution,2,5400,90',258,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260280,Jack Iredale,2025-02-09 05:52:19

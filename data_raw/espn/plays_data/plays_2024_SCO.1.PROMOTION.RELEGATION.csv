@@ -1,0 +1,125 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+13327,735617,1,45254941,94,Jamie Low (Partick Thistle) Yellow Card at 25',Jamie Low Yellow Card,1,1500,25',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,403388,Jamie Low,2025-05-23 04:56:27
+13327,735617,2,45254945,94,Jamie Brandon (Livingston) Yellow Card at 28',Jamie Brandon Yellow Card,1,1680,28',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239256,Jamie Brandon,2025-05-23 04:56:27
+13327,735617,3,45255013,70,Scott Pittman (Livingston) Goal at 39',Scott Pittman Goal,1,2340,39',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,223406,Scott Pittman,2025-05-23 04:56:27
+13327,735617,4,45255180,76,Alex Jakubiak (Partick Thistle) Substitution at 45',Alex Jakubiak Substitution,2,2700,45',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,201169,Alex Jakubiak,2025-05-23 04:56:27
+13327,735617,4,45255180,76,Alex Jakubiak (Partick Thistle) Substitution at 45',Alex Jakubiak Substitution,2,2700,45',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,378790,Luke Mcbeth,2025-05-23 04:56:27
+13327,735617,5,45255222,94,Stuart Bannigan (Partick Thistle) Yellow Card at 49',Stuart Bannigan Yellow Card,2,2940,49',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,139761,Stuart Bannigan,2025-05-23 04:56:27
+13327,735617,6,45255241,70,Danny Wilson (Livingston) Goal at 52',Danny Wilson Goal,2,3120,52',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,130467,Danny Wilson,2025-05-23 04:56:27
+13327,735617,7,45255315,76,Stevie May (Livingston) Substitution at 62',Stevie May Substitution,2,3720,62',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,16154,Stevie May,2025-05-23 04:56:27
+13327,735617,7,45255315,76,Stevie May (Livingston) Substitution at 62',Stevie May Substitution,2,3720,62',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,177855,Robbie Muirhead,2025-05-23 04:56:27
+13327,735617,8,45255325,76,Tete Yengi (Livingston) Substitution at 63',Tete Yengi Substitution,2,3780,63',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312261,Tete Yengi,2025-05-23 04:56:27
+13327,735617,8,45255325,76,Tete Yengi (Livingston) Substitution at 63',Tete Yengi Substitution,2,3780,63',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,192094,Lewis Smith,2025-05-23 04:56:27
+13327,735617,9,45255340,76,Steven Lawless (Partick Thistle) Substitution at 65',Steven Lawless Substitution,2,3900,65',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,145139,Steven Lawless,2025-05-23 04:56:27
+13327,735617,9,45255340,76,Steven Lawless (Partick Thistle) Substitution at 65',Steven Lawless Substitution,2,3900,65',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260595,Aidan Fitzpatrick,2025-05-23 04:56:27
+13327,735617,10,45255341,76,Ben Stanway (Partick Thistle) Substitution at 66',Ben Stanway Substitution,2,3960,66',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,325958,Ben Stanway,2025-05-23 04:56:27
+13327,735617,11,45255342,76,Daniel Finlayson (Livingston) Substitution at 66',Daniel Finlayson Substitution,2,3960,66',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,261513,Daniel Finlayson,2025-05-23 04:56:27
+13327,735617,10,45255341,76,Ben Stanway (Partick Thistle) Substitution at 66',Ben Stanway Substitution,2,3960,66',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,139761,Stuart Bannigan,2025-05-23 04:56:27
+13327,735617,11,45255342,76,Daniel Finlayson (Livingston) Substitution at 66',Daniel Finlayson Substitution,2,3960,66',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239256,Jamie Brandon,2025-05-23 04:56:27
+13327,735617,12,45255361,94,Daniel O'Reilly (Partick Thistle) Yellow Card at 67',Daniel O'Reilly Yellow Card,2,4020,67',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,172746,Daniel O'Reilly,2025-05-23 04:56:27
+13327,735617,13,45255459,76,Andrew Shinnie (Livingston) Substitution at 79',Andrew Shinnie Substitution,2,4740,79',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,108365,Andrew Shinnie,2025-05-23 04:56:27
+13327,735617,13,45255459,76,Andrew Shinnie (Livingston) Substitution at 79',Andrew Shinnie Substitution,2,4740,79',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,137367,Cristian Montano,2025-05-23 04:56:27
+13327,735617,14,45255490,76,Zander Mackenzie (Partick Thistle) Substitution at 88',Zander Mackenzie Substitution,2,5280,88',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,345204,Zander Mackenzie,2025-05-23 04:56:27
+13327,735617,14,45255490,76,Zander Mackenzie (Partick Thistle) Substitution at 88',Zander Mackenzie Substitution,2,5280,88',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,5938,Lee Ashcroft,2025-05-23 04:56:27
+13327,735618,1,45270774,94,Brian Graham (Partick Thistle) Yellow Card at 34',Brian Graham Yellow Card,1,2040,34',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,77907,Brian Graham,2025-05-23 04:56:27
+13327,735618,2,45270828,70,Jamie Brandon (Livingston) Goal at 40',Jamie Brandon Goal,1,2400,40',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239256,Jamie Brandon,2025-05-23 04:56:27
+13327,735618,3,45270842,94,Lewis Smith (Livingston) Yellow Card at 41',Lewis Smith Yellow Card,1,2460,41',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,192094,Lewis Smith,2025-05-23 04:56:27
+13327,735618,4,45270880,94,Ben Stanway (Partick Thistle) Yellow Card at 47',Ben Stanway Yellow Card,1,2700,45'+2',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,325958,Ben Stanway,2025-05-23 04:56:27
+13327,735618,5,45271019,76,Andrew Shinnie (Livingston) Substitution at 45',Andrew Shinnie Substitution,2,2700,45',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,108365,Andrew Shinnie,2025-05-23 04:56:27
+13327,735618,6,45271025,76,Daniel Finlayson (Livingston) Substitution at 45',Daniel Finlayson Substitution,2,2700,45',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,261513,Daniel Finlayson,2025-05-23 04:56:27
+13327,735618,5,45271019,76,Andrew Shinnie (Livingston) Substitution at 45',Andrew Shinnie Substitution,2,2700,45',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,177855,Robbie Muirhead,2025-05-23 04:56:27
+13327,735618,6,45271025,76,Daniel Finlayson (Livingston) Substitution at 45',Daniel Finlayson Substitution,2,2700,45',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239256,Jamie Brandon,2025-05-23 04:56:27
+13327,735618,7,45271078,94,Stuart Bannigan (Partick Thistle) Yellow Card at 51',Stuart Bannigan Yellow Card,2,3060,51',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,139761,Stuart Bannigan,2025-05-23 04:56:27
+13327,735618,9,45271114,76,Tete Yengi (Livingston) Substitution at 59',Tete Yengi Substitution,2,3540,59',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312261,Tete Yengi,2025-05-23 04:56:27
+13327,735618,8,45271113,76,Stevie May (Livingston) Substitution at 59',Stevie May Substitution,2,3540,59',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,16154,Stevie May,2025-05-23 04:56:27
+13327,735618,8,45271113,76,Stevie May (Livingston) Substitution at 59',Stevie May Substitution,2,3540,59',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,192094,Lewis Smith,2025-05-23 04:56:27
+13327,735618,9,45271114,76,Tete Yengi (Livingston) Substitution at 59',Tete Yengi Substitution,2,3540,59',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,137367,Cristian Montano,2025-05-23 04:56:27
+13327,735618,10,45271135,76,Alex Jakubiak (Partick Thistle) Substitution at 65',Alex Jakubiak Substitution,2,3900,65',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,201169,Alex Jakubiak,2025-05-23 04:56:27
+13327,735618,10,45271135,76,Alex Jakubiak (Partick Thistle) Substitution at 65',Alex Jakubiak Substitution,2,3900,65',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260595,Aidan Fitzpatrick,2025-05-23 04:56:27
+13327,735618,11,45271139,70,Stevie May (Livingston) Goal at 67',Stevie May Goal,2,4020,67',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,16154,Stevie May,2025-05-23 04:56:27
+13327,735618,12,45271153,76,Reece McAlear (Livingston) Substitution at 71',Reece McAlear Substitution,2,4260,71',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,294322,Reece McAlear,2025-05-23 04:56:27
+13327,735618,12,45271153,76,Reece McAlear (Livingston) Substitution at 71',Reece McAlear Substitution,2,4260,71',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,223406,Scott Pittman,2025-05-23 04:56:27
+13327,735618,13,45271156,76,Zander Mackenzie (Partick Thistle) Substitution at 72',Zander Mackenzie Substitution,2,4320,72',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,345204,Zander Mackenzie,2025-05-23 04:56:27
+13327,735618,13,45271156,76,Zander Mackenzie (Partick Thistle) Substitution at 72',Zander Mackenzie Substitution,2,4320,72',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,325958,Ben Stanway,2025-05-23 04:56:27
+13327,735618,14,45271204,76,Liam Dolan (Partick Thistle) Substitution at 84',Liam Dolan Substitution,2,5040,84',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,403387,Liam Dolan,2025-05-23 04:56:27
+13327,735618,14,45271204,76,Liam Dolan (Partick Thistle) Substitution at 84',Liam Dolan Substitution,2,5040,84',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,139761,Stuart Bannigan,2025-05-23 04:56:27
+13328,735615,1,45210195,94,Aidan Fitzpatrick (Partick Thistle) Yellow Card at 7',Aidan Fitzpatrick Yellow Card,1,420,7',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260595,Aidan Fitzpatrick,2025-05-23 04:56:27
+13328,735615,2,45210197,76,Dylan Watret (Ayr United) Substitution at 10',Dylan Watret Substitution,1,600,10',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,355165,Dylan Watret,2025-05-23 04:56:27
+13328,735615,2,45210197,76,Dylan Watret (Ayr United) Substitution at 10',Dylan Watret Substitution,1,600,10',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,290419,Nicholas Mcallister,2025-05-23 04:56:27
+13328,735615,3,45210225,94,George Oakley (Ayr United) Yellow Card at 19',George Oakley Yellow Card,1,1140,19',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,200853,George Oakley,2025-05-23 04:56:27
+13328,735615,4,45210229,94,Kyle Turner (Partick Thistle) Yellow Card at 24',Kyle Turner Yellow Card,1,1440,24',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,227015,Kyle Turner,2025-05-23 04:56:27
+13328,735615,5,45210277,94,Robbie Crawford (Partick Thistle) Yellow Card at 45',Robbie Crawford Yellow Card,1,2700,45',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,163038,Robbie Crawford,2025-05-23 04:56:27
+13328,735615,6,45210291,94,Brian Graham (Partick Thistle) Yellow Card at 49',Brian Graham Yellow Card,1,2700,45'+4',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,77907,Brian Graham,2025-05-23 04:56:27
+13328,735615,7,45210321,70,Jamie Murphy (Ayr United) Goal at 55',Jamie Murphy Goal,2,3300,55',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,98298,Jamie Murphy,2025-05-23 04:56:27
+13328,735615,8,45210327,76,Terry Ablade (Partick Thistle) Substitution at 61',Terry Ablade Substitution,2,3660,61',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,306943,Terry Ablade,2025-05-23 04:56:27
+13328,735615,8,45210327,76,Terry Ablade (Partick Thistle) Substitution at 61',Terry Ablade Substitution,2,3660,61',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,163038,Robbie Crawford,2025-05-23 04:56:27
+13328,735615,9,45210354,76,Ethan Walker (Ayr United) Substitution at 71',Ethan Walker Substitution,2,4260,71',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,283947,Ethan Walker,2025-05-23 04:56:27
+13328,735615,9,45210354,76,Ethan Walker (Ayr United) Substitution at 71',Ethan Walker Substitution,2,4260,71',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,294282,Marco Rus,2025-05-23 04:56:27
+13328,735615,10,45210365,76,Jay Henderson (Ayr United) Substitution at 76',Jay Henderson Substitution,2,4560,76',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282119,Jay Henderson,2025-05-23 04:56:27
+13328,735615,10,45210365,76,Jay Henderson (Ayr United) Substitution at 76',Jay Henderson Substitution,2,4560,76',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,98298,Jamie Murphy,2025-05-23 04:56:27
+13328,735615,11,45210366,76,Curtis Main (Ayr United) Substitution at 77',Curtis Main Substitution,2,4620,77',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,119083,Curtis Main,2025-05-23 04:56:27
+13328,735615,11,45210366,76,Curtis Main (Ayr United) Substitution at 77',Curtis Main Substitution,2,4620,77',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,200853,George Oakley,2025-05-23 04:56:27
+13328,735615,12,45210373,94,Lenny Agbaire (Ayr United) Yellow Card at 78',Lenny Agbaire Yellow Card,2,4680,78',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,347287,Lenny Agbaire,2025-05-23 04:56:27
+13328,735615,13,45210386,94,Daniel O'Reilly (Partick Thistle) Yellow Card at 83',Daniel O'Reilly Yellow Card,2,4980,83',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,172746,Daniel O'Reilly,2025-05-23 04:56:27
+13328,735615,14,45210387,76,Ben Stanway (Partick Thistle) Substitution at 84',Ben Stanway Substitution,2,5040,84',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,325958,Ben Stanway,2025-05-23 04:56:27
+13328,735615,14,45210387,76,Ben Stanway (Partick Thistle) Substitution at 84',Ben Stanway Substitution,2,5040,84',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260595,Aidan Fitzpatrick,2025-05-23 04:56:27
+13328,735615,15,45210404,94,Jay Henderson (Ayr United) Yellow Card at 92',Jay Henderson Yellow Card,2,5400,90'+2',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282119,Jay Henderson,2025-05-23 04:56:27
+13328,735615,16,45210405,94,Joshua Clarke (Ayr United) Yellow Card at 93',Joshua Clarke Yellow Card,2,5400,90'+3',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,338401,Joshua Clarke,2025-05-23 04:56:27
+13328,735616,1,45224132,70,Brian Graham (Partick Thistle) Goal at 6',Brian Graham Goal,1,360,6',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,77907,Brian Graham,2025-05-23 04:56:27
+13328,735616,2,45224481,76,Zander Mackenzie (Partick Thistle) Substitution at 40',Zander Mackenzie Substitution,1,2400,40',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,345204,Zander Mackenzie,2025-05-23 04:56:27
+13328,735616,2,45224481,76,Zander Mackenzie (Partick Thistle) Substitution at 40',Zander Mackenzie Substitution,1,2400,40',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,227015,Kyle Turner,2025-05-23 04:56:27
+13328,735616,3,45224856,76,Jay Henderson (Ayr United) Substitution at 56',Jay Henderson Substitution,2,3360,56',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282119,Jay Henderson,2025-05-23 04:56:27
+13328,735616,4,45224857,76,Curtis Main (Ayr United) Substitution at 56',Curtis Main Substitution,2,3360,56',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,119083,Curtis Main,2025-05-23 04:56:27
+13328,735616,4,45224857,76,Curtis Main (Ayr United) Substitution at 56',Curtis Main Substitution,2,3360,56',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,386193,Mark McKenzie,2025-05-23 04:56:27
+13328,735616,3,45224856,76,Jay Henderson (Ayr United) Substitution at 56',Jay Henderson Substitution,2,3360,56',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,294282,Marco Rus,2025-05-23 04:56:27
+13328,735616,5,45224943,94,Ben Dempsey (Ayr United) Yellow Card at 63',Ben Dempsey Yellow Card,2,3780,63',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277558,Ben Dempsey,2025-05-23 04:56:27
+13328,735616,6,45224962,94,Jay Henderson (Ayr United) Yellow Card at 64',Jay Henderson Yellow Card,2,3840,64',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282119,Jay Henderson,2025-05-23 04:56:27
+13328,735616,7,45225176,76,Alex Jakubiak (Partick Thistle) Substitution at 83',Alex Jakubiak Substitution,2,4980,83',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,201169,Alex Jakubiak,2025-05-23 04:56:27
+13328,735616,7,45225176,76,Alex Jakubiak (Partick Thistle) Substitution at 83',Alex Jakubiak Substitution,2,4980,83',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,325958,Ben Stanway,2025-05-23 04:56:27
+13328,735616,8,45225227,70,Brian Graham (Partick Thistle) Goal at 88',Brian Graham Goal,2,5280,88',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,77907,Brian Graham,2025-05-23 04:56:27
+13328,735616,9,45225236,94,Brian Graham (Partick Thistle) Yellow Card at 90',Brian Graham Yellow Card,2,5400,90',247,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,77907,Brian Graham,2025-05-23 04:56:27
+13328,735616,10,45225244,76,Ethan Walker (Ayr United) Substitution at 90',Ethan Walker Substitution,2,5400,90',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,283947,Ethan Walker,2025-05-23 04:56:27
+13328,735616,10,45225244,76,Ethan Walker (Ayr United) Substitution at 90',Ethan Walker Substitution,2,5400,90',248,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,355165,Dylan Watret,2025-05-23 04:56:27
+13326,735821,1,45304791,94,Alex Samuel (Ross County) Yellow Card at 37',Alex Samuel Yellow Card,1,2220,37',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,167577,Alex Samuel,2025-05-23 04:56:27
+13326,735821,2,45304809,70,Danny Wilson (Livingston) Goal at 46',Danny Wilson Goal,1,2700,45'+1',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,130467,Danny Wilson,2025-05-23 04:56:27
+13326,735821,4,45304891,76,Jordan White (Ross County) Substitution at 60',Jordan White Substitution,2,3600,60',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,166316,Jordan White,2025-05-23 04:56:27
+13326,735821,3,45304885,94,Nohan Kenneh (Ross County) Yellow Card at 60',Nohan Kenneh Yellow Card,2,3600,60',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,310356,Nohan Kenneh,2025-05-23 04:56:27
+13326,735821,4,45304891,76,Jordan White (Ross County) Substitution at 60',Jordan White Substitution,2,3600,60',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,167577,Alex Samuel,2025-05-23 04:56:27
+13326,735821,5,45304892,76,Daniel Finlayson (Livingston) Substitution at 61',Daniel Finlayson Substitution,2,3660,61',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,261513,Daniel Finlayson,2025-05-23 04:56:27
+13326,735821,5,45304892,76,Daniel Finlayson (Livingston) Substitution at 61',Daniel Finlayson Substitution,2,3660,61',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,326253,Macauley Tait,2025-05-23 04:56:27
+13326,735821,6,45304915,76,George Harmon (Ross County) Substitution at 70',George Harmon Substitution,2,4200,70',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,265654,George Harmon,2025-05-23 04:56:27
+13326,735821,7,45304916,76,Dylan Smith (Ross County) Substitution at 70',Dylan Smith Substitution,2,4200,70',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,345179,Dylan Smith,2025-05-23 04:56:27
+13326,735821,6,45304915,76,George Harmon (Ross County) Substitution at 70',George Harmon Substitution,2,4200,70',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,308562,Zachary Ashworth,2025-05-23 04:56:27
+13326,735821,7,45304916,76,Dylan Smith (Ross County) Substitution at 70',Dylan Smith Substitution,2,4200,70',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,243376,Michee Efete,2025-05-23 04:56:27
+13326,735821,8,45304922,76,Stevie May (Livingston) Substitution at 74',Stevie May Substitution,2,4440,74',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,16154,Stevie May,2025-05-23 04:56:27
+13326,735821,8,45304922,76,Stevie May (Livingston) Substitution at 74',Stevie May Substitution,2,4440,74',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,177855,Robbie Muirhead,2025-05-23 04:56:27
+13326,735821,9,45304933,76,Tete Yengi (Livingston) Substitution at 82',Tete Yengi Substitution,2,4920,82',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312261,Tete Yengi,2025-05-23 04:56:27
+13326,735821,9,45304933,76,Tete Yengi (Livingston) Substitution at 82',Tete Yengi Substitution,2,4920,82',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,137367,Cristian Montano,2025-05-23 04:56:27
+13326,735821,10,45304940,94,Lewis Smith (Livingston) Yellow Card at 85',Lewis Smith Yellow Card,2,5100,85',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,192094,Lewis Smith,2025-05-23 04:56:27
+13326,735821,11,45304943,94,Jordan White (Ross County) Yellow Card at 91',Jordan White Yellow Card,2,5400,90'+1',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,166316,Jordan White,2025-05-23 04:56:27
+13326,735821,12,45304951,94,Danny Wilson (Livingston) Yellow Card at 95',Danny Wilson Yellow Card,2,5400,90'+5',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,130467,Danny Wilson,2025-05-23 04:56:27
+13326,735821,13,45304954,98,Ronan Hale (Ross County) Penalty - Scored at 96',Ronan Hale Penalty - Scored,2,5400,90'+6',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,274645,Ronan Hale,2025-05-23 04:56:27
+13326,735822,1,45325663,70,Joshua Nisbet (Ross County) Goal at 7',Joshua Nisbet Goal,1,420,7',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,276827,Joshua Nisbet,2025-05-27 04:53:23
+13326,735822,2,45325688,70,Ronan Hale (Ross County) Goal at 24',Ronan Hale Goal,1,1440,24',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,274645,Ronan Hale,2025-05-27 04:53:23
+13326,735822,3,45325724,70,Lewis Smith (Livingston) Goal at 39',Lewis Smith Goal,1,2340,39',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,192094,Lewis Smith,2025-05-27 04:53:23
+13326,735822,4,45325736,94,Ryan McGowan (Livingston) Yellow Card at 44',Ryan McGowan Yellow Card,1,2640,44',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,161755,Ryan McGowan,2025-05-27 04:53:23
+13326,735822,5,45325791,76,Zachary Ashworth (Ross County) Substitution at 54',Zachary Ashworth Substitution,2,3240,54',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,308562,Zachary Ashworth,2025-05-27 04:53:23
+13326,735822,5,45325791,76,Zachary Ashworth (Ross County) Substitution at 54',Zachary Ashworth Substitution,2,3240,54',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,265654,George Harmon,2025-05-27 04:53:23
+13326,735822,6,45325793,94,Will Nightingale (Ross County) Yellow Card at 56',Will Nightingale Yellow Card,2,3360,56',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,198188,Will Nightingale,2025-05-27 04:53:23
+13326,735822,7,45325795,70,Danny Wilson (Livingston) Goal at 57',Danny Wilson Goal,2,3420,57',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,130467,Danny Wilson,2025-05-27 04:53:23
+13326,735822,8,45325797,70,Robbie Muirhead (Livingston) Goal at 61',Robbie Muirhead Goal,2,3660,61',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,177855,Robbie Muirhead,2025-05-27 04:53:23
+13326,735822,9,45325799,76,Alex Samuel (Ross County) Substitution at 67',Alex Samuel Substitution,2,4020,67',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,167577,Alex Samuel,2025-05-27 04:53:23
+13326,735822,9,45325799,76,Alex Samuel (Ross County) Substitution at 67',Alex Samuel Substitution,2,4020,67',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,243376,Michee Efete,2025-05-27 04:53:23
+13326,735822,10,45325800,76,Tete Yengi (Livingston) Substitution at 72',Tete Yengi Substitution,2,4320,72',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312261,Tete Yengi,2025-05-27 04:53:23
+13326,735822,10,45325800,76,Tete Yengi (Livingston) Substitution at 72',Tete Yengi Substitution,2,4320,72',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,137367,Cristian Montano,2025-05-27 04:53:23
+13326,735822,11,45325803,94,Daniel Finlayson (Livingston) Yellow Card at 76',Daniel Finlayson Yellow Card,2,4560,76',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,261513,Daniel Finlayson,2025-05-27 04:53:23
+13326,735822,12,45325807,76,Stevie May (Livingston) Substitution at 77',Stevie May Substitution,2,4620,77',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,16154,Stevie May,2025-05-27 04:53:23
+13326,735822,12,45325807,76,Stevie May (Livingston) Substitution at 77',Stevie May Substitution,2,4620,77',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,177855,Robbie Muirhead,2025-05-27 04:53:23
+13326,735822,13,45325808,76,Kieran Phillips (Ross County) Substitution at 81',Kieran Phillips Substitution,2,4860,81',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282648,Kieran Phillips,2025-05-27 04:53:23
+13326,735822,13,45325808,76,Kieran Phillips (Ross County) Substitution at 81',Kieran Phillips Substitution,2,4860,81',251,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,198188,Will Nightingale,2025-05-27 04:53:23
+13326,735822,14,45325810,76,Macauley Tait (Livingston) Substitution at 85',Macauley Tait Substitution,2,5100,85',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,326253,Macauley Tait,2025-05-27 04:53:23
+13326,735822,15,45325811,76,Michael Nottingham (Livingston) Substitution at 85',Michael Nottingham Substitution,2,5100,85',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,240908,Michael Nottingham,2025-05-27 04:53:23
+13326,735822,14,45325810,76,Macauley Tait (Livingston) Substitution at 85',Macauley Tait Substitution,2,5100,85',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,38397,Stephen Kelly,2025-05-27 04:53:23
+13326,735822,15,45325811,76,Michael Nottingham (Livingston) Substitution at 85',Michael Nottingham Substitution,2,5100,85',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,192094,Lewis Smith,2025-05-27 04:53:23
+13326,735822,16,45325814,70,Tete Yengi (Livingston) Goal at 96',Tete Yengi Goal,2,5400,90'+6',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312261,Tete Yengi,2025-05-27 04:53:23
+13326,735822,17,45325815,94,Tete Yengi (Livingston) Yellow Card at 97',Tete Yengi Yellow Card,2,5400,90'+7',259,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312261,Tete Yengi,2025-05-27 04:53:23

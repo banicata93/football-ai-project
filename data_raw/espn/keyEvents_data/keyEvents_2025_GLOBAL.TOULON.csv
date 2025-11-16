@@ -1,0 +1,521 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13369,735776,1,45348788,98,1,1260,21',1,0,Gustavo Herrera (Panama U20) Penalty - Scored at 21',Gustavo Herrera Penalty - Scored,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,141631.0,2025-06-04 04:55:03
+13369,735776,2,45348789,94,1,2160,36',0,0,Mahamoud Barry (Mali U20) Yellow Card at 36',Mahamoud Barry Yellow Card,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,372072.0,2025-06-04 04:55:03
+13369,735776,3,45348790,94,1,2400,40',0,0,Eden Gassama (Mali U20) Yellow Card at 40',Eden Gassama Yellow Card,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,402966.0,2025-06-04 04:55:03
+13369,735776,4,45348791,70,2,2760,46',1,0,Raheen Cuello (Panama U20) Goal at 46',Raheen Cuello Goal,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,399618.0,2025-06-04 04:55:03
+13369,735776,6,45348793,76,2,3600,60',0,0,Aboubacar Sidibe (Mali U20) Substitution at 60',Aboubacar Sidibe Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,396766.0,2025-06-04 04:55:03
+13369,735776,7,45348794,76,2,3600,60',0,0,Anel Ryce (Panama U20) Substitution at 60',Anel Ryce Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,372103.0,2025-06-04 04:55:03
+13369,735776,5,45348792,76,2,3600,60',0,0,Wilson Samake (Mali U20) Substitution at 60',Wilson Samake Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,355981.0,2025-06-04 04:55:03
+13369,735776,7,45348794,76,2,3600,60',0,0,Anel Ryce (Panama U20) Substitution at 60',Anel Ryce Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,404779.0,2025-06-04 04:55:03
+13369,735776,5,45348792,76,2,3600,60',0,0,Wilson Samake (Mali U20) Substitution at 60',Wilson Samake Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,372078.0,2025-06-04 04:55:03
+13369,735776,6,45348793,76,2,3600,60',0,0,Aboubacar Sidibe (Mali U20) Substitution at 60',Aboubacar Sidibe Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,372081.0,2025-06-04 04:55:03
+13369,735776,8,45348795,94,2,3720,62',0,0,Giovani Herbert (Panama U20) Yellow Card at 62',Giovani Herbert Yellow Card,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,362943.0,2025-06-04 04:55:03
+13369,735776,9,45348798,76,2,4260,71',0,0,José Marengo (Panama U20) Substitution at 71',José Marengo Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,347469.0,2025-06-04 04:55:03
+13369,735776,9,45348798,76,2,4260,71',0,0,José Marengo (Panama U20) Substitution at 71',José Marengo Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,362943.0,2025-06-04 04:55:03
+13369,735776,10,45348799,76,2,4320,72',0,0,Kevin Bernal (Panama U20) Substitution at 72',Kevin Bernal Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,404782.0,2025-06-04 04:55:03
+13369,735776,10,45348799,76,2,4320,72',0,0,Kevin Bernal (Panama U20) Substitution at 72',Kevin Bernal Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,399618.0,2025-06-04 04:55:03
+13369,735776,12,45348801,76,2,4620,77',0,0,Sékou Koné (Mali U20) Substitution at 77',Sékou Koné Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,372068.0,2025-06-04 04:55:03
+13369,735776,11,45348800,76,2,4620,77',0,0,Abdoulaye Niakaté (Mali U20) Substitution at 77',Abdoulaye Niakaté Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,388895.0,2025-06-04 04:55:03
+13369,735776,12,45348801,76,2,4620,77',0,0,Sékou Koné (Mali U20) Substitution at 77',Sékou Koné Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,372072.0,2025-06-04 04:55:03
+13369,735776,11,45348800,76,2,4620,77',0,0,Abdoulaye Niakaté (Mali U20) Substitution at 77',Abdoulaye Niakaté Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,372067.0,2025-06-04 04:55:03
+13369,735776,13,45348802,94,2,4740,79',0,0,Cecilio Burgess (Panama U20) Yellow Card at 79',Cecilio Burgess Yellow Card,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,403496.0,2025-06-04 04:55:03
+13369,735776,15,45348806,76,2,4920,82',0,0,Aymar Cundumí (Panama U20) Substitution at 82',Aymar Cundumí Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,346243.0,2025-06-04 04:55:03
+13369,735776,14,45348803,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,414179.0,2025-06-04 04:55:03
+13369,735776,14,45348803,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,401003.0,2025-06-04 04:55:03
+13369,735776,14,45348803,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,378717.0,2025-06-04 04:55:03
+13369,735776,14,45348803,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,360010.0,2025-06-04 04:55:03
+13369,735776,14,45348803,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,223653.0,2025-06-04 04:55:03
+13369,735776,14,45348803,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,175089.0,2025-06-04 04:55:03
+13369,735776,15,45348806,76,2,4920,82',0,0,Aymar Cundumí (Panama U20) Substitution at 82',Aymar Cundumí Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,70746.0,2025-06-04 04:55:03
+13369,735776,15,45348806,76,2,4920,82',0,0,Aymar Cundumí (Panama U20) Substitution at 82',Aymar Cundumí Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,403494.0,2025-06-04 04:55:03
+13369,735776,14,45348803,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,141631.0,2025-06-04 04:55:03
+13369,735776,16,45348804,76,2,4980,83',0,0,Cheick Mohamed Doumbia (Mali U20) Substitution at 83',Cheick Mohamed Doumbia Substitut,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,364905.0,2025-06-04 04:55:03
+13369,735776,16,45348804,76,2,4980,83',0,0,Cheick Mohamed Doumbia (Mali U20) Substitution at 83',Cheick Mohamed Doumbia Substitut,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,371474.0,2025-06-04 04:55:03
+13369,735776,17,45348805,93,2,5040,84',0,0,José Marengo (Panama U20) Red Card at 84',José Marengo Red Card,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,347469.0,2025-06-04 04:55:03
+13369,735776,18,45348807,94,2,5340,89',0,0,Juan Hall (Panama U20) Yellow Card at 89',Juan Hall Yellow Card,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,372106.0,2025-06-04 04:55:03
+13369,735776,19,45348808,70,2,5400,90',1,0,Wilson Samake (Mali U20) Goal at 90',Wilson Samake Goal,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,355981.0,2025-06-04 04:55:03
+13369,735777,1,45348827,70,1,1320,22',1,0,Abdullah Radif (Saudi Arabia U23) Goal at 22',Abdullah Radif Goal,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,313423.0,2025-06-04 04:55:03
+13369,735777,2,45348828,76,1,1380,23',0,0,Abdullah Al Zaid (Saudi Arabia U23) Substitution at 23',Abdullah Al Zaid Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341475.0,2025-06-04 04:55:03
+13369,735777,2,45348828,76,1,1380,23',0,0,Abdullah Al Zaid (Saudi Arabia U23) Substitution at 23',Abdullah Al Zaid Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,390038.0,2025-06-04 04:55:03
+13369,735777,3,45348846,94,1,2520,42',0,0,Ahmed Al-Julaydan (Saudi Arabia U23) Yellow Card at 42',Ahmed Al-Julaydan Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,361707.0,2025-06-04 04:55:03
+13369,735777,7,45348893,76,2,2700,45',0,0,Badr Al Omair (Saudi Arabia U23) Substitution at 45',Badr Al Omair Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,392499.0,2025-06-04 04:55:03
+13369,735777,4,45348889,76,2,2700,45',0,0,Rabby Nzingoula (France U20) Substitution at 45',Rabby Nzingoula Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,365932.0,2025-06-04 04:55:03
+13369,735777,8,45348895,76,2,2700,45',0,0,Aladji Bamba (France U20) Substitution at 45',Aladji Bamba Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,396630.0,2025-06-04 04:55:03
+13369,735777,6,45348891,76,2,2700,45',0,0,Noah Edjouma (France U20) Substitution at 45',Noah Edjouma Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,367360.0,2025-06-04 04:55:03
+13369,735777,5,45348890,76,2,2700,45',0,0,Tidiam Gomis (France U20) Substitution at 45',Tidiam Gomis Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,366911.0,2025-06-04 04:55:03
+13369,735777,6,45348891,76,2,2700,45',0,0,Noah Edjouma (France U20) Substitution at 45',Noah Edjouma Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,356651.0,2025-06-04 04:55:03
+13369,735777,7,45348893,76,2,2700,45',0,0,Badr Al Omair (Saudi Arabia U23) Substitution at 45',Badr Al Omair Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,389695.0,2025-06-04 04:55:03
+13369,735777,8,45348895,76,2,2700,45',0,0,Aladji Bamba (France U20) Substitution at 45',Aladji Bamba Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,362974.0,2025-06-04 04:55:03
+13369,735777,5,45348890,76,2,2700,45',0,0,Tidiam Gomis (France U20) Substitution at 45',Tidiam Gomis Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,388522.0,2025-06-04 04:55:03
+13369,735777,4,45348889,76,2,2700,45',0,0,Rabby Nzingoula (France U20) Substitution at 45',Rabby Nzingoula Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-06-04 04:55:03
+13369,735777,9,45348908,94,2,3120,52',0,0,Abdulmalik Al Jaber (Saudi Arabia U23) Yellow Card at 52',Abdulmalik Al Jaber Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341471.0,2025-06-04 04:55:03
+13369,735777,10,45348938,94,2,3780,63',0,0,Khalid Al Asiri (Saudi Arabia U23) Yellow Card at 63',Khalid Al Asiri Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,367328.0,2025-06-04 04:55:03
+13369,735777,11,45348939,98,2,3840,64',1,0,Steve Ngoura (France U20) Penalty - Scored at 64',Steve Ngoura Penalty - Scored,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,346520.0,2025-06-04 04:55:03
+13369,735777,12,45348940,70,2,4020,67',1,0,Elyaz Zidane (France U20) Goal at 67',Elyaz Zidane Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,387505.0,2025-06-04 04:55:03
+13369,735777,13,45348941,76,2,4080,68',0,0,Faisal Al Abdulwahed (Saudi Arabia U23) Substitution at 68',Faisal Al Abdulwahed Substitutio,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,362969.0,2025-06-04 04:55:03
+13369,735777,13,45348941,76,2,4080,68',0,0,Faisal Al Abdulwahed (Saudi Arabia U23) Substitution at 68',Faisal Al Abdulwahed Substitutio,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,341471.0,2025-06-04 04:55:03
+13369,735777,14,45348942,76,2,4140,69',0,0,Mathys Detourbet (France U20) Substitution at 69',Mathys Detourbet Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,397994.0,2025-06-04 04:55:03
+13369,735777,14,45348942,76,2,4140,69',0,0,Mathys Detourbet (France U20) Substitution at 69',Mathys Detourbet Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,346520.0,2025-06-04 04:55:03
+13369,735777,15,45348948,94,2,4440,74',0,0,Rabby Nzingoula (France U20) Yellow Card at 74',Rabby Nzingoula Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,365932.0,2025-06-04 04:55:03
+13369,735777,16,45348987,76,2,5340,89',0,0,Meshal Alaeli (Saudi Arabia U23) Substitution at 89',Meshal Alaeli Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,362869.0,2025-06-04 04:55:03
+13369,735777,17,45348999,76,2,5340,89',0,0,Rakan Al Ghamdi (Saudi Arabia U23) Substitution at 89',Rakan Al Ghamdi Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,404665.0,2025-06-04 04:55:03
+13369,735777,16,45348987,76,2,5340,89',0,0,Meshal Alaeli (Saudi Arabia U23) Substitution at 89',Meshal Alaeli Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,367653.0,2025-06-04 04:55:03
+13369,735777,17,45348999,76,2,5340,89',0,0,Rakan Al Ghamdi (Saudi Arabia U23) Substitution at 89',Rakan Al Ghamdi Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,337325.0,2025-06-04 04:55:03
+13369,735777,18,45349001,94,2,5400,90'+2',0,0,Elyaz Zidane (France U20) Yellow Card at 92',Elyaz Zidane Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,387505.0,2025-06-04 04:55:03
+13369,735778,2,45350108,76,2,2700,45',0,0,Breyton Fougeu (Congo U20) Substitution at 45',Breyton Fougeu Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,380025.0,2025-06-05 04:54:49
+13369,735778,1,45350107,76,2,2700,45',0,0,Yumeki Yokoyama (Japan U20) Substitution at 45',Yumeki Yokoyama Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,404834.0,2025-06-05 04:54:49
+13369,735778,1,45350107,76,2,2700,45',0,0,Yumeki Yokoyama (Japan U20) Substitution at 45',Yumeki Yokoyama Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,365019.0,2025-06-05 04:54:49
+13369,735778,2,45350108,76,2,2700,45',0,0,Breyton Fougeu (Congo U20) Substitution at 45',Breyton Fougeu Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,404842.0,2025-06-05 04:54:49
+13369,735778,3,45350117,94,2,2880,48',0,0,César Obongo (Congo U20) Yellow Card at 48',César Obongo Yellow Card,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404841.0,2025-06-05 04:54:49
+13369,735778,4,45350132,70,2,3360,56',1,0,Soma Kanda (Japan U20) Goal at 56',Soma Kanda Goal,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,379758.0,2025-06-05 04:54:49
+13369,735778,5,45350134,70,2,3420,57',1,0,Soma Kanda (Japan U20) Goal at 57',Soma Kanda Goal,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,379758.0,2025-06-05 04:54:49
+13369,735778,7,45350137,76,2,3600,60',0,0,Motoki Nishihara (Japan U20) Substitution at 60',Motoki Nishihara Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,398419.0,2025-06-05 04:54:49
+13369,735778,6,45350136,76,2,3600,60',0,0,Katsuma Fuse (Japan U20) Substitution at 60',Katsuma Fuse Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,376450.0,2025-06-05 04:54:49
+13369,735778,7,45350137,76,2,3600,60',0,0,Motoki Nishihara (Japan U20) Substitution at 60',Motoki Nishihara Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,336497.0,2025-06-05 04:54:49
+13369,735778,6,45350136,76,2,3600,60',0,0,Katsuma Fuse (Japan U20) Substitution at 60',Katsuma Fuse Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,384730.0,2025-06-05 04:54:49
+13369,735778,8,45350138,76,2,3780,63',0,0,Abdallah Mbemba (Congo U20) Substitution at 63',Abdallah Mbemba Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404840.0,2025-06-05 04:54:49
+13369,735778,8,45350138,76,2,3780,63',0,0,Abdallah Mbemba (Congo U20) Substitution at 63',Abdallah Mbemba Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,404837.0,2025-06-05 04:54:49
+13369,735778,9,45350139,76,2,3960,66',0,0,Lenny Loussilaho (Congo U20) Substitution at 66',Lenny Loussilaho Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404997.0,2025-06-05 04:54:49
+13369,735778,9,45350139,76,2,3960,66',0,0,Lenny Loussilaho (Congo U20) Substitution at 66',Lenny Loussilaho Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,404845.0,2025-06-05 04:54:49
+13369,735778,10,45350156,76,2,4500,75',0,0,Steed Tchicamboud (Congo U20) Substitution at 75',Steed Tchicamboud Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404848.0,2025-06-05 04:54:49
+13369,735778,10,45350156,76,2,4500,75',0,0,Steed Tchicamboud (Congo U20) Substitution at 75',Steed Tchicamboud Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,404841.0,2025-06-05 04:54:49
+13369,735778,11,45350161,76,2,4620,77',0,0,Rento Takaoka (Japan U20) Substitution at 77',Rento Takaoka Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,371598.0,2025-06-05 04:54:49
+13369,735778,11,45350161,76,2,4620,77',0,0,Rento Takaoka (Japan U20) Substitution at 77',Rento Takaoka Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,379758.0,2025-06-05 04:54:49
+13369,735778,12,45350172,94,2,4980,83',0,0,Lenny Loussilaho (Congo U20) Yellow Card at 83',Lenny Loussilaho Yellow Card,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404997.0,2025-06-05 04:54:49
+13369,735778,13,45350177,76,2,5160,86',0,0,Nelson Ishiwatari (Japan U20) Substitution at 86',Nelson Ishiwatari Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,336494.0,2025-06-05 04:54:49
+13369,735778,13,45350177,76,2,5160,86',0,0,Nelson Ishiwatari (Japan U20) Substitution at 86',Nelson Ishiwatari Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,347492.0,2025-06-05 04:54:49
+13369,735778,14,45350196,94,2,5400,90'+1',0,0,Niko Takahashi (Japan U20) Yellow Card at 91',Niko Takahashi Yellow Card,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,341714.0,2025-06-05 04:54:49
+13369,735779,1,45350260,94,1,600,10',0,0,Hugo Camberos (Mexico U20) Yellow Card at 10',Hugo Camberos Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,387984.0,2025-06-05 04:54:49
+13369,735779,2,45350261,70,1,660,11',1,0,Jakob Nielsen (Denmark U20) Goal at 11',Jakob Nielsen Goal,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,351245.0,2025-06-05 04:54:49
+13369,735779,3,45350262,94,1,1320,22',0,0,Gustav Julius Mortensen (Denmark U20) Yellow Card at 22',Gustav Julius Mortensen Yellow C,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,319386.0,2025-06-05 04:54:49
+13369,735779,4,45350272,94,1,2100,35',0,0,Jonathan Padilla (Mexico U20) Yellow Card at 35',Jonathan Padilla Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,361264.0,2025-06-05 04:54:49
+13369,735779,6,45350274,70,1,2700,45'+2',1,0,Oswaldo Virgen (Mexico U20) Goal at 47',Oswaldo Virgen Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,398704.0,2025-06-05 04:54:49
+13369,735779,5,45350273,94,1,2700,45',0,0,Bernardo Parra (Mexico U20) Yellow Card at 45',Bernardo Parra Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,362417.0,2025-06-05 04:54:49
+13369,735779,7,45350276,76,2,3360,56',0,0,Omar Moreno (Mexico U20) Substitution at 56',Omar Moreno Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,357211.0,2025-06-05 04:54:49
+13369,735779,7,45350276,76,2,3360,56',0,0,Omar Moreno (Mexico U20) Substitution at 56',Omar Moreno Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,386920.0,2025-06-05 04:54:49
+13369,735779,9,45350278,76,2,3660,61',0,0,Michael Opoku (Denmark U20) Substitution at 61',Michael Opoku Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,380656.0,2025-06-05 04:54:49
+13369,735779,8,45350277,76,2,3660,61',0,0,Emil Schlichting (Denmark U20) Substitution at 61',Emil Schlichting Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,366229.0,2025-06-05 04:54:49
+13369,735779,8,45350277,76,2,3660,61',0,0,Emil Schlichting (Denmark U20) Substitution at 61',Emil Schlichting Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,353064.0,2025-06-05 04:54:49
+13369,735779,9,45350278,76,2,3660,61',0,0,Michael Opoku (Denmark U20) Substitution at 61',Michael Opoku Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,364126.0,2025-06-05 04:54:49
+13369,735779,10,45350279,76,2,3720,62',0,0,Mads Enggård (Denmark U20) Substitution at 62',Mads Enggård Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,315621.0,2025-06-05 04:54:49
+13369,735779,10,45350279,76,2,3720,62',0,0,Mads Enggård (Denmark U20) Substitution at 62',Mads Enggård Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,312022.0,2025-06-05 04:54:49
+13369,735779,13,45350282,76,2,4080,68',0,0,Stephano Carrillo (Mexico U20) Substitution at 68',Stephano Carrillo Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,371478.0,2025-06-05 04:54:49
+13369,735779,12,45350281,76,2,4080,68',0,0,Heriberto De Jesus (Mexico U20) Substitution at 68',Heriberto De Jesus Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,329916.0,2025-06-05 04:54:49
+13369,735779,11,45350280,76,2,4080,68',0,0,Juan Uribe (Mexico U20) Substitution at 68',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,178850.0,2025-06-05 04:54:49
+13369,735779,13,45350282,76,2,4080,68',0,0,Stephano Carrillo (Mexico U20) Substitution at 68',Stephano Carrillo Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,398704.0,2025-06-05 04:54:49
+13369,735779,12,45350281,76,2,4080,68',0,0,Heriberto De Jesus (Mexico U20) Substitution at 68',Heriberto De Jesus Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,387984.0,2025-06-05 04:54:49
+13369,735779,11,45350280,76,2,4080,68',0,0,Juan Uribe (Mexico U20) Substitution at 68',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,380171.0,2025-06-05 04:54:49
+13369,735779,11,45350280,76,2,4080,68',0,0,Juan Uribe (Mexico U20) Substitution at 68',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,375871.0,2025-06-05 04:54:49
+13369,735779,11,45350280,76,2,4080,68',0,0,Juan Uribe (Mexico U20) Substitution at 68',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,353973.0,2025-06-05 04:54:49
+13369,735779,11,45350280,76,2,4080,68',0,0,Juan Uribe (Mexico U20) Substitution at 68',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,341498.0,2025-06-05 04:54:49
+13369,735779,11,45350280,76,2,4080,68',0,0,Juan Uribe (Mexico U20) Substitution at 68',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,324556.0,2025-06-05 04:54:49
+13369,735779,11,45350280,76,2,4080,68',0,0,Juan Uribe (Mexico U20) Substitution at 68',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,290957.0,2025-06-05 04:54:49
+13369,735779,11,45350280,76,2,4080,68',0,0,Juan Uribe (Mexico U20) Substitution at 68',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,272902.0,2025-06-05 04:54:49
+13369,735779,11,45350280,76,2,4080,68',0,0,Juan Uribe (Mexico U20) Substitution at 68',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,200336.0,2025-06-05 04:54:49
+13369,735779,11,45350280,76,2,4080,68',0,0,Juan Uribe (Mexico U20) Substitution at 68',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,199796.0,2025-06-05 04:54:49
+13369,735779,14,45350283,70,2,4140,69',1,0,Emil Schlichting (Denmark U20) Goal at 69',Emil Schlichting Goal,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,366229.0,2025-06-05 04:54:49
+13369,735779,15,45350284,76,2,4500,75',0,0,Tahiel Jiménez (Mexico U20) Substitution at 75',Tahiel Jiménez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,376557.0,2025-06-05 04:54:49
+13369,735779,15,45350284,76,2,4500,75',0,0,Tahiel Jiménez (Mexico U20) Substitution at 75',Tahiel Jiménez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,362417.0,2025-06-05 04:54:49
+13369,735779,17,45350286,76,2,4680,78',0,0,Julius Beck (Denmark U20) Substitution at 78',Julius Beck Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,319174.0,2025-06-05 04:54:49
+13369,735779,16,45350285,76,2,4680,78',0,0,Sami Jalal (Denmark U20) Substitution at 78',Sami Jalal Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,404849.0,2025-06-05 04:54:49
+13369,735779,16,45350285,76,2,4680,78',0,0,Sami Jalal (Denmark U20) Substitution at 78',Sami Jalal Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,319386.0,2025-06-05 04:54:49
+13369,735779,17,45350286,76,2,4680,78',0,0,Julius Beck (Denmark U20) Substitution at 78',Julius Beck Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,332428.0,2025-06-05 04:54:49
+13369,735779,18,45350287,94,2,4800,80',0,0,Andreas Dithmer (Denmark U20) Yellow Card at 80',Andreas Dithmer Yellow Card,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,330453.0,2025-06-05 04:54:49
+13369,735779,19,45350288,70,2,5040,84',1,0,Juan Uribe (Mexico U20) Goal at 84',Juan Uribe Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,178850.0,2025-06-05 04:54:49
+13369,735779,20,45350289,70,2,5400,90'+4',1,0,Emil Schlichting (Denmark U20) Goal at 94',Emil Schlichting Goal,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,366229.0,2025-06-05 04:54:49
+13369,735779,21,45350290,70,2,5400,90'+7',1,0,Tahiel Jiménez (Mexico U20) Goal at 97',Tahiel Jiménez Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,376557.0,2025-06-05 04:54:49
+13369,735780,1,45353950,94,1,1980,33',0,0,Joseph Jones (Panama U20) Yellow Card at 33',Joseph Jones Yellow Card,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,225119.0,2025-06-07 05:26:35
+13369,735780,2,45353951,70,1,2100,35',1,0,Abdulaziz Al Othman (Saudi Arabia U23) Goal at 35',Abdulaziz Al Othman Goal,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,389695.0,2025-06-07 05:26:35
+13369,735780,3,45353952,93,1,2400,40',0,0,Mohammed Ali Barnawi (Saudi Arabia U23) Red Card at 40',Mohammed Ali Barnawi Red Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341469.0,2025-06-07 05:26:35
+13369,735780,4,45353953,70,1,2580,43',1,0,Oldemar Castillo (Panama U20) Goal at 43',Oldemar Castillo Goal,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,372112.0,2025-06-07 05:26:35
+13369,735780,7,45353956,76,2,2700,45',0,0,Abdulrahman Al Obaid (Saudi Arabia U23) Substitution at 45',Abdulrahman Al Obaid Substitutio,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,383187.0,2025-06-07 05:26:35
+13369,735780,5,45353954,94,1,2700,45'+2',0,0,Abdulaziz Al Othman (Saudi Arabia U23) Yellow Card at 47',Abdulaziz Al Othman Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,389695.0,2025-06-07 05:26:35
+13369,735780,6,45353955,76,2,2700,45',0,0,Raheen Cuello (Panama U20) Substitution at 45',Raheen Cuello Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,399618.0,2025-06-07 05:26:35
+13369,735780,8,45353957,76,2,2700,45',0,0,Aimar Sánchez (Panama U20) Substitution at 45',Aimar Sánchez Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,404850.0,2025-06-07 05:26:35
+13369,735780,6,45353955,76,2,2700,45',0,0,Raheen Cuello (Panama U20) Substitution at 45',Raheen Cuello Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,414179.0,2025-06-07 05:26:35
+13369,735780,6,45353955,76,2,2700,45',0,0,Raheen Cuello (Panama U20) Substitution at 45',Raheen Cuello Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,401003.0,2025-06-07 05:26:35
+13369,735780,6,45353955,76,2,2700,45',0,0,Raheen Cuello (Panama U20) Substitution at 45',Raheen Cuello Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,378717.0,2025-06-07 05:26:35
+13369,735780,6,45353955,76,2,2700,45',0,0,Raheen Cuello (Panama U20) Substitution at 45',Raheen Cuello Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,360010.0,2025-06-07 05:26:35
+13369,735780,6,45353955,76,2,2700,45',0,0,Raheen Cuello (Panama U20) Substitution at 45',Raheen Cuello Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,223653.0,2025-06-07 05:26:35
+13369,735780,6,45353955,76,2,2700,45',0,0,Raheen Cuello (Panama U20) Substitution at 45',Raheen Cuello Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,175089.0,2025-06-07 05:26:35
+13369,735780,8,45353957,76,2,2700,45',0,0,Aimar Sánchez (Panama U20) Substitution at 45',Aimar Sánchez Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,404776.0,2025-06-07 05:26:35
+13369,735780,7,45353956,76,2,2700,45',0,0,Abdulrahman Al Obaid (Saudi Arabia U23) Substitution at 45',Abdulrahman Al Obaid Substitutio,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,389695.0,2025-06-07 05:26:35
+13369,735780,9,45353958,94,2,2820,47',0,0,Anel Ryce (Panama U20) Yellow Card at 47',Anel Ryce Yellow Card,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,372103.0,2025-06-07 05:26:35
+13369,735780,10,45353959,70,2,3480,58',1,0,Abdullah Radif (Saudi Arabia U23) Goal at 58',Abdullah Radif Goal,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,313423.0,2025-06-07 05:26:35
+13369,735780,11,45353960,94,2,3660,61',0,0,Oldemar Castillo (Panama U20) Yellow Card at 61',Oldemar Castillo Yellow Card,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,372112.0,2025-06-07 05:26:35
+13369,735780,12,45353961,94,2,4020,67',0,0,Mohammed Yousef (Saudi Arabia U23) Yellow Card at 67',Mohammed Yousef Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,367660.0,2025-06-07 05:26:35
+13369,735780,13,45353962,76,2,4020,67',0,0,Didier Dawson (Panama U20) Substitution at 67',Didier Dawson Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,400210.0,2025-06-07 05:26:35
+13369,735780,13,45353962,76,2,4020,67',0,0,Didier Dawson (Panama U20) Substitution at 67',Didier Dawson Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,372112.0,2025-06-07 05:26:35
+13369,735780,14,45353963,76,2,4080,68',0,0,Gustavo Herrera (Panama U20) Substitution at 68',Gustavo Herrera Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,141631.0,2025-06-07 05:26:35
+13369,735780,14,45353963,76,2,4080,68',0,0,Gustavo Herrera (Panama U20) Substitution at 68',Gustavo Herrera Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,388906.0,2025-06-07 05:26:35
+13369,735780,15,45353964,76,2,4200,70',0,0,Abdullah Subayt (Saudi Arabia U23) Substitution at 70',Abdullah Subayt Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,373105.0,2025-06-07 05:26:35
+13369,735780,15,45353964,76,2,4200,70',0,0,Abdullah Subayt (Saudi Arabia U23) Substitution at 70',Abdullah Subayt Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,367653.0,2025-06-07 05:26:35
+13369,735780,16,45353965,76,2,4620,77',0,0,Giovani Herbert (Panama U20) Substitution at 77',Giovani Herbert Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,362943.0,2025-06-07 05:26:35
+13369,735780,16,45353965,76,2,4620,77',0,0,Giovani Herbert (Panama U20) Substitution at 77',Giovani Herbert Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,372103.0,2025-06-07 05:26:35
+13369,735780,17,45353966,76,2,4980,83',0,0,Faisal Al Abdulwahed (Saudi Arabia U23) Substitution at 83',Faisal Al Abdulwahed Substitutio,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,362969.0,2025-06-07 05:26:35
+13369,735780,17,45353966,76,2,4980,83',0,0,Faisal Al Abdulwahed (Saudi Arabia U23) Substitution at 83',Faisal Al Abdulwahed Substitutio,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,313423.0,2025-06-07 05:26:35
+13369,735780,18,45353967,94,2,5160,86',0,0,Abdulmalik Al Oyayari (Saudi Arabia U23) Yellow Card at 86',Abdulmalik Al Oyayari Yellow Car,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,337325.0,2025-06-07 05:26:35
+13369,735780,19,45353968,76,2,5340,89',0,0,Badr Al Omair (Saudi Arabia U23) Substitution at 89',Badr Al Omair Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,392499.0,2025-06-07 05:26:35
+13369,735780,19,45353968,76,2,5340,89',0,0,Badr Al Omair (Saudi Arabia U23) Substitution at 89',Badr Al Omair Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,337325.0,2025-06-07 05:26:35
+13369,735780,22,45353971,94,2,5400,90'+6',0,0,Osama Al Marwash (Saudi Arabia U23) Yellow Card at 96',Osama Al Marwash Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341467.0,2025-06-07 05:26:35
+13369,735780,21,45353970,93,2,5400,90'+2',0,0,Mohammed Yousef (Saudi Arabia U23) Red Card at 92',Mohammed Yousef Red Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,367660.0,2025-06-07 05:26:35
+13369,735780,20,45353969,76,2,5400,90',0,0,Rakan Al Ghamdi (Saudi Arabia U23) Substitution at 90',Rakan Al Ghamdi Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,404665.0,2025-06-07 05:26:35
+13369,735780,20,45353969,76,2,5400,90',0,0,Rakan Al Ghamdi (Saudi Arabia U23) Substitution at 90',Rakan Al Ghamdi Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-06-07 05:26:35
+13369,735781,1,45353987,70,1,1020,17',1,0,Gaoussou Diakité (Mali U20) Goal at 17',Gaoussou Diakité Goal,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,380383.0,2025-06-07 05:26:35
+13369,735781,2,45353988,76,1,1620,27',0,0,Eden Gassama (Mali U20) Substitution at 27',Eden Gassama Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,402966.0,2025-06-07 05:26:35
+13369,735781,2,45353988,76,1,1620,27',0,0,Eden Gassama (Mali U20) Substitution at 27',Eden Gassama Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,404778.0,2025-06-07 05:26:35
+13369,735781,2,45353988,76,1,1620,27',0,0,Eden Gassama (Mali U20) Substitution at 27',Eden Gassama Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,276128.0,2025-06-07 05:26:35
+13369,735781,3,45353989,70,1,2280,38',1,0,Tidiam Gomis (France U20) Goal at 38',Tidiam Gomis Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,366911.0,2025-06-07 05:26:35
+13369,735781,4,45353990,94,1,2700,45',0,0,Abdoul Koné (France U20) Yellow Card at 45',Abdoul Koné Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,384380.0,2025-06-07 05:26:35
+13369,735781,7,45353995,76,2,2700,45',0,0,Yoni Gomis (France U20) Substitution at 45',Yoni Gomis Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,345688.0,2025-06-07 05:26:35
+13369,735781,5,45353993,76,2,2700,45',0,0,Steve Ngoura (France U20) Substitution at 45',Steve Ngoura Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,346520.0,2025-06-07 05:26:35
+13369,735781,6,45353994,76,2,2700,45',0,0,Saïmon Bouabré (France U20) Substitution at 45',Saïmon Bouabré Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,371472.0,2025-06-07 05:26:35
+13369,735781,7,45353995,76,2,2700,45',0,0,Yoni Gomis (France U20) Substitution at 45',Yoni Gomis Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,356211.0,2025-06-07 05:26:35
+13369,735781,6,45353994,76,2,2700,45',0,0,Saïmon Bouabré (France U20) Substitution at 45',Saïmon Bouabré Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,396630.0,2025-06-07 05:26:35
+13369,735781,5,45353993,76,2,2700,45',0,0,Steve Ngoura (France U20) Substitution at 45',Steve Ngoura Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,387509.0,2025-06-07 05:26:35
+13369,735781,8,45353997,76,2,3720,62',0,0,Dehmaine Assoumani (France U20) Substitution at 62',Dehmaine Assoumani Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-06-07 05:26:35
+13369,735781,8,45353997,76,2,3720,62',0,0,Dehmaine Assoumani (France U20) Substitution at 62',Dehmaine Assoumani Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,388522.0,2025-06-07 05:26:35
+13369,735781,9,45353998,76,2,4140,69',0,0,Ibrahim Kanate (Mali U20) Substitution at 69',Ibrahim Kanate Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,372078.0,2025-06-07 05:26:35
+13369,735781,10,45353999,76,2,4140,69',0,0,Mahamoud Barry (Mali U20) Substitution at 69',Mahamoud Barry Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,372072.0,2025-06-07 05:26:35
+13369,735781,9,45353998,76,2,4140,69',0,0,Ibrahim Kanate (Mali U20) Substitution at 69',Ibrahim Kanate Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,380383.0,2025-06-07 05:26:35
+13369,735781,10,45353999,76,2,4140,69',0,0,Mahamoud Barry (Mali U20) Substitution at 69',Mahamoud Barry Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,355981.0,2025-06-07 05:26:35
+13369,735781,11,45354014,94,2,4800,80',0,0,Rabby Nzingoula (France U20) Yellow Card at 80',Rabby Nzingoula Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,365932.0,2025-06-07 05:26:35
+13369,735781,12,45354023,76,2,5100,85',0,0,Mayssam Benama (France U20) Substitution at 85',Mayssam Benama Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,362974.0,2025-06-07 05:26:35
+13369,735781,12,45354023,76,2,5100,85',0,0,Mayssam Benama (France U20) Substitution at 85',Mayssam Benama Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,365932.0,2025-06-07 05:26:35
+13369,735781,13,45354024,76,2,5280,88',0,0,Abdoulaye Niakaté (Mali U20) Substitution at 88',Abdoulaye Niakaté Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,388895.0,2025-06-07 05:26:35
+13369,735781,13,45354024,76,2,5280,88',0,0,Abdoulaye Niakaté (Mali U20) Substitution at 88',Abdoulaye Niakaté Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,396766.0,2025-06-07 05:26:35
+13369,735781,14,45354049,94,2,5400,90'+4',0,0,Yoni Gomis (France U20) Yellow Card at 94',Yoni Gomis Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,345688.0,2025-06-07 05:26:35
+13369,735782,1,45358953,94,1,600,10',0,0,Luis Navarrete (Mexico U20) Yellow Card at 10',Luis Navarrete Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,128179.0,2025-06-08 05:14:47
+13369,735782,2,45358954,70,1,1920,32',1,0,Motoki Nishihara (Japan U20) Goal at 32',Motoki Nishihara Goal,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,398419.0,2025-06-08 05:14:47
+13369,735782,3,45358955,94,1,2460,41',0,0,Rion Ichihara (Japan U20) Yellow Card at 41',Rion Ichihara Yellow Card,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,362961.0,2025-06-08 05:14:47
+13369,735782,4,45358958,76,2,2700,45',0,0,Tahiel Jiménez (Mexico U20) Substitution at 45',Tahiel Jiménez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,376557.0,2025-06-08 05:14:47
+13369,735782,5,45358959,76,2,2700,45',0,0,Bernardo Parra (Mexico U20) Substitution at 45',Bernardo Parra Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,362417.0,2025-06-08 05:14:47
+13369,735782,7,45358961,76,2,2700,45',0,0,Hugo Camberos (Mexico U20) Substitution at 45',Hugo Camberos Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,387984.0,2025-06-08 05:14:47
+13369,735782,6,45358960,76,2,2700,45',0,0,Jonathan Padilla (Mexico U20) Substitution at 45',Jonathan Padilla Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,361264.0,2025-06-08 05:14:47
+13369,735782,6,45358960,76,2,2700,45',0,0,Jonathan Padilla (Mexico U20) Substitution at 45',Jonathan Padilla Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,371478.0,2025-06-08 05:14:47
+13369,735782,4,45358958,76,2,2700,45',0,0,Tahiel Jiménez (Mexico U20) Substitution at 45',Tahiel Jiménez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,357211.0,2025-06-08 05:14:47
+13369,735782,5,45358959,76,2,2700,45',0,0,Bernardo Parra (Mexico U20) Substitution at 45',Bernardo Parra Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,128179.0,2025-06-08 05:14:47
+13369,735782,7,45358961,76,2,2700,45',0,0,Hugo Camberos (Mexico U20) Substitution at 45',Hugo Camberos Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,178850.0,2025-06-08 05:14:47
+13369,735782,8,45358992,94,2,3300,55',0,0,Cesar Garza (Mexico U20) Yellow Card at 55',Cesar Garza Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,375061.0,2025-06-08 05:14:47
+13369,735782,9,45359007,94,2,3720,62',0,0,Kosei Ogura (Japan U20) Yellow Card at 62',Kosei Ogura Yellow Card,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,384810.0,2025-06-08 05:14:47
+13369,735782,10,45359012,76,2,3840,64',0,0,Sora Hiraga (Japan U20) Substitution at 64',Sora Hiraga Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,336497.0,2025-06-08 05:14:47
+13369,735782,10,45359012,76,2,3840,64',0,0,Sora Hiraga (Japan U20) Substitution at 64',Sora Hiraga Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,398419.0,2025-06-08 05:14:47
+13369,735782,11,45359026,70,2,4260,71',1,0,Hugo Camberos (Mexico U20) Goal at 71',Hugo Camberos Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,387984.0,2025-06-08 05:14:47
+13369,735782,12,45359031,76,2,4380,73',0,0,Nelson Ishiwatari (Japan U20) Substitution at 73',Nelson Ishiwatari Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,336494.0,2025-06-08 05:14:47
+13369,735782,13,45359032,76,2,4380,73',0,0,Yutaka Michiwaki (Japan U20) Substitution at 73',Yutaka Michiwaki Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,354522.0,2025-06-08 05:14:47
+13369,735782,12,45359031,76,2,4380,73',0,0,Nelson Ishiwatari (Japan U20) Substitution at 73',Nelson Ishiwatari Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,359859.0,2025-06-08 05:14:47
+13369,735782,13,45359032,76,2,4380,73',0,0,Yutaka Michiwaki (Japan U20) Substitution at 73',Yutaka Michiwaki Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,379758.0,2025-06-08 05:14:47
+13369,735782,14,45359064,94,2,4800,80',0,0,Tahiel Jiménez (Mexico U20) Yellow Card at 80',Tahiel Jiménez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,376557.0,2025-06-08 05:14:47
+13369,735782,15,45359068,76,2,5040,84',0,0,Oswaldo Virgen (Mexico U20) Substitution at 84',Oswaldo Virgen Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,398704.0,2025-06-08 05:14:47
+13369,735782,15,45359068,76,2,5040,84',0,0,Oswaldo Virgen (Mexico U20) Substitution at 84',Oswaldo Virgen Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,365830.0,2025-06-08 05:14:47
+13369,735782,16,45359071,76,2,5160,86',0,0,Mihiro Sato (Japan U20) Substitution at 86',Mihiro Sato Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,386929.0,2025-06-08 05:14:47
+13369,735782,17,45359072,76,2,5160,86',0,0,Katsuma Fuse (Japan U20) Substitution at 86',Katsuma Fuse Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,376450.0,2025-06-08 05:14:47
+13369,735782,17,45359072,76,2,5160,86',0,0,Katsuma Fuse (Japan U20) Substitution at 86',Katsuma Fuse Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,365019.0,2025-06-08 05:14:47
+13369,735782,16,45359071,76,2,5160,86',0,0,Mihiro Sato (Japan U20) Substitution at 86',Mihiro Sato Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,341714.0,2025-06-08 05:14:47
+13369,735782,19,45359093,94,2,5400,90'+6',0,0,Bernardo Parra (Mexico U20) Yellow Card at 96',Bernardo Parra Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,362417.0,2025-06-08 05:14:47
+13369,735782,18,45359089,94,2,5400,90'+1',0,0,Karol Velázquez (Mexico U20) Yellow Card at 91',Karol Velázquez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,364722.0,2025-06-08 05:14:47
+13369,735783,1,45359229,94,1,1320,22',0,0,Breyton Fougeu (Congo U20) Yellow Card at 22',Breyton Fougeu Yellow Card,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,380025.0,2025-06-08 05:14:47
+13369,735783,2,45359230,94,1,1440,24',0,0,Brad-Hamilton Mantsounga (Congo U20) Yellow Card at 24',Brad-Hamilton Mantsounga Yellow ,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404832.0,2025-06-08 05:14:47
+13369,735783,3,45359231,98,1,1620,27',1,0,Mads Enggård (Denmark U20) Penalty - Scored at 27',Mads Enggård Penalty - Scored,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,315621.0,2025-06-08 05:14:47
+13369,735783,4,45359372,76,2,2700,45',0,0,Gustav Christensen (Denmark U20) Substitution at 45',Gustav Christensen Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,353064.0,2025-06-08 05:14:47
+13369,735783,4,45359372,76,2,2700,45',0,0,Gustav Christensen (Denmark U20) Substitution at 45',Gustav Christensen Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,380656.0,2025-06-08 05:14:47
+13369,735783,5,45359414,76,2,3540,59',0,0,Jason Bemba (Congo U20) Substitution at 59',Jason Bemba Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404833.0,2025-06-08 05:14:47
+13369,735783,5,45359414,76,2,3540,59',0,0,Jason Bemba (Congo U20) Substitution at 59',Jason Bemba Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,404840.0,2025-06-08 05:14:47
+13369,735783,6,45359415,94,2,3660,61',0,0,César Obongo (Congo U20) Yellow Card at 61',César Obongo Yellow Card,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404841.0,2025-06-08 05:14:47
+13369,735783,8,45359417,76,2,3780,63',0,0,Pontus Andy Texel (Denmark U20) Substitution at 63',Pontus Andy Texel Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,343957.0,2025-06-08 05:14:47
+13369,735783,9,45359418,76,2,3780,63',0,0,Chido Obi (Denmark U20) Substitution at 63',Chido Obi Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,375738.0,2025-06-08 05:14:47
+13369,735783,7,45359416,76,2,3780,63',0,0,Jakob Nielsen (Denmark U20) Substitution at 63',Jakob Nielsen Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,351245.0,2025-06-08 05:14:47
+13369,735783,8,45359417,76,2,3780,63',0,0,Pontus Andy Texel (Denmark U20) Substitution at 63',Pontus Andy Texel Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,360259.0,2025-06-08 05:14:47
+13369,735783,7,45359416,76,2,3780,63',0,0,Jakob Nielsen (Denmark U20) Substitution at 63',Jakob Nielsen Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,315621.0,2025-06-08 05:14:47
+13369,735783,9,45359418,76,2,3780,63',0,0,Chido Obi (Denmark U20) Substitution at 63',Chido Obi Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,336483.0,2025-06-08 05:14:47
+13369,735783,10,45359422,76,2,4140,69',0,0,Lorick Nana (Congo U20) Substitution at 69',Lorick Nana Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404845.0,2025-06-08 05:14:47
+13369,735783,11,45359423,76,2,4140,69',0,0,Destin Banzouzi (Congo U20) Substitution at 69',Destin Banzouzi Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404842.0,2025-06-08 05:14:47
+13369,735783,11,45359423,76,2,4140,69',0,0,Destin Banzouzi (Congo U20) Substitution at 69',Destin Banzouzi Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,380025.0,2025-06-08 05:14:47
+13369,735783,10,45359422,76,2,4140,69',0,0,Lorick Nana (Congo U20) Substitution at 69',Lorick Nana Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,404997.0,2025-06-08 05:14:47
+13369,735783,12,45359439,94,2,4440,74',0,0,Kimi Gandziri (Congo U20) Yellow Card at 74',Kimi Gandziri Yellow Card,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404844.0,2025-06-08 05:14:47
+13369,735783,13,45359482,94,2,4740,79',0,0,Jakob Nielsen (Denmark U20) Yellow Card at 79',Jakob Nielsen Yellow Card,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,351245.0,2025-06-08 05:14:47
+13369,735783,14,45359486,76,2,4860,81',0,0,Lauge Sandgrav (Denmark U20) Substitution at 81',Lauge Sandgrav Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,312022.0,2025-06-08 05:14:47
+13369,735783,14,45359486,76,2,4860,81',0,0,Lauge Sandgrav (Denmark U20) Substitution at 81',Lauge Sandgrav Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,399469.0,2025-06-08 05:14:47
+13369,735783,15,45359487,76,2,4920,82',0,0,Alan Bikoumou (Congo U20) Substitution at 82',Alan Bikoumou Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404839.0,2025-06-08 05:14:47
+13369,735783,16,45359499,76,2,4920,82',0,0,Steed Tchicamboud (Congo U20) Substitution at 82',Steed Tchicamboud Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404848.0,2025-06-08 05:14:47
+13369,735783,15,45359487,76,2,4920,82',0,0,Alan Bikoumou (Congo U20) Substitution at 82',Alan Bikoumou Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,404847.0,2025-06-08 05:14:47
+13369,735783,16,45359499,76,2,4920,82',0,0,Steed Tchicamboud (Congo U20) Substitution at 82',Steed Tchicamboud Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,404844.0,2025-06-08 05:14:47
+13369,735783,17,45359593,94,2,5400,90'+4',0,0,Gustav Julius Mortensen (Denmark U20) Yellow Card at 94',Gustav Julius Mortensen Yellow C,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,319386.0,2025-06-08 05:14:47
+13369,735783,18,45359594,70,2,5400,90'+6',1,0,Chido Obi (Denmark U20) Goal at 96',Chido Obi Goal,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,375738.0,2025-06-08 05:14:47
+13369,735783,19,45359605,94,2,5400,90'+6',0,0,Chido Obi (Denmark U20) Yellow Card at 96',Chido Obi Yellow Card,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,375738.0,2025-06-08 05:14:47
+13369,735784,1,45367062,70,1,900,15',1,0,Meshal Alaeli (Saudi Arabia U23) Goal at 15',Meshal Alaeli Goal,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,362869.0,2025-06-10 04:50:18
+13369,735784,2,45367073,94,1,2040,34',0,0,Abdulmalik Al Oyayari (Saudi Arabia U23) Yellow Card at 34',Abdulmalik Al Oyayari Yellow Car,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,337325.0,2025-06-10 04:50:18
+13369,735784,3,45367075,94,1,2580,43',0,0,Meshal Alaeli (Saudi Arabia U23) Yellow Card at 43',Meshal Alaeli Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,362869.0,2025-06-10 04:50:18
+13369,735784,4,45367076,94,1,2580,43',0,0,Isiaka Soukouna (Mali U20) Yellow Card at 43',Isiaka Soukouna Yellow Card,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,404780.0,2025-06-10 04:50:18
+13369,735784,5,45367077,70,1,2700,45'+3',1,0,Gaoussou Diakité (Mali U20) Goal at 48',Gaoussou Diakité Goal,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,380383.0,2025-06-10 04:50:18
+13369,735784,6,45367078,70,2,2940,49',1,0,Wilson Samake (Mali U20) Goal at 49',Wilson Samake Goal,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,355981.0,2025-06-10 04:50:18
+13369,735784,7,45367079,94,2,3060,51',0,0,Abdullah Radif (Saudi Arabia U23) Yellow Card at 51',Abdullah Radif Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,313423.0,2025-06-10 04:50:18
+13369,735784,8,45367080,76,2,3360,56',0,0,Abdullah Subayt (Saudi Arabia U23) Substitution at 56',Abdullah Subayt Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,373105.0,2025-06-10 04:50:18
+13369,735784,8,45367080,76,2,3360,56',0,0,Abdullah Subayt (Saudi Arabia U23) Substitution at 56',Abdullah Subayt Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,383187.0,2025-06-10 04:50:18
+13369,735784,9,45367081,70,2,3960,66',1,0,Abdullah Radif (Saudi Arabia U23) Goal at 66',Abdullah Radif Goal,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,313423.0,2025-06-10 04:50:18
+13369,735784,11,45367083,76,2,4260,71',0,0,Badr Al Omair (Saudi Arabia U23) Substitution at 71',Badr Al Omair Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,392499.0,2025-06-10 04:50:18
+13369,735784,10,45367082,76,2,4260,71',0,0,Majed Abdullah (Saudi Arabia U23) Substitution at 71',Majed Abdullah Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,388400.0,2025-06-10 04:50:18
+13369,735784,10,45367082,76,2,4260,71',0,0,Majed Abdullah (Saudi Arabia U23) Substitution at 71',Majed Abdullah Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,389695.0,2025-06-10 04:50:18
+13369,735784,11,45367083,76,2,4260,71',0,0,Badr Al Omair (Saudi Arabia U23) Substitution at 71',Badr Al Omair Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,341471.0,2025-06-10 04:50:18
+13369,735784,14,45367086,76,2,4380,73',0,0,Ibrahim Kanate (Mali U20) Substitution at 73',Ibrahim Kanate Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,372078.0,2025-06-10 04:50:18
+13369,735784,12,45367084,76,2,4380,73',0,0,Mahamoud Barry (Mali U20) Substitution at 73',Mahamoud Barry Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,372072.0,2025-06-10 04:50:18
+13369,735784,13,45367085,76,2,4380,73',0,0,Ousmane Thiero (Mali U20) Substitution at 73',Ousmane Thiero Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,372067.0,2025-06-10 04:50:18
+13369,735784,12,45367084,76,2,4380,73',0,0,Mahamoud Barry (Mali U20) Substitution at 73',Mahamoud Barry Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,396766.0,2025-06-10 04:50:18
+13369,735784,13,45367085,76,2,4380,73',0,0,Ousmane Thiero (Mali U20) Substitution at 73',Ousmane Thiero Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,372068.0,2025-06-10 04:50:18
+13369,735784,14,45367086,76,2,4380,73',0,0,Ibrahim Kanate (Mali U20) Substitution at 73',Ibrahim Kanate Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,372081.0,2025-06-10 04:50:18
+13369,735784,15,45367087,76,2,4860,81',0,0,Faisal Al Abdulwahed (Saudi Arabia U23) Substitution at 81',Faisal Al Abdulwahed Substitutio,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,362969.0,2025-06-10 04:50:18
+13369,735784,16,45367088,76,2,4860,81',0,0,Abdullah Al Zaid (Saudi Arabia U23) Substitution at 81',Abdullah Al Zaid Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341475.0,2025-06-10 04:50:18
+13369,735784,16,45367088,76,2,4860,81',0,0,Abdullah Al Zaid (Saudi Arabia U23) Substitution at 81',Abdullah Al Zaid Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-06-10 04:50:18
+13369,735784,15,45367087,76,2,4860,81',0,0,Faisal Al Abdulwahed (Saudi Arabia U23) Substitution at 81',Faisal Al Abdulwahed Substitutio,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,313423.0,2025-06-10 04:50:18
+13369,735784,17,45367089,94,2,5340,89',0,0,Wilson Samake (Mali U20) Yellow Card at 89',Wilson Samake Yellow Card,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,355981.0,2025-06-10 04:50:18
+13369,735784,20,45367104,94,2,5400,90'+7',0,0,Majed Abdullah (Saudi Arabia U23) Yellow Card at 97',Majed Abdullah Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,388400.0,2025-06-10 04:50:18
+13369,735784,18,45367090,76,2,5400,90',0,0,Abdoulaye Niakaté (Mali U20) Substitution at 90',Abdoulaye Niakaté Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,388895.0,2025-06-10 04:50:18
+13369,735784,19,45367100,76,2,5400,90'+6',0,0,Oumar Pona (Mali U20) Substitution at 96',Oumar Pona Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,378976.0,2025-06-10 04:50:18
+13369,735784,19,45367100,76,2,5400,90'+6',0,0,Oumar Pona (Mali U20) Substitution at 96',Oumar Pona Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,397409.0,2025-06-10 04:50:18
+13369,735784,18,45367090,76,2,5400,90',0,0,Abdoulaye Niakaté (Mali U20) Substitution at 90',Abdoulaye Niakaté Substitution,17763,0.0,0.0,0.0,0.0,0.0,0.0,2,355981.0,2025-06-10 04:50:18
+13369,735784,21,45367130,94,5,5640,94',0,0,Oumar Pona (Mali U20) Yellow Card at 94',Oumar Pona Yellow Card,17763,0.0,0.0,0.0,0.0,0.0,0.0,1,378976.0,2025-06-10 04:50:18
+13369,735785,1,45367287,70,1,960,16',1,0,Steve Ngoura (France U20) Goal at 16',Steve Ngoura Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,346520.0,2025-06-10 04:50:18
+13369,735785,2,45367335,94,1,1800,30',0,0,Raheen Cuello (Panama U20) Yellow Card at 30',Raheen Cuello Yellow Card,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,399618.0,2025-06-10 04:50:18
+13369,735785,3,45367343,70,1,2040,34',1,0,Gustavo Herrera (Panama U20) Goal at 34',Gustavo Herrera Goal,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,141631.0,2025-06-10 04:50:18
+13369,735785,4,45367349,70,1,2160,36',1,0,Lucas Michel (France U20) Goal at 36',Lucas Michel Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,356651.0,2025-06-10 04:50:18
+13369,735785,5,45367396,76,2,2700,45',0,0,Yoni Gomis (France U20) Substitution at 45',Yoni Gomis Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,345688.0,2025-06-10 04:50:18
+13369,735785,6,45367397,76,2,2700,45',0,0,Mayssam Benama (France U20) Substitution at 45',Mayssam Benama Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,362974.0,2025-06-10 04:50:18
+13369,735785,5,45367396,76,2,2700,45',0,0,Yoni Gomis (France U20) Substitution at 45',Yoni Gomis Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,364697.0,2025-06-10 04:50:18
+13369,735785,6,45367397,76,2,2700,45',0,0,Mayssam Benama (France U20) Substitution at 45',Mayssam Benama Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,388558.0,2025-06-10 04:50:18
+13369,735785,7,45367412,76,2,3600,60',0,0,Aladji Bamba (France U20) Substitution at 60',Aladji Bamba Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,396630.0,2025-06-10 04:50:18
+13369,735785,8,45367413,76,2,3600,60',0,0,Saïmon Bouabré (France U20) Substitution at 60',Saïmon Bouabré Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,371472.0,2025-06-10 04:50:18
+13369,735785,7,45367412,76,2,3600,60',0,0,Aladji Bamba (France U20) Substitution at 60',Aladji Bamba Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,356211.0,2025-06-10 04:50:18
+13369,735785,8,45367413,76,2,3600,60',0,0,Saïmon Bouabré (France U20) Substitution at 60',Saïmon Bouabré Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,356651.0,2025-06-10 04:50:18
+13369,735785,9,45367418,76,2,4260,71',0,0,Oldemar Castillo (Panama U20) Substitution at 71',Oldemar Castillo Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,372112.0,2025-06-10 04:50:18
+13369,735785,10,45367419,76,2,4260,71',0,0,Kevin Bernal (Panama U20) Substitution at 71',Kevin Bernal Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,404782.0,2025-06-10 04:50:18
+13369,735785,9,45367418,76,2,4260,71',0,0,Oldemar Castillo (Panama U20) Substitution at 71',Oldemar Castillo Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,399618.0,2025-06-10 04:50:18
+13369,735785,10,45367419,76,2,4260,71',0,0,Kevin Bernal (Panama U20) Substitution at 71',Kevin Bernal Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,362943.0,2025-06-10 04:50:18
+13369,735785,11,45367427,76,2,4440,74',0,0,Tidiam Gomis (France U20) Substitution at 74',Tidiam Gomis Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,366911.0,2025-06-10 04:50:18
+13369,735785,11,45367427,76,2,4440,74',0,0,Tidiam Gomis (France U20) Substitution at 74',Tidiam Gomis Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,388522.0,2025-06-10 04:50:18
+13369,735785,12,45367448,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,414179.0,2025-06-10 04:50:18
+13369,735785,12,45367448,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,401003.0,2025-06-10 04:50:18
+13369,735785,12,45367448,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,378717.0,2025-06-10 04:50:18
+13369,735785,12,45367448,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,360010.0,2025-06-10 04:50:18
+13369,735785,12,45367448,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,223653.0,2025-06-10 04:50:18
+13369,735785,12,45367448,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,175089.0,2025-06-10 04:50:18
+13369,735785,13,45367449,76,2,4920,82',0,0,Karlo Kurányi (Panama U20) Substitution at 82',Karlo Kurányi Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,388906.0,2025-06-10 04:50:18
+13369,735785,13,45367449,76,2,4920,82',0,0,Karlo Kurányi (Panama U20) Substitution at 82',Karlo Kurányi Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,372103.0,2025-06-10 04:50:18
+13369,735785,12,45367448,76,2,4920,82',0,0,Carlos Hernández (Panama U20) Substitution at 82',Carlos Hernández Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,400210.0,2025-06-10 04:50:18
+13369,735785,14,45367460,76,2,5160,86',0,0,Daivis Murillo (Panama U20) Substitution at 86',Daivis Murillo Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,1,404779.0,2025-06-10 04:50:18
+13369,735785,14,45367460,76,2,5160,86',0,0,Daivis Murillo (Panama U20) Substitution at 86',Daivis Murillo Substitution,5195,0.0,0.0,0.0,0.0,0.0,0.0,2,404776.0,2025-06-10 04:50:18
+13369,735786,1,45369204,70,1,300,5',1,0,Chido Obi (Denmark U20) Goal at 5',Chido Obi Goal,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,375738.0,2025-06-11 04:58:31
+13369,735786,2,45369224,94,1,2280,38',0,0,Nelson Ishiwatari (Japan U20) Yellow Card at 38',Nelson Ishiwatari Yellow Card,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,336494.0,2025-06-11 04:58:31
+13369,735786,3,45369229,94,1,2520,42',0,0,William Clem (Denmark U20) Yellow Card at 42',William Clem Yellow Card,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,332428.0,2025-06-11 04:58:31
+13369,735786,5,45369235,76,2,2700,45',0,0,Sora Hiraga (Japan U20) Substitution at 45',Sora Hiraga Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,336497.0,2025-06-11 04:58:31
+13369,735786,4,45369234,76,2,2700,45',0,0,Yumeki Yokoyama (Japan U20) Substitution at 45',Yumeki Yokoyama Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,404834.0,2025-06-11 04:58:31
+13369,735786,4,45369234,76,2,2700,45',0,0,Yumeki Yokoyama (Japan U20) Substitution at 45',Yumeki Yokoyama Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,336494.0,2025-06-11 04:58:31
+13369,735786,5,45369235,76,2,2700,45',0,0,Sora Hiraga (Japan U20) Substitution at 45',Sora Hiraga Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,398419.0,2025-06-11 04:58:31
+13369,735786,7,45369237,76,2,3780,63',0,0,Emil Schlichting (Denmark U20) Substitution at 63',Emil Schlichting Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,366229.0,2025-06-11 04:58:31
+13369,735786,6,45369236,76,2,3780,63',0,0,Lauge Sandgrav (Denmark U20) Substitution at 63',Lauge Sandgrav Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,312022.0,2025-06-11 04:58:31
+13369,735786,7,45369237,76,2,3780,63',0,0,Emil Schlichting (Denmark U20) Substitution at 63',Emil Schlichting Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,375738.0,2025-06-11 04:58:31
+13369,735786,6,45369236,76,2,3780,63',0,0,Lauge Sandgrav (Denmark U20) Substitution at 63',Lauge Sandgrav Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,351245.0,2025-06-11 04:58:31
+13369,735786,8,45369238,76,2,4200,70',0,0,Niko Takahashi (Japan U20) Substitution at 70',Niko Takahashi Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,341714.0,2025-06-11 04:58:31
+13369,735786,8,45369238,76,2,4200,70',0,0,Niko Takahashi (Japan U20) Substitution at 70',Niko Takahashi Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,386929.0,2025-06-11 04:58:31
+13369,735786,9,45369239,76,2,4380,73',0,0,Sabil Hansen (Denmark U20) Substitution at 73',Sabil Hansen Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,360259.0,2025-06-11 04:58:31
+13369,735786,10,45369240,76,2,4380,73',0,0,Alexander Simmelhack (Denmark U20) Substitution at 73',Alexander Simmelhack Substitutio,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,336483.0,2025-06-11 04:58:31
+13369,735786,9,45369239,76,2,4380,73',0,0,Sabil Hansen (Denmark U20) Substitution at 73',Sabil Hansen Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,343957.0,2025-06-11 04:58:31
+13369,735786,10,45369240,76,2,4380,73',0,0,Alexander Simmelhack (Denmark U20) Substitution at 73',Alexander Simmelhack Substitutio,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,364126.0,2025-06-11 04:58:31
+13369,735786,11,45369241,97,2,4680,78',1,0,Keisuke Nakamura (Japan U20) Own Goal at 78',Keisuke Nakamura Own Goal,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,379747.0,2025-06-11 04:58:31
+13369,735786,13,45369243,76,2,4740,79',0,0,Rento Takaoka (Japan U20) Substitution at 79',Rento Takaoka Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,371598.0,2025-06-11 04:58:31
+13369,735786,12,45369242,76,2,4740,79',0,0,Aren Inoue (Japan U20) Substitution at 79',Aren Inoue Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,1,376451.0,2025-06-11 04:58:31
+13369,735786,12,45369242,76,2,4740,79',0,0,Aren Inoue (Japan U20) Substitution at 79',Aren Inoue Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,359859.0,2025-06-11 04:58:31
+13369,735786,13,45369243,76,2,4740,79',0,0,Rento Takaoka (Japan U20) Substitution at 79',Rento Takaoka Substitution,5171,0.0,0.0,0.0,0.0,0.0,0.0,2,379758.0,2025-06-11 04:58:31
+13369,735786,14,45369244,76,2,4980,83',0,0,Mads Enggård (Denmark U20) Substitution at 83',Mads Enggård Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,315621.0,2025-06-11 04:58:31
+13369,735786,14,45369244,76,2,4980,83',0,0,Mads Enggård (Denmark U20) Substitution at 83',Mads Enggård Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,332428.0,2025-06-11 04:58:31
+13369,735786,15,45369246,70,2,5100,85',1,0,Alexander Simmelhack (Denmark U20) Goal at 85',Alexander Simmelhack Goal,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,336483.0,2025-06-11 04:58:31
+13369,735787,1,45369283,70,1,1260,21',1,0,Oswaldo Virgen (Mexico U20) Goal at 21',Oswaldo Virgen Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,398704.0,2025-06-11 04:58:31
+13369,735787,2,45369284,174,1,1260,21',0,0,Jonathan Padilla (Mexico U20) Penalty - Saved at 21',Jonathan Padilla Penalty - Saved,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,361264.0,2025-06-11 04:58:31
+13369,735787,3,45369285,70,1,1500,25',1,0,Breyton Fougeu (Congo U20) Goal at 25',Breyton Fougeu Goal,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,380025.0,2025-06-11 04:58:31
+13369,735787,4,45369287,70,1,1800,30',1,0,Tahiel Jiménez (Mexico U20) Goal at 30',Tahiel Jiménez Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,376557.0,2025-06-11 04:58:31
+13369,735787,5,45369353,76,2,2700,45',0,0,Jason Bemba (Congo U20) Substitution at 45',Jason Bemba Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404833.0,2025-06-11 04:58:31
+13369,735787,7,45369361,76,2,2700,45',0,0,Omar Moreno (Mexico U20) Substitution at 45',Omar Moreno Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,357211.0,2025-06-11 04:58:31
+13369,735787,6,45369360,76,2,2700,45',0,0,Heriberto De Jesus (Mexico U20) Substitution at 45',Heriberto De Jesus Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,329916.0,2025-06-11 04:58:31
+13369,735787,5,45369353,76,2,2700,45',0,0,Jason Bemba (Congo U20) Substitution at 45',Jason Bemba Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,404840.0,2025-06-11 04:58:31
+13369,735787,7,45369361,76,2,2700,45',0,0,Omar Moreno (Mexico U20) Substitution at 45',Omar Moreno Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,365830.0,2025-06-11 04:58:31
+13369,735787,6,45369360,76,2,2700,45',0,0,Heriberto De Jesus (Mexico U20) Substitution at 45',Heriberto De Jesus Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,361264.0,2025-06-11 04:58:31
+13369,735787,8,45369416,70,2,3660,61',1,0,Omar Moreno (Mexico U20) Goal at 61',Omar Moreno Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,357211.0,2025-06-11 04:58:31
+13369,735787,9,45369421,76,2,3720,62',0,0,Stephano Carrillo (Mexico U20) Substitution at 62',Stephano Carrillo Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,371478.0,2025-06-11 04:58:31
+13369,735787,9,45369421,76,2,3720,62',0,0,Stephano Carrillo (Mexico U20) Substitution at 62',Stephano Carrillo Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,398704.0,2025-06-11 04:58:31
+13369,735787,11,45369423,76,2,3960,66',0,0,Ángel Rico (Mexico U20) Substitution at 66',Ángel Rico Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,386920.0,2025-06-11 04:58:31
+13369,735787,10,45369422,94,2,3960,66',0,0,Angel Chávez (Mexico U20) Yellow Card at 66',Angel Chávez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,361206.0,2025-06-11 04:58:31
+13369,735787,12,45369424,76,2,3960,66',0,0,Juan Uribe (Mexico U20) Substitution at 66',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,178850.0,2025-06-11 04:58:31
+13369,735787,11,45369423,76,2,3960,66',0,0,Ángel Rico (Mexico U20) Substitution at 66',Ángel Rico Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,375061.0,2025-06-11 04:58:31
+13369,735787,12,45369424,76,2,3960,66',0,0,Juan Uribe (Mexico U20) Substitution at 66',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,380171.0,2025-06-11 04:58:31
+13369,735787,12,45369424,76,2,3960,66',0,0,Juan Uribe (Mexico U20) Substitution at 66',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,375871.0,2025-06-11 04:58:31
+13369,735787,12,45369424,76,2,3960,66',0,0,Juan Uribe (Mexico U20) Substitution at 66',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,353973.0,2025-06-11 04:58:31
+13369,735787,12,45369424,76,2,3960,66',0,0,Juan Uribe (Mexico U20) Substitution at 66',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,341498.0,2025-06-11 04:58:31
+13369,735787,12,45369424,76,2,3960,66',0,0,Juan Uribe (Mexico U20) Substitution at 66',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,324556.0,2025-06-11 04:58:31
+13369,735787,12,45369424,76,2,3960,66',0,0,Juan Uribe (Mexico U20) Substitution at 66',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,290957.0,2025-06-11 04:58:31
+13369,735787,12,45369424,76,2,3960,66',0,0,Juan Uribe (Mexico U20) Substitution at 66',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,272902.0,2025-06-11 04:58:31
+13369,735787,12,45369424,76,2,3960,66',0,0,Juan Uribe (Mexico U20) Substitution at 66',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,200336.0,2025-06-11 04:58:31
+13369,735787,12,45369424,76,2,3960,66',0,0,Juan Uribe (Mexico U20) Substitution at 66',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,199796.0,2025-06-11 04:58:31
+13369,735787,13,45369430,94,2,4140,69',0,0,Kimi Gandziri (Congo U20) Yellow Card at 69',Kimi Gandziri Yellow Card,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404844.0,2025-06-11 04:58:31
+13369,735787,14,45369434,76,2,4260,71',0,0,Steevy Mazikou (Congo U20) Substitution at 71',Steevy Mazikou Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,379059.0,2025-06-11 04:58:31
+13369,735787,14,45369434,76,2,4260,71',0,0,Steevy Mazikou (Congo U20) Substitution at 71',Steevy Mazikou Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,404831.0,2025-06-11 04:58:31
+13369,735787,15,45369455,76,2,4320,72',0,0,Keviriel Massoumou (Congo U20) Substitution at 72',Keviriel Massoumou Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404837.0,2025-06-11 04:58:31
+13369,735787,15,45369455,76,2,4320,72',0,0,Keviriel Massoumou (Congo U20) Substitution at 72',Keviriel Massoumou Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,404839.0,2025-06-11 04:58:31
+13369,735787,16,45369464,94,2,4500,75',0,0,Brad-Hamilton Mantsounga (Congo U20) Yellow Card at 75',Brad-Hamilton Mantsounga Yellow ,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404832.0,2025-06-11 04:58:31
+13369,735787,17,45369524,76,2,4920,82',0,0,Jean Nyindong Tsamouna (Congo U20) Substitution at 82',Jean Nyindong Tsamouna Substitut,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404843.0,2025-06-11 04:58:31
+13369,735787,17,45369524,76,2,4920,82',0,0,Jean Nyindong Tsamouna (Congo U20) Substitution at 82',Jean Nyindong Tsamouna Substitut,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,380025.0,2025-06-11 04:58:31
+13369,735787,18,45369568,76,2,5160,86',0,0,Destin Banzouzi (Congo U20) Substitution at 86',Destin Banzouzi Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404842.0,2025-06-11 04:58:31
+13369,735787,18,45369568,76,2,5160,86',0,0,Destin Banzouzi (Congo U20) Substitution at 86',Destin Banzouzi Substitution,7785,0.0,0.0,0.0,0.0,0.0,0.0,2,404847.0,2025-06-11 04:58:31
+13369,735787,19,45369596,93,2,5280,88',0,0,Angel Chávez (Mexico U20) Red Card at 88',Angel Chávez Red Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,361206.0,2025-06-11 04:58:31
+13369,735787,20,45369597,98,2,5340,89',1,0,Jean Nyindong Tsamouna (Congo U20) Penalty - Scored at 89',Jean Nyindong Tsamouna Penalty -,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404843.0,2025-06-11 04:58:31
+13369,735787,21,45369653,93,2,5400,90'+4',0,0,Stephano Carrillo (Mexico U20) Red Card at 94',Stephano Carrillo Red Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,371478.0,2025-06-11 04:58:31
+13369,735787,22,45369687,70,2,5400,90'+7',1,0,Jason Bemba (Congo U20) Goal at 97',Jason Bemba Goal,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404833.0,2025-06-11 04:58:31
+13369,735787,23,45369707,93,2,5400,90'+8',0,0,Jason Bemba (Congo U20) Red Card at 98',Jason Bemba Red Card,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404833.0,2025-06-11 04:58:31
+13369,735787,24,45369708,94,2,5400,90'+8',0,0,Jason Bemba (Congo U20) Yellow Card at 98',Jason Bemba Yellow Card,7785,0.0,0.0,0.0,0.0,0.0,0.0,1,404833.0,2025-06-11 04:58:31
+13451,738500,1,45385601,70,1,180,3',1,0,Abdulmalik Al Jaber (Saudi Arabia U23) Goal at 3',Abdulmalik Al Jaber Goal,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,1,341471.0,2025-06-15 05:11:26
+13451,738500,2,45385603,70,1,660,11',1,0,Abdullah Radif (Saudi Arabia U23) Goal at 11',Abdullah Radif Goal,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,1,313423.0,2025-06-15 05:11:26
+13451,738500,3,45385604,70,1,1200,20',1,0,Gustav Christensen (Denmark U20) Goal at 20',Gustav Christensen Goal,130879,0.0,0.0,-0.02,-0.01,0.0,0.0,1,353064.0,2025-06-15 05:11:26
+13451,738500,4,45385607,94,1,1980,33',0,0,Abdulmalik Al Jaber (Saudi Arabia U23) Yellow Card at 33',Abdulmalik Al Jaber Yellow Card,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,1,341471.0,2025-06-15 05:11:26
+13451,738500,5,45385608,76,1,2040,34',0,0,Majed Abdullah (Saudi Arabia U23) Substitution at 34',Majed Abdullah Substitution,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,1,388400.0,2025-06-15 05:11:26
+13451,738500,5,45385608,76,1,2040,34',0,0,Majed Abdullah (Saudi Arabia U23) Substitution at 34',Majed Abdullah Substitution,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,2,389695.0,2025-06-15 05:11:26
+13451,738500,8,45385619,76,2,2700,45',0,0,Sabil Hansen (Denmark U20) Substitution at 45',Sabil Hansen Substitution,130879,0.0,0.0,-0.02,-0.01,0.0,0.0,1,360259.0,2025-06-15 05:11:26
+13451,738500,6,45385610,70,1,2700,45',1,0,Meshal Alaeli (Saudi Arabia U23) Goal at 45',Meshal Alaeli Goal,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,1,362869.0,2025-06-15 05:11:26
+13451,738500,7,45385618,76,2,2700,45',0,0,Abbas Al Hassan (Saudi Arabia U23) Substitution at 45',Abbas Al Hassan Substitution,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,1,367653.0,2025-06-15 05:11:26
+13451,738500,9,45385620,76,2,2700,45',0,0,Alexander Lyng (Denmark U20) Substitution at 45',Alexander Lyng Substitution,130879,0.0,0.0,-0.02,-0.01,0.0,0.0,1,364126.0,2025-06-15 05:11:26
+13451,738500,10,45385621,76,2,2700,45',0,0,Michael Opoku (Denmark U20) Substitution at 45',Michael Opoku Substitution,130879,0.0,0.0,-0.02,-0.01,0.0,0.0,1,380656.0,2025-06-15 05:11:26
+13451,738500,9,45385620,76,2,2700,45',0,0,Alexander Lyng (Denmark U20) Substitution at 45',Alexander Lyng Substitution,130879,0.0,0.0,-0.02,-0.01,0.0,0.0,2,375738.0,2025-06-15 05:11:26
+13451,738500,10,45385621,76,2,2700,45',0,0,Michael Opoku (Denmark U20) Substitution at 45',Michael Opoku Substitution,130879,0.0,0.0,-0.02,-0.01,0.0,0.0,2,353064.0,2025-06-15 05:11:26
+13451,738500,7,45385618,76,2,2700,45',0,0,Abbas Al Hassan (Saudi Arabia U23) Substitution at 45',Abbas Al Hassan Substitution,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,2,392499.0,2025-06-15 05:11:26
+13451,738500,8,45385619,76,2,2700,45',0,0,Sabil Hansen (Denmark U20) Substitution at 45',Sabil Hansen Substitution,130879,0.0,0.0,-0.02,-0.01,0.0,0.0,2,343957.0,2025-06-15 05:11:26
+13451,738500,11,45385622,94,2,3000,50',0,0,Meshal Alaeli (Saudi Arabia U23) Yellow Card at 50',Meshal Alaeli Yellow Card,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,1,362869.0,2025-06-15 05:11:26
+13451,738500,12,45387592,70,2,3180,53',1,0,Abdulmalik Al Jaber (Saudi Arabia U23) Goal at 53',Abdulmalik Al Jaber Goal,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,1,341471.0,2025-06-15 05:11:26
+13451,738500,13,45385627,76,2,3600,60',0,0,Julius Beck (Denmark U20) Substitution at 60',Julius Beck Substitution,130879,0.0,0.0,-0.02,-0.01,0.0,0.0,1,319174.0,2025-06-15 05:11:26
+13451,738500,13,45385627,76,2,3600,60',0,0,Julius Beck (Denmark U20) Substitution at 60',Julius Beck Substitution,130879,0.0,0.0,-0.02,-0.01,0.0,0.0,2,332428.0,2025-06-15 05:11:26
+13451,738500,14,45385629,70,2,3780,63',1,0,Julius Beck (Denmark U20) Goal at 63',Julius Beck Goal,130879,0.0,0.0,-0.02,-0.01,0.0,0.0,1,319174.0,2025-06-15 05:11:26
+13451,738500,16,45385635,76,2,4260,71',0,0,Kaare Barslund (Denmark U20) Substitution at 71',Kaare Barslund Substitution,130879,0.0,0.0,-0.02,-0.01,0.0,0.0,1,347458.0,2025-06-15 05:11:26
+13451,738500,15,45385633,76,2,4260,71',0,0,Mohammed Ali Barnawi (Saudi Arabia U23) Substitution at 71',Mohammed Ali Barnawi Substitutio,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,1,341469.0,2025-06-15 05:11:26
+13451,738500,15,45385633,76,2,4260,71',0,0,Mohammed Ali Barnawi (Saudi Arabia U23) Substitution at 71',Mohammed Ali Barnawi Substitutio,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,2,313423.0,2025-06-15 05:11:26
+13451,738500,16,45385635,76,2,4260,71',0,0,Kaare Barslund (Denmark U20) Substitution at 71',Kaare Barslund Substitution,130879,0.0,0.0,-0.02,-0.01,0.0,0.0,2,404829.0,2025-06-15 05:11:26
+13451,738500,17,45385639,94,2,4740,79',0,0,Mohammed Yousef (Saudi Arabia U23) Yellow Card at 79',Mohammed Yousef Yellow Card,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,1,367660.0,2025-06-15 05:11:26
+13451,738500,18,45385640,76,2,5100,85',0,0,Hussain Al Zarie (Saudi Arabia U23) Substitution at 85',Hussain Al Zarie Substitution,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,1,390038.0,2025-06-15 05:11:26
+13451,738500,19,45385641,76,2,5100,85',0,0,Zaid Al Enezi (Saudi Arabia U23) Substitution at 85',Zaid Al Enezi Substitution,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,1,384809.0,2025-06-15 05:11:26
+13451,738500,19,45385641,76,2,5100,85',0,0,Zaid Al Enezi (Saudi Arabia U23) Substitution at 85',Zaid Al Enezi Substitution,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,2,341471.0,2025-06-15 05:11:26
+13451,738500,18,45385640,76,2,5100,85',0,0,Hussain Al Zarie (Saudi Arabia U23) Substitution at 85',Hussain Al Zarie Substitution,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,2,,2025-06-15 05:11:26
+13451,738500,20,45385642,94,2,5160,86',0,0,Turki Baaljawsh (Saudi Arabia U23) Yellow Card at 86',Turki Baaljawsh Yellow Card,20950,0.0,0.0,-0.02,-0.01,0.0,0.0,1,357536.0,2025-06-15 05:11:26
+13451,738500,21,45385785,98,2,5400,90'+4',1,0,Alexander Lyng (Denmark U20) Penalty - Scored at 94',Alexander Lyng Penalty - Scored,130879,0.0,0.0,-0.02,-0.01,0.0,0.0,1,364126.0,2025-06-15 05:11:26
+13451,738501,1,45385952,70,1,840,14',1,0,Louis Leroux (France U20) Goal at 14',Louis Leroux Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,388558.0,2025-06-14 05:26:42
+13451,738501,2,45385983,76,2,2700,45',0,0,Saïmon Bouabré (France U20) Substitution at 45',Saïmon Bouabré Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,371472.0,2025-06-14 05:26:42
+13451,738501,2,45385983,76,2,2700,45',0,0,Saïmon Bouabré (France U20) Substitution at 45',Saïmon Bouabré Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,388558.0,2025-06-14 05:26:42
+13451,738501,3,45385985,70,2,2880,48',1,0,Karol Velázquez (Mexico U20) Goal at 48',Karol Velázquez Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,364722.0,2025-06-14 05:26:42
+13451,738501,4,45385991,94,2,3660,61',0,0,Jonathan Padilla (Mexico U20) Yellow Card at 61',Jonathan Padilla Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,361264.0,2025-06-14 05:26:42
+13451,738501,8,45385995,76,2,3660,61',0,0,Abdoul Koné (France U20) Substitution at 61',Abdoul Koné Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,384380.0,2025-06-14 05:26:42
+13451,738501,6,45385993,94,2,3660,61',0,0,Jaydee Canvot (France U20) Yellow Card at 61',Jaydee Canvot Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,386252.0,2025-06-14 05:26:42
+13451,738501,5,45385992,94,2,3660,61',0,0,Rabby Nzingoula (France U20) Yellow Card at 61',Rabby Nzingoula Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,365932.0,2025-06-14 05:26:42
+13451,738501,7,45385994,94,2,3660,61',0,0,Oswaldo Virgen (Mexico U20) Yellow Card at 61',Oswaldo Virgen Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,398704.0,2025-06-14 05:26:42
+13451,738501,8,45385995,76,2,3660,61',0,0,Abdoul Koné (France U20) Substitution at 61',Abdoul Koné Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,345688.0,2025-06-14 05:26:42
+13451,738501,9,45385996,76,2,3720,62',0,0,Dehmaine Assoumani (France U20) Substitution at 62',Dehmaine Assoumani Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-06-14 05:26:42
+13451,738501,9,45385996,76,2,3720,62',0,0,Dehmaine Assoumani (France U20) Substitution at 62',Dehmaine Assoumani Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,362974.0,2025-06-14 05:26:42
+13451,738501,10,45385997,76,2,3900,65',0,0,Juan Uribe (Mexico U20) Substitution at 65',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,178850.0,2025-06-14 05:26:42
+13451,738501,12,45385999,76,2,3900,65',0,0,Aladji Bamba (France U20) Substitution at 65',Aladji Bamba Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,396630.0,2025-06-14 05:26:42
+13451,738501,11,45385998,76,2,3900,65',0,0,Tahiel Jiménez (Mexico U20) Substitution at 65',Tahiel Jiménez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,376557.0,2025-06-14 05:26:42
+13451,738501,10,45385997,76,2,3900,65',0,0,Juan Uribe (Mexico U20) Substitution at 65',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,375871.0,2025-06-14 05:26:42
+13451,738501,12,45385999,76,2,3900,65',0,0,Aladji Bamba (France U20) Substitution at 65',Aladji Bamba Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,365932.0,2025-06-14 05:26:42
+13451,738501,10,45385997,76,2,3900,65',0,0,Juan Uribe (Mexico U20) Substitution at 65',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,199796.0,2025-06-14 05:26:42
+13451,738501,10,45385997,76,2,3900,65',0,0,Juan Uribe (Mexico U20) Substitution at 65',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,200336.0,2025-06-14 05:26:42
+13451,738501,10,45385997,76,2,3900,65',0,0,Juan Uribe (Mexico U20) Substitution at 65',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,272902.0,2025-06-14 05:26:42
+13451,738501,10,45385997,76,2,3900,65',0,0,Juan Uribe (Mexico U20) Substitution at 65',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,290957.0,2025-06-14 05:26:42
+13451,738501,10,45385997,76,2,3900,65',0,0,Juan Uribe (Mexico U20) Substitution at 65',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,324556.0,2025-06-14 05:26:42
+13451,738501,10,45385997,76,2,3900,65',0,0,Juan Uribe (Mexico U20) Substitution at 65',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,341498.0,2025-06-14 05:26:42
+13451,738501,10,45385997,76,2,3900,65',0,0,Juan Uribe (Mexico U20) Substitution at 65',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,353973.0,2025-06-14 05:26:42
+13451,738501,10,45385997,76,2,3900,65',0,0,Juan Uribe (Mexico U20) Substitution at 65',Juan Uribe Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,380171.0,2025-06-14 05:26:42
+13451,738501,11,45385998,76,2,3900,65',0,0,Tahiel Jiménez (Mexico U20) Substitution at 65',Tahiel Jiménez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,398704.0,2025-06-14 05:26:42
+13451,738501,13,45386000,70,2,4020,67',1,0,Steve Ngoura (France U20) Goal at 67',Steve Ngoura Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,346520.0,2025-06-14 05:26:42
+13451,738501,14,45386001,76,2,4200,70',0,0,Amaury Morales (Mexico U20) Substitution at 70',Amaury Morales Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,365830.0,2025-06-14 05:26:42
+13451,738501,14,45386001,76,2,4200,70',0,0,Amaury Morales (Mexico U20) Substitution at 70',Amaury Morales Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,364682.0,2025-06-14 05:26:42
+13451,738501,15,45386002,76,2,4680,78',0,0,Omar Moreno (Mexico U20) Substitution at 78',Omar Moreno Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,357211.0,2025-06-14 05:26:42
+13451,738501,15,45386002,76,2,4680,78',0,0,Omar Moreno (Mexico U20) Substitution at 78',Omar Moreno Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,361264.0,2025-06-14 05:26:42
+13451,738501,16,45386003,76,2,4980,83',0,0,Killian Prouchet (France U20) Substitution at 83',Killian Prouchet Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,377595.0,2025-06-14 05:26:42
+13451,738501,16,45386003,76,2,4980,83',0,0,Killian Prouchet (France U20) Substitution at 83',Killian Prouchet Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,346520.0,2025-06-14 05:26:42
+13451,738501,17,45386004,94,2,5040,84',0,0,Lucas Michel (France U20) Yellow Card at 84',Lucas Michel Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,356651.0,2025-06-14 05:26:42
+13451,738501,18,45386005,94,2,5280,88',0,0,Cesar Garza (Mexico U20) Yellow Card at 88',Cesar Garza Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,375061.0,2025-06-14 05:26:42
+13451,738501,19,45386006,70,2,5340,89',1,0,Dehmaine Assoumani (France U20) Goal at 89',Dehmaine Assoumani Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-06-14 05:26:42
+13451,738501,20,45386007,94,2,5400,90'+3',0,0,Tahiel Jiménez (Mexico U20) Yellow Card at 93',Tahiel Jiménez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,376557.0,2025-06-14 05:26:42
+13367,739301,1,45392257,94,1,960,16',0,0,Luis Navarrete (Mexico U20) Yellow Card at 16',Luis Navarrete Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,128179.0,2025-06-16 05:09:24
+13367,739301,2,45392258,76,1,1440,24',0,0,Diego Sánchez (Mexico U20) Substitution at 24',Diego Sánchez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,199796.0,2025-06-16 05:09:24
+13367,739301,2,45392258,76,1,1440,24',0,0,Diego Sánchez (Mexico U20) Substitution at 24',Diego Sánchez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,200336.0,2025-06-16 05:09:24
+13367,739301,2,45392258,76,1,1440,24',0,0,Diego Sánchez (Mexico U20) Substitution at 24',Diego Sánchez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,272902.0,2025-06-16 05:09:24
+13367,739301,2,45392258,76,1,1440,24',0,0,Diego Sánchez (Mexico U20) Substitution at 24',Diego Sánchez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,290957.0,2025-06-16 05:09:24
+13367,739301,2,45392258,76,1,1440,24',0,0,Diego Sánchez (Mexico U20) Substitution at 24',Diego Sánchez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,324556.0,2025-06-16 05:09:24
+13367,739301,2,45392258,76,1,1440,24',0,0,Diego Sánchez (Mexico U20) Substitution at 24',Diego Sánchez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,341498.0,2025-06-16 05:09:24
+13367,739301,2,45392258,76,1,1440,24',0,0,Diego Sánchez (Mexico U20) Substitution at 24',Diego Sánchez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,353973.0,2025-06-16 05:09:24
+13367,739301,2,45392258,76,1,1440,24',0,0,Diego Sánchez (Mexico U20) Substitution at 24',Diego Sánchez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,375871.0,2025-06-16 05:09:24
+13367,739301,2,45392258,76,1,1440,24',0,0,Diego Sánchez (Mexico U20) Substitution at 24',Diego Sánchez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,380171.0,2025-06-16 05:09:24
+13367,739301,2,45392258,76,1,1440,24',0,0,Diego Sánchez (Mexico U20) Substitution at 24',Diego Sánchez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,178850.0,2025-06-16 05:09:24
+13367,739301,3,45392259,94,1,2100,35',0,0,Diego Ochoa (Mexico U20) Yellow Card at 35',Diego Ochoa Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,372152.0,2025-06-16 05:09:24
+13367,739301,5,45392261,94,1,2220,37',0,0,Villads Nielsen (Denmark U20) Yellow Card at 37',Villads Nielsen Yellow Card,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,387380.0,2025-06-16 05:09:24
+13367,739301,4,45392260,94,1,2220,37',0,0,Tahiel Jiménez (Mexico U20) Yellow Card at 37',Tahiel Jiménez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,376557.0,2025-06-16 05:09:24
+13367,739301,6,45392262,70,1,2400,40',1,0,Alexander Lyng (Denmark U20) Goal at 40',Alexander Lyng Goal,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,364126.0,2025-06-16 05:09:24
+13367,739301,7,45392263,70,1,2640,44',1,0,Diego Sánchez (Mexico U20) Goal at 44',Diego Sánchez Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,353973.0,2025-06-16 05:09:24
+13367,739301,7,45392263,70,1,2640,44',1,0,Diego Sánchez (Mexico U20) Goal at 44',Diego Sánchez Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,199796.0,2025-06-16 05:09:24
+13367,739301,7,45392263,70,1,2640,44',1,0,Diego Sánchez (Mexico U20) Goal at 44',Diego Sánchez Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,200336.0,2025-06-16 05:09:24
+13367,739301,7,45392263,70,1,2640,44',1,0,Diego Sánchez (Mexico U20) Goal at 44',Diego Sánchez Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,272902.0,2025-06-16 05:09:24
+13367,739301,7,45392263,70,1,2640,44',1,0,Diego Sánchez (Mexico U20) Goal at 44',Diego Sánchez Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,290957.0,2025-06-16 05:09:24
+13367,739301,7,45392263,70,1,2640,44',1,0,Diego Sánchez (Mexico U20) Goal at 44',Diego Sánchez Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,324556.0,2025-06-16 05:09:24
+13367,739301,7,45392263,70,1,2640,44',1,0,Diego Sánchez (Mexico U20) Goal at 44',Diego Sánchez Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,341498.0,2025-06-16 05:09:24
+13367,739301,7,45392263,70,1,2640,44',1,0,Diego Sánchez (Mexico U20) Goal at 44',Diego Sánchez Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,375871.0,2025-06-16 05:09:24
+13367,739301,7,45392263,70,1,2640,44',1,0,Diego Sánchez (Mexico U20) Goal at 44',Diego Sánchez Goal,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,380171.0,2025-06-16 05:09:24
+13367,739301,8,45392264,94,1,2700,45'+1',0,0,Lauge Sandgrav (Denmark U20) Yellow Card at 46',Lauge Sandgrav Yellow Card,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,312022.0,2025-06-16 05:09:24
+13367,739301,9,45392279,94,2,2820,47',0,0,Bernardo Parra (Mexico U20) Yellow Card at 47',Bernardo Parra Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,362417.0,2025-06-16 05:09:24
+13367,739301,10,45392280,94,2,3300,55',0,0,Diego Sánchez (Mexico U20) Yellow Card at 55',Diego Sánchez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,199796.0,2025-06-16 05:09:24
+13367,739301,10,45392280,94,2,3300,55',0,0,Diego Sánchez (Mexico U20) Yellow Card at 55',Diego Sánchez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,200336.0,2025-06-16 05:09:24
+13367,739301,10,45392280,94,2,3300,55',0,0,Diego Sánchez (Mexico U20) Yellow Card at 55',Diego Sánchez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,272902.0,2025-06-16 05:09:24
+13367,739301,10,45392280,94,2,3300,55',0,0,Diego Sánchez (Mexico U20) Yellow Card at 55',Diego Sánchez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,290957.0,2025-06-16 05:09:24
+13367,739301,10,45392280,94,2,3300,55',0,0,Diego Sánchez (Mexico U20) Yellow Card at 55',Diego Sánchez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,324556.0,2025-06-16 05:09:24
+13367,739301,10,45392280,94,2,3300,55',0,0,Diego Sánchez (Mexico U20) Yellow Card at 55',Diego Sánchez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,341498.0,2025-06-16 05:09:24
+13367,739301,10,45392280,94,2,3300,55',0,0,Diego Sánchez (Mexico U20) Yellow Card at 55',Diego Sánchez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,353973.0,2025-06-16 05:09:24
+13367,739301,10,45392280,94,2,3300,55',0,0,Diego Sánchez (Mexico U20) Yellow Card at 55',Diego Sánchez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,375871.0,2025-06-16 05:09:24
+13367,739301,10,45392280,94,2,3300,55',0,0,Diego Sánchez (Mexico U20) Yellow Card at 55',Diego Sánchez Yellow Card,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,380171.0,2025-06-16 05:09:24
+13367,739301,11,45392281,76,2,3540,59',0,0,Pontus Andy Texel (Denmark U20) Substitution at 59',Pontus Andy Texel Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,343957.0,2025-06-16 05:09:24
+13367,739301,11,45392281,76,2,3540,59',0,0,Pontus Andy Texel (Denmark U20) Substitution at 59',Pontus Andy Texel Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,347458.0,2025-06-16 05:09:24
+13367,739301,12,45392282,76,2,3720,62',0,0,Jakob Nielsen (Denmark U20) Substitution at 62',Jakob Nielsen Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,351245.0,2025-06-16 05:09:24
+13367,739301,12,45392282,76,2,3720,62',0,0,Jakob Nielsen (Denmark U20) Substitution at 62',Jakob Nielsen Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,360259.0,2025-06-16 05:09:24
+13367,739301,14,45392299,76,2,4260,71',0,0,Oswaldo Virgen (Mexico U20) Substitution at 71',Oswaldo Virgen Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,398704.0,2025-06-16 05:09:24
+13367,739301,13,45392298,76,2,4260,71',0,0,César Bustos (Mexico U20) Substitution at 71',César Bustos Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,364682.0,2025-06-16 05:09:24
+13367,739301,13,45392298,76,2,4260,71',0,0,César Bustos (Mexico U20) Substitution at 71',César Bustos Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,365830.0,2025-06-16 05:09:24
+13367,739301,14,45392299,76,2,4260,71',0,0,Oswaldo Virgen (Mexico U20) Substitution at 71',Oswaldo Virgen Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,386920.0,2025-06-16 05:09:24
+13367,739301,16,45392301,76,2,4800,80',0,0,William Clem (Denmark U20) Substitution at 80',William Clem Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,332428.0,2025-06-16 05:09:24
+13367,739301,15,45392300,76,2,4800,80',0,0,Heriberto De Jesus (Mexico U20) Substitution at 80',Heriberto De Jesus Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,329916.0,2025-06-16 05:09:24
+13367,739301,15,45392300,76,2,4800,80',0,0,Heriberto De Jesus (Mexico U20) Substitution at 80',Heriberto De Jesus Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,357211.0,2025-06-16 05:09:24
+13367,739301,16,45392301,76,2,4800,80',0,0,William Clem (Denmark U20) Substitution at 80',William Clem Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,312022.0,2025-06-16 05:09:24
+13367,739301,18,45392303,76,2,4860,81',0,0,Karol Velázquez (Mexico U20) Substitution at 81',Karol Velázquez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,1,364722.0,2025-06-16 05:09:24
+13367,739301,17,45392302,76,2,4860,81',0,0,Michael Opoku (Denmark U20) Substitution at 81',Michael Opoku Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,380656.0,2025-06-16 05:09:24
+13367,739301,18,45392303,76,2,4860,81',0,0,Karol Velázquez (Mexico U20) Substitution at 81',Karol Velázquez Substitution,5172,0.0,0.0,0.0,0.0,0.0,0.0,2,128179.0,2025-06-16 05:09:24
+13367,739301,17,45392302,76,2,4860,81',0,0,Michael Opoku (Denmark U20) Substitution at 81',Michael Opoku Substitution,130879,0.0,0.0,0.0,0.0,0.0,0.0,2,366229.0,2025-06-16 05:09:24
+13367,739301,19,45392304,97,2,4920,82',1,0,Bernardo Parra (Mexico U20) Own Goal at 82',Bernardo Parra Own Goal,130879,0.0,0.0,0.0,0.0,0.0,0.0,1,362417.0,2025-06-16 05:09:24
+13366,739302,1,45392358,70,1,60,1',1,0,Dehmaine Assoumani (France U20) Goal at 1',Dehmaine Assoumani Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-06-16 05:09:24
+13366,739302,2,45392456,98,1,2640,44',1,0,Steve Ngoura (France U20) Penalty - Scored at 44',Steve Ngoura Penalty - Scored,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,346520.0,2025-06-16 05:09:24
+13366,739302,3,45392478,76,2,2700,45',0,0,Lucas Michel (France U20) Substitution at 45',Lucas Michel Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,356651.0,2025-06-16 05:09:24
+13366,739302,5,45392481,76,2,2700,45',0,0,Rakan Al Ghamdi (Saudi Arabia U23) Substitution at 45',Rakan Al Ghamdi Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,404665.0,2025-06-16 05:09:24
+13366,739302,6,45392482,76,2,2700,45',0,0,Abdulaziz Saud Al Aliwa (Saudi Arabia U23) Substitution at 45',Abdulaziz Saud Al Aliwa Substitu,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-06-16 05:09:24
+13366,739302,7,45392484,76,2,2700,45',0,0,Mohammed Yousef (Saudi Arabia U23) Substitution at 45',Mohammed Yousef Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,367660.0,2025-06-16 05:09:24
+13366,739302,4,45392480,76,2,2700,45',0,0,Tidiam Gomis (France U20) Substitution at 45',Tidiam Gomis Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,366911.0,2025-06-16 05:09:24
+13366,739302,5,45392481,76,2,2700,45',0,0,Rakan Al Ghamdi (Saudi Arabia U23) Substitution at 45',Rakan Al Ghamdi Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,367653.0,2025-06-16 05:09:24
+13366,739302,3,45392478,76,2,2700,45',0,0,Lucas Michel (France U20) Substitution at 45',Lucas Michel Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,388558.0,2025-06-16 05:09:24
+13366,739302,6,45392482,76,2,2700,45',0,0,Abdulaziz Saud Al Aliwa (Saudi Arabia U23) Substitution at 45',Abdulaziz Saud Al Aliwa Substitu,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,384809.0,2025-06-16 05:09:24
+13366,739302,7,45392484,76,2,2700,45',0,0,Mohammed Yousef (Saudi Arabia U23) Substitution at 45',Mohammed Yousef Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,341469.0,2025-06-16 05:09:24
+13366,739302,4,45392480,76,2,2700,45',0,0,Tidiam Gomis (France U20) Substitution at 45',Tidiam Gomis Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,396630.0,2025-06-16 05:09:24
+13366,739302,8,45392499,94,2,3180,53',0,0,Tidiam Gomis (France U20) Yellow Card at 53',Tidiam Gomis Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,366911.0,2025-06-16 05:09:24
+13366,739302,9,45392504,94,2,3300,55',0,0,Abdulrahman Al Obaid (Saudi Arabia U23) Yellow Card at 55',Abdulrahman Al Obaid Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,383187.0,2025-06-16 05:09:24
+13366,739302,11,45392522,94,2,3360,56',0,0,Abdulmalik Al Oyayari (Saudi Arabia U23) Yellow Card at 56',Abdulmalik Al Oyayari Yellow Car,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,337325.0,2025-06-16 05:09:24
+13366,739302,10,45392506,94,2,3360,56',0,0,Mohammed Al Dawsari (Saudi Arabia U23) Yellow Card at 56',Mohammed Al Dawsari Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341465.0,2025-06-16 05:09:24
+13366,739302,12,45392513,98,2,3420,57',1,0,Steve Ngoura (France U20) Penalty - Scored at 57',Steve Ngoura Penalty - Scored,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,346520.0,2025-06-16 05:09:24
+13366,739302,13,45392519,76,2,3540,59',0,0,Yoni Gomis (France U20) Substitution at 59',Yoni Gomis Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,345688.0,2025-06-16 05:09:24
+13366,739302,14,45392523,76,2,3540,59',0,0,Rabby Nzingoula (France U20) Substitution at 59',Rabby Nzingoula Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,365932.0,2025-06-16 05:09:24
+13366,739302,13,45392519,76,2,3540,59',0,0,Yoni Gomis (France U20) Substitution at 59',Yoni Gomis Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-06-16 05:09:24
+13366,739302,14,45392523,76,2,3540,59',0,0,Rabby Nzingoula (France U20) Substitution at 59',Rabby Nzingoula Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,371472.0,2025-06-16 05:09:24
+13366,739302,15,45392545,94,2,3900,65',0,0,Elyaz Zidane (France U20) Yellow Card at 65',Elyaz Zidane Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,387505.0,2025-06-16 05:09:24
+13366,739302,16,45392546,76,2,3960,66',0,0,Simon Kalambayi (France U20) Substitution at 66',Simon Kalambayi Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,387509.0,2025-06-16 05:09:24
+13366,739302,16,45392546,76,2,3960,66',0,0,Simon Kalambayi (France U20) Substitution at 66',Simon Kalambayi Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,346520.0,2025-06-16 05:09:24
+13366,739302,17,45392557,76,2,4140,69',0,0,Majed Abdullah (Saudi Arabia U23) Substitution at 69',Majed Abdullah Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,388400.0,2025-06-16 05:09:24
+13366,739302,17,45392557,76,2,4140,69',0,0,Majed Abdullah (Saudi Arabia U23) Substitution at 69',Majed Abdullah Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,362969.0,2025-06-16 05:09:24
+13366,739302,18,45392583,76,2,4620,77',0,0,Badr Al Omair (Saudi Arabia U23) Substitution at 77',Badr Al Omair Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,392499.0,2025-06-16 05:09:24
+13366,739302,18,45392583,76,2,4620,77',0,0,Badr Al Omair (Saudi Arabia U23) Substitution at 77',Badr Al Omair Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,337325.0,2025-06-16 05:09:24
+13366,739302,19,45392625,70,2,5400,90'+3',1,0,Mohammed Yousef (Saudi Arabia U23) Goal at 93',Mohammed Yousef Goal,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,367660.0,2025-06-16 05:09:24

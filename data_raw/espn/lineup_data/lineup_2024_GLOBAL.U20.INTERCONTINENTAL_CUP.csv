@@ -1,0 +1,46 @@
+seasonType,eventId,teamId,homeAway,winner,formation,active,starter,jersey,athleteId,athleteDisplayName,position,formationPlace,subbedIn,subbedInForAthleteId,subbedInForAthleteJersey,subInAthleteId,subInClockValue,subInDisplayClock,subbedOut,subbedOutForAthleteId,subbedOutForAthleteJersey,subOutAthleteId,subOutClockValue,subOutDisplayClock,updateTime
+12836,716631,18467,home,1,4-2-3-1,1,1,1,343843,Dyogo,Goalkeeper,1,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,1,2,357115,Daniel Sales,Right Back,2,0,0,-1,,,,1,371495,14,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,1,6,338951,José Welinton,Left Back,3,0,0,-1,,,,1,343844,16,343844.0,3660.0,61',2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,1,5,359450,Rayan,Left Midfielder,4,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,1,3,340588,Iago Teodoro Da Silva Nogueira,Center Right Defender,5,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,1,4,376479,João Cunha,Center Left Defender,6,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,1,10,334379,Matheus Gonçalves,Attacking Midfielder Right,7,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,1,17,387686,João Alves,Right Midfielder,8,0,0,-1,,,,1,358161,8,358161.0,3660.0,61',2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,1,9,358167,Wallace Yan De Souza Barreto,Forward,9,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,1,7,379497,Guilherme Henrique Bernardineli Gomes,Attacking Midfielder,10,0,0,-1,,,,1,382846,21,382846.0,3900.0,65',2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,1,11,382847,Shola Ogundana,Attacking Midfielder Left,11,0,0,-1,,,,1,388806,18,388806.0,5160.0,86',2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,0,8,358161,Caio Vinicius,Substitute,0,1,387686,17,387686.0,3660.0,61',0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,0,20,358241,Lucas Furtado Dos Santos,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,0,22,357201,Caio Albado Barone,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,0,14,371495,Da Mata,Substitute,0,1,357115,2,357115.0,5160.0,86',0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,0,16,343844,Jean Carlos,Substitute,0,1,338951,6,338951.0,3660.0,61',0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,0,24,379250,Lucyan,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,0,15,379318,João Victor Schlickmann Carbone,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,0,21,382846,Felipe Teresa,Substitute,0,1,379497,7,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,0,23,387687,Victor Silva,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,0,18,388806,Adriel,Substitute,0,1,382847,11,382847.0,5160.0,86',0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,18467,home,1,4-2-3-1,1,0,13,389773,Gusttavo,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,1,1,351288,Nikolaos Botis,Goalkeeper,1,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,1,6,387675,Argyrios Liatsikouras,Right Midfielder,2,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,1,3,387674,Nektarios Alafakis,Left Midfielder,3,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,1,21,384241,Vasilios Prekates,Center Left Defender,4,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,1,4,365714,Isidoros Koutsidis,Center Defender,5,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,1,24,387679,Antonis Dama,Center Right Defender,6,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,1,23,387654,Theofanis Bakoulas,Center Right Midfielder,7,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,1,8,387657,Christos Mouzakitis,Center Left Midfielder,8,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,1,9,387655,Charalambos Kostoulas,Forward,9,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,1,10,387656,Antonis Papakanellos,Center Right Forward,10,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,1,11,387677,Stavros Pnevmonidis,Center Left Forward,11,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,0,5,390013,Vasilios Karkatsalis,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,0,7,389776,Konstantin Plish,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,0,14,389775,Alexandros Tzamalis,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,0,2,389774,Georgios Koutsopoulos,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,0,12,387684,Paschalis Toufakis,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,0,25,387683,Ilias Panagakos,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,0,18,387681,Christos Ligdas,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,0,17,387678,Paraskevas Plionis,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,0,20,356104,Nikolaos Lolis,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,0,26,387673,Giannis Rolakis,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,0,28,387671,Georgios Kouraklis,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34
+12836,716631,22331,away,0,3-4-3,1,0,15,387670,Alexandros Exarchos,Substitute,0,0,0,-1,,,,0,0,-1,,,,2024-10-14 06:59:34

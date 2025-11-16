@@ -1,0 +1,999 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13623,752939,1,45836075,70,1,660,11',1,0,Chancelle Effa (Le Havre AC) Goal at 11',Chancelle Effa Goal,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,350573,2025-09-07 05:23:21
+13623,752939,2,45836092,70,1,780,13',1,0,Inès Konan (Strasbourg) Goal at 13',Inès Konan Goal,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,349845,2025-09-07 05:23:21
+13623,752939,3,45836104,94,1,840,14',0,0,Laëtitia Philippe (Le Havre AC) Yellow Card at 14',Laëtitia Philippe Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,158818,2025-09-07 05:23:21
+13623,752939,4,45836130,174,1,960,16',0,0,Laurine Hannequin (Strasbourg) Penalty - Saved at 16',Laurine Hannequin Penalty - Save,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,387577,2025-09-07 05:23:21
+13623,752939,5,45836165,70,1,1200,20',1,0,Mama Diop (Strasbourg) Goal at 20',Mama Diop Goal,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,406619,2025-09-07 05:23:21
+13623,752939,6,45836246,94,1,1440,24',0,0,Ikram Adjabi (Le Havre AC) Yellow Card at 24',Ikram Adjabi Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,392343,2025-09-07 05:23:21
+13623,752939,8,45836510,94,1,2700,45'+2',0,0,Lou Tsé (Le Havre AC) Yellow Card at 47',Lou Tsé Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,365578,2025-09-07 05:23:21
+13623,752939,7,45836502,70,1,2700,45',1,0,Zoe Stievenart (Le Havre AC) Goal at 45',Zoe Stievenart Goal,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,347177,2025-09-07 05:23:21
+13623,752939,9,45836644,76,2,3600,60',0,0,Mélinda Mendy (Le Havre AC) Substitution at 60',Mélinda Mendy Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,344400,2025-09-07 05:23:21
+13623,752939,10,45836645,76,2,3600,60',0,0,Mégane Hoeltzel (Strasbourg) Substitution at 60',Mégane Hoeltzel Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,387576,2025-09-07 05:23:21
+13623,752939,10,45836645,76,2,3600,60',0,0,Mégane Hoeltzel (Strasbourg) Substitution at 60',Mégane Hoeltzel Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,330663,2025-09-07 05:23:21
+13623,752939,9,45836644,76,2,3600,60',0,0,Mélinda Mendy (Le Havre AC) Substitution at 60',Mélinda Mendy Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,392343,2025-09-07 05:23:21
+13623,752939,11,45836699,76,2,4500,75',0,0,Ananée Yeboah (Strasbourg) Substitution at 75',Ananée Yeboah Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,358169,2025-09-07 05:23:21
+13623,752939,11,45836699,76,2,4500,75',0,0,Ananée Yeboah (Strasbourg) Substitution at 75',Ananée Yeboah Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,349845,2025-09-07 05:23:21
+13623,752939,12,45836707,76,2,4740,79',0,0,Jade Nassi (Le Havre AC) Substitution at 79',Jade Nassi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,369833,2025-09-07 05:23:21
+13623,752939,12,45836707,76,2,4740,79',0,0,Jade Nassi (Le Havre AC) Substitution at 79',Jade Nassi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,349920,2025-09-07 05:23:21
+13623,752939,13,45836738,76,2,5100,85',0,0,Marième Babou (Strasbourg) Substitution at 85',Marième Babou Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,395796,2025-09-07 05:23:21
+13623,752939,13,45836738,76,2,5100,85',0,0,Marième Babou (Strasbourg) Substitution at 85',Marième Babou Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,387577,2025-09-07 05:23:21
+13623,752939,15,45836743,76,2,5160,86',0,0,Sarah Kassi (Le Havre AC) Substitution at 86',Sarah Kassi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,347208,2025-09-07 05:23:21
+13623,752939,14,45836742,76,2,5160,86',0,0,Thaïs Gallais (Le Havre AC) Substitution at 86',Thaïs Gallais Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,395791,2025-09-07 05:23:21
+13623,752939,15,45836743,76,2,5160,86',0,0,Sarah Kassi (Le Havre AC) Substitution at 86',Sarah Kassi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,350573,2025-09-07 05:23:21
+13623,752939,14,45836742,76,2,5160,86',0,0,Thaïs Gallais (Le Havre AC) Substitution at 86',Thaïs Gallais Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,347177,2025-09-07 05:23:21
+13623,752940,1,45836110,94,1,780,13',0,0,Kethna Louis (Montpellier) Yellow Card at 13',Kethna Louis Yellow Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,302284,2025-09-07 05:23:21
+13623,752940,2,45836111,98,1,840,14',1,0,Aïssata Traoré (FC Fleury 91) Penalty - Scored at 14',Aïssata Traoré Penalty - Scored,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,347112,2025-09-07 05:23:21
+13623,752940,3,45836226,94,1,1380,23',0,0,Agathe Felden (Montpellier) Yellow Card at 23',Agathe Felden Yellow Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,344391,2025-09-07 05:23:21
+13623,752940,4,45836304,94,1,1800,30',0,0,Cyrielle Blanc (Montpellier) Yellow Card at 30',Cyrielle Blanc Yellow Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,347126,2025-09-07 05:23:21
+13623,752940,5,45836636,70,2,3480,58',1,0,Soufiya Ngueleu (Montpellier) Goal at 58',Soufiya Ngueleu Goal,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,347255,2025-09-07 05:23:21
+13623,752940,6,45836669,76,2,4080,68',0,0,Ewelina Kamczyk (FC Fleury 91) Substitution at 68',Ewelina Kamczyk Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,282878,2025-09-07 05:23:21
+13623,752940,6,45836669,76,2,4080,68',0,0,Ewelina Kamczyk (FC Fleury 91) Substitution at 68',Ewelina Kamczyk Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,347149,2025-09-07 05:23:21
+13623,752940,7,45836695,76,2,4500,75',0,0,Elisa Rambaud (Montpellier) Substitution at 75',Elisa Rambaud Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,359691,2025-09-07 05:23:21
+13623,752940,7,45836695,76,2,4500,75',0,0,Elisa Rambaud (Montpellier) Substitution at 75',Elisa Rambaud Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,344399,2025-09-07 05:23:21
+13623,752940,8,45836719,76,2,4920,82',0,0,Celia Chabod (Montpellier) Substitution at 82',Celia Chabod Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,362464,2025-09-07 05:23:21
+13623,752940,8,45836719,76,2,4920,82',0,0,Celia Chabod (Montpellier) Substitution at 82',Celia Chabod Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347116,2025-09-07 05:23:21
+13623,752940,10,45836734,76,2,5100,85',0,0,Aurelie Claire (FC Fleury 91) Substitution at 85',Aurelie Claire Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,410428,2025-09-07 05:23:21
+13623,752940,9,45836733,76,2,5100,85',0,0,Cindy Caputo (FC Fleury 91) Substitution at 85',Cindy Caputo Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,365570,2025-09-07 05:23:21
+13623,752940,9,45836733,76,2,5100,85',0,0,Cindy Caputo (FC Fleury 91) Substitution at 85',Cindy Caputo Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,347239,2025-09-07 05:23:21
+13623,752940,10,45836734,76,2,5100,85',0,0,Aurelie Claire (FC Fleury 91) Substitution at 85',Aurelie Claire Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,281530,2025-09-07 05:23:21
+13623,752940,11,45836752,94,2,5340,89',0,0,Monique Ngock (FC Fleury 91) Yellow Card at 89',Monique Ngock Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,343760,2025-09-07 05:23:21
+13623,752940,12,45836753,70,2,5400,90'+1',1,0,Aïssata Traoré (FC Fleury 91) Goal at 91',Aïssata Traoré Goal,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,347112,2025-09-07 05:23:21
+13623,752940,13,45836754,94,2,5400,90'+1',0,0,Aïssata Traoré (FC Fleury 91) Yellow Card at 91',Aïssata Traoré Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,347112,2025-09-07 05:23:21
+13623,752941,1,45841697,70,1,1920,32',1,0,Ada Hegerberg (OL Lyonnes) Goal at 32',Ada Hegerberg Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,188067,2025-09-08 05:11:30
+13623,752941,2,45841727,94,1,2160,36',0,0,Mathilde Bourdieu (Marseille) Yellow Card at 36',Mathilde Bourdieu Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,347097,2025-09-08 05:11:30
+13623,752941,3,45841925,70,2,3480,58',1,0,Liana Joseph (OL Lyonnes) Goal at 58',Liana Joseph Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,370012,2025-09-08 05:11:30
+13623,752941,6,45841938,76,2,3540,59',0,0,Kadidiatou Diani (OL Lyonnes) Substitution at 59',Kadidiatou Diani Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,219121,2025-09-08 05:11:30
+13623,752941,5,45841937,76,2,3540,59',0,0,Maïssa Fathallah (OL Lyonnes) Substitution at 59',Maïssa Fathallah Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,405077,2025-09-08 05:11:30
+13623,752941,4,45841936,76,2,3540,59',0,0,Jule Brand (OL Lyonnes) Substitution at 59',Jule Brand Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,317719,2025-09-08 05:11:30
+13623,752941,5,45841937,76,2,3540,59',0,0,Maïssa Fathallah (OL Lyonnes) Substitution at 59',Maïssa Fathallah Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,119954,2025-09-08 05:11:30
+13623,752941,6,45841938,76,2,3540,59',0,0,Kadidiatou Diani (OL Lyonnes) Substitution at 59',Kadidiatou Diani Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,370012,2025-09-08 05:11:30
+13623,752941,4,45841936,76,2,3540,59',0,0,Jule Brand (OL Lyonnes) Substitution at 59',Jule Brand Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,311191,2025-09-08 05:11:30
+13623,752941,7,45841952,70,2,3780,63',1,0,Lily Yohannes (OL Lyonnes) Goal at 63',Lily Yohannes Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,369801,2025-09-08 05:11:30
+13623,752941,8,45841966,76,2,3960,66',0,0,Inès Kbida (Marseille) Substitution at 66',Inès Kbida Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,407443,2025-09-08 05:11:30
+13623,752941,8,45841966,76,2,3960,66',0,0,Inès Kbida (Marseille) Substitution at 66',Inès Kbida Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,281645,2025-09-08 05:11:30
+13623,752941,10,45841978,76,2,4260,71',0,0,Ines Benyahia (OL Lyonnes) Substitution at 71',Ines Benyahia Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,311231,2025-09-08 05:11:30
+13623,752941,9,45841977,94,2,4260,71',0,0,Ada Hegerberg (OL Lyonnes) Yellow Card at 71',Ada Hegerberg Yellow Card,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,188067,2025-09-08 05:11:30
+13623,752941,10,45841978,76,2,4260,71',0,0,Ines Benyahia (OL Lyonnes) Substitution at 71',Ines Benyahia Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,283094,2025-09-08 05:11:30
+13623,752941,12,45841988,76,2,4500,75',0,0,Maudeline Moryl (Marseille) Substitution at 75',Maudeline Moryl Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,340417,2025-09-08 05:11:30
+13623,752941,11,45841987,76,2,4500,75',0,0,Roxane Couasnon (Marseille) Substitution at 75',Roxane Couasnon Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,407458,2025-09-08 05:11:30
+13623,752941,13,45841989,76,2,4500,75',0,0,Naomie Bamenga (Marseille) Substitution at 75',Naomie Bamenga Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,365629,2025-09-08 05:11:30
+13623,752941,13,45841989,76,2,4500,75',0,0,Naomie Bamenga (Marseille) Substitution at 75',Naomie Bamenga Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,407457,2025-09-08 05:11:30
+13623,752941,12,45841988,76,2,4500,75',0,0,Maudeline Moryl (Marseille) Substitution at 75',Maudeline Moryl Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,340414,2025-09-08 05:11:30
+13623,752941,11,45841987,76,2,4500,75',0,0,Roxane Couasnon (Marseille) Substitution at 75',Roxane Couasnon Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,219880,2025-09-08 05:11:30
+13623,752941,14,45842006,94,2,4680,78',0,0,Ines Benyahia (OL Lyonnes) Yellow Card at 78',Ines Benyahia Yellow Card,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,311231,2025-09-08 05:11:30
+13623,752941,15,45842007,76,2,4680,78',0,0,Sofie Svava (OL Lyonnes) Substitution at 78',Sofie Svava Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,285186,2025-09-08 05:11:30
+13623,752941,15,45842007,76,2,4680,78',0,0,Sofie Svava (OL Lyonnes) Substitution at 78',Sofie Svava Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,306036,2025-09-08 05:11:30
+13623,752941,16,45842035,76,2,4980,83',0,0,Sémy Magalhães (Marseille) Substitution at 83',Sémy Magalhães Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,410494,2025-09-08 05:11:30
+13623,752941,16,45842035,76,2,4980,83',0,0,Sémy Magalhães (Marseille) Substitution at 83',Sémy Magalhães Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,347117,2025-09-08 05:11:30
+13623,752941,17,45842091,70,2,5400,90'+1',1,0,Mathilde Bourdieu (Marseille) Goal at 91',Mathilde Bourdieu Goal,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,347097,2025-09-08 05:11:30
+13623,752942,1,45836240,98,1,1500,25',1,0,Lorena Azzaro (Paris FC) Penalty - Scored at 25',Lorena Azzaro Penalty - Scored,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365579,2025-09-07 05:23:21
+13623,752942,2,45836407,76,1,2280,38',0,0,Teninsoun Sissoko (Paris FC) Substitution at 38',Teninsoun Sissoko Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365593,2025-09-07 05:23:21
+13623,752942,2,45836407,76,1,2280,38',0,0,Teninsoun Sissoko (Paris FC) Substitution at 38',Teninsoun Sissoko Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347185,2025-09-07 05:23:21
+13623,752942,3,45836648,70,2,3120,52',1,0,Lorena Azzaro (Paris FC) Goal at 52',Lorena Azzaro Goal,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365579,2025-09-07 05:23:21
+13623,752942,4,45836666,76,2,3480,58',0,0,Léa Declercq (Dijon) Substitution at 58',Léa Declercq Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,347080,2025-09-07 05:23:21
+13623,752942,4,45836666,76,2,3480,58',0,0,Léa Declercq (Dijon) Substitution at 58',Léa Declercq Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,362465,2025-09-07 05:23:21
+13623,752942,6,45836682,76,2,3720,62',0,0,Océane Picard (Paris FC) Substitution at 62',Océane Picard Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365583,2025-09-07 05:23:21
+13623,752942,5,45836681,76,2,3720,62',0,0,Sheika Scott (Paris FC) Substitution at 62',Sheika Scott Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,354440,2025-09-07 05:23:21
+13623,752942,5,45836681,76,2,3720,62',0,0,Sheika Scott (Paris FC) Substitution at 62',Sheika Scott Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,270055,2025-09-07 05:23:21
+13623,752942,6,45836682,76,2,3720,62',0,0,Océane Picard (Paris FC) Substitution at 62',Océane Picard Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365611,2025-09-07 05:23:21
+13623,752942,7,45836718,76,2,4380,73',0,0,Kenza Dufour (Paris FC) Substitution at 73',Kenza Dufour Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,384104,2025-09-07 05:23:21
+13623,752942,9,45836721,76,2,4380,73',0,0,Airine Fontaine (Dijon) Substitution at 73',Airine Fontaine Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,347213,2025-09-07 05:23:21
+13623,752942,8,45836720,76,2,4380,73',0,0,Klaudia Jedlinska (Paris FC) Substitution at 73',Klaudia Jedlinska Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,317915,2025-09-07 05:23:21
+13623,752942,7,45836718,76,2,4380,73',0,0,Kenza Dufour (Paris FC) Substitution at 73',Kenza Dufour Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347142,2025-09-07 05:23:21
+13623,752942,8,45836720,76,2,4380,73',0,0,Klaudia Jedlinska (Paris FC) Substitution at 73',Klaudia Jedlinska Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347111,2025-09-07 05:23:21
+13623,752942,9,45836721,76,2,4380,73',0,0,Airine Fontaine (Dijon) Substitution at 73',Airine Fontaine Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,246852,2025-09-07 05:23:21
+13623,752942,10,45836756,76,2,5100,85',0,0,Gabriela Grzybowska (Dijon) Substitution at 85',Gabriela Grzybowska Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,320163,2025-09-07 05:23:21
+13623,752942,10,45836756,76,2,5100,85',0,0,Gabriela Grzybowska (Dijon) Substitution at 85',Gabriela Grzybowska Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,380829,2025-09-07 05:23:21
+13623,752942,11,45836757,76,2,5160,86',0,0,Juliane Denizot (Dijon) Substitution at 86',Juliane Denizot Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,401020,2025-09-07 05:23:21
+13623,752942,11,45836757,76,2,5160,86',0,0,Juliane Denizot (Dijon) Substitution at 86',Juliane Denizot Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,321342,2025-09-07 05:23:21
+13623,752943,1,45836042,70,1,240,4',1,0,Rachel Corboz (Saint-Étienne) Goal at 4',Rachel Corboz Goal,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,248728,2025-09-07 05:23:21
+13623,752943,2,45836298,70,1,1740,29',1,0,Caitlin Cosme (Nantes) Goal at 29',Caitlin Cosme Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,263901,2025-09-07 05:23:21
+13623,752943,3,45836400,70,1,2220,37',1,0,Lea Khelifi (Nantes) Goal at 37',Lea Khelifi Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,293408,2025-09-07 05:23:21
+13623,752943,5,45836614,76,2,2700,45',0,0,Imane Saoud (Nantes) Substitution at 45',Imane Saoud Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,350964,2025-09-07 05:23:21
+13623,752943,4,45836595,76,2,2700,45',0,0,Juliette Mossard (Nantes) Substitution at 45',Juliette Mossard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,344388,2025-09-07 05:23:21
+13623,752943,4,45836595,76,2,2700,45',0,0,Juliette Mossard (Nantes) Substitution at 45',Juliette Mossard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,353007,2025-09-07 05:23:21
+13623,752943,5,45836614,76,2,2700,45',0,0,Imane Saoud (Nantes) Substitution at 45',Imane Saoud Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,366681,2025-09-07 05:23:21
+13623,752943,7,45836664,76,2,3780,63',0,0,Laura Munk Hermann (Saint-Étienne) Substitution at 63',Laura Munk Hermann Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,315075,2025-09-07 05:23:21
+13623,752943,6,45836655,76,2,3780,63',0,0,Nadjma Ali Nadjma (Saint-Étienne) Substitution at 63',Nadjma Ali Nadjma Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,268334,2025-09-07 05:23:21
+13623,752943,7,45836664,76,2,3780,63',0,0,Laura Munk Hermann (Saint-Étienne) Substitution at 63',Laura Munk Hermann Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,248728,2025-09-07 05:23:21
+13623,752943,6,45836655,76,2,3780,63',0,0,Nadjma Ali Nadjma (Saint-Étienne) Substitution at 63',Nadjma Ali Nadjma Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,359278,2025-09-07 05:23:21
+13623,752943,8,45836665,76,2,3960,66',0,0,Camille Robillard (Nantes) Substitution at 66',Camille Robillard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,387600,2025-09-07 05:23:21
+13623,752943,8,45836665,76,2,3960,66',0,0,Camille Robillard (Nantes) Substitution at 66',Camille Robillard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,408149,2025-09-07 05:23:21
+13623,752943,9,45836670,94,2,4080,68',0,0,Caitlin Cosme (Nantes) Yellow Card at 68',Caitlin Cosme Yellow Card,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,263901,2025-09-07 05:23:21
+13623,752943,10,45836671,93,2,4080,68',0,0,Nadjma Ali Nadjma (Saint-Étienne) Red Card at 68',Nadjma Ali Nadjma Red Card,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,268334,2025-09-07 05:23:21
+13623,752943,13,45836694,76,2,4380,73',0,0,Roseline Éloissaint (Nantes) Substitution at 73',Roseline Éloissaint Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,302281,2025-09-07 05:23:21
+13623,752943,12,45836693,76,2,4380,73',0,0,Nikolina Istocki (Saint-Étienne) Substitution at 73',Nikolina Istocki Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,347894,2025-09-07 05:23:21
+13623,752943,11,45836687,76,2,4380,73',0,0,Amandine Pierre-Louis (Saint-Étienne) Substitution at 73',Amandine Pierre-Louis Substituti,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,290257,2025-09-07 05:23:21
+13623,752943,13,45836694,76,2,4380,73',0,0,Roseline Éloissaint (Nantes) Substitution at 73',Roseline Éloissaint Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,298899,2025-09-07 05:23:21
+13623,752943,12,45836693,76,2,4380,73',0,0,Nikolina Istocki (Saint-Étienne) Substitution at 73',Nikolina Istocki Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,367869,2025-09-07 05:23:21
+13623,752943,11,45836687,76,2,4380,73',0,0,Amandine Pierre-Louis (Saint-Étienne) Substitution at 73',Amandine Pierre-Louis Substituti,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,365585,2025-09-07 05:23:21
+13623,752943,14,45836740,76,2,4980,83',0,0,Déborah Bien-Aimé (Saint-Étienne) Substitution at 83',Déborah Bien-Aimé Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,364500,2025-09-07 05:23:21
+13623,752943,14,45836740,76,2,4980,83',0,0,Déborah Bien-Aimé (Saint-Étienne) Substitution at 83',Déborah Bien-Aimé Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,365599,2025-09-07 05:23:21
+13623,752943,15,45836741,76,2,5100,85',0,0,Lalia Dali-Storti (Nantes) Substitution at 85',Lalia Dali-Storti Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,365602,2025-09-07 05:23:21
+13623,752943,15,45836741,76,2,5100,85',0,0,Lalia Dali-Storti (Nantes) Substitution at 85',Lalia Dali-Storti Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,263901,2025-09-07 05:23:21
+13623,752943,16,45836755,94,2,5400,90'+2',0,0,Camille Robillard (Nantes) Yellow Card at 92',Camille Robillard Yellow Card,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,387600,2025-09-07 05:23:21
+13623,752944,1,45837741,94,1,840,14',0,0,Aude Gbedjissi (Lens) Yellow Card at 14',Aude Gbedjissi Yellow Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,407464,2025-09-07 05:23:21
+13623,752944,2,45837809,70,1,1500,25',1,0,Merveille Kanjinga (Paris Saint-Germain) Goal at 25',Merveille Kanjinga Goal,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,399707,2025-09-07 05:23:21
+13623,752944,3,45838110,76,2,2700,45',0,0,Rasheedat Ajibade (Paris Saint-Germain) Substitution at 45',Rasheedat Ajibade Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,284186,2025-09-07 05:23:21
+13623,752944,3,45838110,76,2,2700,45',0,0,Rasheedat Ajibade (Paris Saint-Germain) Substitution at 45',Rasheedat Ajibade Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,227388,2025-09-07 05:23:21
+13623,752944,4,45838350,76,2,3840,64',0,0,Manon Revelli (Lens) Substitution at 64',Manon Revelli Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,311232,2025-09-07 05:23:21
+13623,752944,4,45838350,76,2,3840,64',0,0,Manon Revelli (Lens) Substitution at 64',Manon Revelli Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,347182,2025-09-07 05:23:21
+13623,752944,5,45838390,94,2,4080,68',0,0,Clara Bertrand (Lens) Yellow Card at 68',Clara Bertrand Yellow Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,410369,2025-09-07 05:23:21
+13623,752944,7,45838454,76,2,4560,76',0,0,Sherly Jeudy (Lens) Substitution at 76',Sherly Jeudy Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,227358,2025-09-07 05:23:21
+13623,752944,6,45838453,76,2,4560,76',0,0,Kaîna El Koumir (Lens) Substitution at 76',Kaîna El Koumir Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,407461,2025-09-07 05:23:21
+13623,752944,7,45838454,76,2,4560,76',0,0,Sherly Jeudy (Lens) Substitution at 76',Sherly Jeudy Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,370974,2025-09-07 05:23:21
+13623,752944,6,45838453,76,2,4560,76',0,0,Kaîna El Koumir (Lens) Substitution at 76',Kaîna El Koumir Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,295682,2025-09-07 05:23:21
+13623,752944,8,45838455,76,2,4620,77',0,0,Léa-Laëtitia Morissaint (Paris Saint-Germain) Substitution at 77',Léa-Laëtitia Morissaint Substitu,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,405044,2025-09-07 05:23:21
+13623,752944,8,45838455,76,2,4620,77',0,0,Léa-Laëtitia Morissaint (Paris Saint-Germain) Substitution at 77',Léa-Laëtitia Morissaint Substitu,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,368733,2025-09-07 05:23:21
+13623,752944,9,45838521,76,2,4980,83',0,0,Tess David (Lens) Substitution at 83',Tess David Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,407445,2025-09-07 05:23:21
+13623,752944,9,45838521,76,2,4980,83',0,0,Tess David (Lens) Substitution at 83',Tess David Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,410369,2025-09-07 05:23:21
+13623,752944,10,45838522,70,2,5040,84',1,0,Sherly Jeudy (Lens) Goal at 84',Sherly Jeudy Goal,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,227358,2025-09-07 05:23:21
+13623,752944,11,45838545,94,2,5160,86',0,0,Jennifer Echegini (Paris Saint-Germain) Yellow Card at 86',Jennifer Echegini Yellow Card,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,292902,2025-09-07 05:23:21
+13623,752944,12,45838554,76,2,5280,88',0,0,Anaïs Ebayilin (Paris Saint-Germain) Substitution at 88',Anaïs Ebayilin Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,380029,2025-09-07 05:23:21
+13623,752944,12,45838554,76,2,5280,88',0,0,Anaïs Ebayilin (Paris Saint-Germain) Substitution at 88',Anaïs Ebayilin Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,292902,2025-09-07 05:23:21
+13623,752944,13,45838596,94,2,5400,90'+1',0,0,Eva Gaetino (Paris Saint-Germain) Yellow Card at 91',Eva Gaetino Yellow Card,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,307790,2025-09-07 05:23:21
+13623,752945,1,45926385,98,1,960,16',1,0,Sonia Ouchéne (Montpellier) Penalty - Scored at 16',Sonia Ouchéne Penalty - Scored,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,347116,2025-09-21 05:17:53
+13623,752945,2,45928459,94,2,3000,50',0,0,Cyrielle Blanc (Montpellier) Yellow Card at 50',Cyrielle Blanc Yellow Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,347126,2025-09-21 05:17:53
+13623,752945,3,45928642,76,2,3780,63',0,0,Margaux Vairon (Dijon) Substitution at 63',Margaux Vairon Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,349917,2025-09-21 05:17:53
+13623,752945,4,45928668,76,2,3780,63',0,0,Gabriela Grzybowska (Dijon) Substitution at 63',Gabriela Grzybowska Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,320163,2025-09-21 05:17:53
+13623,752945,3,45928642,76,2,3780,63',0,0,Margaux Vairon (Dijon) Substitution at 63',Margaux Vairon Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,343757,2025-09-21 05:17:53
+13623,752945,4,45928668,76,2,3780,63',0,0,Gabriela Grzybowska (Dijon) Substitution at 63',Gabriela Grzybowska Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,380829,2025-09-21 05:17:53
+13623,752945,5,45928669,76,2,3840,64',0,0,Airine Fontaine (Dijon) Substitution at 64',Airine Fontaine Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,347213,2025-09-21 05:17:53
+13623,752945,5,45928669,76,2,3840,64',0,0,Airine Fontaine (Dijon) Substitution at 64',Airine Fontaine Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,246852,2025-09-21 05:17:53
+13623,752945,6,45928713,70,2,4020,67',1,0,Nadia Krezyman (Dijon) Goal at 67',Nadia Krezyman Goal,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,380828,2025-09-21 05:17:53
+13623,752945,7,45928950,76,2,4740,79',0,0,Rosalie Chaine Rochette (Montpellier) Substitution at 79',Rosalie Chaine Rochette Substitu,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392524,2025-09-21 05:17:53
+13623,752945,7,45928950,76,2,4740,79',0,0,Rosalie Chaine Rochette (Montpellier) Substitution at 79',Rosalie Chaine Rochette Substitu,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,392525,2025-09-21 05:17:53
+13623,752945,8,45929029,76,2,4980,83',0,0,Ilona Koko (Montpellier) Substitution at 83',Ilona Koko Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,410433,2025-09-21 05:17:53
+13623,752945,8,45929029,76,2,4980,83',0,0,Ilona Koko (Montpellier) Substitution at 83',Ilona Koko Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347255,2025-09-21 05:17:53
+13623,752945,9,45929047,76,2,5040,84',0,0,Lina Gay (Dijon) Substitution at 84',Lina Gay Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,362465,2025-09-21 05:17:53
+13623,752945,9,45929047,76,2,5040,84',0,0,Lina Gay (Dijon) Substitution at 84',Lina Gay Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,287923,2025-09-21 05:17:53
+13623,752945,10,45929121,70,2,5280,88',1,0,Lina Gay (Dijon) Goal at 88',Lina Gay Goal,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,362465,2025-09-21 05:17:53
+13623,752945,13,45929213,76,2,5400,90'+4',0,0,M’Mahawa Diakité (Montpellier) Substitution at 94',M’Mahawa Diakité Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392526,2025-09-21 05:17:53
+13623,752945,12,45929212,76,2,5400,90'+4',0,0,Chiara Baylet (Montpellier) Substitution at 94',Chiara Baylet Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,411130,2025-09-21 05:17:53
+13623,752945,11,45929211,76,2,5400,90'+4',0,0,Agathe Felden (Montpellier) Substitution at 94',Agathe Felden Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,344391,2025-09-21 05:17:53
+13623,752945,11,45929211,76,2,5400,90'+4',0,0,Agathe Felden (Montpellier) Substitution at 94',Agathe Felden Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347126,2025-09-21 05:17:53
+13623,752945,12,45929212,76,2,5400,90'+4',0,0,Chiara Baylet (Montpellier) Substitution at 94',Chiara Baylet Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,302284,2025-09-21 05:17:53
+13623,752945,13,45929213,76,2,5400,90'+4',0,0,M’Mahawa Diakité (Montpellier) Substitution at 94',M’Mahawa Diakité Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,344399,2025-09-21 05:17:53
+13623,752946,1,45942171,94,1,2460,41',0,0,Fiona Liaigre (Paris FC) Yellow Card at 41',Fiona Liaigre Yellow Card,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,347249,2025-09-22 05:12:23
+13623,752946,2,45942201,70,1,2580,43',1,0,Kenza Dufour (Paris FC) Goal at 43',Kenza Dufour Goal,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,384104,2025-09-22 05:12:23
+13623,752946,3,45942508,76,2,2700,45',0,0,Célina Ould Hocine (Paris FC) Substitution at 45',Célina Ould Hocine Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,347123,2025-09-22 05:12:23
+13623,752946,4,45942515,76,2,2700,45',0,0,Maëlle Garbino (Paris FC) Substitution at 45',Maëlle Garbino Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,347142,2025-09-22 05:12:23
+13623,752946,3,45942508,76,2,2700,45',0,0,Célina Ould Hocine (Paris FC) Substitution at 45',Célina Ould Hocine Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347249,2025-09-22 05:12:23
+13623,752946,4,45942515,76,2,2700,45',0,0,Maëlle Garbino (Paris FC) Substitution at 45',Maëlle Garbino Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365583,2025-09-22 05:12:23
+13623,752946,5,45942579,94,2,2880,48',0,0,Aïssata Traoré (FC Fleury 91) Yellow Card at 48',Aïssata Traoré Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,347112,2025-09-22 05:12:23
+13623,752946,6,45942874,94,2,3300,55',0,0,Monique Ngock (FC Fleury 91) Yellow Card at 55',Monique Ngock Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,343760,2025-09-22 05:12:23
+13623,752946,7,45942945,76,2,3360,56',0,0,Anaële Le Moguédec (Paris FC) Substitution at 56',Anaële Le Moguédec Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365611,2025-09-22 05:12:23
+13623,752946,7,45942945,76,2,3360,56',0,0,Anaële Le Moguédec (Paris FC) Substitution at 56',Anaële Le Moguédec Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,384104,2025-09-22 05:12:23
+13623,752946,8,45942988,76,2,3600,60',0,0,Teninsoun Sissoko (Paris FC) Substitution at 60',Teninsoun Sissoko Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365593,2025-09-22 05:12:23
+13623,752946,8,45942988,76,2,3600,60',0,0,Teninsoun Sissoko (Paris FC) Substitution at 60',Teninsoun Sissoko Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,264722,2025-09-22 05:12:23
+13623,752946,9,45943040,76,2,3840,64',0,0,Hillary Diaz (FC Fleury 91) Substitution at 64',Hillary Diaz Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,349863,2025-09-22 05:12:23
+13623,752946,9,45943040,76,2,3840,64',0,0,Hillary Diaz (FC Fleury 91) Substitution at 64',Hillary Diaz Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,264721,2025-09-22 05:12:23
+13623,752946,10,45943110,70,2,3960,66',1,0,Lou Bogaert (Paris FC) Goal at 66',Lou Bogaert Goal,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,347907,2025-09-22 05:12:23
+13623,752946,11,45943174,94,2,4200,70',0,0,Kaja Korosec (Paris FC) Yellow Card at 70',Kaja Korosec Yellow Card,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,339652,2025-09-22 05:12:23
+13623,752946,12,45943348,94,2,4620,77',0,0,Hillary Diaz (FC Fleury 91) Yellow Card at 77',Hillary Diaz Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,349863,2025-09-22 05:12:23
+13623,752946,13,45943373,76,2,4680,78',0,0,Cindy Caputo (FC Fleury 91) Substitution at 78',Cindy Caputo Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,365570,2025-09-22 05:12:23
+13623,752946,13,45943373,76,2,4680,78',0,0,Cindy Caputo (FC Fleury 91) Substitution at 78',Cindy Caputo Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,343760,2025-09-22 05:12:23
+13623,752946,14,45943444,76,2,5040,84',0,0,Nora Håheim (Paris FC) Substitution at 84',Nora Håheim Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,411160,2025-09-22 05:12:23
+13623,752946,14,45943444,76,2,5040,84',0,0,Nora Håheim (Paris FC) Substitution at 84',Nora Håheim Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365579,2025-09-22 05:12:23
+13623,752946,15,45943513,76,2,5160,86',0,0,Naomi Ekwalla (FC Fleury 91) Substitution at 86',Naomi Ekwalla Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,410429,2025-09-22 05:12:23
+13623,752946,16,45943514,76,2,5160,86',0,0,Morgane Martins (FC Fleury 91) Substitution at 86',Morgane Martins Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,349918,2025-09-22 05:12:23
+13623,752946,15,45943513,76,2,5160,86',0,0,Naomi Ekwalla (FC Fleury 91) Substitution at 86',Naomi Ekwalla Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,282878,2025-09-22 05:12:23
+13623,752946,16,45943514,76,2,5160,86',0,0,Morgane Martins (FC Fleury 91) Substitution at 86',Morgane Martins Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,347149,2025-09-22 05:12:23
+13623,752947,1,45923774,94,1,1560,26',0,0,Faustine Bataillard (Saint-Étienne) Yellow Card at 26',Faustine Bataillard Yellow Card,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,365599,2025-09-21 05:17:53
+13623,752947,2,45924158,70,1,2520,42',1,0,Lindsey Heaps (OL Lyonnes) Goal at 42',Lindsey Heaps Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,228716,2025-09-21 05:17:53
+13623,752947,3,45925432,76,2,3600,60',0,0,Vicki Bècho (OL Lyonnes) Substitution at 60',Vicki Bècho Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,311191,2025-09-21 05:17:53
+13623,752947,3,45925432,76,2,3600,60',0,0,Vicki Bècho (OL Lyonnes) Substitution at 60',Vicki Bècho Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,370012,2025-09-21 05:17:53
+13623,752947,4,45925464,76,2,3660,61',0,0,Marie-Antoinette Katoto (OL Lyonnes) Substitution at 61',Marie-Antoinette Katoto Substitu,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,283094,2025-09-21 05:17:53
+13623,752947,7,45925467,76,2,3660,61',0,0,Rachel Corboz (Saint-Étienne) Substitution at 61',Rachel Corboz Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,248728,2025-09-21 05:17:53
+13623,752947,6,45925466,76,2,3660,61',0,0,Korbin Albert (OL Lyonnes) Substitution at 61',Korbin Albert Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,327417,2025-09-21 05:17:53
+13623,752947,5,45925465,76,2,3660,61',0,0,Damaris Egurrola (OL Lyonnes) Substitution at 61',Damaris Egurrola Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,288448,2025-09-21 05:17:53
+13623,752947,6,45925466,76,2,3660,61',0,0,Korbin Albert (OL Lyonnes) Substitution at 61',Korbin Albert Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,228716,2025-09-21 05:17:53
+13623,752947,5,45925465,76,2,3660,61',0,0,Damaris Egurrola (OL Lyonnes) Substitution at 61',Damaris Egurrola Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,369801,2025-09-21 05:17:53
+13623,752947,7,45925467,76,2,3660,61',0,0,Rachel Corboz (Saint-Étienne) Substitution at 61',Rachel Corboz Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,347165,2025-09-21 05:17:53
+13623,752947,4,45925464,76,2,3660,61',0,0,Marie-Antoinette Katoto (OL Lyonnes) Substitution at 61',Marie-Antoinette Katoto Substitu,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,188067,2025-09-21 05:17:53
+13623,752947,8,45925525,94,2,3840,64',0,0,Damaris Egurrola (OL Lyonnes) Yellow Card at 64',Damaris Egurrola Yellow Card,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,288448,2025-09-21 05:17:53
+13623,752947,9,45925577,76,2,4020,67',0,0,Adele Connesson (Saint-Étienne) Substitution at 67',Adele Connesson Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,347251,2025-09-21 05:17:53
+13623,752947,9,45925577,76,2,4020,67',0,0,Adele Connesson (Saint-Étienne) Substitution at 67',Adele Connesson Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,315075,2025-09-21 05:17:53
+13623,752947,10,45925851,70,2,4560,76',1,0,Marie-Antoinette Katoto (OL Lyonnes) Goal at 76',Marie-Antoinette Katoto Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,283094,2025-09-21 05:17:53
+13623,752947,11,45925888,76,2,4620,77',0,0,Nikolina Istocki (Saint-Étienne) Substitution at 77',Nikolina Istocki Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,347894,2025-09-21 05:17:53
+13623,752947,12,45925916,76,2,4620,77',0,0,Welma Fon (Saint-Étienne) Substitution at 77',Welma Fon Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,359278,2025-09-21 05:17:53
+13623,752947,11,45925888,76,2,4620,77',0,0,Nikolina Istocki (Saint-Étienne) Substitution at 77',Nikolina Istocki Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,328083,2025-09-21 05:17:53
+13623,752947,12,45925916,76,2,4620,77',0,0,Welma Fon (Saint-Étienne) Substitution at 77',Welma Fon Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,365599,2025-09-21 05:17:53
+13623,752947,13,45925936,76,2,4740,79',0,0,Ines Benyahia (OL Lyonnes) Substitution at 79',Ines Benyahia Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,311231,2025-09-21 05:17:53
+13623,752947,13,45925936,76,2,4740,79',0,0,Ines Benyahia (OL Lyonnes) Substitution at 79',Ines Benyahia Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,317719,2025-09-21 05:17:53
+13623,752947,14,45926415,94,2,5220,87',0,0,Welma Fon (Saint-Étienne) Yellow Card at 87',Welma Fon Yellow Card,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,359278,2025-09-21 05:17:53
+13623,752948,1,45931433,97,1,360,6',1,0,Maureen Cosson (Nantes) Own Goal at 6',Maureen Cosson Own Goal,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,387617,2025-09-21 05:17:53
+13623,752948,2,45931783,70,1,1200,20',1,0,Romée Leuchter (Paris Saint-Germain) Goal at 20',Romée Leuchter Goal,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,309944,2025-09-21 05:17:53
+13623,752948,3,45932230,70,1,2400,40',1,0,Merveille Kanjinga (Paris Saint-Germain) Goal at 40',Merveille Kanjinga Goal,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,399707,2025-09-21 05:17:53
+13623,752948,4,45932646,76,2,2700,45',0,0,Louise Fleury (Nantes) Substitution at 45',Louise Fleury Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,298899,2025-09-21 05:17:53
+13623,752948,5,45932685,76,2,2700,45',0,0,Nelly Da Cruz Rodrigues (Nantes) Substitution at 45',Nelly Da Cruz Rodrigues Substitu,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,330662,2025-09-21 05:17:53
+13623,752948,4,45932646,76,2,2700,45',0,0,Louise Fleury (Nantes) Substitution at 45',Louise Fleury Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,335812,2025-09-21 05:17:53
+13623,752948,5,45932685,76,2,2700,45',0,0,Nelly Da Cruz Rodrigues (Nantes) Substitution at 45',Nelly Da Cruz Rodrigues Substitu,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,408149,2025-09-21 05:17:53
+13623,752948,6,45932789,76,2,3120,52',0,0,Melissa Bethi (Nantes) Substitution at 52',Melissa Bethi Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,353007,2025-09-21 05:17:53
+13623,752948,6,45932789,76,2,3120,52',0,0,Melissa Bethi (Nantes) Substitution at 52',Melissa Bethi Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,344388,2025-09-21 05:17:53
+13623,752948,7,45932923,94,2,3480,58',0,0,Sakina Karchaoui (Paris Saint-Germain) Yellow Card at 58',Sakina Karchaoui Yellow Card,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,240297,2025-09-21 05:17:53
+13623,752948,8,45933062,76,2,3840,64',0,0,Paulina Dudek (Paris Saint-Germain) Substitution at 64',Paulina Dudek Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,282870,2025-09-21 05:17:53
+13623,752948,9,45933063,76,2,3840,64',0,0,Ornella Graziani (Paris Saint-Germain) Substitution at 64',Ornella Graziani Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,392530,2025-09-21 05:17:53
+13623,752948,8,45933062,76,2,3840,64',0,0,Paulina Dudek (Paris Saint-Germain) Substitution at 64',Paulina Dudek Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,344401,2025-09-21 05:17:53
+13623,752948,9,45933063,76,2,3840,64',0,0,Ornella Graziani (Paris Saint-Germain) Substitution at 64',Ornella Graziani Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,284186,2025-09-21 05:17:53
+13623,752948,10,45933144,76,2,3960,66',0,0,Julie Machart-Rabanne (Nantes) Substitution at 66',Julie Machart-Rabanne Substituti,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,370871,2025-09-21 05:17:53
+13623,752948,10,45933144,76,2,3960,66',0,0,Julie Machart-Rabanne (Nantes) Substitution at 66',Julie Machart-Rabanne Substituti,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,302281,2025-09-21 05:17:53
+13623,752948,11,45933304,76,2,4380,73',0,0,Anaïs Ebayilin (Paris Saint-Germain) Substitution at 73',Anaïs Ebayilin Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,380029,2025-09-21 05:17:53
+13623,752948,11,45933304,76,2,4380,73',0,0,Anaïs Ebayilin (Paris Saint-Germain) Substitution at 73',Anaïs Ebayilin Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,399707,2025-09-21 05:17:53
+13623,752948,12,45933305,76,2,4440,74',0,0,Florianne Jourde (Paris Saint-Germain) Substitution at 74',Florianne Jourde Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,368733,2025-09-21 05:17:53
+13623,752948,12,45933305,76,2,4440,74',0,0,Florianne Jourde (Paris Saint-Germain) Substitution at 74',Florianne Jourde Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,235658,2025-09-21 05:17:53
+13623,752948,13,45933451,76,2,4860,81',0,0,Lucie Calba (Nantes) Substitution at 81',Lucie Calba Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,344398,2025-09-21 05:17:53
+13623,752948,13,45933451,76,2,4860,81',0,0,Lucie Calba (Nantes) Substitution at 81',Lucie Calba Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,366681,2025-09-21 05:17:53
+13623,752948,15,45933491,76,2,4920,82',0,0,Frøya Brennskag-Dorsin (Paris Saint-Germain) Substitution at 82',Frøya Brennskag-Dorsin Substitut,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,392628,2025-09-21 05:17:53
+13623,752948,14,45933476,70,2,4920,82',1,0,Griedge Mbock Bathy (Paris Saint-Germain) Goal at 82',Griedge Mbock Bathy Goal,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,219934,2025-09-21 05:17:53
+13623,752948,15,45933491,76,2,4920,82',0,0,Frøya Brennskag-Dorsin (Paris Saint-Germain) Substitution at 82',Frøya Brennskag-Dorsin Substitut,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,240297,2025-09-21 05:17:53
+13623,752948,16,45933500,70,2,4980,83',1,0,Maureen Cosson (Nantes) Goal at 83',Maureen Cosson Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,387617,2025-09-21 05:17:53
+13623,752948,17,45933567,70,2,5220,87',1,0,Florianne Jourde (Paris Saint-Germain) Goal at 87',Florianne Jourde Goal,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,368733,2025-09-21 05:17:53
+13623,752948,19,45933795,94,2,5400,90'+7',0,0,Lea Khelifi (Nantes) Yellow Card at 97',Lea Khelifi Yellow Card,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,293408,2025-09-21 05:17:53
+13623,752948,18,45933710,70,2,5400,90'+4',1,0,Julie Machart-Rabanne (Nantes) Goal at 94',Julie Machart-Rabanne Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,370871,2025-09-21 05:17:53
+13623,752949,1,45925917,70,1,420,7',1,0,Aude Gbedjissi (Lens) Goal at 7',Aude Gbedjissi Goal,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,407464,2025-09-21 05:17:53
+13623,752949,2,45926658,70,1,1320,22',1,0,Inès Konan (Strasbourg) Goal at 22',Inès Konan Goal,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,349845,2025-09-21 05:17:53
+13623,752949,3,45926848,70,1,1500,25',1,0,Inès Konan (Strasbourg) Goal at 25',Inès Konan Goal,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,349845,2025-09-21 05:17:53
+13623,752949,4,45927502,94,1,2280,38',0,0,Romane Lejeune (Lens) Yellow Card at 38',Romane Lejeune Yellow Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,347184,2025-09-21 05:17:53
+13623,752949,5,45928374,76,2,2700,45',0,0,Manon Revelli (Lens) Substitution at 45',Manon Revelli Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,311232,2025-09-21 05:17:53
+13623,752949,5,45928374,76,2,2700,45',0,0,Manon Revelli (Lens) Substitution at 45',Manon Revelli Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,347182,2025-09-21 05:17:53
+13623,752949,7,45928536,76,2,3240,54',0,0,Louann Archier (Lens) Substitution at 54',Louann Archier Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,370974,2025-09-21 05:17:53
+13623,752949,6,45928535,76,2,3240,54',0,0,Sofia Guellati (Lens) Substitution at 54',Sofia Guellati Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,347245,2025-09-21 05:17:53
+13623,752949,6,45928535,76,2,3240,54',0,0,Sofia Guellati (Lens) Substitution at 54',Sofia Guellati Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,347184,2025-09-21 05:17:53
+13623,752949,7,45928536,76,2,3240,54',0,0,Louann Archier (Lens) Substitution at 54',Louann Archier Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,407461,2025-09-21 05:17:53
+13623,752949,8,45928602,76,2,3540,59',0,0,Murphy Agnew (Strasbourg) Substitution at 59',Murphy Agnew Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,354862,2025-09-21 05:17:53
+13623,752949,8,45928602,76,2,3540,59',0,0,Murphy Agnew (Strasbourg) Substitution at 59',Murphy Agnew Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,349845,2025-09-21 05:17:53
+13623,752949,9,45928632,94,2,3600,60',0,0,Fátima Pinto (Strasbourg) Yellow Card at 60',Fátima Pinto Yellow Card,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,259778,2025-09-21 05:17:53
+13623,752949,10,45928688,94,2,3840,64',0,0,Fany Proniez (Lens) Yellow Card at 64',Fany Proniez Yellow Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,407442,2025-09-21 05:17:53
+13623,752949,13,45928852,76,2,4320,72',0,0,Carla Polito (Lens) Substitution at 72',Carla Polito Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,365573,2025-09-21 05:17:53
+13623,752949,12,45928851,76,2,4320,72',0,0,Sherly Jeudy (Lens) Substitution at 72',Sherly Jeudy Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,227358,2025-09-21 05:17:53
+13623,752949,11,45928832,76,2,4320,72',0,0,Mégane Hoeltzel (Strasbourg) Substitution at 72',Mégane Hoeltzel Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,387576,2025-09-21 05:17:53
+13623,752949,13,45928852,76,2,4320,72',0,0,Carla Polito (Lens) Substitution at 72',Carla Polito Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,340423,2025-09-21 05:17:53
+13623,752949,12,45928851,76,2,4320,72',0,0,Sherly Jeudy (Lens) Substitution at 72',Sherly Jeudy Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,410369,2025-09-21 05:17:53
+13623,752949,11,45928832,76,2,4320,72',0,0,Mégane Hoeltzel (Strasbourg) Substitution at 72',Mégane Hoeltzel Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,387577,2025-09-21 05:17:53
+13623,752949,14,45928952,94,2,4740,79',0,0,Mama Diop (Strasbourg) Yellow Card at 79',Mama Diop Yellow Card,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,406619,2025-09-21 05:17:53
+13623,752949,15,45929068,98,2,5160,86',1,0,Aude Gbedjissi (Lens) Penalty - Scored at 86',Aude Gbedjissi Penalty - Scored,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,407464,2025-09-21 05:17:53
+13623,752949,16,45929095,76,2,5220,87',0,0,Manssita Traore (Strasbourg) Substitution at 87',Manssita Traore Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,330663,2025-09-21 05:17:53
+13623,752949,17,45929096,76,2,5220,87',0,0,Ananée Yeboah (Strasbourg) Substitution at 87',Ananée Yeboah Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,358169,2025-09-21 05:17:53
+13623,752949,17,45929096,76,2,5220,87',0,0,Ananée Yeboah (Strasbourg) Substitution at 87',Ananée Yeboah Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,406619,2025-09-21 05:17:53
+13623,752949,16,45929095,76,2,5220,87',0,0,Manssita Traore (Strasbourg) Substitution at 87',Manssita Traore Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,283723,2025-09-21 05:17:53
+13623,752949,18,45929279,93,2,5400,90'+7',0,0,Fátima Pinto (Strasbourg) Red Card at 97',Fátima Pinto Red Card,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,259778,2025-09-21 05:17:53
+13623,752950,1,45917447,70,1,240,4',1,0,Celestine Boisard (Le Havre AC) Goal at 4',Celestine Boisard Goal,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,358629,2025-09-20 05:12:55
+13623,752950,2,45917657,70,1,1080,18',1,0,Chancelle Effa (Le Havre AC) Goal at 18',Chancelle Effa Goal,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,350573,2025-09-20 05:12:55
+13623,752950,3,45917749,94,1,1440,24',0,0,Ninon Blanchard (Marseille) Yellow Card at 24',Ninon Blanchard Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,365576,2025-09-20 05:12:55
+13623,752950,4,45918019,94,1,2460,41',0,0,Romane Enguehard (Le Havre AC) Yellow Card at 41',Romane Enguehard Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,347110,2025-09-20 05:12:55
+13623,752950,5,45918083,98,1,2700,45'+1',1,0,Mathilde Bourdieu (Marseille) Penalty - Scored at 46',Mathilde Bourdieu Penalty - Scor,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,347097,2025-09-20 05:12:55
+13623,752950,6,45918445,76,2,3300,55',0,0,Jade Nassi (Le Havre AC) Substitution at 55',Jade Nassi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,369833,2025-09-20 05:12:55
+13623,752950,6,45918445,76,2,3300,55',0,0,Jade Nassi (Le Havre AC) Substitution at 55',Jade Nassi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,347208,2025-09-20 05:12:55
+13623,752950,7,45918462,94,2,3360,56',0,0,Celestine Boisard (Le Havre AC) Yellow Card at 56',Celestine Boisard Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,358629,2025-09-20 05:12:55
+13623,752950,8,45918698,174,2,3600,60',0,0,Mélinda Mendy (Le Havre AC) Penalty - Saved at 60',Mélinda Mendy Penalty - Saved,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,344400,2025-09-20 05:12:55
+13623,752950,9,45918737,76,2,3720,62',0,0,Thaïs Gallais (Le Havre AC) Substitution at 62',Thaïs Gallais Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,395791,2025-09-20 05:12:55
+13623,752950,9,45918737,76,2,3720,62',0,0,Thaïs Gallais (Le Havre AC) Substitution at 62',Thaïs Gallais Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,350573,2025-09-20 05:12:55
+13623,752950,11,45918942,94,2,4500,75',0,0,Lou Tsé (Le Havre AC) Yellow Card at 75',Lou Tsé Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,365578,2025-09-20 05:12:55
+13623,752950,10,45918904,94,2,4500,75',0,0,Tabita Joseph (Marseille) Yellow Card at 75',Tabita Joseph Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,340414,2025-09-20 05:12:55
+13623,752950,12,45918943,94,2,4560,76',0,0,Laëtitia Philippe (Le Havre AC) Yellow Card at 76',Laëtitia Philippe Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,158818,2025-09-20 05:12:55
+13623,752950,14,45918963,94,2,4740,79',0,0,Margaux Le Mouël (Marseille) Yellow Card at 79',Margaux Le Mouël Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,347117,2025-09-20 05:12:55
+13623,752950,13,45918962,76,2,4740,79',0,0,Marta Carro (Marseille) Substitution at 79',Marta Carro Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,282853,2025-09-20 05:12:55
+13623,752950,13,45918962,76,2,4740,79',0,0,Marta Carro (Marseille) Substitution at 79',Marta Carro Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,340414,2025-09-20 05:12:55
+13623,752950,16,45919126,94,2,5400,90'+4',0,0,Mélinda Mendy (Le Havre AC) Yellow Card at 94',Mélinda Mendy Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,344400,2025-09-20 05:12:55
+13623,752950,15,45919117,76,2,5400,90'+4',0,0,Ikram Adjabi (Le Havre AC) Substitution at 94',Ikram Adjabi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,392343,2025-09-20 05:12:55
+13623,752950,15,45919117,76,2,5400,90'+4',0,0,Ikram Adjabi (Le Havre AC) Substitution at 94',Ikram Adjabi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,347177,2025-09-20 05:12:55
+13623,752951,1,45990234,70,1,180,3',1,0,Emelyne Laurent (FC Fleury 91) Goal at 3',Emelyne Laurent Goal,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,281530,2025-09-28 05:17:28
+13623,752951,2,45990429,70,1,480,8',1,0,Cindy Caputo (FC Fleury 91) Goal at 8',Cindy Caputo Goal,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,365570,2025-09-28 05:17:28
+13623,752951,3,45992418,94,1,2580,43',0,0,Laura Bourgouin (Marseille) Yellow Card at 43',Laura Bourgouin Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,347167,2025-09-28 05:17:28
+13623,752951,4,45993023,76,2,2700,45',0,0,Jody Brown (Marseille) Substitution at 45',Jody Brown Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,281645,2025-09-28 05:17:28
+13623,752951,5,45993029,76,2,2700,45',0,0,Inès Kbida (Marseille) Substitution at 45',Inès Kbida Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,407443,2025-09-28 05:17:28
+13623,752951,5,45993029,76,2,2700,45',0,0,Inès Kbida (Marseille) Substitution at 45',Inès Kbida Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,407457,2025-09-28 05:17:28
+13623,752951,4,45993023,76,2,2700,45',0,0,Jody Brown (Marseille) Substitution at 45',Jody Brown Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,219880,2025-09-28 05:17:28
+13623,752951,6,45993138,94,2,3120,52',0,0,Claudine Meffometou (FC Fleury 91) Yellow Card at 52',Claudine Meffometou Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,176015,2025-09-28 05:17:28
+13623,752951,7,45993183,94,2,3300,55',0,0,Ninon Blanchard (Marseille) Yellow Card at 55',Ninon Blanchard Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,365576,2025-09-28 05:17:28
+13623,752951,8,45993334,76,2,3900,65',0,0,Ewelina Kamczyk (FC Fleury 91) Substitution at 65',Ewelina Kamczyk Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,282878,2025-09-28 05:17:28
+13623,752951,8,45993334,76,2,3900,65',0,0,Ewelina Kamczyk (FC Fleury 91) Substitution at 65',Ewelina Kamczyk Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,281530,2025-09-28 05:17:28
+13623,752951,9,45993407,76,2,4140,69',0,0,Naomie Bamenga (Marseille) Substitution at 69',Naomie Bamenga Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,365629,2025-09-28 05:17:28
+13623,752951,10,45993432,94,2,4140,69',0,0,Cindy Caputo (FC Fleury 91) Yellow Card at 69',Cindy Caputo Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,365570,2025-09-28 05:17:28
+13623,752951,9,45993407,76,2,4140,69',0,0,Naomie Bamenga (Marseille) Substitution at 69',Naomie Bamenga Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,340414,2025-09-28 05:17:28
+13623,752951,11,45993611,76,2,4680,78',0,0,Maudeline Moryl (Marseille) Substitution at 78',Maudeline Moryl Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,340417,2025-09-28 05:17:28
+13623,752951,12,45993612,76,2,4680,78',0,0,Shana Chossenotte (FC Fleury 91) Substitution at 78',Shana Chossenotte Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,344373,2025-09-28 05:17:28
+13623,752951,11,45993611,76,2,4680,78',0,0,Maudeline Moryl (Marseille) Substitution at 78',Maudeline Moryl Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,365576,2025-09-28 05:17:28
+13623,752951,12,45993612,76,2,4680,78',0,0,Shana Chossenotte (FC Fleury 91) Substitution at 78',Shana Chossenotte Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,365570,2025-09-28 05:17:28
+13623,752951,13,45993707,76,2,5100,85',0,0,Dona Scannapieco (Marseille) Substitution at 85',Dona Scannapieco Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,357241,2025-09-28 05:17:28
+13623,752951,14,45993708,76,2,5100,85',0,0,Aurelie Claire (FC Fleury 91) Substitution at 85',Aurelie Claire Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,410428,2025-09-28 05:17:28
+13623,752951,15,45993709,76,2,5100,85',0,0,Charlotte Fernandes (FC Fleury 91) Substitution at 85',Charlotte Fernandes Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,347149,2025-09-28 05:17:28
+13623,752951,15,45993709,76,2,5100,85',0,0,Charlotte Fernandes (FC Fleury 91) Substitution at 85',Charlotte Fernandes Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,347239,2025-09-28 05:17:28
+13623,752951,13,45993707,76,2,5100,85',0,0,Dona Scannapieco (Marseille) Substitution at 85',Dona Scannapieco Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,347167,2025-09-28 05:17:28
+13623,752951,14,45993708,76,2,5100,85',0,0,Aurelie Claire (FC Fleury 91) Substitution at 85',Aurelie Claire Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,347112,2025-09-28 05:17:28
+13623,752951,16,45993723,94,2,5160,86',0,0,Aïssata Traoré (FC Fleury 91) Yellow Card at 86',Aïssata Traoré Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,347112,2025-09-28 05:17:28
+13623,752951,17,45993739,94,2,5220,87',0,0,Tess Laplacette (Marseille) Yellow Card at 87',Tess Laplacette Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,347098,2025-09-28 05:17:28
+13623,752952,1,45990250,70,1,180,3',1,0,Melissa Bethi (Nantes) Goal at 3',Melissa Bethi Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,353007,2025-09-28 05:17:28
+13623,752952,2,45990358,70,1,360,6',1,0,Lucie Calba (Nantes) Goal at 6',Lucie Calba Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,344398,2025-09-28 05:17:28
+13623,752952,3,45991268,76,1,1320,22',0,0,Manon Revelli (Lens) Substitution at 22',Manon Revelli Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,311232,2025-09-28 05:17:28
+13623,752952,3,45991268,76,1,1320,22',0,0,Manon Revelli (Lens) Substitution at 22',Manon Revelli Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,407442,2025-09-28 05:17:28
+13623,752952,4,45991402,76,1,1380,23',0,0,Louann Archier (Lens) Substitution at 23',Louann Archier Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,370974,2025-09-28 05:17:28
+13623,752952,4,45991402,76,1,1380,23',0,0,Louann Archier (Lens) Substitution at 23',Louann Archier Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,344387,2025-09-28 05:17:28
+13623,752952,5,45991613,70,1,1680,28',1,0,Aude Gbedjissi (Lens) Goal at 28',Aude Gbedjissi Goal,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,407464,2025-09-28 05:17:28
+13623,752952,6,45991672,70,1,1740,29',1,0,Imane Saoud (Nantes) Goal at 29',Imane Saoud Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,350964,2025-09-28 05:17:28
+13623,752952,7,45992631,70,1,2700,45'+4',1,0,Louann Archier (Lens) Goal at 49',Louann Archier Goal,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,370974,2025-09-30 05:15:30
+13623,752952,8,45993093,76,2,2700,45',0,0,Kaîna El Koumir (Lens) Substitution at 45',Kaîna El Koumir Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,407461,2025-09-28 05:17:28
+13623,752952,8,45993093,76,2,2700,45',0,0,Kaîna El Koumir (Lens) Substitution at 45',Kaîna El Koumir Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,407464,2025-09-28 05:17:28
+13623,752952,9,45993332,76,2,3540,59',0,0,Juliette Mossard (Nantes) Substitution at 59',Juliette Mossard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,344388,2025-09-28 05:17:28
+13623,752952,9,45993332,76,2,3540,59',0,0,Juliette Mossard (Nantes) Substitution at 59',Juliette Mossard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,335812,2025-09-28 05:17:28
+13623,752952,10,45993312,76,2,3600,60',0,0,Julie Swierot (Nantes) Substitution at 60',Julie Swierot Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,370011,2025-09-28 05:17:28
+13623,752952,10,45993312,76,2,3600,60',0,0,Julie Swierot (Nantes) Substitution at 60',Julie Swierot Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,293408,2025-09-28 05:17:28
+13623,752952,11,45993362,70,2,3660,61',1,0,Lucie Calba (Nantes) Goal at 61',Lucie Calba Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,344398,2025-09-28 05:17:28
+13623,752952,12,45993444,76,2,3960,66',0,0,Carla Polito (Lens) Substitution at 66',Carla Polito Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,365573,2025-09-28 05:17:28
+13623,752952,12,45993444,76,2,3960,66',0,0,Carla Polito (Lens) Substitution at 66',Carla Polito Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,340423,2025-09-28 05:17:28
+13623,752952,13,45993495,76,2,4140,69',0,0,Camille Robillard (Nantes) Substitution at 69',Camille Robillard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,387600,2025-09-28 05:17:28
+13623,752952,13,45993495,76,2,4140,69',0,0,Camille Robillard (Nantes) Substitution at 69',Camille Robillard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,344398,2025-09-28 05:17:28
+13623,752952,14,45993644,76,2,4560,76',0,0,Alizée Mereau (Lens) Substitution at 76',Alizée Mereau Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,410370,2025-09-28 05:17:28
+13623,752952,14,45993644,76,2,4560,76',0,0,Alizée Mereau (Lens) Substitution at 76',Alizée Mereau Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,410369,2025-09-28 05:17:28
+13623,752952,15,45993703,70,2,4800,80',1,0,Louann Archier (Lens) Goal at 80',Louann Archier Goal,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,370974,2025-09-28 05:17:28
+13623,752952,16,45993805,76,2,5160,86',0,0,Caitlin Cosme (Nantes) Substitution at 86',Caitlin Cosme Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,263901,2025-09-28 05:17:28
+13623,752952,16,45993805,76,2,5160,86',0,0,Caitlin Cosme (Nantes) Substitution at 86',Caitlin Cosme Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,370871,2025-09-28 05:17:28
+13623,752952,17,45993806,76,2,5220,87',0,0,Ema Paljevic (Nantes) Substitution at 87',Ema Paljevic Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,408149,2025-09-28 05:17:28
+13623,752952,17,45993806,76,2,5220,87',0,0,Ema Paljevic (Nantes) Substitution at 87',Ema Paljevic Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,353007,2025-09-28 05:17:28
+13623,752952,18,45993877,94,2,5400,90'+3',0,0,Camille Robillard (Nantes) Yellow Card at 93',Camille Robillard Yellow Card,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,387600,2025-09-28 05:17:28
+13623,752952,19,45999448,94,2,5400,90'+5',0,0,Emily Burns (Nantes) Yellow Card at 95',Emily Burns Yellow Card,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,349919,2025-09-28 05:17:28
+13623,752953,1,45996200,70,1,300,5',1,0,Tarciane  (OL Lyonnes) Goal at 5',Tarciane  Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,351655,2025-09-28 05:17:28
+13623,752953,2,45996537,94,1,1200,20',0,0,Rasheedat Ajibade (Paris Saint-Germain) Yellow Card at 20',Rasheedat Ajibade Yellow Card,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,284186,2025-09-28 05:17:28
+13623,752953,3,45996658,94,1,1500,25',0,0,Griedge Mbock Bathy (Paris Saint-Germain) Yellow Card at 25',Griedge Mbock Bathy Yellow Card,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,219934,2025-09-28 05:17:28
+13623,752953,4,45996812,98,1,1980,33',1,0,Romée Leuchter (Paris Saint-Germain) Penalty - Scored at 33',Romée Leuchter Penalty - Scored,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,309944,2025-09-28 05:17:28
+13623,752953,5,45996833,94,1,2040,34',0,0,Tara Elimbi (Paris Saint-Germain) Yellow Card at 34',Tara Elimbi Yellow Card,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,344401,2025-09-28 05:17:28
+13623,752953,6,45997071,94,1,2700,45'+1',0,0,Kadidiatou Diani (OL Lyonnes) Yellow Card at 46',Kadidiatou Diani Yellow Card,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,219121,2025-09-28 05:17:28
+13623,752953,7,45997568,76,2,3420,57',0,0,Tabitha Chawinga (OL Lyonnes) Substitution at 57',Tabitha Chawinga Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,373811,2025-09-28 05:17:28
+13623,752953,7,45997568,76,2,3420,57',0,0,Tabitha Chawinga (OL Lyonnes) Substitution at 57',Tabitha Chawinga Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,317719,2025-09-28 05:17:28
+13623,752953,8,45997619,70,2,3480,58',1,0,Lindsey Heaps (OL Lyonnes) Goal at 58',Lindsey Heaps Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,228716,2025-09-28 05:17:28
+13623,752953,9,45997621,76,2,3600,60',0,0,Florianne Jourde (Paris Saint-Germain) Substitution at 60',Florianne Jourde Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,368733,2025-09-28 05:17:28
+13623,752953,9,45997621,76,2,3600,60',0,0,Florianne Jourde (Paris Saint-Germain) Substitution at 60',Florianne Jourde Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,292902,2025-09-28 05:17:28
+13623,752953,11,45997745,76,2,3840,64',0,0,Olga Carmona (Paris Saint-Germain) Substitution at 64',Olga Carmona Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,317946,2025-09-28 05:17:28
+13623,752953,10,45997744,76,2,3840,64',0,0,Isabela Chagas (Paris Saint-Germain) Substitution at 64',Isabela Chagas Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,344298,2025-09-28 05:17:28
+13623,752953,10,45997744,76,2,3840,64',0,0,Isabela Chagas (Paris Saint-Germain) Substitution at 64',Isabela Chagas Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,344401,2025-09-28 05:17:28
+13623,752953,11,45997745,76,2,3840,64',0,0,Olga Carmona (Paris Saint-Germain) Substitution at 64',Olga Carmona Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,309944,2025-09-28 05:17:28
+13623,752953,14,45997883,76,2,4140,69',0,0,Lily Yohannes (OL Lyonnes) Substitution at 69',Lily Yohannes Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,369801,2025-09-28 05:17:28
+13623,752953,12,45997853,76,2,4140,69',0,0,Ada Hegerberg (OL Lyonnes) Substitution at 69',Ada Hegerberg Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,188067,2025-09-28 05:17:28
+13623,752953,13,45997882,76,2,4140,69',0,0,Damaris Egurrola (OL Lyonnes) Substitution at 69',Damaris Egurrola Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,288448,2025-09-28 05:17:28
+13623,752953,14,45997883,76,2,4140,69',0,0,Lily Yohannes (OL Lyonnes) Substitution at 69',Lily Yohannes Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,219121,2025-09-28 05:17:28
+13623,752953,13,45997882,76,2,4140,69',0,0,Damaris Egurrola (OL Lyonnes) Substitution at 69',Damaris Egurrola Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,228716,2025-09-28 05:17:28
+13623,752953,12,45997853,76,2,4140,69',0,0,Ada Hegerberg (OL Lyonnes) Substitution at 69',Ada Hegerberg Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,283094,2025-09-28 05:17:28
+13623,752953,15,45997921,70,2,4200,70',1,0,Korbin Albert (OL Lyonnes) Goal at 70',Korbin Albert Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,327417,2025-09-28 05:17:28
+13623,752953,16,45997991,70,2,4440,74',1,0,Korbin Albert (OL Lyonnes) Goal at 74',Korbin Albert Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,327417,2025-09-28 05:17:28
+13623,752953,17,45998017,76,2,4500,75',0,0,Ashley Lawrence (OL Lyonnes) Substitution at 75',Ashley Lawrence Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,119954,2025-09-28 05:17:28
+13623,752953,17,45998017,76,2,4500,75',0,0,Ashley Lawrence (OL Lyonnes) Substitution at 75',Ashley Lawrence Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,158816,2025-09-28 05:17:28
+13623,752953,18,45998125,76,2,4800,80',0,0,Anaïs Ebayilin (Paris Saint-Germain) Substitution at 80',Anaïs Ebayilin Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,380029,2025-09-28 05:17:28
+13623,752953,18,45998125,76,2,4800,80',0,0,Anaïs Ebayilin (Paris Saint-Germain) Substitution at 80',Anaïs Ebayilin Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,284186,2025-09-28 05:17:28
+13623,752953,19,45998238,70,2,5100,85',1,0,Korbin Albert (OL Lyonnes) Goal at 85',Korbin Albert Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,327417,2025-09-28 05:17:28
+13623,752953,20,45998433,70,2,5400,90'+3',1,0,Tabitha Chawinga (OL Lyonnes) Goal at 93',Tabitha Chawinga Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,373811,2025-09-28 05:17:28
+13623,752954,1,45982387,70,1,840,14',1,0,Anaële Le Moguédec (Paris FC) Goal at 14',Anaële Le Moguédec Goal,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365611,2025-09-27 05:18:55
+13623,752954,3,45983252,76,2,2700,45',0,0,Welma Fon (Saint-Étienne) Substitution at 45',Welma Fon Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,359278,2025-09-27 05:18:55
+13623,752954,2,45983249,76,2,2700,45',0,0,Adele Connesson (Saint-Étienne) Substitution at 45',Adele Connesson Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,347251,2025-09-27 05:18:55
+13623,752954,2,45983249,76,2,2700,45',0,0,Adele Connesson (Saint-Étienne) Substitution at 45',Adele Connesson Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,248728,2025-09-27 05:18:55
+13623,752954,3,45983252,76,2,2700,45',0,0,Welma Fon (Saint-Étienne) Substitution at 45',Welma Fon Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,409769,2025-09-27 05:18:55
+13623,752954,4,45983402,70,2,3420,57',1,0,Clara Mateo (Paris FC) Goal at 57',Clara Mateo Goal,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,279182,2025-09-27 05:18:55
+13623,752954,5,45983514,76,2,4020,67',0,0,Kenza Dufour (Paris FC) Substitution at 67',Kenza Dufour Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,384104,2025-09-27 05:18:55
+13623,752954,5,45983514,76,2,4020,67',0,0,Kenza Dufour (Paris FC) Substitution at 67',Kenza Dufour Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365611,2025-09-27 05:18:55
+13623,752954,7,45983610,76,2,4620,77',0,0,Thea Greboval (Paris FC) Substitution at 77',Thea Greboval Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,264722,2025-09-27 05:18:55
+13623,752954,6,45983593,76,2,4620,77',0,0,Teninsoun Sissoko (Paris FC) Substitution at 77',Teninsoun Sissoko Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365593,2025-09-27 05:18:55
+13623,752954,6,45983593,76,2,4620,77',0,0,Teninsoun Sissoko (Paris FC) Substitution at 77',Teninsoun Sissoko Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347249,2025-09-27 05:18:55
+13623,752954,7,45983610,76,2,4620,77',0,0,Thea Greboval (Paris FC) Substitution at 77',Thea Greboval Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347907,2025-09-27 05:18:55
+13623,752954,8,45983627,76,2,4800,80',0,0,Nikolina Istocki (Saint-Étienne) Substitution at 80',Nikolina Istocki Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,347894,2025-09-27 05:18:55
+13623,752954,8,45983627,76,2,4800,80',0,0,Nikolina Istocki (Saint-Étienne) Substitution at 80',Nikolina Istocki Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,315075,2025-09-27 05:18:55
+13623,752954,9,45983650,76,2,5040,84',0,0,Sheika Scott (Paris FC) Substitution at 84',Sheika Scott Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,354440,2025-09-27 05:18:55
+13623,752954,10,45983663,76,2,5040,84',0,0,Nora Håheim (Paris FC) Substitution at 84',Nora Håheim Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,411160,2025-09-27 05:18:55
+13623,752954,10,45983663,76,2,5040,84',0,0,Nora Håheim (Paris FC) Substitution at 84',Nora Håheim Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347123,2025-09-27 05:18:55
+13623,752954,9,45983650,76,2,5040,84',0,0,Sheika Scott (Paris FC) Substitution at 84',Sheika Scott Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365579,2025-09-27 05:18:55
+13623,752954,11,45983673,76,2,5220,87',0,0,Victoria Faure (Saint-Étienne) Substitution at 87',Victoria Faure Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,411354,2025-09-27 05:18:55
+13623,752954,11,45983673,76,2,5220,87',0,0,Victoria Faure (Saint-Étienne) Substitution at 87',Victoria Faure Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,290257,2025-09-27 05:18:55
+13623,752954,12,45983707,76,2,5400,90'+2',0,0,Alaïa Peltier (Saint-Étienne) Substitution at 92',Alaïa Peltier Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,411109,2025-09-27 05:18:55
+13623,752954,12,45983707,76,2,5400,90'+2',0,0,Alaïa Peltier (Saint-Étienne) Substitution at 92',Alaïa Peltier Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,365585,2025-09-27 05:18:55
+13623,752955,1,45990690,70,1,840,14',1,0,Kethna Louis (Montpellier) Goal at 14',Kethna Louis Goal,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,302284,2025-09-28 05:17:28
+13623,752955,2,45990765,94,1,960,16',0,0,Romane Enguehard (Le Havre AC) Yellow Card at 16',Romane Enguehard Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,347110,2025-09-28 05:17:28
+13623,752955,3,45992516,94,1,2700,45'+2',0,0,Zoe Stievenart (Le Havre AC) Yellow Card at 47',Zoe Stievenart Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,347177,2025-09-28 05:17:28
+13623,752955,4,45993092,70,2,3060,51',1,0,Romane Enguehard (Le Havre AC) Goal at 51',Romane Enguehard Goal,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,347110,2025-09-28 05:17:28
+13623,752955,5,45993281,70,2,3780,63',1,0,Zoe Stievenart (Le Havre AC) Goal at 63',Zoe Stievenart Goal,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,347177,2025-09-28 05:17:28
+13623,752955,6,45993308,76,2,3900,65',0,0,Rose Kadzere (Montpellier) Substitution at 65',Rose Kadzere Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,394407,2025-09-28 05:17:28
+13623,752955,7,45993320,76,2,3900,65',0,0,Ilona Koko (Montpellier) Substitution at 65',Ilona Koko Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,410433,2025-09-28 05:17:28
+13623,752955,7,45993320,76,2,3900,65',0,0,Ilona Koko (Montpellier) Substitution at 65',Ilona Koko Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347255,2025-09-28 05:17:28
+13623,752955,6,45993308,76,2,3900,65',0,0,Rose Kadzere (Montpellier) Substitution at 65',Rose Kadzere Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,302284,2025-09-28 05:17:28
+13623,752955,8,45993381,70,2,4200,70',1,0,Zoe Stievenart (Le Havre AC) Goal at 70',Zoe Stievenart Goal,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,347177,2025-09-28 05:17:28
+13623,752955,9,45993433,70,2,4260,71',1,0,Ilona Koko (Montpellier) Goal at 71',Ilona Koko Goal,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,410433,2025-09-28 05:17:28
+13623,752955,10,45993473,76,2,4440,74',0,0,Jade Nassi (Le Havre AC) Substitution at 74',Jade Nassi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,369833,2025-09-28 05:17:28
+13623,752955,10,45993473,76,2,4440,74',0,0,Jade Nassi (Le Havre AC) Substitution at 74',Jade Nassi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,349920,2025-09-28 05:17:28
+13623,752955,11,45993493,76,2,4500,75',0,0,Christy Gavory (Le Havre AC) Substitution at 75',Christy Gavory Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,350115,2025-09-28 05:17:28
+13623,752955,12,45993494,76,2,4500,75',0,0,Celia Chabod (Montpellier) Substitution at 75',Celia Chabod Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,362464,2025-09-28 05:17:28
+13623,752955,11,45993493,76,2,4500,75',0,0,Christy Gavory (Le Havre AC) Substitution at 75',Christy Gavory Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,344400,2025-09-28 05:17:28
+13623,752955,12,45993494,76,2,4500,75',0,0,Celia Chabod (Montpellier) Substitution at 75',Celia Chabod Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,359691,2025-09-28 05:17:28
+13623,752955,13,45993636,94,2,4920,82',0,0,Cyrielle Blanc (Montpellier) Yellow Card at 82',Cyrielle Blanc Yellow Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,347126,2025-09-28 05:17:28
+13623,752955,14,45993637,76,2,4980,83',0,0,Ikram Adjabi (Le Havre AC) Substitution at 83',Ikram Adjabi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,392343,2025-09-28 05:17:28
+13623,752955,15,45993648,76,2,4980,83',0,0,Emmy Lefevre (Le Havre AC) Substitution at 83',Emmy Lefevre Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,392510,2025-09-28 05:17:28
+13623,752955,14,45993637,76,2,4980,83',0,0,Ikram Adjabi (Le Havre AC) Substitution at 83',Ikram Adjabi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,350573,2025-09-28 05:17:28
+13623,752955,15,45993648,76,2,4980,83',0,0,Emmy Lefevre (Le Havre AC) Substitution at 83',Emmy Lefevre Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,347208,2025-09-28 05:17:28
+13623,752955,16,45993690,94,2,5220,87',0,0,Laëtitia Philippe (Le Havre AC) Yellow Card at 87',Laëtitia Philippe Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,158818,2025-09-28 05:17:28
+13623,752955,18,45993773,76,2,5340,89',0,0,Agathe Felden (Montpellier) Substitution at 89',Agathe Felden Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,344391,2025-09-28 05:17:28
+13623,752955,17,45993758,76,2,5340,89',0,0,Rosalie Chaine Rochette (Montpellier) Substitution at 89',Rosalie Chaine Rochette Substitu,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392524,2025-09-28 05:17:28
+13623,752955,17,45993758,76,2,5340,89',0,0,Rosalie Chaine Rochette (Montpellier) Substitution at 89',Rosalie Chaine Rochette Substitu,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347127,2025-09-28 05:17:28
+13623,752955,18,45993773,76,2,5340,89',0,0,Agathe Felden (Montpellier) Substitution at 89',Agathe Felden Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347116,2025-09-28 05:17:28
+13623,752956,1,45990657,70,1,780,13',1,0,Inès Konan (Strasbourg) Goal at 13',Inès Konan Goal,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,349845,2025-09-28 05:17:28
+13623,752956,2,45990855,93,1,1020,17',0,0,Charlotte Verdier (Dijon) Red Card at 17',Charlotte Verdier Red Card,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,407192,2025-09-28 05:17:28
+13623,752956,3,45991241,76,1,1140,19',0,0,Clélia Ducreux (Dijon) Substitution at 19',Clélia Ducreux Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,411125,2025-09-28 05:17:28
+13623,752956,3,45991241,76,1,1140,19',0,0,Clélia Ducreux (Dijon) Substitution at 19',Clélia Ducreux Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,347213,2025-09-28 05:17:28
+13623,752956,4,45991242,70,1,1380,23',1,0,Mama Diop (Strasbourg) Goal at 23',Mama Diop Goal,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,406619,2025-09-28 05:17:28
+13623,752956,5,45991824,70,1,1980,33',1,0,Inès Konan (Strasbourg) Goal at 33',Inès Konan Goal,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,349845,2025-09-28 05:17:28
+13623,752956,6,45993049,94,2,2880,48',0,0,Noémie Carage (Dijon) Yellow Card at 48',Noémie Carage Yellow Card,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,347082,2025-09-28 05:17:28
+13623,752956,7,45993211,76,2,3600,60',0,0,Marième Babou (Strasbourg) Substitution at 60',Marième Babou Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,395796,2025-09-28 05:17:28
+13623,752956,7,45993211,76,2,3600,60',0,0,Marième Babou (Strasbourg) Substitution at 60',Marième Babou Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,330663,2025-09-28 05:17:28
+13623,752956,8,45993309,94,2,3780,63',0,0,Inès Konan (Strasbourg) Yellow Card at 63',Inès Konan Yellow Card,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,349845,2025-09-28 05:17:28
+13623,752956,9,45993310,76,2,3840,64',0,0,Meriame Terchoun (Dijon) Substitution at 64',Meriame Terchoun Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,246852,2025-09-28 05:17:28
+13623,752956,9,45993310,76,2,3840,64',0,0,Meriame Terchoun (Dijon) Substitution at 64',Meriame Terchoun Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,287923,2025-09-28 05:17:28
+13623,752956,10,45993387,94,2,4020,67',0,0,Léa Declercq (Dijon) Yellow Card at 67',Léa Declercq Yellow Card,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,347080,2025-09-28 05:17:28
+13623,752956,11,45993456,76,2,4440,74',0,0,Léa Sylejmani (Strasbourg) Substitution at 74',Léa Sylejmani Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,410351,2025-09-28 05:17:28
+13623,752956,12,45993481,76,2,4440,74',0,0,Ananée Yeboah (Strasbourg) Substitution at 74',Ananée Yeboah Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,358169,2025-09-28 05:17:28
+13623,752956,12,45993481,76,2,4440,74',0,0,Ananée Yeboah (Strasbourg) Substitution at 74',Ananée Yeboah Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,349845,2025-09-28 05:17:28
+13623,752956,11,45993456,76,2,4440,74',0,0,Léa Sylejmani (Strasbourg) Substitution at 74',Léa Sylejmani Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,354862,2025-09-28 05:17:28
+13623,752956,15,45993622,76,2,4860,81',0,0,Marion Haelewyn (Dijon) Substitution at 81',Marion Haelewyn Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,347204,2025-09-28 05:17:28
+13623,752956,14,45993621,76,2,4860,81',0,0,Colette Nzdana (Dijon) Substitution at 81',Colette Nzdana Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,343757,2025-09-28 05:17:28
+13623,752956,13,45993605,76,2,4860,81',0,0,Oliwia Domin (Dijon) Substitution at 81',Oliwia Domin Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,380829,2025-09-28 05:17:28
+13623,752956,13,45993605,76,2,4860,81',0,0,Oliwia Domin (Dijon) Substitution at 81',Oliwia Domin Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,349917,2025-09-28 05:17:28
+13623,752956,15,45993622,76,2,4860,81',0,0,Marion Haelewyn (Dijon) Substitution at 81',Marion Haelewyn Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,321342,2025-09-28 05:17:28
+13623,752956,14,45993621,76,2,4860,81',0,0,Colette Nzdana (Dijon) Substitution at 81',Colette Nzdana Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,380828,2025-09-28 05:17:28
+13623,752956,16,45993698,70,2,5160,86',1,0,Mama Diop (Strasbourg) Goal at 86',Mama Diop Goal,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,406619,2025-09-28 05:17:28
+13623,752956,17,45993736,76,2,5280,88',0,0,Clémence Mairot (Strasbourg) Substitution at 88',Clémence Mairot Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,387605,2025-09-28 05:17:28
+13623,752956,18,45993737,76,2,5280,88',0,0,Élise Bonet (Strasbourg) Substitution at 88',Élise Bonet Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,373821,2025-09-28 05:17:28
+13623,752956,18,45993737,76,2,5280,88',0,0,Élise Bonet (Strasbourg) Substitution at 88',Élise Bonet Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,406619,2025-09-28 05:17:28
+13623,752956,17,45993736,76,2,5280,88',0,0,Clémence Mairot (Strasbourg) Substitution at 88',Clémence Mairot Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,347133,2025-09-28 05:17:28
+13623,752957,1,46054382,70,1,60,1',1,0,Vicki Bècho (OL Lyonnes) Goal at 1',Vicki Bècho Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,311191,2025-10-04 05:15:03
+13623,752957,2,46054386,70,1,600,10',1,0,Tabitha Chawinga (OL Lyonnes) Goal at 10',Tabitha Chawinga Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,373811,2025-10-04 05:15:03
+13623,752957,3,46054395,70,1,1440,24',1,0,Sherly Jeudy (Lens) Goal at 24',Sherly Jeudy Goal,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,227358,2025-10-04 05:15:03
+13623,752957,4,46057810,94,1,1860,31',0,0,Carla Polito (Lens) Yellow Card at 31',Carla Polito Yellow Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,365573,2025-10-04 05:15:03
+13623,752957,5,46054429,76,2,2700,45',0,0,Laurine Pinot (Lens) Substitution at 45',Laurine Pinot Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,347182,2025-10-04 05:15:03
+13623,752957,5,46054429,76,2,2700,45',0,0,Laurine Pinot (Lens) Substitution at 45',Laurine Pinot Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,347184,2025-10-04 05:15:03
+13623,752957,6,46054499,70,2,3240,54',1,0,Vicki Bècho (OL Lyonnes) Goal at 54',Vicki Bècho Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,311191,2025-10-04 05:15:03
+13623,752957,7,46054508,94,2,3420,57',0,0,Ashley Lawrence (OL Lyonnes) Yellow Card at 57',Ashley Lawrence Yellow Card,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,119954,2025-10-04 05:15:03
+13623,752957,9,46054530,76,2,3600,60',0,0,Liana Joseph (OL Lyonnes) Substitution at 60',Liana Joseph Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,370012,2025-10-04 05:15:03
+13623,752957,8,46054521,76,2,3600,60',0,0,Melchie Dumornay (OL Lyonnes) Substitution at 60',Melchie Dumornay Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,340420,2025-10-04 05:15:03
+13623,752957,8,46054521,76,2,3600,60',0,0,Melchie Dumornay (OL Lyonnes) Substitution at 60',Melchie Dumornay Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,288448,2025-10-04 05:15:03
+13623,752957,9,46054530,76,2,3600,60',0,0,Liana Joseph (OL Lyonnes) Substitution at 60',Liana Joseph Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,373811,2025-10-04 05:15:03
+13623,752957,10,46054531,76,2,3660,61',0,0,Clara Bertrand (Lens) Substitution at 61',Clara Bertrand Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,410369,2025-10-04 05:15:03
+13623,752957,11,46054532,76,2,3660,61',0,0,Alizée Mereau (Lens) Substitution at 61',Alizée Mereau Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,410370,2025-10-04 05:15:03
+13623,752957,11,46054532,76,2,3660,61',0,0,Alizée Mereau (Lens) Substitution at 61',Alizée Mereau Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,365573,2025-10-04 05:15:03
+13623,752957,10,46054531,76,2,3660,61',0,0,Clara Bertrand (Lens) Substitution at 61',Clara Bertrand Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,295682,2025-10-04 05:15:03
+13623,752957,12,46054541,94,2,3900,65',0,0,Manon Revelli (Lens) Yellow Card at 65',Manon Revelli Yellow Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,311232,2025-10-04 05:15:03
+13623,752957,13,46054554,70,2,3960,66',1,0,Vicki Bècho (OL Lyonnes) Goal at 66',Vicki Bècho Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,311191,2025-10-04 05:15:03
+13623,752957,14,46054551,76,2,4020,67',0,0,Emma Smaali (Lens) Substitution at 67',Emma Smaali Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,406713,2025-10-04 05:15:03
+13623,752957,14,46054551,76,2,4020,67',0,0,Emma Smaali (Lens) Substitution at 67',Emma Smaali Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,347245,2025-10-04 05:15:03
+13623,752957,15,46054574,76,2,4200,70',0,0,Kadidiatou Diani (OL Lyonnes) Substitution at 70',Kadidiatou Diani Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,219121,2025-10-04 05:15:03
+13623,752957,16,46054575,76,2,4200,70',0,0,Marie-Antoinette Katoto (OL Lyonnes) Substitution at 70',Marie-Antoinette Katoto Substitu,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,283094,2025-10-04 05:15:03
+13623,752957,15,46054574,76,2,4200,70',0,0,Kadidiatou Diani (OL Lyonnes) Substitution at 70',Kadidiatou Diani Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,369801,2025-10-04 05:15:03
+13623,752957,16,46054575,76,2,4200,70',0,0,Marie-Antoinette Katoto (OL Lyonnes) Substitution at 70',Marie-Antoinette Katoto Substitu,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,188067,2025-10-04 05:15:03
+13623,752957,17,46054604,93,2,4260,71',0,0,Manon Revelli (Lens) Red Card at 71',Manon Revelli Red Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,311232,2025-10-04 05:15:03
+13623,752957,18,46054615,70,2,4440,74',1,0,Liana Joseph (OL Lyonnes) Goal at 74',Liana Joseph Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,370012,2025-10-04 05:15:03
+13623,752957,19,46054628,76,2,4620,77',0,0,Korbin Albert (OL Lyonnes) Substitution at 77',Korbin Albert Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,327417,2025-10-04 05:15:03
+13623,752957,19,46054628,76,2,4620,77',0,0,Korbin Albert (OL Lyonnes) Substitution at 77',Korbin Albert Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,311231,2025-10-04 05:15:03
+13623,752957,21,46054670,76,2,4740,79',0,0,Jennifer Meunier (Lens) Substitution at 79',Jennifer Meunier Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,407448,2025-10-04 05:15:03
+13623,752957,20,46054646,70,2,4740,79',1,0,Liana Joseph (OL Lyonnes) Goal at 79',Liana Joseph Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,370012,2025-10-04 05:15:03
+13623,752957,21,46054670,76,2,4740,79',0,0,Jennifer Meunier (Lens) Substitution at 79',Jennifer Meunier Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,227358,2025-10-04 05:15:03
+13623,752957,22,46054671,70,2,4920,82',1,0,Liana Joseph (OL Lyonnes) Goal at 82',Liana Joseph Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,370012,2025-10-04 05:15:03
+13623,752957,23,46054752,70,2,5340,89',1,0,Melchie Dumornay (OL Lyonnes) Goal at 89',Melchie Dumornay Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,340420,2025-10-04 05:15:03
+13623,752958,1,46071267,76,2,2700,45',0,0,Sakina Karchaoui (Paris Saint-Germain) Substitution at 45',Sakina Karchaoui Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,240297,2025-10-05 05:22:38
+13623,752958,1,46071267,76,2,2700,45',0,0,Sakina Karchaoui (Paris Saint-Germain) Substitution at 45',Sakina Karchaoui Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,309944,2025-10-05 05:22:38
+13623,752958,2,46071607,94,2,3420,57',0,0,Sakina Karchaoui (Paris Saint-Germain) Yellow Card at 57',Sakina Karchaoui Yellow Card,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,240297,2025-10-05 05:22:38
+13623,752958,3,46071813,94,2,3720,62',0,0,Tante Diakite (Paris Saint-Germain) Yellow Card at 62',Tante Diakite Yellow Card,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,392293,2025-10-05 05:22:38
+13623,752958,4,46071831,98,2,3840,64',1,0,Sakina Karchaoui (Paris Saint-Germain) Penalty - Scored at 64',Sakina Karchaoui Penalty - Score,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,240297,2025-10-05 05:22:38
+13623,752958,7,46071903,76,2,3900,65',0,0,Merveille Kanjinga (Paris Saint-Germain) Substitution at 65',Merveille Kanjinga Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,399707,2025-10-05 05:22:38
+13623,752958,6,46071902,76,2,3900,65',0,0,Ornella Graziani (Paris Saint-Germain) Substitution at 65',Ornella Graziani Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,392530,2025-10-05 05:22:38
+13623,752958,5,46071877,76,2,3900,65',0,0,Wang Yanwen (Dijon) Substitution at 65',Wang Yanwen Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,321342,2025-10-05 05:22:38
+13623,752958,7,46071903,76,2,3900,65',0,0,Merveille Kanjinga (Paris Saint-Germain) Substitution at 65',Merveille Kanjinga Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,368733,2025-10-05 05:22:38
+13623,752958,5,46071877,76,2,3900,65',0,0,Wang Yanwen (Dijon) Substitution at 65',Wang Yanwen Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,347213,2025-10-05 05:22:38
+13623,752958,6,46071902,76,2,3900,65',0,0,Ornella Graziani (Paris Saint-Germain) Substitution at 65',Ornella Graziani Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,344298,2025-10-05 05:22:38
+13623,752958,8,46072121,76,2,4620,77',0,0,Léa-Laëtitia Morissaint (Paris Saint-Germain) Substitution at 77',Léa-Laëtitia Morissaint Substitu,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,405044,2025-10-05 05:22:38
+13623,752958,8,46072121,76,2,4620,77',0,0,Léa-Laëtitia Morissaint (Paris Saint-Germain) Substitution at 77',Léa-Laëtitia Morissaint Substitu,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,284186,2025-10-05 05:22:38
+13623,752958,10,46072234,76,2,4920,82',0,0,Jackie Groenen (Paris Saint-Germain) Substitution at 82',Jackie Groenen Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,235658,2025-10-05 05:22:38
+13623,752958,9,46072233,76,2,4920,82',0,0,Wu Chengshu (Dijon) Substitution at 82',Wu Chengshu Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,287923,2025-10-05 05:22:38
+13623,752958,10,46072234,76,2,4920,82',0,0,Jackie Groenen (Paris Saint-Germain) Substitution at 82',Jackie Groenen Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,392293,2025-10-05 05:22:38
+13623,752958,9,46072233,76,2,4920,82',0,0,Wu Chengshu (Dijon) Substitution at 82',Wu Chengshu Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,380829,2025-10-05 05:22:38
+13623,752958,11,46072355,94,2,5220,87',0,0,Kate Taylor (Dijon) Yellow Card at 87',Kate Taylor Yellow Card,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,332237,2025-10-05 05:22:38
+13623,752959,1,46055649,70,1,1620,27',1,0,Lucie Calba (Nantes) Goal at 27',Lucie Calba Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,344398,2025-10-04 05:15:03
+13623,752959,2,46055679,94,1,1740,29',0,0,Melissa Bethi (Nantes) Yellow Card at 29',Melissa Bethi Yellow Card,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,353007,2025-10-04 05:15:03
+13623,752959,3,46055785,76,1,2040,34',0,0,Ines Marques (Paris FC) Substitution at 34',Ines Marques Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,347906,2025-10-04 05:15:03
+13623,752959,3,46055785,76,1,2040,34',0,0,Ines Marques (Paris FC) Substitution at 34',Ines Marques Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,314329,2025-10-04 05:15:03
+13623,752959,4,46055891,94,1,2460,41',0,0,Anaële Le Moguédec (Paris FC) Yellow Card at 41',Anaële Le Moguédec Yellow Card,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365611,2025-10-04 05:15:03
+13623,752959,6,46056398,76,2,2700,45',0,0,Kenza Dufour (Paris FC) Substitution at 45',Kenza Dufour Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,384104,2025-10-04 05:15:03
+13623,752959,5,46056397,76,2,2700,45',0,0,Teninsoun Sissoko (Paris FC) Substitution at 45',Teninsoun Sissoko Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365593,2025-10-04 05:15:03
+13623,752959,5,46056397,76,2,2700,45',0,0,Teninsoun Sissoko (Paris FC) Substitution at 45',Teninsoun Sissoko Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347123,2025-10-04 05:15:03
+13623,752959,6,46056398,76,2,2700,45',0,0,Kenza Dufour (Paris FC) Substitution at 45',Kenza Dufour Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365611,2025-10-04 05:15:03
+13623,752959,7,46056542,70,2,3120,52',1,0,Lea Khelifi (Nantes) Goal at 52',Lea Khelifi Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,293408,2025-10-04 05:15:03
+13623,752959,8,46056658,76,2,3480,58',0,0,Roseline Éloissaint (Nantes) Substitution at 58',Roseline Éloissaint Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,302281,2025-10-04 05:15:03
+13623,752959,8,46056658,76,2,3480,58',0,0,Roseline Éloissaint (Nantes) Substitution at 58',Roseline Éloissaint Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,370871,2025-10-04 05:15:03
+13623,752959,9,46056721,94,2,3600,60',0,0,Nelly Da Cruz Rodrigues (Nantes) Yellow Card at 60',Nelly Da Cruz Rodrigues Yellow C,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,330662,2025-10-04 05:15:03
+13623,752959,10,46056759,98,2,3780,63',1,0,Lorena Azzaro (Paris FC) Penalty - Scored at 63',Lorena Azzaro Penalty - Scored,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365579,2025-10-04 05:15:03
+13623,752959,11,46056885,94,2,4140,69',0,0,Lorena Azzaro (Paris FC) Yellow Card at 69',Lorena Azzaro Yellow Card,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365579,2025-10-04 05:15:03
+13623,752959,12,46056916,76,2,4200,70',0,0,Camille Robillard (Nantes) Substitution at 70',Camille Robillard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,387600,2025-10-04 05:15:03
+13623,752959,13,46056917,76,2,4200,70',0,0,Juliette Mossard (Nantes) Substitution at 70',Juliette Mossard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,344388,2025-10-04 05:15:03
+13623,752959,13,46056917,76,2,4200,70',0,0,Juliette Mossard (Nantes) Substitution at 70',Juliette Mossard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,293408,2025-10-04 05:15:03
+13623,752959,12,46056916,76,2,4200,70',0,0,Camille Robillard (Nantes) Substitution at 70',Camille Robillard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,344398,2025-10-04 05:15:03
+13623,752959,14,46057147,76,2,4560,76',0,0,Nora Håheim (Paris FC) Substitution at 76',Nora Håheim Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,411160,2025-10-04 05:15:03
+13623,752959,14,46057147,76,2,4560,76',0,0,Nora Håheim (Paris FC) Substitution at 76',Nora Håheim Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365579,2025-10-04 05:15:03
+13623,752959,15,46057199,76,2,4740,79',0,0,Julie Pasquereau (Nantes) Substitution at 79',Julie Pasquereau Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,347196,2025-10-04 05:15:03
+13623,752959,15,46057199,76,2,4740,79',0,0,Julie Pasquereau (Nantes) Substitution at 79',Julie Pasquereau Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,353007,2025-10-04 05:15:03
+13623,752959,16,46057271,76,2,4980,83',0,0,Océane Picard (Paris FC) Substitution at 83',Océane Picard Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365583,2025-10-04 05:15:03
+13623,752959,16,46057271,76,2,4980,83',0,0,Océane Picard (Paris FC) Substitution at 83',Océane Picard Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347142,2025-10-04 05:15:03
+13623,752959,17,46057325,70,2,5340,89',1,0,Camille Robillard (Nantes) Goal at 89',Camille Robillard Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,387600,2025-10-04 05:15:03
+13623,752960,1,46062403,76,1,900,15',0,0,Rose Kadzere (Montpellier) Substitution at 15',Rose Kadzere Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,394407,2025-10-05 05:22:38
+13623,752960,1,46062403,76,1,900,15',0,0,Rose Kadzere (Montpellier) Substitution at 15',Rose Kadzere Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,302284,2025-10-05 05:22:38
+13623,752960,2,46062872,94,1,2400,40',0,0,Eseosa Aigbogun (Strasbourg) Yellow Card at 40',Eseosa Aigbogun Yellow Card,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,220028,2025-10-05 05:22:38
+13623,752960,3,46063257,76,2,2700,45',0,0,Annaëlle Tchakounté (Strasbourg) Substitution at 45',Annaëlle Tchakounté Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,347125,2025-10-05 05:22:38
+13623,752960,3,46063257,76,2,2700,45',0,0,Annaëlle Tchakounté (Strasbourg) Substitution at 45',Annaëlle Tchakounté Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,373822,2025-10-05 05:22:38
+13623,752960,4,46063444,97,2,3000,50',1,0,Annaëlle Tchakounté (Strasbourg) Own Goal at 50',Annaëlle Tchakounté Own Goal,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,347125,2025-10-05 05:22:38
+13623,752960,5,46067972,94,2,3300,55',0,0,Soufiya Ngueleu (Montpellier) Yellow Card at 55',Soufiya Ngueleu Yellow Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,347255,2025-10-05 05:22:38
+13623,752960,6,46063827,76,2,3840,64',0,0,Murphy Agnew (Strasbourg) Substitution at 64',Murphy Agnew Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,354862,2025-10-05 05:22:38
+13623,752960,7,46063828,76,2,3840,64',0,0,Rosalie Chaine Rochette (Montpellier) Substitution at 64',Rosalie Chaine Rochette Substitu,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392524,2025-10-05 05:22:38
+13623,752960,7,46063828,76,2,3840,64',0,0,Rosalie Chaine Rochette (Montpellier) Substitution at 64',Rosalie Chaine Rochette Substitu,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347255,2025-10-05 05:22:38
+13623,752960,6,46063827,76,2,3840,64',0,0,Murphy Agnew (Strasbourg) Substitution at 64',Murphy Agnew Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,387576,2025-10-05 05:22:38
+13623,752960,8,46063860,76,2,3900,65',0,0,Ilona Koko (Montpellier) Substitution at 65',Ilona Koko Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,410433,2025-10-05 05:22:38
+13623,752960,8,46063860,76,2,3900,65',0,0,Ilona Koko (Montpellier) Substitution at 65',Ilona Koko Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,359691,2025-10-05 05:22:38
+13623,752960,9,46063894,94,2,3960,66',0,0,Sonia Ouchéne (Montpellier) Yellow Card at 66',Sonia Ouchéne Yellow Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,347116,2025-10-05 05:22:38
+13623,752960,10,46064205,70,2,4500,75',1,0,Judith Coquet (Montpellier) Goal at 75',Judith Coquet Goal,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,347127,2025-10-05 05:22:38
+13623,752960,11,46064286,76,2,4620,77',0,0,Ananée Yeboah (Strasbourg) Substitution at 77',Ananée Yeboah Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,358169,2025-10-05 05:22:38
+13623,752960,12,46064287,76,2,4620,77',0,0,Marième Babou (Strasbourg) Substitution at 77',Marième Babou Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,395796,2025-10-05 05:22:38
+13623,752960,12,46064287,76,2,4620,77',0,0,Marième Babou (Strasbourg) Substitution at 77',Marième Babou Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,220028,2025-10-05 05:22:38
+13623,752960,11,46064286,76,2,4620,77',0,0,Ananée Yeboah (Strasbourg) Substitution at 77',Ananée Yeboah Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,283723,2025-10-05 05:22:38
+13623,752960,13,46067933,94,2,5220,87',0,0,Ananée Yeboah (Strasbourg) Yellow Card at 87',Ananée Yeboah Yellow Card,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,358169,2025-10-05 05:22:38
+13623,752960,14,46064861,76,2,5280,88',0,0,Chiara Baylet (Montpellier) Substitution at 88',Chiara Baylet Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,411130,2025-10-05 05:22:38
+13623,752960,14,46064861,76,2,5280,88',0,0,Chiara Baylet (Montpellier) Substitution at 88',Chiara Baylet Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,394407,2025-10-05 05:22:38
+13623,752960,15,46064862,76,2,5340,89',0,0,Celia Chabod (Montpellier) Substitution at 89',Celia Chabod Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,362464,2025-10-05 05:22:38
+13623,752960,15,46064862,76,2,5340,89',0,0,Celia Chabod (Montpellier) Substitution at 89',Celia Chabod Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347127,2025-10-05 05:22:38
+13623,752960,17,46065029,94,2,5400,90'+6',0,0,Cyrielle Blanc (Montpellier) Yellow Card at 96',Cyrielle Blanc Yellow Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,347126,2025-10-05 05:22:38
+13623,752960,16,46064911,94,2,5400,90'+1',0,0,Justine Lerond (Montpellier) Yellow Card at 91',Justine Lerond Yellow Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,293409,2025-10-05 05:22:38
+13623,752960,18,46065100,94,2,5400,90'+8',0,0,Mama Diop (Strasbourg) Yellow Card at 98',Mama Diop Yellow Card,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,406619,2025-10-05 05:22:38
+13623,752961,1,46067161,70,1,2700,45'+1',1,0,Cindy Caputo (FC Fleury 91) Goal at 46',Cindy Caputo Goal,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,365570,2025-10-05 05:22:38
+13623,752961,2,46067649,76,2,3480,58',0,0,Jade Nassi (Le Havre AC) Substitution at 58',Jade Nassi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,369833,2025-10-05 05:22:38
+13623,752961,2,46067649,76,2,3480,58',0,0,Jade Nassi (Le Havre AC) Substitution at 58',Jade Nassi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,349920,2025-10-05 05:22:38
+13623,752961,3,46067650,76,2,3540,59',0,0,Mélinda Mendy (Le Havre AC) Substitution at 59',Mélinda Mendy Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,344400,2025-10-05 05:22:38
+13623,752961,3,46067650,76,2,3540,59',0,0,Mélinda Mendy (Le Havre AC) Substitution at 59',Mélinda Mendy Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,347208,2025-10-05 05:22:38
+13623,752961,4,46067680,94,2,3600,60',0,0,Celestine Boisard (Le Havre AC) Yellow Card at 60',Celestine Boisard Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,358629,2025-10-05 05:22:38
+13623,752961,5,46067714,174,2,3840,64',0,0,Aïssata Traoré (FC Fleury 91) Penalty - Saved at 64',Aïssata Traoré Penalty - Saved,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,347112,2025-10-05 05:22:38
+13623,752961,6,46067748,94,2,3900,65',0,0,Christy Gavory (Le Havre AC) Yellow Card at 65',Christy Gavory Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,350115,2025-10-05 05:22:38
+13623,752961,7,46067931,76,2,4620,77',0,0,Ikram Adjabi (Le Havre AC) Substitution at 77',Ikram Adjabi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,392343,2025-10-05 05:22:38
+13623,752961,7,46067931,76,2,4620,77',0,0,Ikram Adjabi (Le Havre AC) Substitution at 77',Ikram Adjabi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,350573,2025-10-05 05:22:38
+13623,752961,8,46068001,94,2,4920,82',0,0,Maïté Boucly (Le Havre AC) Yellow Card at 82',Maïté Boucly Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,365627,2025-10-07 05:28:29
+13623,752961,9,46068051,76,2,5220,87',0,0,Léna Goetsch (FC Fleury 91) Substitution at 87',Léna Goetsch Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,347095,2025-10-05 05:22:38
+13623,752961,9,46068051,76,2,5220,87',0,0,Léna Goetsch (FC Fleury 91) Substitution at 87',Léna Goetsch Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,365570,2025-10-05 05:22:38
+13623,752961,10,46068112,76,2,5400,90'+3',0,0,Hillary Diaz (FC Fleury 91) Substitution at 93',Hillary Diaz Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,349863,2025-10-05 05:22:38
+13623,752961,10,46068112,76,2,5400,90'+3',0,0,Hillary Diaz (FC Fleury 91) Substitution at 93',Hillary Diaz Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,281530,2025-10-05 05:22:38
+13623,752962,1,46065428,94,1,540,9',0,0,Tess Laplacette (Marseille) Yellow Card at 9',Tess Laplacette Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,347098,2025-10-05 05:22:38
+13623,752962,2,46065610,70,1,840,14',1,0,Mathilde Bourdieu (Marseille) Goal at 14',Mathilde Bourdieu Goal,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,347097,2025-10-05 05:22:38
+13623,752962,3,46065750,94,1,1020,17',0,0,Amandine Pierre-Louis (Saint-Étienne) Yellow Card at 17',Amandine Pierre-Louis Yellow Car,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,290257,2025-10-05 05:22:38
+13623,752962,6,46067467,76,2,2700,45',0,0,Sarah Cambot (Saint-Étienne) Substitution at 45',Sarah Cambot Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,347165,2025-10-05 05:22:38
+13623,752962,5,46067360,76,2,2700,45',0,0,Nikolina Istocki (Saint-Étienne) Substitution at 45',Nikolina Istocki Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,347894,2025-10-05 05:22:38
+13623,752962,4,46066828,70,1,2700,45',1,0,Melissa Herrera (Marseille) Goal at 45',Melissa Herrera Goal,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,219880,2025-10-05 05:22:38
+13623,752962,5,46067360,76,2,2700,45',0,0,Nikolina Istocki (Saint-Étienne) Substitution at 45',Nikolina Istocki Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,359278,2025-10-05 05:22:38
+13623,752962,6,46067467,76,2,2700,45',0,0,Sarah Cambot (Saint-Étienne) Substitution at 45',Sarah Cambot Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,365599,2025-10-05 05:22:38
+13623,752962,7,46067404,70,2,2880,48',1,0,Melissa Herrera (Marseille) Goal at 48',Melissa Herrera Goal,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,219880,2025-10-05 05:22:38
+13623,752962,9,46067608,76,2,3540,59',0,0,Laura Munk Hermann (Saint-Étienne) Substitution at 59',Laura Munk Hermann Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,315075,2025-10-05 05:22:38
+13623,752962,8,46067602,76,2,3540,59',0,0,Héloïse Mansuy (Saint-Étienne) Substitution at 59',Héloïse Mansuy Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,347093,2025-10-05 05:22:38
+13623,752962,9,46067608,76,2,3540,59',0,0,Laura Munk Hermann (Saint-Étienne) Substitution at 59',Laura Munk Hermann Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,248728,2025-10-05 05:22:38
+13623,752962,8,46067602,76,2,3540,59',0,0,Héloïse Mansuy (Saint-Étienne) Substitution at 59',Héloïse Mansuy Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,290257,2025-10-05 05:22:38
+13623,752962,10,46067713,76,2,3960,66',0,0,Jody Brown (Marseille) Substitution at 66',Jody Brown Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,281645,2025-10-05 05:22:38
+13623,752962,10,46067713,76,2,3960,66',0,0,Jody Brown (Marseille) Substitution at 66',Jody Brown Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,365629,2025-10-05 05:22:38
+13623,752962,11,46067787,94,2,4140,69',0,0,Ninon Blanchard (Marseille) Yellow Card at 69',Ninon Blanchard Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,365576,2025-10-05 05:22:38
+13623,752962,12,46067848,94,2,4320,72',0,0,Jody Brown (Marseille) Yellow Card at 72',Jody Brown Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,281645,2025-10-05 05:22:38
+13623,752962,13,46067884,76,2,4560,76',0,0,Ina Kristoffersen (Saint-Étienne) Substitution at 76',Ina Kristoffersen Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,409769,2025-10-05 05:22:38
+13623,752962,13,46067884,76,2,4560,76',0,0,Ina Kristoffersen (Saint-Étienne) Substitution at 76',Ina Kristoffersen Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,347093,2025-10-05 05:22:38
+13623,752962,14,46067946,70,2,4800,80',1,0,Mathilde Bourdieu (Marseille) Goal at 80',Mathilde Bourdieu Goal,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,347097,2025-10-05 05:22:38
+13623,752962,15,46067960,76,2,4860,81',0,0,Jenny Perret (Marseille) Substitution at 81',Jenny Perret Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,407457,2025-10-05 05:22:38
+13623,752962,15,46067960,76,2,4860,81',0,0,Jenny Perret (Marseille) Substitution at 81',Jenny Perret Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,347098,2025-10-05 05:22:38
+13623,752962,16,46068036,94,2,5220,87',0,0,Déborah Bien-Aimé (Saint-Étienne) Yellow Card at 87',Déborah Bien-Aimé Yellow Card,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,364500,2025-10-05 05:22:38
+13623,752962,17,46068071,76,2,5400,90'+3',0,0,Maudeline Moryl (Marseille) Substitution at 93',Maudeline Moryl Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,340417,2025-10-05 05:22:38
+13623,752962,18,46068088,76,2,5400,90'+3',0,0,Tabita Joseph (Marseille) Substitution at 93',Tabita Joseph Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,340414,2025-10-05 05:22:38
+13623,752962,17,46068071,76,2,5400,90'+3',0,0,Maudeline Moryl (Marseille) Substitution at 93',Maudeline Moryl Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,347117,2025-10-05 05:22:38
+13623,752962,18,46068088,76,2,5400,90'+3',0,0,Tabita Joseph (Marseille) Substitution at 93',Tabita Joseph Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,365576,2025-10-05 05:22:38
+13623,752963,1,46164481,94,1,60,1',0,0,Roselène Khezami (Marseille) Yellow Card at 1',Roselène Khezami Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,406715,2025-10-19 05:22:01
+13623,752963,2,46165588,70,1,1560,26',1,0,Anaële Le Moguédec (Paris FC) Goal at 26',Anaële Le Moguédec Goal,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365611,2025-10-19 05:22:01
+13623,752963,3,46165808,70,1,1860,31',1,0,Clara Mateo (Paris FC) Goal at 31',Clara Mateo Goal,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,279182,2025-10-19 05:22:01
+13623,752963,4,46167049,76,2,2700,45',0,0,Teninsoun Sissoko (Paris FC) Substitution at 45',Teninsoun Sissoko Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365593,2025-10-19 05:22:01
+13623,752963,4,46167049,76,2,2700,45',0,0,Teninsoun Sissoko (Paris FC) Substitution at 45',Teninsoun Sissoko Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347111,2025-10-19 05:22:01
+13623,752963,6,46167094,98,2,3060,51',1,0,Maëlle Garbino (Paris FC) Penalty - Scored at 51',Maëlle Garbino Penalty - Scored,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,347142,2025-10-19 05:22:01
+13623,752963,5,46167093,94,2,3060,51',0,0,Melissa Herrera (Marseille) Yellow Card at 51',Melissa Herrera Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,219880,2025-10-19 05:22:01
+13623,752963,7,46167126,70,2,3180,53',1,0,Melissa Herrera (Marseille) Goal at 53',Melissa Herrera Goal,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,219880,2025-10-19 05:22:01
+13623,752963,8,46167174,70,2,3600,60',1,0,Daphne Corboz (Paris FC) Goal at 60',Daphne Corboz Goal,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,270055,2025-10-19 05:22:01
+13623,752963,9,46167201,76,2,3840,64',0,0,Océane Picard (Paris FC) Substitution at 64',Océane Picard Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365583,2025-10-19 05:22:01
+13623,752963,10,46167209,76,2,3840,64',0,0,Lou Bogaert (Paris FC) Substitution at 64',Lou Bogaert Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,347907,2025-10-19 05:22:01
+13623,752963,10,46167209,76,2,3840,64',0,0,Lou Bogaert (Paris FC) Substitution at 64',Lou Bogaert Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347123,2025-10-19 05:22:01
+13623,752963,9,46167201,76,2,3840,64',0,0,Océane Picard (Paris FC) Substitution at 64',Océane Picard Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,270055,2025-10-19 05:22:01
+13623,752963,12,46167211,76,2,3900,65',0,0,Jenny Perret (Marseille) Substitution at 65',Jenny Perret Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,407457,2025-10-19 05:22:01
+13623,752963,11,46167210,76,2,3900,65',0,0,Maudeline Moryl (Marseille) Substitution at 65',Maudeline Moryl Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,340417,2025-10-19 05:22:01
+13623,752963,12,46167211,76,2,3900,65',0,0,Jenny Perret (Marseille) Substitution at 65',Jenny Perret Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,347167,2025-10-19 05:22:01
+13623,752963,11,46167210,76,2,3900,65',0,0,Maudeline Moryl (Marseille) Substitution at 65',Maudeline Moryl Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,406715,2025-10-19 05:22:01
+13623,752963,13,46167231,76,2,3960,66',0,0,Naomie Bamenga (Marseille) Substitution at 66',Naomie Bamenga Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,365629,2025-10-19 05:22:01
+13623,752963,13,46167231,76,2,3960,66',0,0,Naomie Bamenga (Marseille) Substitution at 66',Naomie Bamenga Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,281645,2025-10-19 05:22:01
+13623,752963,14,46167286,94,2,4380,73',0,0,Anaële Le Moguédec (Paris FC) Yellow Card at 73',Anaële Le Moguédec Yellow Card,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365611,2025-10-19 05:22:01
+13623,752963,15,46167303,70,2,4440,74',1,0,Anaële Le Moguédec (Paris FC) Goal at 74',Anaële Le Moguédec Goal,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365611,2025-10-19 05:22:01
+13623,752963,16,46167323,76,2,4500,75',0,0,Klaudia Jedlinska (Paris FC) Substitution at 75',Klaudia Jedlinska Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,317915,2025-10-19 05:22:01
+13623,752963,16,46167323,76,2,4500,75',0,0,Klaudia Jedlinska (Paris FC) Substitution at 75',Klaudia Jedlinska Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365579,2025-10-19 05:22:01
+13623,752963,17,46167442,76,2,4800,80',0,0,Nora Håheim (Paris FC) Substitution at 80',Nora Håheim Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,411160,2025-10-19 05:22:01
+13623,752963,17,46167442,76,2,4800,80',0,0,Nora Håheim (Paris FC) Substitution at 80',Nora Håheim Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365611,2025-10-19 05:22:01
+13623,752963,18,46167469,76,2,4980,83',0,0,Tabita Joseph (Marseille) Substitution at 83',Tabita Joseph Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,340414,2025-10-19 05:22:01
+13623,752963,18,46167469,76,2,4980,83',0,0,Tabita Joseph (Marseille) Substitution at 83',Tabita Joseph Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,349852,2025-10-19 05:22:01
+13623,752963,19,46167515,70,2,5100,85',1,0,Maëlle Garbino (Paris FC) Goal at 85',Maëlle Garbino Goal,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,347142,2025-10-19 05:22:01
+13623,752964,1,46165448,94,1,1380,23',0,0,Léna Goetsch (FC Fleury 91) Yellow Card at 23',Léna Goetsch Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,347095,2025-10-19 05:22:01
+13623,752964,2,46165482,70,1,1440,24',1,0,Ewelina Kamczyk (FC Fleury 91) Goal at 24',Ewelina Kamczyk Goal,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,282878,2025-10-19 05:22:01
+13623,752964,3,46167013,76,2,2700,45',0,0,Margaux Vairon (Dijon) Substitution at 45',Margaux Vairon Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,349917,2025-10-19 05:22:01
+13623,752964,3,46167013,76,2,2700,45',0,0,Margaux Vairon (Dijon) Substitution at 45',Margaux Vairon Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,343757,2025-10-19 05:22:01
+13623,752964,4,46167051,94,2,3060,51',0,0,Wu Chengshu (Dijon) Yellow Card at 51',Wu Chengshu Yellow Card,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,287923,2025-10-19 05:22:01
+13623,752964,5,46167125,70,2,3420,57',1,0,Wang Yanwen (Dijon) Goal at 57',Wang Yanwen Goal,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,321342,2025-10-19 05:22:01
+13623,752964,6,46167169,94,2,3720,62',0,0,Charlotte Fernandes (FC Fleury 91) Yellow Card at 62',Charlotte Fernandes Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,347149,2025-10-19 05:22:01
+13623,752964,7,46167221,76,2,4200,70',0,0,Shana Chossenotte (FC Fleury 91) Substitution at 70',Shana Chossenotte Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,344373,2025-10-19 05:22:01
+13623,752964,7,46167221,76,2,4200,70',0,0,Shana Chossenotte (FC Fleury 91) Substitution at 70',Shana Chossenotte Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,281530,2025-10-19 05:22:01
+13623,752964,8,46167246,94,2,4260,71',0,0,Wang Yanwen (Dijon) Yellow Card at 71',Wang Yanwen Yellow Card,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,321342,2025-10-19 05:22:01
+13623,752964,10,46167363,76,2,4740,79',0,0,Airine Fontaine (Dijon) Substitution at 79',Airine Fontaine Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,347213,2025-10-19 05:22:01
+13623,752964,9,46167342,76,2,4740,79',0,0,Oliwia Domin (Dijon) Substitution at 79',Oliwia Domin Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,380829,2025-10-19 05:22:01
+13623,752964,9,46167342,76,2,4740,79',0,0,Oliwia Domin (Dijon) Substitution at 79',Oliwia Domin Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,321342,2025-10-19 05:22:01
+13623,752964,10,46167363,76,2,4740,79',0,0,Airine Fontaine (Dijon) Substitution at 79',Airine Fontaine Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,287923,2025-10-19 05:22:01
+13623,752964,11,46167459,76,2,5100,85',0,0,Lourdjina Étienne (FC Fleury 91) Substitution at 85',Lourdjina Étienne Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,407578,2025-10-19 05:22:01
+13623,752964,11,46167459,76,2,5100,85',0,0,Lourdjina Étienne (FC Fleury 91) Substitution at 85',Lourdjina Étienne Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,347239,2025-10-19 05:22:01
+13623,752964,12,46167513,76,2,5280,88',0,0,Lina Gay (Dijon) Substitution at 88',Lina Gay Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,362465,2025-10-19 05:22:01
+13623,752964,13,46167514,76,2,5280,88',0,0,Kyah Simon (Dijon) Substitution at 88',Kyah Simon Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,158690,2025-10-19 05:22:01
+13623,752964,12,46167513,76,2,5280,88',0,0,Lina Gay (Dijon) Substitution at 88',Lina Gay Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,320163,2025-10-19 05:22:01
+13623,752964,13,46167514,76,2,5280,88',0,0,Kyah Simon (Dijon) Substitution at 88',Kyah Simon Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,380828,2025-10-19 05:22:01
+13623,752964,14,46167619,94,2,5400,90'+4',0,0,Léa Declercq (Dijon) Yellow Card at 94',Léa Declercq Yellow Card,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,347080,2025-10-19 05:22:01
+13623,752965,1,46169592,70,1,420,7',1,0,Korbin Shrader (OL Lyonnes) Goal at 7',Korbin Shrader Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,327417,2025-10-19 05:22:01
+13623,752965,2,46169648,70,1,600,10',1,0,Marie-Antoinette Katoto (OL Lyonnes) Goal at 10',Marie-Antoinette Katoto Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,283094,2025-10-19 05:22:01
+13623,752965,3,46169987,94,1,1500,25',0,0,Julie Swierot (Nantes) Yellow Card at 25',Julie Swierot Yellow Card,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,370011,2025-10-19 05:22:01
+13623,752965,4,46170016,98,1,1620,27',1,0,Wendie Renard (OL Lyonnes) Penalty - Scored at 27',Wendie Renard Penalty - Scored,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,158816,2025-10-19 05:22:01
+13623,752965,5,46170135,70,1,2100,35',1,0,Tabitha Chawinga (OL Lyonnes) Goal at 35',Tabitha Chawinga Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,373811,2025-10-19 05:22:01
+13623,752965,6,46170253,94,1,2580,43',0,0,Lucie Calba (Nantes) Yellow Card at 43',Lucie Calba Yellow Card,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,344398,2025-10-19 05:22:01
+13623,752965,8,46170608,76,2,2700,45',0,0,Mariam Toloba (Nantes) Substitution at 45',Mariam Toloba Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,366681,2025-10-19 05:22:01
+13623,752965,7,46170607,76,2,2700,45',0,0,Roseline Éloissaint (Nantes) Substitution at 45',Roseline Éloissaint Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,302281,2025-10-19 05:22:01
+13623,752965,7,46170607,76,2,2700,45',0,0,Roseline Éloissaint (Nantes) Substitution at 45',Roseline Éloissaint Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,293408,2025-10-19 05:22:01
+13623,752965,8,46170608,76,2,2700,45',0,0,Mariam Toloba (Nantes) Substitution at 45',Mariam Toloba Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,344398,2025-10-19 05:22:01
+13623,752965,9,46170699,70,2,3000,50',1,0,Roseline Éloissaint (Nantes) Goal at 50',Roseline Éloissaint Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,302281,2025-10-19 05:22:01
+13623,752965,10,46170884,70,2,3420,57',1,0,Kadidiatou Diani (OL Lyonnes) Goal at 57',Kadidiatou Diani Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,219121,2025-10-19 05:22:01
+13623,752965,12,46171080,76,2,4020,67',0,0,Jule Brand (OL Lyonnes) Substitution at 67',Jule Brand Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,317719,2025-10-19 05:22:01
+13623,752965,11,46171079,76,2,4020,67',0,0,Ada Hegerberg (OL Lyonnes) Substitution at 67',Ada Hegerberg Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,188067,2025-10-19 05:22:01
+13623,752965,13,46171146,76,2,4020,67',0,0,Damaris Egurrola (OL Lyonnes) Substitution at 67',Damaris Egurrola Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,288448,2025-10-19 05:22:01
+13623,752965,13,46171146,76,2,4020,67',0,0,Damaris Egurrola (OL Lyonnes) Substitution at 67',Damaris Egurrola Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,228716,2025-10-19 05:22:01
+13623,752965,11,46171079,76,2,4020,67',0,0,Ada Hegerberg (OL Lyonnes) Substitution at 67',Ada Hegerberg Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,283094,2025-10-19 05:22:01
+13623,752965,12,46171080,76,2,4020,67',0,0,Jule Brand (OL Lyonnes) Substitution at 67',Jule Brand Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,373811,2025-10-19 05:22:01
+13623,752965,14,46171081,76,2,4080,68',0,0,Lily Yohannes (OL Lyonnes) Substitution at 68',Lily Yohannes Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,369801,2025-10-19 05:22:01
+13623,752965,14,46171081,76,2,4080,68',0,0,Lily Yohannes (OL Lyonnes) Substitution at 68',Lily Yohannes Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,327417,2025-10-19 05:22:01
+13623,752965,15,46171174,76,2,4260,71',0,0,Eva Sumo (Nantes) Substitution at 71',Eva Sumo Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,347231,2025-10-19 05:22:01
+13623,752965,15,46171174,76,2,4260,71',0,0,Eva Sumo (Nantes) Substitution at 71',Eva Sumo Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,370011,2025-10-19 05:22:01
+13623,752965,16,46171175,76,2,4320,72',0,0,Julie Machart-Rabanne (Nantes) Substitution at 72',Julie Machart-Rabanne Substituti,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,370871,2025-10-19 05:22:01
+13623,752965,16,46171175,76,2,4320,72',0,0,Julie Machart-Rabanne (Nantes) Substitution at 72',Julie Machart-Rabanne Substituti,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,263901,2025-10-19 05:22:01
+13623,752965,17,46171323,76,2,4560,76',0,0,Vicki Bècho (OL Lyonnes) Substitution at 76',Vicki Bècho Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,311191,2025-10-19 05:22:01
+13623,752965,17,46171323,76,2,4560,76',0,0,Vicki Bècho (OL Lyonnes) Substitution at 76',Vicki Bècho Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,219121,2025-10-19 05:22:01
+13623,752965,18,46171392,94,2,4740,79',0,0,Eva Sumo (Nantes) Yellow Card at 79',Eva Sumo Yellow Card,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,347231,2025-10-19 05:22:01
+13623,752965,19,46171430,76,2,4860,81',0,0,Juliette Mossard (Nantes) Substitution at 81',Juliette Mossard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,344388,2025-10-19 05:22:01
+13623,752965,19,46171430,76,2,4860,81',0,0,Juliette Mossard (Nantes) Substitution at 81',Juliette Mossard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,302281,2025-10-19 05:22:01
+13623,752965,20,46171598,70,2,5340,89',1,0,Tarciane  (OL Lyonnes) Goal at 89',Tarciane  Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,351655,2025-10-19 05:22:01
+13623,752965,21,46171633,94,2,5400,90'+2',0,0,Melissa Bethi (Nantes) Yellow Card at 92',Melissa Bethi Yellow Card,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,353007,2025-10-19 05:22:01
+13623,752966,1,46181015,76,2,3660,61',0,0,Merveille Kanjinga (Paris Saint-Germain) Substitution at 61',Merveille Kanjinga Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,399707,2025-10-20 05:22:27
+13623,752966,1,46181015,76,2,3660,61',0,0,Merveille Kanjinga (Paris Saint-Germain) Substitution at 61',Merveille Kanjinga Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,296481,2025-10-20 05:22:27
+13623,752966,2,46181016,76,2,3720,62',0,0,Olga Carmona (Paris Saint-Germain) Substitution at 62',Olga Carmona Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,317946,2025-10-20 05:22:27
+13623,752966,2,46181016,76,2,3720,62',0,0,Olga Carmona (Paris Saint-Germain) Substitution at 62',Olga Carmona Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,344401,2025-10-20 05:22:27
+13623,752966,3,46181102,70,2,3900,65',1,0,Merveille Kanjinga (Paris Saint-Germain) Goal at 65',Merveille Kanjinga Goal,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,399707,2025-10-20 05:22:27
+13623,752966,4,46181181,76,2,4200,70',0,0,Grâce Kazadi (Strasbourg) Substitution at 70',Grâce Kazadi Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,311210,2025-10-20 05:22:27
+13623,752966,4,46181181,76,2,4200,70',0,0,Grâce Kazadi (Strasbourg) Substitution at 70',Grâce Kazadi Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,330663,2025-10-20 05:22:27
+13623,752966,6,46181304,76,2,4260,71',0,0,Ananée Yeboah (Strasbourg) Substitution at 71',Ananée Yeboah Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,358169,2025-10-20 05:22:27
+13623,752966,5,46181209,76,2,4260,71',0,0,Laurine Hannequin (Strasbourg) Substitution at 71',Laurine Hannequin Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,387577,2025-10-20 05:22:27
+13623,752966,5,46181209,76,2,4260,71',0,0,Laurine Hannequin (Strasbourg) Substitution at 71',Laurine Hannequin Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,349845,2025-10-20 05:22:27
+13623,752966,6,46181304,76,2,4260,71',0,0,Ananée Yeboah (Strasbourg) Substitution at 71',Ananée Yeboah Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,395796,2025-10-20 05:22:27
+13623,752966,7,46181275,76,2,4620,77',0,0,Anaïs Ebayilin (Paris Saint-Germain) Substitution at 77',Anaïs Ebayilin Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,380029,2025-10-20 05:22:27
+13623,752966,7,46181275,76,2,4620,77',0,0,Anaïs Ebayilin (Paris Saint-Germain) Substitution at 77',Anaïs Ebayilin Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,368733,2025-10-20 05:22:27
+13623,752966,8,46181317,94,2,4800,80',0,0,Anaïs Ebayilin (Paris Saint-Germain) Yellow Card at 80',Anaïs Ebayilin Yellow Card,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,380029,2025-10-20 05:22:27
+13623,752966,9,46181414,76,2,5220,87',0,0,Clémence Mairot (Strasbourg) Substitution at 87',Clémence Mairot Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,387605,2025-10-20 05:22:27
+13623,752966,9,46181414,76,2,5220,87',0,0,Clémence Mairot (Strasbourg) Substitution at 87',Clémence Mairot Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,387576,2025-10-20 05:22:27
+13623,752966,10,46181465,76,2,5400,90',0,0,Ornella Graziani (Paris Saint-Germain) Substitution at 90',Ornella Graziani Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,392530,2025-10-20 05:22:27
+13623,752966,11,46181559,94,2,5400,90'+5',0,0,Rasheedat Ajibade (Paris Saint-Germain) Yellow Card at 95',Rasheedat Ajibade Yellow Card,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,284186,2025-10-20 05:22:27
+13623,752966,10,46181465,76,2,5400,90',0,0,Ornella Graziani (Paris Saint-Germain) Substitution at 90',Ornella Graziani Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,292902,2025-10-20 05:22:27
+13623,752967,1,46165135,70,1,1080,18',1,0,Sonia Ouchéne (Montpellier) Goal at 18',Sonia Ouchéne Goal,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,347116,2025-10-19 05:22:01
+13623,752967,2,46166194,70,1,2280,38',1,0,Rose Kadzere (Montpellier) Goal at 38',Rose Kadzere Goal,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,394407,2025-10-19 05:22:01
+13623,752967,3,46166377,94,1,2520,42',0,0,Judith Coquet (Montpellier) Yellow Card at 42',Judith Coquet Yellow Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,347127,2025-10-19 05:22:01
+13623,752967,6,46167204,76,2,2700,45',0,0,Noemie Vagre (Lens) Substitution at 45',Noemie Vagre Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,295682,2025-10-19 05:22:01
+13623,752967,5,46167109,76,2,2700,45',0,0,Dayana Pierre-Louis (Lens) Substitution at 45',Dayana Pierre-Louis Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,340423,2025-10-19 05:22:01
+13623,752967,4,46167092,76,2,2700,45',0,0,Laurine Pinot (Lens) Substitution at 45',Laurine Pinot Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,347182,2025-10-19 05:22:01
+13623,752967,4,46167092,76,2,2700,45',0,0,Laurine Pinot (Lens) Substitution at 45',Laurine Pinot Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,365573,2025-10-19 05:22:01
+13623,752967,6,46167204,76,2,2700,45',0,0,Noemie Vagre (Lens) Substitution at 45',Noemie Vagre Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,407442,2025-10-19 05:22:01
+13623,752967,5,46167109,76,2,2700,45',0,0,Dayana Pierre-Louis (Lens) Substitution at 45',Dayana Pierre-Louis Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,407461,2025-10-19 05:22:01
+13623,752967,7,46167138,76,2,3180,53',0,0,Justine Rouquet (Montpellier) Substitution at 53',Justine Rouquet Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392525,2025-10-19 05:22:01
+13623,752967,7,46167138,76,2,3180,53',0,0,Justine Rouquet (Montpellier) Substitution at 53',Justine Rouquet Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,411130,2025-10-19 05:22:01
+13623,752967,8,46167183,70,2,3720,62',1,0,Justine Rouquet (Montpellier) Goal at 62',Justine Rouquet Goal,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392525,2025-10-19 05:22:01
+13623,752967,9,46167233,94,2,3960,66',0,0,Jennyfer Limage (Lens) Yellow Card at 66',Jennyfer Limage Yellow Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,227397,2025-10-19 05:22:01
+13623,752967,11,46167263,76,2,4260,71',0,0,Ilona Koko (Montpellier) Substitution at 71',Ilona Koko Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,410433,2025-10-19 05:22:01
+13623,752967,12,46167276,76,2,4260,71',0,0,Agathe Felden (Montpellier) Substitution at 71',Agathe Felden Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,344391,2025-10-19 05:22:01
+13623,752967,10,46167262,76,2,4260,71',0,0,Elisa Rambaud (Montpellier) Substitution at 71',Elisa Rambaud Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,359691,2025-10-19 05:22:01
+13623,752967,10,46167262,76,2,4260,71',0,0,Elisa Rambaud (Montpellier) Substitution at 71',Elisa Rambaud Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,394407,2025-10-19 05:22:01
+13623,752967,11,46167263,76,2,4260,71',0,0,Ilona Koko (Montpellier) Substitution at 71',Ilona Koko Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347255,2025-10-19 05:22:01
+13623,752967,12,46167276,76,2,4260,71',0,0,Agathe Felden (Montpellier) Substitution at 71',Agathe Felden Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347197,2025-10-19 05:22:01
+13623,752967,13,46167296,76,2,4380,73',0,0,Tess David (Lens) Substitution at 73',Tess David Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,407445,2025-10-19 05:22:01
+13623,752967,14,46167297,76,2,4380,73',0,0,Alizée Mereau (Lens) Substitution at 73',Alizée Mereau Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,410370,2025-10-19 05:22:01
+13623,752967,13,46167296,76,2,4380,73',0,0,Tess David (Lens) Substitution at 73',Tess David Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,227358,2025-10-19 05:22:01
+13623,752967,14,46167297,76,2,4380,73',0,0,Alizée Mereau (Lens) Substitution at 73',Alizée Mereau Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,340423,2025-10-19 05:22:01
+13623,752967,15,46167313,94,2,4440,74',0,0,Louann Archier (Lens) Yellow Card at 74',Louann Archier Yellow Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,370974,2025-10-19 05:22:01
+13623,752967,16,46167498,76,2,5100,85',0,0,Celia Chabod (Montpellier) Substitution at 85',Celia Chabod Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,362464,2025-10-19 05:22:01
+13623,752967,16,46167498,76,2,5100,85',0,0,Celia Chabod (Montpellier) Substitution at 85',Celia Chabod Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347127,2025-10-19 05:22:01
+13623,752967,18,46167658,94,2,5400,90'+4',0,0,Manon Revelli (Lens) Yellow Card at 94',Manon Revelli Yellow Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,311232,2025-10-19 05:22:01
+13623,752967,17,46167637,70,2,5400,90'+3',1,0,Noemie Vagre (Lens) Goal at 93',Noemie Vagre Goal,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,295682,2025-10-19 05:22:01
+13623,752968,1,46156987,94,1,1920,32',0,0,Sarah Cambot (Saint-Étienne) Yellow Card at 32',Sarah Cambot Yellow Card,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,347165,2025-10-18 05:22:28
+13623,752968,2,46157070,94,1,2340,39',0,0,Marion Romanelli (Saint-Étienne) Yellow Card at 39',Marion Romanelli Yellow Card,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,367869,2025-10-18 05:22:28
+13623,752968,3,46157300,93,2,2820,47',0,0,Marion Romanelli (Saint-Étienne) Red Card at 47',Marion Romanelli Red Card,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,367869,2025-10-18 05:22:28
+13623,752968,4,46157373,76,2,3240,54',0,0,Amandine Pierre-Louis (Saint-Étienne) Substitution at 54',Amandine Pierre-Louis Substituti,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,290257,2025-10-18 05:22:28
+13623,752968,4,46157373,76,2,3240,54',0,0,Amandine Pierre-Louis (Saint-Étienne) Substitution at 54',Amandine Pierre-Louis Substituti,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,315075,2025-10-18 05:22:28
+13623,752968,5,46157501,76,2,3900,65',0,0,Alex Lamontagne (Saint-Étienne) Substitution at 65',Alex Lamontagne Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,209173,2025-10-18 05:22:28
+13623,752968,5,46157501,76,2,3900,65',0,0,Alex Lamontagne (Saint-Étienne) Substitution at 65',Alex Lamontagne Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,347251,2025-10-18 05:22:28
+13623,752968,6,46157535,76,2,4080,68',0,0,Mélinda Mendy (Le Havre AC) Substitution at 68',Mélinda Mendy Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,344400,2025-10-18 05:22:28
+13623,752968,6,46157535,76,2,4080,68',0,0,Mélinda Mendy (Le Havre AC) Substitution at 68',Mélinda Mendy Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,392510,2025-10-18 05:22:28
+13623,752968,7,46157570,76,2,4440,74',0,0,Ikram Adjabi (Le Havre AC) Substitution at 74',Ikram Adjabi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,392343,2025-10-18 05:22:28
+13623,752968,7,46157570,76,2,4440,74',0,0,Ikram Adjabi (Le Havre AC) Substitution at 74',Ikram Adjabi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,349920,2025-10-18 05:22:28
+13623,752968,8,46157601,76,2,4680,78',0,0,Rachel Corboz (Saint-Étienne) Substitution at 78',Rachel Corboz Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,248728,2025-10-18 05:22:28
+13623,752968,9,46157602,76,2,4680,78',0,0,Déborah Bien-Aimé (Saint-Étienne) Substitution at 78',Déborah Bien-Aimé Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,364500,2025-10-18 05:22:28
+13623,752968,8,46157601,76,2,4680,78',0,0,Rachel Corboz (Saint-Étienne) Substitution at 78',Rachel Corboz Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,365599,2025-10-18 05:22:28
+13623,752968,9,46157602,76,2,4680,78',0,0,Déborah Bien-Aimé (Saint-Étienne) Substitution at 78',Déborah Bien-Aimé Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,404589,2025-10-18 05:22:28
+13623,752968,11,46157671,76,2,5400,90'+1',0,0,Esther Mbakem-Niaro (Le Havre AC) Substitution at 91',Esther Mbakem-Niaro Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,347121,2025-10-18 05:22:28
+13623,752968,13,46157696,94,2,5400,90'+5',0,0,Nadjma Ali Nadjma (Saint-Étienne) Yellow Card at 95',Nadjma Ali Nadjma Yellow Card,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,268334,2025-10-18 05:22:28
+13623,752968,10,46157670,94,2,5400,90',0,0,Amandine Pierre-Louis (Saint-Étienne) Yellow Card at 90',Amandine Pierre-Louis Yellow Car,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,290257,2025-10-18 05:22:28
+13623,752968,12,46157678,76,2,5400,90'+1',0,0,Magnaba Folquet (Le Havre AC) Substitution at 91',Magnaba Folquet Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,316715,2025-10-18 05:22:28
+13623,752968,11,46157671,76,2,5400,90'+1',0,0,Esther Mbakem-Niaro (Le Havre AC) Substitution at 91',Esther Mbakem-Niaro Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,347177,2025-10-18 05:22:28
+13623,752968,12,46157678,76,2,5400,90'+1',0,0,Magnaba Folquet (Le Havre AC) Substitution at 91',Magnaba Folquet Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,347110,2025-10-18 05:22:28
+13623,752969,1,46292862,70,1,660,11',1,0,Romée Leuchter (Paris Saint-Germain) Goal at 11',Romée Leuchter Goal,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,309944,2025-11-02 05:17:50
+13623,752969,2,46293401,98,1,1320,22',1,0,Romée Leuchter (Paris Saint-Germain) Penalty - Scored at 22',Romée Leuchter Penalty - Scored,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,309944,2025-11-02 05:17:50
+13623,752969,3,46294367,94,1,2400,40',0,0,Maïté Boucly (Le Havre AC) Yellow Card at 40',Maïté Boucly Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,365627,2025-11-02 05:17:50
+13623,752969,4,46295453,76,2,2700,45',0,0,Madeline Roth (Le Havre AC) Substitution at 45',Madeline Roth Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,349920,2025-11-02 05:17:50
+13623,752969,6,46295476,76,2,2700,45',0,0,Chancelle Effa (Le Havre AC) Substitution at 45',Chancelle Effa Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,350573,2025-11-02 05:17:50
+13623,752969,5,46295475,76,2,2700,45',0,0,Florianne Jourde (Paris Saint-Germain) Substitution at 45',Florianne Jourde Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,368733,2025-11-02 05:17:50
+13623,752969,6,46295476,76,2,2700,45',0,0,Chancelle Effa (Le Havre AC) Substitution at 45',Chancelle Effa Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,347121,2025-11-02 05:17:50
+13623,752969,5,46295475,76,2,2700,45',0,0,Florianne Jourde (Paris Saint-Germain) Substitution at 45',Florianne Jourde Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,392530,2025-11-02 05:17:50
+13623,752969,4,46295453,76,2,2700,45',0,0,Madeline Roth (Le Havre AC) Substitution at 45',Madeline Roth Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,316715,2025-11-02 05:17:50
+13623,752969,8,46295704,76,2,3660,61',0,0,Tara Elimbi (Paris Saint-Germain) Substitution at 61',Tara Elimbi Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,344401,2025-11-02 05:17:50
+13623,752969,7,46295689,76,2,3660,61',0,0,Jackie Groenen (Paris Saint-Germain) Substitution at 61',Jackie Groenen Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,235658,2025-11-02 05:17:50
+13623,752969,7,46295689,76,2,3660,61',0,0,Jackie Groenen (Paris Saint-Germain) Substitution at 61',Jackie Groenen Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,296481,2025-11-02 05:17:50
+13623,752969,8,46295704,76,2,3660,61',0,0,Tara Elimbi (Paris Saint-Germain) Substitution at 61',Tara Elimbi Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,317946,2025-11-02 05:17:50
+13623,752969,9,46295719,76,2,3840,64',0,0,Emmy Lefevre (Le Havre AC) Substitution at 64',Emmy Lefevre Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,392510,2025-11-02 05:17:50
+13623,752969,10,46295759,76,2,3840,64',0,0,Sarah Kassi (Le Havre AC) Substitution at 64',Sarah Kassi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,347208,2025-11-02 05:17:50
+13623,752969,9,46295719,76,2,3840,64',0,0,Emmy Lefevre (Le Havre AC) Substitution at 64',Emmy Lefevre Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,336427,2025-11-02 05:17:50
+13623,752969,10,46295759,76,2,3840,64',0,0,Sarah Kassi (Le Havre AC) Substitution at 64',Sarah Kassi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,369833,2025-11-02 05:17:50
+13623,752969,11,46295900,76,2,4380,73',0,0,Merveille Kanjinga (Paris Saint-Germain) Substitution at 73',Merveille Kanjinga Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,399707,2025-11-02 05:17:50
+13623,752969,11,46295900,76,2,4380,73',0,0,Merveille Kanjinga (Paris Saint-Germain) Substitution at 73',Merveille Kanjinga Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,292902,2025-11-02 05:17:50
+13623,752969,13,46296114,76,2,5040,84',0,0,Ikram Adjabi (Le Havre AC) Substitution at 84',Ikram Adjabi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,392343,2025-11-02 05:17:50
+13623,752969,12,46296084,76,2,5040,84',0,0,Frøya Brennskag-Dorsin (Paris Saint-Germain) Substitution at 84',Frøya Brennskag-Dorsin Substitut,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,392628,2025-11-02 05:17:50
+13623,752969,13,46296114,76,2,5040,84',0,0,Ikram Adjabi (Le Havre AC) Substitution at 84',Ikram Adjabi Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,350115,2025-11-02 05:17:50
+13623,752969,12,46296084,76,2,5040,84',0,0,Frøya Brennskag-Dorsin (Paris Saint-Germain) Substitution at 84',Frøya Brennskag-Dorsin Substitut,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,309944,2025-11-02 05:17:50
+13623,752970,1,46284314,94,1,1140,19',0,0,Grâce Kazadi (Strasbourg) Yellow Card at 19',Grâce Kazadi Yellow Card,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,311210,2025-11-01 05:17:51
+13623,752970,2,46285004,94,2,3060,51',0,0,Mama Diop (Strasbourg) Yellow Card at 51',Mama Diop Yellow Card,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,406619,2025-11-01 05:17:51
+13623,752970,3,46285139,76,2,4020,67',0,0,Jody Brown (Marseille) Substitution at 67',Jody Brown Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,281645,2025-11-01 05:17:51
+13623,752970,3,46285139,76,2,4020,67',0,0,Jody Brown (Marseille) Substitution at 67',Jody Brown Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,407457,2025-11-01 05:17:51
+13623,752970,4,46285169,76,2,4140,69',0,0,Celia Bensalem (Strasbourg) Substitution at 69',Celia Bensalem Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,335847,2025-11-01 05:17:51
+13623,752970,4,46285169,76,2,4140,69',0,0,Celia Bensalem (Strasbourg) Substitution at 69',Celia Bensalem Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,330663,2025-11-01 05:17:51
+13623,752970,5,46285182,76,2,4200,70',0,0,Ananée Yeboah (Strasbourg) Substitution at 70',Ananée Yeboah Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,358169,2025-11-01 05:17:51
+13623,752970,5,46285182,76,2,4200,70',0,0,Ananée Yeboah (Strasbourg) Substitution at 70',Ananée Yeboah Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,406619,2025-11-01 05:17:51
+13623,752970,6,46285214,94,2,4320,72',0,0,Ninon Blanchard (Marseille) Yellow Card at 72',Ninon Blanchard Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,365576,2025-11-01 05:17:51
+13623,752970,7,46285226,76,2,4500,75',0,0,Marième Babou (Strasbourg) Substitution at 75',Marième Babou Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,395796,2025-11-01 05:17:51
+13623,752970,7,46285226,76,2,4500,75',0,0,Marième Babou (Strasbourg) Substitution at 75',Marième Babou Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,311210,2025-11-01 05:17:51
+13623,752970,8,46285234,76,2,4560,76',0,0,Clémence Mairot (Strasbourg) Substitution at 76',Clémence Mairot Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,387605,2025-11-01 05:17:51
+13623,752970,8,46285234,76,2,4560,76',0,0,Clémence Mairot (Strasbourg) Substitution at 76',Clémence Mairot Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,220028,2025-11-01 05:17:51
+13623,752970,9,46285318,76,2,5160,86',0,0,Inès Konan (Strasbourg) Substitution at 86',Inès Konan Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,349845,2025-11-01 05:17:51
+13623,752970,9,46285318,76,2,5160,86',0,0,Inès Konan (Strasbourg) Substitution at 86',Inès Konan Substitution,22329,0.0,0.0,0.0,0.0,0.0,0.0,2,387577,2025-11-01 05:17:51
+13623,752970,11,46297083,94,2,5400,90'+7',0,0,Tess Laplacette (Marseille) Yellow Card at 97',Tess Laplacette Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,347098,2025-11-02 05:17:50
+13623,752970,10,46285366,94,2,5400,90'+4',0,0,Marième Babou (Strasbourg) Yellow Card at 94',Marième Babou Yellow Card,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,395796,2025-11-01 05:17:51
+13623,752971,1,46292810,94,1,480,8',0,0,Aude Bizet (FC Fleury 91) Yellow Card at 8',Aude Bizet Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,350119,2025-11-02 05:17:50
+13623,752971,2,46292867,70,1,600,10',1,0,Emelyne Laurent (FC Fleury 91) Goal at 10',Emelyne Laurent Goal,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,281530,2025-11-02 05:17:50
+13623,752971,3,46293471,76,1,1260,21',0,0,Manon Revelli (Lens) Substitution at 21',Manon Revelli Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,311232,2025-11-02 05:17:50
+13623,752971,3,46293471,76,1,1260,21',0,0,Manon Revelli (Lens) Substitution at 21',Manon Revelli Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,344387,2025-11-02 05:17:50
+13623,752971,4,46294420,70,1,2400,40',1,0,Emelyne Laurent (FC Fleury 91) Goal at 40',Emelyne Laurent Goal,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,281530,2025-11-02 05:17:50
+13623,752971,5,46295753,94,2,3720,62',0,0,Jennyfer Limage (Lens) Yellow Card at 62',Jennyfer Limage Yellow Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,227397,2025-11-02 05:17:50
+13623,752971,6,46295754,76,2,3780,63',0,0,Dayana Pierre-Louis (Lens) Substitution at 63',Dayana Pierre-Louis Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,340423,2025-11-02 05:17:50
+13623,752971,8,46295768,76,2,3780,63',0,0,Shana Chossenotte (FC Fleury 91) Substitution at 63',Shana Chossenotte Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,344373,2025-11-02 05:17:50
+13623,752971,7,46295755,76,2,3780,63',0,0,Kaîna El Koumir (Lens) Substitution at 63',Kaîna El Koumir Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,407461,2025-11-02 05:17:50
+13623,752971,7,46295755,76,2,3780,63',0,0,Kaîna El Koumir (Lens) Substitution at 63',Kaîna El Koumir Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,407442,2025-11-02 05:17:50
+13623,752971,8,46295768,76,2,3780,63',0,0,Shana Chossenotte (FC Fleury 91) Substitution at 63',Shana Chossenotte Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,282878,2025-11-02 05:17:50
+13623,752971,6,46295754,76,2,3780,63',0,0,Dayana Pierre-Louis (Lens) Substitution at 63',Dayana Pierre-Louis Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,410369,2025-11-02 05:17:50
+13623,752971,9,46296010,94,2,3900,65',0,0,Tess David (Lens) Yellow Card at 65',Tess David Yellow Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,407445,2025-11-02 05:17:50
+13623,752971,10,46295885,70,2,4200,70',1,0,Emelyne Laurent (FC Fleury 91) Goal at 70',Emelyne Laurent Goal,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,281530,2025-11-02 05:17:50
+13623,752971,11,46295903,70,2,4260,71',1,0,Monique Ngock (FC Fleury 91) Goal at 71',Monique Ngock Goal,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,343760,2025-11-02 05:17:50
+13623,752971,12,46295929,76,2,4380,73',0,0,Carla Polito (Lens) Substitution at 73',Carla Polito Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,365573,2025-11-02 05:17:50
+13623,752971,14,46295969,76,2,4380,73',0,0,Sofia Guellati (Lens) Substitution at 73',Sofia Guellati Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,347245,2025-11-02 05:17:50
+13623,752971,13,46295931,76,2,4380,73',0,0,Hillary Diaz (FC Fleury 91) Substitution at 73',Hillary Diaz Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,349863,2025-11-02 05:17:50
+13623,752971,13,46295931,76,2,4380,73',0,0,Hillary Diaz (FC Fleury 91) Substitution at 73',Hillary Diaz Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,350119,2025-11-02 05:17:50
+13623,752971,12,46295929,76,2,4380,73',0,0,Carla Polito (Lens) Substitution at 73',Carla Polito Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,407445,2025-11-02 05:17:50
+13623,752971,14,46295969,76,2,4380,73',0,0,Sofia Guellati (Lens) Substitution at 73',Sofia Guellati Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,227397,2025-11-02 05:17:50
+13623,752971,15,46296096,76,2,4800,80',0,0,Lourdjina Étienne (FC Fleury 91) Substitution at 80',Lourdjina Étienne Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,407578,2025-11-02 05:17:50
+13623,752971,16,46296097,76,2,4800,80',0,0,Ikram Sidi Moussa (FC Fleury 91) Substitution at 80',Ikram Sidi Moussa Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,360947,2025-11-02 05:17:50
+13623,752971,16,46296097,76,2,4800,80',0,0,Ikram Sidi Moussa (FC Fleury 91) Substitution at 80',Ikram Sidi Moussa Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,347239,2025-11-02 05:17:50
+13623,752971,15,46296096,76,2,4800,80',0,0,Lourdjina Étienne (FC Fleury 91) Substitution at 80',Lourdjina Étienne Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,347149,2025-11-02 05:17:50
+13623,752971,17,46296930,94,2,5400,90'+3',0,0,Louann Archier (Lens) Yellow Card at 93',Louann Archier Yellow Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,370974,2025-11-02 05:17:50
+13623,752971,18,46296610,94,2,5400,90'+5',0,0,Monique Ngock (FC Fleury 91) Yellow Card at 95',Monique Ngock Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,343760,2025-11-02 05:17:50
+13623,752972,1,46292701,94,1,360,6',0,0,Justine Rouquet (Montpellier) Yellow Card at 6',Justine Rouquet Yellow Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392525,2025-11-02 05:17:50
+13623,752972,2,46293025,70,1,780,13',1,0,Justine Rouquet (Montpellier) Goal at 13',Justine Rouquet Goal,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392525,2025-11-02 05:17:50
+13623,752972,3,46293286,70,1,1080,18',1,0,Rachel Corboz (Saint-Étienne) Goal at 18',Rachel Corboz Goal,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,248728,2025-11-02 05:17:50
+13623,752972,4,46294275,70,1,2220,37',1,0,Justine Rouquet (Montpellier) Goal at 37',Justine Rouquet Goal,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392525,2025-11-02 05:17:50
+13623,752972,5,46294834,70,1,2700,45'+1',1,0,Sofie Hornemann (Saint-Étienne) Goal at 46',Sofie Hornemann Goal,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,328083,2025-11-02 05:17:50
+13623,752972,6,46295696,70,2,3300,55',1,0,Sofie Hornemann (Saint-Étienne) Goal at 55',Sofie Hornemann Goal,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,328083,2025-11-02 05:17:50
+13623,752972,7,46295732,76,2,3420,57',0,0,Ina Kristoffersen (Saint-Étienne) Substitution at 57',Ina Kristoffersen Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,409769,2025-11-02 05:17:50
+13623,752972,7,46295732,76,2,3420,57',0,0,Ina Kristoffersen (Saint-Étienne) Substitution at 57',Ina Kristoffersen Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,290257,2025-11-02 05:17:50
+13623,752972,9,46295880,76,2,3840,64',0,0,Ilona Koko (Montpellier) Substitution at 64',Ilona Koko Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,410433,2025-11-02 05:17:50
+13623,752972,8,46295847,76,2,3840,64',0,0,Rosalie Chaine Rochette (Montpellier) Substitution at 64',Rosalie Chaine Rochette Substitu,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392524,2025-11-02 05:17:50
+13623,752972,9,46295880,76,2,3840,64',0,0,Ilona Koko (Montpellier) Substitution at 64',Ilona Koko Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347255,2025-11-02 05:17:50
+13623,752972,8,46295847,76,2,3840,64',0,0,Rosalie Chaine Rochette (Montpellier) Substitution at 64',Rosalie Chaine Rochette Substitu,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,359691,2025-11-02 05:17:50
+13623,752972,10,46295895,76,2,3900,65',0,0,Alex Lamontagne (Saint-Étienne) Substitution at 65',Alex Lamontagne Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,209173,2025-11-02 05:17:50
+13623,752972,10,46295895,76,2,3900,65',0,0,Alex Lamontagne (Saint-Étienne) Substitution at 65',Alex Lamontagne Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,347251,2025-11-02 05:17:50
+13623,752972,11,46295896,94,2,4020,67',0,0,Chloe Tapia (Saint-Étienne) Yellow Card at 67',Chloe Tapia Yellow Card,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,365585,2025-11-02 05:17:50
+13623,752972,12,46296046,76,2,4500,75',0,0,Rose Kadzere (Montpellier) Substitution at 75',Rose Kadzere Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,394407,2025-11-02 05:17:50
+13623,752972,12,46296046,76,2,4500,75',0,0,Rose Kadzere (Montpellier) Substitution at 75',Rose Kadzere Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,411130,2025-11-02 05:17:50
+13623,752972,13,46296179,98,2,4860,81',1,0,Rachel Corboz (Saint-Étienne) Penalty - Scored at 81',Rachel Corboz Penalty - Scored,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,248728,2025-11-02 05:17:50
+13623,752972,14,46296195,76,2,4920,82',0,0,Kentissia Bacoul Juillard (Montpellier) Substitution at 82',Kentissia Bacoul Juillard Substi,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392527,2025-11-02 05:17:50
+13623,752972,15,46296196,76,2,4920,82',0,0,Celia Chabod (Montpellier) Substitution at 82',Celia Chabod Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,362464,2025-11-02 05:17:50
+13623,752972,14,46296195,76,2,4920,82',0,0,Kentissia Bacoul Juillard (Montpellier) Substitution at 82',Kentissia Bacoul Juillard Substi,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,344399,2025-11-02 05:17:50
+13623,752972,15,46296196,76,2,4920,82',0,0,Celia Chabod (Montpellier) Substitution at 82',Celia Chabod Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347127,2025-11-02 05:17:50
+13623,752972,16,46296228,94,2,5040,84',0,0,Rosalie Chaine Rochette (Montpellier) Yellow Card at 84',Rosalie Chaine Rochette Yellow C,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392524,2025-11-02 05:17:50
+13623,752972,17,46296262,76,2,5160,86',0,0,Laura Munk Hermann (Saint-Étienne) Substitution at 86',Laura Munk Hermann Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,315075,2025-11-02 05:17:50
+13623,752972,19,46297066,94,2,5160,86',0,0,Nadjma Ali Nadjma (Saint-Étienne) Yellow Card at 86',Nadjma Ali Nadjma Yellow Card,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,268334,2025-11-02 05:17:50
+13623,752972,18,46296468,76,2,5160,86',0,0,Welma Fon (Saint-Étienne) Substitution at 86',Welma Fon Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,359278,2025-11-02 05:17:50
+13623,752972,17,46296262,76,2,5160,86',0,0,Laura Munk Hermann (Saint-Étienne) Substitution at 86',Laura Munk Hermann Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,248728,2025-11-02 05:17:50
+13623,752972,18,46296468,76,2,5160,86',0,0,Welma Fon (Saint-Étienne) Substitution at 86',Welma Fon Substitution,21963,0.0,0.0,0.0,0.0,0.0,0.0,2,268334,2025-11-02 05:17:50
+13623,752972,20,46296518,94,2,5340,89',0,0,Alex Lamontagne (Saint-Étienne) Yellow Card at 89',Alex Lamontagne Yellow Card,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,209173,2025-11-02 05:17:50
+13623,752972,23,46296663,94,2,5400,90'+4',0,0,Sarah Cambot (Saint-Étienne) Yellow Card at 94',Sarah Cambot Yellow Card,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,347165,2025-11-02 05:17:50
+13623,752972,21,46296629,94,2,5400,90'+1',0,0,Celia Chabod (Montpellier) Yellow Card at 91',Celia Chabod Yellow Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,362464,2025-11-02 05:17:50
+13623,752972,22,46296642,93,2,5400,90'+4',0,0,Rosalie Chaine Rochette (Montpellier) Red Card at 94',Rosalie Chaine Rochette Red Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392524,2025-11-02 05:17:50
+13623,752973,1,46292492,70,1,60,1',1,0,Lea Khelifi (Nantes) Goal at 1',Lea Khelifi Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,293408,2025-11-02 05:17:50
+13623,752973,2,46293304,94,1,1080,18',0,0,Caitlin Cosme (Nantes) Yellow Card at 18',Caitlin Cosme Yellow Card,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,263901,2025-11-02 05:17:50
+13623,752973,3,46295529,76,2,2700,45',0,0,Roseline Éloissaint (Nantes) Substitution at 45',Roseline Éloissaint Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,302281,2025-11-02 05:17:50
+13623,752973,3,46295529,76,2,2700,45',0,0,Roseline Éloissaint (Nantes) Substitution at 45',Roseline Éloissaint Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,370871,2025-11-02 05:17:50
+13623,752973,4,46295575,70,2,2940,49',1,0,Meriame Terchoun (Dijon) Goal at 49',Meriame Terchoun Goal,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,246852,2025-11-02 05:17:50
+13623,752973,5,46295757,70,2,3780,63',1,0,Léa Declercq (Dijon) Goal at 63',Léa Declercq Goal,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,347080,2025-11-02 05:17:50
+13623,752973,6,46295756,76,2,3840,64',0,0,Ema Paljevic (Nantes) Substitution at 64',Ema Paljevic Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,408149,2025-11-02 05:17:50
+13623,752973,7,46295795,76,2,3840,64',0,0,Julie Pasquereau (Nantes) Substitution at 64',Julie Pasquereau Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,347196,2025-11-02 05:17:50
+13623,752973,7,46295795,76,2,3840,64',0,0,Julie Pasquereau (Nantes) Substitution at 64',Julie Pasquereau Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,344398,2025-11-02 05:17:50
+13623,752973,6,46295756,76,2,3840,64',0,0,Ema Paljevic (Nantes) Substitution at 64',Ema Paljevic Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,370011,2025-11-02 05:17:50
+13623,752973,8,46295987,76,2,4560,76',0,0,Lina Gay (Dijon) Substitution at 76',Lina Gay Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,362465,2025-11-02 05:17:50
+13623,752973,8,46295987,76,2,4560,76',0,0,Lina Gay (Dijon) Substitution at 76',Lina Gay Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,347213,2025-11-02 05:17:50
+13623,752973,9,46296100,76,2,4800,80',0,0,Karen Araya (Nantes) Substitution at 80',Karen Araya Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,264855,2025-11-02 05:17:50
+13623,752973,9,46296100,76,2,4800,80',0,0,Karen Araya (Nantes) Substitution at 80',Karen Araya Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,353007,2025-11-02 05:17:50
+13623,752973,10,46296166,94,2,4860,81',0,0,Katriina Talaslahti (Dijon) Yellow Card at 81',Katriina Talaslahti Yellow Card,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,295672,2025-11-06 06:15:41
+13623,752973,11,46296184,76,2,5100,85',0,0,Kate Taylor (Dijon) Substitution at 85',Kate Taylor Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,332237,2025-11-02 05:17:50
+13623,752973,12,46296237,76,2,5100,85',0,0,Izarne Sarasola (Nantes) Substitution at 85',Izarne Sarasola Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,335812,2025-11-02 05:17:50
+13623,752973,12,46296237,76,2,5100,85',0,0,Izarne Sarasola (Nantes) Substitution at 85',Izarne Sarasola Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,298899,2025-11-02 05:17:50
+13623,752973,11,46296184,76,2,5100,85',0,0,Kate Taylor (Dijon) Substitution at 85',Kate Taylor Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,246852,2025-11-02 05:17:50
+13623,752974,1,46299416,94,1,420,7',0,0,Deja Davis (Paris FC) Yellow Card at 7',Deja Davis Yellow Card,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,347111,2025-11-02 05:17:50
+13623,752974,4,46300992,76,2,3540,59',0,0,Jule Brand (OL Lyonnes) Substitution at 59',Jule Brand Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,317719,2025-11-02 05:17:50
+13623,752974,2,46300960,76,2,3540,59',0,0,Tarciane  (OL Lyonnes) Substitution at 59',Tarciane  Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,351655,2025-11-02 05:17:50
+13623,752974,3,46300971,76,2,3540,59',0,0,Tabitha Chawinga (OL Lyonnes) Substitution at 59',Tabitha Chawinga Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,373811,2025-11-02 05:17:50
+13623,752974,2,46300960,76,2,3540,59',0,0,Tarciane  (OL Lyonnes) Substitution at 59',Tarciane  Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,311192,2025-11-02 05:17:50
+13623,752974,3,46300971,76,2,3540,59',0,0,Tabitha Chawinga (OL Lyonnes) Substitution at 59',Tabitha Chawinga Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,188067,2025-11-02 05:17:50
+13623,752974,4,46300992,76,2,3540,59',0,0,Jule Brand (OL Lyonnes) Substitution at 59',Jule Brand Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,288448,2025-11-02 05:17:50
+13623,752974,6,46301071,76,2,3840,64',0,0,Klaudia Jedlinska (Paris FC) Substitution at 64',Klaudia Jedlinska Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,317915,2025-11-02 05:17:50
+13623,752974,5,46301070,76,2,3840,64',0,0,Melween N'Dongala (Paris FC) Substitution at 64',Melween N'Dongala Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,347185,2025-11-02 05:17:50
+13623,752974,5,46301070,76,2,3840,64',0,0,Melween N'Dongala (Paris FC) Substitution at 64',Melween N'Dongala Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347249,2025-11-02 05:17:50
+13623,752974,6,46301071,76,2,3840,64',0,0,Klaudia Jedlinska (Paris FC) Substitution at 64',Klaudia Jedlinska Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347142,2025-11-02 05:17:50
+13623,752974,7,46301072,76,2,3900,65',0,0,Elma Junttila Nelhage (OL Lyonnes) Substitution at 65',Elma Junttila Nelhage Substituti,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,311202,2025-11-02 05:17:50
+13623,752974,8,46301099,94,2,3900,65',0,0,Elma Junttila Nelhage (OL Lyonnes) Yellow Card at 65',Elma Junttila Nelhage Yellow Car,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,311202,2025-11-02 05:17:50
+13623,752974,7,46301072,76,2,3900,65',0,0,Elma Junttila Nelhage (OL Lyonnes) Substitution at 65',Elma Junttila Nelhage Substituti,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,158816,2025-11-02 05:17:50
+13623,752974,9,46301480,76,2,4320,72',0,0,Océane Picard (Paris FC) Substitution at 72',Océane Picard Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365583,2025-11-02 05:17:50
+13623,752974,10,46301486,76,2,4320,72',0,0,Vicki Bècho (OL Lyonnes) Substitution at 72',Vicki Bècho Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,311191,2025-11-02 05:17:50
+13623,752974,10,46301486,76,2,4320,72',0,0,Vicki Bècho (OL Lyonnes) Substitution at 72',Vicki Bècho Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,311231,2025-11-02 05:17:50
+13623,752974,9,46301480,76,2,4320,72',0,0,Océane Picard (Paris FC) Substitution at 72',Océane Picard Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365611,2025-11-02 05:17:50
+13623,752974,11,46301524,70,2,4500,75',1,0,Tabitha Chawinga (OL Lyonnes) Goal at 75',Tabitha Chawinga Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,373811,2025-11-02 05:17:50
+13623,752974,12,46301835,76,2,5040,84',0,0,Nora Håheim (Paris FC) Substitution at 84',Nora Håheim Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,411160,2025-11-02 05:17:50
+13623,752974,13,46301881,76,2,5040,84',0,0,Teninsoun Sissoko (Paris FC) Substitution at 84',Teninsoun Sissoko Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365593,2025-11-02 05:17:50
+13623,752974,13,46301881,76,2,5040,84',0,0,Teninsoun Sissoko (Paris FC) Substitution at 84',Teninsoun Sissoko Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347111,2025-11-02 05:17:50
+13623,752974,12,46301835,76,2,5040,84',0,0,Nora Håheim (Paris FC) Substitution at 84',Nora Håheim Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365579,2025-11-02 05:17:50
+13623,752974,14,46302081,94,2,5400,90'+5',0,0,Klaudia Jedlinska (Paris FC) Yellow Card at 95',Klaudia Jedlinska Yellow Card,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,317915,2025-11-02 05:17:50
+13623,752975,2,46346843,76,2,2700,45',0,0,Margaux Le Mouël (Marseille) Substitution at 45',Margaux Le Mouël Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,347117,2025-11-08 06:14:23
+13623,752975,1,46346819,76,2,2700,45',0,0,Jody Brown (Marseille) Substitution at 45',Jody Brown Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,281645,2025-11-08 06:14:23
+13623,752975,1,46346819,76,2,2700,45',0,0,Jody Brown (Marseille) Substitution at 45',Jody Brown Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,407457,2025-11-08 06:14:23
+13623,752975,2,46346843,76,2,2700,45',0,0,Margaux Le Mouël (Marseille) Substitution at 45',Margaux Le Mouël Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,340417,2025-11-08 06:14:23
+13623,752975,3,46346920,94,2,2880,48',0,0,Lina Gay (Dijon) Yellow Card at 48',Lina Gay Yellow Card,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,362465,2025-11-08 06:14:23
+13623,752975,4,46346996,70,2,3120,52',1,0,Laura Bourgouin (Marseille) Goal at 52',Laura Bourgouin Goal,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,347167,2025-11-08 06:14:23
+13623,752975,5,46347256,76,2,4140,69',0,0,Oliwia Domin (Dijon) Substitution at 69',Oliwia Domin Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,380829,2025-11-08 06:14:23
+13623,752975,5,46347256,76,2,4140,69',0,0,Oliwia Domin (Dijon) Substitution at 69',Oliwia Domin Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,362465,2025-11-08 06:14:23
+13623,752975,6,46347379,76,2,4620,77',0,0,Marion Haelewyn (Dijon) Substitution at 77',Marion Haelewyn Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,347204,2025-11-08 06:14:23
+13623,752975,6,46347379,76,2,4620,77',0,0,Marion Haelewyn (Dijon) Substitution at 77',Marion Haelewyn Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,320163,2025-11-08 06:14:23
+13623,752975,8,46347384,94,2,4680,78',0,0,Ninon Blanchard (Marseille) Yellow Card at 78',Ninon Blanchard Yellow Card,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,365576,2025-11-08 06:14:23
+13623,752975,7,46347380,76,2,4680,78',0,0,Colette Nzdana (Dijon) Substitution at 78',Colette Nzdana Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,343757,2025-11-08 06:14:23
+13623,752975,7,46347380,76,2,4680,78',0,0,Colette Nzdana (Dijon) Substitution at 78',Colette Nzdana Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,347213,2025-11-08 06:14:23
+13623,752975,9,46347476,76,2,5160,86',0,0,Dominika Kopinska (Dijon) Substitution at 86',Dominika Kopinska Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,339626,2025-11-08 06:14:23
+13623,752975,9,46347476,76,2,5160,86',0,0,Dominika Kopinska (Dijon) Substitution at 86',Dominika Kopinska Substitution,21639,0.0,0.0,0.0,0.0,0.0,0.0,2,332237,2025-11-08 06:14:23
+13623,752975,10,46347489,76,2,5340,89',0,0,Roxane Couasnon (Marseille) Substitution at 89',Roxane Couasnon Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,1,407458,2025-11-08 06:14:23
+13623,752975,10,46347489,76,2,5340,89',0,0,Roxane Couasnon (Marseille) Substitution at 89',Roxane Couasnon Substitution,131298,0.0,0.0,0.0,0.0,0.0,0.0,2,406715,2025-11-08 06:14:23
+13623,752975,11,46347548,70,2,5400,90'+6',1,0,Dominika Kopinska (Dijon) Goal at 96',Dominika Kopinska Goal,21639,0.0,0.0,0.0,0.0,0.0,0.0,1,339626,2025-11-08 06:14:23
+13623,752976,1,46345253,70,1,1140,19',1,0,Manon Revelli (Lens) Goal at 19',Manon Revelli Goal,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,311232,2025-11-08 06:14:23
+13623,752976,2,46345271,94,1,2520,42',0,0,Océane Picard (Paris FC) Yellow Card at 42',Océane Picard Yellow Card,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365583,2025-11-08 06:14:23
+13623,752976,3,46345304,76,2,2700,45',0,0,Noemie Vagre (Lens) Substitution at 45',Noemie Vagre Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,295682,2025-11-08 06:14:23
+13623,752976,3,46345304,76,2,2700,45',0,0,Noemie Vagre (Lens) Substitution at 45',Noemie Vagre Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,227358,2025-11-08 06:14:23
+13623,752976,4,46345324,70,2,2760,46',1,0,Lorena Azzaro (Paris FC) Goal at 46',Lorena Azzaro Goal,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,365579,2025-11-08 06:14:23
+13623,752976,6,46345388,76,2,3660,61',0,0,Maëlle Garbino (Paris FC) Substitution at 61',Maëlle Garbino Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,347142,2025-11-08 06:14:23
+13623,752976,5,46345380,76,2,3660,61',0,0,Sheika Scott (Paris FC) Substitution at 61',Sheika Scott Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,354440,2025-11-08 06:14:23
+13623,752976,5,46345380,76,2,3660,61',0,0,Sheika Scott (Paris FC) Substitution at 61',Sheika Scott Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365583,2025-11-08 06:14:23
+13623,752976,6,46345388,76,2,3660,61',0,0,Maëlle Garbino (Paris FC) Substitution at 61',Maëlle Garbino Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365579,2025-11-08 06:14:23
+13623,752976,8,46345409,76,2,3840,64',0,0,Carla Polito (Lens) Substitution at 64',Carla Polito Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,365573,2025-11-08 06:14:23
+13623,752976,7,46345394,76,2,3840,64',0,0,Kaîna El Koumir (Lens) Substitution at 64',Kaîna El Koumir Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,407461,2025-11-08 06:14:23
+13623,752976,8,46345409,76,2,3840,64',0,0,Carla Polito (Lens) Substitution at 64',Carla Polito Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,407445,2025-11-08 06:14:23
+13623,752976,7,46345394,76,2,3840,64',0,0,Kaîna El Koumir (Lens) Substitution at 64',Kaîna El Koumir Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,410369,2025-11-08 06:14:23
+13623,752976,9,46345410,94,2,3900,65',0,0,Dayana Pierre-Louis (Lens) Yellow Card at 65',Dayana Pierre-Louis Yellow Card,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,340423,2025-11-08 06:14:23
+13623,752976,10,46345444,70,2,4320,72',1,0,Klaudia Jedlinska (Paris FC) Goal at 72',Klaudia Jedlinska Goal,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,317915,2025-11-08 06:14:23
+13623,752976,11,46345488,76,2,4680,78',0,0,Célina Ould Hocine (Paris FC) Substitution at 78',Célina Ould Hocine Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,347123,2025-11-08 06:14:23
+13623,752976,12,46345500,76,2,4680,78',0,0,Maeline Mendy (Paris FC) Substitution at 78',Maeline Mendy Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,353350,2025-11-08 06:14:23
+13623,752976,12,46345500,76,2,4680,78',0,0,Maeline Mendy (Paris FC) Substitution at 78',Maeline Mendy Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,365611,2025-11-08 06:14:23
+13623,752976,11,46345488,76,2,4680,78',0,0,Célina Ould Hocine (Paris FC) Substitution at 78',Célina Ould Hocine Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,347185,2025-11-08 06:14:23
+13623,752976,13,46345512,76,2,4860,81',0,0,Sofia Guellati (Lens) Substitution at 81',Sofia Guellati Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,1,347245,2025-11-08 06:14:23
+13623,752976,13,46345512,76,2,4860,81',0,0,Sofia Guellati (Lens) Substitution at 81',Sofia Guellati Substitution,131297,0.0,0.0,0.0,0.0,0.0,0.0,2,227397,2025-11-08 06:14:23
+13623,752976,14,46345516,76,2,4980,83',0,0,Nora Håheim (Paris FC) Substitution at 83',Nora Håheim Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,1,411160,2025-11-08 06:14:23
+13623,752976,14,46345516,76,2,4980,83',0,0,Nora Håheim (Paris FC) Substitution at 83',Nora Håheim Substitution,21640,0.0,0.0,0.0,0.0,0.0,0.0,2,317915,2025-11-08 06:14:23
+13623,752977,1,46354297,98,1,300,5',1,0,Laurine Hannequin (Strasbourg) Penalty - Scored at 5',Laurine Hannequin Penalty - Scor,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,387577,2025-11-09 15:07:42
+13623,752977,2,46354554,94,1,720,12',0,0,Aleksandra Gajic (Saint-Étienne) Yellow Card at 12',Aleksandra Gajic Yellow Card,21963,0.0,0.0,0.0,0.0,0.0,0.0,1,404589,2025-11-09 15:07:42
+13623,752977,3,46354886,94,1,1140,19',0,0,Eseosa Aigbogun (Strasbourg) Yellow Card at 19',Eseosa Aigbogun Yellow Card,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,220028,2025-11-09 15:07:42
+13623,752977,4,46355476,93,1,1860,31',0,0,Eseosa Aigbogun (Strasbourg) Red Card at 31',Eseosa Aigbogun Red Card,22329,0.0,0.0,0.0,0.0,0.0,0.0,1,220028,2025-11-09 15:07:42
+13623,752978,1,46359378,94,1,480,8',0,0,Monique Ngock (FC Fleury 91) Yellow Card at 8',Monique Ngock Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,343760,2025-11-09 15:07:42
+13623,752978,2,46359668,93,1,1380,23',0,0,Monique Ngock (FC Fleury 91) Red Card at 23',Monique Ngock Red Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,343760,2025-11-09 15:07:42
+13623,752978,3,46359911,94,1,2040,34',0,0,Jennifer Echegini (Paris Saint-Germain) Yellow Card at 34',Jennifer Echegini Yellow Card,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,292902,2025-11-09 15:07:42
+13623,752978,5,46360458,76,2,2700,45',0,0,Merveille Kanjinga (Paris Saint-Germain) Substitution at 45',Merveille Kanjinga Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,399707,2025-11-09 15:07:42
+13623,752978,6,46360483,76,2,2700,45',0,0,Tara Elimbi (Paris Saint-Germain) Substitution at 45',Tara Elimbi Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,344401,2025-11-09 15:07:42
+13623,752978,4,46360209,70,1,2700,45'+3',1,0,Isabela Chagas  (Paris Saint-Germain) Goal at 48',Isabela Chagas  Goal,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,344298,2025-11-09 15:07:42
+13623,752978,5,46360458,76,2,2700,45',0,0,Merveille Kanjinga (Paris Saint-Germain) Substitution at 45',Merveille Kanjinga Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,296481,2025-11-09 15:07:42
+13623,752978,6,46360483,76,2,2700,45',0,0,Tara Elimbi (Paris Saint-Germain) Substitution at 45',Tara Elimbi Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,284186,2025-11-09 15:07:42
+13623,752978,7,46360526,76,2,3060,51',0,0,Ewelina Kamczyk (FC Fleury 91) Substitution at 51',Ewelina Kamczyk Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,282878,2025-11-09 15:07:42
+13623,752978,7,46360526,76,2,3060,51',0,0,Ewelina Kamczyk (FC Fleury 91) Substitution at 51',Ewelina Kamczyk Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,347239,2025-11-09 15:07:42
+13623,752978,8,46360619,94,2,3360,56',0,0,Anaïs Ebayilin (Paris Saint-Germain) Yellow Card at 56',Anaïs Ebayilin Yellow Card,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,380029,2025-11-09 15:07:42
+13623,752978,10,46360753,76,2,3660,61',0,0,Jackie Groenen (Paris Saint-Germain) Substitution at 61',Jackie Groenen Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,235658,2025-11-09 15:07:42
+13623,752978,9,46360729,76,2,3660,61',0,0,Thiniba Samoura (Paris Saint-Germain) Substitution at 61',Thiniba Samoura Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,347226,2025-11-09 15:07:42
+13623,752978,9,46360729,76,2,3660,61',0,0,Thiniba Samoura (Paris Saint-Germain) Substitution at 61',Thiniba Samoura Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,293407,2025-11-09 15:07:42
+13623,752978,10,46360753,76,2,3660,61',0,0,Jackie Groenen (Paris Saint-Germain) Substitution at 61',Jackie Groenen Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,380029,2025-11-09 15:07:42
+13623,752978,11,46360836,76,2,3960,66',0,0,Shana Chossenotte (FC Fleury 91) Substitution at 66',Shana Chossenotte Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,344373,2025-11-09 15:07:42
+13623,752978,11,46360836,76,2,3960,66',0,0,Shana Chossenotte (FC Fleury 91) Substitution at 66',Shana Chossenotte Substitution,21637,0.0,0.0,0.0,0.0,0.0,0.0,2,365570,2025-11-09 15:07:42
+13623,752978,12,46360928,76,2,4080,68',0,0,Florianne Jourde (Paris Saint-Germain) Substitution at 68',Florianne Jourde Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,368733,2025-11-09 15:07:42
+13623,752978,12,46360928,76,2,4080,68',0,0,Florianne Jourde (Paris Saint-Germain) Substitution at 68',Florianne Jourde Substitution,19258,0.0,0.0,0.0,0.0,0.0,0.0,2,292902,2025-11-09 15:07:42
+13623,752978,13,46360996,70,2,4320,72',1,0,Romée Leuchter (Paris Saint-Germain) Goal at 72',Romée Leuchter Goal,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,309944,2025-11-09 15:07:42
+13623,752978,14,46361163,70,2,4680,78',1,0,Romée Leuchter (Paris Saint-Germain) Goal at 78',Romée Leuchter Goal,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,309944,2025-11-09 15:07:42
+13623,752978,15,46361243,94,2,4800,80',0,0,Shana Chossenotte (FC Fleury 91) Yellow Card at 80',Shana Chossenotte Yellow Card,21637,0.0,0.0,0.0,0.0,0.0,0.0,1,344373,2025-11-09 15:07:42
+13623,752978,16,46361483,70,2,5400,90',1,0,Merveille Kanjinga (Paris Saint-Germain) Goal at 90',Merveille Kanjinga Goal,19258,0.0,0.0,0.0,0.0,0.0,0.0,1,399707,2025-11-09 15:07:42
+13623,752979,1,46354280,70,1,240,4',1,0,Madeline Roth (Le Havre AC) Goal at 4',Madeline Roth Goal,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,349920,2025-11-09 15:07:42
+13623,752979,2,46354842,94,1,1140,19',0,0,Madeline Roth (Le Havre AC) Yellow Card at 19',Madeline Roth Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,349920,2025-11-09 15:07:42
+13623,752979,3,46355918,76,1,2280,38',0,0,Mariam Toloba (Nantes) Substitution at 38',Mariam Toloba Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,366681,2025-11-09 15:07:42
+13623,752979,3,46355918,76,1,2280,38',0,0,Mariam Toloba (Nantes) Substitution at 38',Mariam Toloba Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,298899,2025-11-09 15:07:42
+13623,752979,4,46356574,94,2,3180,53',0,0,Lou Tsé (Le Havre AC) Yellow Card at 53',Lou Tsé Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,365578,2025-11-09 15:07:42
+13623,752979,5,46356590,98,2,3180,53',1,0,Lea Khelifi (Nantes) Penalty - Scored at 53',Lea Khelifi Penalty - Scored,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,293408,2025-11-09 15:07:42
+13623,752979,6,46356615,94,2,3300,55',0,0,Julie Pasquereau (Nantes) Yellow Card at 55',Julie Pasquereau Yellow Card,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,347196,2025-11-09 15:07:42
+13623,752979,7,46356639,76,2,3480,58',0,0,Christy Gavory (Le Havre AC) Substitution at 58',Christy Gavory Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,350115,2025-11-09 15:07:42
+13623,752979,7,46356639,76,2,3480,58',0,0,Christy Gavory (Le Havre AC) Substitution at 58',Christy Gavory Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,347208,2025-11-09 15:07:42
+13623,752979,8,46356836,70,2,4260,71',1,0,Mariam Toloba (Nantes) Goal at 71',Mariam Toloba Goal,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,366681,2025-11-09 15:07:42
+13623,752979,9,46356857,94,2,4380,73',0,0,Laëtitia Philippe (Le Havre AC) Yellow Card at 73',Laëtitia Philippe Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,158818,2025-11-09 15:07:42
+13623,752979,11,46356897,76,2,4440,74',0,0,Caitlin Cosme (Nantes) Substitution at 74',Caitlin Cosme Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,263901,2025-11-09 15:07:42
+13623,752979,10,46356873,76,2,4440,74',0,0,Lucie Calba (Nantes) Substitution at 74',Lucie Calba Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,344398,2025-11-09 15:07:42
+13623,752979,11,46356897,76,2,4440,74',0,0,Caitlin Cosme (Nantes) Substitution at 74',Caitlin Cosme Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,347196,2025-11-09 15:07:42
+13623,752979,10,46356873,76,2,4440,74',0,0,Lucie Calba (Nantes) Substitution at 74',Lucie Calba Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,350964,2025-11-09 15:07:42
+13623,752979,12,46356898,94,2,4560,76',0,0,Jade Nassi (Le Havre AC) Yellow Card at 76',Jade Nassi Yellow Card,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,369833,2025-11-09 15:07:42
+13623,752979,13,46356970,76,2,4800,80',0,0,Mélinda Mendy (Le Havre AC) Substitution at 80',Mélinda Mendy Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,344400,2025-11-09 15:07:42
+13623,752979,13,46356970,76,2,4800,80',0,0,Mélinda Mendy (Le Havre AC) Substitution at 80',Mélinda Mendy Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,369833,2025-11-09 15:07:42
+13623,752979,14,46356951,76,2,4860,81',0,0,Thaïs Gallais (Le Havre AC) Substitution at 81',Thaïs Gallais Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,395791,2025-11-09 15:07:42
+13623,752979,14,46356951,76,2,4860,81',0,0,Thaïs Gallais (Le Havre AC) Substitution at 81',Thaïs Gallais Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,392343,2025-11-09 15:07:42
+13623,752979,15,46357040,76,2,5100,85',0,0,Ángela Barón (Le Havre AC) Substitution at 85',Ángela Barón Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,1,336427,2025-11-09 15:07:42
+13623,752979,15,46357040,76,2,5100,85',0,0,Ángela Barón (Le Havre AC) Substitution at 85',Ángela Barón Substitution,21635,0.0,0.0,0.0,0.0,0.0,0.0,2,350573,2025-11-09 15:07:42
+13623,752979,16,46357092,76,2,5400,90',0,0,Julie Machart-Rabanne (Nantes) Substitution at 90',Julie Machart-Rabanne Substituti,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,370871,2025-11-09 15:07:42
+13623,752979,17,46357125,76,2,5400,90',0,0,Juliette Mossard (Nantes) Substitution at 90',Juliette Mossard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,1,344388,2025-11-09 15:07:42
+13623,752979,16,46357092,76,2,5400,90',0,0,Julie Machart-Rabanne (Nantes) Substitution at 90',Julie Machart-Rabanne Substituti,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,302281,2025-11-09 15:07:42
+13623,752979,17,46357125,76,2,5400,90',0,0,Juliette Mossard (Nantes) Substitution at 90',Juliette Mossard Substitution,22328,0.0,0.0,0.0,0.0,0.0,0.0,2,293408,2025-11-09 15:07:42
+13623,752980,1,46345239,70,1,480,8',1,0,Lindsey Heaps (OL Lyonnes) Goal at 8',Lindsey Heaps Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,228716,2025-11-08 06:14:23
+13623,752980,2,46345255,94,1,1560,26',0,0,Lily Yohannes (OL Lyonnes) Yellow Card at 26',Lily Yohannes Yellow Card,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,369801,2025-11-08 06:14:23
+13623,752980,3,46345257,70,1,1680,28',1,0,Ines Benyahia (OL Lyonnes) Goal at 28',Ines Benyahia Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,311231,2025-11-08 06:14:23
+13623,752980,4,46345263,94,1,2040,34',0,0,Lola Gstalter (Montpellier) Yellow Card at 34',Lola Gstalter Yellow Card,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,344399,2025-11-08 06:14:23
+13623,752980,5,46345279,70,1,2700,45'+3',1,0,Elma Junttila Nelhage (OL Lyonnes) Goal at 48',Elma Junttila Nelhage Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,311202,2025-11-08 06:14:23
+13623,752980,6,46345352,70,2,3180,53',1,0,Justine Rouquet (Montpellier) Goal at 53',Justine Rouquet Goal,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392525,2025-11-08 06:14:23
+13623,752980,9,46345384,76,2,3660,61',0,0,Ashley Lawrence (OL Lyonnes) Substitution at 61',Ashley Lawrence Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,119954,2025-11-08 06:14:23
+13623,752980,7,46345379,76,2,3660,61',0,0,Melchie Dumornay (OL Lyonnes) Substitution at 61',Melchie Dumornay Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,340420,2025-11-08 06:14:23
+13623,752980,8,46345381,76,2,3660,61',0,0,Damaris Egurrola (OL Lyonnes) Substitution at 61',Damaris Egurrola Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,288448,2025-11-08 06:14:23
+13623,752980,9,46345384,76,2,3660,61',0,0,Ashley Lawrence (OL Lyonnes) Substitution at 61',Ashley Lawrence Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,228716,2025-11-08 06:14:23
+13623,752980,7,46345379,76,2,3660,61',0,0,Melchie Dumornay (OL Lyonnes) Substitution at 61',Melchie Dumornay Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,369801,2025-11-08 06:14:23
+13623,752980,8,46345381,76,2,3660,61',0,0,Damaris Egurrola (OL Lyonnes) Substitution at 61',Damaris Egurrola Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,351655,2025-11-08 06:14:23
+13623,752980,11,46345407,76,2,4020,67',0,0,Soufiya Ngueleu (Montpellier) Substitution at 67',Soufiya Ngueleu Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,347255,2025-11-08 06:14:23
+13623,752980,10,46345402,76,2,4020,67',0,0,Kentissia Bacoul Juillard (Montpellier) Substitution at 67',Kentissia Bacoul Juillard Substi,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,392527,2025-11-08 06:14:23
+13623,752980,10,46345402,76,2,4020,67',0,0,Kentissia Bacoul Juillard (Montpellier) Substitution at 67',Kentissia Bacoul Juillard Substi,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,411130,2025-11-08 06:14:23
+13623,752980,11,46345407,76,2,4020,67',0,0,Soufiya Ngueleu (Montpellier) Substitution at 67',Soufiya Ngueleu Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,344399,2025-11-08 06:14:23
+13623,752980,13,46345432,76,2,4200,70',0,0,Kadidiatou Diani (OL Lyonnes) Substitution at 70',Kadidiatou Diani Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,219121,2025-11-08 06:14:23
+13623,752980,12,46345424,76,2,4200,70',0,0,Ada Hegerberg (OL Lyonnes) Substitution at 70',Ada Hegerberg Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,188067,2025-11-08 06:14:23
+13623,752980,12,46345424,76,2,4200,70',0,0,Ada Hegerberg (OL Lyonnes) Substitution at 70',Ada Hegerberg Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,317719,2025-11-08 06:14:23
+13623,752980,13,46345432,76,2,4200,70',0,0,Kadidiatou Diani (OL Lyonnes) Substitution at 70',Kadidiatou Diani Substitution,19256,0.0,0.0,0.0,0.0,0.0,0.0,2,373811,2025-11-08 06:14:23
+13623,752980,15,46345464,76,2,4560,76',0,0,Celia Chabod (Montpellier) Substitution at 76',Celia Chabod Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,362464,2025-11-08 06:14:23
+13623,752980,14,46345462,76,2,4560,76',0,0,Elisa Rambaud (Montpellier) Substitution at 76',Elisa Rambaud Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,359691,2025-11-08 06:14:23
+13623,752980,15,46345464,76,2,4560,76',0,0,Celia Chabod (Montpellier) Substitution at 76',Celia Chabod Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,394407,2025-11-08 06:14:23
+13623,752980,14,46345462,76,2,4560,76',0,0,Elisa Rambaud (Montpellier) Substitution at 76',Elisa Rambaud Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,347127,2025-11-08 06:14:23
+13623,752980,16,46345530,70,2,5100,85',1,0,Melchie Dumornay (OL Lyonnes) Goal at 85',Melchie Dumornay Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,340420,2025-11-08 06:14:23
+13623,752980,17,46345559,76,2,5340,89',0,0,Ilona Koko (Montpellier) Substitution at 89',Ilona Koko Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,1,410433,2025-11-08 06:14:23
+13623,752980,17,46345559,76,2,5340,89',0,0,Ilona Koko (Montpellier) Substitution at 89',Ilona Koko Substitution,21638,0.0,0.0,0.0,0.0,0.0,0.0,2,392525,2025-11-08 06:14:23
+13623,752980,18,46345598,70,2,5400,90'+3',1,0,Ada Hegerberg (OL Lyonnes) Goal at 93',Ada Hegerberg Goal,19256,0.0,0.0,0.0,0.0,0.0,0.0,1,188067,2025-11-08 06:14:23

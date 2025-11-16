@@ -1,0 +1,10 @@
+{
+  "league": "brazilian_campeonato_carioca",
+  "league_name": "Brazilian Campeonato Carioca",
+  "league_id": 2265,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:35",
+  "total_matches": 156,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

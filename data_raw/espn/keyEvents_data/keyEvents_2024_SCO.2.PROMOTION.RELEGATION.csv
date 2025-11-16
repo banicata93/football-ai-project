@@ -1,0 +1,113 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13330,735619,1,45210199,76,1,840,14',0,0,Sam Graham (Airdrieonians) Substitution at 14',Sam Graham Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,272186,2025-05-07 04:56:00
+13330,735619,1,45210199,76,1,840,14',0,0,Sam Graham (Airdrieonians) Substitution at 14',Sam Graham Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,323780,2025-05-07 04:56:00
+13330,735619,2,45210221,94,1,1200,20',0,0,Gregor Buchanan (Stenhousemuir) Yellow Card at 20',Gregor Buchanan Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,176462,2025-05-07 04:56:00
+13330,735619,3,45210222,70,1,1260,21',1,0,Lewis Mcgrattan (Airdrieonians) Goal at 21',Lewis Mcgrattan Goal,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,282316,2025-05-07 04:56:00
+13330,735619,4,45210238,70,1,1740,29',1,0,Lewis Mcgrattan (Airdrieonians) Goal at 29',Lewis Mcgrattan Goal,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,282316,2025-05-07 04:56:00
+13330,735619,5,45210317,70,2,3060,51',1,0,Chris Mochrie (Airdrieonians) Goal at 51',Chris Mochrie Goal,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,287931,2025-05-07 04:56:00
+13330,735619,6,45210318,94,2,3120,52',0,0,Ben Wilson (Airdrieonians) Yellow Card at 52',Ben Wilson Yellow Card,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,169619,2025-05-07 04:56:00
+13330,735619,7,45210322,76,2,3780,63',0,0,Corey O' Donnell (Stenhousemuir) Substitution at 63',Corey O' Donnell Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,322900,2025-05-07 04:56:00
+13330,735619,8,45210323,76,2,3780,63',0,0,Scott Tomlinson (Stenhousemuir) Substitution at 63',Scott Tomlinson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,355996,2025-05-07 04:56:00
+13330,735619,7,45210322,76,2,3780,63',0,0,Corey O' Donnell (Stenhousemuir) Substitution at 63',Corey O' Donnell Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,143467,2025-05-07 04:56:00
+13330,735619,8,45210323,76,2,3780,63',0,0,Scott Tomlinson (Stenhousemuir) Substitution at 63',Scott Tomlinson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,346188,2025-05-07 04:56:00
+13330,735619,9,45210326,76,2,4020,67',0,0,Rhys Armstrong (Airdrieonians) Substitution at 67',Rhys Armstrong Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,298262,2025-05-07 04:56:00
+13330,735619,10,45210329,76,2,4020,67',0,0,Gavin Gallagher (Airdrieonians) Substitution at 67',Gavin Gallagher Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,324841,2025-05-07 04:56:00
+13330,735619,9,45210326,76,2,4020,67',0,0,Rhys Armstrong (Airdrieonians) Substitution at 67',Rhys Armstrong Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,355491,2025-05-07 04:56:00
+13330,735619,10,45210329,76,2,4020,67',0,0,Gavin Gallagher (Airdrieonians) Substitution at 67',Gavin Gallagher Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,282316,2025-05-07 04:56:00
+13330,735619,12,45210334,76,2,4260,71',0,0,Lewis Mcgregor (Airdrieonians) Substitution at 71',Lewis Mcgregor Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,322779,2025-05-07 04:56:00
+13330,735619,11,45210333,76,2,4260,71',0,0,Ricco Diack (Airdrieonians) Substitution at 71',Ricco Diack Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,338524,2025-05-07 04:56:00
+13330,735619,11,45210333,76,2,4260,71',0,0,Ricco Diack (Airdrieonians) Substitution at 71',Ricco Diack Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,287931,2025-05-07 04:56:00
+13330,735619,12,45210334,76,2,4260,71',0,0,Lewis Mcgregor (Airdrieonians) Substitution at 71',Lewis Mcgregor Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,169619,2025-05-07 04:56:00
+13330,735619,13,45210341,94,2,4380,73',0,0,Matthew Aitken (Stenhousemuir) Yellow Card at 73',Matthew Aitken Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,212362,2025-05-07 04:56:00
+13330,735619,14,45210347,76,2,4560,76',0,0,Matt Yates (Stenhousemuir) Substitution at 76',Matt Yates Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,227236,2025-05-07 04:56:00
+13330,735619,14,45210347,76,2,4560,76',0,0,Matt Yates (Stenhousemuir) Substitution at 76',Matt Yates Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,112543,2025-05-07 04:56:00
+13330,735619,15,45210378,94,2,5280,88',0,0,Lewis Strapp (Airdrieonians) Yellow Card at 88',Lewis Strapp Yellow Card,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,231961,2025-05-07 04:56:00
+13330,735619,16,45210379,98,2,5340,89',1,0,Matthew Aitken (Stenhousemuir) Penalty - Scored at 89',Matthew Aitken Penalty - Scored,405,0.0,0.0,0.0,0.0,0.0,0.0,1,212362,2025-05-07 04:56:00
+13330,735620,1,45227456,94,1,1620,27',0,0,Lewis Strapp (Airdrieonians) Yellow Card at 27',Lewis Strapp Yellow Card,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,231961,2025-05-12 04:51:47
+13330,735620,2,45227626,70,1,2280,38',1,0,Alex Bannon (Airdrieonians) Goal at 38',Alex Bannon Goal,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,322903,2025-05-12 04:51:47
+13330,735620,3,45228288,70,2,3120,52',1,0,Ben Wilson (Airdrieonians) Goal at 52',Ben Wilson Goal,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,169619,2025-05-12 04:51:47
+13330,735620,4,45228451,76,2,3360,56',0,0,Gavin Gallagher (Airdrieonians) Substitution at 56',Gavin Gallagher Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,324841,2025-05-12 04:51:47
+13330,735620,4,45228451,76,2,3360,56',0,0,Gavin Gallagher (Airdrieonians) Substitution at 56',Gavin Gallagher Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,287931,2025-05-12 04:51:47
+13330,735620,7,45228454,76,2,3420,57',0,0,Ricco Diack (Airdrieonians) Substitution at 57',Ricco Diack Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,338524,2025-05-12 04:51:47
+13330,735620,6,45228453,76,2,3420,57',0,0,Lewis Mcgregor (Airdrieonians) Substitution at 57',Lewis Mcgregor Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,322779,2025-05-12 04:51:47
+13330,735620,5,45228452,76,2,3420,57',0,0,Rhys Armstrong (Airdrieonians) Substitution at 57',Rhys Armstrong Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,298262,2025-05-12 04:51:47
+13330,735620,5,45228452,76,2,3420,57',0,0,Rhys Armstrong (Airdrieonians) Substitution at 57',Rhys Armstrong Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,355491,2025-05-12 04:51:47
+13330,735620,6,45228453,76,2,3420,57',0,0,Lewis Mcgregor (Airdrieonians) Substitution at 57',Lewis Mcgregor Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,227711,2025-05-12 04:51:47
+13330,735620,7,45228454,76,2,3420,57',0,0,Ricco Diack (Airdrieonians) Substitution at 57',Ricco Diack Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,282316,2025-05-12 04:51:47
+13330,735620,8,45228455,70,2,3480,58',1,0,Matt Yates (Stenhousemuir) Goal at 58',Matt Yates Goal,405,0.0,0.0,0.0,0.0,0.0,0.0,1,227236,2025-05-12 04:51:47
+13330,735620,9,45228689,94,2,3900,65',0,0,Ross Meechan (Stenhousemuir) Yellow Card at 65',Ross Meechan Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,162845,2025-05-12 04:51:47
+13330,735620,10,45228690,76,2,4020,67',0,0,Blair Alston (Stenhousemuir) Substitution at 67',Blair Alston Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,143467,2025-05-12 04:51:47
+13330,735620,10,45228690,76,2,4020,67',0,0,Blair Alston (Stenhousemuir) Substitution at 67',Blair Alston Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,112543,2025-05-12 04:51:47
+13330,735620,11,45228787,94,2,4320,72',0,0,Ewan O'Reilly (Stenhousemuir) Yellow Card at 72',Ewan O'Reilly Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,240728,2025-05-12 04:51:47
+13330,735620,12,45228806,94,2,4380,73',0,0,Matt Yates (Stenhousemuir) Yellow Card at 73',Matt Yates Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,227236,2025-05-12 04:51:47
+13330,735620,13,45228819,76,2,4500,75',0,0,Scott Tomlinson (Stenhousemuir) Substitution at 75',Scott Tomlinson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,355996,2025-05-12 04:51:47
+13330,735620,13,45228819,76,2,4500,75',0,0,Scott Tomlinson (Stenhousemuir) Substitution at 75',Scott Tomlinson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,227236,2025-05-12 04:51:47
+13330,735620,14,45228916,76,2,4920,82',0,0,Bobby Mcluckie (Stenhousemuir) Substitution at 82',Bobby Mcluckie Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,346188,2025-05-12 04:51:47
+13330,735620,14,45228916,76,2,4920,82',0,0,Bobby Mcluckie (Stenhousemuir) Substitution at 82',Bobby Mcluckie Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,240728,2025-05-12 04:51:47
+13330,735620,15,45228998,76,2,5160,86',0,0,Flynn Duffy (Airdrieonians) Substitution at 86',Flynn Duffy Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,311111,2025-05-12 04:51:47
+13330,735620,15,45228998,76,2,5160,86',0,0,Flynn Duffy (Airdrieonians) Substitution at 86',Flynn Duffy Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,231961,2025-05-12 04:51:47
+13330,735620,16,45229142,94,2,5400,90'+1',0,0,Scott Tomlinson (Stenhousemuir) Yellow Card at 91',Scott Tomlinson Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,355996,2025-05-12 04:51:47
+13330,735647,1,45210272,76,1,2580,43',0,0,Declan Glass (Cove Rangers) Substitution at 43',Declan Glass Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,260284,2025-05-07 04:56:00
+13330,735647,1,45210272,76,1,2580,43',0,0,Declan Glass (Cove Rangers) Substitution at 43',Declan Glass Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,139657,2025-05-07 04:56:00
+13330,735647,2,45210316,94,2,2820,47',0,0,Oscar Macintyre (Queen of the South) Yellow Card at 47',Oscar Macintyre Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,324795,2025-05-07 04:56:00
+13330,735647,3,45210320,94,2,3420,57',0,0,Findlay Marshall (Cove Rangers) Yellow Card at 57',Findlay Marshall Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,324755,2025-05-07 04:56:00
+13330,735647,5,45210332,76,2,3960,66',0,0,Taylor Charters (Queen of the South) Substitution at 66',Taylor Charters Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,293873,2025-05-07 04:56:00
+13330,735647,4,45210330,76,2,3960,66',0,0,Fraser Bryden (Queen of the South) Substitution at 66',Fraser Bryden Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,333424,2025-05-07 04:56:00
+13330,735647,5,45210332,76,2,3960,66',0,0,Taylor Charters (Queen of the South) Substitution at 66',Taylor Charters Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,271185,2025-05-07 04:56:00
+13330,735647,4,45210330,76,2,3960,66',0,0,Fraser Bryden (Queen of the South) Substitution at 66',Fraser Bryden Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,186044,2025-05-07 04:56:00
+13330,735647,4,45210330,76,2,3960,66',0,0,Fraser Bryden (Queen of the South) Substitution at 66',Fraser Bryden Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,231642,2025-05-07 04:56:00
+13330,735647,6,45210364,76,2,4740,79',0,0,Benjamin Luissint (Queen of the South) Substitution at 79',Benjamin Luissint Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,292911,2025-05-07 04:56:00
+13330,735647,6,45210364,76,2,4740,79',0,0,Benjamin Luissint (Queen of the South) Substitution at 79',Benjamin Luissint Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,324214,2025-05-07 04:56:00
+13330,735647,7,45210380,76,2,5160,86',0,0,Lewis O'Donnell (Queen of the South) Substitution at 86',Lewis O'Donnell Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,332860,2025-05-07 04:56:00
+13330,735647,7,45210380,76,2,5160,86',0,0,Lewis O'Donnell (Queen of the South) Substitution at 86',Lewis O'Donnell Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,261409,2025-05-07 04:56:00
+13330,735648,1,45227148,98,1,480,8',1,0,Mitchel Megginson (Cove Rangers) Penalty - Scored at 8',Mitchel Megginson Penalty - Scor,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,137801,2025-05-12 04:51:47
+13330,735648,2,45227188,94,1,540,9',0,0,Blair Yule (Cove Rangers) Yellow Card at 9',Blair Yule Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,153146,2025-05-12 04:51:47
+13330,735648,3,45227308,94,1,1140,19',0,0,Dylan Lobban (Cove Rangers) Yellow Card at 19',Dylan Lobban Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,324733,2025-05-12 04:51:47
+13330,735648,4,45227477,94,1,1980,33',0,0,Reece Lyon (Queen of the South) Yellow Card at 33',Reece Lyon Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,277539,2025-05-12 04:51:47
+13330,735648,5,45228164,70,2,2820,47',1,0,Blair Yule (Cove Rangers) Goal at 47',Blair Yule Goal,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,153146,2025-05-12 04:51:47
+13330,735648,6,45228202,76,2,2940,49',0,0,Benjamin Luissint (Queen of the South) Substitution at 49',Benjamin Luissint Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,292911,2025-05-12 04:51:47
+13330,735648,6,45228202,76,2,2940,49',0,0,Benjamin Luissint (Queen of the South) Substitution at 49',Benjamin Luissint Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,223885,2025-05-12 04:51:47
+13330,735648,7,45228367,76,2,3360,56',0,0,Conor Scully (Cove Rangers) Substitution at 56',Conor Scully Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,194473,2025-05-12 04:51:47
+13330,735648,7,45228367,76,2,3360,56',0,0,Conor Scully (Cove Rangers) Substitution at 56',Conor Scully Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,137801,2025-05-12 04:51:47
+13330,735648,8,45228539,76,2,3780,63',0,0,Fraser Bryden (Queen of the South) Substitution at 63',Fraser Bryden Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,333424,2025-05-12 04:51:47
+13330,735648,8,45228539,76,2,3780,63',0,0,Fraser Bryden (Queen of the South) Substitution at 63',Fraser Bryden Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,261409,2025-05-12 04:51:47
+13330,735648,9,45228697,76,2,4140,69',0,0,Fraser Fyvie (Cove Rangers) Substitution at 69',Fraser Fyvie Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,139657,2025-05-12 04:51:47
+13330,735648,9,45228697,76,2,4140,69',0,0,Fraser Fyvie (Cove Rangers) Substitution at 69',Fraser Fyvie Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,260284,2025-05-12 04:51:47
+13330,735648,10,45228832,94,2,4560,76',0,0,Fraser Fyvie (Cove Rangers) Yellow Card at 76',Fraser Fyvie Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,139657,2025-05-12 04:51:47
+13330,735648,11,45228833,76,2,4560,76',0,0,Liam Parker (Cove Rangers) Substitution at 76',Liam Parker Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,324849,2025-05-12 04:51:47
+13330,735648,11,45228833,76,2,4560,76',0,0,Liam Parker (Cove Rangers) Substitution at 76',Liam Parker Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,324755,2025-05-12 04:51:47
+13330,735648,12,45228834,70,2,4620,77',1,0,Kai Kennedy (Queen of the South) Goal at 77',Kai Kennedy Goal,406,0.0,0.0,0.0,0.0,0.0,0.0,1,277529,2025-05-12 04:51:47
+13330,735648,13,45229220,94,2,5400,90'+5',0,0,Michael Hewitt (Queen of the South) Yellow Card at 95',Michael Hewitt Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,271185,2025-05-12 04:51:47
+13329,735727,1,45259660,70,1,960,16',1,0,Dylan Mcdonald (Airdrieonians) Goal at 16',Dylan Mcdonald Goal,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,295739,2025-05-15 04:53:13
+13329,735727,2,45260051,97,1,2100,35',1,0,Lewis Mcgrattan (Airdrieonians) Own Goal at 35',Lewis Mcgrattan Own Goal,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,282316,2025-05-15 04:53:13
+13329,735727,3,45260277,94,1,2700,45',0,0,Declan Glass (Cove Rangers) Yellow Card at 45',Declan Glass Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,260284,2025-05-15 04:53:13
+13329,735727,4,45260490,94,2,3000,50',0,0,Lewis Mcgrattan (Airdrieonians) Yellow Card at 50',Lewis Mcgrattan Yellow Card,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,282316,2025-05-15 04:53:13
+13329,735727,5,45260550,76,2,3660,61',0,0,Gavin Gallagher (Airdrieonians) Substitution at 61',Gavin Gallagher Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,324841,2025-05-15 04:53:13
+13329,735727,6,45260551,76,2,3660,61',0,0,Rhys Armstrong (Airdrieonians) Substitution at 61',Rhys Armstrong Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,298262,2025-05-15 04:53:13
+13329,735727,5,45260550,76,2,3660,61',0,0,Gavin Gallagher (Airdrieonians) Substitution at 61',Gavin Gallagher Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,282316,2025-05-15 04:53:13
+13329,735727,6,45260551,76,2,3660,61',0,0,Rhys Armstrong (Airdrieonians) Substitution at 61',Rhys Armstrong Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,355491,2025-05-15 04:53:13
+13329,735727,7,45260560,70,2,3780,63',1,0,Lewis Strapp (Airdrieonians) Goal at 63',Lewis Strapp Goal,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,231961,2025-05-15 04:53:13
+13329,735727,8,45260616,94,2,4440,74',0,0,Rhys McCabe (Airdrieonians) Yellow Card at 74',Rhys McCabe Yellow Card,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,152197,2025-05-15 04:53:13
+13329,735727,9,45260617,76,2,4500,75',0,0,Conor Scully (Cove Rangers) Substitution at 75',Conor Scully Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,194473,2025-05-15 04:53:13
+13329,735727,9,45260617,76,2,4500,75',0,0,Conor Scully (Cove Rangers) Substitution at 75',Conor Scully Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,324755,2025-05-15 04:53:13
+13329,735727,10,45260648,76,2,4680,78',0,0,Ricco Diack (Airdrieonians) Substitution at 78',Ricco Diack Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,338524,2025-05-15 04:53:13
+13329,735727,10,45260648,76,2,4680,78',0,0,Ricco Diack (Airdrieonians) Substitution at 78',Ricco Diack Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,169619,2025-05-15 04:53:13
+13329,735727,11,45260649,76,2,4740,79',0,0,Lewis Mcgregor (Airdrieonians) Substitution at 79',Lewis Mcgregor Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,322779,2025-05-15 04:53:13
+13329,735727,11,45260649,76,2,4740,79',0,0,Lewis Mcgregor (Airdrieonians) Substitution at 79',Lewis Mcgregor Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,287931,2025-05-15 04:53:13
+13329,735727,12,45260662,76,2,4920,82',0,0,Miles Gaffney (Cove Rangers) Substitution at 82',Miles Gaffney Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,321821,2025-05-15 04:53:13
+13329,735727,12,45260662,76,2,4920,82',0,0,Miles Gaffney (Cove Rangers) Substitution at 82',Miles Gaffney Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,137801,2025-05-15 04:53:13
+13329,735728,1,45275495,94,2,3180,53',0,0,Adam Frizzell (Airdrieonians) Yellow Card at 53',Adam Frizzell Yellow Card,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,227711,2025-05-18 04:53:38
+13329,735728,2,45275591,76,2,3540,59',0,0,Liam Mcstravick (Airdrieonians) Substitution at 59',Liam Mcstravick Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,355491,2025-05-18 04:53:38
+13329,735728,2,45275591,76,2,3540,59',0,0,Liam Mcstravick (Airdrieonians) Substitution at 59',Liam Mcstravick Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,287931,2025-05-18 04:53:38
+13329,735728,3,45275664,76,2,3840,64',0,0,Gavin Gallagher (Airdrieonians) Substitution at 64',Gavin Gallagher Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,324841,2025-05-18 04:53:38
+13329,735728,3,45275664,76,2,3840,64',0,0,Gavin Gallagher (Airdrieonians) Substitution at 64',Gavin Gallagher Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,282316,2025-05-18 04:53:38
+13329,735728,4,45275771,76,2,4200,70',0,0,Mitchel Megginson (Cove Rangers) Substitution at 70',Mitchel Megginson Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,137801,2025-05-18 04:53:38
+13329,735728,4,45275771,76,2,4200,70',0,0,Mitchel Megginson (Cove Rangers) Substitution at 70',Mitchel Megginson Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,324755,2025-05-18 04:53:38
+13329,735728,6,45275842,76,2,4800,80',0,0,Miles Gaffney (Cove Rangers) Substitution at 80',Miles Gaffney Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,321821,2025-05-18 04:53:38
+13329,735728,5,45275839,76,2,4800,80',0,0,Grady Mcgrath (Cove Rangers) Substitution at 80',Grady Mcgrath Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,279963,2025-05-18 04:53:38
+13329,735728,6,45275842,76,2,4800,80',0,0,Miles Gaffney (Cove Rangers) Substitution at 80',Miles Gaffney Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,300075,2025-05-18 04:53:38
+13329,735728,5,45275839,76,2,4800,80',0,0,Grady Mcgrath (Cove Rangers) Substitution at 80',Grady Mcgrath Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,260284,2025-05-18 04:53:38
+13329,735728,7,45275849,94,2,4980,83',0,0,Fraser Fyvie (Cove Rangers) Yellow Card at 83',Fraser Fyvie Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,139657,2025-05-18 04:53:38
+13329,735728,8,45275850,76,2,5040,84',0,0,Liam Parker (Cove Rangers) Substitution at 84',Liam Parker Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,324849,2025-05-18 04:53:38
+13329,735728,8,45275850,76,2,5040,84',0,0,Liam Parker (Cove Rangers) Substitution at 84',Liam Parker Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,261460,2025-05-18 04:53:38
+13329,735728,9,45275860,94,2,5160,86',0,0,Blair Yule (Cove Rangers) Yellow Card at 86',Blair Yule Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,153146,2025-05-18 04:53:38

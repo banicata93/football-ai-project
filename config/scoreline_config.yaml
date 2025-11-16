@@ -1,0 +1,206 @@
+scoreline_config:
+  version: '1.0'
+  engine_type: 'poisson_ml_hybrid'
+  
+  # Matrix Configuration
+  matrix:
+    max_goals: 4                    # Maximum goals per team (creates 5x5 matrix)
+    min_prob: 0.00001              # Minimum probability for any scoreline
+    max_prob: 0.30                 # Maximum probability for any scoreline
+    total_combinations: 25          # (max_goals + 1)^2
+    
+  # Correction Model Configuration
+  correction_model:
+    version: 'v1'
+    model_path: 'models/scoreline_correction_v1'
+    model_file: 'correction_model.pkl'
+    features_file: 'feature_names.json'
+    metadata_file: 'metadata.json'
+    
+  # Engine Behavior
+  engine_settings:
+    apply_tempo: true               # Apply tempo-based adjustments
+    apply_draw_corrections: true    # Use draw specialist corrections
+    apply_league_scaling: true      # Apply league-specific scaling
+    apply_ml_corrections: true      # Use ML correction factors
+    
+  # Poisson Base Configuration
+  poisson:
+    use_poisson_v2: true           # Use Poisson v2 for lambda parameters
+    fallback_lambda_home: 1.5      # Default home team expected goals
+    fallback_lambda_away: 1.2      # Default away team expected goals
+    
+  # Adjustment Parameters
+  adjustments:
+    tempo:
+      enabled: true
+      min_factor: 0.7              # Minimum tempo adjustment
+      max_factor: 1.3              # Maximum tempo adjustment
+      
+    draw_specialist:
+      enabled: true
+      weight: 0.3                  # Weight for draw specialist corrections
+      
+    league_scaling:
+      enabled: true
+      cache_profiles: true         # Cache league scoring profiles
+      
+  # Feature Engineering
+  features:
+    match_features:
+      - xg_home                    # Expected goals home team
+      - xg_away                    # Expected goals away team
+      - tempo_proxy                # Match tempo indicator
+      - defensive_stability_home   # Home defensive stability
+      - defensive_stability_away   # Away defensive stability
+      - form_momentum_home         # Home team form momentum
+      - form_momentum_away         # Away team form momentum
+      - league_scoring_rate        # League average scoring rate
+      - draw_specialist_prob       # Draw specialist probability
+      
+    scoreline_features:
+      - home_goals                 # Home goals in scoreline
+      - away_goals                 # Away goals in scoreline
+      - total_goals                # Total goals in scoreline
+      - goal_difference            # Absolute goal difference
+      - is_draw                    # Is draw scoreline
+      - is_home_win               # Is home win scoreline
+      - is_away_win               # Is away win scoreline
+      - is_over_25                # Is over 2.5 goals
+      - is_btts                   # Is both teams to score
+      
+  # Training Configuration
+  training:
+    lookback_years: 3
+    min_matches_per_scoreline: 5
+    smoothing_factor: 0.1
+    
+    model_params:
+      objective: 'regression'
+      metric: 'rmse'
+      boosting_type: 'gbdt'
+      num_leaves: 31
+      learning_rate: 0.05
+      feature_fraction: 0.8
+      bagging_fraction: 0.8
+      n_estimators: 100
+      early_stopping_rounds: 10
+      
+  # Output Configuration
+  output:
+    matrix_format: 'dictionary'     # 'dictionary' or 'array'
+    include_summary: true           # Include 1X2, BTTS, OU2.5 summaries
+    include_features: true          # Include features used
+    include_metadata: true          # Include engine metadata
+    
+    summary_metrics:
+      - p_home                     # Home win probability
+      - p_draw                     # Draw probability  
+      - p_away                     # Away win probability
+      - xGF                        # Expected goals for (home)
+      - xGA                        # Expected goals against (away)
+      - btts_prob                  # Both teams to score probability
+      - over25_prob                # Over 2.5 goals probability
+      
+  # Performance Expectations
+  expected_performance:
+    matrix_accuracy: '70-80%'       # Accuracy for most likely scoreline
+    summary_accuracy: '75-85%'      # Accuracy for 1X2/BTTS/OU2.5
+    calibration_improvement: '10-20%' # vs pure Poisson
+    
+    typical_scoreline_probs:
+      '0-0': '0.05-0.15'
+      '1-0': '0.08-0.18'
+      '0-1': '0.06-0.16'
+      '1-1': '0.08-0.18'
+      '2-0': '0.06-0.14'
+      '0-2': '0.04-0.12'
+      '2-1': '0.08-0.16'
+      '1-2': '0.06-0.14'
+      
+  # Integration Configuration
+  integration:
+    api_endpoint: '/scoreline'
+    method: 'GET'
+    parameters:
+      - home_team
+      - away_team
+      - league (optional)
+      
+    response_format:
+      matrix: 'Full scoreline probability matrix'
+      summary: 'Aggregated metrics (1X2, BTTS, OU2.5)'
+      features_used: 'Features used in prediction'
+      engine_version: 'Engine version identifier'
+      
+  # Logging Configuration
+  logging:
+    log_file: 'logs/scoreline_engine.log'
+    log_level: 'INFO'
+    log_predictions: true
+    log_corrections: false          # Detailed correction logging
+    
+  # Caching Configuration
+  caching:
+    cache_poisson_results: true
+    cache_league_profiles: true
+    cache_correction_factors: false
+    cache_ttl_minutes: 60
+    
+  # Validation Configuration
+  validation:
+    cross_validation: true
+    cv_folds: 5
+    validation_metrics:
+      - rmse                       # Root mean squared error
+      - mae                        # Mean absolute error
+      - r2                         # R-squared
+      - calibration_error          # Calibration error
+      
+  # Use Cases
+  use_cases:
+    primary:
+      - exact_scoreline_betting    # Exact scoreline predictions
+      - enhanced_1x2_predictions   # Improved 1X2 via scoreline aggregation
+      - btts_ou25_refinement      # Better BTTS/OU2.5 via scoreline matrix
+      
+    secondary:
+      - match_simulation          # Monte Carlo match simulation
+      - risk_assessment           # Betting risk assessment
+      - market_analysis           # Betting market analysis
+      
+  # Notes and Documentation
+  notes: |
+    Scoreline Probability Engine Configuration
+    
+    This engine generates complete scoreline probability distributions by combining:
+    1. Poisson v2 base distributions (lambda_home, lambda_away)
+    2. ML correction factors (trained LightGBM model)
+    3. Tempo/pace adjustments (high/low scoring games)
+    4. Draw specialist corrections (enhanced draw probabilities)
+    5. League-specific scaling factors
+    
+    Key Features:
+    - Full 5x5 matrix (0-0 to 4-4) with 25 scoreline combinations
+    - Hybrid Poisson + ML approach for better accuracy
+    - Multiple correction layers for realistic probabilities
+    - Backward compatible with existing prediction system
+    
+    Output Format:
+    {
+      "matrix": {"0-0": 0.089, "1-0": 0.134, ..., "4-4": 0.001},
+      "summary": {
+        "p_home": 0.456, "p_draw": 0.267, "p_away": 0.277,
+        "btts_prob": 0.543, "over25_prob": 0.612
+      }
+    }
+    
+    Integration:
+    - ADDITIVE: Does not modify existing models
+    - OPTIONAL: Can be used to enhance existing predictions
+    - FALLBACK: Safe degradation to Poisson-only predictions
+    
+    Expected Impact:
+    - 10-20% improvement in scoreline prediction accuracy
+    - Better calibrated probabilities for exact scoreline betting
+    - Enhanced 1X2/BTTS/OU2.5 predictions via aggregation

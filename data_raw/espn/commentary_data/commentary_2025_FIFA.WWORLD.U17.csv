@@ -1,0 +1,736 @@
+seasonType,eventId,commentaryOrder,playId,clockDisplayValue,commentaryText,updateDateTime
+13430,736584,0,46256561,3',Kaylane (Brazil U17) Goal at 3',2025-11-01 05:18:07
+13430,736584,1,46256564,8',Zhou Xinyi (China PR U17) Yellow Card at 8',2025-10-29 05:18:30
+13430,736584,2,46256575,18',Kaylane (Brazil U17) Yellow Card at 18',2025-11-01 05:18:07
+13430,736584,3,46256582,34',Zhang Kecan (China PR U17) Substitution at 34',2025-10-29 05:18:30
+13430,736584,4,46256591,45',Dulce Maria (Brazil U17) Substitution at 45',2025-11-01 05:18:07
+13430,736584,5,46256594,45'+1',Zhang Kecan (China PR U17) Yellow Card at 46',2025-10-29 05:18:30
+13430,736584,6,46256597,45'+3',Marina (Brazil U17) Penalty - Missed at 48',2025-11-01 05:18:07
+13430,736584,7,46256606,45',Yang Yutong (China PR U17) Substitution at 45',2025-10-29 05:18:30
+13430,736584,8,46256608,45',Fang Zhenzhu (China PR U17) Substitution at 45',2025-10-29 05:18:30
+13430,736584,9,46256831,54',Evelin (Brazil U17) Goal at 54',2025-11-01 05:18:07
+13430,736584,10,46256941,58',Giovana Iseppe (Brazil U17) Goal at 58',2025-11-01 05:18:07
+13430,736584,11,46256944,61',Chen Junji (China PR U17) Substitution at 61',2025-10-29 05:18:30
+13430,736584,12,46256948,66',Chen Junji (China PR U17) Yellow Card at 66',2025-10-29 05:18:30
+13430,736584,13,46257144,77',Ravenna (Brazil U17) Substitution at 77',2025-11-01 05:18:07
+13430,736584,14,46257151,82',Julia Faria (Brazil U17) Yellow Card at 82',2025-11-01 05:18:07
+13430,736584,15,46257161,87',Pepê (Brazil U17) Substitution at 87',2025-11-01 05:18:07
+13430,736584,16,46257164,87',Li Qixian (China PR U17) Substitution at 87',2025-10-29 05:18:30
+13430,736584,17,46257165,87',Xu Yue (China PR U17) Substitution at 87',2025-10-29 05:18:30
+13430,736585,0,46256562,3',Liv Pennock (Netherlands U17) Goal at 3',2025-10-29 05:18:30
+13430,736585,1,46256580,29',Scottie Antonucci (United States U17) Yellow Card at 29',2025-10-29 05:18:30
+13430,736585,2,46256833,57',Micayla Johnson (United States U17) Goal at 57',2025-10-29 05:18:30
+13430,736585,3,46256945,67',Chloe Sadler (United States U17) Substitution at 67',2025-10-29 05:18:30
+13430,736585,4,46256946,67',Rochelity Dap (Netherlands U17) Substitution at 67',2025-10-29 05:18:30
+13430,736585,5,46256947,67',Jayda Vinckers (Netherlands U17) Substitution at 67',2025-10-29 05:18:30
+13430,736585,6,46256950,72',Kherrington Ream (United States U17) Substitution at 72',2025-10-29 05:18:30
+13430,736585,7,46256952,73',Naomi Van Der Linden (Netherlands U17) Yellow Card at 73',2025-10-29 05:18:30
+13430,736585,8,46257145,80',Sophie Van Hunnik (Netherlands U17) Substitution at 80',2025-10-29 05:18:30
+13430,736585,9,46257150,83',Nyanya Touray (United States U17) Yellow Card at 83',2025-10-29 05:18:30
+13430,736585,10,46257154,86',Sophie Van Hunnik (Netherlands U17) Yellow Card at 86',2025-10-29 05:18:30
+13430,736586,0,46260000,44',Caterina Venturelli (Italy U17) Yellow Card at 44',2025-10-29 05:18:30
+13430,736586,1,46260051,45',Anna Copelli (Italy U17) Goal at 45',2025-10-29 05:18:30
+13430,736586,2,46260771,48',Ayomide Rotimi (Nigeria U17) Yellow Card at 48',2025-10-29 05:18:30
+13430,736586,3,46261107,58',Caterina Venturelli (Italy U17) Goal at 58',2025-10-29 05:18:30
+13430,736586,4,46261368,62',Jumai Adebayo (Nigeria U17) Yellow Card at 62',2025-10-29 05:18:30
+13430,736586,5,46261369,63',Giulia Robino (Italy U17) Goal at 63',2025-10-29 05:18:30
+13430,736586,6,46261530,68',Kaosarat Olanrewaju (Nigeria U17) Substitution at 68',2025-10-29 05:18:30
+13430,736586,7,46261583,68',Nosat Tijani (Nigeria U17) Substitution at 68',2025-10-29 05:18:30
+13430,736586,8,46261643,71',Martina Bressan (Italy U17) Yellow Card at 71',2025-10-29 05:18:30
+13430,736586,9,46261700,72',Martina Romanelli (Italy U17) Substitution at 72',2025-10-29 05:18:30
+13430,736586,10,46261756,72',Benedetta Bedini (Italy U17) Substitution at 72',2025-10-29 05:18:30
+13430,736586,11,46261899,75',Mariam Yahaya (Nigeria U17) Yellow Card at 75',2025-10-29 05:18:30
+13430,736586,12,46262119,83',Shakirat Moshood (Nigeria U17) Yellow Card at 83',2025-10-29 05:18:30
+13430,736586,13,46262153,85',Sofia Pomati (Italy U17) Substitution at 85',2025-10-29 05:18:30
+13430,736586,14,46262380,88',Rachele Giudici (Italy U17) Goal at 88',2025-10-29 05:18:30
+13430,736586,15,46262440,90'+3',Valentina Piccardi (Italy U17) Substitution at 93',2025-10-29 05:18:30
+13430,736586,16,46262488,90'+3',Sara Terlizzi (Italy U17) Substitution at 93',2025-10-29 05:18:30
+13430,736587,0,46258908,2',Ri Jin-A (North Korea U17) Yellow Card at 2',2025-10-29 05:18:30
+13430,736587,1,46258933,3',Yu Jong-Hyang (North Korea U17) Goal at 3',2025-10-29 05:18:30
+13430,736587,2,46259088,10',Kim Won-Sim (North Korea U17) Goal at 10',2025-10-30 05:17:57
+13430,736587,3,46259900,40',Celia Bouzman (Morocco U17) Yellow Card at 40',2025-11-01 05:18:07
+13430,736587,4,46259919,42',Ri Kyong-Im (North Korea U17) Goal at 42',2025-10-29 05:18:30
+13430,736587,5,46259950,43',Imène Diyen (Morocco U17) Own Goal at 43',2025-10-29 05:18:30
+13430,736587,6,46260567,45',Pak Su-Rim (North Korea U17) Substitution at 45',2025-10-29 05:18:30
+13430,736587,7,46260621,45',Ri Hyo-Yang (North Korea U17) Substitution at 45',2025-10-29 05:18:30
+13430,736587,8,46260638,45',Maïssane Ferkous (Morocco U17) Substitution at 45',2025-10-29 05:18:30
+13430,736587,9,46260653,45',Amana Lakradi (Morocco U17) Substitution at 45',2025-10-29 05:18:30
+13430,736587,10,46261227,60',Romaïssa Ihssan (Morocco U17) Substitution at 60',2025-10-29 05:18:30
+13430,736587,11,46261531,67',Sara El Hajouti (Morocco U17) Substitution at 67',2025-10-29 05:18:30
+13430,736587,12,46261642,70',Kim Sun-Nyo (North Korea U17) Substitution at 70',2025-10-29 05:18:30
+13430,736587,13,46261683,70',Paek So-Hyang (North Korea U17) Substitution at 70',2025-10-29 05:18:30
+13430,736587,14,46261684,71',Ri Jin-A (North Korea U17) Goal at 71',2025-10-29 05:18:30
+13430,736587,15,46261829,73',Mayssa Baha (Morocco U17) Yellow Card at 73',2025-10-29 05:18:30
+13430,736587,16,46261878,75',Oh Jin-Sim (North Korea U17) Substitution at 75',2025-10-29 05:18:30
+13430,736587,17,46261965,78',Nihad Lghachi (Morocco U17) Substitution at 78',2025-10-29 05:18:30
+13430,736587,18,46262026,79',Yu Jong-Hyang (North Korea U17) Goal at 79',2025-10-29 05:18:30
+13430,736587,19,46262281,88',Maïssane Ferkous (Morocco U17) Goal at 88',2025-10-29 05:18:30
+13430,736588,0,46266699,17',Berenice Ibarra (Mexico U17) Goal at 17',2025-10-30 05:17:57
+13430,736588,1,46266890,45',Cynthia Casco (Paraguay U17) Substitution at 45',2025-10-30 05:17:57
+13430,736588,2,46266921,58',Bárbara Olmedo (Paraguay U17) Yellow Card at 58',2025-10-30 05:17:57
+13430,736588,3,46266925,62',Miranda Solís (Mexico U17) Substitution at 62',2025-10-30 05:17:57
+13430,736588,4,46266926,62',Samantha Ruiz (Mexico U17) Substitution at 62',2025-10-30 05:17:57
+13430,736588,5,46266940,70',Yuliza Franco (Paraguay U17) Substitution at 70',2025-10-30 05:17:57
+13430,736588,6,46267014,80',Valentina Murrieta (Mexico U17) Yellow Card at 80',2025-10-30 05:17:57
+13430,736588,7,46267050,84',Fernanda Monroy (Mexico U17) Substitution at 84',2025-10-30 05:17:57
+13430,736588,8,46267058,84',Laila Avila (Mexico U17) Substitution at 84',2025-10-30 05:17:57
+13430,736588,9,46267074,86',Victoria Ucedo (Paraguay U17) Substitution at 86',2025-10-30 05:17:57
+13430,736588,10,46267075,86',Fiorella Gonzalez (Paraguay U17) Substitution at 86',2025-10-30 05:17:57
+13430,736588,11,46267092,89',Valeria Vázquez (Mexico U17) Substitution at 89',2025-10-30 05:17:57
+13430,736588,12,46267161,90'+7',Erica Figueredo (Paraguay U17) Substitution at 97',2025-10-30 05:17:57
+13430,736589,0,46266700,31',Julia Torres (Spain U17) Yellow Card at 31',2025-10-30 05:17:57
+13430,736589,1,46266701,35',Raquel Zuazo (Spain U17) Yellow Card at 35',2025-10-30 05:17:57
+13430,736589,2,46266919,52',Lúa Arufe (Spain U17) Yellow Card at 52',2025-10-30 05:17:57
+13430,736589,3,46266920,56',Camille Marmillot (France U17) Substitution at 56',2025-10-30 05:17:57
+13430,736589,4,46266923,56',Luna Laboucarie (France U17) Substitution at 56',2025-10-30 05:17:57
+13430,736589,5,46266967,71',Carolina Ferrera (Spain U17) Substitution at 71',2025-10-30 05:17:57
+13430,736589,6,46267011,76',Talila Seika (France U17) Yellow Card at 76',2025-10-30 05:17:57
+13430,736589,7,46267012,78',María Rius (Spain U17) Substitution at 78',2025-10-30 05:17:57
+13430,736589,8,46267030,78',Iraia Fernández (Spain U17) Substitution at 78',2025-10-30 05:17:57
+13430,736589,9,46267110,89',Celia Gómez (Spain U17) Substitution at 89',2025-10-30 05:17:57
+13430,736589,10,46267140,90'+2',Thaïs Gallais (France U17) Substitution at 92',2025-10-30 05:17:57
+13430,736589,11,46267160,90'+4',Nell Poye (France U17) Substitution at 94',2025-10-30 05:17:57
+13430,736590,0,46269137,4',Natasha Nkaka (Zambia U17) Yellow Card at 4',2025-10-30 05:17:57
+13430,736590,1,46269352,13',Melisa Kekic (Canada U17) Goal at 13',2025-10-30 05:17:57
+13430,736590,2,46269744,30',Daniela Feria-Estrada (Canada U17) Goal at 30',2025-10-30 05:17:57
+13430,736590,3,46269795,34',Esther Ngabwe (Zambia U17) Substitution at 34',2025-11-01 05:18:07
+13430,736590,4,46269891,39',Mya Angus (Canada U17) Goal at 39',2025-10-30 05:17:57
+13430,736590,5,46270800,45',Emma Donnelly (Canada U17) Substitution at 45',2025-10-30 05:17:57
+13430,736590,6,46270846,45',Molly Hale (Canada U17) Substitution at 45',2025-10-30 05:17:57
+13430,736590,7,46270847,45',Julia Amireh (Canada U17) Substitution at 45',2025-10-30 05:17:57
+13430,736590,8,46271497,60',Melisa Kekic (Canada U17) Penalty - Missed at 60',2025-10-30 05:17:57
+13430,736590,9,46271665,63',Felicia Hanisch (Canada U17) Substitution at 63',2025-10-30 05:17:57
+13430,736590,10,46271949,69',Mercy Chipasula (Zambia U17) Yellow Card at 69',2025-11-01 05:18:07
+13430,736590,11,46272008,71',Mélyna Alexis (Canada U17) Substitution at 71',2025-10-30 05:17:57
+13430,736590,12,46272094,71',Molly Hale (Canada U17) Yellow Card at 71',2025-10-30 05:17:57
+13430,736590,13,46272245,78',Masela Sekeseke (Zambia U17) Substitution at 78',2025-10-30 05:17:57
+13430,736590,14,46272297,78',Taonga Tembo (Zambia U17) Substitution at 78',2025-10-30 05:17:57
+13430,736590,15,46272298,80',Chloe Taylor (Canada U17) Goal at 80',2025-10-30 05:17:57
+13430,736590,16,46272529,84',Amy Medley (Canada U17) Goal at 84',2025-10-30 05:17:57
+13430,736590,17,46272771,90',Precious Mwape (Zambia U17) Yellow Card at 90',2025-10-30 05:17:57
+13430,736590,18,46272776,90'+2',Daniela Feria-Estrada (Canada U17) Goal at 92',2025-10-30 05:17:57
+13430,736591,0,46269264,10',Ua Ohno (Japan U17) Goal at 10',2025-10-30 05:17:57
+13430,736591,1,46269528,22',Noa Fukushima (Japan U17) Goal at 22',2025-10-30 05:17:57
+13430,736591,2,46269969,43',Konoha Nakamura (Japan U17) Goal at 43',2025-10-30 05:17:57
+13430,736591,3,46271156,57',Noa Fukushima (Japan U17) Goal at 57',2025-10-30 05:17:57
+13430,736591,4,46271412,62',Shizuru Iida (Japan U17) Substitution at 62',2025-10-30 05:17:57
+13430,736591,5,46271413,62',Iro Sato (Japan U17) Substitution at 62',2025-10-30 05:17:57
+13430,736591,6,46271603,67',Angélica Castillo (Colombia U17) Substitution at 67',2025-10-30 05:17:57
+13430,736591,7,46272014,74',London Crawford (Colombia U17) Yellow Card at 74',2025-10-30 05:17:57
+13430,736591,8,46272015,75',Momoka Sano (Japan U17) Substitution at 75',2025-10-30 05:17:57
+13430,736591,9,46272016,75',Yuna Miyazaki (Japan U17) Substitution at 75',2025-10-30 05:17:57
+13430,736591,10,46272017,76',María Ceballos (Colombia U17) Substitution at 76',2025-10-30 05:17:57
+13430,736591,11,46272223,82',Sofia Clavijo (Colombia U17) Yellow Card at 82',2025-10-30 05:17:57
+13430,736591,12,46272310,84',Isabella Amado (Colombia U17) Substitution at 84',2025-10-30 05:17:57
+13430,736591,13,46272311,84',Nanami Taira (Japan U17) Substitution at 84',2025-10-30 05:17:57
+13430,736591,14,46272445,84',Camila Cortés (Colombia U17) Substitution at 84',2025-10-30 05:17:57
+13430,736591,15,46272368,85',Niko Shikida (Japan U17) Yellow Card at 85',2025-10-30 05:17:57
+13429,736592,0,46294732,57',Mélyna Alexis (Canada U17) Substitution at 57',2025-11-02 05:18:08
+13429,736592,1,46295107,66',Pepê  (Brazil U17) Substitution at 66',2025-11-02 05:18:08
+13429,736592,2,46295161,66',Ravenna  (Brazil U17) Substitution at 66',2025-11-02 05:18:08
+13429,736592,3,46295506,76',Daniela Feria-Estrada (Canada U17) Substitution at 76',2025-11-02 05:18:08
+13429,736592,4,46295628,85',Molly Hale (Canada U17) Substitution at 85',2025-11-02 05:18:08
+13429,736592,5,46295670,89',Reed Tingley (Canada U17) Yellow Card at 89',2025-11-02 05:18:08
+13429,736592,6,46295746,90'+4',Gabi Pusch  (Brazil U17) Substitution at 94',2025-11-02 05:18:08
+13429,736592,7,46296099,99',Andreyna  (Brazil U17) Yellow Card at 99',2025-11-02 05:18:08
+13429,736593,0,46297732,1',Kim Won-Sim (North Korea U17) Goal at 1',2025-11-02 05:18:08
+13429,736593,1,46297869,6',Ri Ui-Gyong (North Korea U17) Goal at 6',2025-11-02 05:18:08
+13429,736593,2,46297937,8',Konoha Nakamura (Japan U17) Goal at 8',2025-11-02 05:18:08
+13429,736593,3,46298070,12',Ema Matsuoka (Japan U17) Yellow Card at 12',2025-11-02 05:18:08
+13429,736593,4,46298331,22',Yu Jong-Hyang (North Korea U17) Goal at 22',2025-11-02 05:18:08
+13429,736593,5,46299330,45',Nanami Taira (Japan U17) Substitution at 45',2025-11-02 05:18:08
+13429,736593,6,46299808,64',Mihiro Furukawa (Japan U17) Substitution at 64',2025-11-02 05:18:08
+13429,736593,7,46300034,73',Kim Won-Sim (North Korea U17) Goal at 73',2025-11-02 05:18:08
+13429,736593,8,46300172,79',Ena Koizumi (Japan U17) Substitution at 79',2025-11-02 05:18:08
+13429,736593,9,46300173,79',Manami Sato (Japan U17) Substitution at 79',2025-11-02 05:18:08
+13429,736593,10,46300242,81',Ri Ye-Rim (North Korea U17) Substitution at 81',2025-11-02 05:18:08
+13429,736593,11,46300495,90'+1',Momoka Sano (Japan U17) Substitution at 91',2025-11-02 05:18:08
+13429,736593,12,46300496,90'+1',Paek So-Hyang (North Korea U17) Substitution at 91',2025-11-02 05:18:08
+13429,736593,13,46300546,90'+4',Pak Su-Rim (North Korea U17) Substitution at 94',2025-11-02 05:18:08
+13429,736593,14,46300579,90'+6',Ri Ui-Gyong (North Korea U17) Goal at 96',2025-11-02 05:18:08
+13429,736594,0,46309113,23',Jayda Vinckers (Netherlands U17) Substitution at 23',2025-11-03 06:17:05
+13429,736594,1,46309261,34',Rachael Adedini (France U17) Goal at 34',2025-11-03 06:17:05
+13429,736594,2,46309424,45',Aline Weerelts (Netherlands U17) Yellow Card at 45',2025-11-03 06:17:05
+13429,736594,3,46309791,45',Ranneke Derks (Netherlands U17) Substitution at 45',2025-11-03 06:17:05
+13429,736594,4,46309792,45',Stella Grondin (France U17) Substitution at 45',2025-11-03 06:17:05
+13429,736594,5,46309831,46',Océane Moreau-Tranchant (France U17) Yellow Card at 46',2025-11-03 06:17:05
+13429,736594,6,46309891,50',Ranneke Derks (Netherlands U17) Yellow Card at 50',2025-11-03 06:17:05
+13429,736594,7,46310279,68',Liv Pennock (Netherlands U17) Yellow Card at 68',2025-11-03 06:17:05
+13429,736594,8,46310391,74',Sofia Djoubri (France U17) Substitution at 74',2025-11-03 06:17:05
+13429,736594,9,46310420,74',Luna Laboucarie (France U17) Substitution at 74',2025-11-03 06:17:05
+13429,736594,10,46310500,79',Sophie Van Hunnik (Netherlands U17) Substitution at 79',2025-11-03 06:17:05
+13429,736594,11,46310520,80',Luna Laboucarie (France U17) Yellow Card at 80',2025-11-03 06:17:05
+13429,736594,12,46310579,84',Camille Marmillot (France U17) Substitution at 84',2025-11-03 06:17:05
+13429,736594,13,46310604,85',Rochelity Dap (Netherlands U17) Substitution at 85',2025-11-03 06:17:05
+13429,736594,14,46310632,85',Ayah Eloualidi (Netherlands U17) Substitution at 85',2025-11-03 06:17:05
+13429,736594,15,46310713,90'+1',Luna Laboucarie (France U17) Goal at 91',2025-11-03 06:17:05
+13429,736594,16,46310746,90'+3',Rochelity Dap (Netherlands U17) Goal at 93',2025-11-03 06:17:05
+13429,736594,17,46310894,90'+8',Ranneke Derks (Netherlands U17) Goal at 98',2025-11-03 06:17:05
+13429,736594,18,46310933,90'+10',Nell Poye (France U17) Substitution at 100',2025-11-03 06:17:05
+13429,736594,19,46310934,90'+10',Thaïs Gallais (France U17) Substitution at 100',2025-11-03 06:17:05
+13429,736595,0,46312762,21',Rachele Giudici (Italy U17) Penalty - Saved at 21',2025-11-03 06:17:05
+13429,736595,1,46312966,31',Joselyn Solís (Mexico U17) Yellow Card at 31',2025-11-03 06:17:05
+13429,736595,2,46313101,41',Giulia Galli (Italy U17) Penalty - Saved at 41',2025-11-03 06:17:05
+13429,736595,3,46313820,58',Fernanda Monroy (Mexico U17) Substitution at 58',2025-11-03 06:17:05
+13429,736595,4,46313904,61',Alexa Martinez (Mexico U17) Yellow Card at 61',2025-11-03 06:17:05
+13429,736595,5,46314023,68',Giulia Robino (Italy U17) Yellow Card at 68',2025-11-03 06:17:05
+13429,736595,6,46314067,71',Laila Avila (Mexico U17) Substitution at 71',2025-11-03 06:17:05
+13429,736595,7,46314174,79',Martina Romanelli (Italy U17) Substitution at 79',2025-11-03 06:17:05
+13429,736595,8,46314197,79',Valentina Piccardi (Italy U17) Substitution at 79',2025-11-03 06:17:05
+13429,736595,9,46314364,88',Benedetta Bedini (Italy U17) Substitution at 88',2025-11-03 06:17:05
+13429,736595,10,46314457,90'+2',Samantha Ruiz (Mexico U17) Substitution at 92',2025-11-03 06:17:05
+13429,736595,11,46314505,90'+6',Sara Terlizzi (Italy U17) Substitution at 96',2025-11-03 06:17:05
+13429,736595,12,46314561,90'+9',Sofia Verrini (Italy U17) Yellow Card at 99',2025-11-03 06:17:05
+13427,736598,0,46353928,20',Samantha Ruiz (Mexico U17) Yellow Card at 20',2025-11-09 15:08:00
+13427,736598,1,46355730,50',Julia Pereira  (Brazil U17) Yellow Card at 50',2025-11-09 15:08:00
+13427,736598,2,46356146,61',Ravenna  (Brazil U17) Substitution at 61',2025-11-09 15:08:00
+13427,736598,3,46356293,65',Dafne Sánchez (Mexico U17) Substitution at 65',2025-11-09 15:08:00
+13427,736598,4,46356329,65',Fernanda Monroy (Mexico U17) Substitution at 65',2025-11-09 15:08:00
+13427,736598,5,46356367,68',Gabi Pusch  (Brazil U17) Substitution at 68',2025-11-09 15:08:00
+13427,736598,6,46356556,78',Kaylane  (Brazil U17) Goal at 78',2025-11-09 15:08:00
+13427,736598,7,46356701,90'+1',Laila Avila (Mexico U17) Substitution at 91',2025-11-09 15:08:00
+13427,736598,8,46356741,90'+1',Miranda Solís (Mexico U17) Substitution at 91',2025-11-09 15:08:00
+13427,736598,9,46356755,90'+5',Allyne Vithorya  (Brazil U17) Yellow Card at 95',2025-11-09 15:08:00
+13427,736598,10,46356776,90'+5',Evelin  (Brazil U17) Own Goal at 95',2025-11-09 15:08:00
+13427,736598,11,46356790,90'+6',Dany Pereira  (Brazil U17) Substitution at 96',2025-11-09 15:08:00
+13431,736548,0,46156775,12',Evelin (Brazil U17) Goal at 12',2025-10-21 05:17:09
+13431,736548,1,46157040,35',Giovanna Waksman (Brazil U17) Goal at 35',2025-10-21 05:17:09
+13431,736548,2,46157193,45'+5',Evelin (Brazil U17) Yellow Card at 50',2025-10-21 05:17:09
+13431,736548,3,46157436,57',Allyne Vithorya (Brazil U17) Yellow Card at 57',2025-10-21 05:17:09
+13431,736548,4,46157523,66',Pepê (Brazil U17) Substitution at 66',2025-10-21 05:17:09
+13431,736548,5,46157524,66',Dulce Maria (Brazil U17) Substitution at 66',2025-10-21 05:17:09
+13431,736548,6,46157541,69',Inaya Kahlaoui (Morocco U17) Substitution at 69',2025-10-18 05:22:43
+13431,736548,7,46157547,69',Romaïssa Ihssan (Morocco U17) Substitution at 69',2025-10-18 05:22:43
+13431,736548,8,46157592,75',Allyne Vithorya (Brazil U17) Goal at 75',2025-10-21 05:17:09
+13431,736548,9,46157628,78',Gabriela Rolnik (Brazil U17) Substitution at 78',2025-10-21 05:17:09
+13431,736548,10,46157630,78',Ravenna (Brazil U17) Substitution at 78',2025-10-21 05:17:09
+13431,736548,11,46157629,79',Mariane (Brazil U17) Substitution at 79',2025-10-21 05:17:09
+13431,736548,12,46157644,82',Isra Redouani (Morocco U17) Substitution at 82',2025-10-18 05:22:43
+13431,736548,13,46157684,90'+1',Amana Lakradi (Morocco U17) Substitution at 91',2025-10-18 05:22:43
+13431,736549,0,46169734,15',Abigail Villacís (Ecuador U17) Yellow Card at 15',2025-10-19 05:22:21
+13431,736549,1,46169808,19',Meila Brewer (United States U17) Goal at 19',2025-10-19 05:22:21
+13431,736549,2,46170039,28',Ammy Flores (Ecuador U17) Yellow Card at 28',2025-10-19 05:22:21
+13431,736549,3,46170134,35',Scottie Antonucci (United States U17) Yellow Card at 35',2025-10-19 05:22:21
+13431,736549,4,46170215,41',Nyanya Touray (United States U17) Goal at 41',2025-10-19 05:22:21
+13431,736549,5,46170275,45'+1',Lauren Malsom (United States U17) Goal at 46',2025-10-19 05:22:21
+13431,736549,6,46170593,45',Jaslym Valverde (Ecuador U17) Substitution at 45',2025-10-19 05:22:21
+13431,736549,7,46170636,45',Natalie Chudowsky (United States U17) Substitution at 45',2025-10-19 05:22:21
+13431,736549,8,46170656,45',Rosa Estupiñan (Ecuador U17) Substitution at 45',2025-10-19 05:22:21
+13431,736549,9,46170733,53',Rosa Estupiñan (Ecuador U17) Yellow Card at 53',2025-10-19 05:22:21
+13431,736549,10,46170951,62',Chloe Sadler (United States U17) Substitution at 62',2025-10-19 05:22:21
+13431,736549,11,46170952,62',Jaiden Rodriguez (United States U17) Substitution at 62',2025-10-19 05:22:21
+13431,736549,12,46171103,70',Kherrington Ream (United States U17) Substitution at 70',2025-10-19 05:22:21
+13431,736549,13,46171254,76',Emily Delgado (Ecuador U17) Substitution at 76',2025-10-19 05:22:21
+13431,736549,14,46171284,77',Olivia Robinson (United States U17) Substitution at 77',2025-10-19 05:22:21
+13431,736549,15,46171411,81',Jaiden Rodriguez (United States U17) Yellow Card at 81',2025-10-19 05:22:21
+13431,736549,16,46171437,83',Esther Carabalí (Ecuador U17) Substitution at 83',2025-10-19 05:22:21
+13431,736549,17,46171520,88',Emily Vargas (Ecuador U17) Substitution at 88',2025-10-19 05:22:21
+13431,736550,0,46161969,40',Emma Azofeifa (Costa Rica U17) Yellow Card at 40',2025-10-19 05:22:21
+13431,736550,1,46161999,42',Giulia Galli (Italy U17) Goal at 42',2025-10-19 05:22:21
+13431,736550,2,46162171,45'+7',Tiara Ruiz (Costa Rica U17) Yellow Card at 52',2025-10-19 05:22:21
+13431,736550,3,46163162,61',Anna Copelli (Italy U17) Goal at 61',2025-10-19 05:22:21
+13431,736550,4,46163327,67',Naydelin Barquero (Costa Rica U17) Substitution at 67',2025-10-19 05:22:21
+13431,736550,5,46163471,67',Kiana Lopez (Costa Rica U17) Substitution at 67',2025-10-19 05:22:21
+13431,736550,6,46163365,68',Martina Romanelli (Italy U17) Substitution at 68',2025-10-19 05:22:21
+13431,736550,7,46163470,68',Marzia Piermarini (Italy U17) Substitution at 68',2025-10-19 05:22:21
+13431,736550,8,46163517,72',Giulia Galli (Italy U17) Goal at 72',2025-10-19 05:22:21
+13431,736550,9,46163610,73',Verónica Solano (Costa Rica U17) Substitution at 73',2025-10-19 05:22:21
+13431,736550,10,46163864,80',Valentina Piccardi (Italy U17) Substitution at 80',2025-10-22 05:16:20
+13431,736550,11,46163865,80',Giulia Robino (Italy U17) Substitution at 80',2025-10-19 05:22:21
+13431,736550,12,46164151,87',Michelle Murillo (Costa Rica U17) Substitution at 87',2025-10-19 05:22:21
+13431,736550,13,46164152,87',Caterina Iannaccone (Italy U17) Substitution at 87',2025-10-19 05:22:21
+13431,736551,0,46169502,3',Yu Jong-Hyang (North Korea U17) Goal at 3',2025-10-19 05:22:21
+13431,736551,1,46170040,28',Kim Won-Sim (North Korea U17) Goal at 28',2025-10-19 05:22:21
+13431,736551,2,46170199,40',Ri Ye-Rim (North Korea U17) Substitution at 40',2025-10-19 05:22:21
+13431,736551,3,46170577,45',Dafne Sánchez (Mexico U17) Substitution at 45',2025-10-19 05:22:21
+13431,736551,4,46170603,45',Chloe Del Real (Mexico U17) Substitution at 45',2025-10-19 05:22:21
+13431,736551,5,46170798,54',Vanessa Paredes (Mexico U17) Yellow Card at 54',2025-10-19 05:22:21
+13431,736551,6,46170965,60',Eh Chong-Gum (North Korea U17) Yellow Card at 60',2025-10-19 05:22:21
+13431,736551,7,46171190,72',Ava Stack (Mexico U17) Substitution at 72',2025-10-19 05:22:21
+13431,736551,8,46171506,86',Valeria Vázquez (Mexico U17) Substitution at 86',2025-10-19 05:22:21
+13431,736551,9,46171573,90',Paek So-Hyang (North Korea U17) Substitution at 90',2025-10-19 05:22:21
+13431,736551,10,46171626,90'+2',Samantha Ruiz (Mexico U17) Substitution at 92',2025-10-19 05:22:21
+13431,736552,0,46169472,2',Liv Pennock (Netherlands U17) Goal at 2',2025-10-19 05:22:21
+13431,736552,1,46169529,6',Rochelity Dap (Netherlands U17) Goal at 6',2025-10-19 05:22:21
+13431,736552,2,46169704,13',Tsongo Nkoussa (Cameroon U17) Goal at 13',2025-10-19 05:22:21
+13431,736552,3,46170241,43',Tess Van Der Vliet (Netherlands U17) Goal at 43',2025-10-19 05:22:21
+13431,736552,4,46170285,45',Tiwa Fraîche Lys (Cameroon U17) Goal at 45',2025-10-19 05:22:21
+13431,736552,5,46170690,48',Mylene Zoua (Cameroon U17) Goal at 48',2025-10-19 05:22:21
+13431,736552,6,46170801,53',Mylene Zoua (Cameroon U17) Yellow Card at 53',2025-10-19 05:22:21
+13431,736552,7,46170842,53',Ayah Eloualidi (Netherlands U17) Substitution at 53',2025-10-22 05:16:20
+13431,736552,8,46170918,57',Liv Pennock (Netherlands U17) Yellow Card at 57',2025-10-19 05:22:21
+13431,736552,9,46171029,64',Kee Hubert (Netherlands U17) Substitution at 64',2025-10-19 05:22:21
+13431,736552,10,46171165,70',Ange Tazanou (Cameroon U17) Substitution at 70',2025-10-19 05:22:21
+13431,736552,11,46171356,76',Aymee Altena (Netherlands U17) Substitution at 76',2025-10-19 05:22:21
+13431,736552,12,46171357,76',Lina Touzani (Netherlands U17) Substitution at 76',2025-10-19 05:22:21
+13431,736552,13,46171378,77',Aymee Altena (Netherlands U17) Goal at 77',2025-10-19 05:22:21
+13431,736552,14,46171544,87',Ange Tazanou (Cameroon U17) Yellow Card at 87',2025-10-19 05:22:21
+13431,736552,15,46171657,90'+3',Vasterio Mbida (Cameroon U17) Substitution at 93',2025-10-19 05:22:21
+13431,736553,0,46161393,6',Aida Berg (Norway U17) Yellow Card at 6',2025-10-19 05:22:21
+13431,736553,1,46161547,14',Ebba Niss (Norway U17) Yellow Card at 14',2025-10-19 05:22:21
+13431,736553,2,46161552,16',Chen Ruilin (China PR U17) Goal at 16',2025-10-19 05:22:21
+13431,736553,3,46162112,45'+5',Lea Ellingsen (Norway U17) Yellow Card at 50',2025-10-19 05:22:21
+13431,736553,4,46162132,45'+6',Zhou Xinyi (China PR U17) Penalty - Scored at 51',2025-10-19 05:22:21
+13431,736553,5,46162498,45',Elida Kolbjørnsen (Norway U17) Substitution at 45',2025-10-19 05:22:21
+13431,736553,6,46162564,45',Chen Yuting (China PR U17) Substitution at 45',2025-10-19 05:22:21
+13431,736553,7,46162641,45',Fang Zhenzhu (China PR U17) Substitution at 45',2025-10-19 05:22:21
+13431,736553,8,46162845,53',Cai Xinlin (China PR U17) Substitution at 53',2025-10-19 05:22:21
+13431,736553,9,46163000,57',Zhou Xinyi (China PR U17) Goal at 57',2025-10-19 05:22:21
+13431,736553,10,46163275,66',Sandra Pallesen-Nygård (Norway U17) Substitution at 66',2025-10-19 05:22:21
+13431,736553,11,46163314,66',Celia Lind (Norway U17) Substitution at 66',2025-10-19 05:22:21
+13431,736553,12,46163395,69',He Yuanqi (China PR U17) Yellow Card at 69',2025-10-19 05:22:21
+13431,736553,13,46163782,79',Xu Yue (China PR U17) Substitution at 79',2025-10-19 05:22:21
+13431,736553,14,46163903,82',Fang Zhenzhu (China PR U17) Goal at 82',2025-10-19 05:22:21
+13431,736553,15,46164103,85',Sunniva Hjertvik (Norway U17) Substitution at 85',2025-10-19 05:22:21
+13431,736553,16,46164184,89',Yang Yutong (China PR U17) Substitution at 89',2025-10-19 05:22:21
+13431,736553,17,46164199,89',Fang Zhenzhu (China PR U17) Goal at 89',2025-10-19 05:22:21
+13431,736554,0,46179900,2',N’Sira Ouedraogo (Ivory Coast U17) Goal at 2',2025-10-20 05:22:45
+13431,736554,1,46180221,24',Niazale Digbeu (Ivory Coast U17) Yellow Card at 24',2025-10-20 05:22:45
+13431,736554,2,46180540,44',Drehana Gosse (Ivory Coast U17) Substitution at 44',2025-10-20 05:22:45
+13431,736554,3,46180789,45',Baek Seo-Yeong (South Korea U17) Substitution at 45',2025-10-20 05:22:45
+13431,736554,4,46180871,52',Grace Sery (Ivory Coast U17) Yellow Card at 52',2025-10-20 05:22:45
+13431,736554,5,46181227,74',Kim Ji-Eun (South Korea U17) Substitution at 74',2025-10-20 05:22:45
+13431,736554,6,46181351,83',Jang Ye-Yun (South Korea U17) Penalty - Scored at 83',2025-10-20 05:22:45
+13431,736554,7,46181392,84',Gueyagnon Doh (Ivory Coast U17) Substitution at 84',2025-10-20 05:22:45
+13431,736554,8,46181517,90'+3',Mafandje Bakayoko (Ivory Coast U17) Yellow Card at 93',2025-10-20 05:22:45
+13431,736555,0,46180435,38',Yuna Aoki (Japan U17) Penalty - Scored at 38',2025-10-20 05:22:45
+13431,736555,1,46180712,45'+13',Yuna Aoki (Japan U17) Penalty - Saved at 58',2025-10-20 05:22:45
+13431,736555,2,46180892,45',Ua Ohno (Japan U17) Substitution at 45',2025-10-20 05:22:45
+13431,736555,3,46180907,45',Natalie Young (New Zealand U17) Substitution at 45',2025-10-20 05:22:45
+13431,736555,4,46180908,45',Niko Shikida (Japan U17) Substitution at 45',2025-10-20 05:22:45
+13431,736555,5,46180960,45',Ariana Vosper (New Zealand U17) Substitution at 45',2025-10-20 05:22:45
+13431,736555,6,46181261,67',Yuna Takahashi (Japan U17) Substitution at 67',2025-10-20 05:22:45
+13431,736555,7,46181290,67',Ena Koizumi (Japan U17) Substitution at 67',2025-10-20 05:22:45
+13431,736555,8,46181291,68',Kya Solomon (New Zealand U17) Substitution at 68',2025-10-20 05:22:45
+13431,736555,9,46181338,72',Laura Bennett (New Zealand U17) Substitution at 72',2025-10-20 05:22:45
+13431,736555,10,46181387,75',Noa Fukushima (Japan U17) Goal at 75',2025-10-20 05:22:45
+13431,736555,11,46181493,81',Iro Sato (Japan U17) Substitution at 81',2025-10-20 05:22:45
+13431,736555,12,46181522,84',Niko Shikida (Japan U17) Goal at 84',2025-10-20 05:22:45
+13431,736555,13,46181545,86',Lane Ririnui (New Zealand U17) Substitution at 86',2025-10-20 05:22:45
+13431,736556,0,46184419,2',Gabriela Istocki (Canada U17) Goal at 2',2025-10-20 05:22:45
+13431,736556,1,46184907,29',Queen Joseph (Nigeria U17) Goal at 29',2025-10-20 05:22:45
+13431,736556,2,46185625,62',Mélyna Alexis (Canada U17) Substitution at 62',2025-10-20 05:22:45
+13431,736556,3,46185627,62',Emma Donnelly (Canada U17) Substitution at 62',2025-10-20 05:22:45
+13431,736556,4,46185628,62',Melisa Kekic (Canada U17) Substitution at 62',2025-10-20 05:22:45
+13431,736556,5,46185650,62',Mariam Yahaya (Nigeria U17) Substitution at 62',2025-10-20 05:22:45
+13431,736556,6,46185785,72',Julia Amireh (Canada U17) Substitution at 72',2025-10-20 05:22:45
+13431,736556,7,46185809,73',Melisa Kekic (Canada U17) Goal at 73',2025-10-20 05:22:45
+13431,736556,8,46185917,80',Julia Amireh (Canada U17) Goal at 80',2025-10-20 05:22:45
+13431,736556,9,46185945,81',Nguemo Terlumun (Nigeria U17) Substitution at 81',2025-10-20 05:22:45
+13431,736556,10,46185983,83',Marika Martineau (Canada U17) Substitution at 83',2025-10-20 05:22:45
+13431,736556,11,46186003,86',Julia Amireh (Canada U17) Goal at 86',2025-10-20 05:22:45
+13431,736556,12,46186011,87',Fatimoh Shuaib (Nigeria U17) Substitution at 87',2025-10-20 05:22:45
+13431,736557,0,46184635,15',Anna Quer (Spain U17) Goal at 15',2025-10-20 05:22:45
+13431,736557,1,46184873,28',Carlota Chacón (Spain U17) Goal at 28',2025-10-20 05:22:45
+13431,736557,2,46185204,45'+1',Carlota Chacón (Spain U17) Goal at 46',2025-10-23 05:18:01
+13431,736557,3,46185291,45'+7',Noa Jiménez (Spain U17) Penalty - Saved at 52',2025-10-20 05:22:45
+13431,736557,4,46185386,45',Celia Gómez (Spain U17) Substitution at 45',2025-10-20 05:22:45
+13431,736557,5,46185391,45',Shaira Collazos (Colombia U17) Substitution at 45',2025-10-20 05:22:45
+13431,736557,6,46185392,45',Camila Cortés (Colombia U17) Substitution at 45',2025-10-20 05:22:45
+13431,736557,7,46185630,60',Maura Henao (Colombia U17) Substitution at 60',2025-10-20 05:22:45
+13431,736557,8,46185709,65',María Rius (Spain U17) Substitution at 65',2025-10-20 05:22:45
+13431,736557,9,46185756,66',Sofia Clavijo (Colombia U17) Yellow Card at 66',2025-10-20 05:22:45
+13431,736557,10,46185912,78',Silvia Cristóbal (Spain U17) Goal at 78',2025-10-23 05:18:01
+13431,736557,11,46185975,81',Vera Molina (Spain U17) Substitution at 81',2025-10-20 05:22:45
+13431,736557,12,46185976,82',Carla Castiñeyras (Spain U17) Substitution at 82',2025-10-20 05:22:45
+13431,736557,13,46185977,82',Lidia Gibert (Spain U17) Substitution at 82',2025-10-20 05:22:45
+13431,736557,14,46186089,89',Vanessa Puerta (Colombia U17) Substitution at 89',2025-10-20 05:22:45
+13431,736558,0,46184541,10',Victoria Mbali (Zambia U17) Goal at 10',2025-10-20 05:22:45
+13431,736558,1,46184706,18',Mary Nyangu (Zambia U17) Own Goal at 18',2025-10-20 05:22:45
+13431,736558,2,46184981,34',Nana Malanda (Zambia U17) Own Goal at 34',2025-10-20 05:22:45
+13431,736558,3,46185377,45',Kiara Florentín (Paraguay U17) Substitution at 45',2025-10-20 05:22:45
+13431,736558,4,46185385,45',Cynthia Casco (Paraguay U17) Substitution at 45',2025-10-20 05:22:45
+13431,736558,5,46185629,63',Beatrice Njobvu (Zambia U17) Substitution at 63',2025-10-20 05:22:45
+13431,736558,6,46185814,75',Florencia Caceres (Paraguay U17) Substitution at 75',2025-10-20 05:22:45
+13431,736558,7,46186010,89',Bárbara Olmedo (Paraguay U17) Yellow Card at 89',2025-10-20 05:22:45
+13431,736558,8,46186016,90',Mercy Chipasula (Zambia U17) Penalty - Missed at 90',2025-10-20 05:22:45
+13431,736559,0,46182446,2',Camille Marmillot (France U17) Goal at 2',2025-10-20 05:22:45
+13431,736559,1,46182655,19',Thaïs Gallais (France U17) Goal at 19',2025-10-20 05:22:45
+13431,736559,2,46182961,33',Thaïs Gallais (France U17) Goal at 33',2025-10-20 05:22:45
+13431,736559,3,46182983,34',Jayde Sagapolutele (Samoa U17) Substitution at 34',2025-10-20 05:22:45
+13431,736559,4,46183041,37',Jayde Sagapolutele (Samoa U17) Goal at 37',2025-10-20 05:22:45
+13431,736559,5,46183492,45',Stella Grondin (France U17) Substitution at 45',2025-10-20 05:22:45
+13431,736559,6,46183529,45',Rachael Adedini (France U17) Substitution at 45',2025-10-20 05:22:45
+13431,736559,7,46183530,45',Mikayla Afoa (Samoa U17) Substitution at 45',2025-10-20 05:22:45
+13431,736559,8,46183609,51',Makea Leonard (Samoa U17) Goal at 51',2025-10-20 05:22:45
+13431,736559,9,46183749,65',Luna Laboucarie (France U17) Substitution at 65',2025-10-20 05:22:45
+13431,736559,10,46183750,65',Léa-Laëtitia Morissaint (France U17) Substitution at 65',2025-10-20 05:22:45
+13431,736559,11,46183783,68',Océane Moreau-Tranchant (France U17) Substitution at 68',2025-10-23 05:18:01
+13431,736559,12,46183792,70',Cali Willis (Samoa U17) Substitution at 70',2025-10-20 05:22:45
+13431,736559,13,46183859,80',Holly Leapai (Samoa U17) Substitution at 80',2025-10-20 05:22:45
+13431,736559,14,46183860,80',Jhalilah Sio (Samoa U17) Substitution at 80',2025-10-20 05:22:45
+13431,736559,15,46183912,90'+1',Elena Moreira Da Rocha (France U17) Goal at 91',2025-10-20 05:22:45
+13431,736560,0,46198117,22',Aghogue Crystal (Cameroon U17) Yellow Card at 22',2025-10-22 05:16:20
+13431,736560,1,46198158,37',Michelle Mbouke (Cameroon U17) Yellow Card at 37',2025-10-22 05:16:20
+13431,736560,2,46198340,45'+2',Lys Tiwa (Cameroon U17) Goal at 47',2025-10-25 05:18:56
+13431,736560,3,46198410,50',Yolande Ngassa (Cameroon U17) Substitution at 50',2025-10-25 05:18:56
+13431,736560,4,46198411,52',Ri Ye-Rim (North Korea U17) Substitution at 52',2025-10-22 05:16:20
+13431,736560,5,46198412,65',Ri Ui-Gyong (North Korea U17) Substitution at 65',2025-10-22 05:16:20
+13431,736560,6,46198414,73',Vasterio Mbida (Cameroon U17) Substitution at 73',2025-10-22 05:16:20
+13431,736560,7,46198415,75',Kim Won-Sim (North Korea U17) Goal at 75',2025-10-22 05:16:20
+13431,736560,8,46198618,81',Beatrice Avana De Z (Cameroon U17) Substitution at 81',2025-10-22 05:16:20
+13431,736560,9,46198693,86',Josepha Ayissa Nkono (Cameroon U17) Yellow Card at 86',2025-10-22 05:16:20
+13431,736560,10,46198619,90'+8',Kim Won-Sim (North Korea U17) Goal at 98',2025-10-22 05:16:20
+13431,736561,0,46198860,12',Zhou Xinyi (China PR U17) Goal at 12',2025-10-22 05:16:20
+13431,736561,1,46199027,27',Lauren Malsom (United States U17) Goal at 27',2025-10-22 05:16:20
+13431,736561,2,46199037,33',Xu Yue (China PR U17) Substitution at 33',2025-10-22 05:16:20
+13431,736561,3,46199067,44',Maddie Dimaria (United States U17) Goal at 44',2025-10-22 05:16:20
+13431,736561,4,46199087,45'+3',Nyanya Touray (United States U17) Goal at 48',2025-10-22 05:16:20
+13431,736561,5,46199158,45',Xu Xiaotang (China PR U17) Substitution at 45',2025-10-22 05:16:20
+13431,736561,6,46199163,45',Fang Zhenzhu (China PR U17) Substitution at 45',2025-10-22 05:16:20
+13431,736561,7,46199239,59',Pearl Cecil (United States U17) Yellow Card at 59',2025-10-22 05:16:20
+13431,736561,8,46199253,62',Nyanya Touray (United States U17) Goal at 62',2025-10-22 05:16:20
+13431,736561,9,46199265,64',Elayna Kocher (United States U17) Substitution at 64',2025-10-22 05:16:20
+13431,736561,10,46199266,64',Natalie Chudowsky (United States U17) Substitution at 64',2025-10-22 05:16:20
+13431,736561,11,46199310,68',Lauren Malsom (United States U17) Goal at 68',2025-10-22 05:16:20
+13431,736561,12,46199322,71',Jaiden Rodriguez (United States U17) Substitution at 71',2025-10-22 05:16:20
+13431,736561,13,46199335,71',Mak Whitham (United States U17) Substitution at 71',2025-10-22 05:16:20
+13431,736561,14,46199336,71',Yu Tianxin (China PR U17) Substitution at 71',2025-10-22 05:16:20
+13431,736561,15,46199337,71',Li Qixian (China PR U17) Substitution at 71',2025-10-22 05:16:20
+13431,736561,16,46199535,78',Anastasia Showler-Little (United States U17) Substitution at 78',2025-10-22 05:16:20
+13431,736561,17,46199559,85',Zeng Youjing (China PR U17) Goal at 85',2025-10-22 05:16:20
+13431,736562,0,46199025,25',Kiana Lopez (Costa Rica U17) Yellow Card at 25',2025-10-22 05:16:20
+13431,736562,1,46199035,32',Lucía Paniagua (Costa Rica U17) Goal at 32',2025-10-22 05:16:20
+13431,736562,2,46199256,59',Pepê  (Brazil U17) Substitution at 59',2025-10-22 05:16:20
+13431,736562,3,46199257,59',Naima Moya (Costa Rica U17) Substitution at 59',2025-10-22 05:16:20
+13431,736562,4,46199304,64',Karol Molina (Costa Rica U17) Yellow Card at 64',2025-10-22 05:16:20
+13431,736562,5,46199554,80',Alisha Lindo (Costa Rica U17) Substitution at 80',2025-10-22 05:16:20
+13431,736562,6,46199561,82',Giovana Iseppe  (Brazil U17) Goal at 82',2025-10-22 05:16:20
+13431,736562,7,46199578,86',Brithany Arronis (Costa Rica U17) Substitution at 86',2025-10-22 05:16:20
+13431,736562,8,46199661,90'+8',Kaylane  (Brazil U17) Penalty - Saved at 98',2025-10-22 05:16:20
+13431,736563,0,46200283,5',Giulia Galli (Italy U17) Goal at 5',2025-10-22 05:16:20
+13431,736563,1,46200525,13',Giulia Galli (Italy U17) Goal at 13',2025-10-22 05:16:20
+13431,736563,2,46200797,23',Rachele Giudici (Italy U17) Goal at 23',2025-10-22 05:16:20
+13431,736563,3,46200854,26',Maryam Rahmoune (Morocco U17) Yellow Card at 26',2025-10-22 05:16:20
+13431,736563,4,46202411,59',Romaïssa Ihssan (Morocco U17) Substitution at 59',2025-10-22 05:16:20
+13431,736563,5,46202463,60',Anna Copelli (Italy U17) Yellow Card at 60',2025-10-22 05:16:20
+13431,736563,6,46202598,64',Martina Romanelli (Italy U17) Substitution at 64',2025-10-22 05:16:20
+13431,736563,7,46202599,64',Benedetta Bedini (Italy U17) Substitution at 64',2025-10-22 05:16:20
+13431,736563,8,46202724,67',Amana Lakradi (Morocco U17) Substitution at 67',2025-10-22 05:16:20
+13431,736563,9,46202974,74',Valentina Piccardi (Italy U17) Substitution at 74',2025-10-22 05:16:20
+13431,736563,10,46202975,74',Sofia Pomati (Italy U17) Substitution at 74',2025-10-22 05:16:20
+13431,736563,11,46203128,80',Dounia El Mesmoudi (Morocco U17) Substitution at 80',2025-10-22 05:16:20
+13431,736563,12,46203129,80',Laila Boushaba (Morocco U17) Substitution at 80',2025-10-22 05:16:20
+13431,736563,13,46203181,81',Dounia El Mesmoudi (Morocco U17) Goal at 81',2025-10-22 05:16:20
+13431,736563,14,46203330,90'+1',Marzia Piermarini (Italy U17) Substitution at 91',2025-10-22 05:16:20
+13431,736564,0,46200940,27',Mia Villalpando (Mexico U17) Yellow Card at 27',2025-10-22 05:16:20
+13431,736564,1,46201598,45',Chloe Del Real (Mexico U17) Substitution at 45',2025-10-22 05:16:20
+13431,736564,2,46201984,56',Sophie Van Hunnik (Netherlands U17) Substitution at 56',2025-10-22 05:16:20
+13431,736564,3,46201985,56',Rochelity Dap (Netherlands U17) Substitution at 56',2025-10-22 05:16:20
+13431,736564,4,46202243,58',Vanessa Paredes (Mexico U17) Red Card at 58',2025-10-22 05:16:20
+13431,736564,5,46202825,76',Fernanda Monroy (Mexico U17) Substitution at 76',2025-10-22 05:16:20
+13431,736564,6,46202919,77',Kim Rietveld (Netherlands U17) Yellow Card at 77',2025-10-22 05:16:20
+13431,736564,7,46203025,81',Lina Touzani (Netherlands U17) Substitution at 81',2025-10-22 05:16:20
+13431,736564,8,46203026,81',Laila Avila (Mexico U17) Substitution at 81',2025-10-22 05:16:20
+13431,736564,9,46203027,81',Valeria Alvarado (Mexico U17) Substitution at 81',2025-10-22 05:16:20
+13431,736564,10,46203180,87',Citlalli Reyes (Mexico U17) Goal at 87',2025-10-22 05:16:20
+13431,736564,11,46203205,88',Aymee Altena (Netherlands U17) Substitution at 88',2025-10-22 05:16:20
+13431,736564,12,46203232,90',Valeria Vázquez (Mexico U17) Substitution at 90',2025-10-22 05:16:20
+13431,736565,0,46200354,8',Christina Herseth (Norway U17) Penalty - Saved at 8',2025-10-22 05:16:20
+13431,736565,1,46200834,24',Sigrid Gamst (Norway U17) Yellow Card at 24',2025-10-22 05:16:20
+13431,736565,2,46200981,29',Ebba Niss (Norway U17) Own Goal at 29',2025-10-22 05:16:20
+13431,736565,3,46202384,62',Emily Fierro (Ecuador U17) Substitution at 62',2025-10-22 05:16:20
+13431,736565,4,46202443,63',Sandra Pallesen-Nygård (Norway U17) Substitution at 63',2025-10-22 05:16:20
+13431,736565,5,46202574,67',Maite Zambrano (Ecuador U17) Yellow Card at 67',2025-10-22 05:16:20
+13431,736565,6,46202705,70',Valeria Briones (Ecuador U17) Substitution at 70',2025-10-22 05:16:20
+13431,736565,7,46202706,71',Erika López (Ecuador U17) Substitution at 71',2025-10-22 05:16:20
+13431,736565,8,46202815,74',Maite Zambrano (Ecuador U17) Goal at 74',2025-10-22 05:16:20
+13431,736565,9,46202856,75',Maren Fuglås (Norway U17) Substitution at 75',2025-10-22 05:16:20
+13431,736565,10,46202857,75',Amalie Lia (Norway U17) Substitution at 75',2025-10-22 05:16:20
+13431,736565,11,46202996,79',Julie Steen (Norway U17) Substitution at 79',2025-10-22 05:16:20
+13431,736565,12,46203077,81',Abigail Villacís (Ecuador U17) Yellow Card at 81',2025-10-22 05:16:20
+13431,736565,13,46203078,82',Rihanna Quiñonez (Ecuador U17) Substitution at 82',2025-10-22 05:16:20
+13431,736565,14,46203265,90',Sandra Pallesen-Nygård (Norway U17) Yellow Card at 90',2025-10-22 05:16:20
+13431,736566,0,46206394,8',Maura Henao (Colombia U17) Yellow Card at 8',2025-10-23 05:18:01
+13431,736566,1,46206653,22',Sofia Clavijo (Colombia U17) Goal at 22',2025-10-23 05:18:01
+13431,736566,2,46207475,55',Mama Fofana (Ivory Coast U17) Substitution at 55',2025-10-23 05:18:01
+13431,736566,3,46207529,57',Daniela Todd (Colombia U17) Substitution at 57',2025-10-23 05:18:01
+13431,736566,4,46207903,72',Drehana Gosse (Ivory Coast U17) Substitution at 72',2025-10-23 05:18:01
+13431,736566,5,46208005,76',London Crawford (Colombia U17) Substitution at 76',2025-10-23 05:18:01
+13431,736566,6,46208087,80',London Crawford (Colombia U17) Goal at 80',2025-10-23 05:18:01
+13431,736566,7,46208229,86',Gueyagnon Doh (Ivory Coast U17) Substitution at 86',2025-10-23 05:18:01
+13431,736566,8,46208364,90'+5',Ella Martínez (Colombia U17) Goal at 95',2025-10-23 05:18:01
+13431,736566,9,46208386,90'+9',Angélica Castillo (Colombia U17) Substitution at 99',2025-10-23 05:18:01
+13431,736566,10,46208393,90'+9',Vanessa Puerta (Colombia U17) Substitution at 99',2025-10-23 05:18:01
+13431,736567,0,46205653,17',Natasha Kasema (Zambia U17) Substitution at 17',2025-10-23 05:18:01
+13431,736567,1,46205757,45',Mone Sato (Japan U17) Substitution at 45',2025-10-23 05:18:01
+13431,736567,2,46205758,45',Yuna Takahashi (Japan U17) Substitution at 45',2025-10-23 05:18:01
+13431,736567,3,46205835,65',Nanami Taira (Japan U17) Substitution at 65',2025-10-23 05:18:01
+13431,736567,4,46205848,66',Grace Phiri (Zambia U17) Yellow Card at 66',2025-10-23 05:18:01
+13431,736567,5,46205855,69',Honoka Sunaga (Japan U17) Goal at 69',2025-10-23 05:18:01
+13431,736567,6,46205881,73',Natasha Nkaka (Zambia U17) Substitution at 73',2025-10-23 05:18:01
+13431,736567,7,46205889,78',Shizuru Iida (Japan U17) Substitution at 78',2025-10-23 05:18:01
+13431,736567,8,46205896,82',Loveness Chingwele (Zambia U17) Red Card at 82',2025-10-23 05:18:01
+13431,736567,9,46205898,85',Decent Mbewe (Zambia U17) Substitution at 85',2025-10-23 05:18:01
+13431,736567,10,46205899,86',Noa Fukushima (Japan U17) Penalty - Scored at 86',2025-10-23 05:18:01
+13431,736567,11,46205906,88',Manami Sato (Japan U17) Substitution at 88',2025-10-24 05:14:39
+13431,736568,0,46206630,20',Shakirat Moshood (Nigeria U17) Yellow Card at 20',2025-10-23 05:18:01
+13431,736568,1,46206820,31',Rachael Adedini (France U17) Yellow Card at 31',2025-10-23 05:18:01
+13431,736568,2,46207247,45',Camille Marmillot (France U17) Substitution at 45',2025-10-23 05:18:01
+13431,736568,3,46207390,54',Luna Laboucarie (France U17) Substitution at 54',2025-10-23 05:18:01
+13431,736568,4,46207391,54',Maïssa Fathallah (France U17) Substitution at 54',2025-10-23 05:18:01
+13431,736568,5,46207680,65',Mariam Yahaya (Nigeria U17) Substitution at 65',2025-10-23 05:18:01
+13431,736568,6,46207681,65',Zainab Raji (Nigeria U17) Substitution at 65',2025-10-23 05:18:01
+13431,736568,7,46208071,81',Maïssa Fathallah (France U17) Goal at 81',2025-10-23 05:18:01
+13431,736568,8,46208285,90'+2',Nguemo Terlumun (Nigeria U17) Substitution at 92',2025-10-23 05:18:01
+13431,736569,0,46206815,30',Katie Pugh (New Zealand U17) Goal at 30',2025-10-23 05:18:01
+13431,736569,1,46207335,49',Claudia Martínez (Paraguay U17) Goal at 49',2025-10-23 05:18:01
+13431,736569,2,46207459,54',Claudia Martínez (Paraguay U17) Goal at 54',2025-10-23 05:18:01
+13431,736569,3,46207560,59',Heidi Draai (New Zealand U17) Substitution at 59',2025-10-23 05:18:01
+13431,736569,4,46207613,59',Lane Ririnui (New Zealand U17) Substitution at 59',2025-10-23 05:18:01
+13431,736569,5,46207614,59',Sienna Candy (New Zealand U17) Substitution at 59',2025-10-23 05:18:01
+13431,736569,6,46207615,59',Claudia Martínez (Paraguay U17) Yellow Card at 59',2025-10-23 05:18:01
+13431,736569,7,46207744,64',Claudia Martínez (Paraguay U17) Goal at 64',2025-10-23 05:18:01
+13431,736569,8,46207801,67',Kiara Florentín (Paraguay U17) Goal at 67',2025-10-23 05:18:01
+13431,736569,9,46207912,72',Erica Figueredo (Paraguay U17) Substitution at 72',2025-10-23 05:18:01
+13431,736569,10,46207913,72',Keira Tichbon (New Zealand U17) Substitution at 72',2025-10-23 05:18:01
+13431,736569,11,46208072,79',Yuliza Franco (Paraguay U17) Substitution at 79',2025-10-23 05:18:01
+13431,736569,12,46208138,79',Cynthia Casco (Paraguay U17) Substitution at 79',2025-10-23 05:18:01
+13431,736569,13,46208139,82',Natalie Young (New Zealand U17) Substitution at 82',2025-10-23 05:18:01
+13431,736569,14,46208203,86',Natalie Young (New Zealand U17) Yellow Card at 86',2025-10-23 05:18:01
+13431,736569,15,46208255,89',Florencia Caceres (Paraguay U17) Substitution at 89',2025-10-23 05:18:01
+13431,736570,0,46205469,26',Carlota Chacón (Spain U17) Goal at 26',2025-10-23 05:18:01
+13431,736570,1,46205496,36',Anna Quer (Spain U17) Goal at 36',2025-10-23 05:18:01
+13431,736570,2,46205573,45',Woo Seo-Yeon (South Korea U17) Substitution at 45',2025-10-23 05:18:01
+13431,736570,3,46205578,62',Julia Torres (Spain U17) Goal at 62',2025-10-23 05:18:01
+13431,736570,4,46205579,63',Seo-Yoon Hong (South Korea U17) Substitution at 63',2025-10-23 05:18:01
+13431,736570,5,46205580,63',Yang Se-Bin (South Korea U17) Substitution at 63',2025-10-23 05:18:01
+13431,736570,6,46205581,65',Carlota Chacón (Spain U17) Goal at 65',2025-10-23 05:18:01
+13431,736570,7,46205582,66',Carolina Ferrera (Spain U17) Substitution at 66',2025-10-23 05:18:01
+13431,736570,8,46205583,66',María Rius (Spain U17) Substitution at 66',2025-10-23 05:18:01
+13431,736570,9,46205585,72',Kwon Ye-Bin (South Korea U17) Substitution at 72',2025-10-23 05:18:01
+13431,736570,10,46205586,72',Lee Soon-Ok (South Korea U17) Substitution at 72',2025-10-23 05:18:01
+13431,736570,11,46205587,74',Iraia Fernández (Spain U17) Substitution at 74',2025-10-23 05:18:01
+13431,736570,12,46205588,75',Vera Molina (Spain U17) Substitution at 75',2025-10-23 05:18:01
+13431,736570,13,46205590,78',Silvia Cristóbal (Spain U17) Goal at 78',2025-10-25 05:18:56
+13431,736570,14,46205591,81',Maialen Valladares (Spain U17) Substitution at 81',2025-10-23 05:18:01
+13431,736571,0,46205652,14',Daniela Feria-Estrada (Canada U17) Goal at 14',2025-10-23 05:18:01
+13431,736571,1,46205655,31',Macey Tuiolosega (Samoa U17) Substitution at 31',2025-10-23 05:18:01
+13431,736571,2,46205657,36',Olivia Chisholm (Canada U17) Goal at 36',2025-10-23 05:18:01
+13431,736571,3,46205742,45',Lacey Kindel (Canada U17) Substitution at 45',2025-10-23 05:18:01
+13431,736571,4,46205759,45',Naomi Lofthouse (Canada U17) Substitution at 45',2025-10-23 05:18:01
+13431,736571,5,46205760,45',Alyssa Mcleod (Canada U17) Substitution at 45',2025-10-23 05:18:01
+13431,736571,6,46205770,45',Chloe Taylor (Canada U17) Substitution at 45',2025-10-23 05:18:01
+13431,736571,7,46205802,54',Lacey Kindel (Canada U17) Goal at 54',2025-10-23 05:18:01
+13431,736571,8,46205804,58',Marika Martineau (Canada U17) Goal at 58',2025-10-23 05:18:01
+13431,736571,9,46205817,62',Reed Tingley (Canada U17) Substitution at 62',2025-10-23 05:18:01
+13431,736571,10,46205823,62',Jhalilah Sio (Samoa U17) Substitution at 62',2025-10-23 05:18:01
+13431,736571,11,46205824,62',Holly Leapai (Samoa U17) Substitution at 62',2025-10-23 05:18:01
+13431,736571,12,46205839,67',Julia Amireh (Canada U17) Goal at 67',2025-10-23 05:18:01
+13431,736571,13,46205893,83',Simone Blood (Samoa U17) Substitution at 83',2025-10-23 05:18:01
+13431,736571,14,46205894,83',Reyna Tufuga (Samoa U17) Substitution at 83',2025-10-23 05:18:01
+13431,736571,15,46205914,90'+2',Mia Afoa (Samoa U17) Own Goal at 92',2025-10-23 05:18:01
+13431,736572,0,46219883,10',Zhou Xinyi (China PR U17) Goal at 10',2025-10-25 05:18:56
+13431,736572,1,46219886,16',Zeng Youjing (China PR U17) Goal at 16',2025-10-25 05:18:56
+13431,736572,2,46219895,31',Chen Ruilin (China PR U17) Goal at 31',2025-10-25 05:18:56
+13431,736572,3,46219897,43',Song Yu (China PR U17) Goal at 43',2025-10-25 05:18:56
+13431,736572,4,46219917,45',Nicole Yépez (Ecuador U17) Substitution at 45',2025-10-25 05:18:56
+13431,736572,5,46219919,45',Analia Machuca (Ecuador U17) Substitution at 45',2025-10-25 05:18:56
+13431,736572,6,46219920,45',Emily Fierro (Ecuador U17) Substitution at 45',2025-10-25 05:18:56
+13431,736572,7,46220046,65',Zhou Xinyi (China PR U17) Penalty - Missed at 65',2025-10-25 05:18:56
+13431,736572,8,46220048,68',Li Xinzhi (China PR U17) Substitution at 68',2025-10-25 05:18:56
+13431,736572,9,46220053,68',Chen Junji (China PR U17) Substitution at 68',2025-10-25 05:18:56
+13431,736572,10,46220054,68',Song Lijuan (China PR U17) Substitution at 68',2025-10-25 05:18:56
+13431,736572,11,46220060,71',Esther Carabalí (Ecuador U17) Substitution at 71',2025-10-25 05:18:56
+13431,736572,12,46220075,77',Li Qixian (China PR U17) Substitution at 77',2025-10-25 05:18:56
+13431,736572,13,46220076,77',Erika López (Ecuador U17) Substitution at 77',2025-10-25 05:18:56
+13431,736572,14,46220102,90'+3',Song Lijuan (China PR U17) Yellow Card at 93',2025-10-28 05:16:01
+13431,736572,15,46220103,90'+5',Chen Yuting (China PR U17) Substitution at 95',2025-10-25 05:18:56
+13431,736573,0,46219875,6',Kherrington Ream (United States U17) Goal at 6',2025-10-25 05:18:56
+13431,736573,1,46219910,45',Sara Holte (Norway U17) Substitution at 45',2025-10-25 05:18:56
+13431,736573,2,46219927,49',Elayna Kocher (United States U17) Goal at 49',2025-10-25 05:18:56
+13431,736573,3,46220014,60',Heidi Halbmayr (Norway U17) Substitution at 60',2025-10-25 05:18:56
+13431,736573,4,46220018,61',Nyanya Touray (United States U17) Substitution at 61',2025-10-25 05:18:56
+13431,736573,5,46220019,62',Micayla Johnson (United States U17) Substitution at 62',2025-10-25 05:18:56
+13431,736573,6,46220020,63',Nyanya Touray (United States U17) Goal at 63',2025-10-25 05:18:56
+13431,736573,7,46220030,64',Mak Whitham (United States U17) Goal at 64',2025-10-25 05:18:56
+13431,736573,8,46220036,67',Olivia Robinson (United States U17) Substitution at 67',2025-10-25 05:18:56
+13431,736573,9,46220037,67',Lauren Malsom (United States U17) Substitution at 67',2025-10-25 05:18:56
+13431,736573,10,46220038,67',Ebba Niss (Norway U17) Substitution at 67',2025-10-25 05:18:56
+13431,736573,11,46220069,77',Nathalie Skeide (Norway U17) Substitution at 77',2025-10-25 05:18:56
+13431,736573,12,46220070,77',Maria Hagen (Norway U17) Substitution at 77',2025-10-25 05:18:56
+13431,736573,13,46220074,78',Anastasia Showler-Little (United States U17) Substitution at 78',2025-10-25 05:18:56
+13431,736573,14,46220077,80',Micayla Johnson (United States U17) Goal at 80',2025-10-25 05:18:56
+13431,736574,0,46221659,18',Ri Kyong-Im (North Korea U17) Goal at 18',2025-10-25 05:18:56
+13431,736574,1,46221864,26',Aline Weerelts (Netherlands U17) Red Card at 26',2025-10-25 05:18:56
+13431,736574,2,46222056,35',Maren Groothoff (Netherlands U17) Own Goal at 35',2025-10-25 05:18:56
+13431,736574,3,46222597,45',Ayah Eloualidi (Netherlands U17) Substitution at 45',2025-10-25 05:18:56
+13431,736574,4,46222598,45',Aymee Altena (Netherlands U17) Substitution at 45',2025-10-25 05:18:56
+13431,736574,5,46222934,66',Yu Jong-Hyang (North Korea U17) Goal at 66',2025-10-25 05:18:56
+13431,736574,6,46222976,67',Jayda Vinckers (Netherlands U17) Substitution at 67',2025-10-25 05:18:56
+13431,736574,7,46223001,69',Ri Hyo-Yang (North Korea U17) Substitution at 69',2025-10-25 05:18:56
+13431,736574,8,46223016,70',Ri Ye-Rim (North Korea U17) Substitution at 70',2025-10-25 05:18:56
+13431,736574,9,46223065,74',Pak Su-Rim (North Korea U17) Substitution at 74',2025-10-25 05:18:56
+13431,736574,10,46223066,74',Paek So-Hyang (North Korea U17) Substitution at 74',2025-10-25 05:18:56
+13431,736574,11,46223141,79',Kim Yon-A (North Korea U17) Substitution at 79',2025-10-25 05:18:56
+13431,736574,12,46223158,81',Ri Hyo-Yang (North Korea U17) Goal at 81',2025-10-25 05:18:56
+13431,736574,13,46223354,86',Yu Jong-Hyang (North Korea U17) Penalty - Scored at 86',2025-10-25 05:18:56
+13431,736574,14,46223421,90'+1',Leah Fuite (Netherlands U17) Substitution at 91',2025-10-25 05:18:56
+13431,736575,0,46221380,5',Giulia Galli (Italy U17) Goal at 5',2025-10-25 05:18:56
+13431,736575,1,46222279,45'+3',Caterina Venturelli (Italy U17) Goal at 48',2025-10-25 05:18:56
+13431,736575,2,46222409,45'+10',Giovanna Waksman (Brazil U17) Goal at 55',2025-10-28 05:16:01
+13431,736575,3,46222625,45',Martina Romanelli (Italy U17) Substitution at 45',2025-10-25 05:18:56
+13431,736575,4,46222715,49',Sofia Verrini (Italy U17) Goal at 49',2025-10-25 05:18:56
+13431,736575,5,46222883,58',Dulce Maria (Brazil U17) Substitution at 58',2025-10-28 05:16:01
+13431,736575,6,46223097,69',Sofia Pomati (Italy U17) Substitution at 69',2025-10-25 05:18:56
+13431,736575,7,46223098,69',Benedetta Bedini (Italy U17) Substitution at 69',2025-10-25 05:18:56
+13431,736575,8,46223166,75',Hellena Victória (Brazil U17) Substitution at 75',2025-10-28 05:16:01
+13431,736575,9,46223167,75',Ravenna (Brazil U17) Substitution at 75',2025-10-28 05:16:01
+13431,736575,10,46223407,84',Giovana Iseppe (Brazil U17) Goal at 84',2025-10-28 05:16:01
+13431,736575,11,46223424,86',Valentina Piccardi (Italy U17) Substitution at 86',2025-10-25 05:18:56
+13431,736575,12,46223425,86',Gabriela Rolnik (Brazil U17) Substitution at 86',2025-10-28 05:16:01
+13431,736575,13,46223426,86',Dany Pereira (Brazil U17) Substitution at 86',2025-10-28 05:16:01
+13431,736575,14,46223462,90',Benedetta Bedini (Italy U17) Goal at 90',2025-10-25 05:18:56
+13431,736575,15,46223491,90'+3',Giovanna Waksman (Brazil U17) Goal at 93',2025-10-28 05:16:01
+13431,736575,16,46223503,90'+4',Elisa Bertero (Italy U17) Substitution at 94',2025-10-25 05:18:56
+13431,736575,17,46223543,90'+9',Martina Romanelli (Italy U17) Yellow Card at 99',2025-10-25 05:18:56
+13431,736576,0,46221363,4',Mayssa Baha (Morocco U17) Goal at 4',2025-10-25 05:18:56
+13431,736576,1,46222054,35',Valeria Fernández (Costa Rica U17) Yellow Card at 35',2025-10-25 05:18:56
+13431,736576,2,46222106,39',Mayssa Baha (Morocco U17) Penalty - Scored at 39',2025-10-25 05:18:56
+13431,736576,3,46222527,45',Verónica Solano (Costa Rica U17) Substitution at 45',2025-10-25 05:18:56
+13431,736576,4,46222528,45',Naima Moya (Costa Rica U17) Substitution at 45',2025-10-25 05:18:56
+13431,736576,5,46222850,64',Fabiana Alfaro (Costa Rica U17) Yellow Card at 64',2025-10-25 05:18:56
+13431,736576,6,46222925,67',Celia Bouzman (Morocco U17) Yellow Card at 67',2025-10-25 05:18:56
+13431,736576,7,46222926,68',Dounia El Mesmoudi (Morocco U17) Substitution at 68',2025-10-25 05:18:56
+13431,736576,8,46222927,68',Nihad Lghachi (Morocco U17) Substitution at 68',2025-10-25 05:18:56
+13431,736576,9,46222959,68',Laila Boushaba (Morocco U17) Substitution at 68',2025-10-25 05:18:56
+13431,736576,10,46223095,77',Fabiana Alfaro (Costa Rica U17) Own Goal at 77',2025-10-25 05:18:56
+13431,736576,11,46223137,82',Alisha Lindo (Costa Rica U17) Substitution at 82',2025-10-28 05:16:01
+13431,736576,12,46223159,82',Michelle Murillo (Costa Rica U17) Substitution at 82',2025-10-25 05:18:56
+13431,736576,13,46223160,82',Romaïssa Ihssan (Morocco U17) Substitution at 82',2025-10-25 05:18:56
+13431,736576,14,46223366,87',Hiba Youssoufi (Morocco U17) Yellow Card at 87',2025-10-25 05:18:56
+13431,736576,15,46223403,90'+2',Rihanna Solano (Costa Rica U17) Substitution at 92',2025-10-25 05:18:56
+13431,736576,16,46223416,90'+3',Sara El Hajouti (Morocco U17) Substitution at 93',2025-10-25 05:18:56
+13431,736576,17,46223436,90'+5',Naima Moya (Costa Rica U17) Goal at 95',2025-10-25 05:18:56
+13431,736576,18,46253133,90'+7',Fabiana Alfaro (Costa Rica U17) Red Card at 97',2025-10-28 05:16:01
+13431,736577,0,46221869,26',Mylene Zoua (Cameroon U17) Yellow Card at 26',2025-10-25 05:18:56
+13431,736577,1,46222182,42',Beatrice Avana De Z (Cameroon U17) Yellow Card at 42',2025-10-25 05:18:56
+13431,736577,2,46222266,45'+2',Dafne Sánchez (Mexico U17) Yellow Card at 47',2025-10-25 05:18:56
+13431,736577,3,46222557,45',Samantha Ruiz (Mexico U17) Substitution at 45',2025-10-25 05:18:56
+13431,736577,4,46222815,62',Vasterio Mbida (Cameroon U17) Substitution at 62',2025-10-25 05:18:56
+13431,736577,5,46222932,67',Joselyn Solís (Mexico U17) Substitution at 67',2025-10-25 05:18:56
+13431,736577,6,46223061,75',Fernanda Monroy (Mexico U17) Substitution at 75',2025-10-25 05:18:56
+13431,736577,7,46223094,76',Vasterio Mbida (Cameroon U17) Yellow Card at 76',2025-10-25 05:18:56
+13431,736577,8,46223337,85',Laila Avila (Mexico U17) Substitution at 85',2025-10-25 05:18:56
+13431,736577,9,46223338,86',Miranda Solís (Mexico U17) Substitution at 86',2025-10-25 05:18:56
+13431,736577,10,46223357,87',Citlalli Reyes (Mexico U17) Goal at 87',2025-10-25 05:18:56
+13431,736577,11,46223401,90',Chelsy Ngong (Cameroon U17) Substitution at 90',2025-10-29 05:18:30
+13431,736578,0,46227203,24',Aicha Ouattara (Ivory Coast U17) Yellow Card at 24',2025-10-26 05:23:25
+13431,736578,1,46227945,45',Drehana Gosse (Ivory Coast U17) Substitution at 45',2025-10-26 05:23:25
+13431,736578,2,46227958,45',Silvia Cristóbal (Spain U17) Substitution at 45',2025-10-26 05:23:25
+13431,736578,3,46227959,45',Carlota Chacón (Spain U17) Substitution at 45',2025-10-26 05:23:25
+13431,736578,4,46228117,50',Claudia Barrios (Spain U17) Goal at 50',2025-10-26 05:23:25
+13431,736578,5,46228336,55',Rosine Kela (Ivory Coast U17) Red Card at 55',2025-10-26 05:23:25
+13431,736578,6,46228440,59',Kaholo Zaddy (Ivory Coast U17) Substitution at 59',2025-10-26 05:23:25
+13431,736578,7,46228469,60',Claudia Barrios (Spain U17) Goal at 60',2025-10-26 05:23:25
+13431,736578,8,46228511,61',Rosalía Dominguez (Spain U17) Substitution at 61',2025-10-26 05:23:25
+13431,736578,9,46228512,61',Celia Gómez (Spain U17) Substitution at 61',2025-10-26 05:23:25
+13431,736578,10,46228957,71',Grâce Tanoh (Ivory Coast U17) Substitution at 71',2025-10-26 05:23:25
+13431,736578,11,46229073,73',Raquel Zuazo (Spain U17) Substitution at 73',2025-10-26 05:23:25
+13431,736578,12,46229386,80',Josée Akesse (Ivory Coast U17) Substitution at 80',2025-10-26 05:23:25
+13431,736578,13,46229387,80',Gueyagnon Doh (Ivory Coast U17) Substitution at 80',2025-10-26 05:23:25
+13431,736578,14,46229470,82',Grace Sery (Ivory Coast U17) Yellow Card at 82',2025-10-26 05:23:25
+13431,736578,15,46229664,88',Iraia Fernández (Spain U17) Goal at 88',2025-10-26 05:23:25
+13431,736578,16,46229702,90',Estelle Kakou (Ivory Coast U17) Red Card at 90',2025-10-26 05:23:25
+13431,736579,0,46227778,45',London Crawford (Colombia U17) Substitution at 45',2025-10-29 05:18:30
+13431,736579,1,46227779,45',Daniela Todd (Colombia U17) Substitution at 45',2025-10-29 05:18:30
+13431,736579,2,46227855,45',Kim Hyo-Ju (South Korea U17) Substitution at 45',2025-10-26 05:23:25
+13431,736579,3,46228282,59',Baek Ji-Eun (South Korea U17) Substitution at 59',2025-10-26 05:23:25
+13431,736579,4,46228283,59',Baek Seo-Yeong (South Korea U17) Substitution at 59',2025-10-26 05:23:25
+13431,736579,5,46228520,68',María Ceballos (Colombia U17) Substitution at 68',2025-10-26 05:23:25
+13431,736579,6,46228846,72',Choi Se-Eun (South Korea U17) Yellow Card at 72',2025-10-26 05:23:25
+13431,736579,7,46228871,73',London Crawford (Colombia U17) Goal at 73',2025-10-26 05:23:25
+13431,736579,8,46229395,87',Vanessa Puerta (Colombia U17) Substitution at 87',2025-10-26 05:23:25
+13431,736579,9,46229553,90',Lim Ye-Ji (South Korea U17) Substitution at 90',2025-10-26 05:23:25
+13431,736580,0,46232395,11',Naomi Lofthouse (Canada U17) Yellow Card at 11',2025-10-26 05:23:25
+13431,736580,1,46232419,14',Melisa Kekic (Canada U17) Goal at 14',2025-10-26 05:23:25
+13431,736580,2,46232766,44',Gabriela Istocki (Canada U17) Yellow Card at 44',2025-10-29 05:18:30
+13431,736580,3,46232900,45'+6',Stella Grondin (France U17) Yellow Card at 51',2025-10-26 05:23:25
+13431,736580,4,46233088,45',Emma Donnelly (Canada U17) Substitution at 45',2025-10-26 05:23:25
+13431,736580,5,46233089,45',Reed Tingley (Canada U17) Substitution at 45',2025-10-26 05:23:25
+13431,736580,6,46233117,45',Noémie Fatier (France U17) Substitution at 45',2025-10-26 05:23:25
+13431,736580,7,46233118,45',Rachael Adedini (France U17) Substitution at 45',2025-10-26 05:23:25
+13431,736580,8,46233237,53',Océane Moreau-Tranchant (France U17) Own Goal at 53',2025-10-26 05:23:25
+13431,736580,9,46233302,56',Molly Hale (Canada U17) Substitution at 56',2025-10-26 05:23:25
+13431,736580,10,46233326,59',Elena Moreira Da Rocha (France U17) Substitution at 59',2025-10-26 05:23:25
+13431,736580,11,46233327,59',Luna Laboucarie (France U17) Substitution at 59',2025-10-26 05:23:25
+13431,736580,12,46233355,63',Léa-Laëtitia Morissaint (France U17) Goal at 63',2025-10-26 05:23:25
+13431,736580,13,46233369,64',Reed Tingley (Canada U17) Yellow Card at 64',2025-10-26 05:23:25
+13431,736580,14,46233487,73',Mélyna Alexis (Canada U17) Substitution at 73',2025-10-26 05:23:25
+13431,736580,15,46233611,78',Lou Ruffien (France U17) Substitution at 78',2025-10-26 05:23:25
+13431,736580,16,46233612,79',Alyssa Mcleod (Canada U17) Substitution at 79',2025-10-26 05:23:25
+13431,736580,17,46233691,83',Alyssa Mcleod (Canada U17) Yellow Card at 83',2025-10-26 05:23:25
+13431,736580,18,46233737,85',Reed Tingley (Canada U17) Red Card at 85',2025-10-29 05:18:30
+13431,736580,19,46233806,89',Ludivine Bardet (France U17) Yellow Card at 89',2025-10-26 05:23:25
+13431,736581,0,46232400,13',Queen Joseph (Nigeria U17) Goal at 13',2025-10-26 05:23:25
+13431,736581,1,46232518,28',Shakirat Moshood (Nigeria U17) Penalty - Scored at 28',2025-10-26 05:23:25
+13431,736581,2,46232600,34',Queen Joseph (Nigeria U17) Goal at 34',2025-10-26 05:23:25
+13431,736581,3,46233131,47',Shakirat Moshood (Nigeria U17) Penalty - Saved at 47',2025-10-26 05:23:25
+13431,736581,4,46233277,57',Jayde Sagapolutele (Samoa U17) Substitution at 57',2025-10-26 05:23:25
+13431,736581,5,46233278,57',Mia Afoa (Samoa U17) Substitution at 57',2025-10-26 05:23:25
+13431,736581,6,46233391,67',Azeezat Oduntan (Nigeria U17) Goal at 67',2025-10-26 05:23:25
+13431,736581,7,46233591,78',Memunat Abubakar (Nigeria U17) Substitution at 78',2025-10-26 05:23:25
+13431,736581,8,46233592,78',Cali Willis (Samoa U17) Substitution at 78',2025-10-26 05:23:25
+13431,736581,9,46233663,83',Shavih Istifanus (Nigeria U17) Substitution at 83',2025-10-26 05:23:25
+13431,736581,10,46233759,87',Reyna Tufuga (Samoa U17) Substitution at 87',2025-10-26 05:23:25
+13431,736581,11,46233760,87',Simone Blood (Samoa U17) Substitution at 87',2025-10-29 05:18:30
+13431,736581,12,46233837,90'+4',Ugomma Nkwocha (Nigeria U17) Substitution at 94',2025-10-26 05:23:25
+13431,736581,13,46233879,90'+5',Macey Tuiolosega (Samoa U17) Yellow Card at 95',2025-10-26 05:23:25
+13431,736582,0,46235467,33',Victoria Mbali (Zambia U17) Goal at 33',2025-10-26 05:23:25
+13431,736582,1,46235725,44',Mercy Chipasula (Zambia U17) Goal at 44',2025-10-26 05:23:25
+13431,736582,2,46236257,53',Taylor Vujnovich (New Zealand U17) Substitution at 53',2025-10-29 05:18:30
+13431,736582,3,46236304,53',Sienna Candy (New Zealand U17) Substitution at 53',2025-10-29 05:18:30
+13431,736582,4,46236305,53',Ariana Vosper (New Zealand U17) Substitution at 53',2025-10-29 05:18:30
+13431,736582,5,46236567,64',Masela Sekeseke (Zambia U17) Substitution at 64',2025-10-26 05:23:25
+13431,736582,6,46236587,65',Kya Solomon (New Zealand U17) Substitution at 65',2025-10-29 05:18:30
+13431,736582,7,46236670,69',Masela Sekeseke (Zambia U17) Goal at 69',2025-10-26 05:23:25
+13431,736582,8,46236712,69',Masela Sekeseke (Zambia U17) Yellow Card at 69',2025-10-26 05:23:25
+13431,736582,9,46236878,75',Natalie Young (New Zealand U17) Substitution at 75',2025-10-26 05:23:25
+13431,736582,10,46237015,80',Harriet Muller (New Zealand U17) Own Goal at 80',2025-10-26 05:23:25
+13431,736582,11,46237097,83',Fiath Kajiya (Zambia U17) Substitution at 83',2025-10-26 05:23:25
+13431,736583,0,46235769,45'+1',Florencia Caceres (Paraguay U17) Yellow Card at 46',2025-10-26 05:23:25
+13431,736583,1,46236036,45',Fiorella Gonzalez (Paraguay U17) Substitution at 45',2025-10-26 05:23:25
+13431,736583,2,46236376,60',Kiara Florentín (Paraguay U17) Substitution at 60',2025-10-26 05:23:25
+13431,736583,3,46236395,60',Victoria Ucedo (Paraguay U17) Substitution at 60',2025-10-26 05:23:25
+13431,736583,4,46236449,62',Alison Bareiro (Paraguay U17) Goal at 62',2025-10-26 05:23:25
+13431,736583,5,46236531,65',Ua Ohno (Japan U17) Substitution at 65',2025-10-26 05:23:25
+13431,736583,6,46236530,66',Konoha Nakamura (Japan U17) Substitution at 66',2025-10-26 05:23:25
+13431,736583,7,46236841,76',Kelly Nerei (Japan U17) Substitution at 76',2025-10-26 05:23:25
+13431,736583,8,46236843,77',Jazmín Rolón (Paraguay U17) Substitution at 77',2025-10-26 05:23:25
+13431,736583,9,46237118,87',Noa Fukushima (Japan U17) Substitution at 87',2025-10-26 05:23:25
+13431,736583,10,46237149,87',Ema Matsuoka (Japan U17) Substitution at 87',2025-10-26 05:23:25
+13431,736583,11,46237205,90',Claudia Martínez (Paraguay U17) Substitution at 90',2025-10-26 05:23:25
+13431,736583,12,46237358,90'+5',Noa Fukushima (Japan U17) Penalty - Scored at 95',2025-10-26 05:23:25
+13432,736599,0,46358422,14',Kim Won-Sim (North Korea U17) Goal at 14',2025-11-09 15:08:00
+13432,736599,1,46358507,18',Pak Rye-Yong (North Korea U17) Goal at 18',2025-11-09 15:08:00
+13432,736599,2,46358955,42',Ri Ui-Gyong (North Korea U17) Goal at 42',2025-11-09 15:08:00
+13432,736599,3,46359484,45',Rochelity Dap (Netherlands U17) Substitution at 45',2025-11-09 15:08:00
+13432,736599,4,46359574,58',Naomi Van Der Linden (Netherlands U17) Substitution at 58',2025-11-09 15:08:00
+13432,736599,5,46359575,58',Jayda Vinckers (Netherlands U17) Substitution at 58',2025-11-09 15:08:00
+13432,736599,6,46359734,68',Sophie Van Hunnik (Netherlands U17) Substitution at 68',2025-11-09 15:08:00
+13432,736599,7,46360023,81',Ranneke Derks (Netherlands U17) Substitution at 81',2025-11-09 15:08:00
+13432,736599,8,46360051,83',Ri Ye-Rim (North Korea U17) Substitution at 83',2025-11-09 15:08:00
+13428,736596,0,46332156,16',Dulce Maria (Brazil U17) Substitution at 16',2025-11-08 06:14:38
+13428,736596,1,46332165,34',Evelin (Brazil U17) Yellow Card at 34',2025-11-08 06:14:38
+13428,736596,2,46332173,43',Andreyna (Brazil U17) Red Card at 43',2025-11-08 06:14:38
+13428,736596,3,46332175,44',Yu Jong-Hyang (North Korea U17) Penalty - Scored at 44',2025-11-06 06:15:55
+13428,736596,4,46332179,45'+5',Kaylane (Brazil U17) Yellow Card at 50',2025-11-08 06:14:38
+13428,736596,5,46332189,45',Hellena Victória (Brazil U17) Substitution at 45',2025-11-08 06:14:38
+13428,736596,6,46332190,45',Ravenna (Brazil U17) Substitution at 45',2025-11-08 06:14:38
+13428,736596,7,46332193,49',Ri Kyong-Im (North Korea U17) Yellow Card at 49',2025-11-06 06:15:55
+13428,736596,8,46332194,51',Yu Jong-Hyang (North Korea U17) Goal at 51',2025-11-06 06:15:55
+13428,736596,9,46332207,63',Yu Jong-Hyang (North Korea U17) Yellow Card at 63',2025-11-06 06:15:55
+13428,736596,10,46332229,88',Dany Pereira (Brazil U17) Substitution at 88',2025-11-08 06:14:38
+13428,736596,11,46332231,88',Mariane (Brazil U17) Substitution at 88',2025-11-08 06:14:38
+13428,736596,12,46332233,90',Ri Ye-Rim (North Korea U17) Substitution at 90',2025-11-06 06:15:55
+13428,736596,13,46332245,90'+7',Pak Su-Rim (North Korea U17) Substitution at 97',2025-11-06 06:15:55
+13428,736596,14,46332250,90'+11',Kim Sun-Nyo (North Korea U17) Substitution at 101',2025-11-06 06:15:55
+13428,736597,0,46333255,57',Samantha Ruiz (Mexico U17) Substitution at 57',2025-11-06 06:15:55
+13428,736597,1,46333395,64',Rochelity Dap (Netherlands U17) Substitution at 64',2025-11-06 06:15:55
+13428,736597,2,46333412,65',Sophie Van Hunnik (Netherlands U17) Substitution at 65',2025-11-06 06:15:55
+13428,736597,3,46333488,69',Lina Touzani (Netherlands U17) Goal at 69',2025-11-06 06:15:55
+13428,736597,4,46333535,72',Laila Avila (Mexico U17) Substitution at 72',2025-11-06 06:15:55
+13428,736597,5,46333712,84',Laila Avila (Mexico U17) Yellow Card at 84',2025-11-06 06:15:55
+13428,736597,6,46333742,87',Jayda Vinckers (Netherlands U17) Substitution at 87',2025-11-06 06:15:55
+13428,736597,7,46333768,90',Miranda Solís (Mexico U17) Substitution at 90',2025-11-06 06:15:55
+13428,736597,8,46333769,90',Valeria Vázquez (Mexico U17) Substitution at 90',2025-11-06 06:15:55

@@ -1,0 +1,36 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12621,703190,1,43567946,70,1,660,11',1,0,Victor Boniface (Bayer Leverkusen) Goal at 11',Victor Boniface Goal,131,0.0,0.0,0.0,0.0,0.0,0.0,1,287276.0,2024-08-18 05:56:02
+12621,703190,2,43568028,70,1,900,15',1,0,Enzo Millot (VfB Stuttgart) Goal at 15',Enzo Millot Goal,134,0.0,0.0,0.0,0.0,0.0,0.0,1,297158.0,2024-08-18 05:56:02
+12621,703190,3,43568385,93,1,2220,37',0,0,Martin Terrier (Bayer Leverkusen) Red Card at 37',Martin Terrier Red Card,131,0.0,0.0,0.0,0.0,0.0,0.0,1,241662.0,2024-08-18 05:56:02
+12621,703190,4,43568456,76,1,2460,41',0,0,Jonathan Tah (Bayer Leverkusen) Substitution at 41',Jonathan Tah Substitution,131,0.0,0.0,0.0,0.0,0.0,0.0,1,188052.0,2024-08-18 05:56:02
+12621,703190,4,43568456,76,1,2460,41',0,0,Jonathan Tah (Bayer Leverkusen) Substitution at 41',Jonathan Tah Substitution,131,0.0,0.0,0.0,0.0,0.0,0.0,2,287276.0,2024-08-18 05:56:02
+12621,703190,5,43568524,94,1,2640,44',0,0,Angelo Stiller (VfB Stuttgart) Yellow Card at 44',Angelo Stiller Yellow Card,134,0.0,0.0,0.0,0.0,0.0,0.0,1,290232.0,2024-08-18 05:56:02
+12621,703190,6,43569296,94,2,3600,60',0,0,Granit Xhaka (Bayer Leverkusen) Yellow Card at 60',Granit Xhaka Yellow Card,131,0.0,0.0,0.0,0.0,0.0,0.0,1,149981.0,2024-08-18 05:56:02
+12621,703190,7,43569365,76,2,3720,62',0,0,Deniz Undav (VfB Stuttgart) Substitution at 62',Deniz Undav Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,1,273300.0,2024-08-18 05:56:02
+12621,703190,7,43569365,76,2,3720,62',0,0,Deniz Undav (VfB Stuttgart) Substitution at 62',Deniz Undav Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,2,290232.0,2024-08-18 05:56:02
+12621,703190,9,43569367,76,2,3780,63',0,0,Silas Katompa Mvumpa (VfB Stuttgart) Substitution at 63',Silas Katompa Mvumpa Substitutio,134,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-08-18 05:56:02
+12621,703190,8,43569366,76,2,3780,63',0,0,Frans Krätzig (VfB Stuttgart) Substitution at 63',Frans Krätzig Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,1,346749.0,2024-08-18 05:56:02
+12621,703190,10,43569368,70,2,3780,63',1,0,Deniz Undav (VfB Stuttgart) Goal at 63',Deniz Undav Goal,134,0.0,0.0,0.0,0.0,0.0,0.0,1,273300.0,2024-08-18 05:56:02
+12621,703190,9,43569367,76,2,3780,63',0,0,Silas Katompa Mvumpa (VfB Stuttgart) Substitution at 63',Silas Katompa Mvumpa Substitutio,134,0.0,0.0,0.0,0.0,0.0,0.0,2,290811.0,2024-08-18 05:56:02
+12621,703190,8,43569366,76,2,3780,63',0,0,Frans Krätzig (VfB Stuttgart) Substitution at 63',Frans Krätzig Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,2,216225.0,2024-08-18 05:56:02
+12621,703190,11,43569533,94,2,4260,71',0,0,Ermedin Demirovic (VfB Stuttgart) Yellow Card at 71',Ermedin Demirovic Yellow Card,134,0.0,0.0,0.0,0.0,0.0,0.0,1,269136.0,2024-08-18 05:56:02
+12621,703190,12,43569534,94,2,4260,71',0,0,Edmond Tapsoba (Bayer Leverkusen) Yellow Card at 71',Edmond Tapsoba Yellow Card,131,0.0,0.0,0.0,0.0,0.0,0.0,1,257287.0,2024-08-18 05:56:02
+12621,703190,13,43569603,76,2,4380,73',0,0,Florian Wirtz (Bayer Leverkusen) Substitution at 73',Florian Wirtz Substitution,131,0.0,0.0,0.0,0.0,0.0,0.0,1,303748.0,2024-08-18 05:56:02
+12621,703190,15,43569605,76,2,4380,73',0,0,Jeremie Frimpong (Bayer Leverkusen) Substitution at 73',Jeremie Frimpong Substitution,131,0.0,0.0,0.0,0.0,0.0,0.0,1,281119.0,2024-08-18 05:56:02
+12621,703190,14,43569604,76,2,4380,73',0,0,Patrik Schick (Bayer Leverkusen) Substitution at 73',Patrik Schick Substitution,131,0.0,0.0,0.0,0.0,0.0,0.0,1,212330.0,2024-08-18 05:56:02
+12621,703190,15,43569605,76,2,4380,73',0,0,Jeremie Frimpong (Bayer Leverkusen) Substitution at 73',Jeremie Frimpong Substitution,131,0.0,0.0,0.0,0.0,0.0,0.0,2,263134.0,2024-08-18 05:56:02
+12621,703190,13,43569603,76,2,4380,73',0,0,Florian Wirtz (Bayer Leverkusen) Substitution at 73',Florian Wirtz Substitution,131,0.0,0.0,0.0,0.0,0.0,0.0,2,291613.0,2024-08-18 05:56:02
+12621,703190,14,43569604,76,2,4380,73',0,0,Patrik Schick (Bayer Leverkusen) Substitution at 73',Patrik Schick Substitution,131,0.0,0.0,0.0,0.0,0.0,0.0,2,180998.0,2024-08-18 05:56:02
+12621,703190,16,43569641,76,2,4620,77',0,0,Justin Diehl (VfB Stuttgart) Substitution at 77',Justin Diehl Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,1,357684.0,2024-08-18 05:56:02
+12621,703190,16,43569641,76,2,4620,77',0,0,Justin Diehl (VfB Stuttgart) Substitution at 77',Justin Diehl Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,2,268951.0,2024-08-18 05:56:02
+12621,703190,17,43569671,94,2,4680,78',0,0,Enzo Millot (VfB Stuttgart) Yellow Card at 78',Enzo Millot Yellow Card,134,0.0,0.0,0.0,0.0,0.0,0.0,1,297158.0,2024-08-18 05:56:02
+12621,703190,18,43569703,94,2,4800,80',0,0,Victor Boniface (Bayer Leverkusen) Yellow Card at 80',Victor Boniface Yellow Card,131,0.0,0.0,0.0,0.0,0.0,0.0,1,287276.0,2024-08-18 05:56:02
+12621,703190,19,43569750,94,2,4920,82',0,0,Pascal Stenzel (VfB Stuttgart) Yellow Card at 82',Pascal Stenzel Yellow Card,134,0.0,0.0,0.0,0.0,0.0,0.0,1,223266.0,2024-08-18 05:56:02
+12621,703190,20,43569806,76,2,4980,83',0,0,Yannik Keitel (VfB Stuttgart) Substitution at 83',Yannik Keitel Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,1,266657.0,2024-08-18 05:56:02
+12621,703190,20,43569806,76,2,4980,83',0,0,Yannik Keitel (VfB Stuttgart) Substitution at 83',Yannik Keitel Substitution,134,0.0,0.0,0.0,0.0,0.0,0.0,2,223266.0,2024-08-18 05:56:02
+12621,703190,21,43569807,76,2,5040,84',0,0,Alejandro Grimaldo (Bayer Leverkusen) Substitution at 84',Alejandro Grimaldo Substitution,131,0.0,0.0,0.0,0.0,0.0,0.0,1,166396.0,2024-08-18 05:56:02
+12621,703190,21,43569807,76,2,5040,84',0,0,Alejandro Grimaldo (Bayer Leverkusen) Substitution at 84',Alejandro Grimaldo Substitution,131,0.0,0.0,0.0,0.0,0.0,0.0,2,333927.0,2024-08-18 05:56:02
+12621,703190,22,43569842,94,2,5100,85',0,0,Florian Wirtz (Bayer Leverkusen) Yellow Card at 85',Florian Wirtz Yellow Card,131,0.0,0.0,0.0,0.0,0.0,0.0,1,303748.0,2024-08-18 05:56:02
+12621,703190,23,43569918,94,2,5160,86',0,0,Julian Chabot (VfB Stuttgart) Yellow Card at 86',Julian Chabot Yellow Card,134,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-08-18 05:56:02
+12621,703190,24,43569919,94,2,5160,86',0,0,Jeremie Frimpong (Bayer Leverkusen) Yellow Card at 86',Jeremie Frimpong Yellow Card,131,0.0,0.0,0.0,0.0,0.0,0.0,1,281119.0,2024-08-18 05:56:02
+12621,703190,25,43569922,70,2,5280,88',1,0,Patrik Schick (Bayer Leverkusen) Goal at 88',Patrik Schick Goal,131,0.0,0.0,0.0,0.0,0.0,0.0,1,212330.0,2024-08-18 05:56:02

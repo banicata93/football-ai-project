@@ -1,0 +1,285 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13298,734178,1,44913871,70,1,360,6',1,0,Yasniel Matos (Cuba) Goal at 6',Yasniel Matos Goal,2647,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346322.0,2025-03-22 21:42:33
+13298,734178,2,44913872,70,1,1200,20',1,0,Isaiah Lee (Trinidad and Tobago) Goal at 20',Isaiah Lee Goal,2627,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283219.0,2025-03-22 21:42:33
+13298,734178,3,44913873,94,1,1320,22',0,0,Isaiah García (Trinidad and Tobago) Yellow Card at 22',Isaiah García Yellow Card,2627,0.0,0.0,0.0,0.0,0.0,0.0,1.0,296717.0,2025-03-22 21:42:33
+13298,734178,3,44913873,94,1,1320,22',0,0,Isaiah García (Trinidad and Tobago) Yellow Card at 22',Isaiah García Yellow Card,2627,0.0,0.0,0.0,0.0,0.0,0.0,1.0,295556.0,2025-03-22 21:42:33
+13298,734178,4,44913874,76,2,2760,46',0,0,André Raymond (Trinidad and Tobago) Substitution at 46',André Raymond Substitution,2627,0.0,0.0,0.0,0.0,0.0,0.0,1.0,354002.0,2025-03-22 21:42:33
+13298,734178,4,44913874,76,2,2760,46',0,0,André Raymond (Trinidad and Tobago) Substitution at 46',André Raymond Substitution,2627,0.0,0.0,0.0,0.0,0.0,0.0,2.0,329273.0,2025-03-22 21:42:33
+13298,734178,5,44913875,94,2,2940,49',0,0,Alvin Jones (Trinidad and Tobago) Yellow Card at 49',Alvin Jones Yellow Card,2627,0.0,0.0,0.0,0.0,0.0,0.0,1.0,191875.0,2025-03-22 21:42:33
+13298,734178,6,44913876,70,2,3180,53',1,0,Steffen Yeates (Trinidad and Tobago) Goal at 53',Steffen Yeates Goal,2627,0.0,0.0,0.0,0.0,0.0,0.0,1.0,271863.0,2025-03-22 21:42:33
+13298,734178,7,44913877,76,2,3360,56',0,0,Cristian Flores Castellano (Cuba) Substitution at 56',Cristian Flores Castellano Subst,2647,0.0,0.0,0.0,0.0,0.0,0.0,1.0,256953.0,2025-03-22 21:42:33
+13298,734178,7,44913877,76,2,3360,56',0,0,Cristian Flores Castellano (Cuba) Substitution at 56',Cristian Flores Castellano Subst,2647,0.0,0.0,0.0,0.0,0.0,0.0,2.0,319979.0,2025-03-22 21:42:33
+13298,734178,8,44913878,76,2,3421,58',0,0,Rey Rodríguez (Cuba) Substitution at 58',Rey Rodríguez Substitution,2647,0.0,0.0,0.0,0.0,0.0,0.0,1.0,370210.0,2025-03-22 21:42:33
+13298,734178,8,44913878,76,2,3421,58',0,0,Rey Rodríguez (Cuba) Substitution at 58',Rey Rodríguez Substitution,2647,0.0,0.0,0.0,0.0,0.0,0.0,2.0,363027.0,2025-03-22 21:42:33
+13298,734178,9,44913879,76,2,3435,58',0,0,Brent Sam (Trinidad and Tobago) Substitution at 58',Brent Sam Substitution,2627,0.0,0.0,0.0,0.0,0.0,0.0,1.0,182949.0,2025-03-22 21:42:33
+13298,734178,9,44913879,76,2,3435,58',0,0,Brent Sam (Trinidad and Tobago) Substitution at 58',Brent Sam Substitution,2627,0.0,0.0,0.0,0.0,0.0,0.0,2.0,283219.0,2025-03-22 21:42:33
+13298,734178,10,44913880,76,2,3840,64',0,0,Karel Espino (Cuba) Substitution at 64',Karel Espino Substitution,2647,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283385.0,2025-03-22 21:42:33
+13298,734178,10,44913880,76,2,3840,64',0,0,Karel Espino (Cuba) Substitution at 64',Karel Espino Substitution,2647,0.0,0.0,0.0,0.0,0.0,0.0,2.0,316526.0,2025-03-22 21:42:33
+13298,734178,11,44913881,76,2,4081,69',0,0,Alessio Raballo (Cuba) Substitution at 69',Alessio Raballo Substitution,2647,0.0,0.0,0.0,0.0,0.0,0.0,1.0,398119.0,2025-03-22 21:42:33
+13298,734178,11,44913881,76,2,4081,69',0,0,Alessio Raballo (Cuba) Substitution at 69',Alessio Raballo Substitution,2647,0.0,0.0,0.0,0.0,0.0,0.0,2.0,346322.0,2025-03-22 21:42:33
+13298,734178,12,44913882,76,2,4090,69',0,0,Jay Fortune (Trinidad and Tobago) Substitution at 69',Jay Fortune Substitution,2627,0.0,0.0,0.0,0.0,0.0,0.0,1.0,304153.0,2025-03-22 21:42:33
+13298,734178,12,44913882,76,2,4090,69',0,0,Jay Fortune (Trinidad and Tobago) Substitution at 69',Jay Fortune Substitution,2627,0.0,0.0,0.0,0.0,0.0,0.0,2.0,271863.0,2025-03-22 21:42:33
+13298,734178,13,44913883,76,2,4380,73',0,0,Karel Pérez (Cuba) Substitution at 73',Karel Pérez Substitution,2647,0.0,0.0,0.0,0.0,0.0,0.0,1.0,370211.0,2025-03-22 21:42:33
+13298,734178,13,44913883,76,2,4380,73',0,0,Karel Pérez (Cuba) Substitution at 73',Karel Pérez Substitution,2647,0.0,0.0,0.0,0.0,0.0,0.0,2.0,256959.0,2025-03-22 21:42:33
+13298,734178,14,44913884,76,2,4871,82',0,0,Kaihim Thomas (Trinidad and Tobago) Substitution at 82',Kaihim Thomas Substitution,2627,0.0,0.0,0.0,0.0,0.0,0.0,1.0,363391.0,2025-03-22 21:42:33
+13298,734178,14,44913884,76,2,4871,82',0,0,Kaihim Thomas (Trinidad and Tobago) Substitution at 82',Kaihim Thomas Substitution,2627,0.0,0.0,0.0,0.0,0.0,0.0,2.0,147207.0,2025-03-22 21:42:33
+13298,734178,15,44913885,76,2,4875,82',0,0,Dantaye Gilbert (Trinidad and Tobago) Substitution at 82',Dantaye Gilbert Substitution,2627,0.0,0.0,0.0,0.0,0.0,0.0,1.0,371410.0,2025-03-22 21:42:33
+13298,734178,15,44913885,76,2,4875,82',0,0,Dantaye Gilbert (Trinidad and Tobago) Substitution at 82',Dantaye Gilbert Substitution,2627,0.0,0.0,0.0,0.0,0.0,0.0,2.0,296717.0,2025-03-22 21:42:33
+13298,734178,15,44913885,76,2,4875,82',0,0,Dantaye Gilbert (Trinidad and Tobago) Substitution at 82',Dantaye Gilbert Substitution,2627,0.0,0.0,0.0,0.0,0.0,0.0,2.0,295556.0,2025-03-22 21:42:33
+13298,734179,1,44913835,94,1,2640,44',0,0,Cyril Mandouki (Martinique) Yellow Card at 44',Cyril Mandouki Yellow Card,2728,0.0,0.0,0.0,0.0,0.0,0.0,1.0,215124.0,2025-03-22 21:42:33
+13298,734179,2,44913836,70,2,3120,52',1,0,Gyrano Kerk (Suriname) Goal at 52',Gyrano Kerk Goal,2664,0.0,0.0,0.0,0.0,0.0,0.0,1.0,199663.0,2025-03-22 21:42:33
+13298,734179,3,44913837,94,2,3300,55',0,0,Damien Dussaut (Martinique) Yellow Card at 55',Damien Dussaut Yellow Card,2728,0.0,0.0,0.0,0.0,0.0,0.0,1.0,192054.0,2025-03-22 21:42:33
+13298,734179,4,44913838,94,2,3480,58',0,0,Gyrano Kerk (Suriname) Yellow Card at 58',Gyrano Kerk Yellow Card,2664,0.0,0.0,0.0,0.0,0.0,0.0,1.0,199663.0,2025-03-22 21:42:33
+13298,734179,5,44913839,76,2,3660,61',0,0,Immanuel Pherai (Suriname) Substitution at 61',Immanuel Pherai Substitution,2664,0.0,0.0,0.0,0.0,0.0,0.0,1.0,290412.0,2025-03-22 21:42:33
+13298,734179,5,44913839,76,2,3660,61',0,0,Immanuel Pherai (Suriname) Substitution at 61',Immanuel Pherai Substitution,2664,0.0,0.0,0.0,0.0,0.0,0.0,2.0,255745.0,2025-03-22 21:42:33
+13298,734179,6,44913840,76,2,3720,62',0,0,Jaden Montnor (Suriname) Substitution at 62',Jaden Montnor Substitution,2664,0.0,0.0,0.0,0.0,0.0,0.0,1.0,366131.0,2025-03-22 21:42:33
+13298,734179,6,44913840,76,2,3720,62',0,0,Jaden Montnor (Suriname) Substitution at 62',Jaden Montnor Substitution,2664,0.0,0.0,0.0,0.0,0.0,0.0,2.0,285014.0,2025-03-22 21:42:33
+13298,734179,7,44913841,76,2,3840,64',0,0,Enrick Reuperné (Martinique) Substitution at 64',Enrick Reuperné Substitution,2728,0.0,0.0,0.0,0.0,0.0,0.0,1.0,321310.0,2025-03-22 21:42:33
+13298,734179,7,44913841,76,2,3840,64',0,0,Enrick Reuperné (Martinique) Substitution at 64',Enrick Reuperné Substitution,2728,0.0,0.0,0.0,0.0,0.0,0.0,2.0,241016.0,2025-03-22 21:42:33
+13298,734179,8,44913842,76,2,3851,65',0,0,Marvin Bellance (Martinique) Substitution at 65',Marvin Bellance Substitution,2728,0.0,0.0,0.0,0.0,0.0,0.0,1.0,294791.0,2025-03-22 21:42:33
+13298,734179,8,44913842,76,2,3851,65',0,0,Marvin Bellance (Martinique) Substitution at 65',Marvin Bellance Substitution,2728,0.0,0.0,0.0,0.0,0.0,0.0,2.0,390965.0,2025-03-22 21:42:33
+13298,734179,9,44913843,113,2,3960,66',0,0,Gleofilo Vlijter (Suriname) Penalty - Missed at 66',Gleofilo Vlijter Penalty - Misse,2664,0.0,0.0,0.0,0.0,0.0,0.0,1.0,277132.0,2025-03-22 21:42:33
+13298,734179,10,44913844,76,2,4320,72',0,0,Tariq Cavelan (Martinique) Substitution at 72',Tariq Cavelan Substitution,2728,0.0,0.0,0.0,0.0,0.0,0.0,1.0,315218.0,2025-03-22 21:42:33
+13298,734179,10,44913844,76,2,4320,72',0,0,Tariq Cavelan (Martinique) Substitution at 72',Tariq Cavelan Substitution,2728,0.0,0.0,0.0,0.0,0.0,0.0,2.0,236269.0,2025-03-22 21:42:33
+13298,734179,11,44913845,94,2,4440,74',0,0,Dion Malone (Suriname) Yellow Card at 74',Dion Malone Yellow Card,2664,0.0,0.0,0.0,0.0,0.0,0.0,1.0,122946.0,2025-03-22 21:42:33
+13298,734179,13,44913847,76,2,4512,76',0,0,Dhoraso Moreo Klas (Suriname) Substitution at 76',Dhoraso Moreo Klas Substitution,2664,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2025-03-22 21:42:33
+13298,734179,12,44913846,76,2,4512,76',0,0,Djevencio Van Der Kust (Suriname) Substitution at 76',Djevencio Van Der Kust Substitut,2664,0.0,0.0,0.0,0.0,0.0,0.0,1.0,283835.0,2025-03-22 21:42:33
+13298,734179,12,44913846,76,2,4512,76',0,0,Djevencio Van Der Kust (Suriname) Substitution at 76',Djevencio Van Der Kust Substitut,2664,0.0,0.0,0.0,0.0,0.0,0.0,2.0,199663.0,2025-03-22 21:42:33
+13298,734179,13,44913847,76,2,4512,76',0,0,Dhoraso Moreo Klas (Suriname) Substitution at 76',Dhoraso Moreo Klas Substitution,2664,0.0,0.0,0.0,0.0,0.0,0.0,2.0,283029.0,2025-03-22 21:42:33
+13298,734179,14,44913848,94,2,4800,80',0,0,Dhoraso Moreo Klas (Suriname) Yellow Card at 80',Dhoraso Moreo Klas Yellow Card,2664,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2025-03-22 21:42:33
+13298,734179,15,44913849,76,2,5100,85',0,0,Andrew Genteuil (Martinique) Substitution at 85',Andrew Genteuil Substitution,2728,0.0,0.0,0.0,0.0,0.0,0.0,1.0,276936.0,2025-03-22 21:42:33
+13298,734179,15,44913849,76,2,5100,85',0,0,Andrew Genteuil (Martinique) Substitution at 85',Andrew Genteuil Substitution,2728,0.0,0.0,0.0,0.0,0.0,0.0,2.0,192054.0,2025-03-22 21:42:33
+13298,734179,16,44913850,76,2,5113,86',0,0,Rudy Varane (Martinique) Substitution at 86',Rudy Varane Substitution,2728,0.0,0.0,0.0,0.0,0.0,0.0,1.0,390964.0,2025-03-22 21:42:33
+13298,734179,16,44913850,76,2,5113,86',0,0,Rudy Varane (Martinique) Substitution at 86',Rudy Varane Substitution,2728,0.0,0.0,0.0,0.0,0.0,0.0,2.0,207571.0,2025-03-22 21:42:33
+13298,734179,17,44913851,76,2,5340,89',0,0,Jayden Turfkruier (Suriname) Substitution at 89',Jayden Turfkruier Substitution,2664,0.0,0.0,0.0,0.0,0.0,0.0,1.0,354566.0,2025-03-22 21:42:33
+13298,734179,17,44913851,76,2,5340,89',0,0,Jayden Turfkruier (Suriname) Substitution at 89',Jayden Turfkruier Substitution,2664,0.0,0.0,0.0,0.0,0.0,0.0,2.0,181192.0,2025-03-22 21:42:33
+13298,734180,1,44913910,76,2,3660,61',0,0,Oryan Velox (St. Vincent and the Grenadines) Substitution at 61',Oryan Velox Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317261.0,2025-03-22 21:42:33
+13298,734180,1,44913910,76,2,3660,61',0,0,Oryan Velox (St. Vincent and the Grenadines) Substitution at 61',Oryan Velox Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,2.0,261719.0,2025-03-22 21:42:33
+13298,734180,2,44913911,70,2,3900,65',1,0,Oalex Anderson (St. Vincent and the Grenadines) Goal at 65',Oalex Anderson Goal,13584,0.0,0.0,0.0,0.0,0.0,0.0,1.0,217997.0,2025-03-22 21:42:33
+13298,734180,3,44913912,76,2,4080,68',0,0,Renaldo Cephas (Jamaica) Substitution at 68',Renaldo Cephas Substitution,1038,0.0,0.0,0.0,0.0,0.0,0.0,1.0,343353.0,2025-03-22 21:42:33
+13298,734180,3,44913912,76,2,4080,68',0,0,Renaldo Cephas (Jamaica) Substitution at 68',Renaldo Cephas Substitution,1038,0.0,0.0,0.0,0.0,0.0,0.0,2.0,260633.0,2025-03-22 21:42:33
+13298,734180,4,44913913,76,2,4860,81',0,0,Warner Brown (Jamaica) Substitution at 81',Warner Brown Substitution,1038,0.0,0.0,0.0,0.0,0.0,0.0,1.0,347448.0,2025-03-22 21:42:33
+13298,734180,4,44913913,76,2,4860,81',0,0,Warner Brown (Jamaica) Substitution at 81',Warner Brown Substitution,1038,0.0,0.0,0.0,0.0,0.0,0.0,2.0,231751.0,2025-03-22 21:42:33
+13298,734180,5,44913914,76,2,4920,82',0,0,Steven Pierre (St. Vincent and the Grenadines) Substitution at 82',Steven Pierre Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,1.0,360984.0,2025-03-22 21:42:33
+13298,734180,5,44913914,76,2,4920,82',0,0,Steven Pierre (St. Vincent and the Grenadines) Substitution at 82',Steven Pierre Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,2.0,120391.0,2025-03-22 21:42:33
+13298,734180,6,44913915,76,2,5160,86',0,0,Nazir McBurnette (St. Vincent and the Grenadines) Substitution at 86',Nazir McBurnette Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,1.0,230392.0,2025-03-22 21:42:33
+13298,734180,6,44913915,76,2,5160,86',0,0,Nazir McBurnette (St. Vincent and the Grenadines) Substitution at 86',Nazir McBurnette Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,2.0,282112.0,2025-03-22 21:42:33
+13298,734180,8,44913917,98,2,5400,90'+8',1,0,Leon Bailey (Jamaica) Penalty - Scored at 98',Leon Bailey Penalty - Scored,1038,0.0,0.0,0.0,0.0,0.0,0.0,1.0,224809.0,2025-03-22 21:42:33
+13298,734180,7,44913916,76,2,5400,90'+2',0,0,Kaheim Dixon (Jamaica) Substitution at 92',Kaheim Dixon Substitution,1038,0.0,0.0,0.0,0.0,0.0,0.0,1.0,382139.0,2025-03-22 21:42:33
+13298,734180,7,44913916,76,2,5400,90'+2',0,0,Kaheim Dixon (Jamaica) Substitution at 92',Kaheim Dixon Substitution,1038,0.0,0.0,0.0,0.0,0.0,0.0,2.0,194403.0,2025-03-22 21:42:33
+13298,734181,1,44914073,70,1,60,1',1,0,Kane Crichlow (Bermuda) Goal at 1',Kane Crichlow Goal,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,276895.0,2025-03-22 21:42:33
+13298,734181,2,44914074,94,1,720,12',0,0,Reece Jones (Bermuda) Yellow Card at 12',Reece Jones Yellow Card,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,151195.0,2025-03-22 21:42:33
+13298,734181,3,44914075,70,1,2640,44',1,0,Djair Parfitt-Williams (Bermuda) Goal at 44',Djair Parfitt-Williams Goal,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,221049.0,2025-03-22 21:42:33
+13298,734181,4,44914165,76,2,2760,46',0,0,Jorge Benguche (Honduras) Substitution at 46',Jorge Benguche Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,241861.0,2025-03-22 21:42:33
+13298,734181,4,44914165,76,2,2760,46',0,0,Jorge Benguche (Honduras) Substitution at 46',Jorge Benguche Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,2.0,158544.0,2025-03-22 21:42:33
+13298,734181,5,44914166,70,2,3600,60',1,0,Romell Quioto (Honduras) Goal at 60',Romell Quioto Goal,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,175968.0,2025-03-22 21:42:33
+13298,734181,6,44914167,70,2,3840,64',1,0,Luis Palma (Honduras) Goal at 64',Luis Palma Goal,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,133852.0,2025-03-22 21:42:33
+13298,734181,7,44914168,76,2,3911,66',0,0,Zeiko Lewis (Bermuda) Substitution at 66',Zeiko Lewis Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,166087.0,2025-03-22 21:42:33
+13298,734181,7,44914168,76,2,3911,66',0,0,Zeiko Lewis (Bermuda) Substitution at 66',Zeiko Lewis Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,2.0,171830.0,2025-03-22 21:42:33
+13298,734181,8,44914169,76,2,3922,66',0,0,Sachiel Ming (Bermuda) Substitution at 66',Sachiel Ming Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,385073.0,2025-03-22 21:42:33
+13298,734181,8,44914169,76,2,3922,66',0,0,Sachiel Ming (Bermuda) Substitution at 66',Sachiel Ming Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,2.0,221049.0,2025-03-22 21:42:33
+13298,734181,9,44914170,70,2,3960,66',1,0,Romell Quioto (Honduras) Goal at 66',Romell Quioto Goal,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,175968.0,2025-03-22 21:42:33
+13298,734181,10,44914171,76,2,4080,68',0,0,Eusebio Blankendal (Bermuda) Substitution at 68',Eusebio Blankendal Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,299270.0,2025-03-22 21:42:33
+13298,734181,10,44914171,76,2,4080,68',0,0,Eusebio Blankendal (Bermuda) Substitution at 68',Eusebio Blankendal Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,2.0,217734.0,2025-03-22 21:42:33
+13298,734181,11,44914172,94,2,4380,73',0,0,Roger Lee (Bermuda) Yellow Card at 73',Roger Lee Yellow Card,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,166080.0,2025-03-22 21:42:33
+13298,734181,12,44914173,76,2,4627,78',0,0,Alexander López (Honduras) Substitution at 78',Alexander López Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,175969.0,2025-03-22 21:42:33
+13298,734181,12,44914173,76,2,4627,78',0,0,Alexander López (Honduras) Substitution at 78',Alexander López Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,2.0,118537.0,2025-03-22 21:42:33
+13298,734181,13,44914174,76,2,4637,78',0,0,Aunde Todd (Bermuda) Substitution at 78',Aunde Todd Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,370891.0,2025-03-22 21:42:33
+13298,734181,13,44914174,76,2,4637,78',0,0,Aunde Todd (Bermuda) Substitution at 78',Aunde Todd Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,2.0,166080.0,2025-03-22 21:42:33
+13298,734181,14,44914175,76,2,4647,78',0,0,Ne-Jai Tucker (Bermuda) Substitution at 78',Ne-Jai Tucker Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,370898.0,2025-03-22 21:42:33
+13298,734181,14,44914175,76,2,4647,78',0,0,Ne-Jai Tucker (Bermuda) Substitution at 78',Ne-Jai Tucker Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,2.0,329776.0,2025-03-22 21:42:33
+13298,734181,15,44914176,94,2,4920,82',0,0,Kervin Arriaga (Honduras) Yellow Card at 82',Kervin Arriaga Yellow Card,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,260554.0,2025-03-22 21:42:33
+13298,734181,16,44914177,76,2,5160,86',0,0,Jose Garcia (Honduras) Substitution at 86',Jose Garcia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,402299.0,2025-03-22 21:42:33
+13298,734181,16,44914177,76,2,5160,86',0,0,Jose Garcia (Honduras) Substitution at 86',Jose Garcia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,378913.0,2025-03-22 21:42:33
+13298,734181,16,44914177,76,2,5160,86',0,0,Jose Garcia (Honduras) Substitution at 86',Jose Garcia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346849.0,2025-03-22 21:42:33
+13298,734181,16,44914177,76,2,5160,86',0,0,Jose Garcia (Honduras) Substitution at 86',Jose Garcia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317012.0,2025-03-22 21:42:33
+13298,734181,16,44914177,76,2,5160,86',0,0,Jose Garcia (Honduras) Substitution at 86',Jose Garcia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,300769.0,2025-03-22 21:42:33
+13298,734181,16,44914177,76,2,5160,86',0,0,Jose Garcia (Honduras) Substitution at 86',Jose Garcia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,297504.0,2025-03-22 21:42:33
+13298,734181,16,44914177,76,2,5160,86',0,0,Jose Garcia (Honduras) Substitution at 86',Jose Garcia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,287710.0,2025-03-22 21:42:33
+13298,734181,16,44914177,76,2,5160,86',0,0,Jose Garcia (Honduras) Substitution at 86',Jose Garcia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,287408.0,2025-03-22 21:42:33
+13298,734181,16,44914177,76,2,5160,86',0,0,Jose Garcia (Honduras) Substitution at 86',Jose Garcia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,269870.0,2025-03-22 21:42:33
+13298,734181,16,44914177,76,2,5160,86',0,0,Jose Garcia (Honduras) Substitution at 86',Jose Garcia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,256203.0,2025-03-22 21:42:33
+13298,734181,16,44914177,76,2,5160,86',0,0,Jose Garcia (Honduras) Substitution at 86',Jose Garcia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,196084.0,2025-03-22 21:42:33
+13298,734181,16,44914177,76,2,5160,86',0,0,Jose Garcia (Honduras) Substitution at 86',Jose Garcia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,92561.0,2025-03-22 21:42:33
+13298,734181,16,44914177,76,2,5160,86',0,0,Jose Garcia (Honduras) Substitution at 86',Jose Garcia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,2.0,260554.0,2025-03-22 21:42:33
+13298,734181,17,44914178,76,2,5172,87',0,0,Justin Arboleda (Honduras) Substitution at 87',Justin Arboleda Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2025-03-22 21:42:33
+13298,734181,17,44914178,76,2,5172,87',0,0,Justin Arboleda (Honduras) Substitution at 87',Justin Arboleda Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,2.0,133852.0,2025-03-22 21:42:33
+13298,734181,18,44914179,94,2,5220,87',0,0,Enrique Russell (Bermuda) Yellow Card at 87',Enrique Russell Yellow Card,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,316659.0,2025-03-22 21:42:33
+13298,734181,19,44914180,70,2,5340,89',1,0,Jose Martinez (Honduras) Goal at 89',Jose Martinez Goal,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,360071.0,2025-03-22 21:42:33
+13298,734181,19,44914180,70,2,5340,89',1,0,Jose Martinez (Honduras) Goal at 89',Jose Martinez Goal,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,177280.0,2025-03-22 21:42:33
+13298,734181,20,44914181,76,2,5400,90'+1',0,0,José Pinto (Honduras) Substitution at 91',José Pinto Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,81856.0,2025-03-22 21:42:33
+13298,734181,20,44914181,76,2,5400,90'+1',0,0,José Pinto (Honduras) Substitution at 91',José Pinto Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,19562.0,2025-03-22 21:42:33
+13298,734181,22,44914183,70,2,5400,90'+4',1,0,José Pinto (Honduras) Goal at 94',José Pinto Goal,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,81856.0,2025-03-22 21:42:33
+13298,734181,22,44914183,70,2,5400,90'+4',1,0,José Pinto (Honduras) Goal at 94',José Pinto Goal,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,19562.0,2025-03-22 21:42:33
+13298,734181,21,44914182,70,2,5400,90'+2',1,0,Zeiko Lewis (Bermuda) Goal at 92',Zeiko Lewis Goal,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,166087.0,2025-03-22 21:42:33
+13298,734181,20,44914181,76,2,5400,90'+1',0,0,José Pinto (Honduras) Substitution at 91',José Pinto Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,2.0,175968.0,2025-03-22 21:42:33
+13298,734182,1,44913893,70,1,1020,17',1,0,Florian David (Guadeloupe) Goal at 17',Florian David Goal,7657,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734182,2,44913894,76,2,2760,46',0,0,Matias Moldskred (Nicaragua) Substitution at 46',Matias Moldskred Substitution,2658,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734182,3,44913895,93,2,2880,48',0,0,Méddy Lina (Guadeloupe) Red Card at 48',Méddy Lina Red Card,7657,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734182,4,44913896,76,2,3180,53',0,0,Zoran Moco (Guadeloupe) Substitution at 53',Zoran Moco Substitution,7657,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734182,5,44913897,94,2,3600,60',0,0,Bancy Hernández (Nicaragua) Yellow Card at 60',Bancy Hernández Yellow Card,2658,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734182,6,44913898,76,2,3780,63',0,0,Ariagner Smith (Nicaragua) Substitution at 63',Ariagner Smith Substitution,2658,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734182,7,44913899,76,2,4080,68',0,0,Ariel Araúz (Nicaragua) Substitution at 68',Ariel Araúz Substitution,2658,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734182,8,44913900,94,2,4200,70',0,0,Marvin David Fletes (Nicaragua) Yellow Card at 70',Marvin David Fletes Yellow Card,2658,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734182,9,44913901,76,2,4562,77',0,0,Alexandre Arenate (Guadeloupe) Substitution at 77',Alexandre Arenate Substitution,7657,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734182,10,44913902,76,2,4571,77',0,0,Kenny Mixtur (Guadeloupe) Substitution at 77',Kenny Mixtur Substitution,7657,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734182,11,44913903,76,2,5105,86',0,0,Widman Talavera (Nicaragua) Substitution at 86',Widman Talavera Substitution,2658,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734182,12,44913904,76,2,5115,86',0,0,Christian Reyes (Nicaragua) Substitution at 86',Christian Reyes Substitution,2658,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734182,13,44913905,76,2,5281,89',0,0,Raphael Mirval (Guadeloupe) Substitution at 89',Raphael Mirval Substitution,7657,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734182,14,44913906,94,2,5299,89',0,0,Ariel Araúz (Nicaragua) Yellow Card at 89',Ariel Araúz Yellow Card,2658,0.0,0.0,0.0,0.0,0.0,0.0,,,2025-03-22 21:42:33
+13298,734183,1,44913942,70,1,540,9',1,0,Isaiah Jones (Guyana) Goal at 9',Isaiah Jones Goal,2653,0.0,0.0,0.0,0.0,0.0,0.0,1.0,294280.0,2025-03-22 21:42:33
+13298,734183,2,44913943,70,1,1740,29',1,0,Jose Martinez (Guatemala) Goal at 29',Jose Martinez Goal,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,407982.0,2025-03-22 21:42:33
+13298,734183,2,44913943,70,1,1740,29',1,0,Jose Martinez (Guatemala) Goal at 29',Jose Martinez Goal,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,316248.0,2025-03-22 21:42:33
+13298,734183,2,44913943,70,1,1740,29',1,0,Jose Martinez (Guatemala) Goal at 29',Jose Martinez Goal,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,302169.0,2025-03-22 21:42:33
+13298,734183,2,44913943,70,1,1740,29',1,0,Jose Martinez (Guatemala) Goal at 29',Jose Martinez Goal,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,280145.0,2025-03-22 21:42:33
+13298,734183,2,44913943,70,1,1740,29',1,0,Jose Martinez (Guatemala) Goal at 29',Jose Martinez Goal,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,271205.0,2025-03-22 21:42:33
+13298,734183,2,44913943,70,1,1740,29',1,0,Jose Martinez (Guatemala) Goal at 29',Jose Martinez Goal,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,240531.0,2025-03-22 21:42:33
+13298,734183,2,44913943,70,1,1740,29',1,0,Jose Martinez (Guatemala) Goal at 29',Jose Martinez Goal,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,236127.0,2025-03-22 21:42:33
+13298,734183,2,44913943,70,1,1740,29',1,0,Jose Martinez (Guatemala) Goal at 29',Jose Martinez Goal,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,148315.0,2025-03-22 21:42:33
+13298,734183,3,44913944,94,1,2100,35',0,0,José Rosales (Guatemala) Yellow Card at 35',José Rosales Yellow Card,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,287074.0,2025-03-22 21:42:33
+13298,734183,4,44913945,70,1,2160,36',1,0,Isaiah Jones (Guyana) Goal at 36',Isaiah Jones Goal,2653,0.0,0.0,0.0,0.0,0.0,0.0,1.0,294280.0,2025-03-22 21:42:33
+13298,734183,5,44913946,94,1,2400,40',0,0,Olger Escobar (Guatemala) Yellow Card at 40',Olger Escobar Yellow Card,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,377044.0,2025-03-22 21:42:33
+13298,734183,6,44913947,94,1,2700,45'+3',0,0,Daniel Wilson (Guyana) Yellow Card at 48',Daniel Wilson Yellow Card,2653,0.0,0.0,0.0,0.0,0.0,0.0,1.0,179387.0,2025-03-22 21:42:33
+13298,734183,7,44913948,76,2,2770,47',0,0,Nathaniel Mendez-Laing (Guatemala) Substitution at 47',Nathaniel Mendez-Laing Substitut,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,140008.0,2025-03-22 21:42:33
+13298,734183,7,44913948,76,2,2770,47',0,0,Nathaniel Mendez-Laing (Guatemala) Substitution at 47',Nathaniel Mendez-Laing Substitut,2652,0.0,0.0,0.0,0.0,0.0,0.0,2.0,313283.0,2025-03-22 21:42:33
+13298,734183,7,44913948,76,2,2770,47',0,0,Nathaniel Mendez-Laing (Guatemala) Substitution at 47',Nathaniel Mendez-Laing Substitut,2652,0.0,0.0,0.0,0.0,0.0,0.0,2.0,241950.0,2025-03-22 21:42:33
+13298,734183,8,44913949,76,2,2777,47',0,0,Rubio Rubín (Guatemala) Substitution at 47',Rubio Rubín Substitution,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,205657.0,2025-03-22 21:42:33
+13298,734183,8,44913949,76,2,2777,47',0,0,Rubio Rubín (Guatemala) Substitution at 47',Rubio Rubín Substitution,2652,0.0,0.0,0.0,0.0,0.0,0.0,2.0,407982.0,2025-03-22 21:42:33
+13298,734183,8,44913949,76,2,2777,47',0,0,Rubio Rubín (Guatemala) Substitution at 47',Rubio Rubín Substitution,2652,0.0,0.0,0.0,0.0,0.0,0.0,2.0,316248.0,2025-03-22 21:42:33
+13298,734183,8,44913949,76,2,2777,47',0,0,Rubio Rubín (Guatemala) Substitution at 47',Rubio Rubín Substitution,2652,0.0,0.0,0.0,0.0,0.0,0.0,2.0,302169.0,2025-03-22 21:42:33
+13298,734183,8,44913949,76,2,2777,47',0,0,Rubio Rubín (Guatemala) Substitution at 47',Rubio Rubín Substitution,2652,0.0,0.0,0.0,0.0,0.0,0.0,2.0,280145.0,2025-03-22 21:42:33
+13298,734183,8,44913949,76,2,2777,47',0,0,Rubio Rubín (Guatemala) Substitution at 47',Rubio Rubín Substitution,2652,0.0,0.0,0.0,0.0,0.0,0.0,2.0,271205.0,2025-03-22 21:42:33
+13298,734183,8,44913949,76,2,2777,47',0,0,Rubio Rubín (Guatemala) Substitution at 47',Rubio Rubín Substitution,2652,0.0,0.0,0.0,0.0,0.0,0.0,2.0,240531.0,2025-03-22 21:42:33
+13298,734183,8,44913949,76,2,2777,47',0,0,Rubio Rubín (Guatemala) Substitution at 47',Rubio Rubín Substitution,2652,0.0,0.0,0.0,0.0,0.0,0.0,2.0,236127.0,2025-03-22 21:42:33
+13298,734183,8,44913949,76,2,2777,47',0,0,Rubio Rubín (Guatemala) Substitution at 47',Rubio Rubín Substitution,2652,0.0,0.0,0.0,0.0,0.0,0.0,2.0,148315.0,2025-03-22 21:42:33
+13298,734183,9,44913950,76,2,2782,47',0,0,Óscar Castellanos (Guatemala) Substitution at 47',Óscar Castellanos Substitution,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,288938.0,2025-03-22 21:42:33
+13298,734183,9,44913950,76,2,2782,47',0,0,Óscar Castellanos (Guatemala) Substitution at 47',Óscar Castellanos Substitution,2652,0.0,0.0,0.0,0.0,0.0,0.0,2.0,287074.0,2025-03-22 21:42:33
+13298,734183,10,44913951,94,2,3060,51',0,0,Isaiah Jones (Guyana) Yellow Card at 51',Isaiah Jones Yellow Card,2653,0.0,0.0,0.0,0.0,0.0,0.0,1.0,294280.0,2025-03-22 21:42:33
+13298,734183,11,44913952,70,2,3360,56',1,0,Isaiah Jones (Guyana) Goal at 56',Isaiah Jones Goal,2653,0.0,0.0,0.0,0.0,0.0,0.0,1.0,294280.0,2025-03-22 21:42:33
+13298,734183,12,44913953,76,2,3660,61',0,0,Stephen Duke-McKenna (Guyana) Substitution at 61',Stephen Duke-McKenna Substitutio,2653,0.0,0.0,0.0,0.0,0.0,0.0,1.0,268783.0,2025-03-22 21:42:33
+13298,734183,12,44913953,76,2,3660,61',0,0,Stephen Duke-McKenna (Guyana) Substitution at 61',Stephen Duke-McKenna Substitutio,2653,0.0,0.0,0.0,0.0,0.0,0.0,2.0,316545.0,2025-03-22 21:42:33
+13298,734183,13,44913954,76,2,3671,62',0,0,Pedro Altán (Guatemala) Substitution at 62',Pedro Altán Substitution,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,223625.0,2025-03-22 21:42:33
+13298,734183,13,44913954,76,2,3671,62',0,0,Pedro Altán (Guatemala) Substitution at 62',Pedro Altán Substitution,2652,0.0,0.0,0.0,0.0,0.0,0.0,2.0,377044.0,2025-03-22 21:42:33
+13298,734183,14,44913955,94,2,4380,73',0,0,Omari Glasgow (Guyana) Yellow Card at 73',Omari Glasgow Yellow Card,2653,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317343.0,2025-03-22 21:42:33
+13298,734183,15,44913956,76,2,4620,77',0,0,Maliq Cadogan (Guyana) Substitution at 77',Maliq Cadogan Substitution,2653,0.0,0.0,0.0,0.0,0.0,0.0,1.0,330613.0,2025-03-22 21:42:33
+13298,734183,15,44913956,76,2,4620,77',0,0,Maliq Cadogan (Guyana) Substitution at 77',Maliq Cadogan Substitution,2653,0.0,0.0,0.0,0.0,0.0,0.0,2.0,317343.0,2025-03-22 21:42:33
+13298,734183,16,44913957,98,2,4800,80',1,0,José Carlos Pinto (Guatemala) Penalty - Scored at 80',José Carlos Pinto Penalty - Scor,2652,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,2025-03-22 21:42:33
+13298,734183,17,44913958,76,2,5040,84',0,0,Romaine Brackenridge (Guyana) Substitution at 84',Romaine Brackenridge Substitutio,2653,0.0,0.0,0.0,0.0,0.0,0.0,1.0,276957.0,2025-03-22 21:42:33
+13298,734183,17,44913958,76,2,5040,84',0,0,Romaine Brackenridge (Guyana) Substitution at 84',Romaine Brackenridge Substitutio,2653,0.0,0.0,0.0,0.0,0.0,0.0,2.0,268401.0,2025-03-22 21:42:33
+13298,734183,18,44913959,76,2,5109,86',0,0,Enoch George (Guyana) Substitution at 86',Enoch George Substitution,2653,0.0,0.0,0.0,0.0,0.0,0.0,1.0,353000.0,2025-03-22 21:42:33
+13298,734183,18,44913959,76,2,5109,86',0,0,Enoch George (Guyana) Substitution at 86',Enoch George Substitution,2653,0.0,0.0,0.0,0.0,0.0,0.0,2.0,193925.0,2025-03-22 21:42:33
+13298,734183,19,44913960,76,2,5122,86',0,0,Kelsey Benjamin (Guyana) Substitution at 86',Kelsey Benjamin Substitution,2653,0.0,0.0,0.0,0.0,0.0,0.0,1.0,255530.0,2025-03-22 21:42:33
+13298,734183,19,44913960,76,2,5122,86',0,0,Kelsey Benjamin (Guyana) Substitution at 86',Kelsey Benjamin Substitution,2653,0.0,0.0,0.0,0.0,0.0,0.0,2.0,294280.0,2025-03-22 21:42:33
+13298,734184,1,44914624,70,1,420,7',1,0,Manfred Ugalde (Costa Rica) Goal at 7',Manfred Ugalde Goal,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,291184.0,2025-03-22 21:42:33
+13298,734184,2,44914625,76,1,1860,31',0,0,Shamarl Flowers (Belize) Substitution at 31',Shamarl Flowers Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,402206.0,2025-03-22 21:42:33
+13298,734184,2,44914625,76,1,1860,31',0,0,Shamarl Flowers (Belize) Substitution at 31',Shamarl Flowers Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,2.0,299028.0,2025-03-22 21:42:33
+13298,734184,3,44914626,98,1,2160,36',1,0,Manfred Ugalde (Costa Rica) Penalty - Scored at 36',Manfred Ugalde Penalty - Scored,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,291184.0,2025-03-22 21:42:33
+13298,734184,4,44914627,94,1,2280,38',0,0,Norman Anderson (Belize) Yellow Card at 38',Norman Anderson Yellow Card,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,260558.0,2025-03-22 21:42:33
+13298,734184,5,44914628,70,1,2291,39',1,0,Juan Pablo Vargas (Costa Rica) Goal at 39',Juan Pablo Vargas Goal,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,235122.0,2025-03-22 21:42:33
+13298,734184,6,44914629,94,2,2940,49',0,0,Naim Wilson (Belize) Yellow Card at 49',Naim Wilson Yellow Card,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,391167.0,2025-03-22 21:42:33
+13298,734184,7,44914630,94,2,3180,53',0,0,Brandon Aguilera (Costa Rica) Yellow Card at 53',Brandon Aguilera Yellow Card,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,310001.0,2025-03-22 21:42:33
+13298,734184,8,44914631,76,2,3482,59',0,0,Álvaro Zamora (Costa Rica) Substitution at 59',Álvaro Zamora Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,350718.0,2025-03-22 21:42:33
+13298,734184,8,44914631,76,2,3482,59',0,0,Álvaro Zamora (Costa Rica) Substitution at 59',Álvaro Zamora Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,2.0,310001.0,2025-03-22 21:42:33
+13298,734184,9,44914632,76,2,3491,59',0,0,Josimar Alcócer (Costa Rica) Substitution at 59',Josimar Alcócer Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,328393.0,2025-03-22 21:42:33
+13298,734184,9,44914632,76,2,3491,59',0,0,Josimar Alcócer (Costa Rica) Substitution at 59',Josimar Alcócer Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,2.0,291184.0,2025-03-22 21:42:33
+13298,734184,10,44914633,76,2,3495,59',0,0,Alejandro Bran (Costa Rica) Substitution at 59',Alejandro Bran Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,325359.0,2025-03-22 21:42:33
+13298,734184,10,44914633,76,2,3495,59',0,0,Alejandro Bran (Costa Rica) Substitution at 59',Alejandro Bran Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,2.0,286468.0,2025-03-22 21:42:33
+13298,734184,11,44914634,76,2,3840,64',0,0,Jaylen Lennan (Belize) Substitution at 64',Jaylen Lennan Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346333.0,2025-03-22 21:42:33
+13298,734184,11,44914634,76,2,3840,64',0,0,Jaylen Lennan (Belize) Substitution at 64',Jaylen Lennan Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,2.0,260558.0,2025-03-22 21:42:33
+13298,734184,12,44914635,70,2,3900,65',1,0,Jeyland Mitchell (Costa Rica) Goal at 65',Jeyland Mitchell Goal,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,362926.0,2025-03-22 21:42:33
+13298,734184,13,44914636,76,2,4080,68',0,0,Andy Rojas (Costa Rica) Substitution at 68',Andy Rojas Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,378895.0,2025-03-22 21:42:33
+13298,734184,13,44914636,76,2,4080,68',0,0,Andy Rojas (Costa Rica) Substitution at 68',Andy Rojas Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,2.0,235122.0,2025-03-22 21:42:33
+13298,734184,14,44914637,70,2,4200,70',1,0,Álvaro Zamora (Costa Rica) Goal at 70',Álvaro Zamora Goal,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,350718.0,2025-03-22 21:42:33
+13298,734184,15,44914638,76,2,4440,74',0,0,Alexis Gamboa (Costa Rica) Substitution at 74',Alexis Gamboa Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,267307.0,2025-03-22 21:42:33
+13298,734184,15,44914638,76,2,4440,74',0,0,Alexis Gamboa (Costa Rica) Substitution at 74',Alexis Gamboa Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,2.0,362926.0,2025-03-22 21:42:33
+13298,734184,16,44914639,76,2,4500,75',0,0,Marlon Meza (Belize) Substitution at 75',Marlon Meza Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,226551.0,2025-03-22 21:42:33
+13298,734184,16,44914639,76,2,4500,75',0,0,Marlon Meza (Belize) Substitution at 75',Marlon Meza Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,2.0,391167.0,2025-03-22 21:42:33
+13298,734184,17,44914640,76,2,4561,77',0,0,Steven Gentle (Belize) Substitution at 77',Steven Gentle Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,196125.0,2025-03-22 21:42:33
+13298,734184,17,44914640,76,2,4561,77',0,0,Steven Gentle (Belize) Substitution at 77',Steven Gentle Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,2.0,312298.0,2025-03-22 21:42:33
+13298,734184,17,44914640,76,2,4561,77',0,0,Steven Gentle (Belize) Substitution at 77',Steven Gentle Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,2.0,275052.0,2025-03-22 21:42:33
+13298,734184,18,44914641,76,2,4572,77',0,0,Jaheim Mena (Belize) Substitution at 77',Jaheim Mena Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,391162.0,2025-03-22 21:42:33
+13298,734184,18,44914641,76,2,4572,77',0,0,Jaheim Mena (Belize) Substitution at 77',Jaheim Mena Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,2.0,346217.0,2025-03-22 21:42:33
+13298,734184,19,44914642,70,2,4860,81',1,0,Josimar Alcócer (Costa Rica) Goal at 81',Josimar Alcócer Goal,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,328393.0,2025-03-22 21:42:33
+13298,734184,20,44914643,70,2,5280,88',1,0,Álvaro Zamora (Costa Rica) Goal at 88',Álvaro Zamora Goal,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,350718.0,2025-03-22 21:42:33
+13298,734187,1,44934004,94,1,660,11',0,0,Jazzi Barnum-Bobb (St. Vincent and the Grenadines) Yellow Card at 11',Jazzi Barnum-Bobb Yellow Card,13584,0.0,0.0,0.0,0.0,0.0,0.0,1.0,207901.0,2025-03-27 04:58:57
+13298,734187,2,44934005,70,1,1620,27',1,0,Warner Brown (Jamaica) Goal at 27',Warner Brown Goal,1038,0.0,0.0,0.0,0.0,0.0,0.0,1.0,347448.0,2025-03-27 04:58:57
+13298,734187,3,44934006,94,1,2340,39',0,0,Isaac Hayden (Jamaica) Yellow Card at 39',Isaac Hayden Yellow Card,1038,0.0,0.0,0.0,0.0,0.0,0.0,1.0,192031.0,2025-03-27 04:58:57
+13298,734187,4,44934007,76,2,2701,46',0,0,Najima Burgin (St. Vincent and the Grenadines) Substitution at 46',Najima Burgin Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,1.0,341915.0,2025-03-27 04:58:57
+13298,734187,4,44934007,76,2,2701,46',0,0,Najima Burgin (St. Vincent and the Grenadines) Substitution at 46',Najima Burgin Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,2.0,207901.0,2025-03-27 04:58:57
+13298,734187,5,44934008,94,2,3240,54',0,0,Tristan Marshall (St. Vincent and the Grenadines) Yellow Card at 54',Tristan Marshall Yellow Card,13584,0.0,0.0,0.0,0.0,0.0,0.0,1.0,296554.0,2025-03-27 04:58:57
+13298,734187,6,44934009,76,2,4080,68',0,0,Kyle Edwards (St. Vincent and the Grenadines) Substitution at 68',Kyle Edwards Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,1.0,217985.0,2025-03-27 04:58:57
+13298,734187,6,44934009,76,2,4080,68',0,0,Kyle Edwards (St. Vincent and the Grenadines) Substitution at 68',Kyle Edwards Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,2.0,396117.0,2025-03-27 04:58:57
+13298,734187,7,44934010,76,2,4140,69',0,0,Shak Adams (St. Vincent and the Grenadines) Substitution at 69',Shak Adams Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,1.0,261719.0,2025-03-27 04:58:57
+13298,734187,7,44934010,76,2,4140,69',0,0,Shak Adams (St. Vincent and the Grenadines) Substitution at 69',Shak Adams Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,2.0,120391.0,2025-03-27 04:58:57
+13298,734187,8,44934011,76,2,4860,81',0,0,Jahshaun Anglin (Jamaica) Substitution at 81',Jahshaun Anglin Substitution,1038,0.0,0.0,0.0,0.0,0.0,0.0,1.0,306586.0,2025-03-27 04:58:57
+13298,734187,8,44934011,76,2,4860,81',0,0,Jahshaun Anglin (Jamaica) Substitution at 81',Jahshaun Anglin Substitution,1038,0.0,0.0,0.0,0.0,0.0,0.0,2.0,347448.0,2025-03-27 04:58:57
+13298,734187,9,44934012,76,2,5101,86',0,0,Azhino Solomon (St. Vincent and the Grenadines) Substitution at 86',Azhino Solomon Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,1.0,230389.0,2025-03-27 04:58:57
+13298,734187,9,44934012,76,2,5101,86',0,0,Azhino Solomon (St. Vincent and the Grenadines) Substitution at 86',Azhino Solomon Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,2.0,296554.0,2025-03-27 04:58:57
+13298,734187,10,44934013,76,2,5160,86',0,0,Nazir McBurnette (St. Vincent and the Grenadines) Substitution at 86',Nazir McBurnette Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,1.0,230392.0,2025-03-27 04:58:57
+13298,734187,10,44934013,76,2,5160,86',0,0,Nazir McBurnette (St. Vincent and the Grenadines) Substitution at 86',Nazir McBurnette Substitution,13584,0.0,0.0,0.0,0.0,0.0,0.0,2.0,373188.0,2025-03-27 04:58:57
+13298,734187,11,44934014,76,2,5220,87',0,0,Damion Lowe (Jamaica) Substitution at 87',Damion Lowe Substitution,1038,0.0,0.0,0.0,0.0,0.0,0.0,1.0,200139.0,2025-03-27 04:58:57
+13298,734187,11,44934014,76,2,5220,87',0,0,Damion Lowe (Jamaica) Substitution at 87',Damion Lowe Substitution,1038,0.0,0.0,0.0,0.0,0.0,0.0,2.0,192031.0,2025-03-27 04:58:57
+13298,734187,12,44934015,94,2,5280,88',0,0,Jahshaun Anglin (Jamaica) Yellow Card at 88',Jahshaun Anglin Yellow Card,1038,0.0,0.0,0.0,0.0,0.0,0.0,1.0,306586.0,2025-03-27 04:58:57
+13298,734187,13,44934016,97,2,5340,89',1,0,Andrew Johnson (St. Vincent and the Grenadines) Own Goal at 89',Andrew Johnson Own Goal,1038,0.0,0.0,0.0,0.0,0.0,0.0,1.0,400471.0,2025-03-27 04:58:57
+13298,734187,14,44934017,76,2,5400,90'+2',0,0,Kaheim Dixon (Jamaica) Substitution at 92',Kaheim Dixon Substitution,1038,0.0,0.0,0.0,0.0,0.0,0.0,1.0,382139.0,2025-03-27 04:58:57
+13298,734187,15,44934018,70,2,5400,90'+4',1,0,Renaldo Cephas (Jamaica) Goal at 94',Renaldo Cephas Goal,1038,0.0,0.0,0.0,0.0,0.0,0.0,1.0,343353.0,2025-03-27 04:58:57
+13298,734187,14,44934017,76,2,5400,90'+2',0,0,Kaheim Dixon (Jamaica) Substitution at 92',Kaheim Dixon Substitution,1038,0.0,0.0,0.0,0.0,0.0,0.0,2.0,194403.0,2025-03-27 04:58:57
+13298,734190,1,44933869,97,1,60,1',1,0,Donell Arzú (Belize) Own Goal at 1',Donell Arzú Own Goal,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,299028.0,2025-03-27 04:58:57
+13298,734190,2,44933870,70,1,360,6',1,0,Alejandro Bran (Costa Rica) Goal at 6',Alejandro Bran Goal,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,325359.0,2025-03-27 04:58:57
+13298,734190,3,44933871,70,1,480,8',1,0,Alonso (Costa Rica) Goal at 8',Alonso Goal,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,310827.0,2025-03-27 04:58:57
+13298,734190,4,44933872,94,1,1260,21',0,0,Freybin Pagoada (Belize) Yellow Card at 21',Freybin Pagoada Yellow Card,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,391160.0,2025-03-27 04:58:57
+13298,734190,5,44933873,94,1,1320,22',0,0,Jeyland Mitchell (Costa Rica) Yellow Card at 22',Jeyland Mitchell Yellow Card,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,362926.0,2025-03-27 04:58:57
+13298,734190,6,44933874,76,1,1800,30',0,0,Carlos Mora (Costa Rica) Substitution at 30',Carlos Mora Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,310002.0,2025-03-27 04:58:57
+13298,734190,6,44933874,76,1,1800,30',0,0,Carlos Mora (Costa Rica) Substitution at 30',Carlos Mora Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,2.0,335998.0,2025-03-27 04:58:57
+13298,734190,7,44933875,70,1,2160,36',1,0,Manfred Ugalde (Costa Rica) Goal at 36',Manfred Ugalde Goal,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,291184.0,2025-03-27 04:58:57
+13298,734190,9,44933877,76,2,2701,46',0,0,Angelo Capello (Belize) Substitution at 46',Angelo Capello Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346217.0,2025-03-27 04:58:57
+13298,734190,8,44933876,76,2,2701,46',0,0,Randy Vega (Costa Rica) Substitution at 46',Randy Vega Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,399115.0,2025-03-27 04:58:57
+13298,734190,8,44933876,76,2,2701,46',0,0,Randy Vega (Costa Rica) Substitution at 46',Randy Vega Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,2.0,326191.0,2025-03-27 04:58:57
+13298,734190,9,44933877,76,2,2701,46',0,0,Angelo Capello (Belize) Substitution at 46',Angelo Capello Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,2.0,346333.0,2025-03-27 04:58:57
+13298,734190,10,44933878,76,2,2702,46',0,0,Santiago van der Putten (Costa Rica) Substitution at 46',Santiago van der Putten Substitu,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,317947.0,2025-03-27 04:58:57
+13298,734190,10,44933878,76,2,2702,46',0,0,Santiago van der Putten (Costa Rica) Substitution at 46',Santiago van der Putten Substitu,214,0.0,0.0,0.0,0.0,0.0,0.0,2.0,362926.0,2025-03-27 04:58:57
+13298,734190,11,44933879,76,2,2703,46',0,0,Álvaro Zamora (Costa Rica) Substitution at 46',Álvaro Zamora Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,350718.0,2025-03-27 04:58:57
+13298,734190,11,44933879,76,2,2703,46',0,0,Álvaro Zamora (Costa Rica) Substitution at 46',Álvaro Zamora Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,2.0,310827.0,2025-03-27 04:58:57
+13298,734190,12,44933880,70,2,2820,47',1,0,Carlos Bernárdez (Belize) Goal at 47',Carlos Bernárdez Goal,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,212667.0,2025-03-27 04:58:57
+13298,734190,13,44933881,94,2,2940,49',0,0,Angelo Capello (Belize) Yellow Card at 49',Angelo Capello Yellow Card,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346217.0,2025-03-27 04:58:57
+13298,734190,14,44933882,76,2,3060,51',0,0,Jovaunn Ramos (Belize) Substitution at 51',Jovaunn Ramos Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346296.0,2025-03-27 04:58:57
+13298,734190,14,44933882,76,2,3060,51',0,0,Jovaunn Ramos (Belize) Substitution at 51',Jovaunn Ramos Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,2.0,299028.0,2025-03-27 04:58:57
+13298,734190,15,44933883,76,2,3780,63',0,0,Andy Rojas (Costa Rica) Substitution at 63',Andy Rojas Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,378895.0,2025-03-27 04:58:57
+13298,734190,15,44933883,76,2,3780,63',0,0,Andy Rojas (Costa Rica) Substitution at 63',Andy Rojas Substitution,214,0.0,0.0,0.0,0.0,0.0,0.0,2.0,291184.0,2025-03-27 04:58:57
+13298,734190,16,44933884,70,2,3960,66',1,0,Alejandro Bran (Costa Rica) Goal at 66',Alejandro Bran Goal,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,325359.0,2025-03-27 04:58:57
+13298,734190,17,44933885,94,2,4020,67',0,0,Naim Wilson (Belize) Yellow Card at 67',Naim Wilson Yellow Card,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,391167.0,2025-03-27 04:58:57
+13298,734190,18,44933886,94,2,4080,68',0,0,Joseph Mora (Costa Rica) Yellow Card at 68',Joseph Mora Yellow Card,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,163238.0,2025-03-27 04:58:57
+13298,734190,19,44933887,70,2,4140,69',1,0,Álvaro Zamora (Costa Rica) Goal at 69',Álvaro Zamora Goal,214,0.0,0.0,0.0,0.0,0.0,0.0,1.0,350718.0,2025-03-27 04:58:57
+13298,734190,20,44933888,76,2,4740,79',0,0,Jaheim Mena (Belize) Substitution at 79',Jaheim Mena Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,1.0,391162.0,2025-03-27 04:58:57
+13298,734190,20,44933888,76,2,4740,79',0,0,Jaheim Mena (Belize) Substitution at 79',Jaheim Mena Substitution,2641,0.0,0.0,0.0,0.0,0.0,0.0,2.0,212667.0,2025-03-27 04:58:57
+13298,734191,1,44933917,94,1,2160,36',0,0,Deybi Flores (Honduras) Yellow Card at 36',Deybi Flores Yellow Card,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,217254.0,2025-03-27 04:58:57
+13298,734191,2,44933918,76,2,2701,46',0,0,Aunde Todd (Bermuda) Substitution at 46',Aunde Todd Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,370891.0,2025-03-27 04:58:57
+13298,734191,2,44933918,76,2,2701,46',0,0,Aunde Todd (Bermuda) Substitution at 46',Aunde Todd Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,2.0,329776.0,2025-03-27 04:58:57
+13298,734191,3,44933919,76,2,2702,46',0,0,Willie Clemons (Bermuda) Substitution at 46',Willie Clemons Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,251941.0,2025-03-27 04:58:57
+13298,734191,3,44933919,76,2,2702,46',0,0,Willie Clemons (Bermuda) Substitution at 46',Willie Clemons Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,2.0,166080.0,2025-03-27 04:58:57
+13298,734191,4,44933920,70,2,3180,53',1,0,Jorge Benguche (Honduras) Goal at 53',Jorge Benguche Goal,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,241861.0,2025-03-27 04:58:57
+13298,734191,5,44933921,76,2,3240,54',0,0,J’Nai Butterfield-Steede (Bermuda) Substitution at 54',J’Nai Butterfield-Steede Substit,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,374230.0,2025-03-27 04:58:57
+13298,734191,5,44933921,76,2,3240,54',0,0,J’Nai Butterfield-Steede (Bermuda) Substitution at 54',J’Nai Butterfield-Steede Substit,2643,0.0,0.0,0.0,0.0,0.0,0.0,2.0,217734.0,2025-03-27 04:58:57
+13298,734191,6,44933922,70,2,3420,57',1,0,Luis Palma (Honduras) Goal at 57',Luis Palma Goal,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,133852.0,2025-03-27 04:58:57
+13298,734191,7,44933923,76,2,3960,66',0,0,Sachiel Ming (Bermuda) Substitution at 66',Sachiel Ming Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,385073.0,2025-03-27 04:58:57
+13298,734191,7,44933923,76,2,3960,66',0,0,Sachiel Ming (Bermuda) Substitution at 66',Sachiel Ming Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,2.0,221049.0,2025-03-27 04:58:57
+13298,734191,8,44933924,76,2,4260,71',0,0,Zeiko Lewis (Bermuda) Substitution at 71',Zeiko Lewis Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,166087.0,2025-03-27 04:58:57
+13298,734191,8,44933924,76,2,4260,71',0,0,Zeiko Lewis (Bermuda) Substitution at 71',Zeiko Lewis Substitution,2643,0.0,0.0,0.0,0.0,0.0,0.0,2.0,370898.0,2025-03-27 04:58:57
+13298,734191,9,44933925,76,2,4319,72',0,0,Alexander López (Honduras) Substitution at 72',Alexander López Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,175969.0,2025-03-27 04:58:57
+13298,734191,9,44933925,76,2,4319,72',0,0,Alexander López (Honduras) Substitution at 72',Alexander López Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,2.0,118537.0,2025-03-27 04:58:57
+13298,734191,10,44933926,76,2,4320,72',0,0,Carlos Mejia (Honduras) Substitution at 72',Carlos Mejia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,346344.0,2025-03-27 04:58:57
+13298,734191,10,44933926,76,2,4320,72',0,0,Carlos Mejia (Honduras) Substitution at 72',Carlos Mejia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,265943.0,2025-03-27 04:58:57
+13298,734191,10,44933926,76,2,4320,72',0,0,Carlos Mejia (Honduras) Substitution at 72',Carlos Mejia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,207210.0,2025-03-27 04:58:57
+13298,734191,10,44933926,76,2,4320,72',0,0,Carlos Mejia (Honduras) Substitution at 72',Carlos Mejia Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,2.0,133852.0,2025-03-27 04:58:57
+13298,734191,11,44933927,76,2,4500,75',0,0,José Pinto (Honduras) Substitution at 75',José Pinto Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,81856.0,2025-03-27 04:58:57
+13298,734191,11,44933927,76,2,4500,75',0,0,José Pinto (Honduras) Substitution at 75',José Pinto Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,19562.0,2025-03-27 04:58:57
+13298,734191,11,44933927,76,2,4500,75',0,0,José Pinto (Honduras) Substitution at 75',José Pinto Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,2.0,175968.0,2025-03-27 04:58:57
+13298,734191,12,44933928,76,2,5040,84',0,0,Raul García (Honduras) Substitution at 84',Raul García Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,45927.0,2025-03-27 04:58:57
+13298,734191,12,44933928,76,2,5040,84',0,0,Raul García (Honduras) Substitution at 84',Raul García Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,393301.0,2025-03-27 04:58:57
+13298,734191,12,44933928,76,2,5040,84',0,0,Raul García (Honduras) Substitution at 84',Raul García Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,382155.0,2025-03-27 04:58:57
+13298,734191,12,44933928,76,2,5040,84',0,0,Raul García (Honduras) Substitution at 84',Raul García Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,361216.0,2025-03-27 04:58:57
+13298,734191,12,44933928,76,2,5040,84',0,0,Raul García (Honduras) Substitution at 84',Raul García Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,296163.0,2025-03-27 04:58:57
+13298,734191,12,44933928,76,2,5040,84',0,0,Raul García (Honduras) Substitution at 84',Raul García Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,279709.0,2025-03-27 04:58:57
+13298,734191,12,44933928,76,2,5040,84',0,0,Raul García (Honduras) Substitution at 84',Raul García Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,1.0,144589.0,2025-03-27 04:58:57
+13298,734191,12,44933928,76,2,5040,84',0,0,Raul García (Honduras) Substitution at 84',Raul García Substitution,215,0.0,0.0,0.0,0.0,0.0,0.0,2.0,146355.0,2025-03-27 04:58:57
+13298,734191,13,44933929,94,2,5400,90'+2',0,0,Willie Clemons (Bermuda) Yellow Card at 92',Willie Clemons Yellow Card,2643,0.0,0.0,0.0,0.0,0.0,0.0,1.0,251941.0,2025-03-27 04:58:57

@@ -1,0 +1,448 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12824,720815,1,43959098,98,1,1200,20',1,0,Joseph Athalé (New Caledonia) Penalty - Scored at 20',Joseph Athalé Penalty - Scored,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,236543,2024-10-11 05:33:45
+12824,720815,2,43959099,70,1,2700,45',1,0,Georges Gope-Fenepej (New Caledonia) Goal at 45',Georges Gope-Fenepej Goal,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,173885,2024-10-11 05:33:45
+12824,720815,3,43959100,76,2,3060,51',0,0,Rex Naime (Papua New Guinea) Substitution at 51',Rex Naime Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,382667,2024-10-11 05:33:45
+12824,720815,3,43959100,76,2,3060,51',0,0,Rex Naime (Papua New Guinea) Substitution at 51',Rex Naime Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,2,337977,2024-10-11 05:33:45
+12824,720815,4,43959101,76,2,3420,57',0,0,Oberth Simon (Papua New Guinea) Substitution at 57',Oberth Simon Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,382669,2024-10-11 05:33:45
+12824,720815,4,43959101,76,2,3420,57',0,0,Oberth Simon (Papua New Guinea) Substitution at 57',Oberth Simon Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,2,393828,2024-10-11 05:33:45
+12824,720815,5,43959102,76,2,3480,58',0,0,Judah Asar (Papua New Guinea) Substitution at 58',Judah Asar Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,393833,2024-10-11 05:33:45
+12824,720815,5,43959102,76,2,3480,58',0,0,Judah Asar (Papua New Guinea) Substitution at 58',Judah Asar Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,2,207839,2024-10-11 05:33:45
+12824,720815,6,43959103,76,2,3780,63',0,0,Bryan Ausu (New Caledonia) Substitution at 63',Bryan Ausu Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,393824,2024-10-11 05:33:45
+12824,720815,6,43959103,76,2,3780,63',0,0,Bryan Ausu (New Caledonia) Substitution at 63',Bryan Ausu Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,257410,2024-10-11 05:33:45
+12824,720815,7,43959104,94,2,4500,75',0,0,Joris Kenon (New Caledonia) Yellow Card at 75',Joris Kenon Yellow Card,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,338017,2024-10-11 05:33:45
+12824,720815,8,43959105,76,2,4560,76',0,0,Germain Haewegene (New Caledonia) Substitution at 76',Germain Haewegene Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,338010,2024-10-11 05:33:45
+12824,720815,8,43959105,76,2,4560,76',0,0,Germain Haewegene (New Caledonia) Substitution at 76',Germain Haewegene Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,270619,2024-10-11 05:33:45
+12824,720815,9,43959106,76,2,4620,77',0,0,Mickael Partodikromo (New Caledonia) Substitution at 77',Mickael Partodikromo Substitutio,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,393822,2024-10-11 05:33:45
+12824,720815,9,43959106,76,2,4620,77',0,0,Mickael Partodikromo (New Caledonia) Substitution at 77',Mickael Partodikromo Substitutio,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,237133,2024-10-11 05:33:45
+12824,720815,10,43959107,70,2,4680,78',1,0,Tommy Semmy (Papua New Guinea) Goal at 78',Tommy Semmy Goal,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,236533,2024-10-11 05:33:45
+12824,720815,11,43959108,70,2,4980,83',1,0,Germain Haewegene (New Caledonia) Goal at 83',Germain Haewegene Goal,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,338010,2024-10-11 05:33:45
+12824,720815,12,43959109,94,2,5160,86',0,0,Morgan Mathelon (New Caledonia) Yellow Card at 86',Morgan Mathelon Yellow Card,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,250006,2024-10-11 05:33:45
+12824,720815,13,43959110,76,2,5220,87',0,0,Raymond Gunemba (Papua New Guinea) Substitution at 87',Raymond Gunemba Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,173950,2024-10-11 05:33:45
+12824,720815,13,43959110,76,2,5220,87',0,0,Raymond Gunemba (Papua New Guinea) Substitution at 87',Raymond Gunemba Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,2,382670,2024-10-11 05:33:45
+12824,720815,14,43959111,76,2,5400,90',0,0,Gerard Waia (New Caledonia) Substitution at 90',Gerard Waia Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,382681,2024-10-11 05:33:45
+12824,720815,14,43959111,76,2,5400,90',0,0,Gerard Waia (New Caledonia) Substitution at 90',Gerard Waia Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,173885,2024-10-11 05:33:45
+12824,720816,1,43959677,70,1,780,13',1,0,Rahul Krishna (Fiji) Goal at 13',Rahul Krishna Goal,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,391478,2024-10-12 05:42:41
+12824,720816,2,43959678,94,1,1500,25',0,0,Epeli Lairoti (Fiji) Yellow Card at 25',Epeli Lairoti Yellow Card,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,263654,2024-10-12 05:42:41
+12824,720816,3,43959679,93,1,2340,39',0,0,Aporosa Yada (Fiji) Red Card at 39',Aporosa Yada Red Card,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,393840,2024-10-12 05:42:41
+12824,720816,4,43959680,94,1,2640,44',0,0,Raphael Lea'i (Solomon Islands) Yellow Card at 44',Raphael Lea'i Yellow Card,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,297572,2024-10-12 05:42:41
+12824,720816,5,43959681,76,2,2760,46',0,0,Ivan Kumar (Fiji) Substitution at 46',Ivan Kumar Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,361061,2024-10-12 05:42:41
+12824,720816,5,43959681,76,2,2760,46',0,0,Ivan Kumar (Fiji) Substitution at 46',Ivan Kumar Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,219341,2024-10-12 05:42:41
+12824,720816,6,43959682,94,2,3360,56',0,0,Leon Kofana (Solomon Islands) Yellow Card at 56',Leon Kofana Yellow Card,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,297571,2024-10-12 05:42:41
+12824,720816,7,43959683,76,2,4020,67',0,0,Filipe Baravilala (Fiji) Substitution at 67',Filipe Baravilala Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,240455,2024-10-12 05:42:41
+12824,720816,7,43959683,76,2,4020,67',0,0,Filipe Baravilala (Fiji) Substitution at 67',Filipe Baravilala Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,263654,2024-10-12 05:42:41
+12824,720816,8,43959684,76,2,4320,72',0,0,Don Keana (Solomon Islands) Substitution at 72',Don Keana Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,337965,2024-10-12 05:42:41
+12824,720816,8,43959684,76,2,4320,72',0,0,Don Keana (Solomon Islands) Substitution at 72',Don Keana Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,2,231354,2024-10-12 05:42:41
+12824,720816,9,43959685,76,2,4380,73',0,0,John Orobulu (Solomon Islands) Substitution at 73',John Orobulu Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,382675,2024-10-12 05:42:41
+12824,720816,9,43959685,76,2,4380,73',0,0,John Orobulu (Solomon Islands) Substitution at 73',John Orobulu Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,2,282617,2024-10-12 05:42:41
+12824,720816,10,43959686,76,2,4500,75',0,0,Sairusi Nalaubu (Fiji) Substitution at 75',Sairusi Nalaubu Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,338024,2024-10-12 05:42:41
+12824,720816,10,43959686,76,2,4500,75',0,0,Sairusi Nalaubu (Fiji) Substitution at 75',Sairusi Nalaubu Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,19376,2024-10-12 05:42:41
+12824,720816,11,43959687,94,2,4800,80',0,0,Bobby Leslie (Solomon Islands) Yellow Card at 80',Bobby Leslie Yellow Card,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,364391,2024-10-12 05:42:41
+12824,720816,12,43959688,94,2,5040,84',0,0,Filipe Baravilala (Fiji) Yellow Card at 84',Filipe Baravilala Yellow Card,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,240455,2024-10-12 05:42:41
+12824,720816,13,43959689,76,2,5220,87',0,0,Dave Radrigai (Fiji) Substitution at 87',Dave Radrigai Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,254479,2024-10-12 05:42:41
+12824,720816,13,43959689,76,2,5220,87',0,0,Dave Radrigai (Fiji) Substitution at 87',Dave Radrigai Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,219336,2024-10-12 05:42:41
+12824,720816,14,43959690,76,2,5280,88',0,0,Sitiveni Cavuilagi (Fiji) Substitution at 88',Sitiveni Cavuilagi Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,257311,2024-10-12 05:42:41
+12824,720816,14,43959690,76,2,5280,88',0,0,Sitiveni Cavuilagi (Fiji) Substitution at 88',Sitiveni Cavuilagi Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,393841,2024-10-12 05:42:41
+12824,720816,15,43959691,76,2,5340,89',0,0,Mohammad Ali Mekawir (Solomon Islands) Substitution at 89',Mohammad Ali Mekawir Substitutio,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,337962,2024-10-12 05:42:41
+12824,720816,15,43959691,76,2,5340,89',0,0,Mohammad Ali Mekawir (Solomon Islands) Substitution at 89',Mohammad Ali Mekawir Substitutio,4861,0.0,0.0,0.0,0.0,0.0,0.0,2,364391,2024-10-12 05:42:41
+12824,720816,16,43959692,76,2,5400,90',0,0,David Supa (Solomon Islands) Substitution at 90',David Supa Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,337958,2024-10-12 05:42:41
+12824,720816,16,43959692,76,2,5400,90',0,0,David Supa (Solomon Islands) Substitution at 90',David Supa Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,2,241306,2024-10-12 05:42:41
+12824,720817,1,43964414,70,1,120,2',1,0,Elijah Just (New Zealand) Goal at 2',Elijah Just Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,266555,2024-10-12 05:42:41
+12824,720817,2,43964415,76,2,2700,45',0,0,Francois Hapipi (Tahiti) Substitution at 45',Francois Hapipi Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,338162,2024-10-12 05:42:41
+12824,720817,2,43964415,76,2,2700,45',0,0,Francois Hapipi (Tahiti) Substitution at 45',Francois Hapipi Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,288556,2024-10-12 05:42:41
+12824,720817,3,43964416,76,2,3838,64',0,0,Sam Sutton (New Zealand) Substitution at 64',Sam Sutton Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,272138,2024-10-12 05:42:41
+12824,720817,3,43964416,76,2,3838,64',0,0,Sam Sutton (New Zealand) Substitution at 64',Sam Sutton Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,266554,2024-10-12 05:42:41
+12824,720817,4,43964417,76,2,3839,64',0,0,Ben Waine (New Zealand) Substitution at 64',Ben Waine Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,277113,2024-10-12 05:42:41
+12824,720817,4,43964417,76,2,3839,64',0,0,Ben Waine (New Zealand) Substitution at 64',Ben Waine Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,266555,2024-10-12 05:42:41
+12824,720817,5,43964418,70,2,4020,67',1,0,Chris Wood (New Zealand) Goal at 67',Chris Wood Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,134190,2024-10-12 05:42:41
+12824,720817,6,43964419,76,2,4317,72',0,0,Storm Roux (New Zealand) Substitution at 72',Storm Roux Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,155999,2024-10-12 05:42:41
+12824,720817,6,43964419,76,2,4317,72',0,0,Storm Roux (New Zealand) Substitution at 72',Storm Roux Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,159470,2024-10-12 05:42:41
+12824,720817,7,43964420,76,2,4318,72',0,0,Kosta Barbarouses (New Zealand) Substitution at 72',Kosta Barbarouses Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,175958,2024-10-12 05:42:41
+12824,720817,7,43964420,76,2,4318,72',0,0,Kosta Barbarouses (New Zealand) Substitution at 72',Kosta Barbarouses Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,297802,2024-10-12 05:42:41
+12824,720817,8,43964421,76,2,4319,72',0,0,Manuarii Shan (Tahiti) Substitution at 72',Manuarii Shan Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,393900,2024-10-12 05:42:41
+12824,720817,8,43964421,76,2,4319,72',0,0,Manuarii Shan (Tahiti) Substitution at 72',Manuarii Shan Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,141278,2024-10-12 05:42:41
+12824,720817,9,43964422,76,2,4560,76',0,0,Logan Rogerson (New Zealand) Substitution at 76',Logan Rogerson Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,228281,2024-10-12 05:42:41
+12824,720817,9,43964422,76,2,4560,76',0,0,Logan Rogerson (New Zealand) Substitution at 76',Logan Rogerson Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,134190,2024-10-12 05:42:41
+12824,720817,10,43964423,76,2,5280,88',0,0,Franck Papaura (Tahiti) Substitution at 88',Franck Papaura Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,393901,2024-10-12 05:42:41
+12824,720817,10,43964423,76,2,5280,88',0,0,Franck Papaura (Tahiti) Substitution at 88',Franck Papaura Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,335050,2024-10-12 05:42:41
+12824,720817,11,43964424,70,2,5340,89',1,0,Ben Waine (New Zealand) Goal at 89',Ben Waine Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,277113,2024-10-12 05:42:41
+12824,720817,12,43964425,94,2,5400,90',0,0,Tyler Bindon (New Zealand) Yellow Card at 90',Tyler Bindon Yellow Card,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,367427,2024-10-12 05:42:41
+12824,720817,13,43964426,94,2,5400,90'+8',0,0,Matatia Paama (Tahiti) Yellow Card at 98',Matatia Paama Yellow Card,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,236557,2024-10-12 05:42:41
+12824,720818,1,43976935,70,1,420,7',1,0,Alex Saniel (Vanuatu) Goal at 7',Alex Saniel Goal,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,268456,2024-10-14 07:05:58
+12824,720818,2,43976936,70,1,2160,36',1,0,John Alick (Vanuatu) Goal at 36',John Alick Goal,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,268457,2024-10-14 07:05:58
+12824,720818,3,43976937,76,2,2760,46',0,0,Nathan Viliamu (Samoa) Substitution at 46',Nathan Viliamu Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391558,2024-10-14 07:05:58
+12824,720818,3,43976937,76,2,2760,46',0,0,Nathan Viliamu (Samoa) Substitution at 46',Nathan Viliamu Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,393980,2024-10-14 07:05:58
+12824,720818,4,43976938,70,2,3300,55',1,0,Nathan Viliamu (Samoa) Goal at 55',Nathan Viliamu Goal,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391558,2024-10-14 07:05:58
+12824,720818,5,43976939,70,2,3420,57',1,0,John Alick (Vanuatu) Goal at 57',John Alick Goal,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,268457,2024-10-14 07:05:58
+12824,720818,6,43976940,94,2,3720,62',0,0,Harry Chote (Samoa) Yellow Card at 62',Harry Chote Yellow Card,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391555,2024-10-14 07:05:58
+12824,720818,7,43979634,76,2,3840,64',0,0,Kensi Tangis (Vanuatu) Substitution at 64',Kensi Tangis Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,173877,2024-10-14 07:05:58
+12824,720818,7,43979634,76,2,3840,64',0,0,Kensi Tangis (Vanuatu) Substitution at 64',Kensi Tangis Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,268456,2024-10-14 07:05:58
+12824,720818,8,43976941,76,2,3900,65',0,0,Raoul Coulon (Vanuatu) Substitution at 65',Raoul Coulon Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,236507,2024-10-14 07:05:58
+12824,720818,8,43976941,76,2,3900,65',0,0,Raoul Coulon (Vanuatu) Substitution at 65',Raoul Coulon Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,256631,2024-10-14 07:05:58
+12824,720818,9,43976942,76,2,4080,68',0,0,Jefferson Fa'amatau (Samoa) Substitution at 68',Jefferson Fa'amatau Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391568,2024-10-14 07:05:58
+12824,720818,9,43976942,76,2,4080,68',0,0,Jefferson Fa'amatau (Samoa) Substitution at 68',Jefferson Fa'amatau Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,393982,2024-10-14 07:05:58
+12824,720818,10,43976943,76,2,4370,73',0,0,Bong Kalo (Vanuatu) Substitution at 73',Bong Kalo Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,236497,2024-10-14 07:05:58
+12824,720818,10,43976943,76,2,4370,73',0,0,Bong Kalo (Vanuatu) Substitution at 73',Bong Kalo Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,159498,2024-10-14 07:05:58
+12824,720818,11,43976944,76,2,5160,86',0,0,Jacky Ruben (Vanuatu) Substitution at 86',Jacky Ruben Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,236612,2024-10-14 07:05:58
+12824,720818,11,43976944,76,2,5160,86',0,0,Jacky Ruben (Vanuatu) Substitution at 86',Jacky Ruben Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,268457,2024-10-14 07:05:58
+12824,720818,12,43976945,76,2,5340,89',0,0,Lonokaehu Tuitele (Samoa) Substitution at 89',Lonokaehu Tuitele Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391566,2024-10-14 07:05:58
+12824,720818,12,43976945,76,2,5340,89',0,0,Lonokaehu Tuitele (Samoa) Substitution at 89',Lonokaehu Tuitele Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,393979,2024-10-14 07:05:58
+12824,720818,13,43976946,94,2,5400,90',0,0,Jacques Wanemut (Vanuatu) Yellow Card at 90',Jacques Wanemut Yellow Card,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,236508,2024-10-14 07:05:58
+12824,720818,14,43976947,70,2,5400,90',1,0,Bong Kalo (Vanuatu) Goal at 90',Bong Kalo Goal,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,236497,2024-10-14 07:05:58
+12824,720819,1,44208185,98,1,360,6',1,0,Joseph Athalé (New Caledonia) Penalty - Scored at 6',Joseph Athalé Penalty - Scored,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,236543,2024-11-16 06:07:16
+12824,720819,2,44208186,70,1,540,9',1,0,Raphael Lea'i (Solomon Islands) Goal at 9',Raphael Lea'i Goal,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,297572,2024-11-16 06:07:16
+12824,720819,3,44208187,70,1,2340,39',1,0,Javin Alick (Solomon Islands) Goal at 39',Javin Alick Goal,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,338157,2024-11-16 06:07:16
+12824,720819,4,44208188,76,2,2760,46',0,0,Sidri Wadenges (New Caledonia) Substitution at 46',Sidri Wadenges Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,266766,2024-11-16 06:07:16
+12824,720819,4,44208188,76,2,2760,46',0,0,Sidri Wadenges (New Caledonia) Substitution at 46',Sidri Wadenges Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,393820,2024-11-16 06:07:16
+12824,720819,5,44208189,94,2,3480,58',0,0,Atkin Kaua (Solomon Islands) Yellow Card at 58',Atkin Kaua Yellow Card,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,249825,2024-11-16 06:07:16
+12824,720819,6,44208190,98,2,3540,59',1,0,Joseph Athalé (New Caledonia) Penalty - Scored at 59',Joseph Athalé Penalty - Scored,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,236543,2024-11-16 06:07:16
+12824,720819,7,44208191,76,2,3659,61',0,0,Germain Haewegene (New Caledonia) Substitution at 61',Germain Haewegene Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,338010,2024-11-16 06:07:16
+12824,720819,7,44208191,76,2,3659,61',0,0,Germain Haewegene (New Caledonia) Substitution at 61',Germain Haewegene Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,266771,2024-11-16 06:07:16
+12824,720819,8,44208192,76,2,3660,61',0,0,Shene Wélépane (New Caledonia) Substitution at 61',Shene Wélépane Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,257410,2024-11-16 06:07:16
+12824,720819,8,44208192,76,2,3660,61',0,0,Shene Wélépane (New Caledonia) Substitution at 61',Shene Wélépane Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,266768,2024-11-16 06:07:16
+12824,720819,9,44208193,76,2,3900,65',0,0,Titouan Richard (New Caledonia) Substitution at 65',Titouan Richard Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,266763,2024-11-16 06:07:16
+12824,720819,9,44208193,76,2,3900,65',0,0,Titouan Richard (New Caledonia) Substitution at 65',Titouan Richard Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,237133,2024-11-16 06:07:16
+12824,720819,10,44208194,70,2,4140,69',1,0,Gerard Waia (New Caledonia) Goal at 69',Gerard Waia Goal,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,382681,2024-11-16 06:07:16
+12824,720819,11,44208195,76,2,4140,69',0,0,Gerard Waia (New Caledonia) Substitution at 69',Gerard Waia Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,382681,2024-11-16 06:07:16
+12824,720819,11,44208195,76,2,4140,69',0,0,Gerard Waia (New Caledonia) Substitution at 69',Gerard Waia Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,270619,2024-11-16 06:07:16
+12824,720819,12,44208196,76,2,4560,76',0,0,Paul Francis (Solomon Islands) Substitution at 76',Paul Francis Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,393839,2024-11-16 06:07:16
+12824,720819,12,44208196,76,2,4560,76',0,0,Paul Francis (Solomon Islands) Substitution at 76',Paul Francis Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,2,282617,2024-11-16 06:07:16
+12824,720819,13,44208197,76,2,4679,78',0,0,Micah Lea'alafa (Solomon Islands) Substitution at 78',Micah Lea'alafa Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,231354,2024-11-16 06:07:16
+12824,720819,13,44208197,76,2,4679,78',0,0,Micah Lea'alafa (Solomon Islands) Substitution at 78',Micah Lea'alafa Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,2,396383,2024-11-16 06:07:16
+12824,720819,14,44208198,76,2,4680,78',0,0,Don Keana (Solomon Islands) Substitution at 78',Don Keana Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,337965,2024-11-16 06:07:16
+12824,720819,14,44208198,76,2,4680,78',0,0,Don Keana (Solomon Islands) Substitution at 78',Don Keana Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,2,364391,2024-11-16 06:07:16
+12824,720819,15,44208199,76,2,5340,89',0,0,Junior Fordney (Solomon Islands) Substitution at 89',Junior Fordney Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,382676,2024-11-16 06:07:16
+12824,720819,15,44208199,76,2,5340,89',0,0,Junior Fordney (Solomon Islands) Substitution at 89',Junior Fordney Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,2,297572,2024-11-16 06:07:16
+12824,720819,16,44208200,94,2,5400,90'+12',0,0,Didier Simane (New Caledonia) Yellow Card at 102',Didier Simane Yellow Card,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,257408,2024-11-16 06:07:16
+12824,720820,1,44208058,70,1,120,2',1,0,Joseph Joe (Papua New Guinea) Goal at 2',Joseph Joe Goal,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,382670,2024-11-16 06:07:16
+12824,720820,2,44208059,70,1,2520,42',1,0,Thomas Dunn (Fiji) Goal at 42',Thomas Dunn Goal,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,19376,2024-11-16 06:07:16
+12824,720820,3,44208060,70,1,2700,45',1,0,Ati Kepo (Papua New Guinea) Goal at 45',Ati Kepo Goal,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,337977,2024-11-16 06:07:16
+12824,720820,4,44208061,94,1,2700,45'+5',0,0,Ati Kepo (Papua New Guinea) Yellow Card at 50',Ati Kepo Yellow Card,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,337977,2024-11-16 06:07:16
+12824,720820,5,44208062,76,2,2701,46',0,0,Nathaniel Eddie (Papua New Guinea) Substitution at 46',Nathaniel Eddie Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,393828,2024-11-16 06:07:16
+12824,720820,5,44208062,76,2,2701,46',0,0,Nathaniel Eddie (Papua New Guinea) Substitution at 46',Nathaniel Eddie Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,2,382669,2024-11-16 06:07:16
+12824,720820,6,44208063,76,2,2702,46',0,0,Tommy Semmy (Papua New Guinea) Substitution at 46',Tommy Semmy Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,236533,2024-11-16 06:07:16
+12824,720820,6,44208063,76,2,2702,46',0,0,Tommy Semmy (Papua New Guinea) Substitution at 46',Tommy Semmy Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,2,382667,2024-11-16 06:07:16
+12824,720820,7,44208064,98,2,3240,54',1,0,Roy Krishna (Fiji) Penalty - Scored at 54',Roy Krishna Penalty - Scored,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,197133,2024-11-16 06:07:16
+12824,720820,8,44208065,76,2,3300,55',0,0,Harold Tataeng (Papua New Guinea) Substitution at 55',Harold Tataeng Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,393830,2024-11-16 06:07:16
+12824,720820,8,44208065,76,2,3300,55',0,0,Harold Tataeng (Papua New Guinea) Substitution at 55',Harold Tataeng Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,2,396380,2024-11-16 06:07:16
+12824,720820,9,44208066,76,2,4019,67',0,0,Solomon Rani (Papua New Guinea) Substitution at 67',Solomon Rani Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,382686,2024-11-16 06:07:16
+12824,720820,9,44208066,76,2,4019,67',0,0,Solomon Rani (Papua New Guinea) Substitution at 67',Solomon Rani Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,2,337977,2024-11-16 06:07:16
+12824,720820,10,44208067,76,2,4020,67',0,0,Raymond Gunemba (Papua New Guinea) Substitution at 67',Raymond Gunemba Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,173950,2024-11-16 06:07:16
+12824,720820,10,44208067,76,2,4020,67',0,0,Raymond Gunemba (Papua New Guinea) Substitution at 67',Raymond Gunemba Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,2,382670,2024-11-16 06:07:16
+12824,720820,11,44208068,94,2,4920,82',0,0,Solomon Rani (Papua New Guinea) Yellow Card at 82',Solomon Rani Yellow Card,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,382686,2024-11-16 06:07:16
+12824,720820,12,44208069,76,2,4979,83',0,0,Merrill Nand (Fiji) Substitution at 83',Merrill Nand Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,393842,2024-11-16 06:07:16
+12824,720820,12,44208069,76,2,4979,83',0,0,Merrill Nand (Fiji) Substitution at 83',Merrill Nand Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,219341,2024-11-16 06:07:16
+12824,720820,13,44208070,76,2,4980,83',0,0,Mosese Nabose (Fiji) Substitution at 83',Mosese Nabose Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,391476,2024-11-16 06:07:16
+12824,720820,13,44208070,76,2,4980,83',0,0,Mosese Nabose (Fiji) Substitution at 83',Mosese Nabose Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,248817,2024-11-16 06:07:16
+12824,720820,16,44208073,70,2,5400,90'+5',1,0,Merrill Nand (Fiji) Goal at 95',Merrill Nand Goal,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,393842,2024-11-16 06:07:16
+12824,720820,15,44208072,70,2,5400,90'+4',1,0,Raymond Gunemba (Papua New Guinea) Goal at 94',Raymond Gunemba Goal,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,173950,2024-11-16 06:07:16
+12824,720820,14,44208071,76,2,5400,90'+1',0,0,Dave Radrigai (Fiji) Substitution at 91',Dave Radrigai Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,254479,2024-11-16 06:07:16
+12824,720820,14,44208071,76,2,5400,90'+1',0,0,Dave Radrigai (Fiji) Substitution at 91',Dave Radrigai Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,393841,2024-11-16 06:07:16
+12824,720821,1,44212893,76,1,1020,17',0,0,Alex Malauulu (Samoa) Substitution at 17',Alex Malauulu Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391567,2024-11-16 06:07:16
+12824,720821,1,44212893,76,1,1020,17',0,0,Alex Malauulu (Samoa) Substitution at 17',Alex Malauulu Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,254893,2024-11-16 06:07:16
+12824,720821,2,44212894,70,2,3540,59',1,0,Eddy Kaspard (Tahiti) Goal at 59',Eddy Kaspard Goal,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,288547,2024-11-16 06:07:16
+12824,720821,3,44212895,76,2,3720,62',0,0,Jarvis Vaai Filimalae (Samoa) Substitution at 62',Jarvis Vaai Filimalae Substituti,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391559,2024-11-16 06:07:16
+12824,720821,3,44212895,76,2,3720,62',0,0,Jarvis Vaai Filimalae (Samoa) Substitution at 62',Jarvis Vaai Filimalae Substituti,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,396397,2024-11-16 06:07:16
+12824,720821,5,44212897,94,2,3780,63',0,0,Roonui Tehau (Tahiti) Yellow Card at 63',Roonui Tehau Yellow Card,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,288548,2024-11-16 06:07:16
+12824,720821,4,44212896,94,2,3780,63',0,0,Jarvis Vaai Filimalae (Samoa) Yellow Card at 63',Jarvis Vaai Filimalae Yellow Car,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391559,2024-11-16 06:07:16
+12824,720821,6,44212898,70,2,3900,65',1,0,Benoît Mathon (Tahiti) Goal at 65',Benoît Mathon Goal,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,335050,2024-11-16 06:07:16
+12824,720821,7,44212899,76,2,4620,77',0,0,Victor Snow (Tahiti) Substitution at 77',Victor Snow Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,396400,2024-11-16 06:07:16
+12824,720821,7,44212899,76,2,4620,77',0,0,Victor Snow (Tahiti) Substitution at 77',Victor Snow Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,396399,2024-11-16 06:07:16
+12824,720821,8,44212900,76,2,4740,79',0,0,Nathan Viliamu (Samoa) Substitution at 79',Nathan Viliamu Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391558,2024-11-16 06:07:16
+12824,720821,8,44212900,76,2,4740,79',0,0,Nathan Viliamu (Samoa) Substitution at 79',Nathan Viliamu Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391565,2024-11-16 06:07:16
+12824,720821,9,44212901,76,2,4800,80',0,0,Franck Papaura (Tahiti) Substitution at 80',Franck Papaura Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,393901,2024-11-16 06:07:16
+12824,720821,9,44212901,76,2,4800,80',0,0,Franck Papaura (Tahiti) Substitution at 80',Franck Papaura Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,393900,2024-11-16 06:07:16
+12824,720821,10,44212902,94,2,5100,85',0,0,Franck Papaura (Tahiti) Yellow Card at 85',Franck Papaura Yellow Card,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,393901,2024-11-16 06:07:16
+12824,720821,11,44212903,70,2,5220,87',1,0,Teaonui Tehau (Tahiti) Goal at 87',Teaonui Tehau Goal,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,141286,2024-11-16 06:07:16
+12824,720821,12,44212904,76,2,5280,88',0,0,Francois Hapipi (Tahiti) Substitution at 88',Francois Hapipi Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,338162,2024-11-16 06:07:16
+12824,720821,12,44212904,76,2,5280,88',0,0,Francois Hapipi (Tahiti) Substitution at 88',Francois Hapipi Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,288547,2024-11-16 06:07:16
+12824,720822,1,44213069,70,1,660,11',1,0,Matthew Garbett (New Zealand) Goal at 11',Matthew Garbett Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,297803,2024-11-16 06:07:16
+12824,720822,2,44213070,70,1,1020,17',1,0,Jordy Tasip (Vanuatu) Goal at 17',Jordy Tasip Goal,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,355442,2024-11-16 06:07:16
+12824,720822,3,44213071,70,1,1380,23',1,0,Chris Wood (New Zealand) Goal at 23',Chris Wood Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,134190,2024-11-16 06:07:16
+12824,720822,4,44213072,70,1,1440,24',1,0,Chris Wood (New Zealand) Goal at 24',Chris Wood Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,134190,2024-11-16 06:07:16
+12824,720822,5,44213073,70,1,1860,31',1,0,Tyler Bindon (New Zealand) Goal at 31',Tyler Bindon Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,367427,2024-11-16 06:07:16
+12824,720822,6,44213074,94,1,2220,37',0,0,Tasso Jeffrey (Vanuatu) Yellow Card at 37',Tasso Jeffrey Yellow Card,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,355436,2024-11-16 06:07:16
+12824,720822,7,44213075,70,1,2280,38',1,0,Tyler Bindon (New Zealand) Goal at 38',Tyler Bindon Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,367427,2024-11-16 06:07:16
+12824,720822,8,44213076,76,2,2701,46',0,0,Alex Saniel (Vanuatu) Substitution at 46',Alex Saniel Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,268456,2024-11-16 06:07:16
+12824,720822,8,44213076,76,2,2701,46',0,0,Alex Saniel (Vanuatu) Substitution at 46',Alex Saniel Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,173877,2024-11-16 06:07:16
+12824,720822,9,44213077,76,2,2702,46',0,0,Raoul Coulon (Vanuatu) Substitution at 46',Raoul Coulon Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,236507,2024-11-16 06:07:16
+12824,720822,9,44213077,76,2,2702,46',0,0,Raoul Coulon (Vanuatu) Substitution at 46',Raoul Coulon Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,256631,2024-11-16 06:07:16
+12824,720822,10,44213078,76,2,3718,62',0,0,Joe Bell (New Zealand) Substitution at 62',Joe Bell Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,228294,2024-11-16 06:07:16
+12824,720822,10,44213078,76,2,3718,62',0,0,Joe Bell (New Zealand) Substitution at 62',Joe Bell Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,297798,2024-11-16 06:07:16
+12824,720822,11,44213079,76,2,3719,62',0,0,Sarpreet Singh (New Zealand) Substitution at 62',Sarpreet Singh Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,228283,2024-11-16 06:07:16
+12824,720822,11,44213079,76,2,3719,62',0,0,Sarpreet Singh (New Zealand) Substitution at 62',Sarpreet Singh Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,228281,2024-11-16 06:07:16
+12824,720822,12,44213080,76,2,3838,64',0,0,Jacky Ruben (Vanuatu) Substitution at 64',Jacky Ruben Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,236612,2024-11-16 06:07:16
+12824,720822,12,44213080,76,2,3838,64',0,0,Jacky Ruben (Vanuatu) Substitution at 64',Jacky Ruben Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,361055,2024-11-16 06:07:16
+12824,720822,13,44213081,76,2,3839,64',0,0,Bong Kalo (Vanuatu) Substitution at 64',Bong Kalo Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,236497,2024-11-16 06:07:16
+12824,720822,13,44213081,76,2,3839,64',0,0,Bong Kalo (Vanuatu) Substitution at 64',Bong Kalo Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,159498,2024-11-16 06:07:16
+12824,720822,14,44213082,70,2,4440,74',1,0,Elijah Just (New Zealand) Goal at 74',Elijah Just Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,266555,2024-11-16 06:07:16
+12824,720822,15,44213083,76,2,4498,75',0,0,Ben Waine (New Zealand) Substitution at 75',Ben Waine Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,277113,2024-11-16 06:07:16
+12824,720822,15,44213083,76,2,4498,75',0,0,Ben Waine (New Zealand) Substitution at 75',Ben Waine Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,134190,2024-11-16 06:07:16
+12824,720822,16,44213084,76,2,4499,75',0,0,Callum McCowatt (New Zealand) Substitution at 75',Callum McCowatt Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,228279,2024-11-16 06:07:16
+12824,720822,16,44213084,76,2,4499,75',0,0,Callum McCowatt (New Zealand) Substitution at 75',Callum McCowatt Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,266555,2024-11-16 06:07:16
+12824,720822,17,44213085,76,2,4680,78',0,0,Kaltfer Kaltack (Vanuatu) Substitution at 78',Kaltfer Kaltack Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,393978,2024-11-16 06:07:16
+12824,720822,17,44213085,76,2,4680,78',0,0,Kaltfer Kaltack (Vanuatu) Substitution at 78',Kaltfer Kaltack Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,355442,2024-11-16 06:07:16
+12824,720822,18,44213086,70,2,4920,82',1,0,Sarpreet Singh (New Zealand) Goal at 82',Sarpreet Singh Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,228283,2024-11-16 06:07:16
+12824,720822,19,44213087,76,2,5040,84',0,0,William Gillion (New Zealand) Substitution at 84',William Gillion Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,358410,2024-11-16 06:07:16
+12824,720822,19,44213087,76,2,5040,84',0,0,William Gillion (New Zealand) Substitution at 84',William Gillion Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,297803,2024-11-16 06:07:16
+12824,720822,20,44213088,70,2,5340,89',1,0,Callum McCowatt (New Zealand) Goal at 89',Callum McCowatt Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,228279,2024-11-16 06:07:16
+12824,720823,1,44223680,76,1,660,11',0,0,Jean-Jacques Katrawa (New Caledonia) Substitution at 11',Jean-Jacques Katrawa Substitutio,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,270619,2024-11-17 06:06:40
+12824,720823,1,44223680,76,1,660,11',0,0,Jean-Jacques Katrawa (New Caledonia) Substitution at 11',Jean-Jacques Katrawa Substitutio,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,237133,2024-11-17 06:06:40
+12824,720823,2,44223681,94,1,2400,40',0,0,Thomas Dunn (Fiji) Yellow Card at 40',Thomas Dunn Yellow Card,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,19376,2024-11-17 06:06:40
+12824,720823,3,44223682,98,1,2700,45'+4',1,0,Roy Krishna (Fiji) Penalty - Scored at 49',Roy Krishna Penalty - Scored,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,197133,2024-11-17 06:06:40
+12824,720823,4,44223683,76,2,2760,46',0,0,Mosese Nabose (Fiji) Substitution at 46',Mosese Nabose Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,391476,2024-11-17 06:06:40
+12824,720823,4,44223683,76,2,2760,46',0,0,Mosese Nabose (Fiji) Substitution at 46',Mosese Nabose Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,362644,2024-11-17 06:06:40
+12824,720823,5,44223684,94,2,3240,54',0,0,Germain Haewegene (New Caledonia) Yellow Card at 54',Germain Haewegene Yellow Card,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,338010,2024-11-17 06:06:40
+12824,720823,6,44223685,70,2,3540,59',1,0,Jean-Jacques Katrawa (New Caledonia) Goal at 59',Jean-Jacques Katrawa Goal,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,270619,2024-11-17 06:06:40
+12824,720823,7,44223686,76,2,3810,64',0,0,Merrill Nand (Fiji) Substitution at 64',Merrill Nand Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,393842,2024-11-17 06:06:40
+12824,720823,7,44223686,76,2,3810,64',0,0,Merrill Nand (Fiji) Substitution at 64',Merrill Nand Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,219341,2024-11-17 06:06:40
+12824,720823,8,44223687,76,2,3840,64',0,0,Dave Radrigai (Fiji) Substitution at 64',Dave Radrigai Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,254479,2024-11-17 06:06:40
+12824,720823,8,44223687,76,2,3840,64',0,0,Dave Radrigai (Fiji) Substitution at 64',Dave Radrigai Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,393841,2024-11-17 06:06:40
+12824,720823,9,44223688,76,2,3960,66',0,0,Shene Wélépane (New Caledonia) Substitution at 66',Shene Wélépane Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,257410,2024-11-17 06:06:40
+12824,720823,9,44223688,76,2,3960,66',0,0,Shene Wélépane (New Caledonia) Substitution at 66',Shene Wélépane Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,338010,2024-11-17 06:06:40
+12824,720823,10,44223689,76,2,4020,67',0,0,Gerard Waia (New Caledonia) Substitution at 67',Gerard Waia Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,382681,2024-11-17 06:06:40
+12824,720823,10,44223689,76,2,4020,67',0,0,Gerard Waia (New Caledonia) Substitution at 67',Gerard Waia Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,266766,2024-11-17 06:06:40
+12824,720823,11,44223690,76,2,4410,74',0,0,Christopher Wasasala (Fiji) Substitution at 74',Christopher Wasasala Substitutio,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,257312,2024-11-17 06:06:40
+12824,720823,11,44223690,76,2,4410,74',0,0,Christopher Wasasala (Fiji) Substitution at 74',Christopher Wasasala Substitutio,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,19376,2024-11-17 06:06:40
+12824,720823,12,44223691,76,2,4440,74',0,0,Sitiveni Cavuilagi (Fiji) Substitution at 74',Sitiveni Cavuilagi Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,257311,2024-11-17 06:06:40
+12824,720823,13,44223695,94,2,4440,74',0,0,Gerard Waia (New Caledonia) Yellow Card at 74',Gerard Waia Yellow Card,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,382681,2024-11-17 06:06:40
+12824,720823,12,44223691,76,2,4440,74',0,0,Sitiveni Cavuilagi (Fiji) Substitution at 74',Sitiveni Cavuilagi Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,219336,2024-11-17 06:06:40
+12824,720823,14,44223692,76,2,4650,78',0,0,Yoan Bearune (New Caledonia) Substitution at 78',Yoan Bearune Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,393823,2024-11-17 06:06:40
+12824,720823,14,44223692,76,2,4650,78',0,0,Yoan Bearune (New Caledonia) Substitution at 78',Yoan Bearune Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,173885,2024-11-17 06:06:40
+12824,720823,15,44223693,76,2,4680,78',0,0,Bryan Ausu (New Caledonia) Substitution at 78',Bryan Ausu Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,393824,2024-11-17 06:06:40
+12824,720823,15,44223693,76,2,4680,78',0,0,Bryan Ausu (New Caledonia) Substitution at 78',Bryan Ausu Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,250006,2024-11-17 06:06:40
+12824,720823,16,44223696,94,2,5220,87',0,0,Sitiveni Cavuilagi (Fiji) Yellow Card at 87',Sitiveni Cavuilagi Yellow Card,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,257311,2024-11-17 06:06:40
+12824,720824,1,44224793,70,1,2460,41',1,0,Junior David (Solomon Islands) Goal at 41',Junior David Goal,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,217025,2024-11-18 06:05:28
+12824,720824,2,44224794,76,1,2640,44',0,0,Don Keana (Solomon Islands) Substitution at 44',Don Keana Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,337965,2024-11-18 06:05:28
+12824,720824,2,44224794,76,1,2640,44',0,0,Don Keana (Solomon Islands) Substitution at 44',Don Keana Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,2,282617,2024-11-18 06:05:28
+12824,720824,3,44224795,94,1,2700,45',0,0,Daniel Joe (Papua New Guinea) Yellow Card at 45',Daniel Joe Yellow Card,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,173945,2024-11-18 06:05:28
+12824,720824,4,44224796,94,1,2700,45'+11',0,0,Joseph Joe (Papua New Guinea) Yellow Card at 56',Joseph Joe Yellow Card,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,382670,2024-11-18 06:05:28
+12824,720824,6,44224798,76,2,2760,46',0,0,Joseph Joe (Papua New Guinea) Substitution at 46',Joseph Joe Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,382670,2024-11-18 06:05:28
+12824,720824,5,44224797,76,2,2760,46',0,0,Rex Naime (Papua New Guinea) Substitution at 46',Rex Naime Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,382667,2024-11-18 06:05:28
+12824,720824,6,44224798,76,2,2760,46',0,0,Joseph Joe (Papua New Guinea) Substitution at 46',Joseph Joe Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,2,382686,2024-11-18 06:05:28
+12824,720824,5,44224797,76,2,2760,46',0,0,Rex Naime (Papua New Guinea) Substitution at 46',Rex Naime Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,2,393832,2024-11-18 06:05:28
+12824,720824,7,44224799,94,2,3540,59',0,0,Kolu Kepo (Papua New Guinea) Yellow Card at 59',Kolu Kepo Yellow Card,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,250108,2024-11-18 06:05:28
+12824,720824,8,44224800,76,2,3840,64',0,0,Raymond Gunemba (Papua New Guinea) Substitution at 64',Raymond Gunemba Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,173950,2024-11-18 06:05:28
+12824,720824,8,44224800,76,2,3840,64',0,0,Raymond Gunemba (Papua New Guinea) Substitution at 64',Raymond Gunemba Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,2,393833,2024-11-18 06:05:28
+12824,720824,10,44224802,76,2,4020,67',0,0,Micah Lea'alafa (Solomon Islands) Substitution at 67',Micah Lea'alafa Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,231354,2024-11-18 06:05:28
+12824,720824,9,44224801,76,2,4020,67',0,0,Ben Fox (Solomon Islands) Substitution at 67',Ben Fox Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,241306,2024-11-18 06:05:28
+12824,720824,9,44224801,76,2,4020,67',0,0,Ben Fox (Solomon Islands) Substitution at 67',Ben Fox Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,2,391483,2024-11-18 06:05:28
+12824,720824,10,44224802,76,2,4020,67',0,0,Micah Lea'alafa (Solomon Islands) Substitution at 67',Micah Lea'alafa Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,2,396383,2024-11-18 06:05:28
+12824,720824,11,44224803,70,2,4080,68',1,0,Micah Lea'alafa (Solomon Islands) Goal at 68',Micah Lea'alafa Goal,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,231354,2024-11-18 06:05:28
+12824,720824,12,44224804,76,2,4260,71',0,0,Joshua Talau (Papua New Guinea) Substitution at 71',Joshua Talau Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,254845,2024-11-18 06:05:28
+12824,720824,12,44224804,76,2,4260,71',0,0,Joshua Talau (Papua New Guinea) Substitution at 71',Joshua Talau Substitution,4885,0.0,0.0,0.0,0.0,0.0,0.0,2,250108,2024-11-18 06:05:28
+12824,720824,13,44224805,94,2,5040,84',0,0,Derek Kimai (Papua New Guinea) Yellow Card at 84',Derek Kimai Yellow Card,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,396380,2024-11-18 06:05:28
+12824,720824,14,44224806,76,2,5280,88',0,0,Junior Fordney (Solomon Islands) Substitution at 88',Junior Fordney Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,382676,2024-11-18 06:05:28
+12824,720824,14,44224806,76,2,5280,88',0,0,Junior Fordney (Solomon Islands) Substitution at 88',Junior Fordney Substitution,4861,0.0,0.0,0.0,0.0,0.0,0.0,2,364391,2024-11-18 06:05:28
+12824,720824,16,44224808,94,2,5400,90'+5',0,0,Ben Fox (Solomon Islands) Yellow Card at 95',Ben Fox Yellow Card,4861,0.0,0.0,0.0,0.0,0.0,0.0,1,241306,2024-11-18 06:05:28
+12824,720824,15,44224807,70,2,5400,90'+2',1,0,Tommy Semmy (Papua New Guinea) Goal at 92',Tommy Semmy Goal,4885,0.0,0.0,0.0,0.0,0.0,0.0,1,236533,2024-11-18 06:05:28
+12824,720825,1,44228224,97,1,480,8',1,0,Jonathan Spokeyjack (Vanuatu) Own Goal at 8',Jonathan Spokeyjack Own Goal,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,256620,2024-11-19 18:39:51
+12824,720825,2,44228225,94,1,2580,43',0,0,Mateo Degrumelle (Tahiti) Yellow Card at 43',Mateo Degrumelle Yellow Card,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,345241,2024-11-19 18:39:51
+12824,720825,3,44228226,76,2,3720,62',0,0,Kensi Tangis (Vanuatu) Substitution at 62',Kensi Tangis Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,173877,2024-11-19 18:39:51
+12824,720825,3,44228226,76,2,3720,62',0,0,Kensi Tangis (Vanuatu) Substitution at 62',Kensi Tangis Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,159498,2024-11-19 18:39:51
+12824,720825,4,44228227,76,2,3840,64',0,0,Victor Snow (Tahiti) Substitution at 64',Victor Snow Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,396400,2024-11-19 18:39:51
+12824,720825,4,44228227,76,2,3840,64',0,0,Victor Snow (Tahiti) Substitution at 64',Victor Snow Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,396399,2024-11-19 18:39:51
+12824,720825,5,44228228,98,2,4020,67',1,0,Benoît Mathon (Tahiti) Penalty - Scored at 67',Benoît Mathon Penalty - Scored,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,335050,2024-11-19 18:39:51
+12824,720825,6,44228229,76,2,4140,69',0,0,Franck Papaura (Tahiti) Substitution at 69',Franck Papaura Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,393901,2024-11-19 18:39:51
+12824,720825,6,44228229,76,2,4140,69',0,0,Franck Papaura (Tahiti) Substitution at 69',Franck Papaura Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,393900,2024-11-19 18:39:51
+12824,720825,7,44228230,76,2,4198,70',0,0,Kaltfer Kaltack (Vanuatu) Substitution at 70',Kaltfer Kaltack Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,393978,2024-11-19 18:39:51
+12824,720825,7,44228230,76,2,4198,70',0,0,Kaltfer Kaltack (Vanuatu) Substitution at 70',Kaltfer Kaltack Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,268456,2024-11-19 18:39:51
+12824,720825,8,44228231,76,2,4199,70',0,0,Jacky Ruben (Vanuatu) Substitution at 70',Jacky Ruben Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,236612,2024-11-19 18:39:51
+12824,720825,8,44228231,76,2,4199,70',0,0,Jacky Ruben (Vanuatu) Substitution at 70',Jacky Ruben Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,268457,2024-11-19 18:39:51
+12824,720825,9,44228232,94,2,4740,79',0,0,Brian Kaltack (Vanuatu) Yellow Card at 79',Brian Kaltack Yellow Card,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,254583,2024-11-19 18:39:51
+12824,720825,10,44228233,94,2,4920,82',0,0,Jacky Ruben (Vanuatu) Yellow Card at 82',Jacky Ruben Yellow Card,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,236612,2024-11-19 18:39:51
+12824,720825,11,44228234,94,2,5277,88',0,0,Jonathan Spokeyjack (Vanuatu) Yellow Card at 88',Jonathan Spokeyjack Yellow Card,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,256620,2024-11-19 18:39:51
+12824,720825,12,44228235,76,2,5278,88',0,0,Selwyn Vatu (Vanuatu) Substitution at 88',Selwyn Vatu Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,256631,2024-11-19 18:39:51
+12824,720825,12,44228235,76,2,5278,88',0,0,Selwyn Vatu (Vanuatu) Substitution at 88',Selwyn Vatu Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,256620,2024-11-19 18:39:51
+12824,720825,13,44228236,76,2,5279,88',0,0,Tony Kaltack (Vanuatu) Substitution at 88',Tony Kaltack Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,1,236505,2024-11-19 18:39:51
+12824,720825,13,44228236,76,2,5279,88',0,0,Tony Kaltack (Vanuatu) Substitution at 88',Tony Kaltack Substitution,4864,0.0,0.0,0.0,0.0,0.0,0.0,2,236497,2024-11-19 18:39:51
+12824,720825,14,44228237,94,2,5400,90'+4',0,0,Eddy Kaspard (Tahiti) Yellow Card at 94',Eddy Kaspard Yellow Card,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,288547,2024-11-19 18:39:51
+12824,720825,15,44228238,76,2,5400,90'+5',0,0,Mauri Heitaa (Tahiti) Substitution at 95',Mauri Heitaa Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,288556,2024-11-19 18:39:51
+12824,720825,15,44228238,76,2,5400,90'+5',0,0,Mauri Heitaa (Tahiti) Substitution at 95',Mauri Heitaa Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,345241,2024-11-19 18:39:51
+12824,720826,1,44228247,70,1,1440,24',1,0,Callum McCowatt (New Zealand) Goal at 24',Callum McCowatt Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,228279,2024-11-19 18:39:51
+12824,720826,2,44228248,70,1,1680,28',1,0,Chris Wood (New Zealand) Goal at 28',Chris Wood Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,134190,2024-11-19 18:39:51
+12824,720826,3,44228249,70,1,2040,34',1,0,Chris Wood (New Zealand) Goal at 34',Chris Wood Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,134190,2024-11-19 18:39:51
+12824,720826,4,44228250,76,2,2757,46',0,0,Nathan Viliamu (Samoa) Substitution at 46',Nathan Viliamu Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391558,2024-11-19 18:39:51
+12824,720826,4,44228250,76,2,2757,46',0,0,Nathan Viliamu (Samoa) Substitution at 46',Nathan Viliamu Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391565,2024-11-19 18:39:51
+12824,720826,5,44228251,76,2,2758,46',0,0,Jarvis Vaai Filimalae (Samoa) Substitution at 46',Jarvis Vaai Filimalae Substituti,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391559,2024-11-19 18:39:51
+12824,720826,5,44228251,76,2,2758,46',0,0,Jarvis Vaai Filimalae (Samoa) Substitution at 46',Jarvis Vaai Filimalae Substituti,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391567,2024-11-19 18:39:51
+12824,720826,6,44228252,76,2,2759,46',0,0,Ben Waine (New Zealand) Substitution at 46',Ben Waine Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,277113,2024-11-19 18:39:51
+12824,720826,6,44228252,76,2,2759,46',0,0,Ben Waine (New Zealand) Substitution at 46',Ben Waine Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,228279,2024-11-19 18:39:51
+12824,720826,7,44228253,70,2,3600,60',1,0,Chris Wood (New Zealand) Goal at 60',Chris Wood Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,134190,2024-11-19 18:39:51
+12824,720826,8,44228254,70,2,3720,62',1,0,Marko Stamenic (New Zealand) Goal at 62',Marko Stamenic Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,297798,2024-11-19 18:39:51
+12824,720826,9,44228255,76,2,3837,64',0,0,William Gillion (New Zealand) Substitution at 64',William Gillion Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,358410,2024-11-19 18:39:51
+12824,720826,9,44228255,76,2,3837,64',0,0,William Gillion (New Zealand) Substitution at 64',William Gillion Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,228283,2024-11-19 18:39:51
+12824,720826,10,44228256,76,2,3838,64',0,0,Elijah Just (New Zealand) Substitution at 64',Elijah Just Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,266555,2024-11-19 18:39:51
+12824,720826,10,44228256,76,2,3838,64',0,0,Elijah Just (New Zealand) Substitution at 64',Elijah Just Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,134190,2024-11-19 18:39:51
+12824,720826,11,44228257,76,2,3839,64',0,0,Liberato Cacace (New Zealand) Substitution at 64',Liberato Cacace Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,266554,2024-11-19 18:39:51
+12824,720826,11,44228257,76,2,3839,64',0,0,Liberato Cacace (New Zealand) Substitution at 64',Liberato Cacace Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,155999,2024-11-19 18:39:51
+12824,720826,12,44228258,76,2,4320,72',0,0,Xavier Tanielu (Samoa) Substitution at 72',Xavier Tanielu Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,396510,2024-11-19 18:39:51
+12824,720826,12,44228258,76,2,4320,72',0,0,Xavier Tanielu (Samoa) Substitution at 72',Xavier Tanielu Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,396397,2024-11-19 18:39:51
+12824,720826,13,44228259,70,2,4500,75',1,0,Francis DeVries (New Zealand) Goal at 75',Francis DeVries Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,254441,2024-11-19 18:39:51
+12824,720826,14,44228260,76,2,4620,77',0,0,Kosta Barbarouses (New Zealand) Substitution at 77',Kosta Barbarouses Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,175958,2024-11-19 18:39:51
+12824,720826,14,44228260,76,2,4620,77',0,0,Kosta Barbarouses (New Zealand) Substitution at 77',Kosta Barbarouses Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,297803,2024-11-19 18:39:51
+12824,720826,15,44228261,76,2,5040,84',0,0,Jesse Vine (Samoa) Substitution at 84',Jesse Vine Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,393982,2024-11-19 18:39:51
+12824,720826,15,44228261,76,2,5040,84',0,0,Jesse Vine (Samoa) Substitution at 84',Jesse Vine Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,396398,2024-11-19 18:39:51
+12824,720826,16,44228262,70,2,5220,87',1,0,Elijah Just (New Zealand) Goal at 87',Elijah Just Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,266555,2024-11-19 18:39:51
+12824,720826,18,44228264,76,2,5400,90'+7',0,0,Reupena Fasi (Samoa) Substitution at 97',Reupena Fasi Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391556,2024-11-19 18:39:51
+12824,720826,17,44228263,98,2,5400,90'+2',1,0,Ben Waine (New Zealand) Penalty - Scored at 92',Ben Waine Penalty - Scored,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,277113,2024-11-19 18:39:51
+12824,720826,18,44228264,76,2,5400,90'+7',0,0,Reupena Fasi (Samoa) Substitution at 97',Reupena Fasi Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,393979,2024-11-19 18:39:51
+12823,723663,1,44910629,94,1,540,9',0,0,Pierre Bako (New Caledonia) Yellow Card at 9',Pierre Bako Yellow Card,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,266768,2025-03-22 04:57:19
+12823,723663,2,44910929,76,2,2939,49',0,0,Lues Waya (New Caledonia) Substitution at 49',Lues Waya Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,338170,2025-03-22 04:57:19
+12823,723663,2,44910929,76,2,2939,49',0,0,Lues Waya (New Caledonia) Substitution at 49',Lues Waya Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,270619,2025-03-22 04:57:19
+12823,723663,3,44910630,70,2,3000,50',1,0,Georges Gope-Fenepej (New Caledonia) Goal at 50',Georges Gope-Fenepej Goal,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,173885,2025-03-22 04:57:19
+12823,723663,4,44910631,94,2,3540,59',0,0,Roonui Tehau (Tahiti) Yellow Card at 59',Roonui Tehau Yellow Card,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,288548,2025-03-22 04:57:19
+12823,723663,5,44910930,76,2,3899,65',0,0,Shene Wélépane (New Caledonia) Substitution at 65',Shene Wélépane Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,257410,2025-03-22 04:57:19
+12823,723663,5,44910930,76,2,3899,65',0,0,Shene Wélépane (New Caledonia) Substitution at 65',Shene Wélépane Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,237133,2025-03-22 04:57:19
+12823,723663,6,44910632,94,2,4200,70',0,0,Joseph Athalé (New Caledonia) Yellow Card at 70',Joseph Athalé Yellow Card,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,236543,2025-03-22 04:57:19
+12823,723663,7,44910705,76,2,4257,71',0,0,Mauri Heitaa (Tahiti) Substitution at 71',Mauri Heitaa Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,288556,2025-03-22 04:57:19
+12823,723663,7,44910705,76,2,4257,71',0,0,Mauri Heitaa (Tahiti) Substitution at 71',Mauri Heitaa Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,393899,2025-03-22 04:57:19
+12823,723663,8,44910706,76,2,4258,71',0,0,Taumihau Tiatia (Tahiti) Substitution at 71',Taumihau Tiatia Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,141278,2025-03-22 04:57:19
+12823,723663,8,44910706,76,2,4258,71',0,0,Taumihau Tiatia (Tahiti) Substitution at 71',Taumihau Tiatia Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,393900,2025-03-22 04:57:19
+12823,723663,9,44910707,76,2,4259,71',0,0,Victor Snow (Tahiti) Substitution at 71',Victor Snow Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,396400,2025-03-22 04:57:19
+12823,723663,9,44910707,76,2,4259,71',0,0,Victor Snow (Tahiti) Substitution at 71',Victor Snow Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,185173,2025-03-22 04:57:19
+12823,723663,10,44910635,94,2,4440,74',0,0,Morgan Mathelon (New Caledonia) Yellow Card at 74',Morgan Mathelon Yellow Card,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,250006,2025-03-22 04:57:19
+12823,723663,11,44910636,70,2,4500,75',1,0,Georges Gope-Fenepej (New Caledonia) Goal at 75',Georges Gope-Fenepej Goal,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,173885,2025-03-22 04:57:19
+12823,723663,12,44910708,76,2,5038,84',0,0,Francois Hapipi (Tahiti) Substitution at 84',Francois Hapipi Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,338162,2025-03-22 04:57:19
+12823,723663,12,44910708,76,2,5038,84',0,0,Francois Hapipi (Tahiti) Substitution at 84',Francois Hapipi Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,345241,2025-03-22 04:57:19
+12823,723663,13,44910709,76,2,5039,84',0,0,Franck Papaura (Tahiti) Substitution at 84',Franck Papaura Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,393901,2025-03-22 04:57:19
+12823,723663,13,44910709,76,2,5039,84',0,0,Franck Papaura (Tahiti) Substitution at 84',Franck Papaura Substitution,4863,0.0,0.0,0.0,0.0,0.0,0.0,2,335050,2025-03-22 04:57:19
+12823,723663,14,44910931,76,2,5159,86',0,0,Gerard Waia (New Caledonia) Substitution at 86',Gerard Waia Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,382681,2025-03-22 04:57:19
+12823,723663,14,44910931,76,2,5159,86',0,0,Gerard Waia (New Caledonia) Substitution at 86',Gerard Waia Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,266771,2025-03-22 04:57:19
+12823,723663,15,44910638,70,2,5400,90'+1',1,0,Lues Waya (New Caledonia) Goal at 91',Lues Waya Goal,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,338170,2025-03-22 04:57:19
+12823,723663,16,44910639,93,2,5400,90'+3',0,0,Pothin Poma (Tahiti) Red Card at 93',Pothin Poma Red Card,4863,0.0,0.0,0.0,0.0,0.0,0.0,1,268450,2025-03-22 04:57:19
+12823,723664,1,44910909,70,1,360,6',1,0,Chris Wood (New Zealand) Goal at 6',Chris Wood Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,134190,2025-03-22 04:57:19
+12823,723664,2,44910910,70,1,960,16',1,0,Sarpreet Singh (New Zealand) Goal at 16',Sarpreet Singh Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,228283,2025-03-22 04:57:19
+12823,723664,3,44910911,76,1,1200,20',0,0,Etonia Dogalau (Fiji) Substitution at 20',Etonia Dogalau Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,391477,2025-03-22 04:57:19
+12823,723664,3,44910911,76,1,1200,20',0,0,Etonia Dogalau (Fiji) Substitution at 20',Etonia Dogalau Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,19376,2025-03-22 04:57:19
+12823,723664,4,44910912,70,1,1380,23',1,0,Tyler Bindon (New Zealand) Goal at 23',Tyler Bindon Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,367427,2025-03-22 04:57:19
+12823,723664,5,44910913,70,1,1920,32',1,0,Tim Payne (New Zealand) Goal at 32',Tim Payne Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,159470,2025-03-22 04:57:19
+12823,723664,6,44910914,76,2,2700,45',0,0,Brendan McMullen (Fiji) Substitution at 45',Brendan McMullen Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,402268,2025-03-22 04:57:19
+12823,723664,6,44910914,76,2,2700,45',0,0,Brendan McMullen (Fiji) Substitution at 45',Brendan McMullen Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,289584,2025-03-22 04:57:19
+12823,723664,7,44910915,94,2,2820,47',0,0,Etonia Dogalau (Fiji) Yellow Card at 47',Etonia Dogalau Yellow Card,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,391477,2025-03-22 04:57:19
+12823,723664,8,44910916,70,2,3360,56',1,0,Chris Wood (New Zealand) Goal at 56',Chris Wood Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,134190,2025-03-22 04:57:19
+12823,723664,9,44910917,70,2,3600,60',1,0,Chris Wood (New Zealand) Goal at 60',Chris Wood Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,134190,2025-03-22 04:57:19
+12823,723664,10,44910918,76,2,3718,62',0,0,Elijah Just (New Zealand) Substitution at 62',Elijah Just Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,266555,2025-03-22 04:57:19
+12823,723664,10,44910918,76,2,3718,62',0,0,Elijah Just (New Zealand) Substitution at 62',Elijah Just Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,297803,2025-03-22 04:57:19
+12823,723664,11,44910919,76,2,3719,62',0,0,Kosta Barbarouses (New Zealand) Substitution at 62',Kosta Barbarouses Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,175958,2025-03-22 04:57:19
+12823,723664,11,44910919,76,2,3719,62',0,0,Kosta Barbarouses (New Zealand) Substitution at 62',Kosta Barbarouses Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,134190,2025-03-22 04:57:19
+12823,723664,12,44910920,76,2,4080,68',0,0,Simione Nabenu (Fiji) Substitution at 68',Simione Nabenu Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,361053,2025-03-22 04:57:19
+12823,723664,12,44910920,76,2,4080,68',0,0,Simione Nabenu (Fiji) Substitution at 68',Simione Nabenu Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,402266,2025-03-22 04:57:19
+12823,723664,13,44910921,76,2,4320,72',0,0,Francis DeVries (New Zealand) Substitution at 72',Francis DeVries Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,254441,2025-03-22 04:57:19
+12823,723664,13,44910921,76,2,4320,72',0,0,Francis DeVries (New Zealand) Substitution at 72',Francis DeVries Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,228283,2025-03-22 04:57:19
+12823,723664,14,44910922,70,2,4380,73',1,0,Kosta Barbarouses (New Zealand) Goal at 73',Kosta Barbarouses Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,175958,2025-03-22 04:57:19
+12823,723664,15,44910923,76,2,4500,75',0,0,Ivan Kumar (Fiji) Substitution at 75',Ivan Kumar Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,1,361061,2025-03-22 04:57:19
+12823,723664,15,44910923,76,2,4500,75',0,0,Ivan Kumar (Fiji) Substitution at 75',Ivan Kumar Substitution,4862,0.0,0.0,0.0,0.0,0.0,0.0,2,257312,2025-03-22 04:57:19
+12823,723664,16,44910924,76,2,4800,80',0,0,Ben Waine (New Zealand) Substitution at 80',Ben Waine Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,277113,2025-03-22 04:57:19
+12823,723664,16,44910924,76,2,4800,80',0,0,Ben Waine (New Zealand) Substitution at 80',Ben Waine Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,266554,2025-03-22 04:57:19
+12823,723664,17,44910925,113,2,5280,88',0,0,Ben Waine (New Zealand) Penalty - Missed at 88',Ben Waine Penalty - Missed,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,277113,2025-03-22 04:57:19
+12822,734945,1,44926378,76,2,2701,46',0,0,Elijah Just (New Zealand) Substitution at 46',Elijah Just Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,266555,2025-03-25 04:58:46
+12822,734945,1,44926378,76,2,2701,46',0,0,Elijah Just (New Zealand) Substitution at 46',Elijah Just Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,228279,2025-03-25 04:58:46
+12822,734945,2,44926379,76,2,2702,46',0,0,Francis DeVries (New Zealand) Substitution at 46',Francis DeVries Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,254441,2025-03-25 04:58:46
+12822,734945,2,44926379,76,2,2702,46',0,0,Francis DeVries (New Zealand) Substitution at 46',Francis DeVries Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,297803,2025-03-25 04:58:46
+12822,734945,3,44926380,76,2,3058,51',0,0,Lues Waya (New Caledonia) Substitution at 51',Lues Waya Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,338170,2025-03-25 04:58:46
+12822,734945,3,44926380,76,2,3058,51',0,0,Lues Waya (New Caledonia) Substitution at 51',Lues Waya Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,338010,2025-03-25 04:58:46
+12822,734945,4,44926381,76,2,3059,51',0,0,Gerard Waia (New Caledonia) Substitution at 51',Gerard Waia Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,382681,2025-03-25 04:58:46
+12822,734945,4,44926381,76,2,3059,51',0,0,Gerard Waia (New Caledonia) Substitution at 51',Gerard Waia Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,237133,2025-03-25 04:58:46
+12822,734945,5,44926382,76,2,3240,54',0,0,Kosta Barbarouses (New Zealand) Substitution at 54',Kosta Barbarouses Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,175958,2025-03-25 04:58:46
+12822,734945,5,44926382,76,2,3240,54',0,0,Kosta Barbarouses (New Zealand) Substitution at 54',Kosta Barbarouses Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,134190,2025-03-25 04:58:46
+12822,734945,6,44926383,70,2,3660,61',1,0,Michael Boxall (New Zealand) Goal at 61',Michael Boxall Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,101934,2025-03-25 04:58:46
+12822,734945,7,44926384,76,2,3959,66',0,0,Yoan Bearune (New Caledonia) Substitution at 66',Yoan Bearune Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,393823,2025-03-25 04:58:46
+12822,734945,7,44926384,76,2,3959,66',0,0,Yoan Bearune (New Caledonia) Substitution at 66',Yoan Bearune Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,257408,2025-03-25 04:58:46
+12822,734945,8,44926385,70,2,3960,66',1,0,Kosta Barbarouses (New Zealand) Goal at 66',Kosta Barbarouses Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,175958,2025-03-25 04:58:46
+12822,734945,9,44926386,76,2,4200,70',0,0,Alex Rufer (New Zealand) Substitution at 70',Alex Rufer Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,194736,2025-03-25 04:58:46
+12822,734945,9,44926386,76,2,4200,70',0,0,Alex Rufer (New Zealand) Substitution at 70',Alex Rufer Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,228283,2025-03-25 04:58:46
+12822,734945,10,44926387,76,2,4558,76',0,0,Shene Wélépane (New Caledonia) Substitution at 76',Shene Wélépane Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,257410,2025-03-25 04:58:46
+12822,734945,10,44926387,76,2,4558,76',0,0,Shene Wélépane (New Caledonia) Substitution at 76',Shene Wélépane Substitution,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,266769,2025-03-25 04:58:46
+12822,734945,11,44926388,76,2,4559,76',0,0,Mickael Partodikromo (New Caledonia) Substitution at 76',Mickael Partodikromo Substitutio,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,393822,2025-03-25 04:58:46
+12822,734945,11,44926388,76,2,4559,76',0,0,Mickael Partodikromo (New Caledonia) Substitution at 76',Mickael Partodikromo Substitutio,4888,0.0,0.0,0.0,0.0,0.0,0.0,2,173885,2025-03-25 04:58:46
+12822,734945,12,44926389,70,2,4800,80',1,0,Elijah Just (New Zealand) Goal at 80',Elijah Just Goal,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,266555,2025-03-25 04:58:46
+12822,734945,13,44926390,76,2,5160,86',0,0,Logan Rogerson (New Zealand) Substitution at 86',Logan Rogerson Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,1,228281,2025-03-25 04:58:46
+12822,734945,13,44926390,76,2,5160,86',0,0,Logan Rogerson (New Zealand) Substitution at 86',Logan Rogerson Substitution,2666,0.0,0.0,0.0,0.0,0.0,0.0,2,266554,2025-03-25 04:58:46
+12822,734945,14,44926391,94,2,5400,90'+6',0,0,Pierre Bako (New Caledonia) Yellow Card at 96',Pierre Bako Yellow Card,4888,0.0,0.0,0.0,0.0,0.0,0.0,1,266768,2025-03-25 04:58:46
+12825,715877,1,43712468,76,1,1920,32',0,0,Austin Kaleopa (American Samoa) Substitution at 32',Austin Kaleopa Substitution,4886,0.0,0.0,0.0,0.0,0.0,0.0,1,391550,2024-09-09 05:46:49
+12825,715877,1,43712468,76,1,1920,32',0,0,Austin Kaleopa (American Samoa) Substitution at 32',Austin Kaleopa Substitution,4886,0.0,0.0,0.0,0.0,0.0,0.0,2,391540,2024-09-09 05:46:49
+12825,715877,2,43712469,94,1,1980,33',0,0,Frankie (American Samoa) Yellow Card at 33',Frankie Yellow Card,4886,0.0,0.0,0.0,0.0,0.0,0.0,1,254699,2024-09-09 05:46:49
+12825,715877,3,43712470,94,1,2040,34',0,0,Dilo Tumua (Samoa) Yellow Card at 34',Dilo Tumua Yellow Card,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391560,2024-09-09 05:46:49
+12825,715877,4,43712471,76,1,2220,37',0,0,Kaleopa Siligi (American Samoa) Substitution at 37',Kaleopa Siligi Substitution,4886,0.0,0.0,0.0,0.0,0.0,0.0,1,254698,2024-09-09 05:46:49
+12825,715877,4,43712471,76,1,2220,37',0,0,Kaleopa Siligi (American Samoa) Substitution at 37',Kaleopa Siligi Substitution,4886,0.0,0.0,0.0,0.0,0.0,0.0,2,254699,2024-09-09 05:46:49
+12825,715877,5,43712472,94,1,2700,45'+4',0,0,Michael Settle (American Samoa) Yellow Card at 49',Michael Settle Yellow Card,4886,0.0,0.0,0.0,0.0,0.0,0.0,1,391539,2024-09-09 05:46:49
+12825,715877,6,43712473,76,2,2760,46',0,0,Ueli Tualaulelei (American Samoa) Substitution at 46',Ueli Tualaulelei Substitution,4886,0.0,0.0,0.0,0.0,0.0,0.0,1,391543,2024-09-09 05:46:49
+12825,715877,7,43712474,76,2,2760,46',0,0,Alex Malauulu (Samoa) Substitution at 46',Alex Malauulu Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391567,2024-09-09 05:46:49
+12825,715877,6,43712473,76,2,2760,46',0,0,Ueli Tualaulelei (American Samoa) Substitution at 46',Ueli Tualaulelei Substitution,4886,0.0,0.0,0.0,0.0,0.0,0.0,2,391535,2024-09-09 05:46:49
+12825,715877,7,43712474,76,2,2760,46',0,0,Alex Malauulu (Samoa) Substitution at 46',Alex Malauulu Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391556,2024-09-09 05:46:49
+12825,715877,9,43712476,76,2,2761,47',0,0,Alton Leiataua (Samoa) Substitution at 47',Alton Leiataua Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391570,2024-09-09 05:46:49
+12825,715877,8,43712475,76,2,2761,47',0,0,Vaha Tua (American Samoa) Substitution at 47',Vaha Tua Substitution,4886,0.0,0.0,0.0,0.0,0.0,0.0,1,391549,2024-09-09 05:46:49
+12825,715877,8,43712475,76,2,2761,47',0,0,Vaha Tua (American Samoa) Substitution at 47',Vaha Tua Substitution,4886,0.0,0.0,0.0,0.0,0.0,0.0,2,391539,2024-09-09 05:46:49
+12825,715877,9,43712476,76,2,2761,47',0,0,Alton Leiataua (Samoa) Substitution at 47',Alton Leiataua Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391557,2024-09-09 05:46:49
+12825,715877,10,43712477,94,2,2940,49',0,0,Alex Malauulu (Samoa) Yellow Card at 49',Alex Malauulu Yellow Card,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391567,2024-09-09 05:46:49
+12825,715877,11,43712478,94,2,3360,56',0,0,Vaha Tua (American Samoa) Yellow Card at 56',Vaha Tua Yellow Card,4886,0.0,0.0,0.0,0.0,0.0,0.0,1,391549,2024-09-09 05:46:49
+12825,715877,12,43712479,94,2,3480,58',0,0,Nicky Salapu (American Samoa) Yellow Card at 58',Nicky Salapu Yellow Card,4886,0.0,0.0,0.0,0.0,0.0,0.0,1,254684,2024-09-09 05:46:49
+12825,715877,13,43712480,98,2,3540,59',1,0,Dilo Tumua (Samoa) Penalty - Scored at 59',Dilo Tumua Penalty - Scored,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391560,2024-09-09 05:46:49
+12825,715877,14,43712481,76,2,4140,69',0,0,Ethan Stowers (Samoa) Substitution at 69',Ethan Stowers Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391572,2024-09-09 05:46:49
+12825,715877,14,43712481,76,2,4140,69',0,0,Ethan Stowers (Samoa) Substitution at 69',Ethan Stowers Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391560,2024-09-09 05:46:49
+12825,715877,15,43712482,93,2,4320,72',0,0,Alton Leiataua (Samoa) Red Card at 72',Alton Leiataua Red Card,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391570,2024-09-09 05:46:49
+12825,715877,16,43712483,76,2,4740,79',0,0,Jefferson Fa'amatau (Samoa) Substitution at 79',Jefferson Fa'amatau Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391568,2024-09-09 05:46:49
+12825,715877,16,43712483,76,2,4740,79',0,0,Jefferson Fa'amatau (Samoa) Substitution at 79',Jefferson Fa'amatau Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391558,2024-09-09 05:46:49
+12825,715877,17,43712484,76,2,5040,84',0,0,Mark Nelisi (American Samoa) Substitution at 84',Mark Nelisi Substitution,4886,0.0,0.0,0.0,0.0,0.0,0.0,1,391544,2024-09-09 05:46:49
+12825,715877,17,43712484,76,2,5040,84',0,0,Mark Nelisi (American Samoa) Substitution at 84',Mark Nelisi Substitution,4886,0.0,0.0,0.0,0.0,0.0,0.0,2,391537,2024-09-09 05:46:49
+12825,715877,18,43712485,94,2,5100,85',0,0,Jefferson Fa'amatau (Samoa) Yellow Card at 85',Jefferson Fa'amatau Yellow Card,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391568,2024-09-09 05:46:49
+12825,715877,20,43712487,76,2,5400,90'+9',0,0,Lonokaehu Tuitele (Samoa) Substitution at 99',Lonokaehu Tuitele Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391566,2024-09-09 05:46:49
+12825,715877,19,43712486,70,2,5400,90'+7',1,0,Jarvis Vaai Filimalae (Samoa) Goal at 97',Jarvis Vaai Filimalae Goal,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391559,2024-09-09 05:46:49
+12825,715877,20,43712487,76,2,5400,90'+9',0,0,Lonokaehu Tuitele (Samoa) Substitution at 99',Lonokaehu Tuitele Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391559,2024-09-09 05:46:49
+12825,715878,1,43711783,70,1,1620,27',1,0,Viliami Tikoipau (Tonga) Goal at 27',Viliami Tikoipau Goal,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391513,2024-09-09 05:46:49
+12825,715878,2,43711784,94,1,2280,38',0,0,Ngereine Maro (Cook Islands) Yellow Card at 38',Ngereine Maro Yellow Card,4884,0.0,0.0,0.0,0.0,0.0,0.0,1,391504,2024-09-09 05:46:49
+12825,715878,3,43711785,98,1,2340,39',1,0,Hemaloto Polovili (Tonga) Penalty - Scored at 39',Hemaloto Polovili Penalty - Scor,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,254961,2024-09-09 05:46:49
+12825,715878,4,43711786,94,1,2700,45'+2',0,0,Hemaloto Polovili (Tonga) Yellow Card at 47',Hemaloto Polovili Yellow Card,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,254961,2024-09-09 05:46:49
+12825,715878,5,43711787,76,2,2760,46',0,0,Tremaine Rimene-Albrett (Cook Islands) Substitution at 46',Tremaine Rimene-Albrett Substitu,4884,0.0,0.0,0.0,0.0,0.0,0.0,1,391507,2024-09-09 05:46:49
+12825,715878,5,43711787,76,2,2760,46',0,0,Tremaine Rimene-Albrett (Cook Islands) Substitution at 46',Tremaine Rimene-Albrett Substitu,4884,0.0,0.0,0.0,0.0,0.0,0.0,2,374560,2024-09-09 05:46:49
+12825,715878,6,43711788,70,2,3780,63',1,0,Tacettin Kumsuz (Cook Islands) Goal at 63',Tacettin Kumsuz Goal,4884,0.0,0.0,0.0,0.0,0.0,0.0,1,391486,2024-09-09 05:46:49
+12825,715878,7,43711789,76,2,4250,71',0,0,Vilikisepi Tai (Tonga) Substitution at 71',Vilikisepi Tai Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391521,2024-09-09 05:46:49
+12825,715878,7,43711789,76,2,4250,71',0,0,Vilikisepi Tai (Tonga) Substitution at 71',Vilikisepi Tai Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,2,391515,2024-09-09 05:46:49
+12825,715878,8,43711790,76,2,4260,71',0,0,Christopher Kefu (Tonga) Substitution at 71',Christopher Kefu Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391531,2024-09-09 05:46:49
+12825,715878,8,43711790,76,2,4260,71',0,0,Christopher Kefu (Tonga) Substitution at 71',Christopher Kefu Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,2,391513,2024-09-09 05:46:49
+12825,715878,10,43711792,76,2,4680,78',0,0,Petelo Naniseni (Tonga) Substitution at 78',Petelo Naniseni Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391523,2024-09-09 05:46:49
+12825,715878,9,43711791,76,2,4680,78',0,0,Tamaiva Mateariki (Cook Islands) Substitution at 78',Tamaiva Mateariki Substitution,4884,0.0,0.0,0.0,0.0,0.0,0.0,1,337949,2024-09-09 05:46:49
+12825,715878,9,43711791,76,2,4680,78',0,0,Tamaiva Mateariki (Cook Islands) Substitution at 78',Tamaiva Mateariki Substitution,4884,0.0,0.0,0.0,0.0,0.0,0.0,2,254722,2024-09-09 05:46:49
+12825,715878,10,43711792,76,2,4680,78',0,0,Petelo Naniseni (Tonga) Substitution at 78',Petelo Naniseni Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,2,391512,2024-09-09 05:46:49
+12825,715878,12,43711794,76,2,4740,79',0,0,Petelo Manu (Tonga) Substitution at 79',Petelo Manu Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391520,2024-09-09 05:46:49
+12825,715878,11,43711793,70,2,4740,79',1,0,Christopher Kefu (Tonga) Goal at 79',Christopher Kefu Goal,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391531,2024-09-09 05:46:49
+12825,715878,12,43711794,76,2,4740,79',0,0,Petelo Manu (Tonga) Substitution at 79',Petelo Manu Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,2,391511,2024-09-09 05:46:49
+12825,715878,13,43711795,94,2,4860,81',0,0,Tacettin Kumsuz (Cook Islands) Yellow Card at 81',Tacettin Kumsuz Yellow Card,4884,0.0,0.0,0.0,0.0,0.0,0.0,1,391486,2024-09-09 05:46:49
+12825,715878,16,43711798,76,2,5400,90'+6',0,0,Emiel Burrow (Cook Islands) Substitution at 96',Emiel Burrow Substitution,4884,0.0,0.0,0.0,0.0,0.0,0.0,1,374557,2024-09-09 05:46:49
+12825,715878,14,43711796,76,2,5400,90'+1',0,0,Ngametua Tuakana (Cook Islands) Substitution at 91',Ngametua Tuakana Substitution,4884,0.0,0.0,0.0,0.0,0.0,0.0,1,391505,2024-09-09 05:46:49
+12825,715878,15,43711797,76,2,5400,90'+2',0,0,Topuluka Tuamoheloa (Tonga) Substitution at 92',Topuluka Tuamoheloa Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391525,2024-09-09 05:46:49
+12825,715878,15,43711797,76,2,5400,90'+2',0,0,Topuluka Tuamoheloa (Tonga) Substitution at 92',Topuluka Tuamoheloa Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,2,391514,2024-09-09 05:46:49
+12825,715878,16,43711798,76,2,5400,90'+6',0,0,Emiel Burrow (Cook Islands) Substitution at 96',Emiel Burrow Substitution,4884,0.0,0.0,0.0,0.0,0.0,0.0,2,391487,2024-09-09 05:46:49
+12825,715878,14,43711796,76,2,5400,90'+1',0,0,Ngametua Tuakana (Cook Islands) Substitution at 91',Ngametua Tuakana Substitution,4884,0.0,0.0,0.0,0.0,0.0,0.0,2,337953,2024-09-09 05:46:49
+12825,720813,1,43716363,94,1,2580,43',0,0,Lisiate Feke (Tonga) Yellow Card at 43',Lisiate Feke Yellow Card,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391514,2024-09-10 05:45:10
+12825,720813,2,43716364,70,1,2700,45'+1',1,0,Ulafala Sonasi (Tonga) Goal at 46',Ulafala Sonasi Goal,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391516,2024-09-10 05:45:10
+12825,720813,3,43716365,76,2,2760,46',0,0,Ethan Stowers (Samoa) Substitution at 46',Ethan Stowers Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391572,2024-09-10 05:45:10
+12825,720813,4,43716366,76,2,2760,46',0,0,Viliami Tukia (Tonga) Substitution at 46',Viliami Tukia Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391515,2024-09-10 05:45:10
+12825,720813,3,43716365,76,2,2760,46',0,0,Ethan Stowers (Samoa) Substitution at 46',Ethan Stowers Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391560,2024-09-10 05:45:10
+12825,720813,4,43716366,76,2,2760,46',0,0,Viliami Tukia (Tonga) Substitution at 46',Viliami Tukia Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,2,391513,2024-09-10 05:45:10
+12825,720813,5,43716367,76,2,2820,47',0,0,Alman Kwan (Samoa) Substitution at 47',Alman Kwan Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391557,2024-09-10 05:45:10
+12825,720813,5,43716367,76,2,2820,47',0,0,Alman Kwan (Samoa) Substitution at 47',Alman Kwan Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391565,2024-09-10 05:45:10
+12825,720813,6,43716368,76,2,3300,55',0,0,Utu'one Lea'aetoa (Tonga) Substitution at 55',Utu'one Lea'aetoa Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391522,2024-09-10 05:45:10
+12825,720813,6,43716368,76,2,3300,55',0,0,Utu'one Lea'aetoa (Tonga) Substitution at 55',Utu'one Lea'aetoa Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,2,391512,2024-09-10 05:45:10
+12825,720813,7,43716369,94,2,3420,57',0,0,Alex Malauulu (Samoa) Yellow Card at 57',Alex Malauulu Yellow Card,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391567,2024-09-10 05:45:10
+12825,720813,8,43716370,76,2,3900,65',0,0,Petelo Manu (Tonga) Substitution at 65',Petelo Manu Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391520,2024-09-10 05:45:10
+12825,720813,8,43716370,76,2,3900,65',0,0,Petelo Manu (Tonga) Substitution at 65',Petelo Manu Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,2,391511,2024-09-10 05:45:10
+12825,720813,9,43716371,76,2,3960,66',0,0,Christopher Kefu (Tonga) Substitution at 66',Christopher Kefu Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391531,2024-09-10 05:45:10
+12825,720813,10,43716372,76,2,3960,66',0,0,Lonokaehu Tuitele (Samoa) Substitution at 66',Lonokaehu Tuitele Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391566,2024-09-10 05:45:10
+12825,720813,9,43716371,76,2,3960,66',0,0,Christopher Kefu (Tonga) Substitution at 66',Christopher Kefu Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,2,391521,2024-09-10 05:45:10
+12825,720813,10,43716372,76,2,3960,66',0,0,Lonokaehu Tuitele (Samoa) Substitution at 66',Lonokaehu Tuitele Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391558,2024-09-10 05:45:10
+12825,720813,11,43716373,70,2,5160,86',1,0,Luke Salisbury (Samoa) Goal at 86',Luke Salisbury Goal,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391554,2024-09-10 05:45:10
+12825,720813,12,43716374,76,2,5400,90'+3',0,0,Topuluka Tuamoheloa (Tonga) Substitution at 93',Topuluka Tuamoheloa Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391525,2024-09-10 05:45:10
+12825,720813,12,43716374,76,2,5400,90'+3',0,0,Topuluka Tuamoheloa (Tonga) Substitution at 93',Topuluka Tuamoheloa Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,2,391517,2024-09-10 05:45:10
+12825,720813,13,43716375,94,3,5640,94',0,0,Lonokaehu Tuitele (Samoa) Yellow Card at 94',Lonokaehu Tuitele Yellow Card,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391566,2024-09-10 05:45:10
+12825,720813,14,43716376,76,3,5880,98',0,0,Jefferson Fa'amatau (Samoa) Substitution at 98',Jefferson Fa'amatau Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391568,2024-09-10 05:45:10
+12825,720813,14,43716376,76,3,5880,98',0,0,Jefferson Fa'amatau (Samoa) Substitution at 98',Jefferson Fa'amatau Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391557,2024-09-10 05:45:10
+12825,720813,15,43716377,76,3,6060,101',0,0,Tomasi Armitage (Tonga) Substitution at 101',Tomasi Armitage Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391528,2024-09-10 05:45:10
+12825,720813,15,43716377,76,3,6060,101',0,0,Tomasi Armitage (Tonga) Substitution at 101',Tomasi Armitage Substitution,4883,0.0,0.0,0.0,0.0,0.0,0.0,2,391514,2024-09-10 05:45:10
+12825,720813,16,43716378,70,3,6300,105'+3',1,0,Jefferson Fa'amatau (Samoa) Goal at 108',Jefferson Fa'amatau Goal,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391568,2024-09-10 05:45:10
+12825,720813,17,43716379,76,4,6900,115',0,0,Reupena Fasi (Samoa) Substitution at 115',Reupena Fasi Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391556,2024-09-10 05:45:10
+12825,720813,17,43716379,76,4,6900,115',0,0,Reupena Fasi (Samoa) Substitution at 115',Reupena Fasi Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391567,2024-09-10 05:45:10
+12825,720813,19,43716381,76,4,7200,120'+2',0,0,Jerrymiah Maiava (Samoa) Substitution at 122',Jerrymiah Maiava Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391564,2024-09-10 05:45:10
+12825,720813,20,43716382,94,4,7200,120'+7',0,0,Jerrymiah Maiava (Samoa) Yellow Card at 127',Jerrymiah Maiava Yellow Card,4887,0.0,0.0,0.0,0.0,0.0,0.0,1,391564,2024-09-10 05:45:10
+12825,720813,18,43716380,94,4,7200,120'+2',0,0,Utu'one Lea'aetoa (Tonga) Yellow Card at 122',Utu'one Lea'aetoa Yellow Card,4883,0.0,0.0,0.0,0.0,0.0,0.0,1,391522,2024-09-10 05:45:10
+12825,720813,19,43716381,76,4,7200,120'+2',0,0,Jerrymiah Maiava (Samoa) Substitution at 122',Jerrymiah Maiava Substitution,4887,0.0,0.0,0.0,0.0,0.0,0.0,2,391572,2024-09-10 05:45:10

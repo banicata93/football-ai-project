@@ -1,0 +1,10 @@
+{
+  "league": "dutch_vrouwen_eredivisie",
+  "league_name": "Dutch Vrouwen Eredivisie",
+  "league_id": 19945,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:35",
+  "total_matches": 264,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

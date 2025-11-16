@@ -14,6 +14,91 @@ from sklearn.metrics import log_loss
 from .utils import setup_logging, sigmoid
 
 
+def squash_prob_ou25(p: float, factor: float = 0.75) -> float:
+    """
+    Probability squashing function for OU2.5 to reduce overconfidence
+    
+    Args:
+        p: Original probability
+        factor: Squashing factor (0.75 = 25% reduction in extremeness)
+        
+    Returns:
+        Squashed probability closer to 0.5
+    """
+    return 0.5 + (p - 0.5) * factor
+
+
+# Historical league base rates for OU2.5
+LEAGUE_OU25_RATES = {
+    'Premier League': 0.57,
+    'La Liga': 0.55,
+    'Serie A': 0.56,
+    'Bundesliga': 0.58,
+    'Ligue 1': 0.56,
+    'Eredivisie': 0.58,
+    'Primeira Liga': 0.57,
+    'Championship': 0.56,
+    'default': 0.56
+}
+
+
+def get_league_ou25_rate(league: str) -> float:
+    """Get historical OU2.5 rate for league"""
+    return LEAGUE_OU25_RATES.get(league, LEAGUE_OU25_RATES['default'])
+
+
+def apply_base_rate_regularization_ou25(prob: float, league_rate: float, weight: float = 0.15) -> float:
+    """
+    Apply base rate regularization for OU2.5
+    
+    Args:
+        prob: Current probability
+        league_rate: Historical league OU2.5 rate
+        weight: Weight for regularization (0.15 = 15% league prior)
+    
+    Returns:
+        Regularized probability
+    """
+    return (1 - weight) * prob + weight * league_rate
+
+
+def apply_disagreement_penalty_ou25(prob: float, ml_prob: float, poisson_prob: float, threshold: float = 0.20) -> float:
+    """
+    Apply penalty when ML and Poisson strongly disagree for OU2.5
+    
+    Args:
+        prob: Current probability
+        ml_prob: ML model probability
+        poisson_prob: Poisson model probability
+        threshold: Disagreement threshold
+    
+    Returns:
+        Penalized probability
+    """
+    if abs(ml_prob - poisson_prob) > threshold:
+        return prob * 0.7 + 0.5 * 0.3
+    return prob
+
+
+def apply_soft_caps_ou25(prob: float, upper: float = 0.85, lower: float = 0.15) -> float:
+    """
+    Apply soft confidence caps for OU2.5
+    
+    Args:
+        prob: Current probability
+        upper: Upper cap
+        lower: Lower cap
+    
+    Returns:
+        Capped probability
+    """
+    if prob > upper:
+        return upper
+    if prob < lower:
+        return lower
+    return prob
+
+
 class EnsembleModel:
     """
     Ensemble модел за комбиниране на множество predictions
@@ -115,33 +200,112 @@ class EnsembleModel:
             self.logger.warning("Оптимизация неуспешна, използваме начални тежести")
             return self.weights
     
-    def _combine_predictions(
-        self,
-        predictions: Dict[str, np.ndarray],
-        weights: Optional[np.ndarray] = None
-    ) -> np.ndarray:
+    def _combine_predictions(self, predictions: Dict[str, np.ndarray], weights: Optional[Dict[str, float]] = None) -> np.ndarray:
         """
-        Комбиниране на predictions с тежести
+        Комбинира predictions с тежести
         
         Args:
-            predictions: Dictionary с predictions
-            weights: Тежести (ако None, използва self.weights)
-        
+            predictions: Dict с predictions за всеки модел
+            weights: Dict с тежести за всеки модел
+            
         Returns:
-            Комбинирани predictions
+            Combined predictions
         """
         if weights is None:
-            weights = np.array([self.weights.get(k, 0.33) for k in predictions.keys()])
+            weights = self.weights
+        
+        # Ensure weights are in same order as predictions
+        if isinstance(weights, dict):
+            weight_values = [weights.get(key, 0.0) for key in predictions.keys()]
+        else:
+            # weights is already an array/list
+            weight_values = weights
         
         # Stack predictions
         pred_list = list(predictions.values())
         stacked = np.stack(pred_list, axis=-1)
         
+        # Debug shapes
+        self.logger.debug(f"Stacked shape: {stacked.shape}, Weight values: {weight_values}")
+        
         # Weighted average
-        combined = np.average(stacked, axis=-1, weights=weights)
+        try:
+            combined = np.average(stacked, axis=-1, weights=weight_values)
+        except ValueError as e:
+            self.logger.error(f"Shape mismatch: stacked={stacked.shape}, weights={np.array(weight_values).shape}")
+            # Fallback to equal weights
+            combined = np.mean(stacked, axis=-1)
         
         return combined
     
+    def predict_ou25(
+        self,
+        poisson_pred: np.ndarray,
+        ml_pred: np.ndarray,
+        league: str = None,
+        elo_pred: Optional[np.ndarray] = None,
+        league_id: Optional[int] = None
+    ) -> np.ndarray:
+        """
+        Enhanced OU2.5 prediction with overconfidence fixes
+        
+        Args:
+            poisson_pred: Poisson predictions
+            ml_pred: ML model predictions
+            league: League name for base rate regularization
+            elo_pred: Elo-based predictions (optional)
+            league_id: League ID за per-league weights
+        
+        Returns:
+            Enhanced OU2.5 predictions
+        """
+        # STEP 1: Apply probability squashing to ML pred (BEFORE ensemble)
+        original_ml_pred = ml_pred.copy()
+        ml_pred_squashed = np.array([squash_prob_ou25(p, factor=0.75) for p in ml_pred.flatten()])
+        
+        predictions = {
+            'poisson': poisson_pred,
+            'ml': ml_pred_squashed.reshape(-1, 1)
+        }
+        
+        if elo_pred is not None:
+            predictions['elo'] = elo_pred
+        
+        # Dynamic weight adjustments (backward compatibility)
+        if hasattr(self, 'dynamic') and self.dynamic:
+            weights = self._get_dynamic_weights(poisson_pred, ml_pred_squashed.reshape(-1, 1), league_id)
+            ensemble_pred = self._combine_predictions(predictions, weights)
+        else:
+            ensemble_pred = self._combine_predictions(predictions)
+        
+        # STEP 2: Apply strong disagreement penalty (AFTER ensemble)
+        ensemble_pred_penalized = np.array([
+            apply_disagreement_penalty_ou25(ep, oml, pp) 
+            for ep, oml, pp in zip(ensemble_pred.flatten(), original_ml_pred.flatten(), poisson_pred.flatten())
+        ])
+        
+        # STEP 3: Apply base rate regularization (AFTER ensemble)
+        league_rate = get_league_ou25_rate(league) if league else LEAGUE_OU25_RATES['default']
+        ensemble_pred_regularized = np.array([
+            apply_base_rate_regularization_ou25(ep, league_rate, weight=0.15)
+            for ep in ensemble_pred_penalized
+        ])
+        
+        # STEP 4: Apply soft confidence caps (AFTER base rate regularization)
+        ensemble_pred_capped = np.array([
+            apply_soft_caps_ou25(ep) for ep in ensemble_pred_regularized
+        ])
+        
+        # STEP 5: Final validation
+        final_pred = np.clip(ensemble_pred_capped, 0.01, 0.99)
+        
+        # Assertions
+        for i, fp in enumerate(final_pred):
+            assert 0.01 <= fp <= 0.99, f"OU2.5 probability out of bounds at index {i}: {fp}"
+            assert not np.isnan(fp), f"OU2.5 probability is NaN at index {i}: {fp}"
+        
+        return final_pred.reshape(-1, 1)
+
     def predict(
         self,
         poisson_pred: np.ndarray,
@@ -215,7 +379,8 @@ class EnsembleModel:
         
         # Dynamic adjustments
         # Висока ентропия → увеличи Poisson weight
-        if entropy > 0.8:
+        entropy_scalar = np.mean(entropy) if hasattr(entropy, '__len__') else entropy
+        if entropy_scalar > 0.8:
             base_weights['poisson'] = min(0.6, base_weights['poisson'] + 0.1)
             base_weights['ml'] = max(0.2, base_weights['ml'] - 0.1)
         
@@ -225,9 +390,9 @@ class EnsembleModel:
             for key in base_weights:
                 base_weights[key] = base_weights[key] * (1 - shrink_factor) + 0.5 * shrink_factor
         
-        # Normalize weights
-        total = sum(base_weights.values())
-        weights_array = np.array([base_weights.get(k, 0.33) for k in ['poisson', 'ml', 'elo']])
+        # Normalize weights - return only poisson and ml weights
+        total = base_weights['poisson'] + base_weights['ml']
+        weights_array = np.array([base_weights['poisson'], base_weights['ml']])
         return weights_array / weights_array.sum()
 
 

@@ -1,0 +1,17 @@
+ensemble_1x2_weights:
+  data_info:
+    improvement_threshold: 0.02
+    lookback_days: 45
+    min_predictions: 100
+  last_updated: '2025-11-13T16:26:51.841986'
+  optimization_method: SLSQP
+  performance_metrics:
+    accuracy: 0.5419354838709678
+    brier_score: 0.19312233041014093
+    ece: 0.06605916695879298
+    log_loss: 0.9537571873626349
+  version: '1.0'
+  weights:
+    elo: 0.4722969220060777
+    ml: 0.3162686649805685
+    poisson: 0.21143441301335392

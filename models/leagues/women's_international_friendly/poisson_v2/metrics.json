@@ -1,0 +1,10 @@
+{
+  "league": "women's_international_friendly",
+  "league_name": "Women's International Friendly",
+  "league_id": 3923,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:35",
+  "total_matches": 199,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

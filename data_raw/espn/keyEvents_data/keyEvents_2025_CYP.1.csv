@@ -1,0 +1,207 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13779,759492,1,46054329,98,1,2160,36',1,0,Hrvoje Milicevic (AEK Larnaca) Penalty - Scored at 36',Hrvoje Milicevic Penalty - Score,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,187952,2025-10-04 05:15:03
+13779,759492,2,46054330,70,2,4020,67',1,0,Elián Sosa (Anorthosis) Goal at 67',Elián Sosa Goal,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,379506,2025-10-04 05:15:03
+13779,759495,1,46054327,70,1,900,15',1,0,Ross McCausland (Aris Limassol) Goal at 15',Ross McCausland Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,302943,2025-10-04 05:15:03
+13779,759495,2,46054328,70,2,4620,77',1,0,Alex Moussounda (Aris Limassol) Goal at 77',Alex Moussounda Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,333132,2025-10-04 05:15:03
+13779,759496,1,46054336,70,1,900,15',1,0,Yevhen Budnik (Krasava) Goal at 15',Yevhen Budnik Goal,131456,0.0,0.0,0.0,0.0,0.0,0.0,1,166993,2025-10-04 05:15:03
+13779,759496,2,46054337,98,2,4020,67',1,0,Nikola Trujic (Krasava) Penalty - Scored at 67',Nikola Trujic Penalty - Scored,131456,0.0,0.0,0.0,0.0,0.0,0.0,1,170673,2025-10-04 05:15:03
+13779,759497,1,46054317,70,2,4740,79',1,0,Carel Eiting (Omonia Nicosia) Goal at 79',Carel Eiting Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,238920,2025-10-04 05:15:03
+13779,759498,1,46054318,70,1,1380,23',1,0,Iasonas Pikis (Olympiakos Nicosia) Goal at 23',Iasonas Pikis Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,326589,2025-10-04 05:15:03
+13779,759498,2,46054320,70,2,5220,87',1,0,Maxime Do Couto Teixeira (Krasava) Goal at 87',Maxime Do Couto Teixeira Goal,131456,0.0,0.0,0.0,0.0,0.0,0.0,1,210398,2025-10-04 05:15:03
+13779,759499,1,46054308,70,1,840,14',1,0,Marius Dumitru Corbu (Apoel Nicosia) Goal at 14',Marius Dumitru Corbu Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,306354,2025-10-04 05:15:03
+13779,759499,2,46054309,70,1,1620,27',1,0,Konstantinos Laifis (Apoel Nicosia) Goal at 27',Konstantinos Laifis Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,189646,2025-10-04 05:15:03
+13779,759499,3,46054310,70,2,3060,51',1,0,Diego Rosa (Apoel Nicosia) Goal at 51',Diego Rosa Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,297085,2025-10-04 05:15:03
+13779,759499,3,46054310,70,2,3060,51',1,0,Diego Rosa (Apoel Nicosia) Goal at 51',Diego Rosa Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,200870,2025-10-04 05:15:03
+13779,759499,4,46054311,70,2,4980,83',1,0,Gabriel Maioli (Apoel Nicosia) Goal at 83',Gabriel Maioli Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,339003,2025-10-04 05:15:03
+13779,759500,1,46054334,70,2,2820,47',1,0,Nicolás Andereggen (Ethnikos Achnas) Goal at 47',Nicolás Andereggen Goal,4045,0.0,0.0,0.0,0.0,0.0,0.0,1,229855,2025-10-04 05:15:03
+13779,759500,2,46054335,70,2,5220,87',1,0,Nicolás Andereggen (Ethnikos Achnas) Goal at 87',Nicolás Andereggen Goal,4045,0.0,0.0,0.0,0.0,0.0,0.0,1,229855,2025-10-04 05:15:03
+13779,759501,1,46054338,70,2,3360,56',1,0,Ivan Sunjic (Pafos) Goal at 56',Ivan Sunjic Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,194767,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,13857,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,407744,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,399095,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,353551,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,352272,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,337152,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,332072,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,270524,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,269616,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,258886,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,234859,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,234012,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,231660,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,225541,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,218903,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,216298,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,203964,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,187059,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,158601,2025-10-04 05:15:03
+13779,759501,2,46054339,70,2,5280,88',1,0,Bruno  (Pafos) Goal at 88',Bruno  Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,87893,2025-10-04 05:15:03
+13779,759502,1,46054331,70,2,3300,55',1,0,Josef Kvida (Apollon Limassol) Goal at 55',Josef Kvida Goal,525,0.0,0.0,0.0,0.0,0.0,0.0,1,220704,2025-10-04 05:15:03
+13779,759502,2,46054332,70,2,4740,79',1,0,Sergio Castel (Apollon Limassol) Goal at 79',Sergio Castel Goal,525,0.0,0.0,0.0,0.0,0.0,0.0,1,294352,2025-10-04 05:15:03
+13779,759502,3,46054333,70,2,5160,86',1,0,Sergio Castel (Apollon Limassol) Goal at 86',Sergio Castel Goal,525,0.0,0.0,0.0,0.0,0.0,0.0,1,294352,2025-10-04 05:15:03
+13779,759503,1,46054344,70,1,1320,22',1,0,Senou Coulibaly (Omonia Nicosia) Goal at 22',Senou Coulibaly Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,274954,2025-10-04 05:15:03
+13779,759503,2,46054345,70,2,3000,50',1,0,Willy Semedo (Omonia Nicosia) Goal at 50',Willy Semedo Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,308610,2025-10-04 05:15:03
+13779,759503,2,46054345,70,2,3000,50',1,0,Willy Semedo (Omonia Nicosia) Goal at 50',Willy Semedo Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,271675,2025-10-04 05:15:03
+13779,759503,3,46054346,70,2,4500,75',1,0,Panagiotis Andreou (Omonia Nicosia) Goal at 75',Panagiotis Andreou Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,366462,2025-10-04 05:15:03
+13779,759503,4,46054347,70,2,4680,78',1,0,Ioannis Kousoulos (Omonia Nicosia) Goal at 78',Ioannis Kousoulos Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,279962,2025-10-04 05:15:03
+13779,759503,5,46054348,70,2,4980,83',1,0,Angelos Neophytou (Omonia Nicosia) Goal at 83',Angelos Neophytou Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,365315,2025-10-04 05:15:03
+13779,759504,1,46054298,70,1,420,7',1,0,Ross McCausland (Aris Limassol) Goal at 7',Ross McCausland Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,302943,2025-10-04 05:15:03
+13779,759504,2,46054299,98,1,780,13',1,0,Hrvoje Milicevic (AEK Larnaca) Penalty - Scored at 13',Hrvoje Milicevic Penalty - Score,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,187952,2025-10-04 05:15:03
+13779,759504,3,46054300,70,1,1620,27',1,0,Dorde Ivanovic (AEK Larnaca) Goal at 27',Dorde Ivanovic Goal,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,268618,2025-10-04 05:15:03
+13779,759504,4,46054301,70,2,4920,82',1,0,Jaden Montnor (Aris Limassol) Goal at 82',Jaden Montnor Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,366131,2025-10-04 05:15:03
+13779,759504,5,46054302,70,2,5400,90'+1',1,0,Gus Ledes (AEK Larnaca) Goal at 91',Gus Ledes Goal,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,157344,2025-10-04 05:15:03
+13779,759505,1,46054324,70,1,1980,33',1,0,Domingos Quina (Pafos) Goal at 33',Domingos Quina Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,236708,2025-10-04 05:15:03
+13779,759505,2,46054325,70,2,5160,86',1,0,Mislav Orsic (Pafos) Goal at 86',Mislav Orsic Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,194277,2025-10-04 05:15:03
+13779,759505,3,46054326,70,2,5400,90',1,0,Pepe (Pafos) Goal at 90',Pepe Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,52767,2025-10-04 05:15:03
+13779,759505,3,46054326,70,2,5400,90',1,0,Pepe (Pafos) Goal at 90',Pepe Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,319724,2025-10-04 05:15:03
+13779,759505,3,46054326,70,2,5400,90',1,0,Pepe (Pafos) Goal at 90',Pepe Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,314566,2025-10-04 05:15:03
+13779,759505,3,46054326,70,2,5400,90',1,0,Pepe (Pafos) Goal at 90',Pepe Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,311589,2025-10-04 05:15:03
+13779,759505,3,46054326,70,2,5400,90',1,0,Pepe (Pafos) Goal at 90',Pepe Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,269911,2025-10-04 05:15:03
+13779,759505,3,46054326,70,2,5400,90',1,0,Pepe (Pafos) Goal at 90',Pepe Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,256909,2025-10-04 05:15:03
+13779,759505,3,46054326,70,2,5400,90',1,0,Pepe (Pafos) Goal at 90',Pepe Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,155143,2025-10-04 05:15:03
+13779,759506,1,46054319,70,1,2220,37',1,0,Arthur Gomis (Aris Limassol) Goal at 37',Arthur Gomis Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,238396,2025-10-04 05:15:03
+13779,759506,2,46054321,70,2,3360,56',1,0,Ross McCausland (Aris Limassol) Goal at 56',Ross McCausland Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,302943,2025-10-04 05:15:03
+13779,759506,3,46054322,70,2,5400,90'+1',1,0,Andronikos Kakoulis (Aris Limassol) Goal at 91',Andronikos Kakoulis Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,305500,2025-10-04 05:15:03
+13779,759507,1,46054314,70,1,2040,34',1,0,Anderson Silva (Pafos) Goal at 34',Anderson Silva Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,36807,2025-10-04 05:15:03
+13779,759507,2,46054315,70,2,4260,71',1,0,Iasonas Pikis (Olympiakos Nicosia) Goal at 71',Iasonas Pikis Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,326589,2025-10-04 05:15:03
+13779,759507,3,46054316,70,2,5400,90'+3',1,0,Landry Dimata (Pafos) Goal at 93',Landry Dimata Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,238804,2025-10-04 05:15:03
+13779,759508,1,46054296,70,2,3960,66',1,0,Andreas Athanasiou (Akritas Chlorakas) Goal at 66',Andreas Athanasiou Goal,131460,0.0,0.0,0.0,0.0,0.0,0.0,1,410312,2025-10-04 05:15:03
+13779,759508,2,46054297,70,2,4560,76',1,0,Andreas Athanasiou (Akritas Chlorakas) Goal at 76',Andreas Athanasiou Goal,131460,0.0,0.0,0.0,0.0,0.0,0.0,1,410312,2025-10-04 05:15:03
+13779,759509,1,46054340,70,1,420,7',1,0,Riad Bajic (AEK Larnaca) Goal at 7',Riad Bajic Goal,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,189041,2025-10-04 05:15:03
+13779,759509,2,46054341,70,1,2700,45'+4',1,0,Hrvoje Milicevic (AEK Larnaca) Goal at 49',Hrvoje Milicevic Goal,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,187952,2025-10-04 05:15:03
+13779,759509,3,46054342,70,2,4200,70',1,0,Yerson Chacón (AEK Larnaca) Goal at 70',Yerson Chacón Goal,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,302525,2025-10-04 05:15:03
+13779,759509,4,46054343,70,2,4920,82',1,0,Riad Bajic (AEK Larnaca) Goal at 82',Riad Bajic Goal,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,189041,2025-10-04 05:15:03
+13779,759510,1,46054312,70,2,4380,73',1,0,Mathías Tomás (Apoel Nicosia) Goal at 73',Mathías Tomás Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,356340,2025-10-04 05:15:03
+13779,759510,2,46054313,70,2,4680,78',1,0,Dálcio (Apoel Nicosia) Goal at 78',Dálcio Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,215528,2025-10-04 05:15:03
+13779,759511,1,46054303,70,1,60,1',1,0,Ryan Mmaee (Omonia Nicosia) Goal at 1',Ryan Mmaee Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,219646,2025-10-04 05:15:03
+13779,759511,2,46054304,70,1,1020,17',1,0,Muamer Tankovic (Omonia Nicosia) Goal at 17',Muamer Tankovic Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,162424,2025-10-04 05:15:03
+13779,759511,3,46054305,98,2,2940,49',1,0,Willy Semedo (Omonia Nicosia) Penalty - Scored at 49',Willy Semedo Penalty - Scored,617,0.0,0.0,0.0,0.0,0.0,0.0,1,308610,2025-10-04 05:15:03
+13779,759511,3,46054305,98,2,2940,49',1,0,Willy Semedo (Omonia Nicosia) Penalty - Scored at 49',Willy Semedo Penalty - Scored,617,0.0,0.0,0.0,0.0,0.0,0.0,1,271675,2025-10-04 05:15:03
+13779,759511,4,46054306,70,2,3360,56',1,0,Willy Semedo (Omonia Nicosia) Goal at 56',Willy Semedo Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,308610,2025-10-04 05:15:03
+13779,759511,4,46054306,70,2,3360,56',1,0,Willy Semedo (Omonia Nicosia) Goal at 56',Willy Semedo Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,271675,2025-10-04 05:15:03
+13779,759511,5,46054307,70,2,4560,76',1,0,Angelos Neophytou (Omonia Nicosia) Goal at 76',Angelos Neophytou Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,365315,2025-10-04 05:15:03
+13779,759512,1,46054323,70,2,3780,63',1,0,Momo Yansane (Omonia Aradippou) Goal at 63',Momo Yansane Goal,131459,0.0,0.0,0.0,0.0,0.0,0.0,1,256566,2025-10-04 05:15:03
+13779,759513,1,46054454,98,1,1860,31',1,0,Pieros Soteriou (Apoel Nicosia) Penalty - Scored at 31',Pieros Soteriou Penalty - Scored,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,179397,2025-10-04 05:15:03
+13779,759513,2,46054470,70,2,3660,61',1,0,Stefan Drazic (Apoel Nicosia) Goal at 61',Stefan Drazic Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,260388,2025-10-04 05:15:03
+13779,759513,3,46054475,70,2,4200,70',1,0,Geovane Santana Meurer (Apoel Nicosia) Goal at 70',Geovane Santana Meurer Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,349559,2025-10-04 05:15:03
+13779,759513,4,46054479,70,2,5400,90'+2',1,0,Stefan Drazic (Apoel Nicosia) Goal at 92',Stefan Drazic Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,260388,2025-10-04 05:15:03
+13779,759514,1,46067642,70,2,3120,52',1,0,Ivan Laca (Enosis Neon Paralimni) Goal at 52',Ivan Laca Goal,131461,0.0,0.0,0.0,0.0,0.0,0.0,1,411776,2025-10-05 05:22:38
+13779,759514,2,46067648,70,2,5400,90'+2',1,0,João Mário  (Olympiakos Nicosia) Goal at 92',João Mário  Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,282197,2025-10-05 05:22:38
+13779,759514,2,46067648,70,2,5400,90'+2',1,0,João Mário  (Olympiakos Nicosia) Goal at 92',João Mário  Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,267928,2025-10-05 05:22:38
+13779,759514,2,46067648,70,2,5400,90'+2',1,0,João Mário  (Olympiakos Nicosia) Goal at 92',João Mário  Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,169402,2025-10-05 05:22:38
+13779,759514,2,46067648,70,2,5400,90'+2',1,0,João Mário  (Olympiakos Nicosia) Goal at 92',João Mário  Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,139008,2025-10-05 05:22:38
+13779,759515,1,46069172,70,1,900,15',1,0,Brandon Thomas (Apollon Limassol) Goal at 15',Brandon Thomas Goal,525,0.0,0.0,0.0,0.0,0.0,0.0,1,180310,2025-10-05 05:22:38
+13779,759515,2,46069179,70,2,4860,81',1,0,Giorgos Malekkides (Apollon Limassol) Goal at 81',Giorgos Malekkides Goal,525,0.0,0.0,0.0,0.0,0.0,0.0,1,323266,2025-10-05 05:22:38
+13779,759516,1,46071702,70,1,360,6',1,0,Christoforos Frantzis (AEL) Goal at 6',Christoforos Frantzis Goal,8357,0.0,0.0,0.0,0.0,0.0,0.0,1,321853,2025-10-05 05:22:38
+13779,759516,2,46071703,70,1,1140,19',1,0,Stefan Vukic (Anorthosis) Goal at 19',Stefan Vukic Goal,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,366136,2025-10-05 05:22:38
+13779,759516,3,46071704,70,2,3000,50',1,0,Sérgio Conceição (AEL) Goal at 50',Sérgio Conceição Goal,8357,0.0,0.0,0.0,0.0,0.0,0.0,1,343981,2025-10-05 05:22:38
+13779,759516,4,46071705,70,2,4620,77',1,0,Andreas Makris (AEL) Goal at 77',Andreas Makris Goal,8357,0.0,0.0,0.0,0.0,0.0,0.0,1,201287,2025-10-05 05:22:38
+13779,759516,5,46071706,70,2,5400,90'+4',1,0,Morgan Ferrier (AEL) Goal at 94',Morgan Ferrier Goal,8357,0.0,0.0,0.0,0.0,0.0,0.0,1,193925,2025-10-05 05:22:38
+13779,759517,1,46085858,70,2,4620,77',1,0,Emmanuel Lomotey (Ethnikos Achnas) Goal at 77',Emmanuel Lomotey Goal,4045,0.0,0.0,0.0,0.0,0.0,0.0,1,256842,2025-10-07 05:28:29
+13779,759518,1,46088148,70,1,120,2',1,0,Waldo Rubio (AEK Larnaca) Goal at 2',Waldo Rubio Goal,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,269583,2025-10-07 05:28:29
+13779,759518,2,46088161,70,1,900,15',1,0,Domingos Quina (Pafos) Goal at 15',Domingos Quina Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,236708,2025-10-07 05:28:29
+13779,759518,3,46088166,70,1,2520,42',1,0,Domingos Quina (Pafos) Goal at 42',Domingos Quina Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,236708,2025-10-07 05:28:29
+13779,759518,4,46088168,70,2,4800,80',1,0,Anderson Silva (Pafos) Goal at 80',Anderson Silva Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,36807,2025-10-07 05:28:29
+13779,759518,5,46088159,70,2,5160,86',1,0,Dorde Ivanovic (AEK Larnaca) Goal at 86',Dorde Ivanovic Goal,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,268618,2025-10-07 05:28:29
+13779,759518,6,46088171,70,2,5280,88',1,0,Vlad Dragomir (Pafos) Goal at 88',Vlad Dragomir Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,266180,2025-10-07 05:28:29
+13779,759520,1,46156460,70,1,1020,17',1,0,David Luiz (Pafos) Goal at 17',David Luiz Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,98398,2025-10-18 05:22:28
+13779,759520,2,46156461,70,2,2820,47',1,0,Domingos Quina (Pafos) Goal at 47',Domingos Quina Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,236708,2025-10-18 05:22:28
+13779,759520,3,46156462,70,2,5100,85',1,0,Vlad Dragomir (Pafos) Goal at 85',Vlad Dragomir Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,266180,2025-10-18 05:22:28
+13779,759520,4,46156463,70,2,5340,89',1,0,Anderson Silva (Pafos) Goal at 89',Anderson Silva Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,36807,2025-10-18 05:22:28
+13779,759521,1,46169140,98,1,1740,29',1,0,Hrvoje Milicevic (AEK Larnaca) Penalty - Scored at 29',Hrvoje Milicevic Penalty - Score,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,187952,2025-10-19 05:22:01
+13779,759521,2,46169144,70,2,2940,49',1,0,Dorde Ivanovic (AEK Larnaca) Goal at 49',Dorde Ivanovic Goal,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,268618,2025-10-19 05:22:01
+13779,759522,1,46169177,98,2,4800,80',1,0,Pedro Marques (Apollon Limassol) Penalty - Scored at 80',Pedro Marques Penalty - Scored,525,0.0,0.0,0.0,0.0,0.0,0.0,1,283932,2025-10-19 05:22:01
+13779,759522,1,46169177,98,2,4800,80',1,0,Pedro Marques (Apollon Limassol) Penalty - Scored at 80',Pedro Marques Penalty - Scored,525,0.0,0.0,0.0,0.0,0.0,0.0,1,234138,2025-10-19 05:22:01
+13779,759523,1,46169096,70,1,1260,21',1,0,Gabriel Vinicius De Oliveira Furtado (Anorthosis) Goal at 21',Gabriel Vinicius De Oliveira Fur,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,250389,2025-10-19 05:22:01
+13779,759523,2,46169098,70,1,2400,40',1,0,José Romo (Akritas Chlorakas) Goal at 40',José Romo Goal,131460,0.0,0.0,0.0,0.0,0.0,0.0,1,240751,2025-10-19 05:22:01
+13779,759523,3,46169102,70,2,4980,83',1,0,Clifford Aboagye (Anorthosis) Goal at 83',Clifford Aboagye Goal,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,187626,2025-10-19 05:22:01
+13779,759523,4,46169105,70,2,5280,88',1,0,Giannis Hadjivasilis (Akritas Chlorakas) Goal at 88',Giannis Hadjivasilis Goal,131460,0.0,0.0,0.0,0.0,0.0,0.0,1,259505,2025-10-19 05:22:01
+13779,759524,1,46183872,70,1,420,7',1,0,Patryk Lipski (Krasava) Goal at 7',Patryk Lipski Goal,131456,0.0,0.0,0.0,0.0,0.0,0.0,1,257118,2025-10-20 05:22:27
+13779,759524,2,46183874,70,2,4500,75',1,0,Ryan Mmaee (Omonia Nicosia) Goal at 75',Ryan Mmaee Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,219646,2025-10-20 05:22:27
+13779,759524,3,46183883,70,2,5340,89',1,0,Anastasios Chatzigiovanis (Omonia Nicosia) Goal at 89',Anastasios Chatzigiovanis Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,248784,2025-10-20 05:22:27
+13779,759525,1,46184085,70,1,420,7',1,0,Iasonas Pikis (Olympiakos Nicosia) Goal at 7',Iasonas Pikis Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,326589,2025-10-20 05:22:27
+13779,759525,2,46184091,70,1,1080,18',1,0,João Tavares (Olympiakos Nicosia) Goal at 18',João Tavares Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,307923,2025-10-20 05:22:27
+13779,759525,2,46184091,70,1,1080,18',1,0,João Tavares (Olympiakos Nicosia) Goal at 18',João Tavares Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,246246,2025-10-20 05:22:27
+13779,759525,4,46184084,70,2,5400,90'+1',1,0,Pieros Soteriou (Apoel Nicosia) Goal at 91',Pieros Soteriou Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,179397,2025-10-20 05:22:27
+13779,759525,3,46184080,70,2,5400,90',1,0,Geovane Santana Meurer (Apoel Nicosia) Goal at 90',Geovane Santana Meurer Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,349559,2025-10-20 05:22:27
+13779,759526,1,46184126,70,2,2880,48',1,0,Veljko Nikolić (Aris Limassol) Goal at 48',Veljko Nikolić Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,260003,2025-10-22 05:16:05
+13779,759526,2,46184130,70,2,3360,56',1,0,Mihlali Mayambela (Aris Limassol) Goal at 56',Mihlali Mayambela Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,235500,2025-10-22 05:16:05
+13779,759526,3,46184131,70,2,3660,61',1,0,Jaden Montnor (Aris Limassol) Goal at 61',Jaden Montnor Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,366131,2025-10-22 05:16:05
+13779,759526,4,46184129,70,2,5040,84',1,0,Veljko Nikolić (Aris Limassol) Goal at 84',Veljko Nikolić Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,260003,2025-10-22 05:16:05
+13779,759527,1,46233226,98,1,240,4',1,0,Zurab Museliani (Enosis Neon Paralimni) Penalty - Scored at 4',Zurab Museliani Penalty - Scored,131461,0.0,0.0,0.0,0.0,0.0,0.0,1,388561,2025-10-26 05:23:07
+13779,759527,2,46233174,70,1,2040,34',1,0,Giorgos Papageorghiou (Ethnikos Achnas) Goal at 34',Giorgos Papageorghiou Goal,4045,0.0,0.0,0.0,0.0,0.0,0.0,1,296992,2025-10-26 05:23:07
+13779,759527,3,46233185,70,1,2700,45'+4',1,0,Nicolás Andereggen (Ethnikos Achnas) Goal at 49',Nicolás Andereggen Goal,4045,0.0,0.0,0.0,0.0,0.0,0.0,1,229855,2025-10-27 05:19:09
+13779,759527,4,46233201,70,1,2700,45'+6',1,0,Nicolás Andereggen (Ethnikos Achnas) Goal at 51',Nicolás Andereggen Goal,4045,0.0,0.0,0.0,0.0,0.0,0.0,1,229855,2025-10-27 05:19:09
+13779,759527,5,46233211,70,1,2700,45'+7',1,0,Paris Psaltis (Ethnikos Achnas) Goal at 52',Paris Psaltis Goal,4045,0.0,0.0,0.0,0.0,0.0,0.0,1,278474,2025-10-27 05:19:09
+13779,759527,6,46233216,70,2,4800,80',1,0,Juan Bautista Cejas (Ethnikos Achnas) Goal at 80',Juan Bautista Cejas Goal,4045,0.0,0.0,0.0,0.0,0.0,0.0,1,252047,2025-10-26 05:23:07
+13779,759528,1,46234162,70,1,2640,44',1,0,João Mário (Olympiakos Nicosia) Goal at 44',João Mário Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,282197,2025-10-27 05:19:09
+13779,759528,1,46234162,70,1,2640,44',1,0,João Mário (Olympiakos Nicosia) Goal at 44',João Mário Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,267928,2025-10-27 05:19:09
+13779,759528,1,46234162,70,1,2640,44',1,0,João Mário (Olympiakos Nicosia) Goal at 44',João Mário Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,169402,2025-10-27 05:19:09
+13779,759528,1,46234162,70,1,2640,44',1,0,João Mário (Olympiakos Nicosia) Goal at 44',João Mário Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,139008,2025-10-27 05:19:09
+13779,759528,2,46234182,70,2,4620,77',1,0,Agapios Vrikkis (Apollon Limassol) Goal at 77',Agapios Vrikkis Goal,525,0.0,0.0,0.0,0.0,0.0,0.0,1,411775,2025-10-27 05:19:09
+13779,759528,3,46234195,70,2,5400,90'+4',1,0,Gaetan Weissbeck (Apollon Limassol) Goal at 94',Gaetan Weissbeck Goal,525,0.0,0.0,0.0,0.0,0.0,0.0,1,240480,2025-10-27 05:19:09
+13779,759528,4,46234174,70,2,5400,90'+7',1,0,Mauricio (Olympiakos Nicosia) Goal at 97',Mauricio Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,336854,2025-10-27 05:19:09
+13779,759528,4,46234174,70,2,5400,90'+7',1,0,Mauricio (Olympiakos Nicosia) Goal at 97',Mauricio Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,319531,2025-10-27 05:19:09
+13779,759528,4,46234174,70,2,5400,90'+7',1,0,Mauricio (Olympiakos Nicosia) Goal at 97',Mauricio Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,314515,2025-10-27 05:19:09
+13779,759528,4,46234174,70,2,5400,90'+7',1,0,Mauricio (Olympiakos Nicosia) Goal at 97',Mauricio Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,304364,2025-10-27 05:19:09
+13779,759528,4,46234174,70,2,5400,90'+7',1,0,Mauricio (Olympiakos Nicosia) Goal at 97',Mauricio Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,289046,2025-10-27 05:19:09
+13779,759528,4,46234174,70,2,5400,90'+7',1,0,Mauricio (Olympiakos Nicosia) Goal at 97',Mauricio Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,271084,2025-10-27 05:19:09
+13779,759528,4,46234174,70,2,5400,90'+7',1,0,Mauricio (Olympiakos Nicosia) Goal at 97',Mauricio Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,251382,2025-10-27 05:19:09
+13779,759528,4,46234174,70,2,5400,90'+7',1,0,Mauricio (Olympiakos Nicosia) Goal at 97',Mauricio Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,218920,2025-10-27 05:19:09
+13779,759528,4,46234174,70,2,5400,90'+7',1,0,Mauricio (Olympiakos Nicosia) Goal at 97',Mauricio Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,216412,2025-10-27 05:19:09
+13779,759528,4,46234174,70,2,5400,90'+7',1,0,Mauricio (Olympiakos Nicosia) Goal at 97',Mauricio Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,205797,2025-10-27 05:19:09
+13779,759528,4,46234174,70,2,5400,90'+7',1,0,Mauricio (Olympiakos Nicosia) Goal at 97',Mauricio Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,192688,2025-10-27 05:19:09
+13779,759528,4,46234174,70,2,5400,90'+7',1,0,Mauricio (Olympiakos Nicosia) Goal at 97',Mauricio Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,95317,2025-10-27 05:19:09
+13779,759529,1,46246860,70,1,1380,23',1,0,Jaly Mouaddib (Omonia Aradippou) Goal at 23',Jaly Mouaddib Goal,131459,0.0,0.0,0.0,0.0,0.0,0.0,1,368058,2025-10-27 05:19:09
+13779,759530,1,46248122,70,2,5220,87',1,0,Léo Natel  (AEL) Goal at 87',Léo Natel  Goal,8357,0.0,0.0,0.0,0.0,0.0,0.0,1,254266,2025-10-27 05:19:09
+13779,759531,1,46248140,98,1,1800,30',1,0,Stefano Sensi (Anorthosis) Penalty - Scored at 30',Stefano Sensi Penalty - Scored,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,180927,2025-10-27 05:19:09
+13779,759531,2,46248143,70,1,1860,31',1,0,Jaden Montnor (Aris Limassol) Goal at 31',Jaden Montnor Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,366131,2025-10-27 05:19:09
+13779,759532,1,46254718,70,1,840,14',1,0,Vlad Dragomir (Pafos) Goal at 14',Vlad Dragomir Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,266180,2025-10-28 05:15:45
+13779,759532,2,46254719,70,2,3840,64',1,0,Willy Semedo (Omonia Nicosia) Goal at 64',Willy Semedo Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,308610,2025-10-28 05:15:45
+13779,759532,2,46254719,70,2,3840,64',1,0,Willy Semedo (Omonia Nicosia) Goal at 64',Willy Semedo Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,271675,2025-10-28 05:15:45
+13779,759532,3,46254720,98,2,5400,90'+4',1,0,Willy Semedo (Omonia Nicosia) Penalty - Scored at 94',Willy Semedo Penalty - Scored,617,0.0,0.0,0.0,0.0,0.0,0.0,1,308610,2025-10-28 05:15:45
+13779,759532,3,46254720,98,2,5400,90'+4',1,0,Willy Semedo (Omonia Nicosia) Penalty - Scored at 94',Willy Semedo Penalty - Scored,617,0.0,0.0,0.0,0.0,0.0,0.0,1,271675,2025-10-28 05:15:45
+13779,759533,1,46254721,98,1,1500,25',1,0,Pieros Soteriou (Apoel Nicosia) Penalty - Scored at 25',Pieros Soteriou Penalty - Scored,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,179397,2025-10-28 05:15:45
+13779,759533,2,46254722,70,2,2940,49',1,0,Enric Saborit (AEK Larnaca) Goal at 49',Enric Saborit Goal,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,165184,2025-10-28 05:15:45
+13779,759534,1,46283803,70,1,300,5',1,0,Andronikos Kakoulis (Aris Limassol) Goal at 5',Andronikos Kakoulis Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,305500,2025-11-01 05:17:51
+13779,759534,2,46283805,70,1,420,7',1,0,José Romo (Akritas Chlorakas) Goal at 7',José Romo Goal,131460,0.0,0.0,0.0,0.0,0.0,0.0,1,240751,2025-11-01 05:17:51
+13779,759534,3,46283807,98,1,2520,42',1,0,Giorgi Kvilitaia (Aris Limassol) Penalty - Scored at 42',Giorgi Kvilitaia Penalty - Score,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,221131,2025-11-01 05:17:51
+13779,759534,4,46283808,70,2,4980,83',1,0,Rody Effaghe (Aris Limassol) Goal at 83',Rody Effaghe Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,391110,2025-11-01 05:17:51
+13779,759535,1,46295570,70,2,3300,55',1,0,João Tavares (Olympiakos Nicosia) Goal at 55',João Tavares Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,307923,2025-11-02 05:17:50
+13779,759535,1,46295570,70,2,3300,55',1,0,João Tavares (Olympiakos Nicosia) Goal at 55',João Tavares Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,246246,2025-11-02 05:17:50
+13779,759536,1,46297996,70,1,120,2',1,0,Ryan Mmaee (Omonia Nicosia) Goal at 2',Ryan Mmaee Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,219646,2025-11-02 05:17:50
+13779,759536,2,46298005,70,1,1920,32',1,0,Stevan Jovetic (Omonia Nicosia) Goal at 32',Stevan Jovetic Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,119612,2025-11-02 05:17:50
+13779,759537,1,46297860,70,1,960,16',1,0,Nicolás Andereggen (Ethnikos Achnas) Goal at 16',Nicolás Andereggen Goal,4045,0.0,0.0,0.0,0.0,0.0,0.0,1,229855,2025-11-02 05:17:50
+13779,759537,2,46297792,70,2,3180,53',1,0,Konstantinos Laifis (Apoel Nicosia) Goal at 53',Konstantinos Laifis Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,189646,2025-11-02 05:17:50
+13779,759537,3,46297793,70,2,3900,65',1,0,Pieros Soteriou (Apoel Nicosia) Goal at 65',Pieros Soteriou Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,179397,2025-11-02 05:17:50
+13779,759537,4,46297808,98,2,4440,74',1,0,Pieros Soteriou (Apoel Nicosia) Penalty - Scored at 74',Pieros Soteriou Penalty - Scored,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,179397,2025-11-02 05:17:50
+13779,759537,5,46297842,70,2,5400,90'+2',1,0,Marius Dumitru Corbu (Apoel Nicosia) Goal at 92',Marius Dumitru Corbu Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,306354,2025-11-02 05:17:50
+13779,759538,1,46311039,98,2,4680,78',1,0,Stefano Sensi (Anorthosis) Penalty - Scored at 78',Stefano Sensi Penalty - Scored,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,180927,2025-11-03 06:16:49
+13779,759539,1,46312945,70,1,300,5',1,0,Vlad Dragomir (Pafos) Goal at 5',Vlad Dragomir Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,266180,2025-11-03 06:16:49
+13779,759540,1,46312894,70,2,2880,48',1,0,Josef Kvida (Apollon Limassol) Goal at 48',Josef Kvida Goal,525,0.0,0.0,0.0,0.0,0.0,0.0,1,220704,2025-11-03 06:16:49
+13779,759540,2,46312900,70,2,3060,51',1,0,Marcus Rohdén (AEK Larnaca) Goal at 51',Marcus Rohdén Goal,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,172866,2025-11-03 06:16:49
+13779,759540,3,46312907,70,2,4800,80',1,0,Jairo Izquierdo (AEK Larnaca) Goal at 80',Jairo Izquierdo Goal,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,215741,2025-11-03 06:16:49
+13779,759541,1,46345323,70,1,660,11',1,0,Léo Natel  (AEL) Goal at 11',Léo Natel  Goal,8357,0.0,0.0,0.0,0.0,0.0,0.0,1,254266,2025-11-08 06:14:23
+13779,759541,2,46345326,70,2,3540,59',1,0,Fernando Forestieri (AEL) Goal at 59',Fernando Forestieri Goal,8357,0.0,0.0,0.0,0.0,0.0,0.0,1,92108,2025-11-08 06:14:23
+13779,759541,3,46345327,70,2,3900,65',1,0,Luther Singh (AEL) Goal at 65',Luther Singh Goal,8357,0.0,0.0,0.0,0.0,0.0,0.0,1,254470,2025-11-08 06:14:23
+13779,759542,1,46355020,70,1,420,7',1,0,Yair Castro (Akritas Chlorakas) Goal at 7',Yair Castro Goal,131460,0.0,0.0,0.0,0.0,0.0,0.0,1,411765,2025-11-09 15:07:42
+13779,759542,2,46355031,70,2,4980,83',1,0,Revaz Injgia (Olympiakos Nicosia) Goal at 83',Revaz Injgia Goal,550,0.0,0.0,0.0,0.0,0.0,0.0,1,304941,2025-11-09 15:07:42
+13779,759543,1,46357735,70,1,1200,20',1,0,Lazar Markovic (Apollon Limassol) Goal at 20',Lazar Markovic Goal,525,0.0,0.0,0.0,0.0,0.0,0.0,1,165218,2025-11-09 15:07:42
+13779,759544,1,46358084,70,1,840,14',1,0,Andronikos Kakoulis (Aris Limassol) Goal at 14',Andronikos Kakoulis Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,305500,2025-11-09 15:07:42
+13779,759544,2,46358088,70,1,2220,37',1,0,Jaden Montnor (Aris Limassol) Goal at 37',Jaden Montnor Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,366131,2025-11-09 15:07:42
+13779,759544,3,46358092,70,2,3060,51',1,0,Giorgi Kvilitaia (Aris Limassol) Goal at 51',Giorgi Kvilitaia Goal,21530,0.0,0.0,0.0,0.0,0.0,0.0,1,221131,2025-11-09 15:07:42
+13779,759545,1,46371067,98,2,4260,71',1,0,Hrvoje Milicevic (AEK Larnaca) Penalty - Scored at 71',Hrvoje Milicevic Penalty - Score,4039,0.0,0.0,0.0,0.0,0.0,0.0,1,187952,2025-11-10 06:11:09
+13779,759546,1,46373258,70,1,960,16',1,0,David Luiz (Pafos) Goal at 16',David Luiz Goal,22281,0.0,0.0,0.0,0.0,0.0,0.0,1,98398,2025-11-10 06:11:09
+13779,759546,2,46373274,70,2,4920,82',1,0,Kiko  (Anorthosis) Goal at 82',Kiko  Goal,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,406868,2025-11-10 06:11:09
+13779,759546,2,46373274,70,2,4920,82',1,0,Kiko  (Anorthosis) Goal at 82',Kiko  Goal,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,400845,2025-11-10 06:11:09
+13779,759546,2,46373274,70,2,4920,82',1,0,Kiko  (Anorthosis) Goal at 82',Kiko  Goal,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,376065,2025-11-10 06:11:09
+13779,759546,2,46373274,70,2,4920,82',1,0,Kiko  (Anorthosis) Goal at 82',Kiko  Goal,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,373901,2025-11-10 06:11:09
+13779,759546,2,46373274,70,2,4920,82',1,0,Kiko  (Anorthosis) Goal at 82',Kiko  Goal,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,331391,2025-11-10 06:11:09
+13779,759546,2,46373274,70,2,4920,82',1,0,Kiko  (Anorthosis) Goal at 82',Kiko  Goal,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,262073,2025-11-10 06:11:09
+13779,759546,2,46373274,70,2,4920,82',1,0,Kiko  (Anorthosis) Goal at 82',Kiko  Goal,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,250608,2025-11-10 06:11:09
+13779,759546,2,46373274,70,2,4920,82',1,0,Kiko  (Anorthosis) Goal at 82',Kiko  Goal,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,169607,2025-11-10 06:11:09
+13779,759546,2,46373274,70,2,4920,82',1,0,Kiko  (Anorthosis) Goal at 82',Kiko  Goal,2550,0.0,0.0,0.0,0.0,0.0,0.0,1,129711,2025-11-10 06:11:09
+13779,759547,1,46373309,70,1,300,5',1,0,Nikolas Panagiotou (Omonia Nicosia) Goal at 5',Nikolas Panagiotou Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,276403,2025-11-10 06:11:09
+13779,759547,2,46373319,70,1,660,11',1,0,Marius Dumitru Corbu (Apoel Nicosia) Goal at 11',Marius Dumitru Corbu Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,306354,2025-11-10 06:11:09
+13779,759547,3,46373323,70,2,4320,72',1,0,Ryan Mmaee (Omonia Nicosia) Goal at 72',Ryan Mmaee Goal,617,0.0,0.0,0.0,0.0,0.0,0.0,1,219646,2025-11-10 06:11:09
+13779,759547,4,46373329,70,2,5400,90'+8',1,0,Dimitrios Diamantakos (Apoel Nicosia) Goal at 98',Dimitrios Diamantakos Goal,2497,0.0,0.0,0.0,0.0,0.0,0.0,1,187890,2025-11-10 06:11:09

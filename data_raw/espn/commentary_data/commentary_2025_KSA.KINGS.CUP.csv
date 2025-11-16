@@ -1,0 +1,404 @@
+seasonType,eventId,commentaryOrder,playId,clockDisplayValue,commentaryText,updateDateTime
+13425,736484,0,45954580,13',Yannick Carrasco (Al Shabab) Goal at 13',2025-09-23 05:13:28
+13425,736484,1,45954610,24',Afonso Taira (Abha) Goal at 24',2025-09-23 05:13:28
+13425,736484,2,45954636,31',Saad Balobaid (Al Shabab) Red Card at 31',2025-09-23 05:13:28
+13425,736484,3,45954671,42',Yasser Yaqoub Ibrahim (Abha) Yellow Card at 42',2025-09-23 05:13:28
+13425,736484,4,45954678,45',Wesley Hoedt (Al Shabab) Red Card at 45',2025-09-23 05:13:28
+13425,736484,5,45954740,45',Suwailem Al Menhali (Abha) Substitution at 45',2025-09-23 05:13:28
+13425,736484,6,45954741,45',Sultan (Al Shabab) Substitution at 45',2025-09-23 05:13:28
+13425,736484,7,45954824,54',Abdullah Al Fahad (Abha) Yellow Card at 54',2025-09-23 05:13:28
+13425,736484,8,45954867,61',Manaf Yabes (Abha) Substitution at 61',2025-09-23 05:13:28
+13425,736484,9,45954981,76',Carlos (Al Shabab) Substitution at 76',2025-09-23 05:13:28
+13425,736484,10,45955002,78',Feras Al Ghamdi (Abha) Substitution at 78',2025-09-23 05:13:28
+13425,736484,11,45955092,90'+2',Hazim Al-Zahrani (Abha) Substitution at 92',2025-09-23 05:13:28
+13425,736484,12,45955148,90',Yacine Adli (Al Shabab) Substitution at 90',2025-09-23 05:13:28
+13425,736484,13,45955158,91',Suwailem Al Menhali (Abha) Yellow Card at 91',2025-09-23 05:13:28
+13425,736484,14,45955192,97',Muralha (Abha) Goal at 97',2025-09-23 05:13:28
+13425,736484,15,45955216,99',Yannick Carrasco (Al Shabab) Yellow Card at 99',2025-09-23 05:13:28
+13425,736484,16,45955217,99',Fahad Al Jayzani (Abha) Yellow Card at 99',2025-09-23 05:13:28
+13425,736484,17,45955238,104',Vincent Sierro (Al Shabab) Goal at 104',2025-09-23 05:13:28
+13425,736484,18,45955290,105',Hamed Al Mousa (Abha) Substitution at 105',2025-09-23 05:13:28
+13425,736484,19,45955300,106',Feras Al Ghamdi (Abha) Yellow Card at 106',2025-09-23 05:13:28
+13425,736484,20,45955363,116',Vincent Sierro (Al Shabab) Yellow Card at 116',2025-09-23 05:13:28
+13425,736484,21,45955436,120',Hamed Al Mousa (Abha) Yellow Card at 120',2025-09-23 05:13:28
+13425,736485,0,45957998,8',Faisal Othman (Jeddah) Own Goal at 8',2025-09-24 05:13:55
+13425,736485,1,45958252,29',Rafi Matmi (Jeddah) Substitution at 29',2025-09-24 05:13:55
+13425,736485,2,45959277,45',Hassan Mukhtar (Jeddah) Substitution at 45',2025-09-24 05:13:55
+13425,736485,3,45959709,61',Wesley Ribeiro (Al Nassr) Goal at 61',2025-09-24 05:13:55
+13425,736485,4,45959784,63',Sadio Mané (Al Nassr) Substitution at 63',2025-09-24 05:13:55
+13425,736485,5,45959785,63',João Félix (Al Nassr) Substitution at 63',2025-09-24 05:13:55
+13425,736485,6,45959786,63',Kingsley Coman (Al Nassr) Substitution at 63',2025-09-24 05:13:55
+13425,736485,7,45959839,63',Mohamed Simakan (Al Nassr) Substitution at 63',2025-09-24 05:13:55
+13425,736485,8,45959922,68',Aiman Yahya (Al Nassr) Substitution at 68',2025-09-24 05:13:55
+13425,736485,9,45960029,71',João Félix (Al Nassr) Goal at 71',2025-09-24 05:13:55
+13425,736485,10,45960245,77',Wesam Al Hawsawi (Jeddah) Substitution at 77',2025-09-24 05:13:55
+13425,736485,11,45960297,77',Fahad Al-Sahafi (Jeddah) Substitution at 77',2025-09-24 05:13:55
+13425,736485,12,45960634,89',Abdullah Al Amoudi (Jeddah) Substitution at 89',2025-09-24 05:13:55
+13425,736485,13,45960639,89',Mohamed Simakan (Al Nassr) Goal at 89',2025-09-24 05:13:55
+13425,736486,0,45809773,31',Ivan Toney (Al Ahli) Penalty - Scored at 31',2025-09-01 05:11:18
+13425,736486,1,45810106,44',Mahmoud Jaafar Albohassan (Al Arabi) Substitution at 44',2025-09-01 05:11:18
+13425,736486,2,45810243,45'+6',Enzo Millot (Al Ahli) Goal at 51',2025-09-01 05:11:18
+13425,736486,3,45810804,60',Sultan Al Sawadi (Al Arabi) Substitution at 60',2025-09-01 05:11:18
+13425,736486,4,45810805,60',Wesam Mudhaya (Al Arabi) Substitution at 60',2025-09-01 05:11:18
+13425,736486,5,45810842,64',Waheb Saleh (Al Ahli) Substitution at 64',2025-09-01 05:11:18
+13425,736486,6,45810843,65',Mohammed Yousef (Al Ahli) Substitution at 65',2025-09-01 05:11:18
+13425,736486,7,45810844,65',Fahad Alrashidi (Al Ahli) Substitution at 65',2025-09-01 05:11:18
+13425,736486,8,45810862,68',Fahad Alrashidi (Al Ahli) Goal at 68',2025-09-01 05:11:18
+13425,736486,9,45810924,72',Ali Al-Zaqan (Al Arabi) Substitution at 72',2025-09-01 05:11:18
+13425,736486,10,45810945,74',Sultan Al Sawadi (Al Arabi) Yellow Card at 74',2025-09-01 05:11:18
+13425,736486,11,45811014,79',Mohammed Sulaiman (Al Ahli) Substitution at 79',2025-09-01 05:11:18
+13425,736486,12,45811024,79',Yaseen Al Zubaidi (Al Ahli) Substitution at 79',2025-09-01 05:11:18
+13425,736486,13,45811047,80',Sheldon (Al Arabi) Yellow Card at 80',2025-09-01 05:11:18
+13425,736486,14,45811055,82',Ivan Toney (Al Ahli) Goal at 82',2025-09-01 05:11:18
+13425,736486,15,45811228,90'+3',Ivan Toney (Al Ahli) Penalty - Scored at 93',2025-09-01 05:11:18
+13425,736487,0,45944773,18',Koka  (Al Ettifaq) Goal at 18',2025-09-22 05:12:40
+13425,736487,1,45945198,40',Khalid Al Khathlan (Al Batin) Goal at 40',2025-09-22 05:12:40
+13425,736487,2,45945599,47',Georginio Wijnaldum (Al Ettifaq) Goal at 47',2025-09-22 05:12:40
+13425,736487,3,45945691,52',Ondrej Duda (Al Ettifaq) Yellow Card at 52',2025-09-22 05:12:40
+13425,736487,4,45945742,55',Radhi Al-Otaibi (Al Ettifaq) Substitution at 55',2025-09-22 05:12:40
+13425,736487,5,45945885,62',Mohau Nkota (Al Ettifaq) Substitution at 62',2025-09-22 05:12:40
+13425,736487,6,45945998,68',Mohamed Falah Al-Sahli (Al Batin) Substitution at 68',2025-09-22 05:12:40
+13425,736487,7,45946016,68',Nawaf Al Sehimai (Al Batin) Substitution at 68',2025-09-22 05:12:40
+13425,736487,8,45946104,76',Álvaro Medrán (Al Ettifaq) Yellow Card at 76',2025-09-22 05:12:40
+13425,736487,9,45946154,79',Yousef Fawaz (Al Batin) Substitution at 79',2025-09-22 05:12:40
+13425,736487,10,45946184,79',Qusai Al Khaibary (Al Batin) Substitution at 79',2025-09-22 05:12:40
+13425,736487,11,45946281,86',Faris Al Ghamdi (Al Ettifaq) Substitution at 86',2025-09-22 05:12:40
+13425,736487,12,45946282,87',Majed Dawran (Al Ettifaq) Substitution at 87',2025-09-22 05:12:40
+13425,736487,13,45946306,89',Faraj Al Dhefiri (Al Batin) Substitution at 89',2025-09-22 05:12:40
+13425,736487,14,45946350,90'+3',Mohamed Falah Al-Sahli (Al Batin) Goal at 93',2025-09-22 05:12:40
+13425,736487,15,45946548,90'+5',Mohau Nkota (Al Ettifaq) Yellow Card at 95',2025-09-22 05:12:40
+13425,736487,16,45946665,96',Qusai Al Khaibary (Al Batin) Yellow Card at 96',2025-09-22 05:12:40
+13425,736487,17,45946710,98',Yousef Fawaz (Al Batin) Yellow Card at 98',2025-09-22 05:12:40
+13425,736487,18,45946770,104',Bader Al Shimmari (Al Batin) Substitution at 104',2025-09-22 05:12:40
+13425,736487,19,45946941,115',Simon Falette (Al Batin) Yellow Card at 115',2025-09-22 05:12:40
+13425,736487,20,45946993,120',Mukhtar Ali (Al Ettifaq) Substitution at 120',2025-09-22 05:12:40
+13425,736487,21,45947123,120',Francisco Calvo (Al Ettifaq) Yellow Card at 120',2025-09-22 05:12:40
+13425,736488,0,45954471,28',Saud Fallatah (Al Bukayriyah) Own Goal at 28',2025-09-23 05:13:28
+13425,736488,1,45954490,62',Abdulaziz Al-Aliwa (Al Kholood) Substitution at 62',2025-09-23 05:13:28
+13425,736488,2,45954492,62',Rayan Sharahili (Al Bukayriyah) Substitution at 62',2025-09-23 05:13:28
+13425,736488,3,45954499,71',Ramiro Enrique (Al Kholood) Goal at 71',2025-09-23 05:13:28
+13425,736488,4,45954507,77',Meshari Al Khalifa (Al Bukayriyah) Substitution at 77',2025-09-23 05:13:28
+13425,736488,5,45954508,78',Saad Al-Muwalad (Al Bukayriyah) Substitution at 78',2025-09-23 05:13:28
+13425,736488,6,45954511,78',Majed Khalifah (Al Kholood) Substitution at 78',2025-09-23 05:13:28
+13425,736488,7,45954512,78',Sultan Al Shehri (Al Kholood) Substitution at 78',2025-09-23 05:13:28
+13425,736488,8,45954518,82',Meshari Al Khalifa (Al Bukayriyah) Goal at 82',2025-09-23 05:13:28
+13425,736488,9,45954519,84',Muhannad Al Malki (Al Bukayriyah) Substitution at 84',2025-09-23 05:13:28
+13425,736488,10,45954520,84',Ibrahim Albarakah (Al Bukayriyah) Substitution at 84',2025-09-23 05:13:28
+13425,736488,11,45954522,84',Khalid Bin Shuwayyi (Al Bukayriyah) Yellow Card at 84',2025-09-24 05:13:55
+13425,736488,12,45954525,88',Guga (Al Kholood) Substitution at 88',2025-09-23 05:13:28
+13425,736488,13,45954529,90',Sultan Al Shehri (Al Kholood) Yellow Card at 90',2025-09-23 05:13:28
+13425,736488,14,45954530,90'+5',Mohammed Alshammari (Al Kholood) Yellow Card at 95',2025-09-23 05:13:28
+13425,736488,15,45954535,90'+8',Shaquille Pinas (Al Kholood) Yellow Card at 98',2025-09-23 05:13:28
+13425,736489,0,45946976,4',Sultan Mandash (Al Taawoun) Goal at 4',2025-09-22 05:12:40
+13425,736489,1,45947110,17',Yaseen Barnawi (Al-Faisaly) Substitution at 17',2025-09-22 05:12:40
+13425,736489,2,45947139,21',Musa Barrow (Al Taawoun) Goal at 21',2025-09-22 05:12:40
+13425,736489,3,45947161,24',Jaber Mustafa (Al-Faisaly) Yellow Card at 24',2025-09-22 05:12:40
+13425,736489,4,45947168,25',Yaseen Barnawi (Al-Faisaly) Yellow Card at 25',2025-09-22 05:12:40
+13425,736489,5,45947184,28',Mohammed Al Dossari (Al Taawoun) Substitution at 28',2025-09-22 05:12:40
+13425,736489,6,45947536,45',Cristhoper Zambrano (Al Taawoun) Substitution at 45',2025-09-22 05:12:40
+13425,736489,7,45947547,45',Victor Hugo (Al Taawoun) Substitution at 45',2025-09-23 05:13:28
+13425,736489,8,45947588,48',Musa Barrow (Al Taawoun) Yellow Card at 48',2025-09-22 05:12:40
+13425,736489,9,45947697,52',Al Mufarrij (Al Taawoun) Yellow Card at 52',2025-09-22 05:12:40
+13425,736489,10,45948049,63',Raphael Silva (Al-Faisaly) Yellow Card at 63',2025-09-22 05:12:40
+13425,736489,11,45948090,66',Abdullah Ibrahim Rashid Al Omar Al Dossari (Al-Faisaly) Substitution at 66',2025-09-22 05:12:40
+13425,736489,12,45948091,66',Ahmad Al Badah (Al-Faisaly) Substitution at 66',2025-09-22 05:12:40
+13425,736489,13,45948115,68',Sultan Mandash (Al Taawoun) Goal at 68',2025-09-22 05:12:40
+13425,736489,14,45948181,72',Mohammed Al Hurayji (Al Taawoun) Substitution at 72',2025-09-22 05:12:40
+13425,736489,15,45948182,72',Abdulelah Abdulelah (Al Taawoun) Substitution at 72',2025-09-22 05:12:40
+13425,736489,16,45948219,76',Mohammed Abbas Al Nakhli (Al-Faisaly) Substitution at 76',2025-09-22 05:12:40
+13425,736489,17,45948243,76',Abdullah Almogren (Al-Faisaly) Substitution at 76',2025-09-22 05:12:40
+13425,736489,18,45948448,89',Musa Barrow (Al Taawoun) Goal at 89',2025-09-22 05:12:40
+13425,736490,0,45965193,30',Cheikh Touré (Al Jabalain) Goal at 30',2025-09-25 05:17:44
+13425,736490,1,45965230,43',Matias Vargas (Al Fateh) Goal at 43',2025-09-25 05:17:44
+13425,736490,2,45965368,49',Zaydou Youssef (Al Fateh) Yellow Card at 49',2025-09-25 05:17:44
+13425,736490,3,45965460,59',Diogo Queirós (Al Jabalain) Yellow Card at 59',2025-09-25 05:17:44
+13425,736490,4,45965598,73',Abdulelah Al Shehri (Al Jabalain) Substitution at 73',2025-09-25 05:17:44
+13425,736490,5,45965676,78',Abdulaziz Al Fawaz (Al Fateh) Substitution at 78',2025-09-25 05:17:44
+13425,736490,6,45965679,78',Wesley Delgado (Al Fateh) Substitution at 78',2025-09-25 05:17:44
+13425,736490,7,45965706,82',Karl Toko Ekambi (Al Fateh) Goal at 82',2025-09-25 05:17:44
+13425,736490,8,45965721,83',Rayan Al Bloushi (Al Jabalain) Substitution at 83',2025-09-25 05:17:44
+13425,736490,9,45965722,83',Nawaf Al Mutairi (Al Jabalain) Substitution at 83',2025-09-25 05:17:44
+13425,736490,10,45965740,87',Faisal Al Dosari (Al Jabalain) Substitution at 87',2025-09-25 05:17:44
+13425,736490,11,45965741,87',Fawaz Al-Torais (Al Jabalain) Substitution at 87',2025-09-25 05:17:44
+13425,736490,12,45965762,89',Saad Al-Shurafa (Al Fateh) Substitution at 89',2025-09-25 05:17:44
+13425,736490,13,45965763,90',Fawaz Al-Torais (Al Jabalain) Yellow Card at 90',2025-09-25 05:17:44
+13425,736490,14,45965772,90'+2',Mourad Batna (Al Fateh) Yellow Card at 92',2025-09-25 05:17:44
+13425,736490,15,45965974,90'+7',Matias Vargas (Al Fateh) Red Card at 97',2025-09-25 05:17:44
+13425,736491,0,45966346,9',Julián Quiñones (Al Qadsiah) Goal at 9',2025-09-25 05:17:44
+13425,736491,1,45966421,16',Aboubacar Doumbia (Al Orobah) Goal at 16',2025-09-25 05:17:44
+13425,736491,2,45966584,28',Jehad Thakri (Al Qadsiah) Yellow Card at 28',2025-09-25 05:17:44
+13425,736491,3,45966662,35',Nacho (Al Qadsiah) Goal at 35',2025-09-25 05:17:44
+13425,736491,4,45966878,39',Rayan Al Hazmi (Al Orobah) Yellow Card at 39',2025-09-25 05:17:44
+13425,736491,5,45967007,45'+3',Ahmed Al-Juwaid (Al Orobah) Yellow Card at 48',2025-09-25 05:17:44
+13425,736491,6,45967473,45',Gastón Álvarez (Al Qadsiah) Substitution at 45',2025-09-25 05:17:44
+13425,736491,7,45967612,49',Aboubacar Doumbia (Al Orobah) Yellow Card at 49',2025-09-25 05:17:44
+13425,736491,8,45967918,62',Faraj (Al Orobah) Substitution at 62',2025-09-25 05:17:44
+13425,736491,9,45967946,62',Ali Al-Sultan (Al Orobah) Substitution at 62',2025-09-25 05:17:44
+13425,736491,10,45967947,62',Ayman Al Hujaili (Al Orobah) Substitution at 62',2025-09-25 05:17:44
+13425,736491,11,45967972,62',Christopher Baah (Al Qadsiah) Substitution at 62',2025-09-25 05:17:44
+13425,736491,12,45967973,62',Musab Al-Juwayr (Al Qadsiah) Substitution at 62',2025-09-25 05:17:44
+13425,736491,13,45968106,69',Musab Al-Juwayr (Al Qadsiah) Penalty - Scored at 69',2025-09-25 05:17:44
+13425,736491,14,45968187,70',Julian Weigl (Al Qadsiah) Yellow Card at 70',2025-09-25 05:17:44
+13425,736491,15,45968349,78',Omar Al Sharari (Al Orobah) Substitution at 78',2025-09-25 05:17:44
+13425,736491,16,45968422,81',Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',2025-09-25 05:17:44
+13425,736491,17,45968465,81',Ali Abdullah Hazzazi (Al Qadsiah) Substitution at 81',2025-09-25 05:17:44
+13425,736491,18,45968553,85',Sultan Al Jarbi (Al Orobah) Substitution at 85',2025-09-25 05:17:44
+13425,736492,0,45944536,5',Khaled Narey (Al Okhdood) Goal at 5',2025-09-22 05:12:40
+13425,736492,1,45945297,41',Mohanad Al Qaydhi (Al Okhdood) Yellow Card at 41',2025-09-22 05:12:40
+13425,736492,2,45945347,43',Ahmed Ghassan (Al Okhdood) Yellow Card at 43',2025-09-22 05:12:40
+13425,736492,3,45945404,45'+3',Musleh Al Shaikh (Al Raed) Yellow Card at 48',2025-09-22 05:12:40
+13425,736492,4,45945698,45',Mohammed Abu Abd (Al Okhdood) Substitution at 45',2025-09-22 05:12:40
+13425,736492,5,45945699,45',Ali Al Salem (Al Okhdood) Substitution at 45',2025-09-22 05:12:40
+13425,736492,6,45945700,45',Saleh Al-Harthi (Al Okhdood) Substitution at 45',2025-09-22 05:12:40
+13425,736492,7,45945944,59',Saad Alsaluli (Al Raed) Substitution at 59',2025-09-22 05:12:40
+13425,736492,8,45945973,59',Yahya Sunbul (Al Raed) Substitution at 59',2025-09-22 05:12:40
+13425,736492,9,45945979,61',Christian Bassogog (Al Okhdood) Yellow Card at 61',2025-09-22 05:12:40
+13425,736492,10,45946093,67',Abdullah Hazazi (Al Raed) Substitution at 67',2025-09-22 05:12:40
+13425,736492,11,45946250,76',Omar Ahmed Shami (Al Raed) Yellow Card at 76',2025-09-22 05:12:40
+13425,736492,12,45946271,78',Waleed Al Shanqiti (Al Raed) Substitution at 78',2025-09-22 05:12:40
+13425,736492,13,45946540,87',Gökhan Gül (Al Okhdood) Substitution at 87',2025-09-22 05:12:40
+13425,736492,14,45946582,90'+3',Saleh Al Abbas (Al Okhdood) Substitution at 93',2025-09-22 05:12:40
+13425,736492,15,45946592,90'+4',Rakan Najjar (Al Okhdood) Yellow Card at 94',2025-09-22 05:12:40
+13425,736493,0,45954469,1',Georgios Masouras (Al Khaleej) Goal at 1',2025-09-23 05:13:28
+13425,736493,1,45954488,45',Ali Salah Al Jassem (Al Tai) Substitution at 45',2025-09-23 05:13:28
+13425,736493,2,45954489,45',Ahmad Asiri (Al Khaleej) Substitution at 45',2025-09-23 05:13:28
+13425,736493,3,45954491,51',Rakan Shamlan (Al Tai) Yellow Card at 51',2025-09-23 05:13:28
+13425,736493,4,45954494,53',Murad Al Hawsawi (Al Khaleej) Goal at 53',2025-09-23 05:13:28
+13425,736493,5,45954496,57',Nawaf Al Qamiri (Al Tai) Own Goal at 57',2025-09-23 05:13:28
+13425,736493,6,45954497,58',Abdulrahman Al Harthi (Al Tai) Substitution at 58',2025-09-23 05:13:28
+13425,736493,7,45954498,58',Jonata Felipe (Al Tai) Substitution at 58',2025-09-23 05:13:28
+13425,736493,8,45954501,58',Hussain Al Shurafaa (Al Tai) Substitution at 58',2025-09-23 05:13:28
+13425,736493,9,45954502,64',Ahmad Asiri (Al Khaleej) Yellow Card at 64',2025-09-23 05:13:28
+13425,736493,10,45954505,65',Bandar Al Mutairi (Al Khaleej) Substitution at 65',2025-09-23 05:13:28
+13425,736493,11,45954515,65',Hussain Al Sultan (Al Khaleej) Substitution at 65',2025-09-23 05:13:28
+13425,736493,12,45954509,67',Paolo Fernandes (Al Khaleej) Goal at 67',2025-09-23 05:13:28
+13425,736493,13,45954516,70',Ali Abdoulraouf Alabdrabalnabi (Al Khaleej) Substitution at 70',2025-09-23 05:13:28
+13425,736493,14,45954517,70',Arif Al Haydar (Al Khaleej) Substitution at 70',2025-09-23 05:13:28
+13425,736493,15,45954521,74',Mohammed Al-Saiari (Al Tai) Substitution at 74',2025-09-23 05:13:28
+13425,736493,16,45954527,79',Paolo Fernandes (Al Khaleej) Goal at 79',2025-09-23 05:13:28
+13425,736493,17,45954531,85',Paolo Fernandes (Al Khaleej) Yellow Card at 85',2025-09-23 05:13:28
+13425,736493,18,45954533,85',Dino Halilovic (Al Tai) Yellow Card at 85',2025-09-23 05:13:28
+13425,736494,0,45957999,9',Saleh Al-Shehri (Al Ittihad) Penalty - Scored at 9',2025-09-24 05:13:55
+13425,736494,1,45958594,37',Jan-Carlo Simic (Al Ittihad) Yellow Card at 37',2025-09-24 05:13:55
+13425,736494,2,45958631,39',Adel Khodari (Al Wehda) Yellow Card at 39',2025-09-24 05:13:55
+13425,736494,3,45958689,42',Ahmed Al-Julaydan (Al Ittihad) Yellow Card at 42',2025-09-24 05:13:55
+13425,736494,4,45959488,57',Murad Khadari (Al Wehda) Substitution at 57',2025-09-24 05:13:55
+13425,736494,5,45959926,70',Salem Al-Maqadi (Al Wehda) Yellow Card at 70',2025-09-24 05:13:55
+13425,736494,6,45959927,70',Yaseen Khalid (Al Ittihad) Substitution at 70',2025-09-24 05:13:55
+13425,736494,7,45959989,70',Ahmed Sharahili (Al Ittihad) Substitution at 70',2025-09-24 05:13:55
+13425,736494,8,45959990,70',Hamed Alghamdi (Al Ittihad) Substitution at 70',2025-09-24 05:13:55
+13425,736494,9,45959991,70',Ahmed Al Ghamdi (Al Ittihad) Substitution at 70',2025-09-24 05:13:55
+13425,736494,10,45960234,78',Abdulaziz Majrashi (Al Wehda) Substitution at 78',2025-09-24 05:13:55
+13425,736494,11,45960518,87',Fahad Al Johani (Al Wehda) Substitution at 87',2025-09-24 05:13:55
+13425,736494,12,45960666,90'+2',Abdulmohsen Fallatah (Al Wehda) Yellow Card at 92',2025-09-24 05:13:55
+13425,736495,0,45954827,45'+2',Abdullah Al-Hamdan (Al Hilal) Goal at 47',2025-09-23 05:13:28
+13425,736495,1,45955003,45',Nawaf Bo Amer (Al Adalah) Substitution at 45',2025-09-23 05:13:28
+13425,736495,2,45955043,51',Musa Alamoudi (Al Adalah) Substitution at 51',2025-09-23 05:13:28
+13425,736495,3,45955203,76',Lucas Cunha (Al Adalah) Yellow Card at 76',2025-10-08 05:26:07
+13425,736495,4,45955222,78',Salem Al-Dawsari (Al Hilal) Substitution at 78',2025-09-23 05:13:28
+13425,736495,5,45955223,78',Theo Hernández (Al Hilal) Substitution at 78',2025-09-23 05:13:28
+13425,736495,6,45955228,78',Mohammed Al-Qahtani (Al Hilal) Substitution at 78',2025-09-23 05:13:28
+13425,736495,7,45955262,83',Mohammed Al Marri (Al Adalah) Substitution at 83',2025-09-23 05:13:28
+13425,736495,8,45955263,84',Elyas Al Baladi (Al Adalah) Substitution at 84',2025-09-23 05:13:28
+13425,736495,9,45955301,90'+1',Metaab Al Khadi (Al Adalah) Substitution at 91',2025-09-23 05:13:28
+13425,736495,10,45955302,90'+1',Mohammed Al Zaid (Al Hilal) Substitution at 91',2025-09-23 05:13:28
+13425,736495,11,45955309,90'+3',Abdullah Radif (Al Hilal) Substitution at 93',2025-09-23 05:13:28
+13425,736496,0,45956921,5',Jamal Harkass (Damac) Yellow Card at 5',2025-09-24 05:13:55
+13425,736496,1,45956951,22',Dhari Al Anazi (Damac) Yellow Card at 22',2025-09-24 05:13:55
+13425,736496,2,45956952,23',Khaled Al Shammari (Al Najma) Yellow Card at 23',2025-09-24 05:13:55
+13425,736496,3,45957136,56',Abdulelah Al Shammry (Al Najma) Yellow Card at 56',2025-09-24 05:13:55
+13425,736496,4,45957151,58',Lázaro  (Al Najma) Goal at 58',2025-09-24 05:13:55
+13425,736496,5,45957156,60',Bilal Boutobba (Al Najma) Substitution at 60',2025-09-24 05:13:55
+13425,736496,6,45957163,61',Abdullah Al Qahtani (Damac) Substitution at 61',2025-09-24 05:13:55
+13425,736496,7,45957168,61',Sanousi Al Hawsawi (Damac) Substitution at 61',2025-09-24 05:13:55
+13425,736496,8,45957197,65',Mohammed Al-Konaideri (Al Najma) Yellow Card at 65',2025-09-24 05:13:55
+13425,736496,9,45957418,73',Abdulaziz Al Harabi (Al Najma) Substitution at 73',2025-09-24 05:13:55
+13425,736496,10,45957465,79',Hazzaa Al Ghamdi (Damac) Goal at 79',2025-09-24 05:13:55
+13425,736496,11,45957472,81',David Kaiki Flores Da Silva (Damac) Yellow Card at 81',2025-09-24 05:13:55
+13425,736496,12,45957491,87',Hisham Al Dubais (Al Najma) Substitution at 87',2025-09-24 05:13:55
+13425,736496,13,45957500,90',Yahya Naji (Damac) Substitution at 90',2025-09-24 05:13:55
+13425,736496,14,45957507,90',Khaled Al Samiri (Damac) Substitution at 90',2025-09-24 05:13:55
+13425,736496,15,45957508,90'+1',Hisham Al Dubais (Al Najma) Yellow Card at 91',2025-09-24 05:13:55
+13425,736496,16,45957509,90'+3',Abdulaziz Al Harabi (Al Najma) Goal at 93',2025-09-24 05:13:55
+13425,736497,0,45956914,5',Omar Al-Somah (Al Hazem) Goal at 5',2025-09-24 05:13:55
+13425,736497,1,45956953,26',Alexandre Lacazette (Neom SC) Goal at 26',2025-09-24 05:13:55
+13425,736497,2,45957053,45',Saïmon Bouabré (Neom SC) Substitution at 45',2025-09-24 05:13:55
+13425,736497,3,45957062,45',Abdullah Al-Shanqiti (Al Hazem) Substitution at 45',2025-09-24 05:13:55
+13425,736497,4,45957079,47',Abdulaziz Al-Harbi (Al Hazem) Yellow Card at 47',2025-09-24 05:13:55
+13425,736497,5,45957137,59',Mohammed Al-Burayk (Neom SC) Yellow Card at 59',2025-09-24 05:13:55
+13425,736497,6,45957157,62',Omar Al-Somah (Al Hazem) Goal at 62',2025-09-24 05:13:55
+13425,736497,7,45957159,63',Abdulmalik Al Oyayari (Neom SC) Substitution at 63',2025-09-24 05:13:55
+13425,736497,8,45957162,63',Amadou Koné (Neom SC) Substitution at 63',2025-09-24 05:13:55
+13425,736497,9,45957416,75',Ahmed Abdu (Neom SC) Substitution at 75',2025-09-24 05:13:55
+13425,736497,10,45957423,77',Amir Sayoud (Al Hazem) Substitution at 77',2025-09-24 05:13:55
+13425,736497,11,45957426,77',Elias Mokwana (Al Hazem) Substitution at 77',2025-09-24 05:13:55
+13425,736497,12,45957470,82',Omar Al-Somah (Al Hazem) Yellow Card at 82',2025-09-24 05:13:55
+13425,736497,13,45957482,86',Khalid Al Subaie (Al Hazem) Substitution at 86',2025-09-24 05:13:55
+13425,736497,14,45957495,90'+1',Hassan Hashim Al Ali (Neom SC) Substitution at 91',2025-09-24 05:13:55
+13425,736498,0,45965112,20',Marzouq Tambakti (Al Riyadh) Yellow Card at 20',2025-09-25 05:17:44
+13425,736498,1,45965121,25',Yahya Alshehri (Al Riyadh) Goal at 25',2025-09-25 05:17:44
+13425,736498,2,45965154,38',Faycal Fajr (Al Jubail) Penalty - Saved at 38',2025-09-26 05:20:00
+13425,736498,3,45965189,45',Nawaf Hazazi (Al Jubail) Substitution at 45',2025-09-25 05:17:44
+13425,736498,4,45965190,45',Khalil Al-Absi (Al Riyadh) Substitution at 45',2025-09-25 05:17:44
+13425,736498,5,45965191,45',Ismaila Soro (Al Riyadh) Substitution at 45',2025-09-25 05:17:44
+13425,736498,6,45965212,51',Ibrahim Bayesh (Al Riyadh) Yellow Card at 51',2025-09-25 05:17:44
+13425,736498,7,45965239,63',Khaled Ali (Al Riyadh) Substitution at 63',2025-09-25 05:17:44
+13425,736498,8,45965250,63',Sergio González (Al Riyadh) Substitution at 63',2025-09-25 05:17:44
+13425,736498,9,45965251,64',Riyadh Al Asmari (Al Jubail) Substitution at 64',2025-09-25 05:17:44
+13425,736498,10,45965252,64',Nawaf Al-Rashwodi (Al Jubail) Substitution at 64',2025-09-25 05:17:44
+13425,736498,11,45965256,65',Mohammed Al Mahmudi (Al Jubail) Substitution at 65',2025-09-25 05:17:44
+13425,736498,12,45965290,75',Teddy Okou (Al Riyadh) Substitution at 75',2025-09-25 05:17:44
+13425,736498,13,45965312,78',Naif Al Khaldi (Al Jubail) Substitution at 78',2025-09-25 05:17:44
+13425,736498,14,45965365,83',Hussein Al Nakhli (Al Jubail) Yellow Card at 83',2025-09-25 05:17:44
+13425,736499,0,45956997,45',Fashion Sakala (Al Fayha) Yellow Card at 45',2025-09-24 05:13:55
+13425,736499,1,45957056,45',Maher Al Mutairi (Al Zulfi) Substitution at 45',2025-09-24 05:13:55
+13425,736499,2,45957070,45',Chris Smalling (Al Fayha) Substitution at 45',2025-09-24 05:13:55
+13425,736499,3,45957152,62',Ahmed Bamasud (Al Fayha) Substitution at 62',2025-09-24 05:13:55
+13425,736499,4,45957153,62',Jason  (Al Fayha) Substitution at 62',2025-09-24 05:13:55
+13425,736499,5,45957375,70',Abdulrahman Al Faleh (Al Zulfi) Substitution at 70',2025-09-24 05:13:55
+13425,736499,6,45957376,70',Thaar Al-Otaibi (Al Zulfi) Substitution at 70',2025-09-24 05:13:55
+13425,736499,7,45957431,78',Ammar Al Khaibari (Al Fayha) Substitution at 78',2025-09-24 05:13:55
+13425,736499,8,45957432,79',Malek Al Abdulmonam (Al Fayha) Substitution at 79',2025-09-24 05:13:55
+13425,736499,9,45957490,89',Ahmed Al-Anazi (Al Zulfi) Yellow Card at 89',2025-09-24 05:13:55
+13425,736499,10,45957601,97',Maher Al Mutairi (Al Zulfi) Yellow Card at 97',2025-09-24 05:13:55
+13425,736499,11,45957615,100',Ali Al Hussain (Al Fayha) Substitution at 100',2025-09-24 05:13:55
+13425,736499,12,45957624,103',Nawaf Asiri (Al Zulfi) Substitution at 103',2025-09-24 05:13:55
+13425,736499,13,45957634,103',Eric Omondi (Al Zulfi) Substitution at 103',2025-09-24 05:13:55
+13425,736499,14,45957662,110',Ali Al Hussain (Al Fayha) Yellow Card at 110',2025-09-24 05:13:55
+13425,736499,15,45957668,114',Saad Alsaleh (Al Zulfi) Yellow Card at 114',2025-09-24 05:13:55
+13425,736499,16,45957690,118',Jason  (Al Fayha) Yellow Card at 118',2025-09-24 05:13:55
+13425,736499,17,45957706,119',Chris Smalling (Al Fayha) Yellow Card at 119',2025-09-24 05:13:55
+13424,759165,0,46256563,24',Mateo Borrell (Al Okhdood) Yellow Card at 24',2025-10-29 05:18:30
+13424,759165,1,46256572,31',Mohammed Al Jahif (Al Okhdood) Substitution at 31',2025-10-29 05:18:30
+13424,759165,2,46256574,36',Abdullah Al-Hamdan (Al Hilal) Yellow Card at 36',2025-10-29 05:18:30
+13424,759165,3,46256577,45',Mohanad Al Qaydhi (Al Okhdood) Yellow Card at 45',2025-10-29 05:18:30
+13424,759165,4,46256579,45'+3',Marcos Leonardo (Al Hilal) Penalty - Scored at 48',2025-10-30 05:17:57
+13424,759165,5,46256595,45',Gökhan Gül (Al Okhdood) Substitution at 45',2025-10-29 05:18:30
+13424,759165,6,46256596,45',Koray Günter (Al Okhdood) Substitution at 45',2025-10-29 05:18:30
+13424,759165,7,46256599,45',Juan Pedroza (Al Okhdood) Substitution at 45',2025-10-29 05:18:30
+13424,759165,8,46256609,65',Theo Hernández (Al Hilal) Substitution at 65',2025-10-29 05:18:30
+13424,759165,9,46256610,66',Darwin Núñez (Al Hilal) Substitution at 66',2025-10-29 05:18:30
+13424,759165,10,46256611,66',Rúben Neves (Al Hilal) Substitution at 66',2025-10-29 05:18:30
+13424,759165,11,46256940,75',Ali Lajami (Al Hilal) Substitution at 75',2025-10-29 05:18:30
+13424,759165,12,46256943,78',Khaled Narey (Al Okhdood) Substitution at 78',2025-10-29 05:18:30
+13424,759165,13,46256949,87',Abdulkarim Darisi (Al Hilal) Substitution at 87',2025-10-29 05:18:30
+13424,759166,0,46256553,9',Nawaf Al-Habshi (Al Hazem) Goal at 9',2025-10-29 05:18:30
+13424,759166,1,46256556,22',Mateo Retegui (Al Qadsiah) Goal at 22',2025-10-29 05:18:30
+13424,759166,2,46256557,41',Yasser Al-Shahrani (Al Qadsiah) Yellow Card at 41',2025-10-29 05:18:30
+13424,759166,3,46256565,45',Musab Al-Juwayr (Al Qadsiah) Substitution at 45',2025-10-29 05:18:30
+13424,759166,4,46256566,45',Christopher Baah (Al Qadsiah) Substitution at 45',2025-10-29 05:18:30
+13424,759166,5,46256567,45',Mohammed Aboulshamat (Al Qadsiah) Substitution at 45',2025-10-29 05:18:30
+13424,759166,6,46256573,49',Sultan Tanker (Al Hazem) Yellow Card at 49',2025-10-29 05:18:30
+13424,759166,7,46256576,54',Julián Quiñones (Al Qadsiah) Goal at 54',2025-10-29 05:18:30
+13424,759166,8,46256578,63',Julián Quiñones (Al Qadsiah) Penalty - Scored at 63',2025-10-29 05:18:30
+13424,759166,9,46256581,70',Ahmed Al-Nakhli (Al Hazem) Substitution at 70',2025-10-29 05:18:30
+13424,759166,10,46256583,70',Amir Sayoud (Al Hazem) Substitution at 70',2025-10-29 05:18:30
+13424,759166,11,46256584,70',Ali Abdullah Hazzazi (Al Qadsiah) Substitution at 70',2025-10-29 05:18:30
+13424,759166,12,46256585,70',Aboubacar Bah (Al Hazem) Substitution at 70',2025-10-29 05:18:30
+13424,759166,13,46256590,81',Abdullah Al-Salem (Al Qadsiah) Substitution at 81',2025-10-29 05:18:30
+13424,759166,14,46256592,81',Fábio Martins (Al Hazem) Substitution at 81',2025-10-29 05:18:30
+13424,759166,15,46256593,81',Abdulhadi Al-Harajin (Al Hazem) Substitution at 81',2025-10-29 05:18:30
+13424,759166,16,46256600,86',Mateo Retegui (Al Qadsiah) Yellow Card at 86',2025-10-29 05:18:30
+13424,759166,17,46256601,87',Nacho (Al Qadsiah) Yellow Card at 87',2025-10-30 05:17:57
+13424,759167,0,46257867,10',Fabinho (Al Ittihad) Yellow Card at 10',2025-10-30 05:17:57
+13424,759167,1,46257917,14',Abdullah Al-Khaibari (Al Nassr) Yellow Card at 14',2025-10-29 05:18:30
+13424,759167,2,46257938,15',Karim Benzema (Al Ittihad) Goal at 15',2025-10-29 05:18:30
+13424,759167,3,46258290,30',Ângelo Gabriel (Al Nassr) Goal at 30',2025-10-30 05:17:57
+13424,759167,4,46258430,38',Houssem Aouar (Al Ittihad) Yellow Card at 38',2025-10-29 05:18:30
+13424,759167,5,46258431,38',Mohamed Simakan (Al Nassr) Yellow Card at 38',2025-10-29 05:18:30
+13424,759167,6,46258571,45'+2',Houssem Aouar (Al Ittihad) Goal at 47',2025-10-29 05:18:30
+13424,759167,7,46259076,49',Abdulelah Al-Amri (Al Nassr) Substitution at 49',2025-10-29 05:18:30
+13424,759167,8,46259104,49',Ahmed Al-Julaydan (Al Ittihad) Red Card at 49',2025-10-29 05:18:30
+13424,759167,9,46259596,67',Sultan Al-Ghannam (Al Nassr) Substitution at 67',2025-10-29 05:18:30
+13424,759167,10,46259597,67',Wesley Ribeiro (Al Nassr) Substitution at 67',2025-10-29 05:18:30
+13424,759167,11,46259618,67',Marcelo Brozovic (Al Nassr) Substitution at 67',2025-10-29 05:18:30
+13424,759167,12,46259820,76',Steven Bergwijn (Al Ittihad) Substitution at 76',2025-10-29 05:18:30
+13424,759167,13,46259931,82',Muhannad Al-Shanqiti (Al Ittihad) Substitution at 82',2025-10-29 05:18:30
+13424,759167,14,46259989,85',Ali Al-Hassan (Al Nassr) Substitution at 85',2025-10-29 05:18:30
+13424,759167,15,46260145,88',Hamed Alghamdi (Al Ittihad) Substitution at 88',2025-10-29 05:18:30
+13424,759168,0,46253134,32',John Buckley (Al Kholood) Yellow Card at 32',2025-10-28 05:16:01
+13424,759168,1,46253141,45',Fahad Al Abdulrazzaq (Al Najma) Yellow Card at 45',2025-10-28 05:16:01
+13424,759168,2,46253265,45',Bilal Boutobba (Al Najma) Substitution at 45',2025-10-28 05:16:01
+13424,759168,3,46253266,45',Abdullah Al Hawsawi (Al Najma) Substitution at 45',2025-10-28 05:16:01
+13424,759168,4,46253667,67',Abdulaziz Al-Aliwa (Al Kholood) Substitution at 67',2025-10-28 05:16:01
+13424,759168,5,46253669,75',Nasser Al Haleel (Al Najma) Yellow Card at 75',2025-10-28 05:16:01
+13424,759168,6,46253670,76',Muhammad Sawan (Al Kholood) Substitution at 76',2025-10-28 05:16:01
+13424,759168,7,46253677,80',Ali Jasim (Al Najma) Substitution at 80',2025-10-28 05:16:01
+13424,759168,8,46253678,82',Deybi Flores (Al Najma) Yellow Card at 82',2025-10-28 05:16:01
+13424,759168,9,46253680,82',Romell Quioto (Al Najma) Yellow Card at 82',2025-10-28 05:16:01
+13424,759168,10,46253829,90',Marin Prekodravac (Al Najma) Substitution at 90',2025-10-28 05:16:01
+13424,759168,11,46253993,99',Ammar Al-Najjar (Al Najma) Substitution at 99',2025-10-28 05:16:01
+13424,759168,12,46253994,99',Ramiro Enrique (Al Kholood) Goal at 99',2025-10-28 05:16:01
+13424,759168,13,46253999,105',Sultan Al Shehri (Al Kholood) Substitution at 105',2025-10-28 05:16:01
+13424,759168,14,46254197,109',Abdulrahman Al Safari (Al Kholood) Yellow Card at 109',2025-10-28 05:16:01
+13424,759168,15,46254199,112',Adi Adi (Al Kholood) Substitution at 112',2025-10-28 05:16:01
+13424,759168,16,46254200,112',Majed Khalifah (Al Kholood) Substitution at 112',2025-10-28 05:16:01
+13424,759168,17,46254201,115',Juan Pablo Cozzani (Al Kholood) Yellow Card at 115',2025-10-28 05:16:01
+13424,759169,0,46253126,8',Joshua King (Al Khaleej) Goal at 8',2025-10-28 05:16:01
+13424,759169,1,46253128,15',Al Mufarrij (Al Taawoun) Yellow Card at 15',2025-10-28 05:16:01
+13424,759169,2,46253129,21',Abdullah Al Hafith (Al Khaleej) Yellow Card at 21',2025-10-28 05:16:01
+13424,759169,3,46253130,24',Roger Martínez (Al Taawoun) Goal at 24',2025-10-28 05:16:01
+13424,759169,4,46253276,45'+2',Andrei Girotto (Al Taawoun) Yellow Card at 47',2025-10-28 05:16:01
+13424,759169,5,46253268,66',Saeed Al Hamsal (Al Khaleej) Substitution at 66',2025-10-28 05:16:01
+13424,759169,6,46253267,67',Dimitrios Kourbelis (Al Khaleej) Substitution at 67',2025-10-28 05:16:01
+13424,759169,7,46253269,67',Saleh Al-Jamaan (Al Khaleej) Substitution at 67',2025-10-28 05:16:01
+13424,759169,8,46253272,74',Mohammed Al Kuwaykibi (Al Taawoun) Substitution at 74',2025-10-28 05:16:01
+13424,759169,9,46253277,82',Murad Al Hawsawi (Al Khaleej) Substitution at 82',2025-10-28 05:16:01
+13424,759169,10,46253671,90',Abdulfattah Adam (Al Taawoun) Substitution at 90',2025-10-28 05:16:01
+13424,759169,11,46253672,90',Abdulelah Abdulelah (Al Taawoun) Substitution at 90',2025-10-28 05:16:01
+13424,759169,12,46253673,90',Arif Al Haydar (Al Khaleej) Substitution at 90',2025-10-28 05:16:01
+13424,759169,13,46253830,112',Bart Schenkeveld (Al Khaleej) Substitution at 112',2025-10-28 05:16:01
+13424,759169,14,46253831,115',Ahmed Saleh Bahusayn (Al Taawoun) Substitution at 115',2025-10-28 05:16:01
+13424,759169,15,46253990,119',Cristhoper Zambrano (Al Taawoun) Substitution at 119',2025-10-28 05:16:01
+13424,759169,16,46254195,120',Anthony Moris (Al Khaleej) Yellow Card at 120',2025-10-28 05:16:01
+13424,759170,0,46254232,22',Turaki Al Jalfan (Al Batin) Own Goal at 22',2025-10-28 05:16:01
+13424,759170,1,46254734,50',Feras Al-Brikan (Al Ahli) Goal at 50',2025-10-28 05:16:01
+13424,759170,2,46254752,59',Mohamed Falah Al-Sahli (Al Batin) Substitution at 59',2025-10-28 05:16:01
+13424,759170,3,46254753,59',Salem Al Saleem (Al Batin) Substitution at 59',2025-10-28 05:16:01
+13424,759170,4,46254759,66',Ivan Toney (Al Ahli) Goal at 66',2025-10-28 05:16:01
+13424,759170,5,46254778,71',Ali Majrashi (Al Ahli) Substitution at 71',2025-10-28 05:16:01
+13424,759170,6,46254779,71',Eid Al Muwallad (Al Ahli) Substitution at 71',2025-10-28 05:16:01
+13424,759170,7,46254780,72',Fahad Alrashidi (Al Ahli) Substitution at 72',2025-10-28 05:16:01
+13424,759170,8,46254781,72',Mohammed Sulaiman (Al Ahli) Substitution at 72',2025-10-28 05:16:01
+13424,759170,9,46254783,73',Abdulkarim Al Qahtani (Al Batin) Substitution at 73',2025-10-28 05:16:01
+13424,759170,10,46254922,78',Youssouf M'Changama (Al Batin) Substitution at 78',2025-10-28 05:16:01
+13424,759170,11,46254925,79',Khaled Al-Lazam (Al Batin) Substitution at 79',2025-10-28 05:16:01
+13424,759170,12,46254935,82',Abdulelah Al Khaibari (Al Ahli) Substitution at 82',2025-10-28 05:16:01
+13424,759170,13,46254955,89',Mohamed Falah Al-Sahli (Al Batin) Yellow Card at 89',2025-10-28 05:16:01
+13424,759170,14,46254963,90'+3',Eid Al Muwallad (Al Ahli) Yellow Card at 93',2025-10-28 05:16:01
+13424,759171,0,46256555,7',Eric Omondi (Al Zulfi) Yellow Card at 7',2025-10-29 05:18:30
+13424,759171,1,46256558,34',Diego Miranda (Al Zulfi) Yellow Card at 34',2025-10-29 05:18:30
+13424,759171,2,46256559,35',Yannick Carrasco (Al Shabab) Penalty - Scored at 35',2025-10-29 05:18:30
+13424,759171,3,46256560,42',Sultan (Al Shabab) Yellow Card at 42',2025-10-29 05:18:30
+13424,759171,4,46256586,59',Thaar Al-Otaibi (Al Zulfi) Substitution at 59',2025-10-29 05:18:30
+13424,759171,5,46256587,59',Mutair Al Zahrani (Al Zulfi) Substitution at 59',2025-10-29 05:18:30
+13424,759171,6,46256588,63',Hussain Al-Sabiyani (Al Shabab) Substitution at 63',2025-10-29 05:18:30
+13424,759171,7,46256589,65',Hussain Al-Sabiyani (Al Shabab) Yellow Card at 65',2025-10-29 05:18:30
+13424,759171,8,46256598,70',Maher Al Mutairi (Al Zulfi) Substitution at 70',2025-10-29 05:18:30
+13424,759171,9,46256602,75',Carlos (Al Shabab) Substitution at 75',2025-10-30 05:17:57
+13424,759171,10,46256603,75',Faisal Al Sibyani (Al Shabab) Substitution at 75',2025-10-29 05:18:30
+13424,759171,11,46256604,82',Nawaf Al Ghulaimish (Al Shabab) Substitution at 82',2025-10-29 05:18:30
+13424,759171,12,46256605,85',Marcelo Grohe (Al Shabab) Yellow Card at 85',2025-10-29 05:18:30
+13424,759171,13,46256607,85',Nawaf Asiri (Al Zulfi) Substitution at 85',2025-10-29 05:18:30
+13424,759171,14,46256830,90'+6',Abdul Rahman Al Hajri (Al Zulfi) Red Card at 96',2025-10-29 05:18:30
+13424,759171,15,46256832,90'+7',Mohammed Essa Harbush (Al Shabab) Red Card at 97',2025-10-29 05:18:30
+13424,759171,16,46256834,90'+9',Carlos (Al Shabab) Yellow Card at 99',2025-10-30 05:17:57
+13424,759171,17,46256942,90'+11',Koshaim Al Karani (Al Zulfi) Yellow Card at 101',2025-10-29 05:18:30
+13424,759172,0,46253136,45',Wesley Delgado (Al Fateh) Substitution at 45',2025-10-28 05:16:01
+13424,759172,1,46253137,47',Teddy Okou (Al Riyadh) Yellow Card at 47',2025-10-28 05:16:01
+13424,759172,2,46253139,50',Sofiane Bendebka (Al Fateh) Yellow Card at 50',2025-10-28 05:16:01
+13424,759172,3,46253140,52',Sergio González (Al Riyadh) Yellow Card at 52',2025-10-28 05:16:01
+13424,759172,4,46253259,58',Mourad Batna (Al Fateh) Substitution at 58',2025-10-28 05:16:01
+13424,759172,5,46253260,58',Karl Toko Ekambi (Al Fateh) Substitution at 58',2025-10-28 05:16:01
+13424,759172,6,46253261,63',Ismaila Soro (Al Riyadh) Substitution at 63',2025-10-28 05:16:01
+13424,759172,7,46253262,63',Muhammad Sahlouli (Al Riyadh) Substitution at 63',2025-10-28 05:16:01
+13424,759172,8,46253263,63',Mourad Batna (Al Fateh) Goal at 63',2025-10-28 05:16:01
+13424,759172,9,46253264,66',Yoann Barbet (Al Riyadh) Yellow Card at 66',2025-10-28 05:16:01
+13424,759172,10,46253270,71',Mamadou Sylla (Al Riyadh) Yellow Card at 71',2025-10-28 05:16:01
+13424,759172,11,46253271,74',Fahad Zubaidi (Al Fateh) Goal at 74',2025-10-28 05:16:01
+13424,759172,12,46253273,78',Khaled Ali (Al Riyadh) Substitution at 78',2025-10-28 05:16:01
+13424,759172,13,46253274,78',Farhah Al Shamrani (Al Riyadh) Substitution at 78',2025-10-28 05:16:01
+13424,759172,14,46253275,80',Saad Al-Shurafa (Al Fateh) Substitution at 80',2025-10-28 05:16:01
+13424,759172,15,46253446,87',Abdurahman Al Shammeri (Al Riyadh) Substitution at 87',2025-10-28 05:16:01
+13424,759172,16,46253447,88',Mohammed Al-Sahihi (Al Fateh) Substitution at 88',2025-10-28 05:16:01
+13424,759172,17,46253668,90'+8',Mohammed Al-Sahihi (Al Fateh) Yellow Card at 98',2025-10-28 05:16:01

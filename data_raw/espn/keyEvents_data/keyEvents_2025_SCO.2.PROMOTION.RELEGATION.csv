@@ -1,0 +1,38 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13330,735619,1,45210199,76,1,840,14',0,0,Sam Graham (Airdrieonians) Substitution at 14',Sam Graham Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,272186,2025-05-07 04:56:00
+13330,735619,1,45210199,76,1,840,14',0,0,Sam Graham (Airdrieonians) Substitution at 14',Sam Graham Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,323780,2025-05-07 04:56:00
+13330,735619,2,45210221,94,1,1200,20',0,0,Gregor Buchanan (Stenhousemuir) Yellow Card at 20',Gregor Buchanan Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,176462,2025-05-07 04:56:00
+13330,735619,3,45210222,70,1,1260,21',1,0,Lewis Mcgrattan (Airdrieonians) Goal at 21',Lewis Mcgrattan Goal,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,282316,2025-05-07 04:56:00
+13330,735619,4,45210238,70,1,1740,29',1,0,Lewis Mcgrattan (Airdrieonians) Goal at 29',Lewis Mcgrattan Goal,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,282316,2025-05-07 04:56:00
+13330,735619,5,45210317,70,2,3060,51',1,0,Chris Mochrie (Airdrieonians) Goal at 51',Chris Mochrie Goal,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,287931,2025-05-07 04:56:00
+13330,735619,6,45210318,94,2,3120,52',0,0,Ben Wilson (Airdrieonians) Yellow Card at 52',Ben Wilson Yellow Card,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,169619,2025-05-07 04:56:00
+13330,735619,8,45210323,76,2,3780,63',0,0,Scott Tomlinson (Stenhousemuir) Substitution at 63',Scott Tomlinson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,355996,2025-05-07 04:56:00
+13330,735619,7,45210322,76,2,3780,63',0,0,Corey O' Donnell (Stenhousemuir) Substitution at 63',Corey O' Donnell Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,322900,2025-05-07 04:56:00
+13330,735619,7,45210322,76,2,3780,63',0,0,Corey O' Donnell (Stenhousemuir) Substitution at 63',Corey O' Donnell Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,143467,2025-05-07 04:56:00
+13330,735619,8,45210323,76,2,3780,63',0,0,Scott Tomlinson (Stenhousemuir) Substitution at 63',Scott Tomlinson Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,346188,2025-05-07 04:56:00
+13330,735619,10,45210329,76,2,4020,67',0,0,Gavin Gallagher (Airdrieonians) Substitution at 67',Gavin Gallagher Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,324841,2025-05-07 04:56:00
+13330,735619,9,45210326,76,2,4020,67',0,0,Rhys Armstrong (Airdrieonians) Substitution at 67',Rhys Armstrong Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,298262,2025-05-07 04:56:00
+13330,735619,9,45210326,76,2,4020,67',0,0,Rhys Armstrong (Airdrieonians) Substitution at 67',Rhys Armstrong Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,355491,2025-05-07 04:56:00
+13330,735619,10,45210329,76,2,4020,67',0,0,Gavin Gallagher (Airdrieonians) Substitution at 67',Gavin Gallagher Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,282316,2025-05-07 04:56:00
+13330,735619,12,45210334,76,2,4260,71',0,0,Lewis Mcgregor (Airdrieonians) Substitution at 71',Lewis Mcgregor Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,322779,2025-05-07 04:56:00
+13330,735619,11,45210333,76,2,4260,71',0,0,Ricco Diack (Airdrieonians) Substitution at 71',Ricco Diack Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,338524,2025-05-07 04:56:00
+13330,735619,12,45210334,76,2,4260,71',0,0,Lewis Mcgregor (Airdrieonians) Substitution at 71',Lewis Mcgregor Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,169619,2025-05-07 04:56:00
+13330,735619,11,45210333,76,2,4260,71',0,0,Ricco Diack (Airdrieonians) Substitution at 71',Ricco Diack Substitution,2500,0.0,0.0,0.0,0.0,0.0,0.0,2,287931,2025-05-07 04:56:00
+13330,735619,13,45210341,94,2,4380,73',0,0,Matthew Aitken (Stenhousemuir) Yellow Card at 73',Matthew Aitken Yellow Card,405,0.0,0.0,0.0,0.0,0.0,0.0,1,212362,2025-05-07 04:56:00
+13330,735619,14,45210347,76,2,4560,76',0,0,Matt Yates (Stenhousemuir) Substitution at 76',Matt Yates Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,1,227236,2025-05-07 04:56:00
+13330,735619,14,45210347,76,2,4560,76',0,0,Matt Yates (Stenhousemuir) Substitution at 76',Matt Yates Substitution,405,0.0,0.0,0.0,0.0,0.0,0.0,2,112543,2025-05-07 04:56:00
+13330,735619,15,45210378,94,2,5280,88',0,0,Lewis Strapp (Airdrieonians) Yellow Card at 88',Lewis Strapp Yellow Card,2500,0.0,0.0,0.0,0.0,0.0,0.0,1,231961,2025-05-07 04:56:00
+13330,735619,16,45210379,98,2,5340,89',1,0,Matthew Aitken (Stenhousemuir) Penalty - Scored at 89',Matthew Aitken Penalty - Scored,405,0.0,0.0,0.0,0.0,0.0,0.0,1,212362,2025-05-07 04:56:00
+13330,735647,1,45210272,76,1,2580,43',0,0,Declan Glass (Cove Rangers) Substitution at 43',Declan Glass Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,260284,2025-05-07 04:56:00
+13330,735647,1,45210272,76,1,2580,43',0,0,Declan Glass (Cove Rangers) Substitution at 43',Declan Glass Substitution,2613,0.0,0.0,0.0,0.0,0.0,0.0,2,139657,2025-05-07 04:56:00
+13330,735647,2,45210316,94,2,2820,47',0,0,Oscar Macintyre (Queen of the South) Yellow Card at 47',Oscar Macintyre Yellow Card,406,0.0,0.0,0.0,0.0,0.0,0.0,1,324795,2025-05-07 04:56:00
+13330,735647,3,45210320,94,2,3420,57',0,0,Findlay Marshall (Cove Rangers) Yellow Card at 57',Findlay Marshall Yellow Card,2613,0.0,0.0,0.0,0.0,0.0,0.0,1,324755,2025-05-07 04:56:00
+13330,735647,4,45210330,76,2,3960,66',0,0,Fraser Bryden (Queen of the South) Substitution at 66',Fraser Bryden Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,333424,2025-05-07 04:56:00
+13330,735647,5,45210332,76,2,3960,66',0,0,Taylor Charters (Queen of the South) Substitution at 66',Taylor Charters Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,293873,2025-05-07 04:56:00
+13330,735647,5,45210332,76,2,3960,66',0,0,Taylor Charters (Queen of the South) Substitution at 66',Taylor Charters Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,271185,2025-05-07 04:56:00
+13330,735647,4,45210330,76,2,3960,66',0,0,Fraser Bryden (Queen of the South) Substitution at 66',Fraser Bryden Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,186044,2025-05-07 04:56:00
+13330,735647,4,45210330,76,2,3960,66',0,0,Fraser Bryden (Queen of the South) Substitution at 66',Fraser Bryden Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,231642,2025-05-07 04:56:00
+13330,735647,6,45210364,76,2,4740,79',0,0,Benjamin Luissint (Queen of the South) Substitution at 79',Benjamin Luissint Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,292911,2025-05-07 04:56:00
+13330,735647,6,45210364,76,2,4740,79',0,0,Benjamin Luissint (Queen of the South) Substitution at 79',Benjamin Luissint Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,324214,2025-05-07 04:56:00
+13330,735647,7,45210380,76,2,5160,86',0,0,Lewis O'Donnell (Queen of the South) Substitution at 86',Lewis O'Donnell Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,1,332860,2025-05-07 04:56:00
+13330,735647,7,45210380,76,2,5160,86',0,0,Lewis O'Donnell (Queen of the South) Substitution at 86',Lewis O'Donnell Substitution,406,0.0,0.0,0.0,0.0,0.0,0.0,2,261409,2025-05-07 04:56:00

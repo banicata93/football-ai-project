@@ -1,0 +1,10 @@
+{
+  "league": "spanish_laliga_2",
+  "league_name": "Spanish LALIGA 2",
+  "league_id": 3921,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:33",
+  "total_matches": 930,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

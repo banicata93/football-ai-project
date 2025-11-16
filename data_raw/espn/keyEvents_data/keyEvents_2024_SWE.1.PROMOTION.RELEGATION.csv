@@ -1,0 +1,55 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12997,723483,1,44242227,70,1,780,13',1,0,Emin Grozdanic (IFK Värnamo) Goal at 13',Emin Grozdanic Goal,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,357202.0,2024-11-22 06:06:18
+12997,723483,2,44242262,94,1,1260,21',0,0,Emin Grozdanic (IFK Värnamo) Yellow Card at 21',Emin Grozdanic Yellow Card,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,357202.0,2024-11-22 06:06:18
+12997,723483,3,44242263,94,1,1260,21',0,0,Vincent Sundberg (Landskrona BoIS) Yellow Card at 21',Vincent Sundberg Yellow Card,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,345801.0,2024-11-22 06:06:18
+12997,723483,4,44242288,94,1,1560,26',0,0,Constantino Capotondi (Landskrona BoIS) Yellow Card at 26',Constantino Capotondi Yellow Car,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,396533.0,2024-11-22 06:06:18
+12997,723483,5,44242322,94,1,1980,33',0,0,Max Nilsson (Landskrona BoIS) Yellow Card at 33',Max Nilsson Yellow Card,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,146816.0,2024-11-22 06:06:18
+12997,723483,6,44242344,93,1,2160,36',0,0,Emin Grozdanic (IFK Värnamo) Red Card at 36',Emin Grozdanic Red Card,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,357202.0,2024-11-22 06:06:18
+12997,723483,7,44242348,94,1,2280,38',0,0,Christian Stark (Landskrona BoIS) Yellow Card at 38',Christian Stark Yellow Card,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,367408.0,2024-11-22 06:06:18
+12997,723483,9,44242379,76,2,2700,45',0,0,Edi Sylisufaj (Landskrona BoIS) Substitution at 45',Edi Sylisufaj Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,248664.0,2024-11-22 06:06:18
+12997,723483,8,44242378,76,2,2700,45',0,0,Albin Lohikangas (IFK Värnamo) Substitution at 45',Albin Lohikangas Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,239346.0,2024-11-22 06:06:18
+12997,723483,8,44242378,76,2,2700,45',0,0,Albin Lohikangas (IFK Värnamo) Substitution at 45',Albin Lohikangas Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,2,193351.0,2024-11-22 06:06:18
+12997,723483,9,44242379,76,2,2700,45',0,0,Edi Sylisufaj (Landskrona BoIS) Substitution at 45',Edi Sylisufaj Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,2,396533.0,2024-11-22 06:06:18
+12997,723483,10,44242401,70,2,3000,50',1,0,Robin Dzabic (Landskrona BoIS) Goal at 50',Robin Dzabic Goal,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,396525.0,2024-11-22 06:06:18
+12997,723483,11,44242452,94,2,3480,58',0,0,Wenderson (IFK Värnamo) Yellow Card at 58',Wenderson Yellow Card,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,255807.0,2024-11-22 06:06:18
+12997,723483,11,44242452,94,2,3480,58',0,0,Wenderson (IFK Värnamo) Yellow Card at 58',Wenderson Yellow Card,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,303480.0,2024-11-22 06:06:18
+12997,723483,12,44242488,76,2,3840,64',0,0,Kofi Fosuhene Asare (Landskrona BoIS) Substitution at 64',Kofi Fosuhene Asare Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,325347.0,2024-11-22 06:06:18
+12997,723483,12,44242488,76,2,3840,64',0,0,Kofi Fosuhene Asare (Landskrona BoIS) Substitution at 64',Kofi Fosuhene Asare Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,2,367408.0,2024-11-22 06:06:18
+12997,723483,13,44242507,70,2,4140,69',1,0,Kofi Fosuhene Asare (Landskrona BoIS) Goal at 69',Kofi Fosuhene Asare Goal,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,325347.0,2024-11-22 06:06:18
+12997,723483,14,44242537,76,2,4260,71',0,0,Gustav Engvall (IFK Värnamo) Substitution at 71',Gustav Engvall Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,186483.0,2024-11-22 06:06:18
+12997,723483,15,44242538,76,2,4260,71',0,0,Marco Bustos (IFK Värnamo) Substitution at 71',Marco Bustos Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,128307.0,2024-11-22 06:06:18
+12997,723483,15,44242538,76,2,4260,71',0,0,Marco Bustos (IFK Värnamo) Substitution at 71',Marco Bustos Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,2,345479.0,2024-11-22 06:06:18
+12997,723483,14,44242537,76,2,4260,71',0,0,Gustav Engvall (IFK Värnamo) Substitution at 71',Gustav Engvall Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-11-22 06:06:18
+12997,723483,16,44242572,76,2,4620,77',0,0,Joel Voelkerling Persson (IFK Värnamo) Substitution at 77',Joel Voelkerling Persson Substit,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,332413.0,2024-11-22 06:06:18
+12997,723483,16,44242572,76,2,4620,77',0,0,Joel Voelkerling Persson (IFK Värnamo) Substitution at 77',Joel Voelkerling Persson Substit,21382,0.0,0.0,0.0,0.0,0.0,0.0,2,158993.0,2024-11-22 06:06:18
+12997,723483,17,44242584,94,2,4680,78',0,0,Victor Larsson (IFK Värnamo) Yellow Card at 78',Victor Larsson Yellow Card,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,334035.0,2024-11-22 06:06:18
+12997,723483,18,44242627,76,2,5100,85',0,0,Freddy Roland Winsth (IFK Värnamo) Substitution at 85',Freddy Roland Winsth Substitutio,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-11-22 06:06:18
+12997,723483,18,44242627,76,2,5100,85',0,0,Freddy Roland Winsth (IFK Värnamo) Substitution at 85',Freddy Roland Winsth Substitutio,21382,0.0,0.0,0.0,0.0,0.0,0.0,2,334035.0,2024-11-22 06:06:18
+12997,723483,19,44242628,70,2,5160,86',1,0,Joel Voelkerling Persson (IFK Värnamo) Goal at 86',Joel Voelkerling Persson Goal,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,332413.0,2024-11-22 06:06:18
+12997,723483,20,44242640,76,2,5280,88',0,0,Victor Karlsson (Landskrona BoIS) Substitution at 88',Victor Karlsson Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,314166.0,2024-11-22 06:06:18
+12997,723483,20,44242640,76,2,5280,88',0,0,Victor Karlsson (Landskrona BoIS) Substitution at 88',Victor Karlsson Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,2,396515.0,2024-11-22 06:06:18
+12997,723484,1,44268950,70,1,2220,37',1,0,Albin Lohikangas (IFK Värnamo) Goal at 37',Albin Lohikangas Goal,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,239346.0,2024-11-25 16:11:09
+12997,723484,2,44269107,94,1,2700,45'+1',0,0,Michael Steinwender (IFK Värnamo) Yellow Card at 46',Michael Steinwender Yellow Card,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,274020.0,2024-11-25 16:11:09
+12997,723484,4,44269303,76,2,2700,45',0,0,Ajdin Zeljkovic (IFK Värnamo) Substitution at 45',Ajdin Zeljkovic Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,345479.0,2024-11-25 16:11:09
+12997,723484,3,44269302,76,2,2700,45',0,0,Kofi Fosuhene Asare (Landskrona BoIS) Substitution at 45',Kofi Fosuhene Asare Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,325347.0,2024-11-25 16:11:09
+12997,723484,4,44269303,76,2,2700,45',0,0,Ajdin Zeljkovic (IFK Värnamo) Substitution at 45',Ajdin Zeljkovic Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,2,332413.0,2024-11-25 16:11:09
+12997,723484,3,44269302,76,2,2700,45',0,0,Kofi Fosuhene Asare (Landskrona BoIS) Substitution at 45',Kofi Fosuhene Asare Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,2,367408.0,2024-11-25 16:11:09
+12997,723484,5,44269408,76,2,3240,54',0,0,Edi Sylisufaj (Landskrona BoIS) Substitution at 54',Edi Sylisufaj Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,248664.0,2024-11-25 16:11:09
+12997,723484,5,44269408,76,2,3240,54',0,0,Edi Sylisufaj (Landskrona BoIS) Substitution at 54',Edi Sylisufaj Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,2,314166.0,2024-11-25 16:11:09
+12997,723484,6,44269631,76,2,3840,64',0,0,Melker Jonsson (Landskrona BoIS) Substitution at 64',Melker Jonsson Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,304373.0,2024-11-25 16:11:09
+12997,723484,7,44269632,76,2,3840,64',0,0,Constantino Capotondi (Landskrona BoIS) Substitution at 64',Constantino Capotondi Substituti,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,396533.0,2024-11-25 16:11:09
+12997,723484,6,44269631,76,2,3840,64',0,0,Melker Jonsson (Landskrona BoIS) Substitution at 64',Melker Jonsson Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,2,396523.0,2024-11-25 16:11:09
+12997,723484,7,44269632,76,2,3840,64',0,0,Constantino Capotondi (Landskrona BoIS) Substitution at 64',Constantino Capotondi Substituti,22474,0.0,0.0,0.0,0.0,0.0,0.0,2,396525.0,2024-11-25 16:11:09
+12997,723484,8,44269672,76,2,4080,68',0,0,Freddy Roland Winsth (IFK Värnamo) Substitution at 68',Freddy Roland Winsth Substitutio,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-11-25 16:11:09
+12997,723484,8,44269672,76,2,4080,68',0,0,Freddy Roland Winsth (IFK Värnamo) Substitution at 68',Freddy Roland Winsth Substitutio,21382,0.0,0.0,0.0,0.0,0.0,0.0,2,274020.0,2024-11-25 16:11:09
+12997,723484,9,44269818,94,2,4500,75',0,0,Marco Bustos (IFK Värnamo) Yellow Card at 75',Marco Bustos Yellow Card,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,128307.0,2024-11-25 16:11:09
+12997,723484,10,44269819,76,2,4620,77',0,0,Johan Rapp (IFK Värnamo) Substitution at 77',Johan Rapp Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,380552.0,2024-11-25 16:11:09
+12997,723484,11,44269820,76,2,4620,77',0,0,Frank Adjei (IFK Värnamo) Substitution at 77',Frank Adjei Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-11-25 16:11:09
+12997,723484,10,44269819,76,2,4620,77',0,0,Johan Rapp (IFK Värnamo) Substitution at 77',Johan Rapp Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,2,128307.0,2024-11-25 16:11:09
+12997,723484,11,44269820,76,2,4620,77',0,0,Frank Adjei (IFK Värnamo) Substitution at 77',Frank Adjei Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,2,186483.0,2024-11-25 16:11:09
+12997,723484,13,44270026,76,2,5220,87',0,0,Filip Sachpekidis (Landskrona BoIS) Substitution at 87',Filip Sachpekidis Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,1,191480.0,2024-11-25 16:11:09
+12997,723484,12,44270024,76,2,5220,87',0,0,Carl Johansson (IFK Värnamo) Substitution at 87',Carl Johansson Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,193351.0,2024-11-25 16:11:09
+12997,723484,12,44270024,76,2,5220,87',0,0,Carl Johansson (IFK Värnamo) Substitution at 87',Carl Johansson Substitution,21382,0.0,0.0,0.0,0.0,0.0,0.0,2,158993.0,2024-11-25 16:11:09
+12997,723484,13,44270026,76,2,5220,87',0,0,Filip Sachpekidis (Landskrona BoIS) Substitution at 87',Filip Sachpekidis Substitution,22474,0.0,0.0,0.0,0.0,0.0,0.0,2,148562.0,2024-11-25 16:11:09
+12997,723484,14,44270025,94,2,5280,88',0,0,Freddy Roland Winsth (IFK Värnamo) Yellow Card at 88',Freddy Roland Winsth Yellow Card,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-11-25 16:11:09
+12997,723484,15,44270136,94,2,5400,90'+6',0,0,Luke Le Roux (IFK Värnamo) Yellow Card at 96',Luke Le Roux Yellow Card,21382,0.0,0.0,0.0,0.0,0.0,0.0,1,272404.0,2024-11-25 16:11:09

@@ -106,6 +106,9 @@ class ModelInfo(BaseModel):
     trained_date: str
     accuracy: Optional[float] = None
     metrics: Optional[Dict[str, float]] = None
+    loaded: bool = False
+    errors: List[str] = []
+    leagues_trained: Optional[int] = None
 
 
 class ModelsListResponse(BaseModel):

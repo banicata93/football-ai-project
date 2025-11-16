@@ -61,7 +61,7 @@ def generate_all_predictions(models: dict, df: pd.DataFrame) -> dict:
     
     # ML predictions
     feature_cols = get_feature_columns()
-    X = prepare_features(df, feature_cols)
+    X, _ = prepare_features(df, feature_cols)
     
     # 1X2
     predictions['ml_1x2'] = models['1x2'].predict_proba(X)

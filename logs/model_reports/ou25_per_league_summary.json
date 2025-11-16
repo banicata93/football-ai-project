@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-12T15:41:01.754401",
+  "timestamp": "2025-11-13T13:33:13.584738",
   "total_leagues_trained": 8,
   "target_leagues": [
     "premier_league",
@@ -14,51 +14,51 @@
   "min_matches_threshold": 300,
   "metrics_by_league": {
     "premier_league": {
-      "accuracy": 0.7230769230769231,
-      "log_loss": 0.5717163604955151,
-      "brier_score": 0.19412027946510704,
+      "accuracy": 0.7192307692307692,
+      "log_loss": 0.5807180683818595,
+      "brier_score": 0.19766988334299176,
       "matches": 643
     },
     "la_liga": {
       "accuracy": 0.7482993197278912,
-      "log_loss": 0.48336960486163827,
-      "brier_score": 0.16444656680406153,
+      "log_loss": 0.4939872209831404,
+      "brier_score": 0.16664580322656455,
       "matches": 487
     },
     "serie_a": {
       "accuracy": 0.6666666666666666,
-      "log_loss": 0.6312105354892789,
-      "brier_score": 0.21980682356253434,
+      "log_loss": 0.6306341632750648,
+      "brier_score": 0.219500244977952,
       "matches": 476
     },
     "bundesliga": {
-      "accuracy": 0.8848484848484849,
-      "log_loss": 0.28679151340860953,
-      "brier_score": 0.08966189366189367,
+      "accuracy": 0.896969696969697,
+      "log_loss": 0.2741632547943347,
+      "brier_score": 0.08415884707420758,
       "matches": 449
     },
     "ligue_1": {
-      "accuracy": 0.6903225806451613,
-      "log_loss": 0.5963181562207007,
-      "brier_score": 0.20472822518580125,
+      "accuracy": 0.6838709677419355,
+      "log_loss": 0.6008277347957318,
+      "brier_score": 0.20648363083326665,
       "matches": 404
     },
     "eredivisie": {
-      "accuracy": 0.9074074074074074,
-      "log_loss": 0.19275918157633504,
-      "brier_score": 0.06397714435568466,
+      "accuracy": 0.9012345679012346,
+      "log_loss": 0.20022797109897994,
+      "brier_score": 0.06534498036108341,
       "matches": 353
     },
     "primeira_liga": {
       "accuracy": 0.8878504672897196,
-      "log_loss": 0.23395589246841633,
-      "brier_score": 0.0759457053849577,
+      "log_loss": 0.24166657980554113,
+      "brier_score": 0.07830740132142001,
       "matches": 323
     },
     "championship": {
-      "accuracy": 0.584070796460177,
-      "log_loss": 0.6504547837870774,
-      "brier_score": 0.23219553308048882,
+      "accuracy": 0.6460176991150443,
+      "log_loss": 0.6399180926179752,
+      "brier_score": 0.22545696178459443,
       "matches": 314
     }
   },

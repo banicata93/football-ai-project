@@ -31,14 +31,21 @@ data/raw/*.csv
 data/processed/*.pkl
 data/processed/*.parquet
 
-# Models
+# Models (keep structure but ignore trained models)
 models/**/*.pkl
 models/**/*.joblib
 models/**/*.h5
 models/**/*.pt
+!models/**/metrics.json
+!models/**/model_info.json
 
 # Logs
 logs/*.log
+logs/**/*.parquet
+/tmp/*.log
+
+# Training outputs
+*.log
 
 # IDE
 .vscode/

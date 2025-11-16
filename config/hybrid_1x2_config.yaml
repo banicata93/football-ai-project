@@ -1,0 +1,237 @@
+hybrid_1x2_config:
+  version: '1.0'
+  model_type: 'weighted_ensemble'
+  
+  # Default weights for 1X2 combination
+  weights:
+    ml: 0.45                   # ML 1X2 v2 model weight
+    scoreline: 0.25            # Scoreline-derived 1X2 weight
+    poisson: 0.20              # Poisson v2 1X2 weight
+    draw_specialist: 0.10      # Draw specialist weight
+  
+  # Legacy support
+  default_weights:
+    ml: 0.45
+    scoreline: 0.25
+    poisson: 0.20
+    elo: 0.10
+    
+  # Special weights for draw probability enhancement
+  draw_weights:
+    ml: 0.35                   # ML draw probability weight
+    scoreline: 0.25            # Scoreline draw probability weight
+    draw_specialist: 0.25      # Draw specialist model weight
+    poisson: 0.10              # Poisson draw probability weight
+    league_prior: 0.05         # League historical draw rate weight
+    
+  # League-specific weight overrides
+  league_overrides:
+    premier_league:
+      ml: 0.55                 # Higher ML weight for Premier League
+      scoreline: 0.25
+      poisson: 0.12
+      elo: 0.08
+      
+    serie_a:
+      ml: 0.45                 # Lower ML weight for Serie A (more draws)
+      scoreline: 0.35
+      poisson: 0.12
+      elo: 0.08
+      draw_weights:
+        draw_specialist: 0.30  # Higher draw specialist weight
+        
+    bundesliga:
+      ml: 0.52
+      scoreline: 0.28
+      poisson: 0.12
+      elo: 0.08
+      
+    la_liga:
+      ml: 0.48
+      scoreline: 0.32
+      poisson: 0.12
+      elo: 0.08
+      
+    ligue_1:
+      ml: 0.50
+      scoreline: 0.30
+      poisson: 0.12
+      elo: 0.08
+      
+    eredivisie:
+      ml: 0.45                 # More attacking league
+      scoreline: 0.35
+      poisson: 0.12
+      elo: 0.08
+      
+    championship:
+      ml: 0.48                 # More unpredictable
+      scoreline: 0.32
+      poisson: 0.12
+      elo: 0.08
+      
+  # Uncertainty and confidence thresholds
+  uncertainty_thresholds:
+    high_disagreement: 0.3     # KL divergence threshold for high disagreement
+    low_confidence: 0.6        # Confidence threshold for low ML confidence
+    entropy_threshold: 0.8     # Normalized entropy threshold
+    
+  # Dynamic weight adjustment parameters
+  dynamic_adjustment:
+    enabled: true
+    ml_confidence_factor: 0.2  # How much to adjust based on ML confidence
+    scoreline_confidence_factor: 0.15  # How much to adjust based on scoreline confidence
+    disagreement_penalty: 0.1  # Penalty for high disagreement between sources
+    
+  # Normalization settings
+  normalization:
+    method: 'softmax'          # 'linear' or 'softmax'
+    temperature: 1.0           # Softmax temperature (1.0 = no change)
+    min_probability: 0.01      # Minimum probability for any outcome
+    max_probability: 0.95      # Maximum probability for any outcome
+    
+  # Calibration settings
+  calibration:
+    enabled: true
+    method: 'temperature'
+    temperature: 1.0
+  
+  # League settings
+  leagues:
+    use_per_league_weights: true
+  
+  # Training settings
+  training:
+    test_size: 0.2
+    cv_folds: 5
+    min_samples: 1000
+  
+  # Fallback behavior
+  fallback:
+    use_v2_if_missing: true
+    missing_scoreline: 'ml_only'      # What to do if scoreline unavailable
+    missing_draw_specialist: 'ignore' # What to do if draw specialist unavailable
+    missing_poisson: 'ignore'         # What to do if Poisson unavailable
+    missing_elo: 'ignore'             # What to do if Elo unavailable
+    error_handling: 'ml_fallback'     # Fallback to ML on any error
+    
+  # Performance expectations
+  expected_performance:
+    accuracy_improvement: '3-7%'      # Expected accuracy improvement over ML alone
+    calibration_improvement: '5-15%'  # Expected calibration improvement
+    draw_detection_improvement: '10-20%' # Expected draw detection improvement
+    
+    typical_hybrid_adjustments:
+      home_favorite_scenarios: 'Reduces overconfidence in home wins'
+      balanced_matches: 'Improves draw detection significantly'
+      away_upsets: 'Better captures away win probabilities'
+      
+  # Source reliability weights (meta-weights)
+  source_reliability:
+    ml_v2: 0.85               # Reliability score for ML v2 model
+    scoreline_engine: 0.80    # Reliability score for scoreline engine
+    draw_specialist: 0.75     # Reliability score for draw specialist
+    poisson_v2: 0.70          # Reliability score for Poisson v2
+    elo_system: 0.65          # Reliability score for Elo system
+    
+  # League-specific draw rate priors
+  league_draw_rates:
+    premier_league: 0.26      # Historical draw rate
+    la_liga: 0.28
+    serie_a: 0.29             # Highest draw rate
+    bundesliga: 0.27
+    ligue_1: 0.28
+    eredivisie: 0.30          # High-scoring, more draws
+    primeira_liga: 0.29
+    championship: 0.25        # Lower draw rate
+    default: 0.27             # Global average
+    
+  # Combination strategies for different scenarios
+  combination_strategies:
+    high_confidence_ml:       # When ML confidence > 0.8
+      ml: 0.65
+      scoreline: 0.20
+      poisson: 0.10
+      elo: 0.05
+      
+    low_confidence_ml:        # When ML confidence < 0.5
+      ml: 0.35
+      scoreline: 0.40
+      poisson: 0.15
+      elo: 0.10
+      
+    high_disagreement:        # When sources disagree significantly
+      ml: 0.40
+      scoreline: 0.30
+      poisson: 0.15
+      elo: 0.15
+      
+    balanced_match:           # When all probabilities close to 0.33
+      ml: 0.30
+      scoreline: 0.35
+      draw_specialist: 0.25
+      poisson: 0.10
+      
+  # Logging and monitoring
+  logging:
+    log_combinations: true    # Log each combination
+    log_disagreements: true   # Log high disagreement cases
+    log_fallbacks: true       # Log fallback scenarios
+    log_level: 'INFO'
+    
+  # Validation and testing
+  validation:
+    cross_validation: true
+    test_leagues: ['premier_league', 'serie_a', 'bundesliga']
+    metrics_to_track:
+      - accuracy
+      - log_loss
+      - brier_score
+      - calibration_error
+      - draw_recall
+      - draw_precision
+      
+  # Integration settings
+  integration:
+    api_field_name: 'hybrid'  # Field name in API response
+    include_components: true  # Include component probabilities
+    include_weights: true     # Include weights used
+    include_uncertainty: true # Include uncertainty metrics
+    
+  # Notes and documentation
+  notes: |
+    Hybrid 1X2 Model Configuration
+    
+    This configuration defines how multiple 1X2 prediction sources are combined:
+    
+    1. ML 1X2 v2: Primary machine learning model
+    2. Scoreline Engine: Probabilities derived from scoreline matrix
+    3. Draw Specialist: Dedicated draw prediction model
+    4. Poisson v2: Statistical model based on goal expectations
+    5. Elo System: Rating-based predictions
+    
+    Key Features:
+    - League-specific weight adjustments
+    - Dynamic weight adaptation based on confidence
+    - Uncertainty quantification and disagreement detection
+    - Robust fallback mechanisms
+    - Comprehensive logging and monitoring
+    
+    Weight Philosophy:
+    - ML model gets highest base weight (50%) as it's most sophisticated
+    - Scoreline engine gets significant weight (30%) for realistic distributions
+    - Poisson and Elo provide statistical balance (10% each)
+    - Draw specialist specifically enhances draw detection
+    - League priors provide historical context
+    
+    Expected Benefits:
+    - More accurate 1X2 predictions overall
+    - Better calibrated probabilities
+    - Improved draw detection (biggest weakness of ML models)
+    - Reduced overconfidence in extreme predictions
+    - League-specific adaptation
+    
+    Usage:
+    The hybrid model is additive - it enhances existing predictions without
+    replacing them. Original ML predictions remain available alongside
+    hybrid predictions in the API response.

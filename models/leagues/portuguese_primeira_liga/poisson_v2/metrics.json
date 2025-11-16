@@ -1,0 +1,10 @@
+{
+  "league": "portuguese_primeira_liga",
+  "league_name": "Portuguese Primeira Liga",
+  "league_id": 715,
+  "model_type": "poisson_v2",
+  "trained_date": "2025-11-16 15:23:34",
+  "total_matches": 612,
+  "time_decay_factor": 0.8,
+  "note": "Time-decay Poisson model for scoreline prediction"
+}

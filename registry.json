@@ -44,5 +44,63 @@
       "trained_date": null,
       "metrics": {}
     }
-  }
+  },
+  "models": [
+    {
+      "key": "poisson_v2_premier_league_v2",
+      "model_type": "poisson_v2",
+      "league": "premier_league",
+      "version": "v2",
+      "trained_date": "2025-11-16 15:19:39",
+      "status": "active"
+    },
+    {
+      "key": "poisson_v2_la_liga_v2",
+      "model_type": "poisson_v2",
+      "league": "la_liga",
+      "version": "v2",
+      "trained_date": "2025-11-16 15:19:58",
+      "status": "active"
+    },
+    {
+      "key": "poisson_v2_serie_a_v2",
+      "model_type": "poisson_v2",
+      "league": "serie_a",
+      "version": "v2",
+      "trained_date": "2025-11-16 15:20:18",
+      "status": "active"
+    },
+    {
+      "key": "poisson_v2_bundesliga_v2",
+      "model_type": "poisson_v2",
+      "league": "bundesliga",
+      "version": "v2",
+      "trained_date": "2025-11-16 15:20:38",
+      "status": "active"
+    },
+    {
+      "key": "poisson_v2_ligue_1_v2",
+      "model_type": "poisson_v2",
+      "league": "ligue_1",
+      "version": "v2",
+      "trained_date": "2025-11-16 15:20:57",
+      "status": "active"
+    },
+    {
+      "key": "poisson_v2_eredivisie_v2",
+      "model_type": "poisson_v2",
+      "league": "eredivisie",
+      "version": "v2",
+      "trained_date": "2025-11-16 15:21:16",
+      "status": "active"
+    },
+    {
+      "key": "poisson_v2_primeira_liga_v2",
+      "model_type": "poisson_v2",
+      "league": "primeira_liga",
+      "version": "v2",
+      "trained_date": "2025-11-16 15:21:36",
+      "status": "active"
+    }
+  ]
 }

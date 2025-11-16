@@ -1,0 +1,51 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+13040,724185,1,44736666,94,Marco Di Cesare (Racing Club) Yellow Card at 16',Marco Di Cesare Yellow Card,1,960,16',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,301950,Marco Di Cesare,2025-02-21 05:56:31
+13040,724185,2,44736732,94,Alexander Barboza (Botafogo) Yellow Card at 29',Alexander Barboza Yellow Card,1,1740,29',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,222631,Alexander Barboza,2025-02-21 05:56:31
+13040,724185,3,44736747,98,Luciano Vietto (Racing Club) Penalty - Scored at 31',Luciano Vietto Penalty - Scored,1,1860,31',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,168277,Luciano Vietto,2025-02-21 05:56:31
+13040,724185,4,44736795,76,Matías Zaracho (Racing Club) Substitution at 36',Matías Zaracho Substitution,1,2160,36',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,241988,Matías Zaracho,2025-02-21 05:56:31
+13040,724185,4,44736795,76,Matías Zaracho (Racing Club) Substitution at 36',Matías Zaracho Substitution,1,2160,36',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,168277,Luciano Vietto,2025-02-21 05:56:31
+13040,724185,5,44736841,94,Bruno Zuculini (Racing Club) Yellow Card at 41',Bruno Zuculini Yellow Card,1,2460,41',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,144267,Bruno Zuculini,2025-02-21 05:56:31
+13040,724185,6,44736874,94,Danilo (Botafogo) Yellow Card at 48',Danilo Yellow Card,1,2700,45'+3',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,194929,Danilo,2025-02-21 05:56:31
+13040,724185,7,44737052,76,Rwan Seco (Botafogo) Substitution at 59',Rwan Seco Substitution,2,3540,59',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335525,Rwan Seco,2025-02-21 05:56:31
+13040,724185,7,44737052,76,Rwan Seco (Botafogo) Substitution at 59',Rwan Seco Substitution,2,3540,59',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,143883,Allan,2025-02-21 05:56:31
+13040,724185,8,44737061,70,Adrián Martínez (Racing Club) Goal at 63',Adrián Martínez Goal,2,3780,63',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,3038,Adrián Martínez,2025-02-21 05:56:31
+13040,724185,9,44737100,94,Newton (Botafogo) Yellow Card at 70',Newton Yellow Card,2,4200,70',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,357362,Newton,2025-02-21 05:56:31
+13040,724185,10,44737110,94,Rwan Seco (Botafogo) Yellow Card at 72',Rwan Seco Yellow Card,2,4320,72',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335525,Rwan Seco,2025-02-21 05:56:31
+13040,724185,11,44737128,76,Cuiabano (Botafogo) Substitution at 76',Cuiabano Substitution,2,4560,76',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334756,Cuiabano,2025-02-21 05:56:31
+13040,724185,11,44737128,76,Cuiabano (Botafogo) Substitution at 76',Cuiabano Substitution,2,4560,76',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,314841,Matheus Martins,2025-02-21 05:56:31
+13040,724185,12,44737140,94,Gastón Martirena (Racing Club) Yellow Card at 81',Gastón Martirena Yellow Card,2,4860,81',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,302209,Gastón Martirena,2025-02-21 05:56:31
+13040,724185,13,44737141,94,Juan Nardoni (Racing Club) Yellow Card at 82',Juan Nardoni Yellow Card,2,4920,82',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,290594,Juan Nardoni,2025-02-21 05:56:31
+13040,724185,14,44737206,93,Cuiabano (Botafogo) Red Card at 87',Cuiabano Red Card,2,5220,87',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334756,Cuiabano,2025-02-21 05:56:31
+13040,724185,15,44737207,76,Kauê (Botafogo) Substitution at 88',Kauê Substitution,2,5280,88',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,357363,Kauê,2025-02-21 05:56:31
+13040,724185,15,44737207,76,Kauê (Botafogo) Substitution at 88',Kauê Substitution,2,5280,88',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,177219,Jefferson Savarino,2025-02-21 05:56:31
+13040,724185,16,44737208,76,Ignacio Agustin Rodríguez (Racing Club) Substitution at 89',Ignacio Agustin Rodríguez Substi,2,5340,89',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,317430,Ignacio Agustin Rodríguez,2025-02-21 05:56:31
+13040,724185,16,44737208,76,Ignacio Agustin Rodríguez (Racing Club) Substitution at 89',Ignacio Agustin Rodríguez Substi,2,5340,89',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,233392,Maximiliano Salas,2025-02-21 05:56:31
+13040,724186,1,44777733,94,Gregore (Botafogo) Yellow Card at 17',Gregore Yellow Card,1,1020,17',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,235893,Gregore,2025-02-28 05:55:18
+13040,724186,2,44777762,94,Luciano Vietto (Racing Club) Yellow Card at 33',Luciano Vietto Yellow Card,1,1980,33',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,168277,Luciano Vietto,2025-02-28 05:55:18
+13040,724186,3,44777866,76,Matías Zaracho (Racing Club) Substitution at 45',Matías Zaracho Substitution,2,2700,45',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,241988,Matías Zaracho,2025-02-28 05:55:18
+13040,724186,3,44777866,76,Matías Zaracho (Racing Club) Substitution at 45',Matías Zaracho Substitution,2,2700,45',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,168277,Luciano Vietto,2025-02-28 05:55:18
+13040,724186,4,44777874,94,Adrián Martínez (Racing Club) Yellow Card at 49',Adrián Martínez Yellow Card,2,2940,49',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,3038,Adrián Martínez,2025-02-28 05:55:18
+13040,724186,5,44777875,70,Matías Zaracho (Racing Club) Goal at 50',Matías Zaracho Goal,2,3000,50',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,241988,Matías Zaracho,2025-02-28 05:55:18
+13040,724186,6,44777892,94,Jair Paula (Botafogo) Yellow Card at 53',Jair Paula Yellow Card,2,3180,53',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,338876,Jair Paula,2025-02-28 05:55:18
+13040,724186,7,44777907,76,Jeffinho (Botafogo) Substitution at 55',Jeffinho Substitution,2,3300,55',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,301780,Jeffinho,2025-02-28 05:55:18
+13040,724186,8,44777908,76,Rwan Seco (Botafogo) Substitution at 55',Rwan Seco Substitution,2,3300,55',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335525,Rwan Seco,2025-02-28 05:55:18
+13040,724186,7,44777907,76,Jeffinho (Botafogo) Substitution at 55',Jeffinho Substitution,2,3300,55',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,236596,Artur,2025-02-28 05:55:18
+13040,724186,8,44777908,76,Rwan Seco (Botafogo) Substitution at 55',Rwan Seco Substitution,2,3300,55',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,235893,Gregore,2025-02-28 05:55:18
+13040,724186,9,44777923,76,Germán Conti (Racing Club) Substitution at 57',Germán Conti Substitution,2,3420,57',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,185458,Germán Conti,2025-02-28 05:55:18
+13040,724186,9,44777923,76,Germán Conti (Racing Club) Substitution at 57',Germán Conti Substitution,2,3420,57',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,301950,Marco Di Cesare,2025-02-28 05:55:18
+13040,724186,10,44777944,94,Alexander Barboza (Botafogo) Yellow Card at 66',Alexander Barboza Yellow Card,2,3960,66',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,222631,Alexander Barboza,2025-02-28 05:55:18
+13040,724186,11,44777945,94,Juan Nardoni (Racing Club) Yellow Card at 67',Juan Nardoni Yellow Card,2,4020,67',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,290594,Juan Nardoni,2025-02-28 05:55:18
+13040,724186,12,44777949,70,Bruno Zuculini (Racing Club) Goal at 69',Bruno Zuculini Goal,2,4140,69',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,144267,Bruno Zuculini,2025-02-28 05:55:18
+13040,724186,13,44777953,76,Kayke (Botafogo) Substitution at 70',Kayke Substitution,2,4200,70',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,381279,Kayke,2025-02-28 05:55:18
+13040,724186,13,44777953,76,Kayke (Botafogo) Substitution at 70',Kayke Substitution,2,4200,70',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,314841,Matheus Martins,2025-02-28 05:55:18
+13040,724186,14,44778014,94,Gabriel Arias (Racing Club) Yellow Card at 71',Gabriel Arias Yellow Card,2,4260,71',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,124520,Gabriel Arias,2025-02-28 05:55:18
+13040,724186,14,44777979,76,Agustín Almendra (Racing Club) Substitution at 78',Agustín Almendra Substitution,2,4680,78',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,269799,Agustín Almendra,2025-03-01 05:51:17
+13040,724186,14,44777979,76,Agustín Almendra (Racing Club) Substitution at 78',Agustín Almendra Substitution,2,4680,78',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,144267,Bruno Zuculini,2025-03-01 05:51:17
+13040,724186,15,44777988,76,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,2,4800,80',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,359977,Mateo Ponte,2025-03-01 05:51:17
+13040,724186,16,44777989,76,Newton (Botafogo) Substitution at 80',Newton Substitution,2,4800,80',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,357362,Newton,2025-03-01 05:51:17
+13040,724186,15,44777988,76,Mateo Ponte (Botafogo) Substitution at 80',Mateo Ponte Substitution,2,4800,80',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,268700,Vitinho,2025-03-01 05:51:17
+13040,724186,16,44777989,76,Newton (Botafogo) Substitution at 80',Newton Substitution,2,4800,80',6086,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,177219,Jefferson Savarino,2025-03-01 05:51:17
+13040,724186,17,44778008,76,Facundo Mura (Racing Club) Substitution at 85',Facundo Mura Substitution,2,5100,85',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,285473,Facundo Mura,2025-03-01 05:51:17
+13040,724186,17,44778008,76,Facundo Mura (Racing Club) Substitution at 85',Facundo Mura Substitution,2,5100,85',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,302209,Gastón Martirena,2025-03-01 05:51:17
+13040,724186,18,44778009,76,Santiago Solari (Racing Club) Substitution at 86',Santiago Solari Substitution,2,5160,86',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,315926,Santiago Solari,2025-03-01 05:51:17
+13040,724186,18,44778009,76,Santiago Solari (Racing Club) Substitution at 86',Santiago Solari Substitution,2,5160,86',15,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,3038,Adrián Martínez,2025-03-01 05:51:17

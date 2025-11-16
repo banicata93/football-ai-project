@@ -1,0 +1,29 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13333,735675,1,45227100,70,1,120,2',1,0,Cameron Elliott (East Kilbride) Goal at 2',Cameron Elliott Goal,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,248903,2025-05-12 04:51:47
+13333,735675,2,45227327,70,1,960,16',1,0,Aaron Arnott (Bonnyrigg Rose) Goal at 16',Aaron Arnott Goal,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,308681,2025-05-12 04:51:47
+13333,735675,3,45227349,94,1,1080,18',0,0,Nathan Flanagan (East Kilbride) Yellow Card at 18',Nathan Flanagan Yellow Card,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,206524,2025-05-12 04:51:47
+13333,735675,4,45227851,94,1,2580,43',0,0,John Robertson (East Kilbride) Yellow Card at 43',John Robertson Yellow Card,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,223320,2025-05-12 04:51:47
+13333,735675,4,45227851,94,1,2580,43',0,0,John Robertson (East Kilbride) Yellow Card at 43',John Robertson Yellow Card,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,261415,2025-05-12 04:51:47
+13333,735675,5,45228325,76,2,3000,50',0,0,Ryan Porteous (Bonnyrigg Rose) Substitution at 50',Ryan Porteous Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,239175,2025-05-12 04:51:47
+13333,735675,5,45228325,76,2,3000,50',0,0,Ryan Porteous (Bonnyrigg Rose) Substitution at 50',Ryan Porteous Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,2,249014,2025-05-12 04:51:47
+13333,735675,6,45228386,70,2,3120,52',1,0,Cameron Elliott (East Kilbride) Goal at 52',Cameron Elliott Goal,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,248903,2025-05-12 04:51:47
+13333,735675,7,45228557,76,2,3540,59',0,0,Mark Ferrie (Bonnyrigg Rose) Substitution at 59',Mark Ferrie Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,346616,2025-05-12 04:51:47
+13333,735675,7,45228557,76,2,3540,59',0,0,Mark Ferrie (Bonnyrigg Rose) Substitution at 59',Mark Ferrie Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,2,324794,2025-05-12 04:51:47
+13333,735675,8,45228771,94,2,4020,67',0,0,Sean Fagan (East Kilbride) Yellow Card at 67',Sean Fagan Yellow Card,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,162825,2025-05-12 04:51:47
+13333,735675,9,45228772,94,2,4080,68',0,0,Jordan McGregor (East Kilbride) Yellow Card at 68',Jordan McGregor Yellow Card,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,232290,2025-05-12 04:51:47
+13333,735675,10,45228829,70,2,4320,72',1,0,Jordan McGregor (East Kilbride) Goal at 72',Jordan McGregor Goal,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,232290,2025-05-12 04:51:47
+13333,735675,11,45228972,94,2,4740,79',0,0,Sean Murphy (Bonnyrigg Rose) Yellow Card at 79',Sean Murphy Yellow Card,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,18784,2025-05-12 04:51:47
+13333,735675,12,45229178,94,2,5340,89',0,0,Lewis Spence (East Kilbride) Yellow Card at 89',Lewis Spence Yellow Card,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,179662,2025-05-12 04:51:47
+13333,735675,13,45229279,76,2,5400,90'+4',0,0,Gallagher Lennon (Bonnyrigg Rose) Substitution at 94',Gallagher Lennon Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,350897,2025-05-12 04:51:47
+13333,735675,13,45229279,76,2,5400,90'+4',0,0,Gallagher Lennon (Bonnyrigg Rose) Substitution at 94',Gallagher Lennon Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,2,18784,2025-05-12 04:51:47
+13333,735676,1,45273693,94,1,960,16',0,0,Kerr Young (Bonnyrigg Rose) Yellow Card at 16',Kerr Young Yellow Card,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,163102,2025-05-18 04:53:38
+13333,735676,2,45273718,94,1,1260,21',0,0,Lewis Spence (East Kilbride) Yellow Card at 21',Lewis Spence Yellow Card,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,179662,2025-05-18 04:53:38
+13333,735676,3,45273908,94,1,2400,40',0,0,Kieran Sommerville (Bonnyrigg Rose) Yellow Card at 40',Kieran Sommerville Yellow Card,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,224288,2025-05-18 04:53:38
+13333,735676,4,45274488,76,2,3420,57',0,0,Gallagher Lennon (Bonnyrigg Rose) Substitution at 57',Gallagher Lennon Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,350897,2025-05-18 04:53:38
+13333,735676,4,45274488,76,2,3420,57',0,0,Gallagher Lennon (Bonnyrigg Rose) Substitution at 57',Gallagher Lennon Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,2,234324,2025-05-18 04:53:38
+13333,735676,5,45274615,94,2,3900,65',0,0,Nathan Flanagan (East Kilbride) Yellow Card at 65',Nathan Flanagan Yellow Card,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,206524,2025-05-18 04:53:38
+13333,735676,6,45274630,76,2,4020,67',0,0,Ryan Porteous (Bonnyrigg Rose) Substitution at 67',Ryan Porteous Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,239175,2025-05-18 04:53:38
+13333,735676,6,45274630,76,2,4020,67',0,0,Ryan Porteous (Bonnyrigg Rose) Substitution at 67',Ryan Porteous Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,2,18784,2025-05-18 04:53:38
+13333,735676,7,45274679,76,2,4620,77',0,0,Mark Ferrie (Bonnyrigg Rose) Substitution at 77',Mark Ferrie Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,346616,2025-05-18 04:53:38
+13333,735676,7,45274679,76,2,4620,77',0,0,Mark Ferrie (Bonnyrigg Rose) Substitution at 77',Mark Ferrie Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,2,224288,2025-05-18 04:53:38
+13333,735676,8,45274700,94,2,4920,82',0,0,Aaron Arnott (Bonnyrigg Rose) Yellow Card at 82',Aaron Arnott Yellow Card,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,308681,2025-05-18 04:53:38

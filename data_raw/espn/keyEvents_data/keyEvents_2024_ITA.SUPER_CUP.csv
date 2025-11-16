@@ -1,0 +1,86 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12970,722180,1,44476828,94,1,1680,28',0,0,Giorgio Scalvini (Atalanta) Yellow Card at 28',Giorgio Scalvini Yellow Card,105,0.0,0.0,0.0,0.0,0.0,0.0,1,309812,2025-01-03 05:47:36
+12970,722180,2,44476830,76,2,2700,45',0,0,Mehdi Taremi (Internazionale) Substitution at 45',Mehdi Taremi Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,1,219611,2025-01-03 05:47:36
+12970,722180,2,44476830,76,2,2700,45',0,0,Mehdi Taremi (Internazionale) Substitution at 45',Mehdi Taremi Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,2,217331,2025-01-03 05:47:36
+12970,722180,3,44476831,70,2,2940,49',1,0,Denzel Dumfries (Internazionale) Goal at 49',Denzel Dumfries Goal,110,0.0,0.0,0.0,0.0,0.0,0.0,1,213248,2025-01-03 05:47:36
+12970,722180,6,44476835,76,2,3360,56',0,0,Éderson (Atalanta) Substitution at 56',Éderson Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,1,84984,2025-01-04 05:46:19
+12970,722180,6,44476835,76,2,3360,56',0,0,Éderson (Atalanta) Substitution at 56',Éderson Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,1,176948,2025-01-04 05:46:19
+12970,722180,6,44476835,76,2,3360,56',0,0,Éderson (Atalanta) Substitution at 56',Éderson Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,1,198981,2025-01-04 05:46:19
+12970,722180,6,44476835,76,2,3360,56',0,0,Éderson (Atalanta) Substitution at 56',Éderson Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,1,278210,2025-01-04 05:46:19
+12970,722180,5,44476834,76,2,3360,56',0,0,Charles De Ketelaere (Atalanta) Substitution at 56',Charles De Ketelaere Substitutio,105,0.0,0.0,0.0,0.0,0.0,0.0,1,296319,2025-01-03 05:47:36
+12970,722180,4,44476833,76,2,3360,56',0,0,Ademola Lookman (Atalanta) Substitution at 56',Ademola Lookman Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,1,229645,2025-01-03 05:47:36
+12970,722180,6,44476835,76,2,3360,56',0,0,Éderson (Atalanta) Substitution at 56',Éderson Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,2,297229,2025-01-04 05:46:19
+12970,722180,4,44476833,76,2,3360,56',0,0,Ademola Lookman (Atalanta) Substitution at 56',Ademola Lookman Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,2,251388,2025-01-03 05:47:36
+12970,722180,5,44476834,76,2,3360,56',0,0,Charles De Ketelaere (Atalanta) Substitution at 56',Charles De Ketelaere Substitutio,105,0.0,0.0,0.0,0.0,0.0,0.0,2,303296,2025-01-03 05:47:36
+12970,722180,7,44476836,70,2,3660,61',1,0,Denzel Dumfries (Internazionale) Goal at 61',Denzel Dumfries Goal,110,0.0,0.0,0.0,0.0,0.0,0.0,1,213248,2025-01-03 05:47:36
+12970,722180,8,44476837,76,2,3720,62',0,0,Berat Djimsiti (Atalanta) Substitution at 62',Berat Djimsiti Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,1,165291,2025-01-03 05:47:36
+12970,722180,8,44476837,76,2,3720,62',0,0,Berat Djimsiti (Atalanta) Substitution at 62',Berat Djimsiti Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,2,309812,2025-01-03 05:47:36
+12970,722180,9,44476838,76,2,4020,67',0,0,Carlos Augusto (Internazionale) Substitution at 67',Carlos Augusto Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,1,271769,2025-01-04 05:46:19
+12970,722180,10,44476839,76,2,4020,67',0,0,Kristjan Asllani (Internazionale) Substitution at 67',Kristjan Asllani Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,1,308881,2025-01-04 05:46:19
+12970,722180,10,44476839,76,2,4020,67',0,0,Kristjan Asllani (Internazionale) Substitution at 67',Kristjan Asllani Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,2,170785,2025-01-04 05:46:19
+12970,722180,9,44476838,76,2,4020,67',0,0,Carlos Augusto (Internazionale) Substitution at 67',Carlos Augusto Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,2,249280,2025-01-04 05:46:19
+12970,722180,11,44476840,76,2,4080,68',0,0,Marco Palestra (Atalanta) Substitution at 68',Marco Palestra Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,1,362486,2025-01-03 05:47:36
+12970,722180,11,44476840,76,2,4080,68',0,0,Marco Palestra (Atalanta) Substitution at 68',Marco Palestra Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,2,284822,2025-01-03 05:47:36
+12970,722180,12,44476843,76,2,4560,76',0,0,Matteo Darmian (Internazionale) Substitution at 76',Matteo Darmian Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,1,91873,2025-01-03 05:47:36
+12970,722180,12,44476843,76,2,4560,76',0,0,Matteo Darmian (Internazionale) Substitution at 76',Matteo Darmian Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,2,194748,2025-01-03 05:47:36
+12970,722180,13,44476844,76,2,4860,81',0,0,Davide Frattesi (Internazionale) Substitution at 81',Davide Frattesi Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,1,250850,2025-01-03 05:47:36
+12970,722180,13,44476844,76,2,4860,81',0,0,Davide Frattesi (Internazionale) Substitution at 81',Davide Frattesi Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,2,204441,2025-01-03 05:47:36
+12970,722180,14,44476846,94,2,5280,88',0,0,Carlos Augusto (Internazionale) Yellow Card at 88',Carlos Augusto Yellow Card,110,0.0,0.0,0.0,0.0,0.0,0.0,1,271769,2025-01-03 05:47:36
+12970,722181,1,44477392,70,1,1260,21',1,0,Kenan Yildiz (Juventus) Goal at 21',Kenan Yildiz Goal,111,0.0,0.0,0.0,0.0,0.0,0.0,1,366509,2025-01-04 05:46:19
+12970,722181,2,44477567,94,1,2700,45'+1',0,0,Weston McKennie (Juventus) Yellow Card at 46',Weston McKennie Yellow Card,111,0.0,0.0,0.0,0.0,0.0,0.0,1,256715,2025-01-04 05:46:19
+12970,722181,3,44477745,76,2,3240,54',0,0,Yunus Musah (AC Milan) Substitution at 54',Yunus Musah Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,1,307527,2025-01-04 05:46:19
+12970,722181,3,44477745,76,2,3240,54',0,0,Yunus Musah (AC Milan) Substitution at 54',Yunus Musah Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,2,214891,2025-01-04 05:46:19
+12970,722181,4,44477796,76,2,3660,61',0,0,Tammy Abraham (AC Milan) Substitution at 61',Tammy Abraham Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,1,236209,2025-01-04 05:46:19
+12970,722181,4,44477796,76,2,3660,61',0,0,Tammy Abraham (AC Milan) Substitution at 61',Tammy Abraham Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,2,313292,2025-01-04 05:46:19
+12970,722181,4,44477796,76,2,3660,61',0,0,Tammy Abraham (AC Milan) Substitution at 61',Tammy Abraham Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,2,367861,2025-01-04 05:46:19
+12970,722181,6,44477843,76,2,3900,65',0,0,Nicolás González (Juventus) Substitution at 65',Nicolás González Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,1,320991,2025-01-04 05:46:19
+12970,722181,6,44477843,76,2,3900,65',0,0,Nicolás González (Juventus) Substitution at 65',Nicolás González Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,1,336610,2025-01-04 05:46:19
+12970,722181,6,44477843,76,2,3900,65',0,0,Nicolás González (Juventus) Substitution at 65',Nicolás González Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,1,336663,2025-01-04 05:46:19
+12970,722181,6,44477843,76,2,3900,65',0,0,Nicolás González (Juventus) Substitution at 65',Nicolás González Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,1,358887,2025-01-04 05:46:19
+12970,722181,6,44477843,76,2,3900,65',0,0,Nicolás González (Juventus) Substitution at 65',Nicolás González Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,1,76017,2025-01-04 05:46:19
+12970,722181,5,44477842,76,2,3900,65',0,0,Andrea Cambiaso (Juventus) Substitution at 65',Andrea Cambiaso Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,1,308029,2025-01-04 05:46:19
+12970,722181,6,44477843,76,2,3900,65',0,0,Nicolás González (Juventus) Substitution at 65',Nicolás González Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,2,235677,2025-01-04 05:46:19
+12970,722181,5,44477842,76,2,3900,65',0,0,Andrea Cambiaso (Juventus) Substitution at 65',Andrea Cambiaso Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,2,355997,2025-01-04 05:46:19
+12970,722181,7,44477886,98,2,4260,71',1,0,Christian Pulisic (AC Milan) Penalty - Scored at 71',Christian Pulisic Penalty - Scor,103,0.0,0.0,0.0,0.0,0.0,0.0,1,225607,2025-01-04 05:46:19
+12970,722181,8,44477920,97,2,4500,75',1,0,Federico Gatti (Juventus) Own Goal at 75',Federico Gatti Own Goal,103,0.0,0.0,0.0,0.0,0.0,0.0,1,323147,2025-01-04 05:46:19
+12970,722181,9,44477987,76,2,4740,79',0,0,Douglas Luiz (Juventus) Substitution at 79',Douglas Luiz Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,1,320074,2025-01-04 05:46:19
+12970,722181,10,44477988,94,2,4740,79',0,0,Emerson Royal (AC Milan) Yellow Card at 79',Emerson Royal Yellow Card,103,0.0,0.0,0.0,0.0,0.0,0.0,1,246844,2025-01-04 05:46:19
+12970,722181,9,44477987,76,2,4740,79',0,0,Douglas Luiz (Juventus) Substitution at 79',Douglas Luiz Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,2,283139,2025-01-04 05:46:19
+12970,722181,12,44478000,76,2,4920,82',0,0,Filippo Terracciano (AC Milan) Substitution at 82',Filippo Terracciano Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,1,303919,2025-01-04 05:46:19
+12970,722181,11,44477999,76,2,4920,82',0,0,Matteo Gabbia (AC Milan) Substitution at 82',Matteo Gabbia Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,1,255922,2025-01-04 05:46:19
+12970,722181,13,44478001,94,2,4920,82',0,0,Christian Pulisic (AC Milan) Yellow Card at 82',Christian Pulisic Yellow Card,103,0.0,0.0,0.0,0.0,0.0,0.0,1,225607,2025-01-04 05:46:19
+12970,722181,11,44477999,76,2,4920,82',0,0,Matteo Gabbia (AC Milan) Substitution at 82',Matteo Gabbia Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,2,246844,2025-01-04 05:46:19
+12970,722181,12,44478000,76,2,4920,82',0,0,Filippo Terracciano (AC Milan) Substitution at 82',Filippo Terracciano Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,2,154446,2025-01-04 05:46:19
+12970,722181,14,44478033,76,2,5100,85',0,0,Nicolo Fagioli (Juventus) Substitution at 85',Nicolo Fagioli Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,1,276254,2025-01-04 05:46:19
+12970,722181,14,44478033,76,2,5100,85',0,0,Nicolo Fagioli (Juventus) Substitution at 85',Nicolo Fagioli Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,2,217538,2025-01-04 05:46:19
+12970,722181,15,44478034,76,2,5160,86',0,0,Timothy Weah (Juventus) Substitution at 86',Timothy Weah Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,1,266027,2025-01-04 05:46:19
+12970,722181,15,44478034,76,2,5160,86',0,0,Timothy Weah (Juventus) Substitution at 86',Timothy Weah Substitution,111,0.0,0.0,0.0,0.0,0.0,0.0,2,256715,2025-01-04 05:46:19
+12969,729248,1,44490396,76,1,2100,35',0,0,Kristjan Asllani (Internazionale) Substitution at 35',Kristjan Asllani Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,1,308881,2025-01-07 05:44:37
+12969,729248,1,44490396,76,1,2100,35',0,0,Kristjan Asllani (Internazionale) Substitution at 35',Kristjan Asllani Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,2,170785,2025-01-07 05:44:37
+12969,729248,2,44490412,70,1,2700,45'+1',1,0,Lautaro Martínez (Internazionale) Goal at 46',Lautaro Martínez Goal,110,0.0,0.0,0.0,0.0,0.0,0.0,1,219713,2025-01-07 05:44:37
+12969,729248,3,44490456,70,2,2820,47',1,0,Mehdi Taremi (Internazionale) Goal at 47',Mehdi Taremi Goal,110,0.0,0.0,0.0,0.0,0.0,0.0,1,219611,2025-01-07 05:44:37
+12969,729248,4,44490468,76,2,3000,50',0,0,Rafael Leão (AC Milan) Substitution at 50',Rafael Leão Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,1,258917,2025-01-07 05:44:37
+12969,729248,4,44490468,76,2,3000,50',0,0,Rafael Leão (AC Milan) Substitution at 50',Rafael Leão Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,2,313292,2025-01-07 05:44:37
+12969,729248,4,44490468,76,2,3000,50',0,0,Rafael Leão (AC Milan) Substitution at 50',Rafael Leão Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,2,367861,2025-01-07 05:44:37
+12969,729248,5,44490469,94,2,3060,51',0,0,Henrikh Mkhitaryan (Internazionale) Yellow Card at 51',Henrikh Mkhitaryan Yellow Card,110,0.0,0.0,0.0,0.0,0.0,0.0,1,147625,2025-01-07 05:44:37
+12969,729248,6,44490470,70,2,3120,52',1,0,Theo Hernández (AC Milan) Goal at 52',Theo Hernández Goal,103,0.0,0.0,0.0,0.0,0.0,0.0,1,233621,2025-01-07 05:44:37
+12969,729248,7,44490481,94,2,3240,54',0,0,Denzel Dumfries (Internazionale) Yellow Card at 54',Denzel Dumfries Yellow Card,110,0.0,0.0,0.0,0.0,0.0,0.0,1,213248,2025-01-07 05:44:37
+12969,729248,8,44490502,94,2,3420,57',0,0,Fikayo Tomori (AC Milan) Yellow Card at 57',Fikayo Tomori Yellow Card,103,0.0,0.0,0.0,0.0,0.0,0.0,1,236210,2025-01-07 05:44:37
+12969,729248,9,44490555,76,2,3900,65',0,0,Piotr Zielinski (Internazionale) Substitution at 65',Piotr Zielinski Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,1,177782,2025-01-07 05:44:37
+12969,729248,9,44490555,76,2,3900,65',0,0,Piotr Zielinski (Internazionale) Substitution at 65',Piotr Zielinski Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,2,147625,2025-01-07 05:44:37
+12969,729248,10,44490556,76,2,3960,66',0,0,Carlos Augusto (Internazionale) Substitution at 66',Carlos Augusto Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,1,271769,2025-01-07 05:44:37
+12969,729248,10,44490556,76,2,3960,66',0,0,Carlos Augusto (Internazionale) Substitution at 66',Carlos Augusto Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,2,194748,2025-01-07 05:44:37
+12969,729248,11,44490594,94,2,4320,72',0,0,Nicolò Barella (Internazionale) Yellow Card at 72',Nicolò Barella Yellow Card,110,0.0,0.0,0.0,0.0,0.0,0.0,1,204441,2025-01-07 05:44:37
+12969,729248,12,44490621,76,2,4620,77',0,0,Tammy Abraham (AC Milan) Substitution at 77',Tammy Abraham Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,1,236209,2025-01-07 05:44:37
+12969,729248,13,44490622,76,2,4620,77',0,0,Ruben Loftus-Cheek (AC Milan) Substitution at 77',Ruben Loftus-Cheek Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,1,186505,2025-01-07 05:44:37
+12969,729248,12,44490621,76,2,4620,77',0,0,Tammy Abraham (AC Milan) Substitution at 77',Tammy Abraham Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,2,307527,2025-01-07 05:44:37
+12969,729248,13,44490622,76,2,4620,77',0,0,Ruben Loftus-Cheek (AC Milan) Substitution at 77',Ruben Loftus-Cheek Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,2,261328,2025-01-07 05:44:37
+12969,729248,14,44490627,70,2,4800,80',1,0,Christian Pulisic (AC Milan) Goal at 80',Christian Pulisic Goal,103,0.0,0.0,0.0,0.0,0.0,0.0,1,225607,2025-01-07 05:44:37
+12969,729248,15,44490662,76,2,5040,84',0,0,Davide Frattesi (Internazionale) Substitution at 84',Davide Frattesi Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,1,250850,2025-01-07 05:44:37
+12969,729248,16,44490663,76,2,5040,84',0,0,Matteo Darmian (Internazionale) Substitution at 84',Matteo Darmian Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,1,91873,2025-01-07 05:44:37
+12969,729248,15,44490662,76,2,5040,84',0,0,Davide Frattesi (Internazionale) Substitution at 84',Davide Frattesi Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,2,204441,2025-01-07 05:44:37
+12969,729248,16,44490663,76,2,5040,84',0,0,Matteo Darmian (Internazionale) Substitution at 84',Matteo Darmian Substitution,110,0.0,0.0,0.0,0.0,0.0,0.0,2,141443,2025-01-07 05:44:37
+12969,729248,17,44490674,76,2,5220,87',0,0,Davide Calabria (AC Milan) Substitution at 87',Davide Calabria Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,1,194747,2025-01-07 05:44:37
+12969,729248,17,44490674,76,2,5220,87',0,0,Davide Calabria (AC Milan) Substitution at 87',Davide Calabria Substitution,103,0.0,0.0,0.0,0.0,0.0,0.0,2,246844,2025-01-07 05:44:37
+12969,729248,18,44490676,94,2,5340,89',0,0,Alessandro Bastoni (Internazionale) Yellow Card at 89',Alessandro Bastoni Yellow Card,110,0.0,0.0,0.0,0.0,0.0,0.0,1,249280,2025-01-07 05:44:37
+12969,729248,19,44490687,70,2,5400,90'+3',1,0,Tammy Abraham (AC Milan) Goal at 93',Tammy Abraham Goal,103,0.0,0.0,0.0,0.0,0.0,0.0,1,236209,2025-01-07 05:44:37

@@ -1,0 +1,50 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13645,754188,1,45613703,70,1,1260,21',1,0,Fermín López (Barcelona) Goal at 21',Fermín López Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,354334,2025-08-11 04:43:12
+13645,754188,2,45613935,70,1,2100,35',1,0,Fermín López (Barcelona) Goal at 35',Fermín López Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,354334,2025-08-11 04:43:12
+13645,754188,3,45613976,70,1,2220,37',1,0,Raphinha (Barcelona) Goal at 37',Raphinha Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,231050,2025-08-13 04:47:55
+13645,754188,3,45613976,70,1,2220,37',1,0,Raphinha (Barcelona) Goal at 37',Raphinha Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,339862,2025-08-13 04:47:55
+13645,754188,4,45614029,70,1,2520,42',1,0,Lamine Yamal (Barcelona) Goal at 42',Lamine Yamal Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,362150,2025-08-11 04:43:12
+13645,754188,7,45614317,76,2,2700,45',0,0,Jesús Rodriguez (Como) Substitution at 45',Jesús Rodriguez Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,1,129732,2025-08-11 04:43:12
+13645,754188,7,45614317,76,2,2700,45',0,0,Jesús Rodriguez (Como) Substitution at 45',Jesús Rodriguez Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,1,140297,2025-08-11 04:43:12
+13645,754188,7,45614317,76,2,2700,45',0,0,Jesús Rodriguez (Como) Substitution at 45',Jesús Rodriguez Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,1,387491,2025-08-11 04:43:12
+13645,754188,5,45614255,76,2,2700,45',0,0,Ferran Torres (Barcelona) Substitution at 45',Ferran Torres Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,265869,2025-08-11 04:43:12
+13645,754188,6,45614270,76,2,2700,45',0,0,Jules Koundé (Barcelona) Substitution at 45',Jules Koundé Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,231692,2025-08-11 04:43:12
+13645,754188,8,45614330,76,2,2700,45',0,0,Jacobo Ramón (Como) Substitution at 45',Jacobo Ramón Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,1,380318,2025-08-11 04:43:12
+13645,754188,9,45614343,76,2,2700,45',0,0,Lucas Da Cunha (Como) Substitution at 45',Lucas Da Cunha Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,1,291285,2025-08-11 04:43:12
+13645,754188,6,45614270,76,2,2700,45',0,0,Jules Koundé (Barcelona) Substitution at 45',Jules Koundé Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,128714,2025-08-11 04:43:12
+13645,754188,5,45614255,76,2,2700,45',0,0,Ferran Torres (Barcelona) Substitution at 45',Ferran Torres Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,230945,2025-08-11 04:43:12
+13645,754188,7,45614317,76,2,2700,45',0,0,Jesús Rodriguez (Como) Substitution at 45',Jesús Rodriguez Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,2,262071,2025-08-11 04:43:12
+13645,754188,8,45614330,76,2,2700,45',0,0,Jacobo Ramón (Como) Substitution at 45',Jacobo Ramón Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,2,292199,2025-08-11 04:43:12
+13645,754188,9,45614343,76,2,2700,45',0,0,Lucas Da Cunha (Como) Substitution at 45',Lucas Da Cunha Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,2,310259,2025-08-11 04:43:12
+13645,754188,10,45614338,70,2,2940,49',1,0,Lamine Yamal (Barcelona) Goal at 49',Lamine Yamal Goal,83,0.0,0.0,0.0,0.0,0.0,0.0,1,362150,2025-08-11 04:43:12
+13645,754188,13,45614476,76,2,3300,55',0,0,Maxence Caqueret (Como) Substitution at 55',Maxence Caqueret Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,1,265912,2025-08-11 04:43:12
+13645,754188,12,45614451,76,2,3300,55',0,0,Alberto Moreno (Como) Substitution at 55',Alberto Moreno Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,1,172998,2025-08-11 04:43:12
+13645,754188,11,45614450,76,2,3300,55',0,0,Assane Diao (Como) Substitution at 55',Assane Diao Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,1,364742,2025-08-11 04:43:12
+13645,754188,12,45614451,76,2,3300,55',0,0,Alberto Moreno (Como) Substitution at 55',Alberto Moreno Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,2,192146,2025-08-11 04:43:12
+13645,754188,13,45614476,76,2,3300,55',0,0,Maxence Caqueret (Como) Substitution at 55',Maxence Caqueret Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,2,311475,2025-08-11 04:43:12
+13645,754188,11,45614450,76,2,3300,55',0,0,Assane Diao (Como) Substitution at 55',Assane Diao Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,2,337858,2025-08-11 04:43:12
+13645,754188,15,45614659,76,2,4080,68',0,0,Gavi (Barcelona) Substitution at 68',Gavi Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,323702,2025-08-11 04:43:12
+13645,754188,14,45614658,76,2,4080,68',0,0,Marc Casadó (Barcelona) Substitution at 68',Marc Casadó Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,345489,2025-08-11 04:43:12
+13645,754188,15,45614659,76,2,4080,68',0,0,Gavi (Barcelona) Substitution at 68',Gavi Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,250465,2025-08-11 04:43:12
+13645,754188,14,45614658,76,2,4080,68',0,0,Marc Casadó (Barcelona) Substitution at 68',Marc Casadó Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,219022,2025-08-11 04:43:12
+13645,754188,16,45614695,76,2,4200,70',0,0,Máximo Perrone (Como) Substitution at 70',Máximo Perrone Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,1,309241,2025-08-11 04:43:12
+13645,754188,16,45614695,76,2,4200,70',0,0,Máximo Perrone (Como) Substitution at 70',Máximo Perrone Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,2,150225,2025-08-11 04:43:12
+13645,754188,20,45614867,76,2,4680,78',0,0,Gerard Martín (Barcelona) Substitution at 78',Gerard Martín Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,312015,2025-08-11 04:43:12
+13645,754188,19,45614866,76,2,4680,78',0,0,Andreas Christensen (Barcelona) Substitution at 78',Andreas Christensen Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,186430,2025-08-11 04:43:12
+13645,754188,17,45614857,76,2,4680,78',0,0,Toni Fernández (Barcelona) Substitution at 78',Toni Fernández Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,388285,2025-08-11 04:43:12
+13645,754188,18,45614865,76,2,4680,78',0,0,Pedro Fernández (Barcelona) Substitution at 78',Pedro Fernández Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,403578,2025-08-11 04:43:12
+13645,754188,17,45614857,76,2,4680,78',0,0,Toni Fernández (Barcelona) Substitution at 78',Toni Fernández Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,354334,2025-08-11 04:43:12
+13645,754188,20,45614867,76,2,4680,78',0,0,Gerard Martín (Barcelona) Substitution at 78',Gerard Martín Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,323703,2025-08-11 04:43:12
+13645,754188,19,45614866,76,2,4680,78',0,0,Andreas Christensen (Barcelona) Substitution at 78',Andreas Christensen Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,270821,2025-08-11 04:43:12
+13645,754188,18,45614865,76,2,4680,78',0,0,Pedro Fernández (Barcelona) Substitution at 78',Pedro Fernández Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,231050,2025-08-11 04:43:12
+13645,754188,18,45614865,76,2,4680,78',0,0,Pedro Fernández (Barcelona) Substitution at 78',Pedro Fernández Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,339862,2025-08-11 04:43:12
+13645,754188,21,45614833,76,2,4740,79',0,0,Roony Bardghji (Barcelona) Substitution at 79',Roony Bardghji Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,331152,2025-08-11 04:43:12
+13645,754188,21,45614833,76,2,4740,79',0,0,Roony Bardghji (Barcelona) Substitution at 79',Roony Bardghji Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,362150,2025-08-11 04:43:12
+13645,754188,22,45614991,76,2,5340,89',0,0,Patrick Cutrone (Como) Substitution at 89',Patrick Cutrone Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,1,238885,2025-08-11 04:43:12
+13645,754188,23,45615011,76,2,5340,89',0,0,Jofre Torrents (Barcelona) Substitution at 89',Jofre Torrents Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,403588,2025-08-11 04:43:12
+13645,754188,23,45615011,76,2,5340,89',0,0,Jofre Torrents (Barcelona) Substitution at 89',Jofre Torrents Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,368992,2025-08-11 04:43:12
+13645,754188,22,45614991,76,2,5340,89',0,0,Patrick Cutrone (Como) Substitution at 89',Patrick Cutrone Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,2,337970,2025-08-11 04:43:12
+13645,754188,24,45614992,76,2,5400,90',0,0,Edoardo Goldaniga (Como) Substitution at 90',Edoardo Goldaniga Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,1,181060,2025-08-11 04:43:12
+13645,754188,25,45615004,76,2,5400,90',0,0,Yannick Engelhardt (Como) Substitution at 90',Yannick Engelhardt Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,1,337079,2025-08-11 04:43:12
+13645,754188,25,45615004,76,2,5400,90',0,0,Yannick Engelhardt (Como) Substitution at 90',Yannick Engelhardt Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,2,221436,2025-08-11 04:43:12
+13645,754188,24,45614992,76,2,5400,90',0,0,Edoardo Goldaniga (Como) Substitution at 90',Edoardo Goldaniga Substitution,2572,0.0,0.0,0.0,0.0,0.0,0.0,2,175887,2025-08-11 04:43:12
