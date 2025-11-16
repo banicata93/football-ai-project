@@ -1,0 +1,92 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13390,736033,1,45498474,70,1,60,1',1,0,Alejandro Zendejas (América) Goal at 1',Alejandro Zendejas Goal,227,0.0,0.0,0.0,0.0,0.0,0.0,1,212824,2025-07-21 04:39:25
+13390,736033,2,45498504,94,1,540,9',0,0,Marcel Ruiz (Toluca) Yellow Card at 9',Marcel Ruiz Yellow Card,223,0.0,0.0,0.0,0.0,0.0,0.0,1,272395,2025-07-21 04:39:25
+13390,736033,3,45498513,70,1,720,12',1,0,Franco Romero (Toluca) Goal at 12',Franco Romero Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,128422,2025-07-21 04:39:25
+13390,736033,4,45498555,94,1,1860,31',0,0,Alexis Vega (Toluca) Yellow Card at 31',Alexis Vega Yellow Card,223,0.0,0.0,0.0,0.0,0.0,0.0,1,229487,2025-07-21 04:39:25
+13390,736033,4,45498555,94,1,1860,31',0,0,Alexis Vega (Toluca) Yellow Card at 31',Alexis Vega Yellow Card,223,0.0,0.0,0.0,0.0,0.0,0.0,1,172724,2025-07-21 04:39:25
+13390,736033,5,45498567,94,1,2160,36',0,0,Álvaro Fidalgo (América) Yellow Card at 36',Álvaro Fidalgo Yellow Card,227,0.0,0.0,0.0,0.0,0.0,0.0,1,283827,2025-07-21 04:39:25
+13390,736033,7,45498577,70,1,2700,45'+5',1,0,Bruno Méndez (Toluca) Goal at 50',Bruno Méndez Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,269902,2025-07-21 04:39:25
+13390,736033,6,45498575,94,1,2700,45'+3',0,0,Isaías Violante (América) Yellow Card at 48',Isaías Violante Yellow Card,227,0.0,0.0,0.0,0.0,0.0,0.0,1,308956,2025-07-21 04:39:25
+13390,736033,8,45498581,94,2,2820,47',0,0,Franco Romero (Toluca) Yellow Card at 47',Franco Romero Yellow Card,223,0.0,0.0,0.0,0.0,0.0,0.0,1,128422,2025-07-21 04:39:25
+13390,736033,9,45498582,76,2,3420,57',0,0,Alexis Gutierrez (América) Substitution at 57',Alexis Gutierrez Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,265866,2025-07-21 04:39:25
+13390,736033,9,45498582,76,2,3420,57',0,0,Alexis Gutierrez (América) Substitution at 57',Alexis Gutierrez Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,347970,2025-07-21 04:39:25
+13390,736033,9,45498582,76,2,3420,57',0,0,Alexis Gutierrez (América) Substitution at 57',Alexis Gutierrez Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,2,285756,2025-07-21 04:39:25
+13390,736033,10,45498583,76,2,3480,58',0,0,Kevin Álvarez (América) Substitution at 58',Kevin Álvarez Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,195312,2025-07-21 04:39:25
+13390,736033,11,45498584,76,2,3480,58',0,0,Raúl Zúñiga (América) Substitution at 58',Raúl Zúñiga Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,290853,2025-07-21 04:39:25
+13390,736033,10,45498583,76,2,3480,58',0,0,Kevin Álvarez (América) Substitution at 58',Kevin Álvarez Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,2,308956,2025-07-21 04:39:25
+13390,736033,11,45498584,76,2,3480,58',0,0,Raúl Zúñiga (América) Substitution at 58',Raúl Zúñiga Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,2,129421,2025-07-21 04:39:25
+13390,736033,12,45498585,94,2,3600,60',0,0,Israel Reyes (América) Yellow Card at 60',Israel Reyes Yellow Card,227,0.0,0.0,0.0,0.0,0.0,0.0,1,290414,2025-07-21 04:39:25
+13390,736033,13,45498586,76,2,3840,64',0,0,Nicolás (Toluca) Substitution at 64',Nicolás Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,57149,2025-07-21 04:39:25
+13390,736033,13,45498586,76,2,3840,64',0,0,Nicolás (Toluca) Substitution at 64',Nicolás Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,272395,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,181866,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,130829,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,139718,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,176945,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,184087,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,337186,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,399136,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,398955,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,392825,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,374001,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,361585,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,358463,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,353128,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,340894,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,332358,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,321362,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,289499,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,285061,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,269506,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,265388,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,258271,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,244704,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,233439,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,198322,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,189480,2025-07-21 04:39:25
+13390,736033,14,45498587,70,2,4200,70',1,0,Paulinho  (Toluca) Goal at 70',Paulinho  Goal,223,0.0,0.0,0.0,0.0,0.0,0.0,1,191648,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,255942,2025-07-21 04:39:25
+13390,736033,16,45498589,76,2,4380,73',0,0,Helinho  (Toluca) Substitution at 73',Helinho  Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,266679,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,176945,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,139718,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,130829,2025-07-21 04:39:25
+13390,736033,16,45498589,76,2,4380,73',0,0,Helinho  (Toluca) Substitution at 73',Helinho  Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,282615,2025-07-21 04:39:25
+13390,736033,16,45498589,76,2,4380,73',0,0,Helinho  (Toluca) Substitution at 73',Helinho  Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,233130,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,258271,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,285061,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,358463,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,361585,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,353128,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,340894,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,337186,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,332358,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,374001,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,392825,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,321362,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,289499,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,269506,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,265388,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,198322,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,184087,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,189480,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,191648,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,244704,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,233439,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,181866,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,399136,2025-07-21 04:39:25
+13390,736033,15,45498588,76,2,4380,73',0,0,Robert Morales (Toluca) Substitution at 73',Robert Morales Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,398955,2025-07-21 04:39:25
+13390,736033,17,45498590,94,2,4680,78',0,0,Federico Pereira (Toluca) Yellow Card at 78',Federico Pereira Yellow Card,223,0.0,0.0,0.0,0.0,0.0,0.0,1,288735,2025-07-21 04:39:25
+13390,736033,18,45498592,76,2,5280,88',0,0,Juan Domínguez (Toluca) Substitution at 88',Juan Domínguez Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,356574,2025-07-21 04:39:25
+13390,736033,18,45498592,76,2,5280,88',0,0,Juan Domínguez (Toluca) Substitution at 88',Juan Domínguez Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,346329,2025-07-21 04:39:25
+13390,736033,18,45498592,76,2,5280,88',0,0,Juan Domínguez (Toluca) Substitution at 88',Juan Domínguez Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,106687,2025-07-21 04:39:25
+13390,736033,18,45498592,76,2,5280,88',0,0,Juan Domínguez (Toluca) Substitution at 88',Juan Domínguez Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,101311,2025-07-21 04:39:25
+13390,736033,18,45498592,76,2,5280,88',0,0,Juan Domínguez (Toluca) Substitution at 88',Juan Domínguez Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,266679,2025-07-21 04:39:25
+13390,736033,19,45498593,93,2,5340,89',0,0,Igor Lichnovsky (América) Red Card at 89',Igor Lichnovsky Red Card,227,0.0,0.0,0.0,0.0,0.0,0.0,1,167681,2025-07-21 04:39:25
+13390,736033,22,45498596,76,2,5400,90'+4',0,0,Alan Cervantes (América) Substitution at 94',Alan Cervantes Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,228351,2025-07-21 04:39:25
+13390,736033,21,45498595,76,2,5400,90'+4',0,0,Ramón Juarez (América) Substitution at 94',Ramón Juarez Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,292413,2025-07-21 04:39:25
+13390,736033,21,45498595,76,2,5400,90'+4',0,0,Ramón Juarez (América) Substitution at 94',Ramón Juarez Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,1,307891,2025-07-21 04:39:25
+13390,736033,20,45498594,76,2,5400,90'+1',0,0,Héctor Herrera (Toluca) Substitution at 91',Héctor Herrera Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,146866,2025-07-21 04:39:25
+13390,736033,20,45498594,76,2,5400,90'+1',0,0,Héctor Herrera (Toluca) Substitution at 91',Héctor Herrera Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,1,339042,2025-07-21 04:39:25
+13390,736033,21,45498595,76,2,5400,90'+4',0,0,Ramón Juarez (América) Substitution at 94',Ramón Juarez Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,2,283827,2025-07-21 04:39:25
+13390,736033,20,45498594,76,2,5400,90'+1',0,0,Héctor Herrera (Toluca) Substitution at 91',Héctor Herrera Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,172724,2025-07-21 04:39:25
+13390,736033,20,45498594,76,2,5400,90'+1',0,0,Héctor Herrera (Toluca) Substitution at 91',Héctor Herrera Substitution,223,0.0,0.0,0.0,0.0,0.0,0.0,2,229487,2025-07-21 04:39:25
+13390,736033,22,45498596,76,2,5400,90'+4',0,0,Alan Cervantes (América) Substitution at 94',Alan Cervantes Substitution,227,0.0,0.0,0.0,0.0,0.0,0.0,2,212824,2025-07-21 04:39:25

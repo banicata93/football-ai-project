@@ -1,0 +1,39 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13587,755876,1,45600580,94,1,120,2',0,0,Yuri Berchiche (Athletic Club) Yellow Card at 2',Yuri Berchiche Yellow Card,93,0.0,0.0,0.0,0.0,0.0,0.0,1,133768,2025-08-10 04:46:38
+13587,755876,2,45600806,76,1,1500,25',0,0,Robert Navarro (Athletic Club) Substitution at 25',Robert Navarro Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,276996,2025-08-10 04:46:38
+13587,755876,2,45600806,76,1,1500,25',0,0,Robert Navarro (Athletic Club) Substitution at 25',Robert Navarro Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,362376,2025-08-10 04:46:38
+13587,755876,3,45600893,70,1,2040,34',1,0,Viktor Gyökeres (Arsenal) Goal at 34',Viktor Gyökeres Goal,359,0.0,0.0,0.0,0.0,0.0,0.0,1,258906,2025-08-10 04:46:38
+13587,755876,4,45600912,70,1,2160,36',1,0,Bukayo Saka (Arsenal) Goal at 36',Bukayo Saka Goal,359,0.0,0.0,0.0,0.0,0.0,0.0,1,280555,2025-08-10 04:46:38
+13587,755876,7,45601116,76,2,2700,45',0,0,Ben White (Arsenal) Substitution at 45',Ben White Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,241077,2025-08-10 04:46:38
+13587,755876,5,45601112,76,2,2700,45',0,0,Mikel Vesga (Athletic Club) Substitution at 45',Mikel Vesga Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,222373,2025-08-10 04:46:38
+13587,755876,6,45601113,76,2,2700,45',0,0,Maroan Sannadi (Athletic Club) Substitution at 45',Maroan Sannadi Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,393762,2025-08-10 04:46:38
+13587,755876,8,45601117,76,2,2700,45',0,0,Noni Madueke (Arsenal) Substitution at 45',Noni Madueke Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,293236,2025-08-10 04:46:38
+13587,755876,8,45601117,76,2,2700,45',0,0,Noni Madueke (Arsenal) Substitution at 45',Noni Madueke Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,269844,2025-08-10 04:46:38
+13587,755876,7,45601116,76,2,2700,45',0,0,Ben White (Arsenal) Substitution at 45',Ben White Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,298329,2025-08-10 04:46:38
+13587,755876,5,45601112,76,2,2700,45',0,0,Mikel Vesga (Athletic Club) Substitution at 45',Mikel Vesga Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,157708,2025-08-10 04:46:38
+13587,755876,6,45601113,76,2,2700,45',0,0,Maroan Sannadi (Athletic Club) Substitution at 45',Maroan Sannadi Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,214412,2025-08-10 04:46:38
+13587,755876,9,45601228,76,2,3780,63',0,0,Cristhian Mosquera (Arsenal) Substitution at 63',Cristhian Mosquera Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,328497,2025-08-10 04:46:38
+13587,755876,9,45601228,76,2,3780,63',0,0,Cristhian Mosquera (Arsenal) Substitution at 63',Cristhian Mosquera Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,236322,2025-08-10 04:46:38
+13587,755876,13,45601236,76,2,3840,64',0,0,Gorka Guruzeta (Athletic Club) Substitution at 64',Gorka Guruzeta Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,231905,2025-08-10 04:46:38
+13587,755876,10,45601233,76,2,3840,64',0,0,Myles Lewis-Skelly (Arsenal) Substitution at 64',Myles Lewis-Skelly Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,352758,2025-08-10 04:46:38
+13587,755876,11,45601234,76,2,3840,64',0,0,Adama Boiro (Athletic Club) Substitution at 64',Adama Boiro Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,379707,2025-08-10 04:46:38
+13587,755876,12,45601235,76,2,3840,64',0,0,Andoni Gorosabel (Athletic Club) Substitution at 64',Andoni Gorosabel Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,245839,2025-08-10 04:46:38
+13587,755876,10,45601233,76,2,3840,64',0,0,Myles Lewis-Skelly (Arsenal) Substitution at 64',Myles Lewis-Skelly Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,282716,2025-08-10 04:46:38
+13587,755876,13,45601236,76,2,3840,64',0,0,Gorka Guruzeta (Athletic Club) Substitution at 64',Gorka Guruzeta Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,300876,2025-08-10 04:46:38
+13587,755876,12,45601235,76,2,3840,64',0,0,Andoni Gorosabel (Athletic Club) Substitution at 64',Andoni Gorosabel Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,312146,2025-08-10 04:46:38
+13587,755876,12,45601235,76,2,3840,64',0,0,Andoni Gorosabel (Athletic Club) Substitution at 64',Andoni Gorosabel Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,379668,2025-08-10 04:46:38
+13587,755876,11,45601234,76,2,3840,64',0,0,Adama Boiro (Athletic Club) Substitution at 64',Adama Boiro Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,133768,2025-08-10 04:46:38
+13587,755876,14,45601265,94,2,4140,69',0,0,Myles Lewis-Skelly (Arsenal) Yellow Card at 69',Myles Lewis-Skelly Yellow Card,359,0.0,0.0,0.0,0.0,0.0,0.0,1,352758,2025-08-10 04:46:38
+13587,755876,15,45601274,76,2,4260,71',0,0,Kai Havertz (Arsenal) Substitution at 71',Kai Havertz Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,231182,2025-08-10 04:46:38
+13587,755876,15,45601274,76,2,4260,71',0,0,Kai Havertz (Arsenal) Substitution at 71',Kai Havertz Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,258906,2025-08-10 04:46:38
+13587,755876,16,45601345,76,2,4740,79',0,0,Jon De Luis (Athletic Club) Substitution at 79',Jon De Luis Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,408483,2025-08-10 04:46:38
+13587,755876,18,45601357,76,2,4740,79',0,0,Nico Serrano (Athletic Club) Substitution at 79',Nico Serrano Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,323971,2025-08-10 04:46:38
+13587,755876,17,45601356,76,2,4740,79',0,0,Alejandro Rego (Athletic Club) Substitution at 79',Alejandro Rego Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,1,403371,2025-08-10 04:46:38
+13587,755876,16,45601345,76,2,4740,79',0,0,Jon De Luis (Athletic Club) Substitution at 79',Jon De Luis Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,274016,2025-08-10 04:46:38
+13587,755876,17,45601356,76,2,4740,79',0,0,Alejandro Rego (Athletic Club) Substitution at 79',Alejandro Rego Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,377792,2025-08-10 04:46:38
+13587,755876,18,45601357,76,2,4740,79',0,0,Nico Serrano (Athletic Club) Substitution at 79',Nico Serrano Substitution,93,0.0,0.0,0.0,0.0,0.0,0.0,2,209579,2025-08-10 04:46:38
+13587,755876,19,45601370,70,2,4920,82',1,0,Kai Havertz (Arsenal) Goal at 82',Kai Havertz Goal,359,0.0,0.0,0.0,0.0,0.0,0.0,1,231182,2025-08-10 04:46:38
+13587,755876,20,45601379,76,2,4980,83',0,0,Mikel Merino (Arsenal) Substitution at 83',Mikel Merino Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,209581,2025-08-10 04:46:38
+13587,755876,21,45601380,76,2,4980,83',0,0,Ethan Nwaneri (Arsenal) Substitution at 83',Ethan Nwaneri Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,349733,2025-08-10 04:46:38
+13587,755876,21,45601380,76,2,4980,83',0,0,Ethan Nwaneri (Arsenal) Substitution at 83',Ethan Nwaneri Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,203669,2025-08-10 04:46:38
+13587,755876,20,45601379,76,2,4980,83',0,0,Mikel Merino (Arsenal) Substitution at 83',Mikel Merino Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,238262,2025-08-10 04:46:38

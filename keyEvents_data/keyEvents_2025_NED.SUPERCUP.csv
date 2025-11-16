@@ -1,0 +1,19 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13485,741282,1,45567480,70,1,2100,35',1,0,Mathis Suray (Go Ahead Eagles) Goal at 35',Mathis Suray Goal,3706,0.0,0.0,0.0,0.0,0.0,0.0,1,308091,2025-08-04 04:47:25
+13485,741282,2,45567596,76,2,3360,56',0,0,Milan Smit (Go Ahead Eagles) Substitution at 56',Milan Smit Substitution,3706,0.0,0.0,0.0,0.0,0.0,0.0,1,338861,2025-08-04 04:47:25
+13485,741282,2,45567596,76,2,3360,56',0,0,Milan Smit (Go Ahead Eagles) Substitution at 56',Milan Smit Substitution,3706,0.0,0.0,0.0,0.0,0.0,0.0,2,285014,2025-08-04 04:47:25
+13485,741282,5,45567622,76,2,3720,62',0,0,Ruben Van Bommel (PSV Eindhoven) Substitution at 62',Ruben Van Bommel Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,1,340252,2025-08-04 04:47:25
+13485,741282,4,45567621,76,2,3720,62',0,0,Guus Til (PSV Eindhoven) Substitution at 62',Guus Til Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,1,240965,2025-08-04 04:47:25
+13485,741282,3,45567618,76,2,3720,62',0,0,Ricardo Pepi (PSV Eindhoven) Substitution at 62',Ricardo Pepi Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,1,289120,2025-08-04 04:47:25
+13485,741282,4,45567621,76,2,3720,62',0,0,Guus Til (PSV Eindhoven) Substitution at 62',Guus Til Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,2,364814,2025-08-04 04:47:25
+13485,741282,3,45567618,76,2,3720,62',0,0,Ricardo Pepi (PSV Eindhoven) Substitution at 62',Ricardo Pepi Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,2,304592,2025-08-04 04:47:25
+13485,741282,5,45567622,76,2,3720,62',0,0,Ruben Van Bommel (PSV Eindhoven) Substitution at 62',Ruben Van Bommel Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,2,240912,2025-08-04 04:47:25
+13485,741282,6,45567623,94,2,3840,64',0,0,Joris Kramer (Go Ahead Eagles) Yellow Card at 64',Joris Kramer Yellow Card,3706,0.0,0.0,0.0,0.0,0.0,0.0,1,218424,2025-08-04 04:47:25
+13485,741282,7,45567655,76,2,4500,75',0,0,Aske Adelgaard (Go Ahead Eagles) Substitution at 75',Aske Adelgaard Substitution,3706,0.0,0.0,0.0,0.0,0.0,0.0,1,347026,2025-08-04 04:47:25
+13485,741282,7,45567655,76,2,4500,75',0,0,Aske Adelgaard (Go Ahead Eagles) Substitution at 75',Aske Adelgaard Substitution,3706,0.0,0.0,0.0,0.0,0.0,0.0,2,308091,2025-08-04 04:47:25
+13485,741282,8,45567662,97,2,4680,78',1,0,Gerrit Nauber (Go Ahead Eagles) Own Goal at 78',Gerrit Nauber Own Goal,148,0.0,0.0,0.0,0.0,0.0,0.0,1,153764,2025-08-04 04:47:25
+13485,741282,9,45567676,76,2,4920,82',0,0,Thibo Baeten (Go Ahead Eagles) Substitution at 82',Thibo Baeten Substitution,3706,0.0,0.0,0.0,0.0,0.0,0.0,1,308986,2025-08-04 04:47:25
+13485,741282,9,45567676,76,2,4920,82',0,0,Thibo Baeten (Go Ahead Eagles) Substitution at 82',Thibo Baeten Substitution,3706,0.0,0.0,0.0,0.0,0.0,0.0,2,304868,2025-08-04 04:47:25
+13485,741282,10,45567677,70,2,5040,84',1,0,Sergiño Dest (PSV Eindhoven) Goal at 84',Sergiño Dest Goal,148,0.0,0.0,0.0,0.0,0.0,0.0,1,266291,2025-08-04 04:47:25
+13485,741282,11,45567680,76,2,5160,86',0,0,Armando Obispo (PSV Eindhoven) Substitution at 86',Armando Obispo Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,1,245918,2025-08-04 04:47:25
+13485,741282,11,45567680,76,2,5160,86',0,0,Armando Obispo (PSV Eindhoven) Substitution at 86',Armando Obispo Substitution,148,0.0,0.0,0.0,0.0,0.0,0.0,2,168318,2025-08-04 04:47:25

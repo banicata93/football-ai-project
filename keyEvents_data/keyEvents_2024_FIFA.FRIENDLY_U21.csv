@@ -1,0 +1,806 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12473,699349,1,42721033,70,1,120,2',1,0,Seedy Jatta (Norway U21) Goal at 2',Seedy Jatta Goal,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,303704.0,2024-03-22 05:20:36
+12473,699349,2,42721101,94,1,780,13',0,0,Kenneth Taylor (Netherlands U21) Yellow Card at 13',Kenneth Taylor Yellow Card,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,282228.0,2024-03-22 05:20:36
+12473,699349,3,42721126,70,1,1080,18',1,0,Ruben Van Bommel (Netherlands U21) Goal at 18',Ruben Van Bommel Goal,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,340252.0,2024-03-22 05:20:36
+12473,699349,4,42721172,76,1,1680,28',0,0,Lasse Nordas (Norway U21) Substitution at 28',Lasse Nordas Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,319226.0,2024-03-22 05:20:36
+12473,699349,4,42721172,76,1,1680,28',0,0,Lasse Nordas (Norway U21) Substitution at 28',Lasse Nordas Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,2,303704.0,2024-03-22 05:20:36
+12473,699349,5,42721174,94,1,1800,30',0,0,Vetle Egeli (Norway U21) Yellow Card at 30',Vetle Egeli Yellow Card,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,319331.0,2024-03-22 05:20:36
+12473,699349,16,42721609,76,2,2700,45',0,0,Oliver Braude (Norway U21) Substitution at 45',Oliver Braude Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,364727.0,2024-03-22 05:20:36
+12473,699349,7,42721582,76,2,2700,45',0,0,Sander Tangvik (Norway U21) Substitution at 45',Sander Tangvik Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,304258.0,2024-03-22 05:20:36
+12473,699349,14,42721589,76,2,2700,45',0,0,Leo Fuhr Hjelde (Norway U21) Substitution at 45',Leo Fuhr Hjelde Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,312592.0,2024-03-22 05:20:36
+12473,699349,9,42721584,76,2,2700,45',0,0,Tobias Guddal (Norway U21) Substitution at 45',Tobias Guddal Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,382244.0,2024-03-22 05:20:36
+12473,699349,15,42721608,76,2,2700,45',0,0,Fredrik Oppegard (Norway U21) Substitution at 45',Fredrik Oppegard Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,310134.0,2024-03-22 05:20:36
+12473,699349,10,42721585,76,2,2700,45',0,0,Robin Roefs (Netherlands U21) Substitution at 45',Robin Roefs Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,301449.0,2024-03-22 05:20:36
+12473,699349,12,42721587,76,2,2700,45',0,0,Isak Hansen-Aarøen (Norway U21) Substitution at 45',Isak Hansen-Aarøen Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,308227.0,2024-03-22 05:20:36
+12473,699349,13,42721588,76,2,2700,45',0,0,Andreas Schjelderup (Norway U21) Substitution at 45',Andreas Schjelderup Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,313415.0,2024-03-22 05:20:36
+12473,699349,8,42721583,76,2,2700,45',0,0,Youri Regeer (Netherlands U21) Substitution at 45',Youri Regeer Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,297292.0,2024-03-22 05:20:36
+12473,699349,11,42721586,76,2,2700,45',0,0,Odin Holm (Norway U21) Substitution at 45',Odin Holm Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,285949.0,2024-03-22 05:20:36
+12473,699349,6,42721581,76,2,2700,45',0,0,Ian Maatsen (Netherlands U21) Substitution at 45',Ian Maatsen Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,281125.0,2024-03-22 05:20:36
+12473,699349,14,42721589,76,2,2700,45',0,0,Leo Fuhr Hjelde (Norway U21) Substitution at 45',Leo Fuhr Hjelde Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,2,303791.0,2024-03-22 05:20:36
+12473,699349,13,42721588,76,2,2700,45',0,0,Andreas Schjelderup (Norway U21) Substitution at 45',Andreas Schjelderup Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-03-22 05:20:36
+12473,699349,9,42721584,76,2,2700,45',0,0,Tobias Guddal (Norway U21) Substitution at 45',Tobias Guddal Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,2,333786.0,2024-03-22 05:20:36
+12473,699349,15,42721608,76,2,2700,45',0,0,Fredrik Oppegard (Norway U21) Substitution at 45',Fredrik Oppegard Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,2,319331.0,2024-03-22 05:20:36
+12473,699349,11,42721586,76,2,2700,45',0,0,Odin Holm (Norway U21) Substitution at 45',Odin Holm Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-03-22 05:20:36
+12473,699349,16,42721609,76,2,2700,45',0,0,Oliver Braude (Norway U21) Substitution at 45',Oliver Braude Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,2,333755.0,2024-03-22 05:20:36
+12473,699349,10,42721585,76,2,2700,45',0,0,Robin Roefs (Netherlands U21) Substitution at 45',Robin Roefs Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,305931.0,2024-03-22 05:20:36
+12473,699349,12,42721587,76,2,2700,45',0,0,Isak Hansen-Aarøen (Norway U21) Substitution at 45',Isak Hansen-Aarøen Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,2,307477.0,2024-03-22 05:20:36
+12473,699349,7,42721582,76,2,2700,45',0,0,Sander Tangvik (Norway U21) Substitution at 45',Sander Tangvik Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,2,323784.0,2024-03-22 05:20:36
+12473,699349,6,42721581,76,2,2700,45',0,0,Ian Maatsen (Netherlands U21) Substitution at 45',Ian Maatsen Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,282228.0,2024-03-22 05:20:36
+12473,699349,8,42721583,76,2,2700,45',0,0,Youri Regeer (Netherlands U21) Substitution at 45',Youri Regeer Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,340252.0,2024-03-22 05:20:36
+12473,699349,17,42721720,94,2,3120,52',0,0,Tobias Guddal (Norway U21) Yellow Card at 52',Tobias Guddal Yellow Card,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,382244.0,2024-03-22 05:20:36
+12473,699349,18,42721751,70,2,3300,55',1,0,Andreas Schjelderup (Norway U21) Goal at 55',Andreas Schjelderup Goal,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,313415.0,2024-03-22 05:20:36
+12473,699349,19,42721832,94,2,3540,59',0,0,Julian Baas (Netherlands U21) Yellow Card at 59',Julian Baas Yellow Card,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,304485.0,2024-03-22 05:20:36
+12473,699349,22,42721892,76,2,3720,62',0,0,Noah Ohio (Netherlands U21) Substitution at 62',Noah Ohio Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,312759.0,2024-03-22 05:20:36
+12473,699349,23,42721893,76,2,3720,62',0,0,Bjorn Meijer (Netherlands U21) Substitution at 62',Bjorn Meijer Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,304618.0,2024-03-22 05:20:36
+12473,699349,21,42721891,76,2,3720,62',0,0,Ibrahim Cissoko (Netherlands U21) Substitution at 62',Ibrahim Cissoko Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,297340.0,2024-03-22 05:20:36
+12473,699349,24,42721894,76,2,3720,62',0,0,Bryan Fiabema (Norway U21) Substitution at 62',Bryan Fiabema Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,290071.0,2024-03-22 05:20:36
+12473,699349,20,42721890,76,2,3720,62',0,0,Ryan Flamingo (Netherlands U21) Substitution at 62',Ryan Flamingo Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,304478.0,2024-03-22 05:20:36
+12473,699349,22,42721892,76,2,3720,62',0,0,Noah Ohio (Netherlands U21) Substitution at 62',Noah Ohio Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,309156.0,2024-03-22 05:20:36
+12473,699349,24,42721894,76,2,3720,62',0,0,Bryan Fiabema (Norway U21) Substitution at 62',Bryan Fiabema Substitution,14253,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-03-22 05:20:36
+12473,699349,23,42721893,76,2,3720,62',0,0,Bjorn Meijer (Netherlands U21) Substitution at 62',Bjorn Meijer Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,305590.0,2024-03-22 05:20:36
+12473,699349,20,42721890,76,2,3720,62',0,0,Ryan Flamingo (Netherlands U21) Substitution at 62',Ryan Flamingo Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,304485.0,2024-03-22 05:20:36
+12473,699349,21,42721891,76,2,3720,62',0,0,Ibrahim Cissoko (Netherlands U21) Substitution at 62',Ibrahim Cissoko Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,305628.0,2024-03-22 05:20:36
+12473,699349,25,42722072,94,2,4260,71',0,0,Max Bruns (Netherlands U21) Yellow Card at 71',Max Bruns Yellow Card,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,310724.0,2024-03-22 05:20:36
+12473,699349,27,42722114,76,2,4740,79',0,0,Jorrel Hato (Netherlands U21) Substitution at 79',Jorrel Hato Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,353951.0,2024-03-22 05:20:36
+12473,699349,26,42722113,76,2,4740,79',0,0,Devyne Rensch (Netherlands U21) Substitution at 79',Devyne Rensch Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,297300.0,2024-03-22 05:20:36
+12473,699349,27,42722114,76,2,4740,79',0,0,Jorrel Hato (Netherlands U21) Substitution at 79',Jorrel Hato Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,292393.0,2024-03-22 05:20:36
+12473,699349,26,42722113,76,2,4740,79',0,0,Devyne Rensch (Netherlands U21) Substitution at 79',Devyne Rensch Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,310724.0,2024-03-22 05:20:36
+12473,699349,28,42722124,94,2,5040,84',0,0,Lasse Nordas (Norway U21) Yellow Card at 84',Lasse Nordas Yellow Card,14253,0.0,0.0,0.0,0.0,0.0,0.0,1,319226.0,2024-03-22 05:20:36
+12473,699349,29,42722198,94,2,5400,90',0,0,Youri Regeer (Netherlands U21) Yellow Card at 90',Youri Regeer Yellow Card,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,297292.0,2024-03-22 05:20:36
+12473,701621,1,42874613,70,1,840,14',1,0,Oscar Wilhelmsson (Sweden U21) Goal at 14',Oscar Wilhelmsson Goal,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,292958.0,2024-04-14 10:04:32
+12473,701621,2,42874614,70,1,1080,18',1,0,António Fóti (Cyprus U21) Goal at 18',António Fóti Goal,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,335078.0,2024-04-14 10:04:32
+12473,701621,3,42874615,70,1,1440,24',1,0,Oscar Wilhelmsson (Sweden U21) Goal at 24',Oscar Wilhelmsson Goal,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,292958.0,2024-04-14 10:04:32
+12473,701621,4,42874616,70,1,1560,26',1,0,Yasin Ayari (Sweden U21) Goal at 26',Yasin Ayari Goal,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,304242.0,2024-04-14 10:04:32
+12473,701621,5,42874617,70,1,1920,32',1,0,Oscar Wilhelmsson (Sweden U21) Goal at 32',Oscar Wilhelmsson Goal,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,292958.0,2024-04-14 10:04:32
+12473,701621,6,42874618,94,1,2400,40',0,0,António Fóti (Cyprus U21) Yellow Card at 40',António Fóti Yellow Card,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,335078.0,2024-04-14 10:04:32
+12473,701621,21,42874633,76,2,2700,45',0,0,Giorgos Pontikou (Cyprus U21) Substitution at 45',Giorgos Pontikou Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,345732.0,2024-04-14 10:04:32
+12473,701621,16,42874628,76,2,2700,45',0,0,Andreas Demetriou (Cyprus U21) Substitution at 45',Andreas Demetriou Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,257964.0,2024-04-14 10:04:32
+12473,701621,18,42874630,76,2,2700,45',0,0,Lysandros Papastylianou (Cyprus U21) Substitution at 45',Lysandros Papastylianou Substitu,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,382649.0,2024-04-14 10:04:32
+12473,701621,9,42874621,76,2,2700,45',0,0,Jusef Erabi (Sweden U21) Substitution at 45',Jusef Erabi Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,315675.0,2024-04-14 10:04:32
+12473,701621,14,42874626,76,2,2700,45',0,0,Strahinja Kerkez (Cyprus U21) Substitution at 45',Strahinja Kerkez Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,323170.0,2024-04-14 10:04:32
+12473,701621,20,42874632,76,2,2700,45',0,0,Andreas Asimenos (Cyprus U21) Substitution at 45',Andreas Asimenos Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,324538.0,2024-04-14 10:04:32
+12473,701621,13,42874625,76,2,2700,45',0,0,Irodotos Christodoulou (Cyprus U21) Substitution at 45',Irodotos Christodoulou Substitut,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,370032.0,2024-04-14 10:04:32
+12473,701621,8,42874620,76,2,2700,45',0,0,Noah Persson (Sweden U21) Substitution at 45',Noah Persson Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,318778.0,2024-04-14 10:04:32
+12473,701621,12,42874624,76,2,2700,45',0,0,Momodou Sonko (Sweden U21) Substitution at 45',Momodou Sonko Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,325338.0,2024-04-14 10:04:32
+12473,701621,19,42874631,76,2,2700,45',0,0,Stylianos Vrontis (Cyprus U21) Substitution at 45',Stylianos Vrontis Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,342890.0,2024-04-14 10:04:32
+12473,701621,15,42874627,76,2,2700,45',0,0,Giorgos Viktoros (Cyprus U21) Substitution at 45',Giorgos Viktoros Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,382651.0,2024-04-14 10:04:32
+12473,701621,17,42874629,76,2,2700,45',0,0,Themistoklis Themistokleous (Cyprus U21) Substitution at 45',Themistoklis Themistokleous Subs,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,382650.0,2024-04-14 10:04:32
+12473,701621,11,42874623,76,2,2700,45',0,0,Otto Rosengren (Sweden U21) Substitution at 45',Otto Rosengren Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,315679.0,2024-04-14 10:04:32
+12473,701621,7,42874619,76,2,2700,45',0,0,Noel Tornqvist (Sweden U21) Substitution at 45',Noel Tornqvist Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,301377.0,2024-04-14 10:04:32
+12473,701621,10,42874622,76,2,2700,45',0,0,Melker Widell (Sweden U21) Substitution at 45',Melker Widell Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,330240.0,2024-04-14 10:04:32
+12473,701621,15,42874627,76,2,2700,45',0,0,Giorgos Viktoros (Cyprus U21) Substitution at 45',Giorgos Viktoros Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,341487.0,2024-04-14 10:04:32
+12473,701621,18,42874630,76,2,2700,45',0,0,Lysandros Papastylianou (Cyprus U21) Substitution at 45',Lysandros Papastylianou Substitu,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,368349.0,2024-04-14 10:04:32
+12473,701621,20,42874632,76,2,2700,45',0,0,Andreas Asimenos (Cyprus U21) Substitution at 45',Andreas Asimenos Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,376824.0,2024-04-14 10:04:32
+12473,701621,19,42874631,76,2,2700,45',0,0,Stylianos Vrontis (Cyprus U21) Substitution at 45',Stylianos Vrontis Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,370034.0,2024-04-14 10:04:32
+12473,701621,11,42874623,76,2,2700,45',0,0,Otto Rosengren (Sweden U21) Substitution at 45',Otto Rosengren Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,2,303787.0,2024-04-14 10:04:32
+12473,701621,21,42874633,76,2,2700,45',0,0,Giorgos Pontikou (Cyprus U21) Substitution at 45',Giorgos Pontikou Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,338236.0,2024-04-14 10:04:32
+12473,701621,10,42874622,76,2,2700,45',0,0,Melker Widell (Sweden U21) Substitution at 45',Melker Widell Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,2,356379.0,2024-04-14 10:04:32
+12473,701621,13,42874625,76,2,2700,45',0,0,Irodotos Christodoulou (Cyprus U21) Substitution at 45',Irodotos Christodoulou Substitut,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,370030.0,2024-04-14 10:04:32
+12473,701621,16,42874628,76,2,2700,45',0,0,Andreas Demetriou (Cyprus U21) Substitution at 45',Andreas Demetriou Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,367740.0,2024-04-14 10:04:32
+12473,701621,17,42874629,76,2,2700,45',0,0,Themistoklis Themistokleous (Cyprus U21) Substitution at 45',Themistoklis Themistokleous Subs,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,335078.0,2024-04-14 10:04:32
+12473,701621,8,42874620,76,2,2700,45',0,0,Noah Persson (Sweden U21) Substitution at 45',Noah Persson Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,2,329653.0,2024-04-14 10:04:32
+12473,701621,7,42874619,76,2,2700,45',0,0,Noel Tornqvist (Sweden U21) Substitution at 45',Noel Tornqvist Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,2,291945.0,2024-04-14 10:04:32
+12473,701621,14,42874626,76,2,2700,45',0,0,Strahinja Kerkez (Cyprus U21) Substitution at 45',Strahinja Kerkez Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,325203.0,2024-04-14 10:04:32
+12473,701621,12,42874624,76,2,2700,45',0,0,Momodou Sonko (Sweden U21) Substitution at 45',Momodou Sonko Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,2,288932.0,2024-04-14 10:04:32
+12473,701621,9,42874621,76,2,2700,45',0,0,Jusef Erabi (Sweden U21) Substitution at 45',Jusef Erabi Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,2,292958.0,2024-04-14 10:04:32
+12473,701621,23,42874635,76,2,3360,56',0,0,Taha Ayari (Sweden U21) Substitution at 56',Taha Ayari Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,347636.0,2024-04-14 10:04:32
+12473,701621,22,42874634,76,2,3360,56',0,0,Jonas Rouhi (Sweden U21) Substitution at 56',Jonas Rouhi Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,355999.0,2024-04-14 10:04:32
+12473,701621,23,42874635,76,2,3360,56',0,0,Taha Ayari (Sweden U21) Substitution at 56',Taha Ayari Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,2,331152.0,2024-04-14 10:04:32
+12473,701621,22,42874634,76,2,3360,56',0,0,Jonas Rouhi (Sweden U21) Substitution at 56',Jonas Rouhi Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,2,323272.0,2024-04-14 10:04:32
+12473,701621,24,42874636,76,2,3540,59',0,0,Evangelos Andreou (Cyprus U21) Substitution at 59',Evangelos Andreou Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,323214.0,2024-04-14 10:04:32
+12473,701621,24,42874636,76,2,3540,59',0,0,Evangelos Andreou (Cyprus U21) Substitution at 59',Evangelos Andreou Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,305924.0,2024-04-14 10:04:32
+12473,701621,25,42874637,94,2,3720,62',0,0,Themistoklis Themistokleous (Cyprus U21) Yellow Card at 62',Themistoklis Themistokleous Yell,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,382650.0,2024-04-14 10:04:32
+12473,701621,26,42874638,76,2,3900,65',0,0,Noah Eile (Sweden U21) Substitution at 65',Noah Eile Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,303608.0,2024-04-14 10:04:32
+12473,701621,26,42874638,76,2,3900,65',0,0,Noah Eile (Sweden U21) Substitution at 65',Noah Eile Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,2,298070.0,2024-04-14 10:04:32
+12473,701621,27,42874639,76,2,3960,66',0,0,Patric Åslund (Sweden U21) Substitution at 66',Patric Åslund Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,378837.0,2024-04-14 10:04:32
+12473,701621,27,42874639,76,2,3960,66',0,0,Patric Åslund (Sweden U21) Substitution at 66',Patric Åslund Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,2,304242.0,2024-04-14 10:04:32
+12473,701621,28,42874640,94,2,4020,67',0,0,Jonas Rouhi (Sweden U21) Yellow Card at 67',Jonas Rouhi Yellow Card,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,355999.0,2024-04-14 10:04:32
+12473,701621,29,42874641,70,2,4080,68',1,0,Melker Widell (Sweden U21) Goal at 68',Melker Widell Goal,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,330240.0,2024-04-14 10:04:32
+12473,701621,30,42874642,70,2,4260,71',1,0,Momodou Sonko (Sweden U21) Goal at 71',Momodou Sonko Goal,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,325338.0,2024-04-14 10:04:32
+12473,701621,31,42874643,76,2,4440,74',0,0,Elias Olsson (Sweden U21) Substitution at 74',Elias Olsson Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,304220.0,2024-04-14 10:04:32
+12473,701621,31,42874643,76,2,4440,74',0,0,Elias Olsson (Sweden U21) Substitution at 74',Elias Olsson Substitution,4365,0.0,0.0,0.0,0.0,0.0,0.0,2,310709.0,2024-04-14 10:04:32
+12473,701621,32,42874644,94,2,5280,88',0,0,Jusef Erabi (Sweden U21) Yellow Card at 88',Jusef Erabi Yellow Card,4365,0.0,0.0,0.0,0.0,0.0,0.0,1,315675.0,2024-04-14 10:04:32
+12473,701622,1,42939281,70,1,960,16',1,0,Semih Kiliçsoy (Turkey U21) Goal at 16',Semih Kiliçsoy Goal,19208,0.0,0.0,0.0,0.0,0.0,0.0,1,345212.0,2024-04-19 05:16:14
+12473,701622,2,42939282,94,1,1620,27',0,0,Nikoloz Ugrekhelidze (Georgia U21) Yellow Card at 27',Nikoloz Ugrekhelidze Yellow Card,20956,0.0,0.0,0.0,0.0,0.0,0.0,1,343258.0,2024-04-19 05:16:14
+12473,701622,7,42939287,76,2,2700,45',0,0,Zurab Rukhadze (Georgia U21) Substitution at 45',Zurab Rukhadze Substitution,20956,0.0,0.0,0.0,0.0,0.0,0.0,1,369966.0,2024-04-19 05:16:14
+12473,701622,4,42939284,76,2,2700,45',0,0,Emirhan Ilkhan (Turkey U21) Substitution at 45',Emirhan Ilkhan Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,1,330707.0,2024-04-19 05:16:14
+12473,701622,5,42939285,76,2,2700,45',0,0,Giorgi Abuashvili (Georgia U21) Substitution at 45',Giorgi Abuashvili Substitution,20956,0.0,0.0,0.0,0.0,0.0,0.0,1,289555.0,2024-04-19 05:16:14
+12473,701622,6,42939286,76,2,2700,45',0,0,Saba Khvadagiani (Georgia U21) Substitution at 45',Saba Khvadagiani Substitution,20956,0.0,0.0,0.0,0.0,0.0,0.0,1,307730.0,2024-04-19 05:16:14
+12473,701622,8,42939288,76,2,2700,45',0,0,Nikoloz Tskhovrebashvili (Georgia U21) Substitution at 45',Nikoloz Tskhovrebashvili Substit,20956,0.0,0.0,0.0,0.0,0.0,0.0,1,369965.0,2024-04-19 05:16:14
+12473,701622,3,42939283,76,2,2700,45',0,0,Erencan Yardimci (Turkey U21) Substitution at 45',Erencan Yardimci Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,1,290402.0,2024-04-19 05:16:14
+12473,701622,8,42939288,76,2,2700,45',0,0,Nikoloz Tskhovrebashvili (Georgia U21) Substitution at 45',Nikoloz Tskhovrebashvili Substit,20956,0.0,0.0,0.0,0.0,0.0,0.0,2,341829.0,2024-04-19 05:16:14
+12473,701622,7,42939287,76,2,2700,45',0,0,Zurab Rukhadze (Georgia U21) Substitution at 45',Zurab Rukhadze Substitution,20956,0.0,0.0,0.0,0.0,0.0,0.0,2,342596.0,2024-04-19 05:16:14
+12473,701622,3,42939283,76,2,2700,45',0,0,Erencan Yardimci (Turkey U21) Substitution at 45',Erencan Yardimci Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,2,317076.0,2024-04-19 05:16:14
+12473,701622,5,42939285,76,2,2700,45',0,0,Giorgi Abuashvili (Georgia U21) Substitution at 45',Giorgi Abuashvili Substitution,20956,0.0,0.0,0.0,0.0,0.0,0.0,2,307736.0,2024-04-19 05:16:14
+12473,701622,6,42939286,76,2,2700,45',0,0,Saba Khvadagiani (Georgia U21) Substitution at 45',Saba Khvadagiani Substitution,20956,0.0,0.0,0.0,0.0,0.0,0.0,2,343258.0,2024-04-19 05:16:14
+12473,701622,4,42939284,76,2,2700,45',0,0,Emirhan Ilkhan (Turkey U21) Substitution at 45',Emirhan Ilkhan Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,2,311984.0,2024-04-19 05:16:14
+12473,701622,9,42939289,98,2,3300,55',1,0,Bertug Ozgur Yildirim (Turkey U21) Penalty - Scored at 55',Bertug Ozgur Yildirim Penalty - ,19208,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-04-19 05:16:14
+12473,701622,10,42939290,70,2,3480,58',1,0,Giorgi Abuashvili (Georgia U21) Goal at 58',Giorgi Abuashvili Goal,20956,0.0,0.0,0.0,0.0,0.0,0.0,1,289555.0,2024-04-19 05:16:14
+12473,701622,11,42939291,76,2,4380,73',0,0,Metehan Baltaci (Turkey U21) Substitution at 73',Metehan Baltaci Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,1,345237.0,2024-04-19 05:16:14
+12473,701622,12,42939292,76,2,4380,73',0,0,Vasilios Gordeziani (Georgia U21) Substitution at 73',Vasilios Gordeziani Substitution,20956,0.0,0.0,0.0,0.0,0.0,0.0,1,322718.0,2024-04-19 05:16:14
+12473,701622,13,42939293,76,2,4380,73',0,0,Nika Sikharulashvili (Georgia U21) Substitution at 73',Nika Sikharulashvili Substitutio,20956,0.0,0.0,0.0,0.0,0.0,0.0,1,382642.0,2024-04-19 05:16:14
+12473,701622,11,42939291,76,2,4380,73',0,0,Metehan Baltaci (Turkey U21) Substitution at 73',Metehan Baltaci Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,2,295169.0,2024-04-19 05:16:14
+12473,701622,13,42939293,76,2,4380,73',0,0,Nika Sikharulashvili (Georgia U21) Substitution at 73',Nika Sikharulashvili Substitutio,20956,0.0,0.0,0.0,0.0,0.0,0.0,2,363719.0,2024-04-19 05:16:14
+12473,701622,12,42939292,76,2,4380,73',0,0,Vasilios Gordeziani (Georgia U21) Substitution at 73',Vasilios Gordeziani Substitution,20956,0.0,0.0,0.0,0.0,0.0,0.0,2,320283.0,2024-04-19 05:16:14
+12473,701622,16,42939296,76,2,4680,78',0,0,Livan Burcu (Turkey U21) Substitution at 78',Livan Burcu Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,1,366823.0,2024-04-19 05:16:14
+12473,701622,14,42939294,76,2,4680,78',0,0,Emircan Gürlük (Turkey U21) Substitution at 78',Emircan Gürlük Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,1,364422.0,2024-04-19 05:16:14
+12473,701622,15,42939295,76,2,4680,78',0,0,Kazimcan Karatas (Turkey U21) Substitution at 78',Kazimcan Karatas Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,1,301345.0,2024-04-19 05:16:14
+12473,701622,16,42939296,76,2,4680,78',0,0,Livan Burcu (Turkey U21) Substitution at 78',Livan Burcu Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,2,303546.0,2024-04-19 05:16:14
+12473,701622,14,42939294,76,2,4680,78',0,0,Emircan Gürlük (Turkey U21) Substitution at 78',Emircan Gürlük Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-04-19 05:16:14
+12473,701622,15,42939295,76,2,4680,78',0,0,Kazimcan Karatas (Turkey U21) Substitution at 78',Kazimcan Karatas Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,2,346213.0,2024-04-19 05:16:14
+12473,701622,17,42939298,94,2,5160,86',0,0,Ravil Tagir (Turkey U21) Yellow Card at 86',Ravil Tagir Yellow Card,19208,0.0,0.0,0.0,0.0,0.0,0.0,1,308200.0,2024-04-19 05:16:14
+12473,701622,19,42939300,76,2,5220,87',0,0,Irakli Yegoian (Georgia U21) Substitution at 87',Irakli Yegoian Substitution,20956,0.0,0.0,0.0,0.0,0.0,0.0,1,343207.0,2024-04-19 05:16:14
+12473,701622,18,42939299,76,2,5220,87',0,0,Davit Zurabiani (Georgia U21) Substitution at 87',Davit Zurabiani Substitution,20956,0.0,0.0,0.0,0.0,0.0,0.0,1,305443.0,2024-04-19 05:16:14
+12473,701622,18,42939299,76,2,5220,87',0,0,Davit Zurabiani (Georgia U21) Substitution at 87',Davit Zurabiani Substitution,20956,0.0,0.0,0.0,0.0,0.0,0.0,2,342743.0,2024-04-19 05:16:14
+12473,701622,19,42939300,76,2,5220,87',0,0,Irakli Yegoian (Georgia U21) Substitution at 87',Irakli Yegoian Substitution,20956,0.0,0.0,0.0,0.0,0.0,0.0,2,363886.0,2024-04-19 05:16:14
+12473,701622,20,42939301,94,2,5280,88',0,0,Semih Kiliçsoy (Turkey U21) Yellow Card at 88',Semih Kiliçsoy Yellow Card,19208,0.0,0.0,0.0,0.0,0.0,0.0,1,345212.0,2024-04-19 05:16:14
+12473,701622,21,42939302,76,2,5400,90'+3',0,0,Vefa Temel (Turkey U21) Substitution at 93',Vefa Temel Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,1,330712.0,2024-04-19 05:16:14
+12473,701622,21,42939302,76,2,5400,90'+3',0,0,Vefa Temel (Turkey U21) Substitution at 93',Vefa Temel Substitution,19208,0.0,0.0,0.0,0.0,0.0,0.0,2,345212.0,2024-04-19 05:16:14
+12473,716794,1,43716701,94,1,60,1',0,0,Liam Delap (England U21) Yellow Card at 1',Liam Delap Yellow Card,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,307114.0,2024-09-11 05:42:23
+12473,716794,2,43716999,98,1,1500,25',1,0,Morgan Rogers (England U21) Penalty - Scored at 25',Morgan Rogers Penalty - Scored,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,265653.0,2024-09-11 05:42:23
+12473,716794,3,43717122,70,1,2100,35',1,0,Thierno Ballo (Austria U21) Goal at 35',Thierno Ballo Goal,19350,0.0,0.0,0.0,0.0,0.0,0.0,1,296408.0,2024-09-11 05:42:23
+12473,716794,4,43717202,94,1,2460,41',0,0,Florian Micheler (Austria U21) Yellow Card at 41',Florian Micheler Yellow Card,19350,0.0,0.0,0.0,0.0,0.0,0.0,1,389264.0,2024-09-11 05:42:23
+12473,716794,6,43717343,76,2,2700,45',0,0,Paul-Friedrich Koller (Austria U21) Substitution at 45',Paul-Friedrich Koller Substituti,19350,0.0,0.0,0.0,0.0,0.0,0.0,1,283951.0,2024-09-11 05:42:23
+12473,716794,5,43717342,76,2,2700,45',0,0,Charlie Cresswell (England U21) Substitution at 45',Charlie Cresswell Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,307713.0,2024-09-11 05:42:23
+12473,716794,7,43717344,76,2,2700,45',0,0,Matthias Braunöder (Austria U21) Substitution at 45',Matthias Braunöder Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,1,305676.0,2024-09-11 05:42:23
+12473,716794,7,43717344,76,2,2700,45',0,0,Matthias Braunöder (Austria U21) Substitution at 45',Matthias Braunöder Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,2,389264.0,2024-09-11 05:42:23
+12473,716794,6,43717343,76,2,2700,45',0,0,Paul-Friedrich Koller (Austria U21) Substitution at 45',Paul-Friedrich Koller Substituti,19350,0.0,0.0,0.0,0.0,0.0,0.0,2,308023.0,2024-09-11 05:42:23
+12473,716794,5,43717342,76,2,2700,45',0,0,Charlie Cresswell (England U21) Substitution at 45',Charlie Cresswell Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,281121.0,2024-09-11 05:42:23
+12473,716794,8,43717382,70,2,2940,49',1,0,Morgan Rogers (England U21) Goal at 49',Morgan Rogers Goal,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,265653.0,2024-09-11 05:42:23
+12473,716794,9,43717479,76,2,3240,54',0,0,Nikolas Sattlberger (Austria U21) Substitution at 54',Nikolas Sattlberger Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,1,345959.0,2024-09-11 05:42:23
+12473,716794,9,43717479,76,2,3240,54',0,0,Nikolas Sattlberger (Austria U21) Substitution at 54',Nikolas Sattlberger Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,2,364525.0,2024-09-11 05:42:23
+12473,716794,10,43717533,70,2,3540,59',1,0,James McAtee (England U21) Goal at 59',James McAtee Goal,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,298518.0,2024-09-11 05:42:23
+12473,716794,11,43717553,76,2,3600,60',0,0,Jamie Bynoe-Gittens (England U21) Substitution at 60',Jamie Bynoe-Gittens Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,339879.0,2024-09-11 05:42:23
+12473,716794,12,43717554,76,2,3600,60',0,0,Hayden Hackney (England U21) Substitution at 60',Hayden Hackney Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,282978.0,2024-09-11 05:42:23
+12473,716794,11,43717553,76,2,3600,60',0,0,Jamie Bynoe-Gittens (England U21) Substitution at 60',Jamie Bynoe-Gittens Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,265653.0,2024-09-11 05:42:23
+12473,716794,12,43717554,76,2,3600,60',0,0,Hayden Hackney (England U21) Substitution at 60',Hayden Hackney Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,314790.0,2024-09-11 05:42:23
+12473,716794,13,43717628,76,2,3840,64',0,0,Oluwaseun Adewumi (Austria U21) Substitution at 64',Oluwaseun Adewumi Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,1,390645.0,2024-09-11 05:42:23
+12473,716794,14,43717629,76,2,3840,64',0,0,Angelo Gattermayer (Austria U21) Substitution at 64',Angelo Gattermayer Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,1,319397.0,2024-09-11 05:42:23
+12473,716794,15,43717630,76,2,3840,64',0,0,Moritz Oswald (Austria U21) Substitution at 64',Moritz Oswald Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,1,330040.0,2024-09-11 05:42:23
+12473,716794,15,43717630,76,2,3840,64',0,0,Moritz Oswald (Austria U21) Substitution at 64',Moritz Oswald Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,2,364541.0,2024-09-11 05:42:23
+12473,716794,13,43717628,76,2,3840,64',0,0,Oluwaseun Adewumi (Austria U21) Substitution at 64',Oluwaseun Adewumi Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,2,359714.0,2024-09-11 05:42:23
+12473,716794,14,43717629,76,2,3840,64',0,0,Angelo Gattermayer (Austria U21) Substitution at 64',Angelo Gattermayer Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,2,299924.0,2024-09-11 05:42:23
+12473,716794,19,43717811,76,2,4320,72',0,0,Jon Rowe (England U21) Substitution at 72',Jon Rowe Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,118279.0,2024-09-11 05:42:23
+12473,716794,17,43717809,76,2,4320,72',0,0,Tom Fellows (England U21) Substitution at 72',Tom Fellows Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,308560.0,2024-09-11 05:42:23
+12473,716794,16,43717808,76,2,4320,72',0,0,Elliot Anderson (England U21) Substitution at 72',Elliot Anderson Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,238472.0,2024-09-11 05:42:23
+12473,716794,18,43717810,76,2,4320,72',0,0,Archie Gray (England U21) Substitution at 72',Archie Gray Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,328050.0,2024-09-11 05:42:23
+12473,716794,17,43717809,76,2,4320,72',0,0,Tom Fellows (England U21) Substitution at 72',Tom Fellows Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,341273.0,2024-09-11 05:42:23
+12473,716794,18,43717810,76,2,4320,72',0,0,Archie Gray (England U21) Substitution at 72',Archie Gray Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,298522.0,2024-09-11 05:42:23
+12473,716794,16,43717808,76,2,4320,72',0,0,Elliot Anderson (England U21) Substitution at 72',Elliot Anderson Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,298518.0,2024-09-11 05:42:23
+12473,716794,19,43717811,76,2,4320,72',0,0,Jon Rowe (England U21) Substitution at 72',Jon Rowe Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,307114.0,2024-09-11 05:42:23
+12473,716794,20,43717915,94,2,4680,78',0,0,Jarell Quansah (England U21) Yellow Card at 78',Jarell Quansah Yellow Card,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,298524.0,2024-09-11 05:42:23
+12473,716794,21,43717956,70,2,4860,81',1,0,Tom Fellows (England U21) Goal at 81',Tom Fellows Goal,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,308560.0,2024-09-11 05:42:23
+12473,716794,22,43717983,76,2,4920,82',0,0,Nathan Wood (England U21) Substitution at 82',Nathan Wood Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,354035.0,2024-09-11 05:42:23
+12473,716794,22,43717983,76,2,4920,82',0,0,Nathan Wood (England U21) Substitution at 82',Nathan Wood Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,292214.0,2024-09-11 05:42:23
+12473,716794,22,43717983,76,2,4920,82',0,0,Nathan Wood (England U21) Substitution at 82',Nathan Wood Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,277005.0,2024-09-11 05:42:23
+12473,716794,24,43717985,76,2,4920,82',0,0,Justin Omoregie (Austria U21) Substitution at 82',Justin Omoregie Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,1,329490.0,2024-09-11 05:42:23
+12473,716794,25,43718044,76,2,4920,82',0,0,Lukas Jungwirth (Austria U21) Substitution at 82',Lukas Jungwirth Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,1,352661.0,2024-09-11 05:42:23
+12473,716794,23,43717984,76,2,4920,82',0,0,Luka Reischl (Austria U21) Substitution at 82',Luka Reischl Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,1,329481.0,2024-09-11 05:42:23
+12473,716794,24,43717985,76,2,4920,82',0,0,Justin Omoregie (Austria U21) Substitution at 82',Justin Omoregie Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,2,37442.0,2024-09-11 05:42:23
+12473,716794,22,43717983,76,2,4920,82',0,0,Nathan Wood (England U21) Substitution at 82',Nathan Wood Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,298524.0,2024-09-11 05:42:23
+12473,716794,23,43717984,76,2,4920,82',0,0,Luka Reischl (Austria U21) Substitution at 82',Luka Reischl Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,2,329458.0,2024-09-11 05:42:23
+12473,716794,25,43718044,76,2,4920,82',0,0,Lukas Jungwirth (Austria U21) Substitution at 82',Lukas Jungwirth Substitution,19350,0.0,0.0,0.0,0.0,0.0,0.0,2,309090.0,2024-09-11 05:42:23
+12473,720284,1,43693816,94,1,420,7',0,0,Maiwulang Mijiti (China PR U21) Yellow Card at 7',Maiwulang Mijiti Yellow Card,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,340038.0,2024-09-06 05:49:14
+12473,720284,2,43693817,70,1,840,14',1,0,Aifeierding Aisikaer (China PR U21) Goal at 14',Aifeierding Aisikaer Goal,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,390825.0,2024-09-06 05:49:14
+12473,720284,3,43693823,94,1,2640,44',0,0,Hu Hetao (China PR U21) Yellow Card at 44',Hu Hetao Yellow Card,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,341546.0,2024-09-06 05:49:14
+12473,720284,4,43693824,70,1,2700,45',1,0,Nguyen Quoc Viet (Vietnam U21) Goal at 45',Nguyen Quoc Viet Goal,22360,0.0,0.0,0.0,0.0,0.0,0.0,1,390820.0,2024-09-06 05:49:14
+12473,720284,6,43693829,76,2,2700,45',0,0,Langzhou Liu (China PR U21) Substitution at 45',Langzhou Liu Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,356161.0,2024-09-06 05:49:14
+12473,720284,5,43693828,76,2,2700,45',0,0,Nguyen Phi Hoàng (Vietnam U21) Substitution at 45',Nguyen Phi Hoàng Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,1,390821.0,2024-09-06 05:49:14
+12473,720284,6,43693829,76,2,2700,45',0,0,Langzhou Liu (China PR U21) Substitution at 45',Langzhou Liu Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,341597.0,2024-09-06 05:49:14
+12473,720284,5,43693828,76,2,2700,45',0,0,Nguyen Phi Hoàng (Vietnam U21) Substitution at 45',Nguyen Phi Hoàng Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,2,390833.0,2024-09-06 05:49:14
+12473,720284,7,43693830,94,2,2880,48',0,0,Nguyen Duc Viet (Vietnam U21) Yellow Card at 48',Nguyen Duc Viet Yellow Card,22360,0.0,0.0,0.0,0.0,0.0,0.0,1,339989.0,2024-09-06 05:49:14
+12473,720284,8,43693831,94,2,3180,53',0,0,Nguyen Thai Son (Vietnam U21) Yellow Card at 53',Nguyen Thai Son Yellow Card,22360,0.0,0.0,0.0,0.0,0.0,0.0,1,364377.0,2024-09-06 05:49:14
+12473,720284,9,43693832,76,2,3660,61',0,0,Anfal Yaremati (China PR U21) Substitution at 61',Anfal Yaremati Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,390827.0,2024-09-06 05:49:14
+12473,720284,9,43693832,76,2,3660,61',0,0,Anfal Yaremati (China PR U21) Substitution at 61',Anfal Yaremati Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,361958.0,2024-09-06 05:49:14
+12473,720284,10,43693833,76,2,3900,65',0,0,Tran Ngoc Son (Vietnam U21) Substitution at 65',Tran Ngoc Son Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,1,382051.0,2024-09-06 05:49:14
+12473,720284,10,43693833,76,2,3900,65',0,0,Tran Ngoc Son (Vietnam U21) Substitution at 65',Tran Ngoc Son Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,1,320544.0,2024-09-06 05:49:14
+12473,720284,11,43693836,76,2,3900,65',0,0,Nguyen Hieu Minh (Vietnam U21) Substitution at 65',Nguyen Hieu Minh Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,1,390830.0,2024-09-06 05:49:14
+12473,720284,11,43693836,76,2,3900,65',0,0,Nguyen Hieu Minh (Vietnam U21) Substitution at 65',Nguyen Hieu Minh Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,2,390823.0,2024-09-06 05:49:14
+12473,720284,10,43693833,76,2,3900,65',0,0,Tran Ngoc Son (Vietnam U21) Substitution at 65',Tran Ngoc Son Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,2,390820.0,2024-09-06 05:49:14
+12473,720284,13,43693835,76,2,4020,67',0,0,Jianyi Zhou (China PR U21) Substitution at 67',Jianyi Zhou Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,356170.0,2024-09-06 05:49:14
+12473,720284,12,43693834,76,2,4020,67',0,0,Liao Rongxiang (China PR U21) Substitution at 67',Liao Rongxiang Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,361966.0,2024-09-06 05:49:14
+12473,720284,12,43693834,76,2,4020,67',0,0,Liao Rongxiang (China PR U21) Substitution at 67',Liao Rongxiang Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,356139.0,2024-09-06 05:49:14
+12473,720284,13,43693835,76,2,4020,67',0,0,Jianyi Zhou (China PR U21) Substitution at 67',Jianyi Zhou Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,341547.0,2024-09-06 05:49:14
+12473,720284,15,43693838,76,2,4200,70',0,0,Nguyen Xuan Bac (Vietnam U21) Substitution at 70',Nguyen Xuan Bac Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,1,390835.0,2024-09-06 05:49:14
+12473,720284,14,43693837,76,2,4200,70',0,0,Nguyen Hong Phúc (Vietnam U21) Substitution at 70',Nguyen Hong Phúc Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,1,390822.0,2024-09-06 05:49:14
+12473,720284,15,43693838,76,2,4200,70',0,0,Nguyen Xuan Bac (Vietnam U21) Substitution at 70',Nguyen Xuan Bac Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,2,376694.0,2024-09-06 05:49:14
+12473,720284,15,43693838,76,2,4200,70',0,0,Nguyen Xuan Bac (Vietnam U21) Substitution at 70',Nguyen Xuan Bac Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,2,339982.0,2024-09-06 05:49:14
+12473,720284,14,43693837,76,2,4200,70',0,0,Nguyen Hong Phúc (Vietnam U21) Substitution at 70',Nguyen Hong Phúc Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,2,390828.0,2024-09-06 05:49:14
+12473,720284,16,43693839,76,2,4980,83',0,0,He Xiaoke (China PR U21) Substitution at 83',He Xiaoke Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,375458.0,2024-09-06 05:49:14
+12473,720284,17,43693840,76,2,4980,83',0,0,Osmanjan Abdulhelil (China PR U21) Substitution at 83',Osmanjan Abdulhelil Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,357447.0,2024-09-06 05:49:14
+12473,720284,17,43693840,76,2,4980,83',0,0,Osmanjan Abdulhelil (China PR U21) Substitution at 83',Osmanjan Abdulhelil Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,390825.0,2024-09-06 05:49:14
+12473,720284,16,43693839,76,2,4980,83',0,0,He Xiaoke (China PR U21) Substitution at 83',He Xiaoke Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,340038.0,2024-09-06 05:49:14
+12473,720284,18,43693841,76,2,5040,84',0,0,Nguyen Van Tú (Vietnam U21) Substitution at 84',Nguyen Van Tú Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,1,390834.0,2024-09-06 05:49:14
+12473,720284,18,43693841,76,2,5040,84',0,0,Nguyen Van Tú (Vietnam U21) Substitution at 84',Nguyen Van Tú Substitution,22360,0.0,0.0,0.0,0.0,0.0,0.0,2,339989.0,2024-09-06 05:49:14
+12473,720284,19,43693842,70,2,5340,89',1,0,He Xiaoke (China PR U21) Goal at 89',He Xiaoke Goal,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,375458.0,2024-09-06 05:49:14
+12473,720284,20,43693843,94,2,5400,90'+1',0,0,Nguyen Van Tú (Vietnam U21) Yellow Card at 91',Nguyen Van Tú Yellow Card,22360,0.0,0.0,0.0,0.0,0.0,0.0,1,390834.0,2024-09-06 05:49:14
+12473,720285,1,43695135,70,1,1800,30',1,0,Artur Gajdos (Slovakia U21) Goal at 30',Artur Gajdos Goal,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,340723.0,2024-09-07 05:43:41
+12473,720285,2,43695148,94,1,2040,34',0,0,Barna Benczenleitner (Hungary U21) Yellow Card at 34',Barna Benczenleitner Yellow Card,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,370016.0,2024-09-07 05:43:41
+12473,720285,4,43695238,76,2,2700,45',0,0,Bálint Geiger (Hungary U21) Substitution at 45',Bálint Geiger Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,391154.0,2024-09-07 05:43:41
+12473,720285,3,43695236,76,2,2700,45',0,0,Ármin Pécsi (Hungary U21) Substitution at 45',Ármin Pécsi Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,345673.0,2024-09-07 05:43:41
+12473,720285,3,43695236,76,2,2700,45',0,0,Ármin Pécsi (Hungary U21) Substitution at 45',Ármin Pécsi Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,294378.0,2024-09-07 05:43:41
+12473,720285,4,43695238,76,2,2700,45',0,0,Bálint Geiger (Hungary U21) Substitution at 45',Bálint Geiger Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,297191.0,2024-09-07 05:43:41
+12473,720285,5,43695244,70,2,3300,55',1,0,Ákos Debreceni (Hungary U21) Goal at 55',Ákos Debreceni Goal,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,370008.0,2024-09-07 05:43:41
+12473,720285,6,43695248,76,2,3840,64',0,0,Timotej Jambor (Slovakia U21) Substitution at 64',Timotej Jambor Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,304973.0,2024-09-07 05:43:41
+12473,720285,6,43695248,76,2,3840,64',0,0,Timotej Jambor (Slovakia U21) Substitution at 64',Timotej Jambor Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,2,360153.0,2024-09-07 05:43:41
+12473,720285,9,43695258,76,2,3960,66',0,0,Michael Okeke (Hungary U21) Substitution at 66',Michael Okeke Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,365341.0,2024-09-07 05:43:41
+12473,720285,8,43695257,76,2,3960,66',0,0,Rajmund Molnar (Hungary U21) Substitution at 66',Rajmund Molnar Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,297206.0,2024-09-07 05:43:41
+12473,720285,7,43695256,76,2,3960,66',0,0,Csanád Dénes (Hungary U21) Substitution at 66',Csanád Dénes Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,390962.0,2024-09-07 05:43:41
+12473,720285,7,43695256,76,2,3960,66',0,0,Csanád Dénes (Hungary U21) Substitution at 66',Csanád Dénes Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,322289.0,2024-09-07 05:43:41
+12473,720285,9,43695258,76,2,3960,66',0,0,Michael Okeke (Hungary U21) Substitution at 66',Michael Okeke Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,345326.0,2024-09-07 05:43:41
+12473,720285,8,43695257,76,2,3960,66',0,0,Rajmund Molnar (Hungary U21) Substitution at 66',Rajmund Molnar Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,345485.0,2024-09-07 05:43:41
+12473,720285,10,43695276,70,2,4260,71',1,0,Timotej Jambor (Slovakia U21) Goal at 71',Timotej Jambor Goal,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,304973.0,2024-09-07 05:43:41
+12473,720285,12,43695299,76,2,4680,78',0,0,Martin Svidersky (Slovakia U21) Substitution at 78',Martin Svidersky Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,308224.0,2024-09-07 05:43:41
+12473,720285,14,43695301,76,2,4680,78',0,0,Zalán Kerezsi (Hungary U21) Substitution at 78',Zalán Kerezsi Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,370015.0,2024-09-07 05:43:41
+12473,720285,13,43695300,76,2,4680,78',0,0,Zalán Vancsa (Hungary U21) Substitution at 78',Zalán Vancsa Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,341258.0,2024-09-07 05:43:41
+12473,720285,11,43695298,76,2,4680,78',0,0,Branislav Spacil (Slovakia U21) Substitution at 78',Branislav Spacil Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,340730.0,2024-09-08 05:45:08
+12473,720285,11,43695298,76,2,4680,78',0,0,Branislav Spacil (Slovakia U21) Substitution at 78',Branislav Spacil Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,2,340709.0,2024-09-08 05:45:08
+12473,720285,12,43695299,76,2,4680,78',0,0,Martin Svidersky (Slovakia U21) Substitution at 78',Martin Svidersky Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,2,280810.0,2024-09-07 05:43:41
+12473,720285,13,43695300,76,2,4680,78',0,0,Zalán Vancsa (Hungary U21) Substitution at 78',Zalán Vancsa Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,364626.0,2024-09-07 05:43:41
+12473,720285,14,43695301,76,2,4680,78',0,0,Zalán Kerezsi (Hungary U21) Substitution at 78',Zalán Kerezsi Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,297194.0,2024-09-07 05:43:41
+12473,720285,16,43695345,76,2,5280,88',0,0,Roman Cerepkai (Slovakia U21) Substitution at 88',Roman Cerepkai Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,335914.0,2024-09-07 05:43:41
+12473,720285,15,43695344,76,2,5280,88',0,0,Dominik Veselovský (Slovakia U21) Substitution at 88',Dominik Veselovský Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,289854.0,2024-09-07 05:43:41
+12473,720285,15,43695344,76,2,5280,88',0,0,Dominik Veselovský (Slovakia U21) Substitution at 88',Dominik Veselovský Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,2,340723.0,2024-09-07 05:43:41
+12473,720285,16,43695345,76,2,5280,88',0,0,Roman Cerepkai (Slovakia U21) Substitution at 88',Roman Cerepkai Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,2,304966.0,2024-09-07 05:43:41
+12473,720285,17,43695369,76,2,5400,90'+3',0,0,Áron Alaxai (Hungary U21) Substitution at 93',Áron Alaxai Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,376986.0,2024-09-07 05:43:41
+12473,720285,17,43695369,76,2,5400,90'+3',0,0,Áron Alaxai (Hungary U21) Substitution at 93',Áron Alaxai Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,297781.0,2024-09-07 05:43:41
+12473,720286,1,43703981,76,2,2700,45',0,0,Haykal Danish (Malaysia U20) Substitution at 45',Haykal Danish Substitution,22361,0.0,0.0,0.0,0.0,0.0,0.0,1,391351.0,2024-09-08 05:45:08
+12473,720286,1,43703981,76,2,2700,45',0,0,Haykal Danish (Malaysia U20) Substitution at 45',Haykal Danish Substitution,22361,0.0,0.0,0.0,0.0,0.0,0.0,2,391336.0,2024-09-08 05:45:08
+12473,720286,2,43703982,76,2,3540,59',0,0,Haziq Zamri (Malaysia U20) Substitution at 59',Haziq Zamri Substitution,22361,0.0,0.0,0.0,0.0,0.0,0.0,1,391357.0,2024-09-08 05:45:08
+12473,720286,3,43703983,76,2,3540,59',0,0,Aiman Hakimi (Malaysia U20) Substitution at 59',Aiman Hakimi Substitution,22361,0.0,0.0,0.0,0.0,0.0,0.0,1,391347.0,2024-09-08 05:45:08
+12473,720286,3,43703983,76,2,3540,59',0,0,Aiman Hakimi (Malaysia U20) Substitution at 59',Aiman Hakimi Substitution,22361,0.0,0.0,0.0,0.0,0.0,0.0,2,391340.0,2024-09-08 05:45:08
+12473,720286,2,43703982,76,2,3540,59',0,0,Haziq Zamri (Malaysia U20) Substitution at 59',Haziq Zamri Substitution,22361,0.0,0.0,0.0,0.0,0.0,0.0,2,391364.0,2024-09-08 05:45:08
+12473,720286,6,43703986,76,2,3780,63',0,0,Aifeierding Aisikaer (China PR U21) Substitution at 63',Aifeierding Aisikaer Substitutio,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,390825.0,2024-09-08 05:45:08
+12473,720286,4,43703984,76,2,3780,63',0,0,Mutellip Iminqari (China PR U21) Substitution at 63',Mutellip Iminqari Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,341547.0,2024-09-08 05:45:08
+12473,720286,7,43703987,76,2,3780,63',0,0,Hu Hetao (China PR U21) Substitution at 63',Hu Hetao Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,341546.0,2024-09-09 05:46:49
+12473,720286,5,43703985,76,2,3780,63',0,0,Maiwulang Mijiti (China PR U21) Substitution at 63',Maiwulang Mijiti Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,340038.0,2024-09-08 05:45:08
+12473,720286,5,43703985,76,2,3780,63',0,0,Maiwulang Mijiti (China PR U21) Substitution at 63',Maiwulang Mijiti Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,341289.0,2024-09-08 05:45:08
+12473,720286,7,43703987,76,2,3780,63',0,0,Hu Hetao (China PR U21) Substitution at 63',Hu Hetao Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,361785.0,2024-09-09 05:46:49
+12473,720286,6,43703986,76,2,3780,63',0,0,Aifeierding Aisikaer (China PR U21) Substitution at 63',Aifeierding Aisikaer Substitutio,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,375458.0,2024-09-08 05:45:08
+12473,720286,4,43703984,76,2,3780,63',0,0,Mutellip Iminqari (China PR U21) Substitution at 63',Mutellip Iminqari Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,361966.0,2024-09-08 05:45:08
+12473,720286,8,43703988,94,2,3840,64',0,0,Jianyi Zhou (China PR U21) Yellow Card at 64',Jianyi Zhou Yellow Card,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,356170.0,2024-09-08 05:45:08
+12473,720286,10,43703993,76,2,4260,71',0,0,Danish Pesenti (Malaysia U20) Substitution at 71',Danish Pesenti Substitution,22361,0.0,0.0,0.0,0.0,0.0,0.0,1,391356.0,2024-09-08 05:45:08
+12473,720286,9,43703992,76,2,4260,71',0,0,Faris Danish (Malaysia U20) Substitution at 71',Faris Danish Substitution,22361,0.0,0.0,0.0,0.0,0.0,0.0,1,391338.0,2024-09-08 05:45:08
+12473,720286,10,43703993,76,2,4260,71',0,0,Danish Pesenti (Malaysia U20) Substitution at 71',Danish Pesenti Substitution,22361,0.0,0.0,0.0,0.0,0.0,0.0,2,391350.0,2024-09-08 05:45:08
+12473,720286,9,43703992,76,2,4260,71',0,0,Faris Danish (Malaysia U20) Substitution at 71',Faris Danish Substitution,22361,0.0,0.0,0.0,0.0,0.0,0.0,2,391366.0,2024-09-08 05:45:08
+12473,720286,11,43703995,76,2,4380,73',0,0,Zhang Yixuan (China PR U21) Substitution at 73',Zhang Yixuan Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,380539.0,2024-09-08 05:45:08
+12473,720286,11,43703995,76,2,4380,73',0,0,Zhang Yixuan (China PR U21) Substitution at 73',Zhang Yixuan Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,341597.0,2024-09-08 05:45:08
+12473,720286,12,43704012,76,2,4800,80',0,0,Amir Farhan (Malaysia U20) Substitution at 80',Amir Farhan Substitution,22361,0.0,0.0,0.0,0.0,0.0,0.0,1,391346.0,2024-09-08 05:45:08
+12473,720286,12,43704012,76,2,4800,80',0,0,Amir Farhan (Malaysia U20) Substitution at 80',Amir Farhan Substitution,22361,0.0,0.0,0.0,0.0,0.0,0.0,2,391348.0,2024-09-08 05:45:08
+12473,720286,13,43704019,76,2,5100,85',0,0,Bao Shimeng (China PR U21) Substitution at 85',Bao Shimeng Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,380884.0,2024-09-08 05:45:08
+12473,720286,13,43704019,76,2,5100,85',0,0,Bao Shimeng (China PR U21) Substitution at 85',Bao Shimeng Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,356161.0,2024-09-08 05:45:08
+12473,720286,14,43704027,70,2,5340,89',1,0,Aifeierding Aisikaer (China PR U21) Goal at 89',Aifeierding Aisikaer Goal,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,390825.0,2024-09-08 05:45:08
+12473,720287,1,43720226,94,1,1380,23',0,0,Diyor Ortiqboyev (Uzbekistan U21) Yellow Card at 23',Diyor Ortiqboyev Yellow Card,22362,0.0,0.0,0.0,0.0,0.0,0.0,1,362327.0,2024-09-12 05:43:21
+12473,720287,2,43720227,94,1,1680,28',0,0,Liu Xiaolong (China PR U21) Yellow Card at 28',Liu Xiaolong Yellow Card,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,361958.0,2024-09-12 05:43:21
+12473,720287,4,43720229,76,2,2700,45',0,0,Anfal Yaremati (China PR U21) Substitution at 45',Anfal Yaremati Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,390827.0,2024-09-12 05:43:21
+12473,720287,3,43720228,94,1,2700,45'+1',0,0,Mukhammedali Reimov (Uzbekistan U21) Yellow Card at 46',Mukhammedali Reimov Yellow Card,22362,0.0,0.0,0.0,0.0,0.0,0.0,1,372134.0,2024-09-12 05:43:21
+12473,720287,4,43720229,76,2,2700,45',0,0,Anfal Yaremati (China PR U21) Substitution at 45',Anfal Yaremati Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,361958.0,2024-09-12 05:43:21
+12473,720287,5,43720230,94,2,3300,55',0,0,Chen Zhexuan (China PR U21) Yellow Card at 55',Chen Zhexuan Yellow Card,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,340023.0,2024-09-12 05:43:21
+12473,720287,7,43720233,76,2,3300,55',0,0,Ollobergan Karimov (Uzbekistan U21) Substitution at 55',Ollobergan Karimov Substitution,22362,0.0,0.0,0.0,0.0,0.0,0.0,1,372120.0,2024-09-12 05:43:21
+12473,720287,6,43720232,76,2,3300,55',0,0,Amirbek Saidov (Uzbekistan U21) Substitution at 55',Amirbek Saidov Substitution,22362,0.0,0.0,0.0,0.0,0.0,0.0,1,372135.0,2024-09-12 05:43:21
+12473,720287,7,43720233,76,2,3300,55',0,0,Ollobergan Karimov (Uzbekistan U21) Substitution at 55',Ollobergan Karimov Substitution,22362,0.0,0.0,0.0,0.0,0.0,0.0,2,372206.0,2024-09-12 05:43:21
+12473,720287,6,43720232,76,2,3300,55',0,0,Amirbek Saidov (Uzbekistan U21) Substitution at 55',Amirbek Saidov Substitution,22362,0.0,0.0,0.0,0.0,0.0,0.0,2,372207.0,2024-09-12 05:43:21
+12473,720287,8,43720231,76,2,3360,56',0,0,Rustambek Fomin (Uzbekistan U21) Substitution at 56',Rustambek Fomin Substitution,22362,0.0,0.0,0.0,0.0,0.0,0.0,1,372204.0,2024-09-12 05:43:21
+12473,720287,8,43720231,76,2,3360,56',0,0,Rustambek Fomin (Uzbekistan U21) Substitution at 56',Rustambek Fomin Substitution,22362,0.0,0.0,0.0,0.0,0.0,0.0,2,362335.0,2024-09-12 05:43:21
+12473,720287,9,43720234,76,2,3540,59',0,0,Jianyi Zhou (China PR U21) Substitution at 59',Jianyi Zhou Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,356170.0,2024-09-12 05:43:21
+12473,720287,9,43720234,76,2,3540,59',0,0,Jianyi Zhou (China PR U21) Substitution at 59',Jianyi Zhou Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,356139.0,2024-09-12 05:43:21
+12473,720287,10,43720235,76,2,3960,66',0,0,He Xiaoke (China PR U21) Substitution at 66',He Xiaoke Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,375458.0,2024-09-12 05:43:21
+12473,720287,10,43720235,76,2,3960,66',0,0,He Xiaoke (China PR U21) Substitution at 66',He Xiaoke Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,390825.0,2024-09-12 05:43:21
+12473,720287,11,43720236,76,2,4020,67',0,0,Osmanjan Abdulhelil (China PR U21) Substitution at 67',Osmanjan Abdulhelil Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,357447.0,2024-09-12 05:43:21
+12473,720287,11,43720236,76,2,4020,67',0,0,Osmanjan Abdulhelil (China PR U21) Substitution at 67',Osmanjan Abdulhelil Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,340038.0,2024-09-12 05:43:21
+12473,720287,13,43720238,76,2,4260,71',0,0,Abdug'Afur Khaydarov (Uzbekistan U21) Substitution at 71',Abdug'Afur Khaydarov Substitutio,22362,0.0,0.0,0.0,0.0,0.0,0.0,1,391459.0,2024-09-12 05:43:21
+12473,720287,12,43720237,76,2,4260,71',0,0,Daler Tuhsanov (Uzbekistan U21) Substitution at 71',Daler Tuhsanov Substitution,22362,0.0,0.0,0.0,0.0,0.0,0.0,1,391460.0,2024-09-12 05:43:21
+12473,720287,14,43720239,76,2,4260,71',0,0,Ravshan Hayrullayev (Uzbekistan U21) Substitution at 71',Ravshan Hayrullayev Substitution,22362,0.0,0.0,0.0,0.0,0.0,0.0,1,391464.0,2024-09-12 05:43:21
+12473,720287,13,43720238,76,2,4260,71',0,0,Abdug'Afur Khaydarov (Uzbekistan U21) Substitution at 71',Abdug'Afur Khaydarov Substitutio,22362,0.0,0.0,0.0,0.0,0.0,0.0,2,391462.0,2024-09-12 05:43:21
+12473,720287,12,43720237,76,2,4260,71',0,0,Daler Tuhsanov (Uzbekistan U21) Substitution at 71',Daler Tuhsanov Substitution,22362,0.0,0.0,0.0,0.0,0.0,0.0,2,372134.0,2024-09-12 05:43:21
+12473,720287,14,43720239,76,2,4260,71',0,0,Ravshan Hayrullayev (Uzbekistan U21) Substitution at 71',Ravshan Hayrullayev Substitution,22362,0.0,0.0,0.0,0.0,0.0,0.0,2,317547.0,2024-09-12 05:43:21
+12473,720287,15,43720240,76,2,4860,81',0,0,Chen Xuhuang (China PR U21) Substitution at 81',Chen Xuhuang Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,337184.0,2024-09-12 05:43:21
+12473,720287,16,43720241,76,2,4860,81',0,0,Liao Rongxiang (China PR U21) Substitution at 81',Liao Rongxiang Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,1,361966.0,2024-09-12 05:43:21
+12473,720287,15,43720240,76,2,4860,81',0,0,Chen Xuhuang (China PR U21) Substitution at 81',Chen Xuhuang Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,340023.0,2024-09-12 05:43:21
+12473,720287,16,43720241,76,2,4860,81',0,0,Liao Rongxiang (China PR U21) Substitution at 81',Liao Rongxiang Substitution,19215,0.0,0.0,0.0,0.0,0.0,0.0,2,341547.0,2024-09-12 05:43:21
+12473,720287,17,43720242,94,2,5400,90'+3',0,0,Amirbek Saidov (Uzbekistan U21) Yellow Card at 93',Amirbek Saidov Yellow Card,22362,0.0,0.0,0.0,0.0,0.0,0.0,1,372135.0,2024-09-12 05:43:21
+12473,721460,1,43959697,94,1,180,3',0,0,Efrain Álvarez (Mexico U23) Yellow Card at 3',Efrain Álvarez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,260173.0,2024-10-11 05:33:45
+12473,721460,2,43959702,94,1,840,14',0,0,Max Bruns (Netherlands U21) Yellow Card at 14',Max Bruns Yellow Card,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,310724.0,2024-10-11 05:33:45
+12473,721460,3,43960063,76,2,2700,45',0,0,Isaías Violante (Mexico U23) Substitution at 45',Isaías Violante Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,308956.0,2024-10-11 05:33:45
+12473,721460,3,43960063,76,2,2700,45',0,0,Isaías Violante (Mexico U23) Substitution at 45',Isaías Violante Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,360957.0,2024-10-11 05:33:45
+12473,721460,4,43960113,94,2,2880,48',0,0,José Castillo (Mexico U23) Yellow Card at 48',José Castillo Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,37249.0,2024-10-11 05:33:45
+12473,721460,5,43960345,94,2,3720,62',0,0,Miguel Rodríguez (Mexico U23) Yellow Card at 62',Miguel Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,83494.0,2024-10-11 05:33:45
+12473,721460,5,43960345,94,2,3720,62',0,0,Miguel Rodríguez (Mexico U23) Yellow Card at 62',Miguel Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,375198.0,2024-10-11 05:33:45
+12473,721460,5,43960345,94,2,3720,62',0,0,Miguel Rodríguez (Mexico U23) Yellow Card at 62',Miguel Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,347479.0,2024-10-11 05:33:45
+12473,721460,5,43960345,94,2,3720,62',0,0,Miguel Rodríguez (Mexico U23) Yellow Card at 62',Miguel Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,342767.0,2024-10-11 05:33:45
+12473,721460,5,43960345,94,2,3720,62',0,0,Miguel Rodríguez (Mexico U23) Yellow Card at 62',Miguel Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,233134.0,2024-10-11 05:33:45
+12473,721460,6,43960367,76,2,3840,64',0,0,Santiago Muñoz (Mexico U23) Substitution at 64',Santiago Muñoz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,297277.0,2024-10-11 05:33:45
+12473,721460,6,43960367,76,2,3840,64',0,0,Santiago Muñoz (Mexico U23) Substitution at 64',Santiago Muñoz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,283140.0,2024-10-11 05:33:45
+12473,721460,7,43960369,76,2,3840,64',0,0,Víctor Ríos (Mexico U23) Substitution at 64',Víctor Ríos Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,366679.0,2024-10-11 05:33:45
+12473,721460,6,43960367,76,2,3840,64',0,0,Santiago Muñoz (Mexico U23) Substitution at 64',Santiago Muñoz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,309473.0,2024-10-11 05:33:45
+12473,721460,7,43960369,76,2,3840,64',0,0,Víctor Ríos (Mexico U23) Substitution at 64',Víctor Ríos Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,290894.0,2024-10-11 05:33:45
+12473,721460,8,43960445,94,2,4140,69',0,0,Víctor Ríos (Mexico U23) Yellow Card at 69',Víctor Ríos Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,366679.0,2024-10-11 05:33:45
+12473,721460,9,43960457,76,2,4260,71',0,0,Neraysho Kasanwirjo (Netherlands U21) Substitution at 71',Neraysho Kasanwirjo Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,292393.0,2024-10-11 05:33:45
+12473,721460,10,43960458,76,2,4260,71',0,0,Youri Regeer (Netherlands U21) Substitution at 71',Youri Regeer Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,297292.0,2024-10-11 05:33:45
+12473,721460,9,43960457,76,2,4260,71',0,0,Neraysho Kasanwirjo (Netherlands U21) Substitution at 71',Neraysho Kasanwirjo Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,299530.0,2024-10-11 05:33:45
+12473,721460,10,43960458,76,2,4260,71',0,0,Youri Regeer (Netherlands U21) Substitution at 71',Youri Regeer Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,312759.0,2024-10-11 05:33:45
+12473,721460,11,43960475,76,2,4440,74',0,0,Rodrigo López (Mexico U23) Substitution at 74',Rodrigo López Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,344568.0,2024-10-11 05:33:45
+12473,721460,11,43960475,76,2,4440,74',0,0,Rodrigo López (Mexico U23) Substitution at 74',Rodrigo López Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,124544.0,2024-10-11 05:33:45
+12473,721460,11,43960475,76,2,4440,74',0,0,Rodrigo López (Mexico U23) Substitution at 74',Rodrigo López Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,103806.0,2024-10-11 05:33:45
+12473,721460,11,43960475,76,2,4440,74',0,0,Rodrigo López (Mexico U23) Substitution at 74',Rodrigo López Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,260173.0,2024-10-11 05:33:45
+12473,721460,12,43960476,76,2,4500,75',0,0,Pablo Alfonso Monroy (Mexico U23) Substitution at 75',Pablo Alfonso Monroy Substitutio,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,359267.0,2024-10-11 05:33:45
+12473,721460,13,43960490,76,2,4500,75',0,0,Alberto Herrera (Mexico U23) Substitution at 75',Alberto Herrera Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,327782.0,2024-10-11 05:33:45
+12473,721460,14,43960491,76,2,4500,75',0,0,Sergio Hernandez (Mexico U23) Substitution at 75',Sergio Hernandez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,386935.0,2024-10-11 05:33:45
+12473,721460,12,43960476,76,2,4500,75',0,0,Pablo Alfonso Monroy (Mexico U23) Substitution at 75',Pablo Alfonso Monroy Substitutio,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,37249.0,2024-10-11 05:33:45
+12473,721460,14,43960491,76,2,4500,75',0,0,Sergio Hernandez (Mexico U23) Substitution at 75',Sergio Hernandez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,83494.0,2024-10-11 05:33:45
+12473,721460,13,43960490,76,2,4500,75',0,0,Alberto Herrera (Mexico U23) Substitution at 75',Alberto Herrera Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,336641.0,2024-10-11 05:33:45
+12473,721460,14,43960491,76,2,4500,75',0,0,Sergio Hernandez (Mexico U23) Substitution at 75',Sergio Hernandez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,375198.0,2024-10-11 05:33:45
+12473,721460,14,43960491,76,2,4500,75',0,0,Sergio Hernandez (Mexico U23) Substitution at 75',Sergio Hernandez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,347479.0,2024-10-11 05:33:45
+12473,721460,14,43960491,76,2,4500,75',0,0,Sergio Hernandez (Mexico U23) Substitution at 75',Sergio Hernandez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,342767.0,2024-10-11 05:33:45
+12473,721460,14,43960491,76,2,4500,75',0,0,Sergio Hernandez (Mexico U23) Substitution at 75',Sergio Hernandez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,233134.0,2024-10-11 05:33:45
+12473,721460,15,43960474,70,2,4560,76',1,0,Maxim Dekker (Netherlands U21) Goal at 76',Maxim Dekker Goal,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,318531.0,2024-10-11 05:33:45
+12473,721460,16,43960536,76,2,5040,84',0,0,Mateo Chávez (Mexico U23) Substitution at 84',Mateo Chávez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,379193.0,2024-10-11 05:33:45
+12473,721460,16,43960536,76,2,5040,84',0,0,Mateo Chávez (Mexico U23) Substitution at 84',Mateo Chávez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,79608.0,2024-10-11 05:33:45
+12473,721460,16,43960536,76,2,5040,84',0,0,Mateo Chávez (Mexico U23) Substitution at 84',Mateo Chávez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,402651.0,2024-10-11 05:33:45
+12473,721460,16,43960536,76,2,5040,84',0,0,Mateo Chávez (Mexico U23) Substitution at 84',Mateo Chávez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,395030.0,2024-10-11 05:33:45
+12473,721460,16,43960536,76,2,5040,84',0,0,Mateo Chávez (Mexico U23) Substitution at 84',Mateo Chávez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,375296.0,2024-10-11 05:33:45
+12473,721460,16,43960536,76,2,5040,84',0,0,Mateo Chávez (Mexico U23) Substitution at 84',Mateo Chávez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,370923.0,2024-10-11 05:33:45
+12473,721460,16,43960536,76,2,5040,84',0,0,Mateo Chávez (Mexico U23) Substitution at 84',Mateo Chávez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,350308.0,2024-10-11 05:33:45
+12473,721460,16,43960536,76,2,5040,84',0,0,Mateo Chávez (Mexico U23) Substitution at 84',Mateo Chávez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,331346.0,2024-10-11 05:33:45
+12473,721460,16,43960536,76,2,5040,84',0,0,Mateo Chávez (Mexico U23) Substitution at 84',Mateo Chávez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,312586.0,2024-10-11 05:33:45
+12473,721460,16,43960536,76,2,5040,84',0,0,Mateo Chávez (Mexico U23) Substitution at 84',Mateo Chávez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,288110.0,2024-10-11 05:33:45
+12473,721460,16,43960536,76,2,5040,84',0,0,Mateo Chávez (Mexico U23) Substitution at 84',Mateo Chávez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,149413.0,2024-10-11 05:33:45
+12473,721460,17,43960634,94,2,5340,89',0,0,Pablo Alfonso Monroy (Mexico U23) Yellow Card at 89',Pablo Alfonso Monroy Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,359267.0,2024-10-11 05:33:45
+12473,722436,1,44207846,70,1,420,7',1,0,Ezechiel Banzuzi (Netherlands U21) Goal at 7',Ezechiel Banzuzi Goal,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,330233.0,2024-11-16 06:07:16
+12473,722436,2,44207848,70,1,480,8',1,0,Adrian Kapralik (Slovakia U21) Goal at 8',Adrian Kapralik Goal,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,304966.0,2024-11-16 06:07:16
+12473,722436,3,44207918,94,1,2580,43',0,0,Ezechiel Banzuzi (Netherlands U21) Yellow Card at 43',Ezechiel Banzuzi Yellow Card,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,330233.0,2024-11-16 06:07:16
+12473,722436,4,44207955,76,2,2700,45',0,0,Neraysho Kasanwirjo (Netherlands U21) Substitution at 45',Neraysho Kasanwirjo Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,292393.0,2024-11-16 06:07:16
+12473,722436,5,44207964,76,2,2700,45',0,0,Gjivai Zechiël (Netherlands U21) Substitution at 45',Gjivai Zechiël Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,365021.0,2024-11-16 06:07:16
+12473,722436,4,44207955,76,2,2700,45',0,0,Neraysho Kasanwirjo (Netherlands U21) Substitution at 45',Neraysho Kasanwirjo Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,304618.0,2024-11-16 06:07:16
+12473,722436,5,44207964,76,2,2700,45',0,0,Gjivai Zechiël (Netherlands U21) Substitution at 45',Gjivai Zechiël Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,330546.0,2024-11-16 06:07:16
+12473,722436,6,44207997,70,2,3360,56',1,0,Nino Marcelli (Slovakia U21) Goal at 56',Nino Marcelli Goal,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,360153.0,2024-11-16 06:07:16
+12473,722436,7,44208011,76,2,3420,57',0,0,Youri Baas (Netherlands U21) Substitution at 57',Youri Baas Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,305590.0,2024-11-16 06:07:16
+12473,722436,7,44208011,76,2,3420,57',0,0,Youri Baas (Netherlands U21) Substitution at 57',Youri Baas Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,318531.0,2024-11-16 06:07:16
+12473,722436,8,44208012,76,2,3480,58',0,0,Million Manhoef (Netherlands U21) Substitution at 58',Million Manhoef Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,305628.0,2024-11-16 06:07:16
+12473,722436,8,44208012,76,2,3480,58',0,0,Million Manhoef (Netherlands U21) Substitution at 58',Million Manhoef Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,297299.0,2024-11-16 06:07:16
+12473,722436,9,44208016,70,2,3540,59',1,0,Adrian Kapralik (Slovakia U21) Goal at 59',Adrian Kapralik Goal,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,304966.0,2024-11-16 06:07:16
+12473,722436,10,44208035,76,2,3720,62',0,0,Timotej Jambor (Slovakia U21) Substitution at 62',Timotej Jambor Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,304973.0,2024-11-16 06:07:16
+12473,722436,10,44208035,76,2,3720,62',0,0,Timotej Jambor (Slovakia U21) Substitution at 62',Timotej Jambor Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,2,304966.0,2024-11-16 06:07:16
+12473,722436,11,44208040,94,2,3900,65',0,0,Dominik Javorcek (Slovakia U21) Yellow Card at 65',Dominik Javorcek Yellow Card,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,304962.0,2024-11-16 06:07:16
+12473,722436,12,44208050,70,2,4260,71',1,0,Noah Ohio (Netherlands U21) Goal at 71',Noah Ohio Goal,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,312759.0,2024-11-16 06:07:16
+12473,722436,13,44208054,70,2,4440,74',1,0,Gjivai Zechiël (Netherlands U21) Goal at 74',Gjivai Zechiël Goal,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,365021.0,2024-11-16 06:07:16
+12473,722436,15,44208056,76,2,4500,75',0,0,Roman Cerepkai (Slovakia U21) Substitution at 75',Roman Cerepkai Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,335914.0,2024-11-16 06:07:16
+12473,722436,14,44208055,76,2,4500,75',0,0,Branislav Spacil (Slovakia U21) Substitution at 75',Branislav Spacil Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,340730.0,2024-11-16 06:07:16
+12473,722436,15,44208056,76,2,4500,75',0,0,Roman Cerepkai (Slovakia U21) Substitution at 75',Roman Cerepkai Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,2,340709.0,2024-11-16 06:07:16
+12473,722436,14,44208055,76,2,4500,75',0,0,Branislav Spacil (Slovakia U21) Substitution at 75',Branislav Spacil Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,2,360153.0,2024-11-16 06:07:16
+12473,722436,16,44208084,76,2,4680,78',0,0,Ryan Flamingo (Netherlands U21) Substitution at 78',Ryan Flamingo Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,304478.0,2024-11-16 06:07:16
+12473,722436,17,44208085,76,2,4680,78',0,0,Thom Van Bergen (Netherlands U21) Substitution at 78',Thom Van Bergen Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,351290.0,2024-11-16 06:07:16
+12473,722436,17,44208085,76,2,4680,78',0,0,Thom Van Bergen (Netherlands U21) Substitution at 78',Thom Van Bergen Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,312759.0,2024-11-16 06:07:16
+12473,722436,16,44208084,76,2,4680,78',0,0,Ryan Flamingo (Netherlands U21) Substitution at 78',Ryan Flamingo Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,330233.0,2024-11-16 06:07:16
+12473,722436,18,44208101,76,2,5220,87',0,0,Martin Svidersky (Slovakia U21) Substitution at 87',Martin Svidersky Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,1,308224.0,2024-11-16 06:07:16
+12473,722436,18,44208101,76,2,5220,87',0,0,Martin Svidersky (Slovakia U21) Substitution at 87',Martin Svidersky Substitution,18415,0.0,0.0,0.0,0.0,0.0,0.0,2,340723.0,2024-11-16 06:07:16
+12473,722907,1,44213119,70,1,960,16',1,0,Cesare Casadei (Italy U21) Goal at 16',Cesare Casadei Goal,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,336394.0,2024-11-16 06:07:16
+12473,722907,2,44213121,94,1,2460,41',0,0,Cristian Volpato (Italy U21) Yellow Card at 41',Cristian Volpato Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,330259.0,2024-11-16 06:07:16
+12473,722907,3,44213122,70,1,2640,44',1,0,Giuseppe Ambrosino (Italy U21) Goal at 44',Giuseppe Ambrosino Goal,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,331279.0,2024-11-16 06:07:16
+12473,722907,4,44213155,76,2,2700,45',0,0,Gioele Zacchi (Italy U21) Substitution at 45',Gioele Zacchi Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,310770.0,2024-11-16 06:07:16
+12473,722907,4,44213155,76,2,2700,45',0,0,Gioele Zacchi (Italy U21) Substitution at 45',Gioele Zacchi Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,323108.0,2024-11-16 06:07:16
+12473,722907,5,44213209,70,2,3480,58',1,0,Rayan Cherki (France U21) Goal at 58',Rayan Cherki Goal,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,298008.0,2024-11-16 06:07:16
+12473,722907,6,44213218,76,2,3660,61',0,0,Giovanni Fabbian (Italy U21) Substitution at 61',Giovanni Fabbian Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,323118.0,2024-11-16 06:07:16
+12473,722907,7,44213219,76,2,3660,61',0,0,Francesco Esposito (Italy U21) Substitution at 61',Francesco Esposito Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-11-16 06:07:16
+12473,722907,7,44213219,76,2,3660,61',0,0,Francesco Esposito (Italy U21) Substitution at 61',Francesco Esposito Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,331279.0,2024-11-16 06:07:16
+12473,722907,6,44213218,76,2,3660,61',0,0,Giovanni Fabbian (Italy U21) Substitution at 61',Giovanni Fabbian Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,330259.0,2024-11-16 06:07:16
+12473,722907,9,44213221,76,2,3720,62',0,0,Saël Kumbedi (France U21) Substitution at 62',Saël Kumbedi Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,331084.0,2024-11-16 06:07:16
+12473,722907,8,44213220,76,2,3720,62',0,0,Ange Yohan Bonny (France U21) Substitution at 62',Ange Yohan Bonny Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-11-16 06:07:16
+12473,722907,8,44213220,76,2,3720,62',0,0,Ange Yohan Bonny (France U21) Substitution at 62',Ange Yohan Bonny Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,324541.0,2024-11-16 06:07:16
+12473,722907,9,44213221,76,2,3720,62',0,0,Saël Kumbedi (France U21) Substitution at 62',Saël Kumbedi Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,301279.0,2024-11-16 06:07:16
+12473,722907,10,44213222,76,2,3780,63',0,0,Valentin Atangana (France U21) Substitution at 63',Valentin Atangana Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,359165.0,2024-11-16 06:07:16
+12473,722907,11,44213223,76,2,3780,63',0,0,Désiré Doué (France U21) Substitution at 63',Désiré Doué Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,336388.0,2024-11-16 06:07:16
+12473,722907,10,44213222,76,2,3780,63',0,0,Valentin Atangana (France U21) Substitution at 63',Valentin Atangana Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,373927.0,2024-11-16 06:07:16
+12473,722907,11,44213223,76,2,3780,63',0,0,Désiré Doué (France U21) Substitution at 63',Désiré Doué Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,296321.0,2024-11-16 06:07:16
+12473,722907,12,44213227,70,2,3900,65',1,0,Valentin Atangana (France U21) Goal at 65',Valentin Atangana Goal,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,359165.0,2024-11-16 06:07:16
+12473,722907,13,44213247,76,2,4200,70',0,0,Kassoum Ouattara (France U21) Substitution at 70',Kassoum Ouattara Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,345243.0,2024-11-16 06:07:16
+12473,722907,13,44213247,76,2,4200,70',0,0,Kassoum Ouattara (France U21) Substitution at 70',Kassoum Ouattara Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,350525.0,2024-11-16 06:07:16
+12473,722907,15,44213252,76,2,4380,73',0,0,Fabio Miretti (Italy U21) Substitution at 73',Fabio Miretti Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,323975.0,2024-11-16 06:07:16
+12473,722907,14,44213248,76,2,4380,73',0,0,Nicolò Bertola (Italy U21) Substitution at 73',Nicolò Bertola Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,319437.0,2024-11-16 06:07:16
+12473,722907,15,44213252,76,2,4380,73',0,0,Fabio Miretti (Italy U21) Substitution at 73',Fabio Miretti Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,297784.0,2024-11-16 06:07:16
+12473,722907,14,44213248,76,2,4380,73',0,0,Nicolò Bertola (Italy U21) Substitution at 73',Nicolò Bertola Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,290069.0,2024-11-16 06:07:16
+12473,722907,17,44213278,76,2,5100,85',0,0,Mathys Tel (France U21) Substitution at 85',Mathys Tel Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,325042.0,2024-11-17 06:06:40
+12473,722907,16,44213277,76,2,5100,85',0,0,Nathan Zeze (France U21) Substitution at 85',Nathan Zeze Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,356293.0,2024-11-17 06:06:40
+12473,722907,17,44213278,76,2,5100,85',0,0,Mathys Tel (France U21) Substitution at 85',Mathys Tel Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,298008.0,2024-11-17 06:06:40
+12473,722907,16,44213277,76,2,5100,85',0,0,Nathan Zeze (France U21) Substitution at 85',Nathan Zeze Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,297168.0,2024-11-17 06:06:40
+12473,722907,18,44213276,76,2,5160,86',0,0,Ismael Doukoure (France U21) Substitution at 86',Ismael Doukoure Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,305935.0,2024-11-17 06:06:40
+12473,722907,18,44213276,76,2,5160,86',0,0,Ismael Doukoure (France U21) Substitution at 86',Ismael Doukoure Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,282289.0,2024-11-17 06:06:40
+12473,722908,2,44213755,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,303906.0,2024-11-16 06:07:16
+12473,722908,1,44213754,76,2,2700,45',0,0,Stefan Bajcetic (Spain U21) Substitution at 45',Stefan Bajcetic Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,330605.0,2024-11-16 06:07:16
+12473,722908,1,44213754,76,2,2700,45',0,0,Stefan Bajcetic (Spain U21) Substitution at 45',Stefan Bajcetic Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,336634.0,2024-11-16 06:07:16
+12473,722908,1,44213754,76,2,2700,45',0,0,Stefan Bajcetic (Spain U21) Substitution at 45',Stefan Bajcetic Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,180636.0,2024-11-16 06:07:16
+12473,722908,2,44213755,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,276996.0,2024-11-16 06:07:16
+12473,722908,3,44213850,76,2,3780,63',0,0,Pablo Torre (Spain U21) Substitution at 63',Pablo Torre Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,206110.0,2024-11-16 06:07:16
+12473,722908,4,44213851,76,2,3780,63',0,0,Iker Bravo (Spain U21) Substitution at 63',Iker Bravo Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,330242.0,2024-11-16 06:07:16
+12473,722908,3,44213850,76,2,3780,63',0,0,Pablo Torre (Spain U21) Substitution at 63',Pablo Torre Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,307381.0,2024-11-16 06:07:16
+12473,722908,4,44213851,76,2,3780,63',0,0,Iker Bravo (Spain U21) Substitution at 63',Iker Bravo Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,346709.0,2024-11-16 06:07:16
+12473,722908,5,44213852,76,2,3840,64',0,0,Hugo Bueno (Spain U21) Substitution at 64',Hugo Bueno Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,189777.0,2024-11-16 06:07:16
+12473,722908,5,44213852,76,2,3840,64',0,0,Hugo Bueno (Spain U21) Substitution at 64',Hugo Bueno Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,347354.0,2024-11-16 06:07:16
+12473,722908,5,44213852,76,2,3840,64',0,0,Hugo Bueno (Spain U21) Substitution at 64',Hugo Bueno Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,297354.0,2024-11-16 06:07:16
+12473,722908,5,44213852,76,2,3840,64',0,0,Hugo Bueno (Spain U21) Substitution at 64',Hugo Bueno Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,180945.0,2024-11-16 06:07:16
+12473,722908,5,44213852,76,2,3840,64',0,0,Hugo Bueno (Spain U21) Substitution at 64',Hugo Bueno Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,160328.0,2024-11-16 06:07:16
+12473,722908,5,44213852,76,2,3840,64',0,0,Hugo Bueno (Spain U21) Substitution at 64',Hugo Bueno Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,141656.0,2024-11-16 06:07:16
+12473,722908,5,44213852,76,2,3840,64',0,0,Hugo Bueno (Spain U21) Substitution at 64',Hugo Bueno Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,141479.0,2024-11-16 06:07:16
+12473,722908,7,44213856,94,2,3900,65',0,0,Javi Guerra (Spain U21) Yellow Card at 65',Javi Guerra Yellow Card,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,93329.0,2024-11-16 06:07:16
+12473,722908,6,44213855,94,2,3900,65',0,0,Liam Delap (England U21) Yellow Card at 65',Liam Delap Yellow Card,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,307114.0,2024-11-16 06:07:16
+12473,722908,9,44213862,76,2,4080,68',0,0,Lewis Miley (England U21) Substitution at 68',Lewis Miley Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,349078.0,2024-11-16 06:07:16
+12473,722908,8,44213861,76,2,4080,68',0,0,Jesurun Rak-Sakyi (England U21) Substitution at 68',Jesurun Rak-Sakyi Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,317718.0,2024-11-16 06:07:16
+12473,722908,10,44213863,76,2,4080,68',0,0,Dane Scarlett (England U21) Substitution at 68',Dane Scarlett Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,306012.0,2024-11-16 06:07:16
+12473,722908,8,44213861,76,2,4080,68',0,0,Jesurun Rak-Sakyi (England U21) Substitution at 68',Jesurun Rak-Sakyi Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,340640.0,2024-11-16 06:07:16
+12473,722908,9,44213862,76,2,4080,68',0,0,Lewis Miley (England U21) Substitution at 68',Lewis Miley Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,324820.0,2024-11-16 06:07:16
+12473,722908,10,44213863,76,2,4080,68',0,0,Dane Scarlett (England U21) Substitution at 68',Dane Scarlett Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,307114.0,2024-11-16 06:07:16
+12473,722908,11,44213866,76,2,4320,72',0,0,Rafa Marín (Spain U21) Substitution at 72',Rafa Marín Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,297360.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,307390.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,40547.0,2024-11-16 06:07:16
+12473,722908,11,44213866,76,2,4320,72',0,0,Rafa Marín (Spain U21) Substitution at 72',Rafa Marín Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,328497.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,395616.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,395349.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,366025.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,354756.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,328461.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,324504.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,320553.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,311483.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,301896.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,286909.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,271511.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,264817.0,2024-11-16 06:07:16
+12473,722908,12,44213867,76,2,4320,72',0,0,Alberto Moleiro (Spain U21) Substitution at 72',Alberto Moleiro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,200277.0,2024-11-16 06:07:16
+12473,722908,13,44213883,94,2,4620,77',0,0,Dane Scarlett (England U21) Yellow Card at 77',Dane Scarlett Yellow Card,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,306012.0,2024-11-16 06:07:16
+12473,722908,14,44213884,76,2,4680,78',0,0,Darko Gyabi (England U21) Substitution at 78',Darko Gyabi Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,308216.0,2024-11-16 06:07:16
+12473,722908,15,44213885,76,2,4680,78',0,0,George Earthy (England U21) Substitution at 78',George Earthy Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,348777.0,2024-11-16 06:07:16
+12473,722908,16,44213886,76,2,4680,78',0,0,Teden Mengi (England U21) Substitution at 78',Teden Mengi Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,296618.0,2024-11-16 06:07:16
+12473,722908,16,44213886,76,2,4680,78',0,0,Teden Mengi (England U21) Substitution at 78',Teden Mengi Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,341273.0,2024-11-16 06:07:16
+12473,722908,15,44213885,76,2,4680,78',0,0,George Earthy (England U21) Substitution at 78',George Earthy Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,295370.0,2024-11-16 06:07:16
+12473,722908,14,44213884,76,2,4680,78',0,0,Darko Gyabi (England U21) Substitution at 78',Darko Gyabi Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,298522.0,2024-11-16 06:07:16
+12473,722908,17,44213904,76,2,5280,88',0,0,Enrique Salas (Spain U21) Substitution at 88',Enrique Salas Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,334163.0,2024-11-16 06:07:16
+12473,722908,19,44213911,76,2,5280,88',0,0,Hugo Sotelo (Spain U21) Substitution at 88',Hugo Sotelo Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,319114.0,2024-11-16 06:07:16
+12473,722908,18,44213905,76,2,5280,88',0,0,Juanlu Sanchez (Spain U21) Substitution at 88',Juanlu Sanchez Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,303804.0,2024-11-16 06:07:16
+12473,722908,17,44213904,76,2,5280,88',0,0,Enrique Salas (Spain U21) Substitution at 88',Enrique Salas Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,332613.0,2024-11-16 06:07:16
+12473,722908,19,44213911,76,2,5280,88',0,0,Hugo Sotelo (Spain U21) Substitution at 88',Hugo Sotelo Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,93329.0,2024-11-16 06:07:16
+12473,722908,18,44213905,76,2,5280,88',0,0,Juanlu Sanchez (Spain U21) Substitution at 88',Juanlu Sanchez Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,356000.0,2024-11-16 06:07:16
+12473,722908,20,44213917,76,2,5400,90'+2',0,0,Benjamin Chrisene (England U21) Substitution at 92',Benjamin Chrisene Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,292004.0,2024-11-16 06:07:16
+12473,722908,20,44213917,76,2,5400,90'+2',0,0,Benjamin Chrisene (England U21) Substitution at 92',Benjamin Chrisene Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,298518.0,2024-11-16 06:07:16
+12473,722909,1,44228308,70,1,300,5',1,0,Dane Scarlett (England U21) Goal at 5',Dane Scarlett Goal,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,306012.0,2024-11-19 18:39:51
+12473,722909,2,44228322,76,1,780,13',0,0,Neraysho Kasanwirjo (Netherlands U21) Substitution at 13',Neraysho Kasanwirjo Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,292393.0,2024-11-19 18:39:51
+12473,722909,2,44228322,76,1,780,13',0,0,Neraysho Kasanwirjo (Netherlands U21) Substitution at 13',Neraysho Kasanwirjo Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,304618.0,2024-11-19 18:39:51
+12473,722909,3,44228323,94,1,2220,37',0,0,Tyler Morton (England U21) Yellow Card at 37',Tyler Morton Yellow Card,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,298522.0,2024-11-19 18:39:51
+12473,722909,5,44228327,76,2,3360,56',0,0,Liam Delap (England U21) Substitution at 56',Liam Delap Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,307114.0,2024-11-19 18:39:51
+12473,722909,4,44228326,76,2,3360,56',0,0,Teden Mengi (England U21) Substitution at 56',Teden Mengi Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,296618.0,2024-11-19 18:39:51
+12473,722909,4,44228326,76,2,3360,56',0,0,Teden Mengi (England U21) Substitution at 56',Teden Mengi Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,307713.0,2024-11-19 18:39:51
+12473,722909,5,44228327,76,2,3360,56',0,0,Liam Delap (England U21) Substitution at 56',Liam Delap Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,306012.0,2024-11-19 18:39:51
+12473,722909,6,44228328,76,2,3420,57',0,0,Jesurun Rak-Sakyi (England U21) Substitution at 57',Jesurun Rak-Sakyi Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,317718.0,2024-11-19 18:39:51
+12473,722909,7,44228329,76,2,3420,57',0,0,Jaden Philogene (England U21) Substitution at 57',Jaden Philogene Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,295370.0,2024-11-19 18:39:51
+12473,722909,6,44228328,76,2,3420,57',0,0,Jesurun Rak-Sakyi (England U21) Substitution at 57',Jesurun Rak-Sakyi Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,349078.0,2024-11-19 18:39:51
+12473,722909,7,44228329,76,2,3420,57',0,0,Jaden Philogene (England U21) Substitution at 57',Jaden Philogene Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,340640.0,2024-11-19 18:39:51
+12473,722909,8,44228332,94,2,3840,64',0,0,Anass Salah-Eddine (Netherlands U21) Yellow Card at 64',Anass Salah-Eddine Yellow Card,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,297296.0,2024-11-19 18:39:51
+12473,722909,9,44228333,76,2,3960,66',0,0,Sontje Hansen (Netherlands U21) Substitution at 66',Sontje Hansen Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,297299.0,2024-11-19 18:39:51
+12473,722909,10,44228334,76,2,3960,66',0,0,Max Bruns (Netherlands U21) Substitution at 66',Max Bruns Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,310724.0,2024-11-19 18:39:51
+12473,722909,9,44228333,76,2,3960,66',0,0,Sontje Hansen (Netherlands U21) Substitution at 66',Sontje Hansen Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,309156.0,2024-11-19 18:39:51
+12473,722909,10,44228334,76,2,3960,66',0,0,Max Bruns (Netherlands U21) Substitution at 66',Max Bruns Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,305590.0,2024-11-19 18:39:51
+12473,722909,11,44228354,76,2,4440,74',0,0,Darko Gyabi (England U21) Substitution at 74',Darko Gyabi Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,308216.0,2024-11-19 18:39:51
+12473,722909,12,44228355,76,2,4440,74',0,0,Thom Van Bergen (Netherlands U21) Substitution at 74',Thom Van Bergen Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,351290.0,2024-11-19 18:39:51
+12473,722909,11,44228354,76,2,4440,74',0,0,Darko Gyabi (England U21) Substitution at 74',Darko Gyabi Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,298522.0,2024-11-19 18:39:51
+12473,722909,12,44228355,76,2,4440,74',0,0,Thom Van Bergen (Netherlands U21) Substitution at 74',Thom Van Bergen Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,365021.0,2024-11-19 18:39:51
+12473,722909,13,44228373,76,2,4800,80',0,0,Denso Kasius (Netherlands U21) Substitution at 80',Denso Kasius Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,299530.0,2024-11-19 18:39:51
+12473,722909,14,44228374,76,2,4800,80',0,0,Kian Fitz-Jim (Netherlands U21) Substitution at 80',Kian Fitz-Jim Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,305589.0,2024-11-19 18:39:51
+12473,722909,13,44228373,76,2,4800,80',0,0,Denso Kasius (Netherlands U21) Substitution at 80',Denso Kasius Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,292393.0,2024-11-19 18:39:51
+12473,722909,14,44228374,76,2,4800,80',0,0,Kian Fitz-Jim (Netherlands U21) Substitution at 80',Kian Fitz-Jim Substitution,11627,0.0,0.0,0.0,0.0,0.0,0.0,2,330233.0,2024-11-19 18:39:51
+12473,722909,15,44228380,70,2,4920,82',1,0,Thom Van Bergen (Netherlands U21) Goal at 82',Thom Van Bergen Goal,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,351290.0,2024-11-19 18:39:51
+12473,722909,16,44228382,94,2,5160,86',0,0,Liam Delap (England U21) Yellow Card at 86',Liam Delap Yellow Card,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,307114.0,2024-11-19 18:39:51
+12473,722909,17,44228392,94,2,5280,88',0,0,Denso Kasius (Netherlands U21) Yellow Card at 88',Denso Kasius Yellow Card,11627,0.0,0.0,0.0,0.0,0.0,0.0,1,299530.0,2024-11-19 18:39:51
+12473,722909,18,44228393,94,2,5340,89',0,0,Archie Gray (England U21) Yellow Card at 89',Archie Gray Yellow Card,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,328050.0,2024-11-19 18:39:51
+12473,722909,19,44228400,76,2,5400,90'+1',0,0,George Earthy (England U21) Substitution at 91',George Earthy Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,1,348777.0,2024-11-19 18:39:51
+12473,722909,19,44228400,76,2,5400,90'+1',0,0,George Earthy (England U21) Substitution at 91',George Earthy Substitution,4150,0.0,0.0,0.0,0.0,0.0,0.0,2,298518.0,2024-11-19 18:39:51
+12473,722910,1,44233510,70,1,1560,26',1,0,Giovanni Fabbian (Italy U21) Goal at 26',Giovanni Fabbian Goal,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,323118.0,2024-11-19 18:39:51
+12473,722910,2,44233521,70,1,1680,28',1,0,Illia Kvasnytsya (Ukraine U21) Goal at 28',Illia Kvasnytsya Goal,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,370118.0,2024-11-19 18:39:51
+12473,722910,3,44233550,94,1,1920,32',0,0,Nicolò Bertola (Italy U21) Yellow Card at 32',Nicolò Bertola Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,319437.0,2024-11-19 18:39:51
+12473,722910,6,44233634,76,2,2700,45',0,0,Vladyslav Veleten (Ukraine U21) Substitution at 45',Vladyslav Veleten Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,384983.0,2024-11-20 18:34:38
+12473,722910,5,44233631,76,2,2700,45',0,0,Jacopo Sassi (Italy U21) Substitution at 45',Jacopo Sassi Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,340219.0,2024-11-20 18:34:38
+12473,722910,4,44233585,70,1,2700,45',1,0,Francesco Esposito (Italy U21) Goal at 45',Francesco Esposito Goal,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-11-19 18:39:51
+12473,722910,6,44233634,76,2,2700,45',0,0,Vladyslav Veleten (Ukraine U21) Substitution at 45',Vladyslav Veleten Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,370118.0,2024-11-20 18:34:38
+12473,722910,5,44233631,76,2,2700,45',0,0,Jacopo Sassi (Italy U21) Substitution at 45',Jacopo Sassi Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,310770.0,2024-11-20 18:34:38
+12473,722910,9,44233674,76,2,3480,58',0,0,Anton Tsarenko (Ukraine U21) Substitution at 58',Anton Tsarenko Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,347625.0,2024-11-20 18:34:38
+12473,722910,8,44233673,76,2,3480,58',0,0,Wilfried Gnonto (Italy U21) Substitution at 58',Wilfried Gnonto Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,297784.0,2024-11-20 18:34:38
+12473,722910,7,44233672,76,2,3480,58',0,0,Cher Ndour (Italy U21) Substitution at 58',Cher Ndour Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,360061.0,2024-11-20 18:34:38
+12473,722910,8,44233673,76,2,3480,58',0,0,Wilfried Gnonto (Italy U21) Substitution at 58',Wilfried Gnonto Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,323975.0,2024-11-20 18:34:38
+12473,722910,9,44233674,76,2,3480,58',0,0,Anton Tsarenko (Ukraine U21) Substitution at 58',Anton Tsarenko Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,384548.0,2024-11-20 18:34:38
+12473,722910,7,44233672,76,2,3480,58',0,0,Cher Ndour (Italy U21) Substitution at 58',Cher Ndour Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,340684.0,2024-11-20 18:34:38
+12473,722910,10,44233677,76,2,3660,61',0,0,Maksym Khlan (Ukraine U21) Substitution at 61',Maksym Khlan Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,317298.0,2024-11-20 18:34:38
+12473,722910,10,44233677,76,2,3660,61',0,0,Maksym Khlan (Ukraine U21) Substitution at 61',Maksym Khlan Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,335102.0,2024-11-20 18:34:38
+12473,722910,11,44233683,76,2,3960,66',0,0,Maksym Melnychenko (Ukraine U21) Substitution at 66',Maksym Melnychenko Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,385915.0,2024-11-20 18:34:38
+12473,722910,11,44233683,76,2,3960,66',0,0,Maksym Melnychenko (Ukraine U21) Substitution at 66',Maksym Melnychenko Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,331078.0,2024-11-20 18:34:38
+12473,722910,14,44233687,76,2,4440,74',0,0,Matteo Ruggeri (Italy U21) Substitution at 74',Matteo Ruggeri Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,297229.0,2024-11-20 18:34:38
+12473,722910,13,44233686,76,2,4440,74',0,0,Giuseppe Ambrosino (Italy U21) Substitution at 74',Giuseppe Ambrosino Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,331279.0,2024-11-20 18:34:38
+12473,722910,12,44233685,76,2,4440,74',0,0,Cristian Volpato (Italy U21) Substitution at 74',Cristian Volpato Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,330259.0,2024-11-20 18:34:38
+12473,722910,12,44233685,76,2,4440,74',0,0,Cristian Volpato (Italy U21) Substitution at 74',Cristian Volpato Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,336394.0,2024-11-20 18:34:38
+12473,722910,13,44233686,76,2,4440,74',0,0,Giuseppe Ambrosino (Italy U21) Substitution at 74',Giuseppe Ambrosino Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-11-20 18:34:38
+12473,722910,14,44233687,76,2,4440,74',0,0,Matteo Ruggeri (Italy U21) Substitution at 74',Matteo Ruggeri Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,340703.0,2024-11-20 18:34:38
+12473,722910,15,44233699,76,2,4860,81',0,0,Ihor Krasnopir (Ukraine U21) Substitution at 81',Ihor Krasnopir Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,370128.0,2024-11-20 18:34:38
+12473,722910,15,44233699,76,2,4860,81',0,0,Ihor Krasnopir (Ukraine U21) Substitution at 81',Ihor Krasnopir Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,309088.0,2024-11-20 18:34:38
+12473,722910,16,44233700,70,2,4980,83',1,0,Ihor Krasnopir (Ukraine U21) Goal at 83',Ihor Krasnopir Goal,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,370128.0,2024-11-20 18:34:38
+12473,722910,17,44244807,94,2,5400,90'+4',0,0,Maksym Khlan (Ukraine U21) Yellow Card at 94',Maksym Khlan Yellow Card,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,317298.0,2024-11-23 06:04:54
+12473,723192,1,44213301,70,1,300,5',1,0,Nicolo Tresoldi (Germany U21) Goal at 5',Nicolo Tresoldi Goal,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,335201.0,2024-11-16 06:07:16
+12473,723192,7,44213610,76,2,2700,45',0,0,Elias Jelert (Denmark U21) Substitution at 45',Elias Jelert Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,329755.0,2024-11-16 06:07:16
+12473,723192,3,44213602,76,2,2700,45',0,0,Nick Woltemade (Germany U21) Substitution at 45',Nick Woltemade Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,298349.0,2024-11-16 06:07:16
+12473,723192,8,44213621,76,2,2700,45',0,0,William Clem (Denmark U21) Substitution at 45',William Clem Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,332428.0,2024-11-16 06:07:16
+12473,723192,6,44213609,76,2,2700,45',0,0,Lucas Hey (Denmark U21) Substitution at 45',Lucas Hey Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,319468.0,2024-11-16 06:07:16
+12473,723192,10,44213651,76,2,2700,45',0,0,William Lykke (Denmark U21) Substitution at 45',William Lykke Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,386594.0,2024-11-16 06:07:16
+12473,723192,2,44213597,76,2,2700,45',0,0,Conrad Harder (Denmark U21) Substitution at 45',Conrad Harder Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,362794.0,2024-11-16 06:07:16
+12473,723192,5,44213604,76,2,2700,45',0,0,Mathias Kvistgaarden (Denmark U21) Substitution at 45',Mathias Kvistgaarden Substitutio,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,304073.0,2024-11-16 06:07:16
+12473,723192,9,44213622,76,2,2700,45',0,0,Oscar Fraulo (Denmark U21) Substitution at 45',Oscar Fraulo Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,320881.0,2024-11-16 06:07:16
+12473,723192,4,44213603,76,2,2700,45',0,0,Clement Bischoff (Denmark U21) Substitution at 45',Clement Bischoff Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,372851.0,2024-11-16 06:07:16
+12473,723192,8,44213621,76,2,2700,45',0,0,William Clem (Denmark U21) Substitution at 45',William Clem Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,307947.0,2024-11-16 06:07:16
+12473,723192,4,44213603,76,2,2700,45',0,0,Clement Bischoff (Denmark U21) Substitution at 45',Clement Bischoff Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,309651.0,2024-11-16 06:07:16
+12473,723192,6,44213609,76,2,2700,45',0,0,Lucas Hey (Denmark U21) Substitution at 45',Lucas Hey Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,214373.0,2024-11-16 06:07:16
+12473,723192,5,44213604,76,2,2700,45',0,0,Mathias Kvistgaarden (Denmark U21) Substitution at 45',Mathias Kvistgaarden Substitutio,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,338854.0,2024-11-16 06:07:16
+12473,723192,2,44213597,76,2,2700,45',0,0,Conrad Harder (Denmark U21) Substitution at 45',Conrad Harder Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,345364.0,2024-11-16 06:07:16
+12473,723192,10,44213651,76,2,2700,45',0,0,William Lykke (Denmark U21) Substitution at 45',William Lykke Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,306840.0,2024-11-16 06:07:16
+12473,723192,7,44213610,76,2,2700,45',0,0,Elias Jelert (Denmark U21) Substitution at 45',Elias Jelert Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,347026.0,2024-11-16 06:07:16
+12473,723192,3,44213602,76,2,2700,45',0,0,Nick Woltemade (Germany U21) Substitution at 45',Nick Woltemade Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,333399.0,2024-11-16 06:07:16
+12473,723192,9,44213622,76,2,2700,45',0,0,Oscar Fraulo (Denmark U21) Substitution at 45',Oscar Fraulo Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,362777.0,2024-11-16 06:07:16
+12473,723192,11,44213605,70,2,2880,48',1,0,Nathaniel Brown (Germany U21) Goal at 48',Nathaniel Brown Goal,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,120829.0,2024-11-16 06:07:16
+12473,723192,12,44213689,76,2,3720,62',0,0,Viktor Bak (Denmark U21) Substitution at 62',Viktor Bak Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,320879.0,2024-11-16 06:07:16
+12473,723192,12,44213689,76,2,3720,62',0,0,Viktor Bak (Denmark U21) Substitution at 62',Viktor Bak Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,304073.0,2024-11-16 06:07:16
+12473,723192,16,44213711,76,2,3900,65',0,0,Jan Thielmann (Germany U21) Substitution at 65',Jan Thielmann Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,300444.0,2024-11-16 06:07:16
+12473,723192,13,44213698,76,2,3900,65',0,0,Aljoscha Kemlein (Germany U21) Substitution at 65',Aljoscha Kemlein Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,349922.0,2024-11-16 06:07:16
+12473,723192,15,44213710,76,2,3900,65',0,0,Youssoufa Moukoko (Germany U21) Substitution at 65',Youssoufa Moukoko Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,305554.0,2024-11-16 06:07:16
+12473,723192,14,44213709,76,2,3900,65',0,0,Ansgar Knauff (Germany U21) Substitution at 65',Ansgar Knauff Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,305555.0,2024-11-16 06:07:16
+12473,723192,14,44213709,76,2,3900,65',0,0,Ansgar Knauff (Germany U21) Substitution at 65',Ansgar Knauff Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,290639.0,2024-11-16 06:07:16
+12473,723192,15,44213710,76,2,3900,65',0,0,Youssoufa Moukoko (Germany U21) Substitution at 65',Youssoufa Moukoko Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,335201.0,2024-11-16 06:07:16
+12473,723192,13,44213698,76,2,3900,65',0,0,Aljoscha Kemlein (Germany U21) Substitution at 65',Aljoscha Kemlein Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,307364.0,2024-11-16 06:07:16
+12473,723192,16,44213711,76,2,3900,65',0,0,Jan Thielmann (Germany U21) Substitution at 65',Jan Thielmann Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,357683.0,2024-11-16 06:07:16
+12473,723192,17,44213736,76,2,4260,71',0,0,Noah Nartey (Denmark U21) Substitution at 71',Noah Nartey Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,365562.0,2024-11-16 06:07:16
+12473,723192,18,44213737,76,2,4260,71',0,0,Tobias Slotsager (Denmark U21) Substitution at 71',Tobias Slotsager Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,341268.0,2024-11-16 06:07:16
+12473,723192,18,44213737,76,2,4260,71',0,0,Tobias Slotsager (Denmark U21) Substitution at 71',Tobias Slotsager Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-11-16 06:07:16
+12473,723192,17,44213736,76,2,4260,71',0,0,Noah Nartey (Denmark U21) Substitution at 71',Noah Nartey Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,333312.0,2024-11-16 06:07:16
+12473,723192,21,44213783,76,2,4500,75',0,0,Jens Castrop (Germany U21) Substitution at 75',Jens Castrop Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,304793.0,2024-11-16 06:07:16
+12473,723192,22,44213784,76,2,4500,75',0,0,Marcel Beifus (Germany U21) Substitution at 75',Marcel Beifus Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,324315.0,2024-11-16 06:07:16
+12473,723192,20,44213757,76,2,4500,75',0,0,Frans Krätzig (Germany U21) Substitution at 75',Frans Krätzig Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,346749.0,2024-11-16 06:07:16
+12473,723192,19,44213756,76,2,4500,75',0,0,Tjark Ernst (Germany U21) Substitution at 75',Tjark Ernst Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,335870.0,2024-11-16 06:07:16
+12473,723192,20,44213757,76,2,4500,75',0,0,Frans Krätzig (Germany U21) Substitution at 75',Frans Krätzig Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,120829.0,2024-11-16 06:07:16
+12473,723192,22,44213784,76,2,4500,75',0,0,Marcel Beifus (Germany U21) Substitution at 75',Marcel Beifus Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,367557.0,2024-11-16 06:07:16
+12473,723192,19,44213756,76,2,4500,75',0,0,Tjark Ernst (Germany U21) Substitution at 75',Tjark Ernst Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,323790.0,2024-11-16 06:07:16
+12473,723192,21,44213783,76,2,4500,75',0,0,Jens Castrop (Germany U21) Substitution at 75',Jens Castrop Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,290398.0,2024-11-16 06:07:16
+12473,723192,23,44213793,70,2,4860,81',1,0,Youssoufa Moukoko (Germany U21) Goal at 81',Youssoufa Moukoko Goal,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,305554.0,2024-11-16 06:07:16
+12473,723192,24,44213809,76,2,4920,82',0,0,Hendry Blank (Germany U21) Substitution at 82',Hendry Blank Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,365320.0,2024-11-16 06:07:16
+12473,723192,24,44213809,76,2,4920,82',0,0,Hendry Blank (Germany U21) Substitution at 82',Hendry Blank Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,305556.0,2024-11-16 06:07:16
+12473,723193,1,44233444,70,1,240,4',1,0,Maximilian Beier (Germany U21) Goal at 4',Maximilian Beier Goal,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,290639.0,2024-11-19 18:39:51
+12473,723193,2,44233492,94,1,1260,21',0,0,Nathaniel Brown (Germany U21) Yellow Card at 21',Nathaniel Brown Yellow Card,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,120829.0,2024-11-19 18:39:51
+12473,723193,3,44233509,94,1,1560,26',0,0,Ismael Doukoure (France U21) Yellow Card at 26',Ismael Doukoure Yellow Card,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,305935.0,2024-11-19 18:39:51
+12473,723193,4,44233640,70,2,3000,50',1,0,Maximilian Beier (Germany U21) Goal at 50',Maximilian Beier Goal,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,290639.0,2024-11-20 18:34:38
+12473,723193,6,44233668,76,2,3360,56',0,0,Aljoscha Kemlein (Germany U21) Substitution at 56',Aljoscha Kemlein Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,349922.0,2024-11-20 18:34:38
+12473,723193,5,44233667,76,2,3360,56',0,0,Brajan Gruda (Germany U21) Substitution at 56',Brajan Gruda Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,357683.0,2024-11-20 18:34:38
+12473,723193,5,44233667,76,2,3360,56',0,0,Brajan Gruda (Germany U21) Substitution at 56',Brajan Gruda Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,305555.0,2024-11-20 18:34:38
+12473,723193,6,44233668,76,2,3360,56',0,0,Aljoscha Kemlein (Germany U21) Substitution at 56',Aljoscha Kemlein Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,290398.0,2024-11-20 18:34:38
+12473,723193,7,44233669,76,2,3420,57',0,0,Youssoufa Moukoko (Germany U21) Substitution at 57',Youssoufa Moukoko Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,305554.0,2024-11-20 18:34:38
+12473,723193,7,44233669,76,2,3420,57',0,0,Youssoufa Moukoko (Germany U21) Substitution at 57',Youssoufa Moukoko Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,335201.0,2024-11-20 18:34:38
+12473,723193,8,44233676,98,2,3720,62',1,0,Mathys Tel (France U21) Penalty - Scored at 62',Mathys Tel Penalty - Scored,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,325042.0,2024-11-20 18:34:38
+12473,723193,10,44233680,76,2,3900,65',0,0,Christian Mawissa (France U21) Substitution at 65',Christian Mawissa Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,350525.0,2024-11-20 18:34:38
+12473,723193,9,44233679,76,2,3900,65',0,0,Rayan Cherki (France U21) Substitution at 65',Rayan Cherki Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,298008.0,2024-11-20 18:34:38
+12473,723193,10,44233680,76,2,3900,65',0,0,Christian Mawissa (France U21) Substitution at 65',Christian Mawissa Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,345243.0,2024-11-20 18:34:38
+12473,723193,9,44233679,76,2,3900,65',0,0,Rayan Cherki (France U21) Substitution at 65',Rayan Cherki Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-11-20 18:34:38
+12473,723193,11,44233688,76,2,4380,73',0,0,Jens Castrop (Germany U21) Substitution at 73',Jens Castrop Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,304793.0,2024-11-20 18:34:38
+12473,723193,11,44233688,76,2,4380,73',0,0,Jens Castrop (Germany U21) Substitution at 73',Jens Castrop Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,305556.0,2024-11-20 18:34:38
+12473,723193,12,44233693,76,2,4680,78',0,0,Ayyoub Bouaddi (France U21) Substitution at 78',Ayyoub Bouaddi Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,373927.0,2024-11-20 18:34:38
+12473,723193,14,44233695,76,2,4680,78',0,0,Arnaud Kalimuendo (France U21) Substitution at 78',Arnaud Kalimuendo Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,296321.0,2024-11-20 18:34:38
+12473,723193,13,44233694,76,2,4680,78',0,0,Kiliann Sildillia (France U21) Substitution at 78',Kiliann Sildillia Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,301279.0,2024-11-20 18:34:38
+12473,723193,14,44233695,76,2,4680,78',0,0,Arnaud Kalimuendo (France U21) Substitution at 78',Arnaud Kalimuendo Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,325042.0,2024-11-20 18:34:38
+12473,723193,13,44233694,76,2,4680,78',0,0,Kiliann Sildillia (France U21) Substitution at 78',Kiliann Sildillia Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,331084.0,2024-11-20 18:34:38
+12473,723193,12,44233693,76,2,4680,78',0,0,Ayyoub Bouaddi (France U21) Substitution at 78',Ayyoub Bouaddi Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,319167.0,2024-11-20 18:34:38
+12473,723193,15,44233696,76,2,4740,79',0,0,Soungoutou Magassa (France U21) Substitution at 79',Soungoutou Magassa Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,333240.0,2024-11-20 18:34:38
+12473,723193,16,44233697,76,2,4740,79',0,0,Lucien Agoumé (France U21) Substitution at 79',Lucien Agoumé Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,282289.0,2024-11-20 18:34:38
+12473,723193,16,44233697,76,2,4740,79',0,0,Lucien Agoumé (France U21) Substitution at 79',Lucien Agoumé Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,359165.0,2024-11-20 18:34:38
+12473,723193,15,44233696,76,2,4740,79',0,0,Soungoutou Magassa (France U21) Substitution at 79',Soungoutou Magassa Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,297165.0,2024-11-20 18:34:38
+12473,723193,17,44233703,76,2,5160,86',0,0,Jan Thielmann (Germany U21) Substitution at 86',Jan Thielmann Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,1,300444.0,2024-11-20 18:34:38
+12473,723193,18,44233704,76,2,5160,86',0,0,Loum Tchaouna (France U21) Substitution at 86',Loum Tchaouna Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,324541.0,2024-11-20 18:34:38
+12473,723193,17,44233703,76,2,5160,86',0,0,Jan Thielmann (Germany U21) Substitution at 86',Jan Thielmann Substitution,4379,0.0,0.0,0.0,0.0,0.0,0.0,2,298349.0,2024-11-20 18:34:38
+12473,723193,18,44233704,76,2,5160,86',0,0,Loum Tchaouna (France U21) Substitution at 86',Loum Tchaouna Substitution,11676,0.0,0.0,0.0,0.0,0.0,0.0,2,336388.0,2024-11-20 18:34:38
+12473,723193,19,44233705,94,2,5220,87',0,0,Rayan Cherki (France U21) Yellow Card at 87',Rayan Cherki Yellow Card,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,298008.0,2024-11-20 18:34:38
+12473,723193,20,44233713,70,2,5400,90'+3',1,0,Loum Tchaouna (France U21) Goal at 93',Loum Tchaouna Goal,11676,0.0,0.0,0.0,0.0,0.0,0.0,1,324541.0,2024-11-20 18:34:38
+12473,723342,6,44207494,76,2,2700,45',0,0,Stavros Georgiou (Cyprus U21) Substitution at 45',Stavros Georgiou Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,26725.0,2024-11-16 06:07:16
+12473,723342,3,44207487,76,2,2700,45',0,0,Titos Prokopiou (Cyprus U21) Substitution at 45',Titos Prokopiou Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,368349.0,2024-11-16 06:07:16
+12473,723342,2,44207486,76,2,2700,45',0,0,Milán Klausz (Hungary U21) Substitution at 45',Milán Klausz Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,345680.0,2024-11-16 06:07:16
+12473,723342,5,44207493,76,2,2700,45',0,0,Alex Tóth (Hungary U21) Substitution at 45',Alex Tóth Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,360149.0,2024-11-16 06:07:16
+12473,723342,4,44207491,76,2,2700,45',0,0,Konstantinos Giannakou (Cyprus U21) Substitution at 45',Konstantinos Giannakou Substitut,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,342908.0,2024-11-16 06:07:16
+12473,723342,1,44207480,76,2,2700,45',0,0,Balázs Tóth (Hungary U21) Substitution at 45',Balázs Tóth Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,329456.0,2024-11-16 06:07:16
+12473,723342,1,44207480,76,2,2700,45',0,0,Balázs Tóth (Hungary U21) Substitution at 45',Balázs Tóth Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,305052.0,2024-11-16 06:07:16
+12473,723342,7,44207495,76,2,2700,45',0,0,Ádin Molnár (Hungary U21) Substitution at 45',Ádin Molnár Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,396070.0,2024-11-16 06:07:16
+12473,723342,2,44207486,76,2,2700,45',0,0,Milán Klausz (Hungary U21) Substitution at 45',Milán Klausz Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,396072.0,2024-11-16 06:07:16
+12473,723342,3,44207487,76,2,2700,45',0,0,Titos Prokopiou (Cyprus U21) Substitution at 45',Titos Prokopiou Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,396043.0,2024-11-16 06:07:16
+12473,723342,4,44207491,76,2,2700,45',0,0,Konstantinos Giannakou (Cyprus U21) Substitution at 45',Konstantinos Giannakou Substitut,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,396044.0,2024-11-16 06:07:16
+12473,723342,7,44207495,76,2,2700,45',0,0,Ádin Molnár (Hungary U21) Substitution at 45',Ádin Molnár Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,390962.0,2024-11-16 06:07:16
+12473,723342,5,44207493,76,2,2700,45',0,0,Alex Tóth (Hungary U21) Substitution at 45',Alex Tóth Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,396075.0,2024-11-16 06:07:16
+12473,723342,6,44207494,76,2,2700,45',0,0,Stavros Georgiou (Cyprus U21) Substitution at 45',Stavros Georgiou Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,382651.0,2024-11-16 06:07:16
+12473,723342,1,44207480,76,2,2700,45',0,0,Balázs Tóth (Hungary U21) Substitution at 45',Balázs Tóth Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,322955.0,2024-11-16 06:07:16
+12473,723342,9,44207522,76,2,3720,62',0,0,Symeon Solomou (Cyprus U21) Substitution at 62',Symeon Solomou Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,396046.0,2024-11-16 06:07:16
+12473,723342,13,44207530,76,2,3720,62',0,0,Janos Bodnar (Hungary U21) Substitution at 62',Janos Bodnar Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,340635.0,2024-11-16 06:07:16
+12473,723342,8,44207521,76,2,3720,62',0,0,Harry Mills (Cyprus U21) Substitution at 62',Harry Mills Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,377609.0,2024-11-16 06:07:16
+12473,723342,10,44207523,76,2,3720,62',0,0,Dimitrios Spyridakis (Cyprus U21) Substitution at 62',Dimitrios Spyridakis Substitutio,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,391470.0,2024-11-16 06:07:16
+12473,723342,11,44207524,76,2,3720,62',0,0,Savvas Christodoulou (Cyprus U21) Substitution at 62',Savvas Christodoulou Substitutio,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,396045.0,2024-11-16 06:07:16
+12473,723342,12,44207529,76,2,3720,62',0,0,Bence Lányi (Hungary U21) Substitution at 62',Bence Lányi Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,396076.0,2024-11-16 06:07:16
+12473,723342,12,44207529,76,2,3720,62',0,0,Bence Lányi (Hungary U21) Substitution at 62',Bence Lányi Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,396068.0,2024-11-16 06:07:16
+12473,723342,13,44207530,76,2,3720,62',0,0,Janos Bodnar (Hungary U21) Substitution at 62',Janos Bodnar Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,365234.0,2024-11-16 06:07:16
+12473,723342,11,44207524,76,2,3720,62',0,0,Savvas Christodoulou (Cyprus U21) Substitution at 62',Savvas Christodoulou Substitutio,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,343240.0,2024-11-16 06:07:16
+12473,723342,8,44207521,76,2,3720,62',0,0,Harry Mills (Cyprus U21) Substitution at 62',Harry Mills Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,368537.0,2024-11-16 06:07:16
+12473,723342,10,44207523,76,2,3720,62',0,0,Dimitrios Spyridakis (Cyprus U21) Substitution at 62',Dimitrios Spyridakis Substitutio,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,382650.0,2024-11-16 06:07:16
+12473,723342,9,44207522,76,2,3720,62',0,0,Symeon Solomou (Cyprus U21) Substitution at 62',Symeon Solomou Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,345740.0,2024-11-16 06:07:16
+12473,723342,14,44207531,76,2,3780,63',0,0,Botond Vajda (Hungary U21) Substitution at 63',Botond Vajda Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,364805.0,2024-11-16 06:07:16
+12473,723342,14,44207531,76,2,3780,63',0,0,Botond Vajda (Hungary U21) Substitution at 63',Botond Vajda Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,364911.0,2024-11-16 06:07:16
+12473,723342,15,44207532,70,2,3960,66',1,0,Botond Vajda (Hungary U21) Goal at 66',Botond Vajda Goal,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,364805.0,2024-11-16 06:07:16
+12473,723342,16,44207547,76,2,4560,76',0,0,Konstantinos Evripidou (Cyprus U21) Substitution at 76',Konstantinos Evripidou Substitut,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,365683.0,2024-11-16 06:07:16
+12473,723342,16,44207547,76,2,4560,76',0,0,Konstantinos Evripidou (Cyprus U21) Substitution at 76',Konstantinos Evripidou Substitut,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,342890.0,2024-11-16 06:07:16
+12473,723342,18,44207557,76,2,4620,77',0,0,Bálint Geiger (Hungary U21) Substitution at 77',Bálint Geiger Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,391154.0,2024-11-16 06:07:16
+12473,723342,17,44207556,76,2,4620,77',0,0,István Pekár (Hungary U21) Substitution at 77',István Pekár Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,396074.0,2024-11-16 06:07:16
+12473,723342,19,44207562,76,2,4620,77',0,0,Marios Fasouliotis (Cyprus U21) Substitution at 77',Marios Fasouliotis Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,1,396042.0,2024-11-16 06:07:16
+12473,723342,17,44207556,76,2,4620,77',0,0,István Pekár (Hungary U21) Substitution at 77',István Pekár Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,376127.0,2024-11-16 06:07:16
+12473,723342,19,44207562,76,2,4620,77',0,0,Marios Fasouliotis (Cyprus U21) Substitution at 77',Marios Fasouliotis Substitution,20927,0.0,0.0,0.0,0.0,0.0,0.0,2,366463.0,2024-11-16 06:07:16
+12473,723342,18,44207557,76,2,4620,77',0,0,Bálint Geiger (Hungary U21) Substitution at 77',Bálint Geiger Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,341258.0,2024-11-16 06:07:16
+12473,723342,20,44207579,76,2,5280,88',0,0,Ádám Merényi (Hungary U21) Substitution at 88',Ádám Merényi Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,396071.0,2024-11-16 06:07:16
+12473,723342,20,44207579,76,2,5280,88',0,0,Ádám Merényi (Hungary U21) Substitution at 88',Ádám Merényi Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,343966.0,2024-11-16 06:07:16
+12473,723549,1,44339129,70,1,1920,32',1,0,Milán Klausz (Hungary U21) Goal at 32',Milán Klausz Goal,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,345680.0,2024-12-06 05:59:49
+12473,723549,2,44339130,76,1,2460,41',0,0,Ádám Merényi (Hungary U21) Substitution at 41',Ádám Merényi Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,396071.0,2024-12-06 05:59:49
+12473,723549,2,44339130,76,1,2460,41',0,0,Ádám Merényi (Hungary U21) Substitution at 41',Ádám Merényi Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,341258.0,2024-12-06 05:59:49
+12473,723549,8,44339136,76,2,2700,45',0,0,Viktor Roumiantsev (Greece U21) Substitution at 45',Viktor Roumiantsev Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,396491.0,2024-12-06 05:59:49
+12473,723549,5,44339133,76,2,2700,45',0,0,Antonis Papakanellos (Greece U21) Substitution at 45',Antonis Papakanellos Substitutio,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,387656.0,2024-12-06 05:59:49
+12473,723549,9,44339137,76,2,2700,45',0,0,Vangelis Nikolaou (Greece U21) Substitution at 45',Vangelis Nikolaou Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,356114.0,2024-12-06 05:59:49
+12473,723549,3,44339131,76,2,2700,45',0,0,Janos Bodnar (Hungary U21) Substitution at 45',Janos Bodnar Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,340635.0,2024-12-06 05:59:49
+12473,723549,11,44339139,76,2,2700,45',0,0,Christos Alexiou (Greece U21) Substitution at 45',Christos Alexiou Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,387831.0,2024-12-06 05:59:49
+12473,723549,7,44339135,76,2,2700,45',0,0,Dimitrios Kaloskamis (Greece U21) Substitution at 45',Dimitrios Kaloskamis Substitutio,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,366062.0,2024-12-06 05:59:49
+12473,723549,12,44339140,76,2,2700,45',0,0,Taxiarchis Filon (Greece U21) Substitution at 45',Taxiarchis Filon Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,397419.0,2024-12-06 05:59:49
+12473,723549,6,44339134,76,2,2700,45',0,0,Georgios Kyriopoulos (Greece U21) Substitution at 45',Georgios Kyriopoulos Substitutio,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,355959.0,2024-12-06 05:59:49
+12473,723549,4,44339132,76,2,2700,45',0,0,Dimitris Rallis (Greece U21) Substitution at 45',Dimitris Rallis Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,388725.0,2024-12-06 05:59:49
+12473,723549,13,44339141,76,2,2700,45',0,0,Spyros Angelidis (Greece U21) Substitution at 45',Spyros Angelidis Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,374816.0,2024-12-06 05:59:49
+12473,723549,10,44339138,76,2,2700,45',0,0,Georgios Katris (Greece U21) Substitution at 45',Georgios Katris Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,366064.0,2024-12-06 05:59:49
+12473,723549,6,44339134,76,2,2700,45',0,0,Georgios Kyriopoulos (Greece U21) Substitution at 45',Georgios Kyriopoulos Substitutio,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,32855.0,2024-12-06 05:59:49
+12473,723549,7,44339135,76,2,2700,45',0,0,Dimitrios Kaloskamis (Greece U21) Substitution at 45',Dimitrios Kaloskamis Substitutio,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,354903.0,2024-12-06 05:59:49
+12473,723549,3,44339131,76,2,2700,45',0,0,Janos Bodnar (Hungary U21) Substitution at 45',Janos Bodnar Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,365234.0,2024-12-06 05:59:49
+12473,723549,12,44339140,76,2,2700,45',0,0,Taxiarchis Filon (Greece U21) Substitution at 45',Taxiarchis Filon Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,387676.0,2024-12-06 05:59:49
+12473,723549,9,44339137,76,2,2700,45',0,0,Vangelis Nikolaou (Greece U21) Substitution at 45',Vangelis Nikolaou Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,368536.0,2024-12-06 05:59:49
+12473,723549,8,44339136,76,2,2700,45',0,0,Viktor Roumiantsev (Greece U21) Substitution at 45',Viktor Roumiantsev Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,387654.0,2024-12-06 05:59:49
+12473,723549,5,44339133,76,2,2700,45',0,0,Antonis Papakanellos (Greece U21) Substitution at 45',Antonis Papakanellos Substitutio,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,364738.0,2024-12-06 05:59:49
+12473,723549,10,44339138,76,2,2700,45',0,0,Georgios Katris (Greece U21) Substitution at 45',Georgios Katris Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,365714.0,2024-12-06 05:59:49
+12473,723549,13,44339141,76,2,2700,45',0,0,Spyros Angelidis (Greece U21) Substitution at 45',Spyros Angelidis Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,351288.0,2024-12-06 05:59:49
+12473,723549,4,44339132,76,2,2700,45',0,0,Dimitris Rallis (Greece U21) Substitution at 45',Dimitris Rallis Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,304317.0,2024-12-06 05:59:49
+12473,723549,11,44339139,76,2,2700,45',0,0,Christos Alexiou (Greece U21) Substitution at 45',Christos Alexiou Substitution,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,318799.0,2024-12-06 05:59:49
+12473,723549,14,44339145,94,2,3540,59',0,0,Marjo Sinanaj (Greece U21) Yellow Card at 59',Marjo Sinanaj Yellow Card,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,396490.0,2024-12-06 05:59:49
+12473,723549,16,44339143,76,2,3600,60',0,0,Bálint Geiger (Hungary U21) Substitution at 60',Bálint Geiger Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,391154.0,2024-12-06 05:59:49
+12473,723549,15,44339142,76,2,3600,60',0,0,Csanád Dénes (Hungary U21) Substitution at 60',Csanád Dénes Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,390962.0,2024-12-06 05:59:49
+12473,723549,15,44339142,76,2,3600,60',0,0,Csanád Dénes (Hungary U21) Substitution at 60',Csanád Dénes Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,345680.0,2024-12-06 05:59:49
+12473,723549,16,44339143,76,2,3600,60',0,0,Bálint Geiger (Hungary U21) Substitution at 60',Bálint Geiger Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,343966.0,2024-12-06 05:59:49
+12473,723549,19,44339147,76,2,3660,61',0,0,Nikolaos Deligiannis (Greece U21) Substitution at 61',Nikolaos Deligiannis Substitutio,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,364739.0,2024-12-06 05:59:49
+12473,723549,17,44339144,76,2,3660,61',0,0,Dominik Csóka (Hungary U21) Substitution at 61',Dominik Csóka Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,364911.0,2024-12-06 05:59:49
+12473,723549,18,44339146,76,2,3660,61',0,0,Milán Demeter (Hungary U21) Substitution at 61',Milán Demeter Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,396073.0,2024-12-06 05:59:49
+12473,723549,19,44339147,76,2,3660,61',0,0,Nikolaos Deligiannis (Greece U21) Substitution at 61',Nikolaos Deligiannis Substitutio,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,396490.0,2024-12-06 05:59:49
+12473,723549,17,44339144,76,2,3660,61',0,0,Dominik Csóka (Hungary U21) Substitution at 61',Dominik Csóka Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,364805.0,2024-12-06 05:59:49
+12473,723549,18,44339146,76,2,3660,61',0,0,Milán Demeter (Hungary U21) Substitution at 61',Milán Demeter Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,396069.0,2024-12-06 05:59:49
+12473,723549,20,44339148,76,2,4080,68',0,0,Dimitrios Monastirlis (Greece U21) Substitution at 68',Dimitrios Monastirlis Substituti,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,364735.0,2024-12-06 05:59:49
+12473,723549,20,44394101,76,2,4080,68',0,0,Dimitrios Monastirlis (Greece U21) Substitution at 68',Dimitrios Monastirlis Substituti,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,364735.0,2024-12-13 05:56:39
+12473,723549,20,44339148,76,2,4080,68',0,0,Dimitrios Monastirlis (Greece U21) Substitution at 68',Dimitrios Monastirlis Substituti,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,374816.0,2024-12-06 05:59:49
+12473,723549,20,44394101,76,2,4080,68',0,0,Dimitrios Monastirlis (Greece U21) Substitution at 68',Dimitrios Monastirlis Substituti,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,374816.0,2024-12-13 05:56:39
+12473,723549,21,44339149,76,2,4500,75',0,0,Konstantinos Kostoulas (Greece U21) Substitution at 75',Konstantinos Kostoulas Substitut,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,387672.0,2024-12-06 05:59:49
+12473,723549,22,44394102,76,2,4500,75',0,0,Konstantinos Kostoulas (Greece U21) Substitution at 75',Konstantinos Kostoulas Substitut,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,387672.0,2024-12-13 05:56:39
+12473,723549,21,44339150,76,2,4500,75',0,0,Rajmund Tóth (Hungary U21) Substitution at 75',Rajmund Tóth Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,396075.0,2024-12-13 05:56:39
+12473,723549,21,44339150,76,2,4500,75',0,0,Rajmund Tóth (Hungary U21) Substitution at 75',Rajmund Tóth Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,360149.0,2024-12-13 05:56:39
+12473,723549,21,44339149,76,2,4500,75',0,0,Konstantinos Kostoulas (Greece U21) Substitution at 75',Konstantinos Kostoulas Substitut,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,366064.0,2024-12-06 05:59:49
+12473,723549,22,44394102,76,2,4500,75',0,0,Konstantinos Kostoulas (Greece U21) Substitution at 75',Konstantinos Kostoulas Substitut,20929,0.0,0.0,0.0,0.0,0.0,0.0,2,366064.0,2024-12-13 05:56:39
+12473,723549,23,44339151,98,2,4860,81',1,0,Dimitris Rallis (Greece U21) Penalty - Scored at 81',Dimitris Rallis Penalty - Scored,20929,0.0,0.0,0.0,0.0,0.0,0.0,1,388725.0,2024-12-06 05:59:49
+12473,723549,24,44339152,76,2,5160,86',0,0,Bence Lányi (Hungary U21) Substitution at 86',Bence Lányi Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,396076.0,2024-12-06 05:59:49
+12473,723549,24,44339152,76,2,5160,86',0,0,Bence Lányi (Hungary U21) Substitution at 86',Bence Lányi Substitution,20843,0.0,0.0,0.0,0.0,0.0,0.0,2,396068.0,2024-12-06 05:59:49
+12473,723549,26,44339154,94,2,5400,90'+4',0,0,Rajmund Tóth (Hungary U21) Yellow Card at 94',Rajmund Tóth Yellow Card,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,396075.0,2024-12-06 05:59:49
+12473,723549,25,44339153,94,2,5400,90'+4',0,0,Ármin Pécsi (Hungary U21) Yellow Card at 94',Ármin Pécsi Yellow Card,20843,0.0,0.0,0.0,0.0,0.0,0.0,1,345673.0,2024-12-06 05:59:49
+12473,734192,1,44854491,98,1,240,4',1,0,Arsenii Batahov (Ukraine U21) Penalty - Scored at 4',Arsenii Batahov Penalty - Scored,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,326671.0,2025-04-05 08:46:00
+12473,734192,2,44854492,70,1,1020,17',1,0,Rafael Rodrigues (Portugal U21) Goal at 17',Rafael Rodrigues Goal,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,341415.0,2025-04-05 08:46:00
+12473,734192,2,44854492,70,1,1020,17',1,0,Rafael Rodrigues (Portugal U21) Goal at 17',Rafael Rodrigues Goal,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,130250.0,2025-04-05 08:46:00
+12473,734192,3,44854493,70,1,2280,38',1,0,Mateus Fernandes (Portugal U21) Goal at 38',Mateus Fernandes Goal,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,346820.0,2025-04-05 08:46:00
+12473,734192,4,44854494,97,1,2640,44',1,0,Arsenii Batahov (Ukraine U21) Own Goal at 44',Arsenii Batahov Own Goal,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,326671.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,75542.0,2025-04-05 08:46:00
+12473,734192,16,44854506,76,2,2700,45',0,0,Carlos Forbs (Portugal U21) Substitution at 45',Carlos Forbs Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,78836.0,2025-04-05 08:46:00
+12473,734192,17,44854507,76,2,2700,45',0,0,Pedro Santos (Portugal U21) Substitution at 45',Pedro Santos Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,385615.0,2025-04-05 08:46:00
+12473,734192,17,44854507,76,2,2700,45',0,0,Pedro Santos (Portugal U21) Substitution at 45',Pedro Santos Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,370133.0,2025-04-05 08:46:00
+12473,734192,17,44854507,76,2,2700,45',0,0,Pedro Santos (Portugal U21) Substitution at 45',Pedro Santos Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,355525.0,2025-04-05 08:46:00
+12473,734192,17,44854507,76,2,2700,45',0,0,Pedro Santos (Portugal U21) Substitution at 45',Pedro Santos Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,271447.0,2025-04-05 08:46:00
+12473,734192,17,44854507,76,2,2700,45',0,0,Pedro Santos (Portugal U21) Substitution at 45',Pedro Santos Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,198678.0,2025-04-05 08:46:00
+12473,734192,17,44854507,76,2,2700,45',0,0,Pedro Santos (Portugal U21) Substitution at 45',Pedro Santos Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,177694.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,358269.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,346966.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,344844.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,306764.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,304654.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,272224.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,271431.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,258370.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,170369.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,155691.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,137777.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,99236.0,2025-04-05 08:46:00
+12473,734192,18,44854508,76,2,2700,45',0,0,João Marques (Portugal U21) Substitution at 45',João Marques Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,347073.0,2025-04-05 08:46:00
+12473,734192,6,44854496,76,2,2700,45',0,0,Maksym Khlan (Ukraine U21) Substitution at 45',Maksym Khlan Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,317298.0,2025-04-05 08:46:00
+12473,734192,11,44854501,76,2,2700,45',0,0,Martim Neto (Portugal U21) Substitution at 45',Martim Neto Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,340677.0,2025-04-05 08:46:00
+12473,734192,7,44854497,76,2,2700,45',0,0,Illia Kvasnytsya (Ukraine U21) Substitution at 45',Illia Kvasnytsya Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,370118.0,2025-04-05 08:46:00
+12473,734192,13,44854503,76,2,2700,45',0,0,Henrique Araújo (Portugal U21) Substitution at 45',Henrique Araújo Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,334530.0,2025-04-05 08:46:00
+12473,734192,8,44854498,76,2,2700,45',0,0,Denys Kuzyk (Ukraine U21) Substitution at 45',Denys Kuzyk Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,335102.0,2025-04-05 08:46:00
+12473,734192,12,44854502,76,2,2700,45',0,0,Tiago Tomas (Portugal U21) Substitution at 45',Tiago Tomas Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,304019.0,2025-04-05 08:46:00
+12473,734192,10,44854500,76,2,2700,45',0,0,Bogdan V'Yunnik (Ukraine U21) Substitution at 45',Bogdan V'Yunnik Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,309088.0,2025-04-05 08:46:00
+12473,734192,5,44854495,76,2,2700,45',0,0,Illia Krupskyi (Ukraine U21) Substitution at 45',Illia Krupskyi Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,322535.0,2025-04-05 08:46:00
+12473,734192,14,44854504,76,2,2700,45',0,0,Názinho (Portugal U21) Substitution at 45',Názinho Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,316559.0,2025-04-05 08:46:00
+12473,734192,9,44854499,76,2,2700,45',0,0,Ivan Varfolomeev (Ukraine U21) Substitution at 45',Ivan Varfolomeev Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,376823.0,2025-04-05 08:46:00
+12473,734192,13,44854503,76,2,2700,45',0,0,Henrique Araújo (Portugal U21) Substitution at 45',Henrique Araújo Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,2,291629.0,2025-04-05 08:46:00
+12473,734192,18,44854508,76,2,2700,45',0,0,João Marques (Portugal U21) Substitution at 45',João Marques Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,2,346820.0,2025-04-05 08:46:00
+12473,734192,12,44854502,76,2,2700,45',0,0,Tiago Tomas (Portugal U21) Substitution at 45',Tiago Tomas Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,2,376274.0,2025-04-05 08:46:00
+12473,734192,15,44854505,76,2,2700,45',0,0,Danilo  (Portugal U21) Substitution at 45',Danilo  Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,2,308456.0,2025-04-05 08:46:00
+12473,734192,16,44854506,76,2,2700,45',0,0,Carlos Forbs (Portugal U21) Substitution at 45',Carlos Forbs Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,2,310802.0,2025-04-05 08:46:00
+12473,734192,9,44854499,76,2,2700,45',0,0,Ivan Varfolomeev (Ukraine U21) Substitution at 45',Ivan Varfolomeev Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,331078.0,2025-04-05 08:46:00
+12473,734192,14,44854504,76,2,2700,45',0,0,Názinho (Portugal U21) Substitution at 45',Názinho Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,2,341415.0,2025-04-05 08:46:00
+12473,734192,14,44854504,76,2,2700,45',0,0,Názinho (Portugal U21) Substitution at 45',Názinho Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,2,130250.0,2025-04-05 08:46:00
+12473,734192,7,44854497,76,2,2700,45',0,0,Illia Kvasnytsya (Ukraine U21) Substitution at 45',Illia Kvasnytsya Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,384983.0,2025-04-05 08:46:00
+12473,734192,17,44854507,76,2,2700,45',0,0,Pedro Santos (Portugal U21) Substitution at 45',Pedro Santos Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,2,316560.0,2025-04-05 08:46:00
+12473,734192,10,44854500,76,2,2700,45',0,0,Bogdan V'Yunnik (Ukraine U21) Substitution at 45',Bogdan V'Yunnik Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,367975.0,2025-04-05 08:46:00
+12473,734192,6,44854496,76,2,2700,45',0,0,Maksym Khlan (Ukraine U21) Substitution at 45',Maksym Khlan Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,326665.0,2025-04-05 08:46:00
+12473,734192,11,44854501,76,2,2700,45',0,0,Martim Neto (Portugal U21) Substitution at 45',Martim Neto Substitution,11692,0.0,0.0,0.0,0.0,0.0,0.0,2,347406.0,2025-04-05 08:46:00
+12473,734192,5,44854495,76,2,2700,45',0,0,Illia Krupskyi (Ukraine U21) Substitution at 45',Illia Krupskyi Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,362483.0,2025-04-05 08:46:00
+12473,734192,8,44854498,76,2,2700,45',0,0,Denys Kuzyk (Ukraine U21) Substitution at 45',Denys Kuzyk Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,360703.0,2025-04-05 08:46:00
+12473,734192,19,44854509,98,2,3360,56',1,0,Maksym Khlan (Ukraine U21) Penalty - Scored at 56',Maksym Khlan Penalty - Scored,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,317298.0,2025-04-05 08:46:00
+12473,734192,20,44854510,76,2,3840,64',0,0,Oleh Fedor (Ukraine U21) Substitution at 64',Oleh Fedor Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,384548.0,2025-04-05 08:46:00
+12473,734192,20,44854510,76,2,3840,64',0,0,Oleh Fedor (Ukraine U21) Substitution at 64',Oleh Fedor Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,347625.0,2025-04-05 08:46:00
+12473,734192,21,44854511,76,2,4140,69',0,0,Mykola Oharkov (Ukraine U21) Substitution at 69',Mykola Oharkov Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,365669.0,2025-04-05 08:46:00
+12473,734192,21,44854511,76,2,4140,69',0,0,Mykola Oharkov (Ukraine U21) Substitution at 69',Mykola Oharkov Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,346348.0,2025-04-05 08:46:00
+12473,734192,22,44854512,70,2,5160,86',1,0,Arsenii Batahov (Ukraine U21) Goal at 86',Arsenii Batahov Goal,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,326671.0,2025-04-05 08:46:00
+12473,734192,24,44854514,94,2,5400,90'+2',0,0,Tiago Tomas (Portugal U21) Yellow Card at 92',Tiago Tomas Yellow Card,11692,0.0,0.0,0.0,0.0,0.0,0.0,1,304019.0,2025-04-05 08:46:00
+12473,734192,23,44854513,76,2,5400,90'+1',0,0,Ihor Krasnopir (Ukraine U21) Substitution at 91',Ihor Krasnopir Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,1,370128.0,2025-04-05 08:46:00
+12473,734192,23,44854513,76,2,5400,90'+1',0,0,Ihor Krasnopir (Ukraine U21) Substitution at 91',Ihor Krasnopir Substitution,4207,0.0,0.0,0.0,0.0,0.0,0.0,2,317298.0,2025-04-05 08:46:00
+12473,734194,1,44862982,70,1,780,13',1,0,Javi Guerra (Spain U21) Goal at 13',Javi Guerra Goal,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,93329.0,2025-04-05 08:46:00
+12473,734194,2,44862983,94,1,1380,23',0,0,Isak Jensen (Denmark U21) Yellow Card at 23',Isak Jensen Yellow Card,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,309651.0,2025-04-05 08:46:00
+12473,734194,3,44862984,70,1,1560,26',1,0,Mateo Joseph (Spain U21) Goal at 26',Mateo Joseph Goal,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,346709.0,2025-04-05 08:46:00
+12473,734194,4,44862985,94,1,1800,30',0,0,Stefan Bajcetic (Spain U21) Yellow Card at 30',Stefan Bajcetic Yellow Card,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,330605.0,2025-04-05 08:46:00
+12473,734194,5,44862986,76,2,2700,45',0,0,Enrique Salas (Spain U21) Substitution at 45',Enrique Salas Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,334163.0,2025-04-05 08:46:00
+12473,734194,7,44862988,76,2,2700,45',0,0,Robert Navarro (Spain U21) Substitution at 45',Robert Navarro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,276996.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,303906.0,2025-04-05 08:46:00
+12473,734194,6,44862987,76,2,2700,45',0,0,Javi López (Spain U21) Substitution at 45',Javi López Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,347354.0,2025-04-05 08:46:00
+12473,734194,6,44862987,76,2,2700,45',0,0,Javi López (Spain U21) Substitution at 45',Javi López Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,297354.0,2025-04-05 08:46:00
+12473,734194,6,44862987,76,2,2700,45',0,0,Javi López (Spain U21) Substitution at 45',Javi López Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,180945.0,2025-04-05 08:46:00
+12473,734194,6,44862987,76,2,2700,45',0,0,Javi López (Spain U21) Substitution at 45',Javi López Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,160328.0,2025-04-05 08:46:00
+12473,734194,6,44862987,76,2,2700,45',0,0,Javi López (Spain U21) Substitution at 45',Javi López Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,141656.0,2025-04-05 08:46:00
+12473,734194,6,44862987,76,2,2700,45',0,0,Javi López (Spain U21) Substitution at 45',Javi López Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,141479.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,40547.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,395616.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,395349.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,366025.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,354756.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,328461.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,324504.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,320553.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,311483.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,301896.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,286909.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,271511.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,264817.0,2025-04-05 08:46:00
+12473,734194,8,44862989,76,2,2700,45',0,0,Raúl Moro (Spain U21) Substitution at 45',Raúl Moro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,200277.0,2025-04-05 08:46:00
+12473,734194,6,44862987,76,2,2700,45',0,0,Javi López (Spain U21) Substitution at 45',Javi López Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,189777.0,2025-04-05 08:46:00
+12473,734194,5,44862986,76,2,2700,45',0,0,Enrique Salas (Spain U21) Substitution at 45',Enrique Salas Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,356000.0,2025-04-05 08:46:00
+12473,734194,7,44862988,76,2,2700,45',0,0,Robert Navarro (Spain U21) Substitution at 45',Robert Navarro Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,307390.0,2025-04-05 08:46:00
+12473,734194,10,44862991,76,2,3480,58',0,0,Gabri Veiga (Spain U21) Substitution at 58',Gabri Veiga Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,307381.0,2025-04-05 08:46:00
+12473,734194,9,44862990,76,2,3480,58',0,0,Mikel Jauregizar (Spain U21) Substitution at 58',Mikel Jauregizar Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,377792.0,2025-04-05 08:46:00
+12473,734194,11,44862992,76,2,3480,58',0,0,Hugo Sotelo (Spain U21) Substitution at 58',Hugo Sotelo Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,319114.0,2025-04-05 08:46:00
+12473,734194,10,44862991,76,2,3480,58',0,0,Gabri Veiga (Spain U21) Substitution at 58',Gabri Veiga Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,206110.0,2025-04-05 08:46:00
+12473,734194,9,44862990,76,2,3480,58',0,0,Mikel Jauregizar (Spain U21) Substitution at 58',Mikel Jauregizar Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,330605.0,2025-04-05 08:46:00
+12473,734194,11,44862992,76,2,3480,58',0,0,Hugo Sotelo (Spain U21) Substitution at 58',Hugo Sotelo Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,93329.0,2025-04-05 08:46:00
+12473,734194,12,44862993,76,2,3900,65',0,0,Iker Bravo (Spain U21) Substitution at 65',Iker Bravo Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,330242.0,2025-04-05 08:46:00
+12473,734194,12,44862993,76,2,3900,65',0,0,Iker Bravo (Spain U21) Substitution at 65',Iker Bravo Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,346709.0,2025-04-05 08:46:00
+12473,734194,14,44862995,76,2,3960,66',0,0,Elias Jelert (Denmark U21) Substitution at 66',Elias Jelert Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,329755.0,2025-04-05 08:46:00
+12473,734194,13,44862994,76,2,3960,66',0,0,Clement Bischoff (Denmark U21) Substitution at 66',Clement Bischoff Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,372851.0,2025-04-05 08:46:00
+12473,734194,13,44862994,76,2,3960,66',0,0,Clement Bischoff (Denmark U21) Substitution at 66',Clement Bischoff Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,338854.0,2025-04-05 08:46:00
+12473,734194,14,44862995,76,2,3960,66',0,0,Elias Jelert (Denmark U21) Substitution at 66',Elias Jelert Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,347026.0,2025-04-05 08:46:00
+12473,734194,15,44862996,94,2,4200,70',0,0,Jacob Andersen (Denmark U21) Yellow Card at 70',Jacob Andersen Yellow Card,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,214373.0,2025-04-05 08:46:00
+12473,734194,16,44862997,94,2,4260,71',0,0,Mikel Jauregizar (Spain U21) Yellow Card at 71',Mikel Jauregizar Yellow Card,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,377792.0,2025-04-05 08:46:00
+12473,734194,18,44862999,76,2,4380,73',0,0,Cristhian Mosquera (Spain U21) Substitution at 73',Cristhian Mosquera Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,328497.0,2025-04-05 08:46:00
+12473,734194,17,44862998,76,2,4380,73',0,0,Marc Pubill (Spain U21) Substitution at 73',Marc Pubill Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,1,332613.0,2025-04-05 08:46:00
+12473,734194,18,44862999,76,2,4380,73',0,0,Cristhian Mosquera (Spain U21) Substitution at 73',Cristhian Mosquera Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,297360.0,2025-04-05 08:46:00
+12473,734194,17,44862998,76,2,4380,73',0,0,Marc Pubill (Spain U21) Substitution at 73',Marc Pubill Substitution,4371,0.0,0.0,0.0,0.0,0.0,0.0,2,303804.0,2025-04-05 08:46:00
+12473,734194,19,44863000,76,2,4560,76',0,0,David Kruse (Denmark U21) Substitution at 76',David Kruse Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,307947.0,2025-04-05 08:46:00
+12473,734194,20,44863001,76,2,4560,76',0,0,Luca Kjerrumgaard (Denmark U21) Substitution at 76',Luca Kjerrumgaard Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,345364.0,2025-04-05 08:46:00
+12473,734194,19,44863000,76,2,4560,76',0,0,David Kruse (Denmark U21) Substitution at 76',David Kruse Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,332428.0,2025-04-05 08:46:00
+12473,734194,20,44863001,76,2,4560,76',0,0,Luca Kjerrumgaard (Denmark U21) Substitution at 76',Luca Kjerrumgaard Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,362794.0,2025-04-05 08:46:00
+12473,734194,21,44863002,76,2,5040,84',0,0,Viktor Bak (Denmark U21) Substitution at 84',Viktor Bak Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,320879.0,2025-04-05 08:46:00
+12473,734194,21,44863002,76,2,5040,84',0,0,Viktor Bak (Denmark U21) Substitution at 84',Viktor Bak Substitution,4366,0.0,0.0,0.0,0.0,0.0,0.0,2,214373.0,2025-04-05 08:46:00
+12473,734194,22,44863003,70,2,5400,90'+3',1,0,Tochi Phil Chukwuani (Denmark U21) Goal at 93',Tochi Phil Chukwuani Goal,4366,0.0,0.0,0.0,0.0,0.0,0.0,1,293872.0,2025-04-05 08:46:00

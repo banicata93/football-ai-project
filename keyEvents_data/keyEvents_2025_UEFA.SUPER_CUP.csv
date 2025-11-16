@@ -1,0 +1,30 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13376,735899,1,45638322,70,1,2340,39',1,0,Micky van de Ven (Tottenham Hotspur) Goal at 39',Micky van de Ven Goal,367,0.0,0.0,0.0,0.0,0.0,0.0,1,296512,2025-08-14 04:50:11
+13376,735899,2,45638525,70,2,2880,48',1,0,Cristian Romero (Tottenham Hotspur) Goal at 48',Cristian Romero Goal,367,0.0,0.0,0.0,0.0,0.0,0.0,1,96970,2025-08-14 04:50:11
+13376,735899,2,45638525,70,2,2880,48',1,0,Cristian Romero (Tottenham Hotspur) Goal at 48',Cristian Romero Goal,367,0.0,0.0,0.0,0.0,0.0,0.0,1,353967,2025-08-14 04:50:11
+13376,735899,2,45638525,70,2,2880,48',1,0,Cristian Romero (Tottenham Hotspur) Goal at 48',Cristian Romero Goal,367,0.0,0.0,0.0,0.0,0.0,0.0,1,378700,2025-08-14 04:50:11
+13376,735899,3,45638565,94,2,3180,53',0,0,Richarlison  (Tottenham Hotspur) Yellow Card at 53',Richarlison  Yellow Card,367,0.0,0.0,0.0,0.0,0.0,0.0,1,156799,2025-08-14 04:50:11
+13376,735899,4,45638584,94,2,3300,55',0,0,Bradley Barcola (Paris Saint-Germain) Yellow Card at 55',Bradley Barcola Yellow Card,160,0.0,0.0,0.0,0.0,0.0,0.0,1,328238,2025-08-14 04:50:11
+13376,735899,5,45638618,94,2,3480,58',0,0,Willian Pacho (Paris Saint-Germain) Yellow Card at 58',Willian Pacho Yellow Card,160,0.0,0.0,0.0,0.0,0.0,0.0,1,287005,2025-08-14 04:50:11
+13376,735899,6,45638642,76,2,3600,60',0,0,Fabián Ruiz (Paris Saint-Germain) Substitution at 60',Fabián Ruiz Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,1,214596,2025-08-14 04:50:11
+13376,735899,6,45638642,76,2,3600,60',0,0,Fabián Ruiz (Paris Saint-Germain) Substitution at 60',Fabián Ruiz Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,2,274745,2025-08-14 04:50:11
+13376,735899,7,45638671,94,2,3720,62',0,0,Kevin Danso (Tottenham Hotspur) Yellow Card at 62',Kevin Danso Yellow Card,367,0.0,0.0,0.0,0.0,0.0,0.0,1,250543,2025-08-14 04:50:11
+13376,735899,8,45638713,76,2,4020,67',0,0,Ibrahim Mbaye (Paris Saint-Germain) Substitution at 67',Ibrahim Mbaye Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,1,388522,2025-08-14 04:50:11
+13376,735899,8,45638713,76,2,4020,67',0,0,Ibrahim Mbaye (Paris Saint-Germain) Substitution at 67',Ibrahim Mbaye Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,2,328238,2025-08-14 04:50:11
+13376,735899,9,45638714,76,2,4080,68',0,0,Lee Kang-in (Paris Saint-Germain) Substitution at 68',Lee Kang-in Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,1,274197,2025-08-14 04:50:11
+13376,735899,9,45638714,76,2,4080,68',0,0,Lee Kang-in (Paris Saint-Germain) Substitution at 68',Lee Kang-in Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,2,345581,2025-08-14 04:50:11
+13376,735899,11,45638769,76,2,4320,72',0,0,Archie Gray (Tottenham Hotspur) Substitution at 72',Archie Gray Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,328050,2025-08-14 04:50:11
+13376,735899,10,45638762,76,2,4320,72',0,0,Dominic Solanke (Tottenham Hotspur) Substitution at 72',Dominic Solanke Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,194115,2025-08-14 04:50:11
+13376,735899,11,45638769,76,2,4320,72',0,0,Archie Gray (Tottenham Hotspur) Substitution at 72',Archie Gray Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,224144,2025-08-14 04:50:11
+13376,735899,10,45638762,76,2,4320,72',0,0,Dominic Solanke (Tottenham Hotspur) Substitution at 72',Dominic Solanke Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,156799,2025-08-14 04:50:11
+13376,735899,12,45638824,76,2,4620,77',0,0,Gonçalo Ramos (Paris Saint-Germain) Substitution at 77',Gonçalo Ramos Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,1,288896,2025-08-14 04:50:11
+13376,735899,12,45638824,76,2,4620,77',0,0,Gonçalo Ramos (Paris Saint-Germain) Substitution at 77',Gonçalo Ramos Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,1,354088,2025-08-14 04:50:11
+13376,735899,12,45638824,76,2,4620,77',0,0,Gonçalo Ramos (Paris Saint-Germain) Substitution at 77',Gonçalo Ramos Substitution,160,0.0,0.0,0.0,0.0,0.0,0.0,2,336388,2025-08-14 04:50:11
+13376,735899,13,45638879,76,2,4740,79',0,0,Mathys Tel (Tottenham Hotspur) Substitution at 79',Mathys Tel Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,325042,2025-08-14 04:50:11
+13376,735899,13,45638879,76,2,4740,79',0,0,Mathys Tel (Tottenham Hotspur) Substitution at 79',Mathys Tel Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,266599,2025-08-14 04:50:11
+13376,735899,14,45638926,70,2,5100,85',1,0,Lee Kang-in (Paris Saint-Germain) Goal at 85',Lee Kang-in Goal,160,0.0,0.0,0.0,0.0,0.0,0.0,1,274197,2025-08-14 04:50:11
+13376,735899,15,45639078,94,2,5400,90',0,0,Ousmane Dembélé (Paris Saint-Germain) Yellow Card at 90',Ousmane Dembélé Yellow Card,160,0.0,0.0,0.0,0.0,0.0,0.0,1,229744,2025-08-14 04:50:11
+13376,735899,16,45639091,76,2,5400,90',0,0,Lucas Bergvall (Tottenham Hotspur) Substitution at 90',Lucas Bergvall Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,1,356379,2025-08-14 04:50:11
+13376,735899,17,45639117,70,2,5400,90'+4',1,0,Gonçalo Ramos (Paris Saint-Germain) Goal at 94',Gonçalo Ramos Goal,160,0.0,0.0,0.0,0.0,0.0,0.0,1,288896,2025-08-14 04:50:11
+13376,735899,17,45639117,70,2,5400,90'+4',1,0,Gonçalo Ramos (Paris Saint-Germain) Goal at 94',Gonçalo Ramos Goal,160,0.0,0.0,0.0,0.0,0.0,0.0,1,354088,2025-08-14 04:50:11
+13376,735899,16,45639091,76,2,5400,90',0,0,Lucas Bergvall (Tottenham Hotspur) Substitution at 90',Lucas Bergvall Substitution,367,0.0,0.0,0.0,0.0,0.0,0.0,2,297337,2025-08-14 04:50:11

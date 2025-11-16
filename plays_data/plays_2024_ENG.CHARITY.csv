@@ -1,0 +1,26 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+12585,702836,2,43520572,76,Facundo Pellistri (Manchester United) Substitution at 58',Facundo Pellistri Substitution,2,3480,58',360,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,290538,Facundo Pellistri,2024-08-11 09:17:49
+12585,702836,1,43520571,76,Scott McTominay (Manchester United) Substitution at 58',Scott McTominay Substitution,2,3480,58',360,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,255850,Scott McTominay,2024-08-11 09:17:49
+12585,702836,1,43520571,76,Scott McTominay (Manchester United) Substitution at 58',Scott McTominay Substitution,2,3480,58',360,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,231167,Mason Mount,2024-08-11 09:17:49
+12585,702836,2,43520572,76,Facundo Pellistri (Manchester United) Substitution at 58',Facundo Pellistri Substitution,2,3480,58',360,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,157073,Harry Maguire,2024-08-11 09:17:49
+12585,702836,3,43520573,76,Alejandro Garnacho (Manchester United) Substitution at 59',Alejandro Garnacho Substitution,2,3540,59',360,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,325555,Alejandro Garnacho,2024-08-11 09:17:49
+12585,702836,4,43520574,76,Toby Collyer (Manchester United) Substitution at 59',Toby Collyer Substitution,2,3540,59',360,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,308778,Toby Collyer,2024-08-11 09:17:49
+12585,702836,3,43520573,76,Alejandro Garnacho (Manchester United) Substitution at 59',Alejandro Garnacho Substitution,2,3540,59',360,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291630,Amad,2024-08-11 09:17:49
+12585,702836,4,43520574,76,Toby Collyer (Manchester United) Substitution at 59',Toby Collyer Substitution,2,3540,59',360,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328466,Kobbie Mainoo,2024-08-11 09:17:49
+12585,702836,5,43520636,76,Matheus Nunes (Manchester City) Substitution at 63',Matheus Nunes Substitution,2,3780,63',382,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,303785,Matheus Nunes,2024-08-11 09:17:49
+12585,702836,6,43520637,76,Sávio (Manchester City) Substitution at 63',Sávio Substitution,2,3780,63',382,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,304470,Sávio,2024-08-11 09:17:49
+12585,702836,5,43520636,76,Matheus Nunes (Manchester City) Substitution at 63',Matheus Nunes Substitution,2,3780,63',382,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328464,Nico O'Reilly,2024-08-11 09:17:49
+12585,702836,6,43520637,76,Sávio (Manchester City) Substitution at 63',Sávio Substitution,2,3780,63',382,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,283672,Jérémy Doku,2024-08-11 09:17:49
+12585,702836,7,43520714,94,Matheus Nunes (Manchester City) Yellow Card at 68',Matheus Nunes Yellow Card,2,4080,68',382,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,303785,Matheus Nunes,2024-08-11 09:17:49
+12585,702836,8,43520861,76,Bernardo Silva (Manchester City) Substitution at 80',Bernardo Silva Substitution,2,4800,80',382,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,199833,Bernardo Silva,2024-08-11 09:17:49
+12585,702836,8,43520861,76,Bernardo Silva (Manchester City) Substitution at 80',Bernardo Silva Substitution,2,4800,80',382,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,298518,James McAtee,2024-08-11 09:17:49
+12585,702836,9,43520883,70,Alejandro Garnacho (Manchester United) Goal at 82',Alejandro Garnacho Goal,2,4920,82',360,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,325555,Alejandro Garnacho,2024-08-11 09:17:49
+12585,702836,10,43520933,76,Jadon Sancho (Manchester United) Substitution at 83',Jadon Sancho Substitution,2,4980,83',360,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,259836,Jadon Sancho,2024-08-11 09:17:49
+12585,702836,10,43520933,76,Jadon Sancho (Manchester United) Substitution at 83',Jadon Sancho Substitution,2,4980,83',360,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,230945,Marcus Rashford,2024-08-11 09:17:49
+12585,702836,11,43520974,94,Bernardo Silva (Manchester City) Yellow Card at 85',Bernardo Silva Yellow Card,2,5100,85',382,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,199833,Bernardo Silva,2024-08-11 09:17:49
+12585,702836,12,43525105,94,Alejandro Garnacho (Manchester United) Yellow Card at 85',Alejandro Garnacho Yellow Card,2,5100,85',360,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,325555,Alejandro Garnacho,2024-08-11 09:17:49
+12585,702836,13,43521055,70,Bernardo Silva (Manchester City) Goal at 89',Bernardo Silva Goal,2,5340,89',382,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,199833,Bernardo Silva,2024-08-11 09:17:49
+12585,702836,14,43521094,76,Nathan Aké (Manchester City) Substitution at 90',Nathan Aké Substitution,2,5400,90',382,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,159248,Nathan Aké,2024-08-11 09:17:49
+12585,702836,15,43521095,76,Kevin De Bruyne (Manchester City) Substitution at 90',Kevin De Bruyne Substitution,2,5400,90',382,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,134947,Kevin De Bruyne,2024-08-11 09:17:49
+12585,702836,14,43521094,76,Nathan Aké (Manchester City) Substitution at 90',Nathan Aké Substitution,2,5400,90',382,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,299910,Josko Gvardiol,2024-08-11 09:17:49
+12585,702836,15,43521095,76,Kevin De Bruyne (Manchester City) Substitution at 90',Kevin De Bruyne Substitution,2,5400,90',382,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,307111,Oscar Bobb,2024-08-11 09:17:49

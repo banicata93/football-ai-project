@@ -1,0 +1,17 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+13223,730971,1,44825946,94,Tara McKeown (Washington Spirit) Yellow Card at 34',Tara McKeown Yellow Card,1,2040,34',15365,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,263690,Tara McKeown,2025-03-08 05:51:08
+13223,730971,2,44825974,94,Narumi Miura (Washington Spirit) Yellow Card at 36',Narumi Miura Yellow Card,1,2160,36',15365,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,276099,Narumi Miura,2025-03-08 05:51:08
+13223,730971,3,44825989,70,Rafaelle  (Orlando Pride) Goal at 41',Rafaelle  Goal,1,2460,41',18206,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,158720,Rafaelle ,2025-03-08 05:51:08
+13223,730971,4,44826131,76,Julie Doyle (Orlando Pride) Substitution at 45',Julie Doyle Substitution,2,2700,45',18206,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279438,Julie Doyle,2025-03-08 05:51:08
+13223,730971,4,44826131,76,Julie Doyle (Orlando Pride) Substitution at 45',Julie Doyle Substitution,2,2700,45',18206,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,158720,Rafaelle ,2025-03-08 05:51:08
+13223,730971,5,44826176,76,Rebeca Bernal (Washington Spirit) Substitution at 61',Rebeca Bernal Substitution,2,3660,61',15365,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,259180,Rebeca Bernal,2025-03-08 05:51:08
+13223,730971,6,44826177,76,Makenna Morris (Washington Spirit) Substitution at 61',Makenna Morris Substitution,2,3660,61',15365,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,307452,Makenna Morris,2025-03-08 05:51:08
+13223,730971,5,44826176,76,Rebeca Bernal (Washington Spirit) Substitution at 61',Rebeca Bernal Substitution,2,3660,61',15365,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,360896,Chloe Ricketts,2025-03-08 05:51:08
+13223,730971,6,44826177,76,Makenna Morris (Washington Spirit) Substitution at 61',Makenna Morris Substitution,2,3660,61',15365,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,211049,Brittany Ratcliffe,2025-03-08 05:51:08
+13223,730971,7,44826205,76,Ally Lemos (Orlando Pride) Substitution at 66',Ally Lemos Substitution,2,3960,66',18206,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,349344,Ally Lemos,2025-03-08 05:51:08
+13223,730971,7,44826205,76,Ally Lemos (Orlando Pride) Substitution at 66',Ally Lemos Substitution,2,3960,66',18206,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,211047,Morgan Gautrat,2025-03-08 05:51:08
+13223,730971,8,44826223,70,Leicy Santos (Washington Spirit) Goal at 72',Leicy Santos Goal,2,4320,72',15365,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219866,Leicy Santos,2025-03-08 05:51:08
+13223,730971,9,44826262,76,Prisca Chilufya (Orlando Pride) Substitution at 82',Prisca Chilufya Substitution,2,4920,82',18206,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,351425,Prisca Chilufya,2025-03-08 05:51:08
+13223,730971,10,44826263,76,Summer Yates (Orlando Pride) Substitution at 82',Summer Yates Substitution,2,4920,82',18206,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277937,Summer Yates,2025-03-08 05:51:08
+13223,730971,9,44826262,76,Prisca Chilufya (Orlando Pride) Substitution at 82',Prisca Chilufya Substitution,2,4920,82',18206,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,310645,Barbra Banda,2025-03-08 05:51:08
+13223,730971,10,44826263,76,Summer Yates (Orlando Pride) Substitution at 82',Summer Yates Substitution,2,4920,82',18206,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,225083,Ally Watt,2025-03-08 05:51:08

@@ -1,0 +1,63 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13320,754560,3,45537558,76,1,1920,32',0,0,Yuri Araújo (Yokohama F. Marinos) Substitution at 32',Yuri Araújo Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,351491,2025-07-31 04:42:54
+13320,754560,1,45537556,76,1,1920,32',0,0,Dean David (Yokohama F. Marinos) Substitution at 32',Dean David Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,230243,2025-07-31 04:42:54
+13320,754560,2,45537557,76,1,1920,32',0,0,Ryo Miyaichi (Yokohama F. Marinos) Substitution at 32',Ryo Miyaichi Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,155458,2025-07-31 04:42:54
+13320,754560,2,45537557,76,1,1920,32',0,0,Ryo Miyaichi (Yokohama F. Marinos) Substitution at 32',Ryo Miyaichi Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,218205,2025-07-31 04:42:54
+13320,754560,1,45537556,76,1,1920,32',0,0,Dean David (Yokohama F. Marinos) Substitution at 32',Dean David Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,407044,2025-07-31 04:42:54
+13320,754560,3,45537558,76,1,1920,32',0,0,Yuri Araújo (Yokohama F. Marinos) Substitution at 32',Yuri Araújo Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,199010,2025-07-31 04:42:54
+13320,754560,10,45537696,76,2,2700,45',0,0,Ryoya Kimura (Yokohama F. Marinos) Substitution at 45',Ryoya Kimura Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,341703,2025-07-31 04:42:54
+13320,754560,5,45537691,76,2,2700,45',0,0,Curtis Jones (Liverpool) Substitution at 45',Curtis Jones Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,190257,2025-07-31 04:42:54
+13320,754560,12,45537698,76,2,2700,45',0,0,Kouta Watanabe (Yokohama F. Marinos) Substitution at 45',Kouta Watanabe Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,283847,2025-07-31 04:42:54
+13320,754560,7,45537693,76,2,2700,45',0,0,Kenta Inoue (Yokohama F. Marinos) Substitution at 45',Kenta Inoue Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,304054,2025-07-31 04:42:54
+13320,754560,13,45537699,76,2,2700,45',0,0,Asahi Uenaka (Yokohama F. Marinos) Substitution at 45',Asahi Uenaka Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,357033,2025-07-31 04:42:54
+13320,754560,11,45537697,76,2,2700,45',0,0,Ren Kato (Yokohama F. Marinos) Substitution at 45',Ren Kato Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,378857,2025-07-31 04:42:54
+13320,754560,6,45537692,76,2,2700,45',0,0,Kosei Suwama (Yokohama F. Marinos) Substitution at 45',Kosei Suwama Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,362186,2025-07-31 04:42:54
+13320,754560,8,45537694,76,2,2700,45',0,0,Riku Yamane (Yokohama F. Marinos) Substitution at 45',Riku Yamane Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,333718,2025-07-31 04:42:54
+13320,754560,4,45537690,76,2,2700,45',0,0,Darwin Núñez (Liverpool) Substitution at 45',Darwin Núñez Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,271788,2025-07-31 04:42:54
+13320,754560,9,45537695,76,2,2700,45',0,0,Sandy Walsh (Yokohama F. Marinos) Substitution at 45',Sandy Walsh Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,165300,2025-07-31 04:42:54
+13320,754560,4,45537690,76,2,2700,45',0,0,Darwin Núñez (Liverpool) Substitution at 45',Darwin Núñez Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,304901,2025-07-31 04:42:54
+13320,754560,13,45537699,76,2,2700,45',0,0,Asahi Uenaka (Yokohama F. Marinos) Substitution at 45',Asahi Uenaka Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,238074,2025-07-31 04:42:54
+13320,754560,5,45537691,76,2,2700,45',0,0,Curtis Jones (Liverpool) Substitution at 45',Curtis Jones Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,274632,2025-07-31 04:42:54
+13320,754560,7,45537693,76,2,2700,45',0,0,Kenta Inoue (Yokohama F. Marinos) Substitution at 45',Kenta Inoue Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,379294,2025-07-31 04:42:54
+13320,754560,7,45537693,76,2,2700,45',0,0,Kenta Inoue (Yokohama F. Marinos) Substitution at 45',Kenta Inoue Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,357961,2025-07-31 04:42:54
+13320,754560,7,45537693,76,2,2700,45',0,0,Kenta Inoue (Yokohama F. Marinos) Substitution at 45',Kenta Inoue Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,357897,2025-07-31 04:42:54
+13320,754560,7,45537693,76,2,2700,45',0,0,Kenta Inoue (Yokohama F. Marinos) Substitution at 45',Kenta Inoue Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,337018,2025-07-31 04:42:54
+13320,754560,7,45537693,76,2,2700,45',0,0,Kenta Inoue (Yokohama F. Marinos) Substitution at 45',Kenta Inoue Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,333941,2025-07-31 04:42:54
+13320,754560,7,45537693,76,2,2700,45',0,0,Kenta Inoue (Yokohama F. Marinos) Substitution at 45',Kenta Inoue Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,333872,2025-07-31 04:42:54
+13320,754560,7,45537693,76,2,2700,45',0,0,Kenta Inoue (Yokohama F. Marinos) Substitution at 45',Kenta Inoue Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,314532,2025-07-31 04:42:54
+13320,754560,7,45537693,76,2,2700,45',0,0,Kenta Inoue (Yokohama F. Marinos) Substitution at 45',Kenta Inoue Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,252785,2025-07-31 04:42:54
+13320,754560,7,45537693,76,2,2700,45',0,0,Kenta Inoue (Yokohama F. Marinos) Substitution at 45',Kenta Inoue Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,229556,2025-07-31 04:42:54
+13320,754560,8,45537694,76,2,2700,45',0,0,Riku Yamane (Yokohama F. Marinos) Substitution at 45',Riku Yamane Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,369524,2025-07-31 04:42:54
+13320,754560,12,45537698,76,2,2700,45',0,0,Kouta Watanabe (Yokohama F. Marinos) Substitution at 45',Kouta Watanabe Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,159344,2025-07-31 04:42:54
+13320,754560,6,45537692,76,2,2700,45',0,0,Kosei Suwama (Yokohama F. Marinos) Substitution at 45',Kosei Suwama Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,202068,2025-07-31 04:42:54
+13320,754560,10,45537696,76,2,2700,45',0,0,Ryoya Kimura (Yokohama F. Marinos) Substitution at 45',Ryoya Kimura Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,285322,2025-07-31 04:42:54
+13320,754560,11,45537697,76,2,2700,45',0,0,Ren Kato (Yokohama F. Marinos) Substitution at 45',Ren Kato Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,265954,2025-07-31 04:42:54
+13320,754560,9,45537695,76,2,2700,45',0,0,Sandy Walsh (Yokohama F. Marinos) Substitution at 45',Sandy Walsh Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,277067,2025-07-31 04:42:54
+13320,754560,14,45537700,70,2,3300,55',1,0,Asahi Uenaka (Yokohama F. Marinos) Goal at 55',Asahi Uenaka Goal,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,357033,2025-07-31 04:42:54
+13320,754560,15,45537701,76,2,3600,60',0,0,Wataru Endo (Liverpool) Substitution at 60',Wataru Endo Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,152479,2025-07-31 04:42:54
+13320,754560,15,45537701,76,2,3600,60',0,0,Wataru Endo (Liverpool) Substitution at 60',Wataru Endo Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,157892,2025-07-31 04:42:54
+13320,754560,16,45537702,70,2,3720,62',1,0,Florian Wirtz (Liverpool) Goal at 62',Florian Wirtz Goal,364,0.0,0.0,0.0,0.0,0.0,0.0,1,303748,2025-07-31 04:42:54
+13320,754560,18,45537704,76,2,3780,63',0,0,Jeremie Frimpong (Liverpool) Substitution at 63',Jeremie Frimpong Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,281119,2025-07-31 04:42:54
+13320,754560,20,45537706,76,2,3780,63',0,0,Kostas Tsimikas (Liverpool) Substitution at 63',Kostas Tsimikas Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,226177,2025-07-31 04:42:54
+13320,754560,22,45537708,76,2,3780,63',0,0,Trey Nyoni (Liverpool) Substitution at 63',Trey Nyoni Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,356075,2025-07-31 04:42:54
+13320,754560,23,45537709,76,2,3780,63',0,0,Rio Ngumoha (Liverpool) Substitution at 63',Rio Ngumoha Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,379588,2025-07-31 04:42:54
+13320,754560,21,45537707,76,2,3780,63',0,0,Andrew Robertson (Liverpool) Substitution at 63',Andrew Robertson Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,104943,2025-07-31 04:42:54
+13320,754560,17,45537703,76,2,3780,63',0,0,Alexis Mac Allister (Liverpool) Substitution at 63',Alexis Mac Allister Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,249299,2025-07-31 04:42:54
+13320,754560,19,45537705,76,2,3780,63',0,0,Harvey Elliott (Liverpool) Substitution at 63',Harvey Elliott Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,280806,2025-07-31 04:42:54
+13320,754560,23,45537709,76,2,3780,63',0,0,Rio Ngumoha (Liverpool) Substitution at 63',Rio Ngumoha Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,249524,2025-07-31 04:42:54
+13320,754560,18,45537704,76,2,3780,63',0,0,Jeremie Frimpong (Liverpool) Substitution at 63',Jeremie Frimpong Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,381683,2025-07-31 04:42:54
+13320,754560,18,45537704,76,2,3780,63',0,0,Jeremie Frimpong (Liverpool) Substitution at 63',Jeremie Frimpong Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,250183,2025-07-31 04:42:54
+13320,754560,17,45537703,76,2,3780,63',0,0,Alexis Mac Allister (Liverpool) Substitution at 63',Alexis Mac Allister Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,303748,2025-07-31 04:42:54
+13320,754560,22,45537708,76,2,3780,63',0,0,Trey Nyoni (Liverpool) Substitution at 63',Trey Nyoni Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,257206,2025-07-31 04:42:54
+13320,754560,21,45537707,76,2,3780,63',0,0,Andrew Robertson (Liverpool) Substitution at 63',Andrew Robertson Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,323110,2025-07-31 04:42:54
+13320,754560,19,45537705,76,2,3780,63',0,0,Harvey Elliott (Liverpool) Substitution at 63',Harvey Elliott Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,173896,2025-07-31 04:42:54
+13320,754560,20,45537706,76,2,3780,63',0,0,Kostas Tsimikas (Liverpool) Substitution at 63',Kostas Tsimikas Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,251634,2025-07-31 04:42:54
+13320,754560,24,45537710,70,2,4080,68',1,0,Trey Nyoni (Liverpool) Goal at 68',Trey Nyoni Goal,364,0.0,0.0,0.0,0.0,0.0,0.0,1,356075,2025-07-31 04:42:54
+13320,754560,25,45537711,76,2,4260,71',0,0,Kosuke Matsumura (Yokohama F. Marinos) Substitution at 71',Kosuke Matsumura Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,340015,2025-07-31 04:42:54
+13320,754560,27,45537713,76,2,4260,71',0,0,Hiroto Asada (Yokohama F. Marinos) Substitution at 71',Hiroto Asada Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,388473,2025-07-31 04:42:54
+13320,754560,26,45537712,76,2,4260,71',0,0,Kazuya Yamamura (Yokohama F. Marinos) Substitution at 71',Kazuya Yamamura Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,1,148128,2025-07-31 04:42:54
+13320,754560,26,45537712,76,2,4260,71',0,0,Kazuya Yamamura (Yokohama F. Marinos) Substitution at 71',Kazuya Yamamura Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,155458,2025-07-31 04:42:54
+13320,754560,27,45537713,76,2,4260,71',0,0,Hiroto Asada (Yokohama F. Marinos) Substitution at 71',Hiroto Asada Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,230243,2025-07-31 04:42:54
+13320,754560,25,45537711,76,2,4260,71',0,0,Kosuke Matsumura (Yokohama F. Marinos) Substitution at 71',Kosuke Matsumura Substitution,7116,0.0,0.0,0.0,0.0,0.0,0.0,2,351491,2025-07-31 04:42:54
+13320,754560,28,45537714,94,2,4980,83',0,0,Harvey Elliott (Liverpool) Yellow Card at 83',Harvey Elliott Yellow Card,364,0.0,0.0,0.0,0.0,0.0,0.0,1,280806,2025-07-31 04:42:54
+13320,754560,29,45537715,70,2,5220,87',1,0,Rio Ngumoha (Liverpool) Goal at 87',Rio Ngumoha Goal,364,0.0,0.0,0.0,0.0,0.0,0.0,1,379588,2025-07-31 04:42:54

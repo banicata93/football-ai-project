@@ -1,0 +1,41 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13359,735758,1,45737163,70,1,660,11',1,0,Lorran Lucas  (Flamengo U20) Goal at 11',Lorran Lucas  Goal,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-08-24 04:57:47
+13359,735758,2,45737555,94,1,2040,34',0,0,Guilherme Gomes (Flamengo U20) Yellow Card at 34',Guilherme Gomes Yellow Card,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,379497.0,2025-08-24 04:57:47
+13359,735758,3,45737659,94,1,2340,39',0,0,Pedro Rodríguez (Barcelona U19) Yellow Card at 39',Pedro Rodríguez Yellow Card,130878,0.0,0.0,0.0,0.0,0.0,0.0,1,403577.0,2025-08-24 04:57:47
+13359,735758,5,45738230,76,2,2700,45',0,0,Shane Kluivert (Barcelona U19) Substitution at 45',Shane Kluivert Substitution,130878,0.0,0.0,0.0,0.0,0.0,0.0,1,403580.0,2025-08-24 04:57:47
+13359,735758,4,45738218,76,2,2700,45',0,0,Tomás Marqués (Barcelona U19) Substitution at 45',Tomás Marqués Substitution,130878,0.0,0.0,0.0,0.0,0.0,0.0,1,403590.0,2025-08-24 04:57:47
+13359,735758,5,45738230,76,2,2700,45',0,0,Shane Kluivert (Barcelona U19) Substitution at 45',Shane Kluivert Substitution,130878,0.0,0.0,0.0,0.0,0.0,0.0,2,376425.0,2025-08-24 04:57:47
+13359,735758,4,45738218,76,2,2700,45',0,0,Tomás Marqués (Barcelona U19) Substitution at 45',Tomás Marqués Substitution,130878,0.0,0.0,0.0,0.0,0.0,0.0,2,403577.0,2025-08-24 04:57:47
+13359,735758,6,45738343,94,2,2820,47',0,0,Pedro Henrique Leão Alves Lopes (Flamengo U20) Yellow Card at 47',Pedro Henrique Leão Alves Lopes ,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,379317.0,2025-08-24 04:57:47
+13359,735758,7,45738580,76,2,3360,56',0,0,Carbone  (Flamengo U20) Substitution at 56',Carbone  Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,379318.0,2025-08-24 04:57:47
+13359,735758,7,45738580,76,2,3360,56',0,0,Carbone  (Flamengo U20) Substitution at 56',Carbone  Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,2,389773.0,2025-08-24 04:57:47
+13359,735758,8,45738581,76,2,3420,57',0,0,Shola Ogundana (Flamengo U20) Substitution at 57',Shola Ogundana Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,382847.0,2025-08-24 04:57:47
+13359,735758,8,45738581,76,2,3420,57',0,0,Shola Ogundana (Flamengo U20) Substitution at 57',Shola Ogundana Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,2,379317.0,2025-08-24 04:57:47
+13359,735758,9,45738749,76,2,3840,64',0,0,Pablo Lucio (Flamengo U20) Substitution at 64',Pablo Lucio Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,398646.0,2025-08-24 04:57:47
+13359,735758,9,45738749,76,2,3840,64',0,0,Pablo Lucio (Flamengo U20) Substitution at 64',Pablo Lucio Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,2,379497.0,2025-08-24 04:57:47
+13359,735758,10,45738875,70,2,4260,71',1,0,Jan Virgili (Barcelona U19) Goal at 71',Jan Virgili Goal,130878,0.0,0.0,0.0,0.0,0.0,0.0,1,403592.0,2025-08-24 04:57:47
+13359,735758,11,45738993,76,2,4680,78',0,0,Felipe Teresa (Flamengo U20) Substitution at 78',Felipe Teresa Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,382846.0,2025-08-24 04:57:47
+13359,735758,12,45739003,76,2,4680,78',0,0,Fabiano (Flamengo U20) Substitution at 78',Fabiano Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,131983.0,2025-08-24 04:57:47
+13359,735758,12,45739003,76,2,4680,78',0,0,Fabiano (Flamengo U20) Substitution at 78',Fabiano Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,165085.0,2025-08-24 04:57:47
+13359,735758,12,45739003,76,2,4680,78',0,0,Fabiano (Flamengo U20) Substitution at 78',Fabiano Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,198603.0,2025-08-24 04:57:47
+13359,735758,12,45739003,76,2,4680,78',0,0,Fabiano (Flamengo U20) Substitution at 78',Fabiano Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,198744.0,2025-08-24 04:57:47
+13359,735758,12,45739003,76,2,4680,78',0,0,Fabiano (Flamengo U20) Substitution at 78',Fabiano Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,361658.0,2025-08-24 04:57:47
+13359,735758,12,45739003,76,2,4680,78',0,0,Fabiano (Flamengo U20) Substitution at 78',Fabiano Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,274811.0,2025-08-24 04:57:47
+13359,735758,12,45739003,76,2,4680,78',0,0,Fabiano (Flamengo U20) Substitution at 78',Fabiano Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,304065.0,2025-08-24 04:57:47
+13359,735758,12,45739003,76,2,4680,78',0,0,Fabiano (Flamengo U20) Substitution at 78',Fabiano Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,388807.0,2025-08-24 04:57:47
+13359,735758,12,45739003,76,2,4680,78',0,0,Fabiano (Flamengo U20) Substitution at 78',Fabiano Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,285417.0,2025-08-24 04:57:47
+13359,735758,13,45739010,76,2,4680,78',0,0,Sama Nomoko (Barcelona U19) Substitution at 78',Sama Nomoko Substitution,130878,0.0,0.0,0.0,0.0,0.0,0.0,1,403598.0,2025-08-24 04:57:47
+13359,735758,13,45739010,76,2,4680,78',0,0,Sama Nomoko (Barcelona U19) Substitution at 78',Sama Nomoko Substitution,130878,0.0,0.0,0.0,0.0,0.0,0.0,2,403585.0,2025-08-24 04:57:47
+13359,735758,12,45739003,76,2,4680,78',0,0,Fabiano (Flamengo U20) Substitution at 78',Fabiano Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,2,387686.0,2025-08-24 04:57:47
+13359,735758,12,45739003,76,2,4680,78',0,0,Fabiano (Flamengo U20) Substitution at 78',Fabiano Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,2,344802.0,2025-08-24 04:57:47
+13359,735758,11,45738993,76,2,4680,78',0,0,Felipe Teresa (Flamengo U20) Substitution at 78',Felipe Teresa Substitution,18467,0.0,0.0,0.0,0.0,0.0,0.0,2,402494.0,2025-08-24 04:57:47
+13359,735758,14,45739109,94,2,5100,85',0,0,Shane Kluivert (Barcelona U19) Yellow Card at 85',Shane Kluivert Yellow Card,130878,0.0,0.0,0.0,0.0,0.0,0.0,1,403580.0,2025-08-24 04:57:47
+13359,735758,15,45739135,76,2,5280,88',0,0,Marcos Parriego (Barcelona U19) Substitution at 88',Marcos Parriego Substitution,130878,0.0,0.0,0.0,0.0,0.0,0.0,1,403591.0,2025-08-24 04:57:47
+13359,735758,15,45739135,76,2,5280,88',0,0,Marcos Parriego (Barcelona U19) Substitution at 88',Marcos Parriego Substitution,130878,0.0,0.0,0.0,0.0,0.0,0.0,2,403575.0,2025-08-24 04:57:47
+13359,735758,16,45739210,94,2,5400,90'+2',0,0,Pablo Lucio (Flamengo U20) Yellow Card at 92',Pablo Lucio Yellow Card,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,398646.0,2025-08-24 04:57:47
+13359,735758,18,45739252,70,2,5400,90'+5',1,0,Álvaro Cortés (Barcelona U19) Goal at 95',Álvaro Cortés Goal,130878,0.0,0.0,0.0,0.0,0.0,0.0,1,300377.0,2025-08-24 04:57:47
+13359,735758,17,45739233,76,2,5400,90'+4',0,0,David Oduro (Barcelona U19) Substitution at 94',David Oduro Substitution,130878,0.0,0.0,0.0,0.0,0.0,0.0,1,403595.0,2025-08-24 04:57:47
+13359,735758,20,45739288,94,2,5400,90'+7',0,0,Iago Teodoro  (Flamengo U20) Yellow Card at 97',Iago Teodoro  Yellow Card,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-08-24 04:57:47
+13359,735758,19,45739274,70,2,5400,90'+6',1,0,Iago Teodoro  (Flamengo U20) Goal at 96',Iago Teodoro  Goal,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-08-24 04:57:47
+13359,735758,17,45739233,76,2,5400,90'+4',0,0,David Oduro (Barcelona U19) Substitution at 94',David Oduro Substitution,130878,0.0,0.0,0.0,0.0,0.0,0.0,2,403309.0,2025-08-24 04:57:47
+13359,735758,21,45739563,94,5,6240,104',0,0,Lorran Lucas  (Flamengo U20) Yellow Card at 104',Lorran Lucas  Yellow Card,18467,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-08-24 04:57:47

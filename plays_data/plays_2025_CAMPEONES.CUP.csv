@@ -1,0 +1,31 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+13644,754172,1,46044226,94,Federico Pereira (Toluca) Yellow Card at 33',Federico Pereira Yellow Card,1,1980,33',223,0,0,2025-10-02 03:13:56,0.0,0.0,0.0,0.0,0.0,0.0,288735,Federico Pereira,2025-10-03 05:15:08
+13644,754172,2,46044228,94,Marcel Ruiz (Toluca) Yellow Card at 34',Marcel Ruiz Yellow Card,1,2040,34',223,0,0,2025-10-02 03:15:32,0.0,0.0,0.0,0.0,0.0,0.0,272395,Marcel Ruiz,2025-10-03 05:15:08
+13644,754172,3,46044229,98,Diego Fagundez (LA Galaxy) Penalty - Scored at 36',Diego Fagundez Penalty - Scored,1,2160,36',187,0,0,2025-10-02 03:16:44,0.0,0.0,0.0,0.0,0.0,0.0,156187,Diego Fagundez,2025-10-03 05:15:08
+13644,754172,4,46044231,94,Gabriel Pec (LA Galaxy) Yellow Card at 38',Gabriel Pec Yellow Card,1,2280,38',187,0,0,2025-10-02 03:19:35,0.0,0.0,0.0,0.0,0.0,0.0,295005,Gabriel Pec,2025-10-07 05:27:53
+13644,754172,5,46044234,94,Edwin Cerrillo (LA Galaxy) Yellow Card at 47',Edwin Cerrillo Yellow Card,1,2700,45'+2',187,0,0,2025-10-02 03:27:54,0.0,0.0,0.0,0.0,0.0,0.0,286198,Edwin Cerrillo,2025-10-03 05:15:08
+13644,754172,6,46044238,76,Santiago Simón (Toluca) Substitution at 45',Santiago Simón Substitution,2,2700,45',223,0,0,2025-10-02 03:47:05,0.0,0.0,0.0,0.0,0.0,0.0,297057,Santiago Simón,2025-10-03 05:15:08
+13644,754172,6,46044238,76,Santiago Simón (Toluca) Substitution at 45',Santiago Simón Substitution,2,2700,45',223,0,0,2025-10-02 03:47:05,0.0,0.0,0.0,0.0,0.0,0.0,233104,Diego Zaragoza,2025-10-03 05:15:08
+13644,754172,7,46044241,70,Nicolás Castro (Toluca) Goal at 53',Nicolás Castro Goal,2,3180,53',223,0,0,2025-10-02 03:54:58,0.0,0.0,0.0,0.0,0.0,0.0,57149,Nicolás Castro,2025-10-03 05:15:08
+13644,754172,8,46044244,94,Jesús Gallardo (Toluca) Yellow Card at 62',Jesús Gallardo Yellow Card,2,3720,62',223,0,0,2025-10-02 04:03:30,0.0,0.0,0.0,0.0,0.0,0.0,132098,Jesús Gallardo,2025-10-03 05:15:08
+13644,754172,11,46044251,76,John Nelson (LA Galaxy) Substitution at 70',John Nelson Substitution,2,4200,70',187,0,0,2025-10-02 04:12:09,0.0,0.0,0.0,0.0,0.0,0.0,225615,John Nelson,2025-10-03 05:15:08
+13644,754172,10,46044249,76,Maruicio Cuevas (LA Galaxy) Substitution at 70',Maruicio Cuevas Substitution,2,4200,70',187,0,0,2025-10-02 04:12:06,0.0,0.0,0.0,0.0,0.0,0.0,287252,Maruicio Cuevas,2025-10-03 05:15:08
+13644,754172,9,46044248,76,Juan Domínguez (Toluca) Substitution at 70',Juan Domínguez Substitution,2,4200,70',223,0,0,2025-10-02 04:11:39,0.0,0.0,0.0,0.0,0.0,0.0,356574,Juan Domínguez,2025-10-03 05:15:08
+13644,754172,10,46044249,76,Maruicio Cuevas (LA Galaxy) Substitution at 70',Maruicio Cuevas Substitution,2,4200,70',187,0,0,2025-10-02 04:12:06,0.0,0.0,0.0,0.0,0.0,0.0,238050,Miki Yamane,2025-10-03 05:15:08
+13644,754172,11,46044251,76,John Nelson (LA Galaxy) Substitution at 70',John Nelson Substitution,2,4200,70',187,0,0,2025-10-02 04:12:09,0.0,0.0,0.0,0.0,0.0,0.0,297050,Julián Aude,2025-10-03 05:15:08
+13644,754172,9,46044248,76,Juan Domínguez (Toluca) Substitution at 70',Juan Domínguez Substitution,2,4200,70',223,0,0,2025-10-02 04:11:39,0.0,0.0,0.0,0.0,0.0,0.0,282615,Jesús Angulo,2025-10-03 05:15:08
+13644,754172,12,46044250,76,Matheus Nascimento (LA Galaxy) Substitution at 71',Matheus Nascimento Substitution,2,4260,71',187,0,0,2025-10-02 04:12:20,0.0,0.0,0.0,0.0,0.0,0.0,304659,Matheus Nascimento,2025-10-03 05:15:08
+13644,754172,12,46044250,76,Matheus Nascimento (LA Galaxy) Substitution at 71',Matheus Nascimento Substitution,2,4260,71',187,0,0,2025-10-02 04:12:20,0.0,0.0,0.0,0.0,0.0,0.0,366047,Harbor Miller,2025-10-03 05:15:08
+13644,754172,13,46044253,94,Carlos Garcés (LA Galaxy) Yellow Card at 78',Carlos Garcés Yellow Card,2,4680,78',187,0,0,2025-10-02 04:19:59,0.0,0.0,0.0,0.0,0.0,0.0,133963,Carlos Garcés,2025-10-03 05:15:08
+13644,754172,14,46044255,94,Joseph Paintsil (LA Galaxy) Yellow Card at 80',Joseph Paintsil Yellow Card,2,4800,80',187,0,0,2025-10-02 04:22:07,0.0,0.0,0.0,0.0,0.0,0.0,256843,Joseph Paintsil,2025-10-03 05:15:08
+13644,754172,15,46044259,70,Gabriel Pec (LA Galaxy) Goal at 84',Gabriel Pec Goal,2,5040,84',187,0,0,2025-10-02 04:25:26,0.0,0.0,0.0,0.0,0.0,0.0,295005,Gabriel Pec,2025-10-07 05:27:53
+13644,754172,16,46044263,76,Helinho  (Toluca) Substitution at 85',Helinho  Substitution,2,5100,85',223,0,0,2025-10-02 04:26:59,0.0,0.0,0.0,0.0,0.0,0.0,266679,Helinho,2025-10-03 05:15:08
+13644,754172,16,46044263,76,Helinho  (Toluca) Substitution at 85',Helinho  Substitution,2,5100,85',223,0,0,2025-10-02 04:26:59,0.0,0.0,0.0,0.0,0.0,0.0,57149,Nicolás Castro,2025-10-03 05:15:08
+13644,754172,17,46044264,94,Matheus Nascimento (LA Galaxy) Yellow Card at 87',Matheus Nascimento Yellow Card,2,5220,87',187,0,0,2025-10-02 04:28:40,0.0,0.0,0.0,0.0,0.0,0.0,304659,Matheus Nascimento,2025-10-03 05:15:08
+13644,754172,18,46055734,94,Santiago Simón (Toluca) Yellow Card at 87',Santiago Simón Yellow Card,2,5220,87',223,0,0,2025-10-02 04:28:48,0.0,0.0,0.0,0.0,0.0,0.0,297057,Santiago Simón,2025-10-04 05:14:28
+13644,754172,19,46044266,70,Franco Romero (Toluca) Goal at 88',Franco Romero Goal,2,5280,88',223,0,0,2025-10-02 04:29:42,0.0,0.0,0.0,0.0,0.0,0.0,128422,Franco Romero,2025-10-04 05:14:28
+13644,754172,20,46044268,76,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,2,5400,90'+1',223,0,0,2025-10-02 04:32:59,0.0,0.0,0.0,0.0,0.0,0.0,255942,Robert Morales,2025-10-04 05:14:28
+13644,754172,21,46044269,70,Federico Pereira (Toluca) Goal at 93',Federico Pereira Goal,2,5400,90'+3',223,0,0,2025-10-02 04:35:18,0.0,0.0,0.0,0.0,0.0,0.0,288735,Federico Pereira,2025-10-04 05:14:28
+13644,754172,22,46056183,76,Miguel Berry (LA Galaxy) Substitution at 95',Miguel Berry Substitution,2,5400,90'+5',187,0,0,2025-10-02 04:36:28,0.0,0.0,0.0,0.0,0.0,0.0,246766,Miguel Berry,2025-10-04 05:14:28
+13644,754172,20,46044268,76,Robert Morales (Toluca) Substitution at 91',Robert Morales Substitution,2,5400,90'+1',223,0,0,2025-10-02 04:32:59,0.0,0.0,0.0,0.0,0.0,0.0,189480,Paulinho,2025-10-04 05:14:28
+13644,754172,22,46056183,76,Miguel Berry (LA Galaxy) Substitution at 95',Miguel Berry Substitution,2,5400,90'+5',187,0,0,2025-10-02 04:36:28,0.0,0.0,0.0,0.0,0.0,0.0,287568,Elijah Wynder,2025-10-04 05:14:28

@@ -1,0 +1,750 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12953,721805,1,43952190,98,1,2580,43',1,0,Olivia Athens (Seattle Reign FC) Penalty - Scored at 43',Olivia Athens Penalty - Scored,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,279304,2024-10-14 07:05:58
+12953,721805,4,43952193,76,2,2700,45',0,0,Sofia Huerta (Seattle Reign FC) Substitution at 45',Sofia Huerta Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,264964,2024-10-14 07:05:58
+12953,721805,3,43952192,76,2,2700,45',0,0,Addisyn Merrick (Utah Royals) Substitution at 45',Addisyn Merrick Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,264582,2024-10-14 07:05:58
+12953,721805,2,43952191,70,1,2700,45'+4',1,0,Cameron Tucker (Utah Royals) Goal at 49',Cameron Tucker Goal,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,278686,2024-10-14 07:05:58
+12953,721805,3,43952192,76,2,2700,45',0,0,Addisyn Merrick (Utah Royals) Substitution at 45',Addisyn Merrick Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,2,264922,2024-10-14 07:05:58
+12953,721805,4,43952193,76,2,2700,45',0,0,Sofia Huerta (Seattle Reign FC) Substitution at 45',Sofia Huerta Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,261816,2024-10-14 07:05:58
+12953,721805,5,43952194,94,2,3000,50',0,0,Nikki Stanton (Seattle Reign FC) Yellow Card at 50',Nikki Stanton Yellow Card,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,290265,2024-10-14 07:05:58
+12953,721805,6,43952195,76,2,3420,57',0,0,Sam Meza (Seattle Reign FC) Substitution at 57',Sam Meza Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,380041,2024-10-14 07:05:58
+12953,721805,6,43952195,76,2,3420,57',0,0,Sam Meza (Seattle Reign FC) Substitution at 57',Sam Meza Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,307763,2024-10-14 07:05:58
+12953,721805,6,43952195,76,2,3420,57',0,0,Sam Meza (Seattle Reign FC) Substitution at 57',Sam Meza Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,292574,2024-10-14 07:05:58
+12953,721805,7,43952196,94,2,3780,63',0,0,Sam Meza (Seattle Reign FC) Yellow Card at 63',Sam Meza Yellow Card,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,380041,2024-10-14 07:05:58
+12953,721805,7,43952196,94,2,3780,63',0,0,Sam Meza (Seattle Reign FC) Yellow Card at 63',Sam Meza Yellow Card,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,307763,2024-10-14 07:05:58
+12953,721805,9,43952198,76,2,3900,65',0,0,Tziarra King (Seattle Reign FC) Substitution at 65',Tziarra King Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,242775,2024-10-14 07:05:58
+12953,721805,8,43952197,76,2,3900,65',0,0,Bethany Balcer (Seattle Reign FC) Substitution at 65',Bethany Balcer Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,290242,2024-10-14 07:05:58
+12953,721805,8,43952197,76,2,3900,65',0,0,Bethany Balcer (Seattle Reign FC) Substitution at 65',Bethany Balcer Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,262828,2024-10-14 07:05:58
+12953,721805,9,43952198,76,2,3900,65',0,0,Tziarra King (Seattle Reign FC) Substitution at 65',Tziarra King Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,351694,2024-10-14 07:05:58
+12953,721805,10,43952199,94,2,4500,75',0,0,Hannah Betfort (Utah Royals) Yellow Card at 75',Hannah Betfort Yellow Card,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,261813,2024-10-14 07:05:58
+12953,721805,11,43952200,70,2,4620,77',1,0,Sofia Huerta (Seattle Reign FC) Goal at 77',Sofia Huerta Goal,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,264964,2024-10-14 07:05:58
+12953,721805,12,43952201,76,2,5160,86',0,0,Shaelan Murison (Utah Royals) Substitution at 86',Shaelan Murison Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,387753,2024-10-14 07:05:58
+12953,721805,13,43952202,76,2,5160,86',0,0,Ellie Boren (Utah Royals) Substitution at 86',Ellie Boren Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,387751,2024-10-14 07:05:58
+12953,721805,12,43952201,76,2,5160,86',0,0,Shaelan Murison (Utah Royals) Substitution at 86',Shaelan Murison Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,2,227520,2024-10-14 07:05:58
+12953,721805,13,43952202,76,2,5160,86',0,0,Ellie Boren (Utah Royals) Substitution at 86',Ellie Boren Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,2,309945,2024-10-14 07:05:58
+12953,721805,14,43952203,76,2,5280,88',0,0,Danielle O'Brien (Utah Royals) Substitution at 88',Danielle O'Brien Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,387752,2024-10-14 07:05:58
+12953,721805,14,43952203,76,2,5280,88',0,0,Danielle O'Brien (Utah Royals) Substitution at 88',Danielle O'Brien Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,2,283050,2024-10-14 07:05:58
+12953,721805,15,43952204,76,2,5400,90',0,0,Ainsley McCammon (Seattle Reign FC) Substitution at 90',Ainsley McCammon Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,386620,2024-10-14 07:05:58
+12953,721805,15,43952204,76,2,5400,90',0,0,Ainsley McCammon (Seattle Reign FC) Substitution at 90',Ainsley McCammon Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,279304,2024-10-14 07:05:58
+12953,721806,1,43952358,70,1,1320,22',1,0,Charlyn Corral (Pachuca) Goal at 22',Charlyn Corral Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,158840,2025-04-05 08:46:00
+12953,721806,2,43952359,70,1,1620,27',1,0,Lizbeth Ovalle (Tigres UANL) Goal at 27',Lizbeth Ovalle Goal,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,279197,2024-10-14 07:05:58
+12953,721806,3,43952360,70,2,2940,49',1,0,Cristina Ferral (Tigres UANL) Goal at 49',Cristina Ferral Goal,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,209660,2024-10-14 07:05:58
+12953,721806,4,43952361,70,2,3240,54',1,0,Thembi Kgatlana (Tigres UANL) Goal at 54',Thembi Kgatlana Goal,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,238751,2024-10-14 07:05:58
+12953,721806,5,43952362,76,2,3600,60',0,0,Mónica Ocampo (Pachuca) Substitution at 60',Mónica Ocampo Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,95174,2025-04-05 08:46:00
+12953,721806,5,43952362,76,2,3600,60',0,0,Mónica Ocampo (Pachuca) Substitution at 60',Mónica Ocampo Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,209528,2025-04-05 08:46:00
+12953,721806,6,43952363,76,2,3840,64',0,0,Nayeli Díaz (Pachuca) Substitution at 64',Nayeli Díaz Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,320220,2025-04-05 08:46:00
+12953,721806,6,43952363,76,2,3840,64',0,0,Nayeli Díaz (Pachuca) Substitution at 64',Nayeli Díaz Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,219204,2025-04-05 08:46:00
+12953,721806,7,43952364,76,2,4020,67',0,0,Nayeli Rangel (Tigres UANL) Substitution at 67',Nayeli Rangel Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,158844,2024-10-14 07:05:58
+12953,721806,7,43952364,76,2,4020,67',0,0,Nayeli Rangel (Tigres UANL) Substitution at 67',Nayeli Rangel Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,279305,2024-10-14 07:05:58
+12953,721806,8,43952365,70,2,4140,69',1,0,Charlyn Corral (Pachuca) Goal at 69',Charlyn Corral Goal,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,158840,2025-04-05 08:46:00
+12953,721806,9,43952366,76,2,4380,73',0,0,Joseline Montoya (Tigres UANL) Substitution at 73',Joseline Montoya Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,320221,2024-10-14 07:05:58
+12953,721806,10,43952367,76,2,4380,73',0,0,Belén Cruz (Tigres UANL) Substitution at 73',Belén Cruz Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,288592,2024-10-14 07:05:58
+12953,721806,9,43952366,76,2,4380,73',0,0,Joseline Montoya (Tigres UANL) Substitution at 73',Joseline Montoya Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,238751,2024-10-14 07:05:58
+12953,721806,10,43952367,76,2,4380,73',0,0,Belén Cruz (Tigres UANL) Substitution at 73',Belén Cruz Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,314322,2024-10-14 07:05:58
+12953,721806,11,43952368,94,2,4620,77',0,0,Daniela Flores (Pachuca) Yellow Card at 77',Daniela Flores Yellow Card,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,393165,2025-04-05 08:46:00
+12953,721806,12,43952369,70,2,4680,78',1,0,Cristina Ferral (Tigres UANL) Goal at 78',Cristina Ferral Goal,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,209660,2024-10-14 07:05:58
+12953,721806,13,43952370,76,2,4740,79',0,0,Paola González (Pachuca) Substitution at 79',Paola González Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,393162,2025-04-05 08:46:00
+12953,721806,14,43952371,76,2,4740,79',0,0,Abril Fragoso (Pachuca) Substitution at 79',Abril Fragoso Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,386652,2025-04-05 08:46:00
+12953,721806,14,43952371,76,2,4740,79',0,0,Abril Fragoso (Pachuca) Substitution at 79',Abril Fragoso Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,325905,2025-04-05 08:46:00
+12953,721806,13,43952370,76,2,4740,79',0,0,Paola González (Pachuca) Substitution at 79',Paola González Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,210143,2025-04-05 08:46:00
+12953,721806,15,43952372,76,2,5280,88',0,0,Ana Seica (Tigres UANL) Substitution at 88',Ana Seica Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,328058,2024-10-14 07:05:58
+12953,721806,16,43952373,76,2,5280,88',0,0,Fernanda Elizondo (Tigres UANL) Substitution at 88',Fernanda Elizondo Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,393169,2024-10-14 07:05:58
+12953,721806,16,43952373,76,2,5280,88',0,0,Fernanda Elizondo (Tigres UANL) Substitution at 88',Fernanda Elizondo Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,243015,2024-10-14 07:05:58
+12953,721806,15,43952372,76,2,5280,88',0,0,Ana Seica (Tigres UANL) Substitution at 88',Ana Seica Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,158835,2024-10-14 07:05:58
+12953,721807,1,43952458,94,1,1560,26',0,0,Nealy Martin (NJ/NY Gotham FC) Yellow Card at 26',Nealy Martin Yellow Card,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,242159,2025-04-05 08:46:00
+12953,721807,2,43952459,94,1,1740,29',0,0,Sam Staab (Chicago Red Stars) Yellow Card at 29',Sam Staab Yellow Card,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,225687,2025-04-05 08:46:00
+12953,721807,3,43952460,76,2,2700,45',0,0,Camryn Biegalski (Chicago Red Stars) Substitution at 45',Camryn Biegalski Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,243911,2025-04-05 08:46:00
+12953,721807,3,43952460,76,2,2700,45',0,0,Camryn Biegalski (Chicago Red Stars) Substitution at 45',Camryn Biegalski Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,281477,2025-04-05 08:46:00
+12953,721807,4,43952461,94,2,3540,59',0,0,Hannah Anderson (Chicago Red Stars) Yellow Card at 59',Hannah Anderson Yellow Card,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,299426,2025-04-05 08:46:00
+12953,721807,6,43952463,76,2,3720,62',0,0,Shea Groom (Chicago Red Stars) Substitution at 62',Shea Groom Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,209045,2025-04-05 08:46:00
+12953,721807,5,43952462,76,2,3720,62',0,0,Jameese Joseph (Chicago Red Stars) Substitution at 62',Jameese Joseph Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,292430,2025-04-05 08:46:00
+12953,721807,6,43952463,76,2,3720,62',0,0,Shea Groom (Chicago Red Stars) Substitution at 62',Shea Groom Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,295584,2025-04-05 08:46:00
+12953,721807,5,43952462,76,2,3720,62',0,0,Jameese Joseph (Chicago Red Stars) Substitution at 62',Jameese Joseph Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,372751,2025-04-05 08:46:00
+12953,721807,7,43952464,76,2,3960,66',0,0,Mandy Freeman (NJ/NY Gotham FC) Substitution at 66',Mandy Freeman Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,245160,2025-04-05 08:46:00
+12953,721807,7,43952464,76,2,3960,66',0,0,Mandy Freeman (NJ/NY Gotham FC) Substitution at 66',Mandy Freeman Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,292713,2025-04-05 08:46:00
+12953,721807,8,43952465,76,2,4500,75',0,0,Kristen Edmonds (NJ/NY Gotham FC) Substitution at 75',Kristen Edmonds Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,249628,2025-04-05 08:46:00
+12953,721807,8,43952465,76,2,4500,75',0,0,Kristen Edmonds (NJ/NY Gotham FC) Substitution at 75',Kristen Edmonds Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,267389,2025-04-05 08:46:00
+12953,721807,9,43952466,76,2,4980,83',0,0,Ally Schlegel (Chicago Red Stars) Substitution at 83',Ally Schlegel Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,360894,2025-04-05 08:46:00
+12953,721807,9,43952466,76,2,4980,83',0,0,Ally Schlegel (Chicago Red Stars) Substitution at 83',Ally Schlegel Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,282709,2025-04-05 08:46:00
+12953,721807,9,43952466,76,2,4980,83',0,0,Ally Schlegel (Chicago Red Stars) Substitution at 83',Ally Schlegel Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,279445,2025-04-05 08:46:00
+12953,721807,10,43952467,76,2,5220,87',0,0,Mackenzie Pluck (NJ/NY Gotham FC) Substitution at 87',Mackenzie Pluck Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,277809,2025-04-05 08:46:00
+12953,721807,10,43952467,76,2,5220,87',0,0,Mackenzie Pluck (NJ/NY Gotham FC) Substitution at 87',Mackenzie Pluck Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,328199,2025-04-05 08:46:00
+12953,721807,11,43952468,93,2,5280,88',0,0,Maitane López (NJ/NY Gotham FC) Red Card at 88',Maitane López Red Card,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,296893,2025-04-05 08:46:00
+12953,721807,12,43952469,76,2,5400,90'+1',0,0,Chardonnay Curran (Chicago Red Stars) Substitution at 91',Chardonnay Curran Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,281296,2025-04-05 08:46:00
+12953,721807,13,43952470,94,2,5400,90'+4',0,0,Shea Groom (Chicago Red Stars) Yellow Card at 94',Shea Groom Yellow Card,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,209045,2025-04-05 08:46:00
+12953,721807,12,43952469,76,2,5400,90'+1',0,0,Chardonnay Curran (Chicago Red Stars) Substitution at 91',Chardonnay Curran Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,225687,2025-04-05 08:46:00
+12953,721808,1,43952568,70,1,2640,44',1,0,Manaka Matsukubo (North Carolina Courage) Goal at 44',Manaka Matsukubo Goal,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,369002,2024-10-14 07:05:58
+12953,721808,2,43952569,76,2,3480,58',0,0,Ally Lemos (Orlando Pride) Substitution at 58',Ally Lemos Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,349344,2024-10-14 07:05:58
+12953,721808,2,43952569,76,2,3480,58',0,0,Ally Lemos (Orlando Pride) Substitution at 58',Ally Lemos Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,211047,2024-10-14 07:05:58
+12953,721808,3,43952570,76,2,3660,61',0,0,Olivia Wingate (North Carolina Courage) Substitution at 61',Olivia Wingate Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,278948,2024-10-14 07:05:58
+12953,721808,3,43952570,76,2,3660,61',0,0,Olivia Wingate (North Carolina Courage) Substitution at 61',Olivia Wingate Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,290243,2024-10-14 07:05:58
+12953,721808,4,43952571,94,2,3720,62',0,0,Celia Jiménez (Orlando Pride) Yellow Card at 62',Celia Jiménez Yellow Card,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,220001,2024-10-14 07:05:58
+12953,721808,6,43952573,76,2,3960,66',0,0,Mariana Larroquette (Orlando Pride) Substitution at 66',Mariana Larroquette Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,284162,2024-10-14 07:05:58
+12953,721808,5,43952572,76,2,3960,66',0,0,Alex Kerr (Orlando Pride) Substitution at 66',Alex Kerr Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,293146,2024-10-14 07:05:58
+12953,721808,6,43952573,76,2,3960,66',0,0,Mariana Larroquette (Orlando Pride) Substitution at 66',Mariana Larroquette Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,277937,2024-10-14 07:05:58
+12953,721808,5,43952572,76,2,3960,66',0,0,Alex Kerr (Orlando Pride) Substitution at 66',Alex Kerr Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,344429,2024-10-14 07:05:58
+12953,721808,7,43952574,76,2,4140,69',0,0,Brianna Pinto (North Carolina Courage) Substitution at 69',Brianna Pinto Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,253820,2024-10-14 07:05:58
+12953,721808,8,43952575,76,2,4140,69',0,0,Haley Hopkins (North Carolina Courage) Substitution at 69',Haley Hopkins Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,262418,2024-10-14 07:05:58
+12953,721808,7,43952574,76,2,4140,69',0,0,Brianna Pinto (North Carolina Courage) Substitution at 69',Brianna Pinto Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,279297,2024-10-14 07:05:58
+12953,721808,8,43952575,76,2,4140,69',0,0,Haley Hopkins (North Carolina Courage) Substitution at 69',Haley Hopkins Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,290247,2024-10-14 07:05:58
+12953,721808,9,43952576,76,2,4380,73',0,0,Claire Winter (Orlando Pride) Substitution at 73',Claire Winter Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,243022,2024-10-14 07:05:58
+12953,721808,9,43952576,76,2,4380,73',0,0,Claire Winter (Orlando Pride) Substitution at 73',Claire Winter Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,361341,2024-10-14 07:05:58
+12953,721808,10,43952577,76,2,4440,74',0,0,Evelina Duljan (Orlando Pride) Substitution at 74',Evelina Duljan Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,351723,2024-10-14 07:05:58
+12953,721808,10,43952577,76,2,4440,74',0,0,Evelina Duljan (Orlando Pride) Substitution at 74',Evelina Duljan Substitution,18206,0.0,0.0,0.0,0.0,0.0,0.0,2,279438,2024-10-14 07:05:58
+12953,721808,11,43952578,70,2,4920,82',1,0,Celia Jiménez (Orlando Pride) Goal at 82',Celia Jiménez Goal,18206,0.0,0.0,0.0,0.0,0.0,0.0,1,220001,2024-10-14 07:05:58
+12953,721808,12,43952579,76,2,5160,86',0,0,Victoria Pickett (North Carolina Courage) Substitution at 86',Victoria Pickett Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,227095,2024-10-14 07:05:58
+12953,721808,12,43952579,76,2,5160,86',0,0,Victoria Pickett (North Carolina Courage) Substitution at 86',Victoria Pickett Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,369002,2024-10-14 07:05:58
+12953,721809,1,43952580,70,1,660,11',1,0,Fátima Servín (Monterrey) Goal at 11',Fátima Servín Goal,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,352043,2024-10-14 07:05:58
+12953,721809,2,43952581,70,1,2160,36',1,0,Emma Sears (Racing Louisville FC) Goal at 36',Emma Sears Goal,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,293305,2024-10-14 07:05:58
+12953,721809,3,43952582,94,1,2520,42',0,0,Taylor Flint (Racing Louisville FC) Yellow Card at 42',Taylor Flint Yellow Card,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,243230,2024-10-14 07:05:58
+12953,721809,4,43952583,76,2,2700,45',0,0,Kayla Fischer (Racing Louisville FC) Substitution at 45',Kayla Fischer Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,277805,2024-10-14 07:05:58
+12953,721809,5,43952584,76,2,2700,45',0,0,Elexa Bahr (Racing Louisville FC) Substitution at 45',Elexa Bahr Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,242260,2024-10-14 07:05:58
+12953,721809,4,43952583,76,2,2700,45',0,0,Kayla Fischer (Racing Louisville FC) Substitution at 45',Kayla Fischer Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,2,293305,2024-10-14 07:05:58
+12953,721809,5,43952584,76,2,2700,45',0,0,Elexa Bahr (Racing Louisville FC) Substitution at 45',Elexa Bahr Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,2,318869,2024-10-14 07:05:58
+12953,721809,6,43952585,70,2,2820,47',1,0,Kayla Fischer (Racing Louisville FC) Goal at 47',Kayla Fischer Goal,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,277805,2024-10-14 07:05:58
+12953,721809,7,43952586,76,2,3540,59',0,0,Jermaine Seoposenwe (Monterrey) Substitution at 59',Jermaine Seoposenwe Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,176035,2024-10-14 07:05:58
+12953,721809,7,43952586,76,2,3540,59',0,0,Jermaine Seoposenwe (Monterrey) Substitution at 59',Jermaine Seoposenwe Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,328242,2024-10-14 07:05:58
+12953,721809,8,43952587,76,2,3780,63',0,0,Ellie Jean (Racing Louisville FC) Substitution at 63',Ellie Jean Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,226085,2024-10-14 07:05:58
+12953,721809,8,43952587,76,2,3780,63',0,0,Ellie Jean (Racing Louisville FC) Substitution at 63',Ellie Jean Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,2,211615,2024-10-14 07:05:58
+12953,721809,9,43952588,76,2,3840,64',0,0,Ary Borges (Racing Louisville FC) Substitution at 64',Ary Borges Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,319246,2024-10-14 07:05:58
+12953,721809,9,43952588,76,2,3840,64',0,0,Ary Borges (Racing Louisville FC) Substitution at 64',Ary Borges Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,2,277747,2024-10-14 07:05:58
+12953,721809,10,43952589,94,2,4200,70',0,0,Ana Martínez (Monterrey) Yellow Card at 70',Ana Martínez Yellow Card,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,320236,2024-10-14 07:05:58
+12953,721809,11,43952590,70,2,4260,71',1,0,Ary Borges (Racing Louisville FC) Goal at 71',Ary Borges Goal,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,319246,2024-10-14 07:05:58
+12953,721809,12,43952591,76,2,4800,80',0,0,Tanna Sánchez (Monterrey) Substitution at 80',Tanna Sánchez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,393144,2024-10-14 07:05:58
+12953,721809,12,43952591,76,2,4800,80',0,0,Tanna Sánchez (Monterrey) Substitution at 80',Tanna Sánchez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,343650,2024-10-14 07:05:58
+12953,721809,14,43952593,76,2,4860,81',0,0,Samantha Simental (Monterrey) Substitution at 81',Samantha Simental Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,393157,2024-10-14 07:05:58
+12953,721809,13,43952592,76,2,4860,81',0,0,Linda Motlhalo (Racing Louisville FC) Substitution at 81',Linda Motlhalo Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,238754,2024-10-14 07:05:58
+12953,721809,16,43952595,76,2,4860,81',0,0,Daniela Monroy (Monterrey) Substitution at 81',Daniela Monroy Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,364533,2024-10-14 07:05:58
+12953,721809,15,43952594,76,2,4860,81',0,0,Diana Evangelista (Monterrey) Substitution at 81',Diana Evangelista Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,300137,2024-10-14 07:05:58
+12953,721809,16,43952595,76,2,4860,81',0,0,Daniela Monroy (Monterrey) Substitution at 81',Daniela Monroy Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,364526,2024-10-14 07:05:58
+12953,721809,14,43952593,76,2,4860,81',0,0,Samantha Simental (Monterrey) Substitution at 81',Samantha Simental Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,352043,2024-10-14 07:05:58
+12953,721809,13,43952592,76,2,4860,81',0,0,Linda Motlhalo (Racing Louisville FC) Substitution at 81',Linda Motlhalo Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,2,226779,2024-10-14 07:05:58
+12953,721809,15,43952594,76,2,4860,81',0,0,Diana Evangelista (Monterrey) Substitution at 81',Diana Evangelista Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,314323,2024-10-14 07:05:58
+12953,721810,1,43952374,70,1,60,1',1,0,Michelle Cooper (Kansas City Current) Goal at 1',Michelle Cooper Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,325236,2024-10-14 07:05:58
+12953,721810,2,43952375,70,1,1200,20',1,0,Yuki Nagasato (Houston Dash) Goal at 20',Yuki Nagasato Goal,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,174611,2024-10-14 07:05:58
+12953,721810,3,43952376,94,1,1320,22',0,0,Bárbara Olivieri (Houston Dash) Yellow Card at 22',Bárbara Olivieri Yellow Card,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,308484,2024-10-14 07:05:58
+12953,721810,4,43952377,94,1,2100,35',0,0,Avery Patterson (Houston Dash) Yellow Card at 35',Avery Patterson Yellow Card,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,307766,2024-10-14 07:05:58
+12953,721810,5,43952378,76,2,2700,45',0,0,Alexa Spaanstra (Kansas City Current) Substitution at 45',Alexa Spaanstra Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,280975,2024-10-14 07:05:58
+12953,721810,5,43952378,76,2,2700,45',0,0,Alexa Spaanstra (Kansas City Current) Substitution at 45',Alexa Spaanstra Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,337181,2024-10-14 07:05:58
+12953,721810,5,43952378,76,2,2700,45',0,0,Alexa Spaanstra (Kansas City Current) Substitution at 45',Alexa Spaanstra Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,277790,2024-10-14 07:05:58
+12953,721810,6,43952379,76,2,3900,65',0,0,Desiree Scott (Kansas City Current) Substitution at 65',Desiree Scott Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,158723,2024-10-14 07:05:58
+12953,721810,7,43952380,76,2,3900,65',0,0,Kristen Hamilton (Kansas City Current) Substitution at 65',Kristen Hamilton Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,290250,2024-10-14 07:05:58
+12953,721810,6,43952379,76,2,3900,65',0,0,Desiree Scott (Kansas City Current) Substitution at 65',Desiree Scott Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,290266,2024-10-14 07:05:58
+12953,721810,7,43952380,76,2,3900,65',0,0,Kristen Hamilton (Kansas City Current) Substitution at 65',Kristen Hamilton Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,379824,2024-10-14 07:05:58
+12953,721810,8,43952381,94,2,4020,67',0,0,Allysha Chapman (Houston Dash) Yellow Card at 67',Allysha Chapman Yellow Card,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,219771,2024-10-14 07:05:58
+12953,721810,9,43952382,70,2,4080,68',1,0,Lo'eau LaBonta (Kansas City Current) Goal at 68',Lo'eau LaBonta Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,212192,2024-10-14 07:05:58
+12953,721810,11,43952384,76,2,4320,72',0,0,Paige Nielsen (Houston Dash) Substitution at 72',Paige Nielsen Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,211496,2024-10-14 07:05:58
+12953,721810,10,43952383,76,2,4320,72',0,0,Madison Wolfbauer (Houston Dash) Substitution at 72',Madison Wolfbauer Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,387754,2024-10-14 07:05:58
+12953,721810,11,43952384,76,2,4320,72',0,0,Paige Nielsen (Houston Dash) Substitution at 72',Paige Nielsen Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,219771,2024-10-14 07:05:58
+12953,721810,10,43952383,76,2,4320,72',0,0,Madison Wolfbauer (Houston Dash) Substitution at 72',Madison Wolfbauer Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,308484,2024-10-14 07:05:58
+12953,721810,12,43952385,76,2,4740,79',0,0,Claire Hutton (Kansas City Current) Substitution at 79',Claire Hutton Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,344404,2024-10-14 07:05:58
+12953,721810,12,43952385,76,2,4740,79',0,0,Claire Hutton (Kansas City Current) Substitution at 79',Claire Hutton Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,225383,2024-10-14 07:05:58
+12953,721810,13,43952386,70,2,4980,83',1,0,Kristen Hamilton (Kansas City Current) Goal at 83',Kristen Hamilton Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,290250,2024-10-14 07:05:58
+12953,721810,14,43952387,76,2,5040,84',0,0,Madison Ayson (Houston Dash) Substitution at 84',Madison Ayson Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,326351,2024-10-14 07:05:58
+12953,721810,14,43952387,76,2,5040,84',0,0,Madison Ayson (Houston Dash) Substitution at 84',Madison Ayson Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,277982,2024-10-14 07:05:58
+12953,721810,15,43952388,94,2,5160,86',0,0,Sophie Schmidt (Houston Dash) Yellow Card at 86',Sophie Schmidt Yellow Card,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,95131,2024-10-14 07:05:58
+12953,721810,16,43952389,76,2,5280,88',0,0,Grace Bahr (Kansas City Current) Substitution at 88',Grace Bahr Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,243910,2024-10-14 07:05:58
+12953,721810,16,43952389,76,2,5280,88',0,0,Grace Bahr (Kansas City Current) Substitution at 88',Grace Bahr Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,325236,2024-10-14 07:05:58
+12953,721811,1,43952299,94,1,2160,36',0,0,Kristen McNabb (San Diego Wave FC) Yellow Card at 36',Kristen McNabb Yellow Card,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,211051,2024-10-14 07:05:58
+12953,721811,2,43952300,70,1,2700,45'+1',1,0,Kennedy Wesley (San Diego Wave FC) Goal at 46',Kennedy Wesley Goal,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,326356,2024-10-14 07:05:58
+12953,721811,3,43952301,76,2,2700,45',0,0,Joelle Anderson (Bay FC) Substitution at 45',Joelle Anderson Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,261840,2024-10-14 07:05:58
+12953,721811,3,43952301,76,2,2700,45',0,0,Joelle Anderson (Bay FC) Substitution at 45',Joelle Anderson Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,2,326360,2024-10-14 07:05:58
+12953,721811,4,43952302,70,2,3180,53',1,0,María Sánchez (San Diego Wave FC) Goal at 53',María Sánchez Goal,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,148404,2024-10-14 07:05:58
+12953,721811,6,43952304,76,2,3540,59',0,0,Melanie Barcenas (San Diego Wave FC) Substitution at 59',Melanie Barcenas Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,360902,2024-10-14 07:05:58
+12953,721811,7,43952305,76,2,3540,59',0,0,Sierra Enge (San Diego Wave FC) Substitution at 59',Sierra Enge Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,283723,2024-10-14 07:05:58
+12953,721811,5,43952303,76,2,3540,59',0,0,Alyssa Malonson (Bay FC) Substitution at 59',Alyssa Malonson Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,261773,2024-10-14 07:05:58
+12953,721811,6,43952304,76,2,3540,59',0,0,Melanie Barcenas (San Diego Wave FC) Substitution at 59',Melanie Barcenas Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,211051,2024-10-14 07:05:58
+12953,721811,5,43952303,76,2,3540,59',0,0,Alyssa Malonson (Bay FC) Substitution at 59',Alyssa Malonson Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,2,250340,2024-10-14 07:05:58
+12953,721811,7,43952305,76,2,3540,59',0,0,Sierra Enge (San Diego Wave FC) Substitution at 59',Sierra Enge Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,248779,2024-10-14 07:05:58
+12953,721811,8,43952306,70,2,3780,63',1,0,Maddie Moreau (Bay FC) Goal at 63',Maddie Moreau Goal,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,382426,2024-10-14 07:05:58
+12953,721811,8,43952306,70,2,3780,63',1,0,Maddie Moreau (Bay FC) Goal at 63',Maddie Moreau Goal,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,293531,2024-10-14 07:05:58
+12953,721811,9,43952307,76,2,4140,69',0,0,Amirah Ali (San Diego Wave FC) Substitution at 69',Amirah Ali Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,261626,2024-10-14 07:05:58
+12953,721811,9,43952307,76,2,4140,69',0,0,Amirah Ali (San Diego Wave FC) Substitution at 69',Amirah Ali Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,255838,2024-10-14 07:05:58
+12953,721811,9,43952307,76,2,4140,69',0,0,Amirah Ali (San Diego Wave FC) Substitution at 69',Amirah Ali Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,158774,2024-10-14 07:05:58
+12953,721811,10,43952308,76,2,4200,70',0,0,Kiki Pickett (Bay FC) Substitution at 70',Kiki Pickett Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,261577,2024-10-14 07:05:58
+12953,721811,11,43952309,76,2,4200,70',0,0,Kayla Sharples (Bay FC) Substitution at 70',Kayla Sharples Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,226777,2024-10-14 07:05:58
+12953,721811,11,43952309,76,2,4200,70',0,0,Kayla Sharples (Bay FC) Substitution at 70',Kayla Sharples Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,2,270001,2024-10-14 07:05:58
+12953,721811,10,43952308,76,2,4200,70',0,0,Kiki Pickett (Bay FC) Substitution at 70',Kiki Pickett Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,2,230901,2024-10-14 07:05:58
+12953,721811,12,43952310,76,2,4680,78',0,0,Kimmi Ascanio (San Diego Wave FC) Substitution at 78',Kimmi Ascanio Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,382797,2024-10-14 07:05:58
+12953,721811,12,43952310,76,2,4680,78',0,0,Kimmi Ascanio (San Diego Wave FC) Substitution at 78',Kimmi Ascanio Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,148404,2024-10-14 07:05:58
+12953,721811,13,43952311,70,2,4800,80',1,0,Amirah Ali (San Diego Wave FC) Goal at 80',Amirah Ali Goal,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,261626,2024-10-14 07:05:58
+12953,721812,1,43952286,76,1,240,4',0,0,Sabrina Enciso (América) Substitution at 4',Sabrina Enciso Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,281513,2024-10-14 07:05:58
+12953,721812,1,43952286,76,1,240,4',0,0,Sabrina Enciso (América) Substitution at 4',Sabrina Enciso Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,393149,2024-10-14 07:05:58
+12953,721812,2,43952287,70,1,1740,29',1,0,Kennedy Fuller (Angel City FC) Goal at 29',Kennedy Fuller Goal,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,381599,2024-10-14 07:05:58
+12953,721812,3,43952288,76,1,2280,38',0,0,Sydney Leroux (Angel City FC) Substitution at 38',Sydney Leroux Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,174410,2024-10-14 07:05:58
+12953,721812,3,43952288,76,1,2280,38',0,0,Sydney Leroux (Angel City FC) Substitution at 38',Sydney Leroux Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,344350,2024-10-14 07:05:58
+12953,721812,5,43952290,76,2,2700,45',0,0,Miah Zuazua (América) Substitution at 45',Miah Zuazua Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,263878,2024-10-14 07:05:58
+12953,721812,4,43952289,94,1,2700,45',0,0,Kennedy Fuller (Angel City FC) Yellow Card at 45',Kennedy Fuller Yellow Card,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,381599,2024-10-14 07:05:58
+12953,721812,5,43952290,76,2,2700,45',0,0,Miah Zuazua (América) Substitution at 45',Miah Zuazua Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,351882,2024-10-14 07:05:58
+12953,721812,6,43952291,76,2,3480,58',0,0,Elizabeth Eddy (Angel City FC) Substitution at 58',Elizabeth Eddy Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,290262,2024-10-14 07:05:58
+12953,721812,7,43952292,76,2,3480,58',0,0,Alyssa Thompson (Angel City FC) Substitution at 58',Alyssa Thompson Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,351658,2024-10-14 07:05:58
+12953,721812,7,43952292,76,2,3480,58',0,0,Alyssa Thompson (Angel City FC) Substitution at 58',Alyssa Thompson Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,279452,2024-10-14 07:05:58
+12953,721812,6,43952291,76,2,3480,58',0,0,Elizabeth Eddy (Angel City FC) Substitution at 58',Elizabeth Eddy Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,381979,2024-10-14 07:05:58
+12953,721812,8,43952293,76,2,3660,61',0,0,Betzy Cuevas (América) Substitution at 61',Betzy Cuevas Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,384630,2024-10-14 07:05:58
+12953,721812,8,43952293,76,2,3660,61',0,0,Betzy Cuevas (América) Substitution at 61',Betzy Cuevas Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,351881,2024-10-14 07:05:58
+12953,721812,10,43952295,76,2,4200,70',0,0,M.A. Vignola (Angel City FC) Substitution at 70',M.A. Vignola Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,242457,2024-10-14 07:05:58
+12953,721812,11,43952296,94,2,4200,70',0,0,Karen Luna (América) Yellow Card at 70',Karen Luna Yellow Card,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,380639,2024-10-14 07:05:58
+12953,721812,9,43952294,76,2,4200,70',0,0,Lily Nabet (Angel City FC) Substitution at 70',Lily Nabet Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,263897,2024-10-14 07:05:58
+12953,721812,9,43952294,76,2,4200,70',0,0,Lily Nabet (Angel City FC) Substitution at 70',Lily Nabet Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,208911,2024-10-14 07:05:58
+12953,721812,10,43952295,76,2,4200,70',0,0,M.A. Vignola (Angel City FC) Substitution at 70',M.A. Vignola Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,248836,2024-10-14 07:05:58
+12953,721812,12,43952297,70,2,5340,89',1,0,Sydney Leroux (Angel City FC) Goal at 89',Sydney Leroux Goal,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,174410,2024-10-14 07:05:58
+12953,721812,13,43952298,70,2,5400,90'+3',1,0,Kiana Palacios (América) Goal at 93',Kiana Palacios Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,210325,2024-10-14 07:05:58
+12953,721813,1,43952471,70,1,780,13',1,0,Paige Metayer (Washington Spirit) Goal at 13',Paige Metayer Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,360895,2024-10-14 07:05:58
+12953,721813,2,43952472,94,1,2160,36',0,0,Jenna Butler (Washington Spirit) Yellow Card at 36',Jenna Butler Yellow Card,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,279023,2024-10-14 07:05:58
+12953,721813,3,43952473,94,1,2220,37',0,0,Carolina Jaramillo (Guadalajara) Yellow Card at 37',Carolina Jaramillo Yellow Card,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,272316,2025-04-05 08:46:00
+12953,721813,4,43952474,94,1,2520,42',0,0,Joselyn De La Rosa (Guadalajara) Yellow Card at 42',Joselyn De La Rosa Yellow Card,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,393179,2025-04-05 08:46:00
+12953,721813,5,43952475,76,2,2700,45',0,0,Annaïg Butel (Washington Spirit) Substitution at 45',Annaïg Butel Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,219935,2024-10-14 07:05:58
+12953,721813,5,43952475,76,2,2700,45',0,0,Annaïg Butel (Washington Spirit) Substitution at 45',Annaïg Butel Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,263690,2024-10-14 07:05:58
+12953,721813,6,43952476,70,2,2820,47',1,0,Lena Silano (Washington Spirit) Goal at 47',Lena Silano Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,279478,2024-10-14 07:05:58
+12953,721813,8,43952478,76,2,3360,56',0,0,Viridiana Salazar (Guadalajara) Substitution at 56',Viridiana Salazar Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,328243,2025-04-05 08:46:00
+12953,721813,7,43952477,76,2,3360,56',0,0,Daniela Delgado (Guadalajara) Substitution at 56',Daniela Delgado Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,393143,2025-04-05 08:46:00
+12953,721813,8,43952478,76,2,3360,56',0,0,Viridiana Salazar (Guadalajara) Substitution at 56',Viridiana Salazar Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,393181,2025-04-05 08:46:00
+12953,721813,7,43952477,76,2,3360,56',0,0,Daniela Delgado (Guadalajara) Substitution at 56',Daniela Delgado Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,393179,2025-04-05 08:46:00
+12953,721813,9,43952479,94,2,3660,61',0,0,Karla Martínez (Guadalajara) Yellow Card at 61',Karla Martínez Yellow Card,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,379014,2025-04-05 08:46:00
+12953,721813,11,43952481,76,2,3720,62',0,0,Ouleymata Sarr (Washington Spirit) Substitution at 62',Ouleymata Sarr Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,264727,2024-10-14 07:05:58
+12953,721813,10,43952480,76,2,3720,62',0,0,Andi Sullivan (Washington Spirit) Substitution at 62',Andi Sullivan Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,212209,2024-10-14 07:05:58
+12953,721813,10,43952480,76,2,3720,62',0,0,Andi Sullivan (Washington Spirit) Substitution at 62',Andi Sullivan Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,316914,2024-10-14 07:05:58
+12953,721813,11,43952481,76,2,3720,62',0,0,Ouleymata Sarr (Washington Spirit) Substitution at 62',Ouleymata Sarr Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,360896,2024-10-14 07:05:58
+12953,721813,12,43952482,70,2,4080,68',1,0,Alicia Cervantes (Guadalajara) Goal at 68',Alicia Cervantes Goal,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,314320,2025-04-05 08:46:00
+12953,721813,13,43952483,76,2,4200,70',0,0,Kate Wiesner (Washington Spirit) Substitution at 70',Kate Wiesner Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,318592,2024-10-14 07:05:58
+12953,721813,13,43952483,76,2,4200,70',0,0,Kate Wiesner (Washington Spirit) Substitution at 70',Kate Wiesner Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,307452,2024-10-14 07:05:58
+12953,721813,14,43952484,76,2,4740,79',0,0,Alexxandra Ramírez (Guadalajara) Substitution at 79',Alexxandra Ramírez Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,393148,2025-04-05 08:46:00
+12953,721813,15,43952485,76,2,4740,79',0,0,Anacamila Hernández (Guadalajara) Substitution at 79',Anacamila Hernández Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,393173,2025-04-05 08:46:00
+12953,721813,15,43952485,76,2,4740,79',0,0,Anacamila Hernández (Guadalajara) Substitution at 79',Anacamila Hernández Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,393178,2025-04-05 08:46:00
+12953,721813,14,43952484,76,2,4740,79',0,0,Alexxandra Ramírez (Guadalajara) Substitution at 79',Alexxandra Ramírez Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,372798,2025-04-05 08:46:00
+12953,721813,16,43952486,76,2,5220,87',0,0,Dana Sandoval (Guadalajara) Substitution at 87',Dana Sandoval Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,386661,2025-04-05 08:46:00
+12953,721813,16,43952486,76,2,5220,87',0,0,Dana Sandoval (Guadalajara) Substitution at 87',Dana Sandoval Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,393140,2025-04-05 08:46:00
+12953,721813,17,43952487,94,2,5400,90'+3',0,0,Dana Sandoval (Guadalajara) Yellow Card at 93',Dana Sandoval Yellow Card,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,386661,2025-04-05 08:46:00
+12953,721814,1,43952205,70,1,240,4',1,0,Christine Sinclair (Portland Thorns FC) Goal at 4',Christine Sinclair Goal,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,95135,2024-10-14 07:05:58
+12953,721814,2,43952206,70,1,1080,18',1,0,Olivia Wade-Katoa (Portland Thorns FC) Goal at 18',Olivia Wade-Katoa Goal,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,381584,2024-10-14 07:05:58
+12953,721814,3,43952207,76,1,2100,35',0,0,Meaghan Nally (Portland Thorns FC) Substitution at 35',Meaghan Nally Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,248725,2024-10-14 07:05:58
+12953,721814,3,43952207,76,1,2100,35',0,0,Meaghan Nally (Portland Thorns FC) Substitution at 35',Meaghan Nally Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,328084,2024-10-14 07:05:58
+12953,721814,4,43952208,76,2,2700,45',0,0,Marissa Sheva (Portland Thorns FC) Substitution at 45',Marissa Sheva Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,226079,2024-10-14 07:05:58
+12953,721814,4,43952208,76,2,2700,45',0,0,Marissa Sheva (Portland Thorns FC) Substitution at 45',Marissa Sheva Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,381584,2024-10-14 07:05:58
+12953,721814,5,43952209,94,2,2880,48',0,0,Marissa Sheva (Portland Thorns FC) Yellow Card at 48',Marissa Sheva Yellow Card,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,226079,2024-10-14 07:05:58
+12953,721814,6,43952210,70,2,3240,54',1,0,Izzy D'Aquila (Portland Thorns FC) Goal at 54',Izzy D'Aquila Goal,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,293386,2024-10-14 07:05:58
+12953,721814,7,43952211,76,2,3480,58',0,0,Ammanda Marroquin (Tijuana) Substitution at 58',Ammanda Marroquin Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,393151,2025-04-05 08:46:00
+12953,721814,9,43952213,76,2,3480,58',0,0,Michel Fong (Tijuana) Substitution at 58',Michel Fong Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,344423,2025-04-05 08:46:00
+12953,721814,8,43952212,76,2,3480,58',0,0,Inglis Hernández (Tijuana) Substitution at 58',Inglis Hernández Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,393196,2025-04-05 08:46:00
+12953,721814,9,43952213,76,2,3480,58',0,0,Michel Fong (Tijuana) Substitution at 58',Michel Fong Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,393190,2025-04-05 08:46:00
+12953,721814,8,43952212,76,2,3480,58',0,0,Inglis Hernández (Tijuana) Substitution at 58',Inglis Hernández Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,393195,2025-04-05 08:46:00
+12953,721814,7,43952211,76,2,3480,58',0,0,Ammanda Marroquin (Tijuana) Substitution at 58',Ammanda Marroquin Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,393198,2025-04-05 08:46:00
+12953,721814,10,43952214,76,2,3600,60',0,0,Ana Dias (Portland Thorns FC) Substitution at 60',Ana Dias Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,361596,2024-10-14 07:05:58
+12953,721814,10,43952214,76,2,3600,60',0,0,Ana Dias (Portland Thorns FC) Substitution at 60',Ana Dias Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,158780,2024-10-14 07:05:58
+12953,721814,11,43952215,76,2,3660,61',0,0,Reyna Reyes (Portland Thorns FC) Substitution at 61',Reyna Reyes Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,292699,2024-10-14 07:05:58
+12953,721814,11,43952215,76,2,3660,61',0,0,Reyna Reyes (Portland Thorns FC) Substitution at 61',Reyna Reyes Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,293006,2024-10-14 07:05:58
+12953,721814,12,43952216,70,2,4020,67',1,0,Ana Dias (Portland Thorns FC) Goal at 67',Ana Dias Goal,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,361596,2024-10-14 07:05:58
+12953,721814,14,43952218,76,2,4200,70',0,0,Karen Díaz (Tijuana) Substitution at 70',Karen Díaz Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,287340,2025-04-05 08:46:00
+12953,721814,13,43952217,76,2,4200,70',0,0,Estefanía Izaguirre (Tijuana) Substitution at 70',Estefanía Izaguirre Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,393194,2025-04-05 08:46:00
+12953,721814,14,43952218,76,2,4200,70',0,0,Karen Díaz (Tijuana) Substitution at 70',Karen Díaz Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,158834,2025-04-05 08:46:00
+12953,721814,13,43952217,76,2,4200,70',0,0,Estefanía Izaguirre (Tijuana) Substitution at 70',Estefanía Izaguirre Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,281625,2025-04-05 08:46:00
+12953,721814,15,43952219,70,2,4320,72',1,0,Marissa Sheva (Portland Thorns FC) Goal at 72',Marissa Sheva Goal,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,226079,2024-10-14 07:05:58
+12953,721814,16,43952220,76,2,4620,77',0,0,Marissa Digenova (Portland Thorns FC) Substitution at 77',Marissa Digenova Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,292521,2024-10-14 07:05:58
+12953,721814,16,43952220,76,2,4620,77',0,0,Marissa Digenova (Portland Thorns FC) Substitution at 77',Marissa Digenova Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,95135,2024-10-14 07:05:58
+12953,721815,1,43952488,94,1,1920,32',0,0,Damaris Godínez (Guadalajara) Yellow Card at 32',Damaris Godínez Yellow Card,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,393176,2025-04-05 08:46:00
+12953,721815,3,43952490,76,2,2700,45',0,0,Chardonnay Curran (Chicago Red Stars) Substitution at 45',Chardonnay Curran Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,281296,2025-04-05 08:46:00
+12953,721815,2,43952489,70,1,2700,45',1,0,Gabriela Valenzuela (Guadalajara) Goal at 45',Gabriela Valenzuela Goal,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,393178,2025-04-05 08:46:00
+12953,721815,4,43952491,76,2,2700,45',0,0,Angélica Torres (Guadalajara) Substitution at 45',Angélica Torres Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,372798,2025-04-05 08:46:00
+12953,721815,3,43952490,76,2,2700,45',0,0,Chardonnay Curran (Chicago Red Stars) Substitution at 45',Chardonnay Curran Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,242259,2025-04-05 08:46:00
+12953,721815,4,43952491,76,2,2700,45',0,0,Angélica Torres (Guadalajara) Substitution at 45',Angélica Torres Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,393176,2025-04-05 08:46:00
+12953,721815,5,43952492,94,2,3180,53',0,0,Daniela Delgado (Guadalajara) Yellow Card at 53',Daniela Delgado Yellow Card,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,393143,2025-04-05 08:46:00
+12953,721815,6,43952493,94,2,3480,58',0,0,Alexxandra Ramírez (Guadalajara) Yellow Card at 58',Alexxandra Ramírez Yellow Card,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,393148,2025-04-05 08:46:00
+12953,721815,7,43952494,76,2,3660,61',0,0,Shea Groom (Chicago Red Stars) Substitution at 61',Shea Groom Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,209045,2025-04-05 08:46:00
+12953,721815,8,43952495,76,2,3660,61',0,0,Ally Schlegel (Chicago Red Stars) Substitution at 61',Ally Schlegel Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,360894,2025-04-05 08:46:00
+12953,721815,8,43952495,76,2,3660,61',0,0,Ally Schlegel (Chicago Red Stars) Substitution at 61',Ally Schlegel Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,282709,2025-04-05 08:46:00
+12953,721815,9,43952496,76,2,3660,61',0,0,Nádia Gomes (Chicago Red Stars) Substitution at 61',Nádia Gomes Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,372751,2025-04-05 08:46:00
+12953,721815,8,43952495,76,2,3660,61',0,0,Ally Schlegel (Chicago Red Stars) Substitution at 61',Ally Schlegel Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,294743,2025-04-05 08:46:00
+12953,721815,9,43952496,76,2,3660,61',0,0,Nádia Gomes (Chicago Red Stars) Substitution at 61',Nádia Gomes Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,295584,2025-04-05 08:46:00
+12953,721815,7,43952494,76,2,3660,61',0,0,Shea Groom (Chicago Red Stars) Substitution at 61',Shea Groom Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,292430,2025-04-05 08:46:00
+12953,721815,11,43952498,76,2,3780,63',0,0,Kinberly Guzmán (Guadalajara) Substitution at 63',Kinberly Guzmán Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,349499,2025-04-05 08:46:00
+12953,721815,10,43952497,76,2,3780,63',0,0,Adriana Iturbide (Guadalajara) Substitution at 63',Adriana Iturbide Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,287337,2025-04-05 08:46:00
+12953,721815,11,43952498,76,2,3780,63',0,0,Kinberly Guzmán (Guadalajara) Substitution at 63',Kinberly Guzmán Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,393148,2025-04-05 08:46:00
+12953,721815,10,43952497,76,2,3780,63',0,0,Adriana Iturbide (Guadalajara) Substitution at 63',Adriana Iturbide Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,328243,2025-04-05 08:46:00
+12953,721815,12,43952499,76,2,4320,72',0,0,Dana Sandoval (Guadalajara) Substitution at 72',Dana Sandoval Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,386661,2025-04-05 08:46:00
+12953,721815,12,43952499,76,2,4320,72',0,0,Dana Sandoval (Guadalajara) Substitution at 72',Dana Sandoval Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,393177,2025-04-05 08:46:00
+12953,721815,13,43952500,76,2,4560,76',0,0,Sarah Griffith (Chicago Red Stars) Substitution at 76',Sarah Griffith Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,279249,2025-04-05 08:46:00
+12953,721815,13,43952500,76,2,4560,76',0,0,Sarah Griffith (Chicago Red Stars) Substitution at 76',Sarah Griffith Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,310887,2025-04-05 08:46:00
+12953,721815,14,43952501,94,2,4920,82',0,0,Adriana Iturbide (Guadalajara) Yellow Card at 82',Adriana Iturbide Yellow Card,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,287337,2025-04-05 08:46:00
+12953,721815,15,43952502,76,2,5100,85',0,0,Victoria Acevedo (Guadalajara) Substitution at 85',Victoria Acevedo Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,393182,2025-04-05 08:46:00
+12953,721815,15,43952502,76,2,5100,85',0,0,Victoria Acevedo (Guadalajara) Substitution at 85',Victoria Acevedo Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,393178,2025-04-05 08:46:00
+12953,721815,16,43952503,94,2,5400,90'+2',0,0,Ally Schlegel (Chicago Red Stars) Yellow Card at 92',Ally Schlegel Yellow Card,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,360894,2025-04-05 08:46:00
+12953,721815,16,43952503,94,2,5400,90'+2',0,0,Ally Schlegel (Chicago Red Stars) Yellow Card at 92',Ally Schlegel Yellow Card,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,282709,2025-04-05 08:46:00
+12953,721816,1,43952596,94,1,2700,45',0,0,Lauren Milliet (Racing Louisville FC) Yellow Card at 45',Lauren Milliet Yellow Card,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,280127,2024-10-14 07:05:58
+12953,721816,3,43952598,76,2,2700,45',0,0,Ary Borges (Racing Louisville FC) Substitution at 45',Ary Borges Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,319246,2024-10-14 07:05:58
+12953,721816,2,43952597,76,2,2700,45',0,0,Ellie Jean (Racing Louisville FC) Substitution at 45',Ellie Jean Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,226085,2024-10-14 07:05:58
+12953,721816,4,43952599,76,2,2700,45',0,0,Manaka Matsukubo (North Carolina Courage) Substitution at 45',Manaka Matsukubo Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,369002,2024-10-14 07:05:58
+12953,721816,4,43952599,76,2,2700,45',0,0,Manaka Matsukubo (North Carolina Courage) Substitution at 45',Manaka Matsukubo Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,279297,2024-10-14 07:05:58
+12953,721816,3,43952598,76,2,2700,45',0,0,Ary Borges (Racing Louisville FC) Substitution at 45',Ary Borges Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,2,243230,2024-10-14 07:05:58
+12953,721816,2,43952597,76,2,2700,45',0,0,Ellie Jean (Racing Louisville FC) Substitution at 45',Ellie Jean Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,2,209538,2024-10-14 07:05:58
+12953,721816,5,43952600,76,2,3840,64',0,0,Elexa Bahr (Racing Louisville FC) Substitution at 64',Elexa Bahr Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,242260,2024-10-14 07:05:58
+12953,721816,5,43952600,76,2,3840,64',0,0,Elexa Bahr (Racing Louisville FC) Substitution at 64',Elexa Bahr Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,2,263693,2024-10-14 07:05:58
+12953,721816,6,43952601,70,2,3960,66',1,0,Carson Pickett (Racing Louisville FC) Goal at 66',Carson Pickett Goal,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,211615,2024-10-14 07:05:58
+12953,721816,8,43952603,76,2,4080,68',0,0,Victoria Pickett (North Carolina Courage) Substitution at 68',Victoria Pickett Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,227095,2024-10-14 07:05:58
+12953,721816,7,43952602,76,2,4080,68',0,0,Tyler Lussi (North Carolina Courage) Substitution at 68',Tyler Lussi Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,290243,2024-10-14 07:05:58
+12953,721816,7,43952602,76,2,4080,68',0,0,Tyler Lussi (North Carolina Courage) Substitution at 68',Tyler Lussi Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,278948,2024-10-14 07:05:58
+12953,721816,8,43952603,76,2,4080,68',0,0,Victoria Pickett (North Carolina Courage) Substitution at 68',Victoria Pickett Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,253820,2024-10-14 07:05:58
+12953,721816,9,43952604,76,2,4740,79',0,0,Haley Hopkins (North Carolina Courage) Substitution at 79',Haley Hopkins Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,262418,2024-10-14 07:05:58
+12953,721816,9,43952604,76,2,4740,79',0,0,Haley Hopkins (North Carolina Courage) Substitution at 79',Haley Hopkins Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,290247,2024-10-14 07:05:58
+12953,721816,10,43952605,76,2,4860,81',0,0,Parker Goins (Racing Louisville FC) Substitution at 81',Parker Goins Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,262029,2024-10-14 07:05:58
+12953,721816,10,43952605,76,2,4860,81',0,0,Parker Goins (Racing Louisville FC) Substitution at 81',Parker Goins Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,2,293305,2024-10-14 07:05:58
+12953,721816,12,43952607,76,2,5040,84',0,0,Landy Mertz (North Carolina Courage) Substitution at 84',Landy Mertz Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,328589,2024-10-14 07:05:58
+12953,721816,11,43952606,76,2,5040,84',0,0,Reilyn Turner (Racing Louisville FC) Substitution at 84',Reilyn Turner Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,318869,2024-10-14 07:05:58
+12953,721816,12,43952607,76,2,5040,84',0,0,Landy Mertz (North Carolina Courage) Substitution at 84',Landy Mertz Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,230877,2024-10-14 07:05:58
+12953,721816,11,43952606,76,2,5040,84',0,0,Reilyn Turner (Racing Louisville FC) Substitution at 84',Reilyn Turner Substitution,20905,0.0,0.0,0.0,0.0,0.0,0.0,2,277805,2024-10-14 07:05:58
+12953,721816,13,43952608,94,2,5400,90',0,0,Ary Borges (Racing Louisville FC) Yellow Card at 90',Ary Borges Yellow Card,20905,0.0,0.0,0.0,0.0,0.0,0.0,1,319246,2024-10-14 07:05:58
+12953,721816,14,43952609,70,2,5400,90'+1',1,0,Riley Jackson (North Carolina Courage) Goal at 91',Riley Jackson Goal,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,344358,2024-10-14 07:05:58
+12953,721816,15,43952610,94,2,5400,90'+2',0,0,Haley Hopkins (North Carolina Courage) Yellow Card at 92',Haley Hopkins Yellow Card,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,262418,2024-10-14 07:05:58
+12953,721817,1,43952313,76,2,3660,61',0,0,Melanie Barcenas (San Diego Wave FC) Substitution at 61',Melanie Barcenas Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,360902,2024-10-14 07:05:58
+12953,721817,2,43952314,76,2,3660,61',0,0,Sarah Luebbert (América) Substitution at 61',Sarah Luebbert Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,242075,2024-10-14 07:05:58
+12953,721817,3,43952315,76,2,3660,61',0,0,Irene Guerrero (América) Substitution at 61',Irene Guerrero Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,287323,2024-10-14 07:05:58
+12953,721817,1,43952313,76,2,3660,61',0,0,Melanie Barcenas (San Diego Wave FC) Substitution at 61',Melanie Barcenas Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,261922,2024-10-14 07:05:58
+12953,721817,2,43952314,76,2,3660,61',0,0,Sarah Luebbert (América) Substitution at 61',Sarah Luebbert Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,351881,2024-10-14 07:05:58
+12953,721817,3,43952315,76,2,3660,61',0,0,Irene Guerrero (América) Substitution at 61',Irene Guerrero Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,351882,2024-10-14 07:05:58
+12953,721817,4,43952316,94,2,4140,69',0,0,Karen Luna (América) Yellow Card at 69',Karen Luna Yellow Card,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,380639,2024-10-14 07:05:58
+12953,721817,5,43952317,76,2,4260,71',0,0,Amirah Ali (San Diego Wave FC) Substitution at 71',Amirah Ali Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,261626,2024-10-14 07:05:58
+12953,721817,5,43952317,76,2,4260,71',0,0,Amirah Ali (San Diego Wave FC) Substitution at 71',Amirah Ali Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,211048,2024-10-14 07:05:58
+12953,721817,6,43952318,76,2,4500,75',0,0,Kimmi Ascanio (San Diego Wave FC) Substitution at 75',Kimmi Ascanio Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,382797,2024-10-14 07:05:58
+12953,721817,6,43952318,76,2,4500,75',0,0,Kimmi Ascanio (San Diego Wave FC) Substitution at 75',Kimmi Ascanio Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,255838,2024-10-14 07:05:58
+12953,721817,6,43952318,76,2,4500,75',0,0,Kimmi Ascanio (San Diego Wave FC) Substitution at 75',Kimmi Ascanio Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,158774,2024-10-14 07:05:58
+12953,721817,7,43952319,70,2,4680,78',1,0,Karen Luna (América) Goal at 78',Karen Luna Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,380639,2024-10-14 07:05:58
+12953,721817,8,43952320,76,2,5340,89',0,0,Miah Zuazua (América) Substitution at 89',Miah Zuazua Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,263878,2024-10-14 07:05:58
+12953,721817,9,43952321,76,2,5340,89',0,0,Montserrat Saldivar (América) Substitution at 89',Montserrat Saldivar Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,344418,2024-10-14 07:05:58
+12953,721817,9,43952321,76,2,5340,89',0,0,Montserrat Saldivar (América) Substitution at 89',Montserrat Saldivar Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,331323,2024-10-14 07:05:58
+12953,721817,8,43952320,76,2,5340,89',0,0,Miah Zuazua (América) Substitution at 89',Miah Zuazua Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,292838,2024-10-14 07:05:58
+12953,721817,11,43952323,70,2,5400,90'+5',1,0,Kiana Palacios (América) Goal at 95',Kiana Palacios Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,210325,2024-10-14 07:05:58
+12953,721817,10,43952322,94,2,5400,90',0,0,Sandra Paños (América) Yellow Card at 90',Sandra Paños Yellow Card,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,219988,2024-10-14 07:05:58
+12953,721818,1,43952324,97,1,1080,18',1,0,Dorian Bailey (Bay FC) Own Goal at 18',Dorian Bailey Own Goal,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,230901,2024-10-14 07:05:58
+12953,721818,2,43952325,94,1,1260,21',0,0,Madison Hammond (Angel City FC) Yellow Card at 21',Madison Hammond Yellow Card,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,261809,2024-10-14 07:05:58
+12953,721818,3,43952326,76,2,2700,45',0,0,Madison Curry (Angel City FC) Substitution at 45',Madison Curry Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,381979,2024-10-14 07:05:58
+12953,721818,3,43952326,76,2,2700,45',0,0,Madison Curry (Angel City FC) Substitution at 45',Madison Curry Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,242457,2024-10-14 07:05:58
+12953,721818,4,43952327,94,2,2820,47',0,0,Claire Emslie (Angel City FC) Yellow Card at 47',Claire Emslie Yellow Card,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,226053,2024-10-14 07:05:58
+12953,721818,5,43952328,70,2,3240,54',1,0,Claire Emslie (Angel City FC) Goal at 54',Claire Emslie Goal,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,226053,2024-10-14 07:05:58
+12953,721818,6,43952329,76,2,3600,60',0,0,Princess Marfo (Bay FC) Substitution at 60',Princess Marfo Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,379823,2024-10-14 07:05:58
+12953,721818,6,43952329,76,2,3600,60',0,0,Princess Marfo (Bay FC) Substitution at 60',Princess Marfo Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,2,250340,2024-10-14 07:05:58
+12953,721818,8,43952331,76,2,3660,61',0,0,Kiki Pickett (Bay FC) Substitution at 61',Kiki Pickett Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,261577,2024-10-14 07:05:58
+12953,721818,7,43952330,76,2,3660,61',0,0,Alyssa Malonson (Bay FC) Substitution at 61',Alyssa Malonson Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,261773,2024-10-14 07:05:58
+12953,721818,8,43952331,76,2,3660,61',0,0,Kiki Pickett (Bay FC) Substitution at 61',Kiki Pickett Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,2,326360,2024-10-14 07:05:58
+12953,721818,7,43952330,76,2,3660,61',0,0,Alyssa Malonson (Bay FC) Substitution at 61',Alyssa Malonson Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,2,242145,2024-10-14 07:05:58
+12953,721818,9,43952332,76,2,3960,66',0,0,Casey Phair (Angel City FC) Substitution at 66',Casey Phair Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,363460,2024-10-14 07:05:58
+12953,721818,9,43952332,76,2,3960,66',0,0,Casey Phair (Angel City FC) Substitution at 66',Casey Phair Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,279452,2024-10-14 07:05:58
+12953,721818,10,43952333,76,2,4020,67',0,0,Joelle Anderson (Bay FC) Substitution at 67',Joelle Anderson Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,261840,2024-10-14 07:05:58
+12953,721818,10,43952333,76,2,4020,67',0,0,Joelle Anderson (Bay FC) Substitution at 67',Joelle Anderson Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,2,292687,2024-10-14 07:05:58
+12953,721818,12,43952335,76,2,4440,74',0,0,Elizabeth Eddy (Angel City FC) Substitution at 74',Elizabeth Eddy Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,290262,2024-10-14 07:05:58
+12953,721818,11,43952334,76,2,4440,74',0,0,Lily Nabet (Angel City FC) Substitution at 74',Lily Nabet Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,263897,2024-10-14 07:05:58
+12953,721818,11,43952334,76,2,4440,74',0,0,Lily Nabet (Angel City FC) Substitution at 74',Lily Nabet Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,208911,2024-10-14 07:05:58
+12953,721818,12,43952335,76,2,4440,74',0,0,Elizabeth Eddy (Angel City FC) Substitution at 74',Elizabeth Eddy Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,290454,2024-10-14 07:05:58
+12953,721818,13,43952336,76,2,4560,76',0,0,Caprice Dydasco (Bay FC) Substitution at 76',Caprice Dydasco Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,290254,2024-10-14 07:05:58
+12953,721818,13,43952336,76,2,4560,76',0,0,Caprice Dydasco (Bay FC) Substitution at 76',Caprice Dydasco Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,2,292607,2024-10-14 07:05:58
+12953,721818,14,43952337,76,2,4740,79',0,0,Rocky Rodríguez (Angel City FC) Substitution at 79',Rocky Rodríguez Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,168043,2024-10-14 07:05:58
+12953,721818,14,43952337,76,2,4740,79',0,0,Rocky Rodríguez (Angel City FC) Substitution at 79',Rocky Rodríguez Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,381599,2024-10-14 07:05:58
+12953,721820,1,43952390,70,1,720,12',1,0,Debinha (Kansas City Current) Goal at 12',Debinha Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,239984,2024-10-14 07:05:58
+12953,721820,2,43952391,70,1,1680,28',1,0,Debinha (Kansas City Current) Goal at 28',Debinha Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,239984,2024-10-14 07:05:58
+12953,721820,3,43952392,70,1,1920,32',1,0,Kristen Hamilton (Kansas City Current) Goal at 32',Kristen Hamilton Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,290250,2024-10-14 07:05:58
+12953,721820,4,43952393,94,1,2160,36',0,0,Nayeli Díaz (Pachuca) Yellow Card at 36',Nayeli Díaz Yellow Card,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,320220,2025-04-05 08:46:00
+12953,721820,5,43952394,76,1,2400,40',0,0,Fabiola Ibarra (Pachuca) Substitution at 40',Fabiola Ibarra Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,219204,2025-04-05 08:46:00
+12953,721820,5,43952394,76,1,2400,40',0,0,Fabiola Ibarra (Pachuca) Substitution at 40',Fabiola Ibarra Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,386657,2025-04-05 08:46:00
+12953,721820,7,43952396,76,2,2700,45',0,0,Alexandra Godínez (Pachuca) Substitution at 45',Alexandra Godínez Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,393168,2025-04-05 08:46:00
+12953,721820,6,43952395,76,2,2700,45',0,0,Alexa Spaanstra (Kansas City Current) Substitution at 45',Alexa Spaanstra Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,280975,2024-10-14 07:05:58
+12953,721820,6,43952395,76,2,2700,45',0,0,Alexa Spaanstra (Kansas City Current) Substitution at 45',Alexa Spaanstra Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,325236,2024-10-14 07:05:58
+12953,721820,7,43952396,76,2,2700,45',0,0,Alexandra Godínez (Pachuca) Substitution at 45',Alexandra Godínez Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,320220,2025-04-05 08:46:00
+12953,721820,8,43952397,76,2,3720,62',0,0,Claire Lavogez (Kansas City Current) Substitution at 62',Claire Lavogez Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,219120,2024-10-14 07:05:58
+12953,721820,8,43952397,76,2,3720,62',0,0,Claire Lavogez (Kansas City Current) Substitution at 62',Claire Lavogez Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,290250,2024-10-14 07:05:58
+12953,721820,9,43952398,76,2,4020,67',0,0,Janae Defazio (Kansas City Current) Substitution at 67',Janae Defazio Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,293184,2024-10-14 07:05:58
+12953,721820,10,43952399,94,2,4020,67',0,0,Fabiola Ibarra (Pachuca) Yellow Card at 67',Fabiola Ibarra Yellow Card,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,219204,2025-04-05 08:46:00
+12953,721820,9,43952398,76,2,4020,67',0,0,Janae Defazio (Kansas City Current) Substitution at 67',Janae Defazio Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,252074,2024-10-14 07:05:58
+12953,721820,11,43952400,76,2,4080,68',0,0,Claire Hutton (Kansas City Current) Substitution at 68',Claire Hutton Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,344404,2024-10-14 07:05:58
+12953,721820,11,43952400,76,2,4080,68',0,0,Claire Hutton (Kansas City Current) Substitution at 68',Claire Hutton Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,290266,2024-10-14 07:05:58
+12953,721820,12,43952401,76,2,4200,70',0,0,Julia Valadez (Pachuca) Substitution at 70',Julia Valadez Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,393159,2025-04-05 08:46:00
+12953,721820,12,43952401,76,2,4200,70',0,0,Julia Valadez (Pachuca) Substitution at 70',Julia Valadez Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,95174,2025-04-05 08:46:00
+12953,721820,13,43952402,76,2,4560,76',0,0,Amanda Pérez (Pachuca) Substitution at 76',Amanda Pérez Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,209528,2025-04-05 08:46:00
+12953,721820,13,43952402,76,2,4560,76',0,0,Amanda Pérez (Pachuca) Substitution at 76',Amanda Pérez Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,393162,2025-04-05 08:46:00
+12953,721820,14,43952403,94,2,4620,77',0,0,Julia Valadez (Pachuca) Yellow Card at 77',Julia Valadez Yellow Card,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,393159,2025-04-05 08:46:00
+12953,721820,15,43952404,76,2,4680,78',0,0,Allie Long (Kansas City Current) Substitution at 78',Allie Long Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,235634,2024-10-14 07:05:58
+12953,721820,15,43952404,76,2,4680,78',0,0,Allie Long (Kansas City Current) Substitution at 78',Allie Long Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,381632,2024-10-14 07:05:58
+12953,721820,15,43952404,76,2,4680,78',0,0,Allie Long (Kansas City Current) Substitution at 78',Allie Long Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,318579,2024-10-14 07:05:58
+12953,721821,1,43952221,70,1,180,3',1,0,Hannah Betfort (Utah Royals) Goal at 3',Hannah Betfort Goal,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,261813,2024-10-14 07:05:58
+12953,721821,2,43952222,70,1,1260,21',1,0,Ally Sentnor (Utah Royals) Goal at 21',Ally Sentnor Goal,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,327195,2024-10-14 07:05:58
+12953,721821,4,43952224,76,2,2700,45',0,0,Marissa Sheva (Portland Thorns FC) Substitution at 45',Marissa Sheva Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,226079,2024-10-14 07:05:58
+12953,721821,3,43952223,76,2,2700,45',0,0,Payton Linnehan (Portland Thorns FC) Substitution at 45',Payton Linnehan Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,318583,2024-10-14 07:05:58
+12953,721821,3,43952223,76,2,2700,45',0,0,Payton Linnehan (Portland Thorns FC) Substitution at 45',Payton Linnehan Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,95135,2024-10-14 07:05:58
+12953,721821,4,43952224,76,2,2700,45',0,0,Marissa Sheva (Portland Thorns FC) Substitution at 45',Marissa Sheva Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,361596,2024-10-14 07:05:58
+12953,721821,5,43952225,94,2,3120,52',0,0,Ana Tejada (Utah Royals) Yellow Card at 52',Ana Tejada Yellow Card,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,335826,2024-10-14 07:05:58
+12953,721821,7,43952227,76,2,3660,61',0,0,Olivia Griffitts (Utah Royals) Substitution at 61',Olivia Griffitts Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,382917,2024-10-14 07:05:58
+12953,721821,6,43952226,76,2,3660,61',0,0,Michele Vasconcelos (Utah Royals) Substitution at 61',Michele Vasconcelos Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,245184,2024-10-14 07:05:58
+12953,721821,8,43952228,76,2,3660,61',0,0,Olivia Moultrie (Portland Thorns FC) Substitution at 61',Olivia Moultrie Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,321118,2024-10-14 07:05:58
+12953,721821,6,43952226,76,2,3660,61',0,0,Michele Vasconcelos (Utah Royals) Substitution at 61',Michele Vasconcelos Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,2,227520,2024-10-14 07:05:58
+12953,721821,8,43952228,76,2,3660,61',0,0,Olivia Moultrie (Portland Thorns FC) Substitution at 61',Olivia Moultrie Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,175977,2024-10-14 07:05:58
+12953,721821,7,43952227,76,2,3660,61',0,0,Olivia Griffitts (Utah Royals) Substitution at 61',Olivia Griffitts Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,2,309945,2024-10-14 07:05:58
+12953,721821,9,43952229,70,2,3960,66',1,0,Olivia Moultrie (Portland Thorns FC) Goal at 66',Olivia Moultrie Goal,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,321118,2024-10-14 07:05:58
+12953,721821,10,43952230,76,2,4080,68',0,0,Isabella Obaze (Portland Thorns FC) Substitution at 68',Isabella Obaze Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,328084,2024-10-14 07:05:58
+12953,721821,10,43952230,76,2,4080,68',0,0,Isabella Obaze (Portland Thorns FC) Substitution at 68',Isabella Obaze Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,380040,2024-10-14 07:05:58
+12953,721821,11,43952231,76,2,4440,74',0,0,Ellie Boren (Utah Royals) Substitution at 74',Ellie Boren Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,387751,2024-10-14 07:05:58
+12953,721821,11,43952231,76,2,4440,74',0,0,Ellie Boren (Utah Royals) Substitution at 74',Ellie Boren Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,2,293177,2024-10-14 07:05:58
+12953,721821,12,43952232,70,2,4560,76',1,0,Michele Vasconcelos (Utah Royals) Goal at 76',Michele Vasconcelos Goal,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,245184,2024-10-14 07:05:58
+12953,721821,13,43952233,76,2,4860,81',0,0,Rebekah Valdez (Portland Thorns FC) Substitution at 81',Rebekah Valdez Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,387852,2024-10-14 07:05:58
+12953,721821,13,43952233,76,2,4860,81',0,0,Rebekah Valdez (Portland Thorns FC) Substitution at 81',Rebekah Valdez Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,209537,2024-10-14 07:05:58
+12953,721821,14,43952234,76,2,5100,85',0,0,Addisyn Merrick (Utah Royals) Substitution at 85',Addisyn Merrick Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,264582,2024-10-14 07:05:58
+12953,721821,14,43952234,76,2,5100,85',0,0,Addisyn Merrick (Utah Royals) Substitution at 85',Addisyn Merrick Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,2,327195,2024-10-14 07:05:58
+12953,721822,1,43952235,70,1,120,2',1,0,Aisha Solorzano (Tijuana) Goal at 2',Aisha Solorzano Goal,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,320237,2025-04-05 08:46:00
+12953,721822,2,43952236,70,1,2400,40',1,0,Aisha Solorzano (Tijuana) Goal at 40',Aisha Solorzano Goal,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,320237,2025-04-05 08:46:00
+12953,721822,3,43952237,76,2,2700,45',0,0,Sofia Huerta (Seattle Reign FC) Substitution at 45',Sofia Huerta Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,264964,2024-10-14 07:05:58
+12953,721822,3,43952237,76,2,2700,45',0,0,Sofia Huerta (Seattle Reign FC) Substitution at 45',Sofia Huerta Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,290265,2024-10-14 07:05:58
+12953,721822,4,43952238,70,2,2820,47',1,0,Emeri Adames (Seattle Reign FC) Goal at 47',Emeri Adames Goal,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,351694,2024-10-14 07:05:58
+12953,721822,6,43952240,76,2,3720,62',0,0,Daniela Espinosa (Tijuana) Substitution at 62',Daniela Espinosa Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,287338,2025-04-05 08:46:00
+12953,721822,5,43952239,70,2,3720,62',1,0,Maddie Mercado (Seattle Reign FC) Goal at 62',Maddie Mercado Goal,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,292574,2024-10-14 07:05:58
+12953,721822,6,43952240,76,2,3720,62',0,0,Daniela Espinosa (Tijuana) Substitution at 62',Daniela Espinosa Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,393151,2025-04-05 08:46:00
+12953,721822,9,43952243,76,2,4020,67',0,0,Bethany Balcer (Seattle Reign FC) Substitution at 67',Bethany Balcer Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,290242,2024-10-14 07:05:58
+12953,721822,8,43952242,76,2,4020,67',0,0,Ji So-Yun (Seattle Reign FC) Substitution at 67',Ji So-Yun Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,219697,2024-10-14 07:05:58
+12953,721822,7,43952241,76,2,4020,67',0,0,Veronica Latsko (Seattle Reign FC) Substitution at 67',Veronica Latsko Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,211050,2024-10-14 07:05:58
+12953,721822,7,43952241,76,2,4020,67',0,0,Veronica Latsko (Seattle Reign FC) Substitution at 67',Veronica Latsko Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,292574,2024-10-14 07:05:58
+12953,721822,9,43952243,76,2,4020,67',0,0,Bethany Balcer (Seattle Reign FC) Substitution at 67',Bethany Balcer Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,262828,2024-10-14 07:05:58
+12953,721822,8,43952242,76,2,4020,67',0,0,Ji So-Yun (Seattle Reign FC) Substitution at 67',Ji So-Yun Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,380041,2024-10-14 07:05:58
+12953,721822,8,43952242,76,2,4020,67',0,0,Ji So-Yun (Seattle Reign FC) Substitution at 67',Ji So-Yun Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,307763,2024-10-14 07:05:58
+12953,721822,11,43952245,76,2,4080,68',0,0,Iraida Fernández (Tijuana) Substitution at 68',Iraida Fernández Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,393193,2025-04-05 08:46:00
+12953,721822,10,43952244,76,2,4080,68',0,0,Marta Cox (Tijuana) Substitution at 68',Marta Cox Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,281625,2025-04-05 08:46:00
+12953,721822,10,43952244,76,2,4080,68',0,0,Marta Cox (Tijuana) Substitution at 68',Marta Cox Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,393195,2025-04-05 08:46:00
+12953,721822,11,43952245,76,2,4080,68',0,0,Iraida Fernández (Tijuana) Substitution at 68',Iraida Fernández Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,219880,2025-04-05 08:46:00
+12953,721822,12,43952246,94,2,4140,69',0,0,Angharad James (Seattle Reign FC) Yellow Card at 69',Angharad James Yellow Card,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,259307,2024-10-14 07:05:58
+12953,721822,14,43952248,76,2,4620,77',0,0,Estefanía Izaguirre (Tijuana) Substitution at 77',Estefanía Izaguirre Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,393194,2025-04-05 08:46:00
+12953,721822,13,43952247,76,2,4620,77',0,0,Fabiola Villalobos (Tijuana) Substitution at 77',Fabiola Villalobos Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,224355,2025-04-05 08:46:00
+12953,721822,13,43952247,76,2,4620,77',0,0,Fabiola Villalobos (Tijuana) Substitution at 77',Fabiola Villalobos Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,393187,2025-04-05 08:46:00
+12953,721822,14,43952248,76,2,4620,77',0,0,Estefanía Izaguirre (Tijuana) Substitution at 77',Estefanía Izaguirre Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,393196,2025-04-05 08:46:00
+12953,721822,15,43952249,70,2,5040,84',1,0,Aisha Solorzano (Tijuana) Goal at 84',Aisha Solorzano Goal,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,320237,2025-04-05 08:46:00
+12953,721822,16,43952250,76,2,5220,87',0,0,Tziarra King (Seattle Reign FC) Substitution at 87',Tziarra King Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,242775,2024-10-14 07:05:58
+12953,721822,16,43952250,76,2,5220,87',0,0,Tziarra King (Seattle Reign FC) Substitution at 87',Tziarra King Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,351694,2024-10-14 07:05:58
+12953,721822,17,43952251,94,2,5340,89',0,0,Mayra Pelayo (Tijuana) Yellow Card at 89',Mayra Pelayo Yellow Card,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,225038,2025-04-05 08:46:00
+12953,721823,2,43952505,76,2,2700,45',0,0,Kristen Edmonds (NJ/NY Gotham FC) Substitution at 45',Kristen Edmonds Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,249628,2025-04-05 08:46:00
+12953,721823,4,43952507,76,2,2700,45',0,0,Heather Stainbrook (Washington Spirit) Substitution at 45',Heather Stainbrook Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,316914,2024-10-14 07:05:58
+12953,721823,1,43952504,76,2,2700,45',0,0,Tara McKeown (Washington Spirit) Substitution at 45',Tara McKeown Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,263690,2024-10-14 07:05:58
+12953,721823,3,43952506,76,2,2700,45',0,0,Chloe Ricketts (Washington Spirit) Substitution at 45',Chloe Ricketts Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,360896,2024-10-14 07:05:58
+12953,721823,2,43952505,76,2,2700,45',0,0,Kristen Edmonds (NJ/NY Gotham FC) Substitution at 45',Kristen Edmonds Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,245160,2025-04-05 08:46:00
+12953,721823,3,43952506,76,2,2700,45',0,0,Chloe Ricketts (Washington Spirit) Substitution at 45',Chloe Ricketts Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,318592,2024-10-14 07:05:58
+12953,721823,1,43952504,76,2,2700,45',0,0,Tara McKeown (Washington Spirit) Substitution at 45',Tara McKeown Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,219935,2024-10-14 07:05:58
+12953,721823,4,43952507,76,2,2700,45',0,0,Heather Stainbrook (Washington Spirit) Substitution at 45',Heather Stainbrook Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,212209,2024-10-14 07:05:58
+12953,721823,5,43952508,98,2,3720,62',1,0,Yazmeen Ryan (NJ/NY Gotham FC) Penalty - Scored at 62',Yazmeen Ryan Penalty - Scored,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,263902,2025-04-05 08:46:00
+12953,721823,6,43952509,76,2,3780,63',0,0,Olivia Stone (Washington Spirit) Substitution at 63',Olivia Stone Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,279188,2024-10-14 07:05:58
+12953,721823,6,43952509,76,2,3780,63',0,0,Olivia Stone (Washington Spirit) Substitution at 63',Olivia Stone Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,337565,2024-10-14 07:05:58
+12953,721823,7,43952510,76,2,4080,68',0,0,Makenna Morris (Washington Spirit) Substitution at 68',Makenna Morris Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,307452,2024-10-14 07:05:58
+12953,721823,7,43952510,76,2,4080,68',0,0,Makenna Morris (Washington Spirit) Substitution at 68',Makenna Morris Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,264727,2024-10-14 07:05:58
+12953,721823,8,43952511,76,2,4500,75',0,0,Sabrina Flores (NJ/NY Gotham FC) Substitution at 75',Sabrina Flores Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,214150,2025-04-05 08:46:00
+12953,721823,8,43952511,76,2,4500,75',0,0,Sabrina Flores (NJ/NY Gotham FC) Substitution at 75',Sabrina Flores Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,292713,2025-04-05 08:46:00
+12953,721823,9,43952512,76,2,4800,80',0,0,Mckenna Whitham (NJ/NY Gotham FC) Substitution at 80',Mckenna Whitham Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,388168,2025-04-05 08:46:00
+12953,721823,9,43952512,76,2,4800,80',0,0,Mckenna Whitham (NJ/NY Gotham FC) Substitution at 80',Mckenna Whitham Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,290269,2025-04-05 08:46:00
+12953,721823,10,43952513,76,2,5400,90',0,0,Mackenzie Pluck (NJ/NY Gotham FC) Substitution at 90',Mackenzie Pluck Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,277809,2025-04-05 08:46:00
+12953,721823,10,43952513,76,2,5400,90',0,0,Mackenzie Pluck (NJ/NY Gotham FC) Substitution at 90',Mackenzie Pluck Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,242965,2025-04-05 08:46:00
+12953,721824,1,43952405,70,1,120,2',1,0,Diana Ordóñez (Houston Dash) Goal at 2',Diana Ordóñez Goal,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,292832,2024-10-14 07:05:58
+12953,721824,2,43952406,94,1,1020,17',0,0,Maricarmen Reyes (Tigres UANL) Yellow Card at 17',Maricarmen Reyes Yellow Card,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,279305,2024-10-14 07:05:58
+12953,721824,3,43952407,94,1,1500,25',0,0,Jyllissa Harris (Houston Dash) Yellow Card at 25',Jyllissa Harris Yellow Card,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,277982,2024-10-14 07:05:58
+12953,721824,4,43952408,94,1,2640,44',0,0,Courtney Petersen (Houston Dash) Yellow Card at 44',Courtney Petersen Yellow Card,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,246596,2024-10-14 07:05:58
+12953,721824,5,43952409,70,1,2700,45'+4',1,0,Alison González (Tigres UANL) Goal at 49',Alison González Goal,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,314322,2024-10-14 07:05:58
+12953,721824,6,43952410,76,2,2700,45',0,0,Andressa (Houston Dash) Substitution at 45',Andressa Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,219828,2024-10-14 07:05:58
+12953,721824,6,43952410,76,2,2700,45',0,0,Andressa (Houston Dash) Substitution at 45',Andressa Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,290278,2024-10-14 07:05:58
+12953,721824,7,43952411,94,2,3960,66',0,0,Diana Ordóñez (Houston Dash) Yellow Card at 66',Diana Ordóñez Yellow Card,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,292832,2024-10-14 07:05:58
+12953,721824,8,43952412,76,2,4080,68',0,0,Sophie Hirst (Houston Dash) Substitution at 68',Sophie Hirst Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,349582,2024-10-14 07:05:58
+12953,721824,8,43952412,76,2,4080,68',0,0,Sophie Hirst (Houston Dash) Substitution at 68',Sophie Hirst Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,174611,2024-10-14 07:05:58
+12953,721824,10,43952414,76,2,4200,70',0,0,Belén Cruz (Tigres UANL) Substitution at 70',Belén Cruz Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,288592,2024-10-14 07:05:58
+12953,721824,9,43952413,76,2,4200,70',0,0,Nayeli Rangel (Tigres UANL) Substitution at 70',Nayeli Rangel Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,158844,2024-10-14 07:05:58
+12953,721824,10,43952414,76,2,4200,70',0,0,Belén Cruz (Tigres UANL) Substitution at 70',Belén Cruz Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,238751,2024-10-14 07:05:58
+12953,721824,9,43952413,76,2,4200,70',0,0,Nayeli Rangel (Tigres UANL) Substitution at 70',Nayeli Rangel Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,314322,2024-10-14 07:05:58
+12953,721824,11,43952415,76,2,4500,75',0,0,Bárbara Olivieri (Houston Dash) Substitution at 75',Bárbara Olivieri Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,308484,2024-10-14 07:05:58
+12953,721824,11,43952415,76,2,4500,75',0,0,Bárbara Olivieri (Houston Dash) Substitution at 75',Bárbara Olivieri Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,252344,2024-10-14 07:05:58
+12953,721824,12,43952416,76,2,4560,76',0,0,Allysha Chapman (Houston Dash) Substitution at 76',Allysha Chapman Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,219771,2024-10-14 07:05:58
+12953,721824,12,43952416,76,2,4560,76',0,0,Allysha Chapman (Houston Dash) Substitution at 76',Allysha Chapman Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,277982,2024-10-14 07:05:58
+12953,721824,13,43952417,70,2,4920,82',1,0,Bárbara Olivieri (Houston Dash) Goal at 82',Bárbara Olivieri Goal,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,308484,2024-10-14 07:05:58
+12953,721824,14,43952418,76,2,5160,86',0,0,Natalia Colin (Tigres UANL) Substitution at 86',Natalia Colin Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,344425,2024-10-14 07:05:58
+12953,721824,15,43952419,76,2,5160,86',0,0,Jimena López (Tigres UANL) Substitution at 86',Jimena López Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,287326,2024-10-14 07:05:58
+12953,721824,15,43952419,76,2,5160,86',0,0,Jimena López (Tigres UANL) Substitution at 86',Jimena López Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,261843,2024-10-14 07:05:58
+12953,721824,14,43952418,76,2,5160,86',0,0,Natalia Colin (Tigres UANL) Substitution at 86',Natalia Colin Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,288594,2024-10-14 07:05:58
+12953,721824,15,43952419,76,2,5160,86',0,0,Jimena López (Tigres UANL) Substitution at 86',Jimena López Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,393145,2024-10-14 07:05:58
+12953,721824,16,43952420,76,2,5340,89',0,0,Amanda West (Houston Dash) Substitution at 89',Amanda West Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,292795,2024-10-14 07:05:58
+12953,721824,16,43952420,76,2,5340,89',0,0,Amanda West (Houston Dash) Substitution at 89',Amanda West Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,292832,2024-10-14 07:05:58
+12953,721824,18,43952422,94,2,5400,90'+5',0,0,Allysha Chapman (Houston Dash) Yellow Card at 95',Allysha Chapman Yellow Card,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,219771,2024-10-14 07:05:58
+12953,721824,17,43952421,94,2,5400,90'+1',0,0,Jimena López (Tigres UANL) Yellow Card at 91',Jimena López Yellow Card,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,287326,2024-10-14 07:05:58
+12953,721824,17,43952421,94,2,5400,90'+1',0,0,Jimena López (Tigres UANL) Yellow Card at 91',Jimena López Yellow Card,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,261843,2024-10-14 07:05:58
+12953,721825,1,43952611,94,1,420,7',0,0,Jermaine Seoposenwe (Monterrey) Yellow Card at 7',Jermaine Seoposenwe Yellow Card,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,176035,2024-10-14 07:05:58
+12953,721825,2,43952612,70,1,2700,45'+3',1,0,Ashley Sanchez (North Carolina Courage) Goal at 48',Ashley Sanchez Goal,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,279297,2024-10-14 07:05:58
+12953,721825,4,43952614,76,2,3600,60',0,0,Ana Martínez (Monterrey) Substitution at 60',Ana Martínez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,320236,2024-10-14 07:05:58
+12953,721825,3,43952613,76,2,3600,60',0,0,Diana Evangelista (Monterrey) Substitution at 60',Diana Evangelista Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,300137,2024-10-14 07:05:58
+12953,721825,3,43952613,76,2,3600,60',0,0,Diana Evangelista (Monterrey) Substitution at 60',Diana Evangelista Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,328242,2024-10-14 07:05:58
+12953,721825,4,43952614,76,2,3600,60',0,0,Ana Martínez (Monterrey) Substitution at 60',Ana Martínez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,176035,2024-10-14 07:05:58
+12953,721825,5,43952615,76,2,3720,62',0,0,Manaka Matsukubo (North Carolina Courage) Substitution at 62',Manaka Matsukubo Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,369002,2024-10-14 07:05:58
+12953,721825,5,43952615,76,2,3720,62',0,0,Manaka Matsukubo (North Carolina Courage) Substitution at 62',Manaka Matsukubo Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,227095,2024-10-14 07:05:58
+12953,721825,7,43952617,76,2,4260,71',0,0,Katty Martínez (Monterrey) Substitution at 71',Katty Martínez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,287339,2024-10-14 07:05:58
+12953,721825,6,43952616,76,2,4260,71',0,0,Nicole Pérez (Monterrey) Substitution at 71',Nicole Pérez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,314323,2024-10-14 07:05:58
+12953,721825,7,43952617,76,2,4260,71',0,0,Katty Martínez (Monterrey) Substitution at 71',Katty Martínez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,364526,2024-10-14 07:05:58
+12953,721825,6,43952616,76,2,4260,71',0,0,Nicole Pérez (Monterrey) Substitution at 71',Nicole Pérez Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,352043,2024-10-14 07:05:58
+12953,721825,10,43952620,76,2,4320,72',0,0,Karol Bernal (Monterrey) Substitution at 72',Karol Bernal Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,1,359255,2024-10-14 07:05:58
+12953,721825,8,43952618,76,2,4320,72',0,0,Meredith Speck (North Carolina Courage) Substitution at 72',Meredith Speck Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,290247,2024-10-14 07:05:58
+12953,721825,9,43952619,76,2,4320,72',0,0,Brianna Pinto (North Carolina Courage) Substitution at 72',Brianna Pinto Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,253820,2024-10-14 07:05:58
+12953,721825,9,43952619,76,2,4320,72',0,0,Brianna Pinto (North Carolina Courage) Substitution at 72',Brianna Pinto Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,279297,2024-10-14 07:05:58
+12953,721825,8,43952618,76,2,4320,72',0,0,Meredith Speck (North Carolina Courage) Substitution at 72',Meredith Speck Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,290243,2024-10-14 07:05:58
+12953,721825,10,43952620,76,2,4320,72',0,0,Karol Bernal (Monterrey) Substitution at 72',Karol Bernal Substitution,21537,0.0,0.0,0.0,0.0,0.0,0.0,2,209165,2024-10-14 07:05:58
+12953,721825,11,43952621,70,2,4920,82',1,0,Haley Hopkins (North Carolina Courage) Goal at 82',Haley Hopkins Goal,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,262418,2024-10-14 07:05:58
+12953,721825,12,43952622,76,2,5160,86',0,0,Landy Mertz (North Carolina Courage) Substitution at 86',Landy Mertz Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,328589,2024-10-14 07:05:58
+12953,721825,13,43952623,76,2,5160,86',0,0,Riley Jackson (North Carolina Courage) Substitution at 86',Riley Jackson Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,344358,2024-10-14 07:05:58
+12953,721825,13,43952623,76,2,5160,86',0,0,Riley Jackson (North Carolina Courage) Substitution at 86',Riley Jackson Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,219065,2024-10-14 07:05:58
+12953,721825,12,43952622,76,2,5160,86',0,0,Landy Mertz (North Carolina Courage) Substitution at 86',Landy Mertz Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,262418,2024-10-14 07:05:58
+12953,721825,14,43952624,70,2,5400,90',1,0,Landy Mertz (North Carolina Courage) Goal at 90',Landy Mertz Goal,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,328589,2024-10-14 07:05:58
+12953,721826,2,43952534,76,2,2700,45',0,0,Paige Metayer (Washington Spirit) Substitution at 45',Paige Metayer Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,360895,2024-10-14 07:05:58
+12953,721826,1,43952533,70,1,2700,45'+3',1,0,Jenna Bike (Chicago Red Stars) Goal at 48',Jenna Bike Goal,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,262820,2025-04-05 08:46:00
+12953,721826,2,43952534,76,2,2700,45',0,0,Paige Metayer (Washington Spirit) Substitution at 45',Paige Metayer Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,279188,2024-10-14 07:05:58
+12953,721826,3,43952535,94,2,3060,51',0,0,Annaïg Butel (Washington Spirit) Yellow Card at 51',Annaïg Butel Yellow Card,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,219935,2024-10-14 07:05:58
+12953,721826,4,43952536,98,2,3300,55',1,0,Andi Sullivan (Washington Spirit) Penalty - Scored at 55',Andi Sullivan Penalty - Scored,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,212209,2024-10-14 07:05:58
+12953,721826,5,43952537,70,2,3600,60',1,0,Jameese Joseph (Chicago Red Stars) Goal at 60',Jameese Joseph Goal,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,292430,2025-04-05 08:46:00
+12953,721826,7,43952539,76,2,3660,61',0,0,Ashley Hatch (Washington Spirit) Substitution at 61',Ashley Hatch Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,210318,2024-10-14 07:05:58
+12953,721826,6,43952538,76,2,3660,61',0,0,Brittany Ratcliffe (Washington Spirit) Substitution at 61',Brittany Ratcliffe Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,211049,2024-10-14 07:05:58
+12953,721826,6,43952538,76,2,3660,61',0,0,Brittany Ratcliffe (Washington Spirit) Substitution at 61',Brittany Ratcliffe Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,307452,2024-10-14 07:05:58
+12953,721826,7,43952539,76,2,3660,61',0,0,Ashley Hatch (Washington Spirit) Substitution at 61',Ashley Hatch Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,360896,2024-10-14 07:05:58
+12953,721826,8,43952540,94,2,3840,64',0,0,Brittany Ratcliffe (Washington Spirit) Yellow Card at 64',Brittany Ratcliffe Yellow Card,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,211049,2024-10-14 07:05:58
+12953,721826,9,43952541,94,2,3840,64',0,0,Jameese Joseph (Chicago Red Stars) Yellow Card at 64',Jameese Joseph Yellow Card,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,292430,2025-04-05 08:46:00
+12953,721826,10,43952542,76,2,4320,72',0,0,Courtney Brown (Washington Spirit) Substitution at 72',Courtney Brown Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,316581,2024-10-14 07:05:58
+12953,721826,10,43952542,76,2,4320,72',0,0,Courtney Brown (Washington Spirit) Substitution at 72',Courtney Brown Substitution,15365,0.0,0.0,0.0,0.0,0.0,0.0,2,212209,2024-10-14 07:05:58
+12953,721826,11,43952543,94,2,4500,75',0,0,Courtney Brown (Washington Spirit) Yellow Card at 75',Courtney Brown Yellow Card,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,316581,2024-10-14 07:05:58
+12953,721826,12,43952544,76,2,4560,76',0,0,Sarah Griffith (Chicago Red Stars) Substitution at 76',Sarah Griffith Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,279249,2025-04-05 08:46:00
+12953,721826,12,43952544,76,2,4560,76',0,0,Sarah Griffith (Chicago Red Stars) Substitution at 76',Sarah Griffith Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,372751,2025-04-05 08:46:00
+12953,721826,13,43952545,94,2,4620,77',0,0,Jenna Bike (Chicago Red Stars) Yellow Card at 77',Jenna Bike Yellow Card,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,262820,2025-04-05 08:46:00
+12953,721826,14,43952546,70,2,4980,83',1,0,Lena Silano (Washington Spirit) Goal at 83',Lena Silano Goal,15365,0.0,0.0,0.0,0.0,0.0,0.0,1,279478,2024-10-14 07:05:58
+12953,721826,15,43952547,76,2,5040,84',0,0,Tatumn Milazzo (Chicago Red Stars) Substitution at 84',Tatumn Milazzo Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,242259,2025-04-05 08:46:00
+12953,721826,16,43952548,76,2,5040,84',0,0,Chardonnay Curran (Chicago Red Stars) Substitution at 84',Chardonnay Curran Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,281296,2025-04-05 08:46:00
+12953,721826,15,43952547,76,2,5040,84',0,0,Tatumn Milazzo (Chicago Red Stars) Substitution at 84',Tatumn Milazzo Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,295584,2025-04-05 08:46:00
+12953,721826,16,43952548,76,2,5040,84',0,0,Chardonnay Curran (Chicago Red Stars) Substitution at 84',Chardonnay Curran Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,262820,2025-04-05 08:46:00
+12953,721826,17,43952549,76,2,5220,87',0,0,Sophie Jones (Chicago Red Stars) Substitution at 87',Sophie Jones Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,292481,2025-04-05 08:46:00
+12953,721826,17,43952549,76,2,5220,87',0,0,Sophie Jones (Chicago Red Stars) Substitution at 87',Sophie Jones Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,295596,2025-04-05 08:46:00
+12953,721826,18,43952550,70,2,5340,89',1,0,Sarah Griffith (Chicago Red Stars) Goal at 89',Sarah Griffith Goal,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,279249,2025-04-05 08:46:00
+12953,721826,19,43952551,94,2,5400,90'+5',0,0,Sophie Jones (Chicago Red Stars) Yellow Card at 95',Sophie Jones Yellow Card,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,292481,2025-04-05 08:46:00
+12953,721826,20,43952552,76,2,5400,90'+7',0,0,Ally Schlegel (Chicago Red Stars) Substitution at 97',Ally Schlegel Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,360894,2025-04-05 08:46:00
+12953,721826,20,43952552,76,2,5400,90'+7',0,0,Ally Schlegel (Chicago Red Stars) Substitution at 97',Ally Schlegel Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,1,282709,2025-04-05 08:46:00
+12953,721826,20,43952552,76,2,5400,90'+7',0,0,Ally Schlegel (Chicago Red Stars) Substitution at 97',Ally Schlegel Substitution,15360,0.0,0.0,0.0,0.0,0.0,0.0,2,292430,2025-04-05 08:46:00
+12953,721827,1,43952263,70,1,180,3',1,0,Aisha Solorzano (Tijuana) Goal at 3',Aisha Solorzano Goal,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,320237,2025-04-05 08:46:00
+12953,721827,2,43952264,94,1,1080,18',0,0,Paige Monaghan (Utah Royals) Yellow Card at 18',Paige Monaghan Yellow Card,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,227520,2024-10-14 07:05:58
+12953,721827,3,43952265,70,1,1200,20',1,0,Paige Monaghan (Utah Royals) Goal at 20',Paige Monaghan Goal,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,227520,2024-10-14 07:05:58
+12953,721827,4,43952266,94,1,1560,26',0,0,Madison Pogarch (Utah Royals) Yellow Card at 26',Madison Pogarch Yellow Card,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,283050,2024-10-14 07:05:58
+12953,721827,5,43952267,70,1,2640,44',1,0,Hannah Betfort (Utah Royals) Goal at 44',Hannah Betfort Goal,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,261813,2024-10-14 07:05:58
+12953,721827,7,43952269,94,1,2700,45'+4',0,0,Ammanda Marroquin (Tijuana) Yellow Card at 49',Ammanda Marroquin Yellow Card,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,393151,2025-04-05 08:46:00
+12953,721827,8,43952270,76,2,2700,45',0,0,Agnes Nyberg (Utah Royals) Substitution at 45',Agnes Nyberg Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,379840,2024-10-14 07:05:58
+12953,721827,6,43952268,70,1,2700,45'+3',1,0,Ally Sentnor (Utah Royals) Goal at 48',Ally Sentnor Goal,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,327195,2024-10-14 07:05:58
+12953,721827,9,43952271,76,2,2700,45',0,0,Inglis Hernández (Tijuana) Substitution at 45',Inglis Hernández Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,393196,2025-04-05 08:46:00
+12953,721827,10,43952272,76,2,2700,45',0,0,Fabiola Villalobos (Tijuana) Substitution at 45',Fabiola Villalobos Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,224355,2025-04-05 08:46:00
+12953,721827,9,43952271,76,2,2700,45',0,0,Inglis Hernández (Tijuana) Substitution at 45',Inglis Hernández Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,287338,2025-04-05 08:46:00
+12953,721827,8,43952270,76,2,2700,45',0,0,Agnes Nyberg (Utah Royals) Substitution at 45',Agnes Nyberg Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,2,264922,2024-10-14 07:05:58
+12953,721827,10,43952272,76,2,2700,45',0,0,Fabiola Villalobos (Tijuana) Substitution at 45',Fabiola Villalobos Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,393187,2025-04-05 08:46:00
+12953,721827,11,43952273,76,2,3180,53',0,0,Daniela Carrandi (Tijuana) Substitution at 53',Daniela Carrandi Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,393198,2025-04-05 08:46:00
+12953,721827,12,43952274,76,2,3180,53',0,0,Marta Cox (Tijuana) Substitution at 53',Marta Cox Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,281625,2025-04-05 08:46:00
+12953,721827,12,43952274,76,2,3180,53',0,0,Marta Cox (Tijuana) Substitution at 53',Marta Cox Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,393151,2025-04-05 08:46:00
+12953,721827,11,43952273,76,2,3180,53',0,0,Daniela Carrandi (Tijuana) Substitution at 53',Daniela Carrandi Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,393191,2025-04-05 08:46:00
+12953,721827,13,43952275,94,2,3480,58',0,0,Marta Cox (Tijuana) Yellow Card at 58',Marta Cox Yellow Card,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,281625,2025-04-05 08:46:00
+12953,721827,15,43952277,76,2,3720,62',0,0,Michele Vasconcelos (Utah Royals) Substitution at 62',Michele Vasconcelos Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,245184,2024-10-14 07:05:58
+12953,721827,14,43952276,76,2,3720,62',0,0,Zoe Burns (Utah Royals) Substitution at 62',Zoe Burns Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,318540,2024-10-14 07:05:58
+12953,721827,15,43952277,76,2,3720,62',0,0,Michele Vasconcelos (Utah Royals) Substitution at 62',Michele Vasconcelos Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,2,227520,2024-10-14 07:05:58
+12953,721827,14,43952276,76,2,3720,62',0,0,Zoe Burns (Utah Royals) Substitution at 62',Zoe Burns Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,2,382917,2024-10-14 07:05:58
+12953,721827,16,43952278,94,2,3780,63',0,0,Karen Díaz (Tijuana) Yellow Card at 63',Karen Díaz Yellow Card,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,287340,2025-04-05 08:46:00
+12953,721827,17,43952279,70,2,3840,64',1,0,Brecken Mozingo (Utah Royals) Goal at 64',Brecken Mozingo Goal,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,293177,2024-10-14 07:05:58
+12953,721827,18,43952280,76,2,4140,69',0,0,Mariana Munguía (Tijuana) Substitution at 69',Mariana Munguía Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,393199,2025-04-05 08:46:00
+12953,721827,18,43952280,76,2,4140,69',0,0,Mariana Munguía (Tijuana) Substitution at 69',Mariana Munguía Substitution,22417,0.0,0.0,0.0,0.0,0.0,0.0,2,393195,2025-04-05 08:46:00
+12953,721827,19,43952281,76,2,4320,72',0,0,Shaelan Murison (Utah Royals) Substitution at 72',Shaelan Murison Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,387753,2024-10-14 07:05:58
+12953,721827,19,43952281,76,2,4320,72',0,0,Shaelan Murison (Utah Royals) Substitution at 72',Shaelan Murison Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,2,261813,2024-10-14 07:05:58
+12953,721827,20,43952282,94,2,4560,76',0,0,Fabiola Villalobos (Tijuana) Yellow Card at 76',Fabiola Villalobos Yellow Card,22417,0.0,0.0,0.0,0.0,0.0,0.0,1,224355,2025-04-05 08:46:00
+12953,721827,21,43952283,94,2,4800,80',0,0,Ana Tejada (Utah Royals) Yellow Card at 80',Ana Tejada Yellow Card,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,335826,2024-10-14 07:05:58
+12953,721827,22,43952284,76,2,4860,81',0,0,Addisyn Merrick (Utah Royals) Substitution at 81',Addisyn Merrick Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,264582,2024-10-14 07:05:58
+12953,721827,22,43952284,76,2,4860,81',0,0,Addisyn Merrick (Utah Royals) Substitution at 81',Addisyn Merrick Substitution,19141,0.0,0.0,0.0,0.0,0.0,0.0,2,283050,2024-10-14 07:05:58
+12953,721827,23,43952285,70,2,5400,90'+5',1,0,Brecken Mozingo (Utah Royals) Goal at 95',Brecken Mozingo Goal,19141,0.0,0.0,0.0,0.0,0.0,0.0,1,293177,2024-10-14 07:05:58
+12953,721828,1,43952252,70,1,2400,40',1,0,Payton Linnehan (Portland Thorns FC) Goal at 40',Payton Linnehan Goal,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,318583,2024-10-14 07:05:58
+12953,721828,3,43952254,76,2,2700,45',0,0,Becky Sauerbrunn (Portland Thorns FC) Substitution at 45',Becky Sauerbrunn Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,158780,2024-10-14 07:05:58
+12953,721828,2,43952253,76,2,2700,45',0,0,Olivia Moultrie (Portland Thorns FC) Substitution at 45',Olivia Moultrie Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,321118,2024-10-14 07:05:58
+12953,721828,2,43952253,76,2,2700,45',0,0,Olivia Moultrie (Portland Thorns FC) Substitution at 45',Olivia Moultrie Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,293006,2024-10-14 07:05:58
+12953,721828,3,43952254,76,2,2700,45',0,0,Becky Sauerbrunn (Portland Thorns FC) Substitution at 45',Becky Sauerbrunn Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,328084,2024-10-14 07:05:58
+12953,721828,4,43952255,76,2,3180,53',0,0,Meghan Klingenberg (Portland Thorns FC) Substitution at 53',Meghan Klingenberg Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,175977,2024-10-14 07:05:58
+12953,721828,4,43952255,76,2,3180,53',0,0,Meghan Klingenberg (Portland Thorns FC) Substitution at 53',Meghan Klingenberg Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,292699,2024-10-14 07:05:58
+12953,721828,5,43952256,76,2,3780,63',0,0,Jess Fishlock (Seattle Reign FC) Substitution at 63',Jess Fishlock Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,259621,2024-10-14 07:05:58
+12953,721828,6,43952257,76,2,3780,63',0,0,Olivia Athens (Seattle Reign FC) Substitution at 63',Olivia Athens Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,279304,2024-10-14 07:05:58
+12953,721828,7,43952258,76,2,3780,63',0,0,Angharad James (Seattle Reign FC) Substitution at 63',Angharad James Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,259307,2024-10-14 07:05:58
+12953,721828,6,43952257,76,2,3780,63',0,0,Olivia Athens (Seattle Reign FC) Substitution at 63',Olivia Athens Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,290242,2024-10-14 07:05:58
+12953,721828,5,43952256,76,2,3780,63',0,0,Jess Fishlock (Seattle Reign FC) Substitution at 63',Jess Fishlock Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,290265,2024-10-14 07:05:58
+12953,721828,7,43952258,76,2,3780,63',0,0,Angharad James (Seattle Reign FC) Substitution at 63',Angharad James Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,386620,2024-10-14 07:05:58
+12953,721828,8,43952259,76,2,4260,71',0,0,Emeri Adames (Seattle Reign FC) Substitution at 71',Emeri Adames Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,351694,2024-10-14 07:05:58
+12953,721828,8,43952259,76,2,4260,71',0,0,Emeri Adames (Seattle Reign FC) Substitution at 71',Emeri Adames Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,242775,2024-10-14 07:05:58
+12953,721828,9,43952260,76,2,4440,74',0,0,Christine Sinclair (Portland Thorns FC) Substitution at 74',Christine Sinclair Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,95135,2024-10-14 07:05:58
+12953,721828,10,43952261,76,2,4440,74',0,0,Marissa Digenova (Portland Thorns FC) Substitution at 74',Marissa Digenova Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,1,292521,2024-10-14 07:05:58
+12953,721828,10,43952261,76,2,4440,74',0,0,Marissa Digenova (Portland Thorns FC) Substitution at 74',Marissa Digenova Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,361596,2024-10-14 07:05:58
+12953,721828,9,43952260,76,2,4440,74',0,0,Christine Sinclair (Portland Thorns FC) Substitution at 74',Christine Sinclair Substitution,15362,0.0,0.0,0.0,0.0,0.0,0.0,2,318583,2024-10-14 07:05:58
+12953,721828,11,43952262,76,2,4980,83',0,0,Maddie Mercado (Seattle Reign FC) Substitution at 83',Maddie Mercado Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,1,292574,2024-10-14 07:05:58
+12953,721828,11,43952262,76,2,4980,83',0,0,Maddie Mercado (Seattle Reign FC) Substitution at 83',Maddie Mercado Substitution,15363,0.0,0.0,0.0,0.0,0.0,0.0,2,211050,2024-10-14 07:05:58
+12953,721830,1,43952439,94,1,1320,22',0,0,Natalia Villarreal (Tigres UANL) Yellow Card at 22',Natalia Villarreal Yellow Card,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,393145,2024-10-14 07:05:58
+12953,721830,2,43952440,70,1,1380,23',1,0,Lo'eau LaBonta (Kansas City Current) Goal at 23',Lo'eau LaBonta Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,212192,2024-10-14 07:05:58
+12953,721830,3,43952441,70,1,1740,29',1,0,Ellie Wheeler (Kansas City Current) Goal at 29',Ellie Wheeler Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,381632,2024-10-14 07:05:58
+12953,721830,3,43952441,70,1,1740,29',1,0,Ellie Wheeler (Kansas City Current) Goal at 29',Ellie Wheeler Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,318579,2024-10-14 07:05:58
+12953,721830,4,43952442,94,1,2220,37',0,0,Ellie Wheeler (Kansas City Current) Yellow Card at 37',Ellie Wheeler Yellow Card,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,381632,2024-10-14 07:05:58
+12953,721830,4,43952442,94,1,2220,37',0,0,Ellie Wheeler (Kansas City Current) Yellow Card at 37',Ellie Wheeler Yellow Card,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,318579,2024-10-14 07:05:58
+12953,721830,5,43952443,94,1,2640,44',0,0,Maricarmen Reyes (Tigres UANL) Yellow Card at 44',Maricarmen Reyes Yellow Card,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,279305,2024-10-14 07:05:58
+12953,721830,6,43952444,76,2,2700,45',0,0,Bayley Feist (Kansas City Current) Substitution at 45',Bayley Feist Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,225383,2024-10-14 07:05:58
+12953,721830,6,43952444,76,2,2700,45',0,0,Bayley Feist (Kansas City Current) Substitution at 45',Bayley Feist Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,290266,2024-10-14 07:05:58
+12953,721830,7,43952445,70,2,3360,56',1,0,Thembi Kgatlana (Tigres UANL) Goal at 56',Thembi Kgatlana Goal,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,238751,2024-10-14 07:05:58
+12953,721830,8,43952446,76,2,3360,56',0,0,Joseline Montoya (Tigres UANL) Substitution at 56',Joseline Montoya Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,320221,2024-10-14 07:05:58
+12953,721830,8,43952446,76,2,3360,56',0,0,Joseline Montoya (Tigres UANL) Substitution at 56',Joseline Montoya Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,238751,2024-10-14 07:05:58
+12953,721830,9,43952447,70,2,3420,57',1,0,Debinha (Kansas City Current) Goal at 57',Debinha Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,239984,2024-10-14 07:05:58
+12953,721830,10,43952448,94,2,4020,67',0,0,Nayeli Rangel (Tigres UANL) Yellow Card at 67',Nayeli Rangel Yellow Card,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,158844,2024-10-14 07:05:58
+12953,721830,11,43952449,76,2,4260,71',0,0,Claire Lavogez (Kansas City Current) Substitution at 71',Claire Lavogez Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,219120,2024-10-14 07:05:58
+12953,721830,12,43952450,76,2,4260,71',0,0,Izzy Rodriguez (Kansas City Current) Substitution at 71',Izzy Rodriguez Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,337181,2024-10-14 07:05:58
+12953,721830,12,43952450,76,2,4260,71',0,0,Izzy Rodriguez (Kansas City Current) Substitution at 71',Izzy Rodriguez Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,277790,2024-10-14 07:05:58
+12953,721830,14,43952452,76,2,4260,71',0,0,Greta Espinoza (Tigres UANL) Substitution at 71',Greta Espinoza Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,219205,2024-10-14 07:05:58
+12953,721830,13,43952451,76,2,4260,71',0,0,Alexa Spaanstra (Kansas City Current) Substitution at 71',Alexa Spaanstra Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,280975,2024-10-14 07:05:58
+12953,721830,12,43952450,76,2,4260,71',0,0,Izzy Rodriguez (Kansas City Current) Substitution at 71',Izzy Rodriguez Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,325236,2024-10-14 07:05:58
+12953,721830,11,43952449,76,2,4260,71',0,0,Claire Lavogez (Kansas City Current) Substitution at 71',Claire Lavogez Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,239984,2024-10-14 07:05:58
+12953,721830,14,43952452,76,2,4260,71',0,0,Greta Espinoza (Tigres UANL) Substitution at 71',Greta Espinoza Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,393145,2024-10-14 07:05:58
+12953,721830,13,43952451,76,2,4260,71',0,0,Alexa Spaanstra (Kansas City Current) Substitution at 71',Alexa Spaanstra Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,290250,2024-10-14 07:05:58
+12953,721830,15,43952453,76,2,4680,78',0,0,Regan Steigleder (Kansas City Current) Substitution at 78',Regan Steigleder Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,262674,2024-10-14 07:05:58
+12953,721830,15,43952453,76,2,4680,78',0,0,Regan Steigleder (Kansas City Current) Substitution at 78',Regan Steigleder Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,243017,2024-10-14 07:05:58
+12953,721830,16,43952454,70,2,4740,79',1,0,Claire Hutton (Kansas City Current) Goal at 79',Claire Hutton Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,344404,2024-10-14 07:05:58
+12953,721830,19,43952457,76,2,5040,84',0,0,Belén Cruz (Tigres UANL) Substitution at 84',Belén Cruz Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,288592,2024-10-14 07:05:58
+12953,721830,17,43952455,76,2,5040,84',0,0,Natalia Colin (Tigres UANL) Substitution at 84',Natalia Colin Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,344425,2024-10-14 07:05:58
+12953,721830,18,43952456,76,2,5040,84',0,0,Itzel González (Tigres UANL) Substitution at 84',Itzel González Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,1,300135,2024-10-14 07:05:58
+12953,721830,18,43952456,76,2,5040,84',0,0,Itzel González (Tigres UANL) Substitution at 84',Itzel González Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,158839,2024-10-14 07:05:58
+12953,721830,19,43952457,76,2,5040,84',0,0,Belén Cruz (Tigres UANL) Substitution at 84',Belén Cruz Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,279305,2024-10-14 07:05:58
+12953,721830,17,43952455,76,2,5040,84',0,0,Natalia Colin (Tigres UANL) Substitution at 84',Natalia Colin Substitution,22413,0.0,0.0,0.0,0.0,0.0,0.0,2,209660,2024-10-14 07:05:58
+12953,721831,1,43952423,70,1,1080,18',1,0,Andressa (Houston Dash) Goal at 18',Andressa Goal,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,219828,2024-10-14 07:05:58
+12953,721831,2,43952424,94,1,1740,29',0,0,Bárbara Olivieri (Houston Dash) Yellow Card at 29',Bárbara Olivieri Yellow Card,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,308484,2024-10-14 07:05:58
+12953,721831,3,43952426,94,2,3600,60',0,0,Paola González (Pachuca) Yellow Card at 60',Paola González Yellow Card,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,393162,2025-04-05 08:46:00
+12953,721831,4,43952427,70,2,3660,61',1,0,Diana Ordóñez (Houston Dash) Goal at 61',Diana Ordóñez Goal,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,292832,2024-10-14 07:05:58
+12953,721831,5,43952428,76,2,3780,63',0,0,Cece Kizer (Houston Dash) Substitution at 63',Cece Kizer Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,290278,2024-10-14 07:05:58
+12953,721831,6,43952429,76,2,3780,63',0,0,Sophie Hirst (Houston Dash) Substitution at 63',Sophie Hirst Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,349582,2024-10-14 07:05:58
+12953,721831,6,43952429,76,2,3780,63',0,0,Sophie Hirst (Houston Dash) Substitution at 63',Sophie Hirst Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,337604,2024-10-14 07:05:58
+12953,721831,6,43952429,76,2,3780,63',0,0,Sophie Hirst (Houston Dash) Substitution at 63',Sophie Hirst Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,261573,2024-10-14 07:05:58
+12953,721831,5,43952428,76,2,3780,63',0,0,Cece Kizer (Houston Dash) Substitution at 63',Cece Kizer Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,292795,2024-10-14 07:05:58
+12953,721831,7,43952430,76,2,4260,71',0,0,Yuki Nagasato (Houston Dash) Substitution at 71',Yuki Nagasato Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,174611,2024-10-14 07:05:58
+12953,721831,10,43952433,76,2,4260,71',0,0,Julia Valadez (Pachuca) Substitution at 71',Julia Valadez Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,393159,2025-04-05 08:46:00
+12953,721831,8,43952431,76,2,4260,71',0,0,Sarah Puntigam (Houston Dash) Substitution at 71',Sarah Puntigam Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,252344,2024-10-14 07:05:58
+12953,721831,9,43952432,76,2,4260,71',0,0,Nayeli Díaz (Pachuca) Substitution at 71',Nayeli Díaz Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,320220,2025-04-05 08:46:00
+12953,721831,7,43952430,76,2,4260,71',0,0,Yuki Nagasato (Houston Dash) Substitution at 71',Yuki Nagasato Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,308484,2024-10-14 07:05:58
+12953,721831,8,43952431,76,2,4260,71',0,0,Sarah Puntigam (Houston Dash) Substitution at 71',Sarah Puntigam Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,95131,2024-10-14 07:05:58
+12953,721831,10,43952433,76,2,4260,71',0,0,Julia Valadez (Pachuca) Substitution at 71',Julia Valadez Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,209528,2025-04-05 08:46:00
+12953,721831,9,43952432,76,2,4260,71',0,0,Nayeli Díaz (Pachuca) Substitution at 71',Nayeli Díaz Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,158845,2025-04-05 08:46:00
+12953,721831,11,43952434,76,2,4380,73',0,0,Ella Sanchez (Pachuca) Substitution at 73',Ella Sanchez Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,351691,2025-04-05 08:46:00
+12953,721831,11,43952434,76,2,4380,73',0,0,Ella Sanchez (Pachuca) Substitution at 73',Ella Sanchez Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,258848,2025-04-05 08:46:00
+12953,721831,12,43952435,94,2,4920,82',0,0,Fabiola Ibarra (Pachuca) Yellow Card at 82',Fabiola Ibarra Yellow Card,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,219204,2025-04-05 08:46:00
+12953,721831,14,43952437,76,2,5040,84',0,0,Berenice Ibarra (Pachuca) Substitution at 84',Berenice Ibarra Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,386657,2025-04-05 08:46:00
+12953,721831,13,43952436,76,2,5040,84',0,0,Nailea Vidrio (Pachuca) Substitution at 84',Nailea Vidrio Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,1,393163,2025-04-05 08:46:00
+12953,721831,15,43952438,76,2,5040,84',0,0,Madison Ayson (Houston Dash) Substitution at 84',Madison Ayson Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,1,326351,2024-10-14 07:05:58
+12953,721831,13,43952436,76,2,5040,84',0,0,Nailea Vidrio (Pachuca) Substitution at 84',Nailea Vidrio Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,344414,2025-04-05 08:46:00
+12953,721831,14,43952437,76,2,5040,84',0,0,Berenice Ibarra (Pachuca) Substitution at 84',Berenice Ibarra Substitution,22414,0.0,0.0,0.0,0.0,0.0,0.0,2,219204,2025-04-05 08:46:00
+12953,721831,15,43952438,76,2,5040,84',0,0,Madison Ayson (Houston Dash) Substitution at 84',Madison Ayson Substitution,17346,0.0,0.0,0.0,0.0,0.0,0.0,2,246596,2024-10-14 07:05:58
+12953,721832,2,43952339,76,2,3660,61',0,0,Melanie Barcenas (San Diego Wave FC) Substitution at 61',Melanie Barcenas Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,360902,2024-10-14 07:05:58
+12953,721832,3,43952340,76,2,3660,61',0,0,Elyse Bennett (San Diego Wave FC) Substitution at 61',Elyse Bennett Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,261922,2024-10-14 07:05:58
+12953,721832,1,43952338,76,2,3660,61',0,0,Amirah Ali (San Diego Wave FC) Substitution at 61',Amirah Ali Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,261626,2024-10-14 07:05:58
+12953,721832,3,43952340,76,2,3660,61',0,0,Elyse Bennett (San Diego Wave FC) Substitution at 61',Elyse Bennett Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,158770,2024-10-14 07:05:58
+12953,721832,1,43952338,76,2,3660,61',0,0,Amirah Ali (San Diego Wave FC) Substitution at 61',Amirah Ali Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,255838,2024-10-14 07:05:58
+12953,721832,1,43952338,76,2,3660,61',0,0,Amirah Ali (San Diego Wave FC) Substitution at 61',Amirah Ali Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,158774,2024-10-14 07:05:58
+12953,721832,2,43952339,76,2,3660,61',0,0,Melanie Barcenas (San Diego Wave FC) Substitution at 61',Melanie Barcenas Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,211037,2024-10-14 07:05:58
+12953,721832,4,43952341,76,2,3960,66',0,0,Sierra Enge (San Diego Wave FC) Substitution at 66',Sierra Enge Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,283723,2024-10-14 07:05:58
+12953,721832,4,43952341,76,2,3960,66',0,0,Sierra Enge (San Diego Wave FC) Substitution at 66',Sierra Enge Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,248779,2024-10-14 07:05:58
+12953,721832,5,43952342,76,2,4440,74',0,0,Rocky Rodríguez (Angel City FC) Substitution at 74',Rocky Rodríguez Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,168043,2024-10-14 07:05:58
+12953,721832,6,43952343,76,2,4440,74',0,0,Katie Johnson (Angel City FC) Substitution at 74',Katie Johnson Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,245173,2024-10-14 07:05:58
+12953,721832,6,43952343,76,2,4440,74',0,0,Katie Johnson (Angel City FC) Substitution at 74',Katie Johnson Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,279452,2024-10-14 07:05:58
+12953,721832,5,43952342,76,2,4440,74',0,0,Rocky Rodríguez (Angel City FC) Substitution at 74',Rocky Rodríguez Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,208911,2024-10-14 07:05:58
+12953,721832,7,43952344,94,2,4620,77',0,0,Madison Curry (Angel City FC) Yellow Card at 77',Madison Curry Yellow Card,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,381979,2024-10-14 07:05:58
+12953,721832,8,43952345,76,2,5160,86',0,0,Mya Jones (San Diego Wave FC) Substitution at 86',Mya Jones Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,380042,2024-10-14 07:05:58
+12953,721832,8,43952345,76,2,5160,86',0,0,Mya Jones (San Diego Wave FC) Substitution at 86',Mya Jones Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,1,293284,2024-10-14 07:05:58
+12953,721832,8,43952345,76,2,5160,86',0,0,Mya Jones (San Diego Wave FC) Substitution at 86',Mya Jones Substitution,21423,0.0,0.0,0.0,0.0,0.0,0.0,2,148404,2024-10-14 07:05:58
+12953,721832,9,43952346,76,2,5340,89',0,0,Christen Press (Angel City FC) Substitution at 89',Christen Press Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,175978,2024-10-14 07:05:58
+12953,721832,9,43952346,76,2,5340,89',0,0,Christen Press (Angel City FC) Substitution at 89',Christen Press Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,245173,2024-10-14 07:05:58
+12953,721832,10,43952347,76,2,5400,90'+6',0,0,Lily Nabet (Angel City FC) Substitution at 96',Lily Nabet Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,263897,2024-10-14 07:05:58
+12953,721832,10,43952347,76,2,5400,90'+6',0,0,Lily Nabet (Angel City FC) Substitution at 96',Lily Nabet Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,290454,2024-10-14 07:05:58
+12953,721833,1,43952553,94,1,1500,25',0,0,Kristen Edmonds (NJ/NY Gotham FC) Yellow Card at 25',Kristen Edmonds Yellow Card,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,249628,2025-04-05 08:46:00
+12953,721833,2,43952554,70,1,1860,31',1,0,Katie Stengel (NJ/NY Gotham FC) Goal at 31',Katie Stengel Goal,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,290269,2025-04-05 08:46:00
+12953,721833,3,43952555,94,1,1920,32',0,0,Ella Stevens (NJ/NY Gotham FC) Yellow Card at 32',Ella Stevens Yellow Card,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,242965,2025-04-05 08:46:00
+12953,721833,5,43952557,76,2,3540,59',0,0,Kinberly Guzmán (Guadalajara) Substitution at 59',Kinberly Guzmán Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,349499,2025-04-05 08:46:00
+12953,721833,6,43952558,76,2,3540,59',0,0,Adriana Iturbide (Guadalajara) Substitution at 59',Adriana Iturbide Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,287337,2025-04-05 08:46:00
+12953,721833,4,43952556,76,2,3540,59',0,0,Yamile Franco (Guadalajara) Substitution at 59',Yamile Franco Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,259181,2025-04-05 08:46:00
+12953,721833,6,43952558,76,2,3540,59',0,0,Adriana Iturbide (Guadalajara) Substitution at 59',Adriana Iturbide Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,328243,2025-04-05 08:46:00
+12953,721833,4,43952556,76,2,3540,59',0,0,Yamile Franco (Guadalajara) Substitution at 59',Yamile Franco Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,372798,2025-04-05 08:46:00
+12953,721833,5,43952557,76,2,3540,59',0,0,Kinberly Guzmán (Guadalajara) Substitution at 59',Kinberly Guzmán Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,379014,2025-04-05 08:46:00
+12953,721833,7,43952559,76,2,3660,61',0,0,Jessica Carter (NJ/NY Gotham FC) Substitution at 61',Jessica Carter Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,255453,2025-04-05 08:46:00
+12953,721833,8,43952560,76,2,3660,61',0,0,Delanie Sheehan (NJ/NY Gotham FC) Substitution at 61',Delanie Sheehan Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,279307,2025-04-05 08:46:00
+12953,721833,7,43952559,76,2,3660,61',0,0,Jessica Carter (NJ/NY Gotham FC) Substitution at 61',Jessica Carter Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,249628,2025-04-05 08:46:00
+12953,721833,8,43952560,76,2,3660,61',0,0,Delanie Sheehan (NJ/NY Gotham FC) Substitution at 61',Delanie Sheehan Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,267389,2025-04-05 08:46:00
+12953,721833,9,43952561,70,2,3780,63',1,0,Ella Stevens (NJ/NY Gotham FC) Goal at 63',Ella Stevens Goal,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,242965,2025-04-05 08:46:00
+12953,721833,10,43952562,70,2,4260,71',1,0,Katie Stengel (NJ/NY Gotham FC) Goal at 71',Katie Stengel Goal,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,290269,2025-04-05 08:46:00
+12953,721833,11,43952563,76,2,4440,74',0,0,Dana Sandoval (Guadalajara) Substitution at 74',Dana Sandoval Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,386661,2025-04-05 08:46:00
+12953,721833,12,43952564,76,2,4440,74',0,0,Victoria Acevedo (Guadalajara) Substitution at 74',Victoria Acevedo Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,1,393182,2025-04-05 08:46:00
+12953,721833,11,43952563,76,2,4440,74',0,0,Dana Sandoval (Guadalajara) Substitution at 74',Dana Sandoval Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,272316,2025-04-05 08:46:00
+12953,721833,12,43952564,76,2,4440,74',0,0,Victoria Acevedo (Guadalajara) Substitution at 74',Victoria Acevedo Substitution,22416,0.0,0.0,0.0,0.0,0.0,0.0,2,393143,2025-04-05 08:46:00
+12953,721833,14,43952566,76,2,4620,77',0,0,Taryn Torres (NJ/NY Gotham FC) Substitution at 77',Taryn Torres Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,280976,2025-04-05 08:46:00
+12953,721833,13,43952565,76,2,4620,77',0,0,Sabrina Flores (NJ/NY Gotham FC) Substitution at 77',Sabrina Flores Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,214150,2025-04-05 08:46:00
+12953,721833,14,43952566,76,2,4620,77',0,0,Taryn Torres (NJ/NY Gotham FC) Substitution at 77',Taryn Torres Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,263902,2025-04-05 08:46:00
+12953,721833,13,43952565,76,2,4620,77',0,0,Sabrina Flores (NJ/NY Gotham FC) Substitution at 77',Sabrina Flores Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,242965,2025-04-05 08:46:00
+12953,721833,15,43952567,76,2,4800,80',0,0,Mckenna Whitham (NJ/NY Gotham FC) Substitution at 80',Mckenna Whitham Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,388168,2025-04-05 08:46:00
+12953,721833,15,43952567,76,2,4800,80',0,0,Mckenna Whitham (NJ/NY Gotham FC) Substitution at 80',Mckenna Whitham Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,328199,2025-04-05 08:46:00
+12953,721834,1,43952348,70,1,420,7',1,0,Maddie Moreau (Bay FC) Goal at 7',Maddie Moreau Goal,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,382426,2024-10-14 07:05:58
+12953,721834,1,43952348,70,1,420,7',1,0,Maddie Moreau (Bay FC) Goal at 7',Maddie Moreau Goal,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,293531,2024-10-14 07:05:58
+12953,721834,2,43952349,70,1,1740,29',1,0,Scarlett Camberos (América) Goal at 29',Scarlett Camberos Goal,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,292838,2024-10-14 07:05:58
+12953,721834,4,43952351,76,2,2700,45',0,0,Jordan Brewster (Bay FC) Substitution at 45',Jordan Brewster Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,278289,2024-10-14 07:05:58
+12953,721834,3,43952350,76,2,2700,45',0,0,Joelle Anderson (Bay FC) Substitution at 45',Joelle Anderson Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,261840,2024-10-14 07:05:58
+12953,721834,3,43952350,76,2,2700,45',0,0,Joelle Anderson (Bay FC) Substitution at 45',Joelle Anderson Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,2,263894,2024-10-14 07:05:58
+12953,721834,4,43952351,76,2,2700,45',0,0,Jordan Brewster (Bay FC) Substitution at 45',Jordan Brewster Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,2,249631,2024-10-14 07:05:58
+12953,721834,5,43952352,70,2,3180,53',1,0,Dorian Bailey (Bay FC) Goal at 53',Dorian Bailey Goal,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,230901,2024-10-14 07:05:58
+12953,721834,7,43952354,76,2,3600,60',0,0,Miah Zuazua (América) Substitution at 60',Miah Zuazua Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,263878,2024-10-14 07:05:58
+12953,721834,6,43952353,76,2,3600,60',0,0,Princess Marfo (Bay FC) Substitution at 60',Princess Marfo Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,379823,2024-10-14 07:05:58
+12953,721834,6,43952353,76,2,3600,60',0,0,Princess Marfo (Bay FC) Substitution at 60',Princess Marfo Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,2,242145,2024-10-14 07:05:58
+12953,721834,7,43952354,76,2,3600,60',0,0,Miah Zuazua (América) Substitution at 60',Miah Zuazua Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,351882,2024-10-14 07:05:58
+12953,721834,8,43952355,76,2,3840,64',0,0,Nancy Antonio (América) Substitution at 64',Nancy Antonio Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,259182,2024-10-14 07:05:58
+12953,721834,9,43952356,76,2,3840,64',0,0,Natalia Mauleón (América) Substitution at 64',Natalia Mauleón Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,1,351881,2024-10-14 07:05:58
+12953,721834,8,43952355,76,2,3840,64',0,0,Nancy Antonio (América) Substitution at 64',Nancy Antonio Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,393142,2024-10-14 07:05:58
+12953,721834,9,43952356,76,2,3840,64',0,0,Natalia Mauleón (América) Substitution at 64',Natalia Mauleón Substitution,22415,0.0,0.0,0.0,0.0,0.0,0.0,2,242075,2024-10-14 07:05:58
+12953,721834,10,43952357,76,2,4140,69',0,0,Savy King (Bay FC) Substitution at 69',Savy King Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,370495,2024-10-14 07:05:58
+12953,721834,10,43952357,76,2,4140,69',0,0,Savy King (Bay FC) Substitution at 69',Savy King Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,1,344363,2024-10-14 07:05:58
+12953,721834,10,43952357,76,2,4140,69',0,0,Savy King (Bay FC) Substitution at 69',Savy King Substitution,22187,0.0,0.0,0.0,0.0,0.0,0.0,2,290254,2024-10-14 07:05:58
+12954,721835,3,43952526,76,2,2700,45',0,0,McCall Zerboni (NJ/NY Gotham FC) Substitution at 45',McCall Zerboni Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,267389,2025-04-05 08:46:00
+12954,721835,2,43952525,94,1,2700,45'+2',0,0,Alyssa Thompson (Angel City FC) Yellow Card at 47',Alyssa Thompson Yellow Card,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,351658,2024-10-14 07:05:58
+12954,721835,1,43952524,94,1,2700,45'+1',0,0,Bruninha (NJ/NY Gotham FC) Yellow Card at 46',Bruninha Yellow Card,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,328199,2025-04-05 08:46:00
+12954,721835,3,43952526,76,2,2700,45',0,0,McCall Zerboni (NJ/NY Gotham FC) Substitution at 45',McCall Zerboni Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,280976,2025-04-05 08:46:00
+12954,721835,4,43952527,70,2,2880,48',1,0,Delanie Sheehan (NJ/NY Gotham FC) Goal at 48',Delanie Sheehan Goal,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,279307,2025-04-05 08:46:00
+12954,721835,6,43952529,76,2,4140,69',0,0,M.A. Vignola (Angel City FC) Substitution at 69',M.A. Vignola Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,242457,2024-10-14 07:05:58
+12954,721835,5,43952528,76,2,4140,69',0,0,Rocky Rodríguez (Angel City FC) Substitution at 69',Rocky Rodríguez Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,168043,2024-10-14 07:05:58
+12954,721835,6,43952529,76,2,4140,69',0,0,M.A. Vignola (Angel City FC) Substitution at 69',M.A. Vignola Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,290454,2024-10-14 07:05:58
+12954,721835,5,43952528,76,2,4140,69',0,0,Rocky Rodríguez (Angel City FC) Substitution at 69',Rocky Rodríguez Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,279452,2024-10-14 07:05:58
+12954,721835,7,43952530,76,2,4200,70',0,0,Kristen Edmonds (NJ/NY Gotham FC) Substitution at 70',Kristen Edmonds Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,249628,2025-04-05 08:46:00
+12954,721835,7,43952530,76,2,4200,70',0,0,Kristen Edmonds (NJ/NY Gotham FC) Substitution at 70',Kristen Edmonds Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,328199,2025-04-05 08:46:00
+12954,721835,8,43952531,76,2,4800,80',0,0,Christen Press (Angel City FC) Substitution at 80',Christen Press Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,1,175978,2024-10-14 07:05:58
+12954,721835,8,43952531,76,2,4800,80',0,0,Christen Press (Angel City FC) Substitution at 80',Christen Press Substitution,21422,0.0,0.0,0.0,0.0,0.0,0.0,2,208911,2024-10-14 07:05:58
+12954,721835,9,43952532,76,2,5340,89',0,0,Sabrina Flores (NJ/NY Gotham FC) Substitution at 89',Sabrina Flores Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,214150,2025-04-05 08:46:00
+12954,721835,9,43952532,76,2,5340,89',0,0,Sabrina Flores (NJ/NY Gotham FC) Substitution at 89',Sabrina Flores Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,296893,2025-04-05 08:46:00
+12954,721836,1,43952514,70,1,120,2',1,0,Temwa Chawinga (Kansas City Current) Goal at 2',Temwa Chawinga Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,379824,2024-10-14 07:05:58
+12954,721836,2,43952515,76,2,3840,64',0,0,Meredith Speck (North Carolina Courage) Substitution at 64',Meredith Speck Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,290247,2024-10-14 07:05:58
+12954,721836,2,43952515,76,2,3840,64',0,0,Meredith Speck (North Carolina Courage) Substitution at 64',Meredith Speck Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,290243,2024-10-14 07:05:58
+12954,721836,3,43952516,76,2,4620,77',0,0,Brianna Pinto (North Carolina Courage) Substitution at 77',Brianna Pinto Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,253820,2024-10-14 07:05:58
+12954,721836,4,43952517,76,2,4620,77',0,0,Riley Jackson (North Carolina Courage) Substitution at 77',Riley Jackson Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,344358,2024-10-14 07:05:58
+12954,721836,4,43952517,76,2,4620,77',0,0,Riley Jackson (North Carolina Courage) Substitution at 77',Riley Jackson Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,279297,2024-10-14 07:05:58
+12954,721836,3,43952516,76,2,4620,77',0,0,Brianna Pinto (North Carolina Courage) Substitution at 77',Brianna Pinto Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,262418,2024-10-14 07:05:58
+12954,721836,5,43952518,70,2,4680,78',1,0,Debinha (Kansas City Current) Goal at 78',Debinha Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,239984,2024-10-14 07:05:58
+12954,721836,8,43952521,76,2,4920,82',0,0,Bayley Feist (Kansas City Current) Substitution at 82',Bayley Feist Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,225383,2024-10-14 07:05:58
+12954,721836,6,43952519,76,2,4920,82',0,0,Kristen Hamilton (Kansas City Current) Substitution at 82',Kristen Hamilton Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,290250,2024-10-14 07:05:58
+12954,721836,7,43952520,76,2,4920,82',0,0,Alexa Spaanstra (Kansas City Current) Substitution at 82',Alexa Spaanstra Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,280975,2024-10-14 07:05:58
+12954,721836,6,43952519,76,2,4920,82',0,0,Kristen Hamilton (Kansas City Current) Substitution at 82',Kristen Hamilton Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,379824,2024-10-14 07:05:58
+12954,721836,7,43952520,76,2,4920,82',0,0,Alexa Spaanstra (Kansas City Current) Substitution at 82',Alexa Spaanstra Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,239984,2024-10-14 07:05:58
+12954,721836,8,43952521,76,2,4920,82',0,0,Bayley Feist (Kansas City Current) Substitution at 82',Bayley Feist Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,290266,2024-10-14 07:05:58
+12954,721836,9,43952522,76,2,5400,90'+1',0,0,Charlotte Mclean (North Carolina Courage) Substitution at 91',Charlotte Mclean Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,1,312217,2024-10-14 07:05:58
+12954,721836,10,43952523,76,2,5400,90'+1',0,0,Regan Steigleder (Kansas City Current) Substitution at 91',Regan Steigleder Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,262674,2024-10-14 07:05:58
+12954,721836,9,43952522,76,2,5400,90'+1',0,0,Charlotte Mclean (North Carolina Courage) Substitution at 91',Charlotte Mclean Substitution,15366,0.0,0.0,0.0,0.0,0.0,0.0,2,230877,2024-10-14 07:05:58
+12954,721836,10,43952523,76,2,5400,90'+1',0,0,Regan Steigleder (Kansas City Current) Substitution at 91',Regan Steigleder Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,325236,2024-10-14 07:05:58
+12955,721837,1,44061430,70,1,1440,24',1,0,Temwa Chawinga (Kansas City Current) Goal at 24',Temwa Chawinga Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,379824,2024-10-26 13:53:13
+12955,721837,2,44061464,94,1,1680,28',0,0,Bruninha (NJ/NY Gotham FC) Yellow Card at 28',Bruninha Yellow Card,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,328199,2025-04-05 08:46:00
+12955,721837,3,44061559,70,1,2220,37',1,0,Temwa Chawinga (Kansas City Current) Goal at 37',Temwa Chawinga Goal,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,379824,2024-10-26 13:53:13
+12955,721837,4,44061636,94,1,2580,43',0,0,Michelle Cooper (Kansas City Current) Yellow Card at 43',Michelle Cooper Yellow Card,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,325236,2024-10-26 13:53:13
+12955,721837,5,44061894,76,2,2700,45',0,0,Elizabeth Ball (Kansas City Current) Substitution at 45',Elizabeth Ball Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,214254,2024-10-26 13:53:13
+12955,721837,5,44061894,76,2,2700,45',0,0,Elizabeth Ball (Kansas City Current) Substitution at 45',Elizabeth Ball Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,379824,2024-10-26 13:53:13
+12955,721837,6,44061924,94,2,2880,48',0,0,Ella Stevens (NJ/NY Gotham FC) Yellow Card at 48',Ella Stevens Yellow Card,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,242965,2025-04-05 08:46:00
+12955,721837,7,44062090,76,2,3960,66',0,0,Cheyna Matthews (NJ/NY Gotham FC) Substitution at 66',Cheyna Matthews Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,286464,2025-04-05 08:46:00
+12955,721837,8,44062091,76,2,3960,66',0,0,Mckenna Whitham (NJ/NY Gotham FC) Substitution at 66',Mckenna Whitham Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,388168,2025-04-05 08:46:00
+12955,721837,8,44062091,76,2,3960,66',0,0,Mckenna Whitham (NJ/NY Gotham FC) Substitution at 66',Mckenna Whitham Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,267389,2025-04-05 08:46:00
+12955,721837,7,44062090,76,2,3960,66',0,0,Cheyna Matthews (NJ/NY Gotham FC) Substitution at 66',Cheyna Matthews Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,245160,2025-04-05 08:46:00
+12955,721837,10,44062214,76,2,4920,82',0,0,Desiree Scott (Kansas City Current) Substitution at 82',Desiree Scott Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,158723,2024-10-26 13:53:13
+12955,721837,11,44062237,94,2,4920,82',0,0,Elizabeth Ball (Kansas City Current) Yellow Card at 82',Elizabeth Ball Yellow Card,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,214254,2024-10-26 13:53:13
+12955,721837,9,44062213,76,2,4920,82',0,0,Mwanalima Jereko (Kansas City Current) Substitution at 82',Mwanalima Jereko Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,390133,2024-10-26 13:53:13
+12955,721837,10,44062214,76,2,4920,82',0,0,Desiree Scott (Kansas City Current) Substitution at 82',Desiree Scott Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,344404,2024-10-26 13:53:13
+12955,721837,9,44062213,76,2,4920,82',0,0,Mwanalima Jereko (Kansas City Current) Substitution at 82',Mwanalima Jereko Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,325236,2024-10-26 13:53:13
+12955,721837,14,44062315,76,2,5400,90',0,0,Nicole Baxter (NJ/NY Gotham FC) Substitution at 90',Nicole Baxter Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,230931,2025-04-05 08:46:00
+12955,721837,12,44062313,76,2,5400,90',0,0,Regan Steigleder (Kansas City Current) Substitution at 90',Regan Steigleder Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,262674,2024-10-26 13:53:13
+12955,721837,15,44062325,76,2,5400,90',0,0,Bayley Feist (Kansas City Current) Substitution at 90',Bayley Feist Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,1,225383,2024-10-26 13:53:13
+12955,721837,13,44062314,76,2,5400,90',0,0,Abby Smith (NJ/NY Gotham FC) Substitution at 90',Abby Smith Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,1,211130,2025-04-05 08:46:00
+12955,721837,12,44062313,76,2,5400,90',0,0,Regan Steigleder (Kansas City Current) Substitution at 90',Regan Steigleder Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,239984,2024-10-26 13:53:13
+12955,721837,15,44062325,76,2,5400,90',0,0,Bayley Feist (Kansas City Current) Substitution at 90',Bayley Feist Substitution,20907,0.0,0.0,0.0,0.0,0.0,0.0,2,290266,2024-10-26 13:53:13
+12955,721837,13,44062314,76,2,5400,90',0,0,Abby Smith (NJ/NY Gotham FC) Substitution at 90',Abby Smith Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,211609,2025-04-05 08:46:00
+12955,721837,14,44062315,76,2,5400,90',0,0,Nicole Baxter (NJ/NY Gotham FC) Substitution at 90',Nicole Baxter Substitution,15364,0.0,0.0,0.0,0.0,0.0,0.0,2,290452,2025-04-05 08:46:00

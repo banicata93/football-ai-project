@@ -1,0 +1,471 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13701,759215,1,46227972,70,1,480,8',1,0,Magnus Watson (Banks O'Dee) Goal at 8',Magnus Watson Goal,9980,0.0,0.0,0.0,0.0,0.0,0.0,1,329385,2025-10-26 05:23:07
+13701,759215,2,46228066,94,1,660,11',0,0,Liam Duell (Banks O'Dee) Yellow Card at 11',Liam Duell Yellow Card,9980,0.0,0.0,0.0,0.0,0.0,0.0,1,321351,2025-10-26 05:23:07
+13701,759215,3,46228393,76,1,1200,20',0,0,Joe Barbour (Fraserburgh) Substitution at 20',Joe Barbour Substitution,7170,0.0,0.0,0.0,0.0,0.0,0.0,1,167994,2025-10-26 05:23:07
+13701,759215,3,46228393,76,1,1200,20',0,0,Joe Barbour (Fraserburgh) Substitution at 20',Joe Barbour Substitution,7170,0.0,0.0,0.0,0.0,0.0,0.0,2,228827,2025-10-26 05:23:07
+13701,759215,4,46228500,70,1,1380,23',1,0,Mark Gilmour (Banks O'Dee) Goal at 23',Mark Gilmour Goal,9980,0.0,0.0,0.0,0.0,0.0,0.0,1,139820,2025-10-26 05:23:07
+13701,759215,5,46228949,94,1,1980,33',0,0,Jamie Beagrie (Fraserburgh) Yellow Card at 33',Jamie Beagrie Yellow Card,7170,0.0,0.0,0.0,0.0,0.0,0.0,1,228940,2025-10-26 05:23:07
+13701,759215,6,46229179,94,1,2280,38',0,0,Kain Winton (Banks O'Dee) Yellow Card at 38',Kain Winton Yellow Card,9980,0.0,0.0,0.0,0.0,0.0,0.0,1,228754,2025-10-26 05:23:07
+13701,759215,7,46229420,70,1,2640,44',1,0,Sam Pugh (Banks O'Dee) Goal at 44',Sam Pugh Goal,9980,0.0,0.0,0.0,0.0,0.0,0.0,1,231512,2025-10-26 05:23:07
+13701,759215,8,46229482,70,1,2700,45',1,0,Mark Gilmour (Banks O'Dee) Goal at 45',Mark Gilmour Goal,9980,0.0,0.0,0.0,0.0,0.0,0.0,1,139820,2025-10-26 05:23:07
+13701,759215,9,46230052,76,2,2820,47',0,0,Lewis Duncan (Fraserburgh) Substitution at 47',Lewis Duncan Substitution,7170,0.0,0.0,0.0,0.0,0.0,0.0,1,277591,2025-10-26 05:23:07
+13701,759215,10,46230053,76,2,2820,47',0,0,Sean Butcher (Fraserburgh) Substitution at 47',Sean Butcher Substitution,7170,0.0,0.0,0.0,0.0,0.0,0.0,1,276903,2025-10-26 05:23:07
+13701,759215,9,46230052,76,2,2820,47',0,0,Lewis Duncan (Fraserburgh) Substitution at 47',Lewis Duncan Substitution,7170,0.0,0.0,0.0,0.0,0.0,0.0,2,410060,2025-10-26 05:23:07
+13701,759215,10,46230053,76,2,2820,47',0,0,Sean Butcher (Fraserburgh) Substitution at 47',Sean Butcher Substitution,7170,0.0,0.0,0.0,0.0,0.0,0.0,2,291526,2025-10-26 05:23:07
+13701,759215,11,46230874,76,2,4020,67',0,0,Lachie Macleod (Banks O'Dee) Substitution at 67',Lachie Macleod Substitution,9980,0.0,0.0,0.0,0.0,0.0,0.0,1,249182,2025-10-26 05:23:07
+13701,759215,11,46230874,76,2,4020,67',0,0,Lachie Macleod (Banks O'Dee) Substitution at 67',Lachie Macleod Substitution,9980,0.0,0.0,0.0,0.0,0.0,0.0,2,321351,2025-10-26 05:23:07
+13701,759215,12,46231067,76,2,4260,71',0,0,Max Alexander (Banks O'Dee) Substitution at 71',Max Alexander Substitution,9980,0.0,0.0,0.0,0.0,0.0,0.0,1,212708,2025-10-26 05:23:07
+13701,759215,12,46231067,76,2,4260,71',0,0,Max Alexander (Banks O'Dee) Substitution at 71',Max Alexander Substitution,9980,0.0,0.0,0.0,0.0,0.0,0.0,2,228754,2025-10-26 05:23:07
+13701,759215,13,46231297,76,2,4560,76',0,0,Liam Strachan (Fraserburgh) Substitution at 76',Liam Strachan Substitution,7170,0.0,0.0,0.0,0.0,0.0,0.0,1,229543,2025-10-26 05:23:07
+13701,759215,13,46231297,76,2,4560,76',0,0,Liam Strachan (Fraserburgh) Substitution at 76',Liam Strachan Substitution,7170,0.0,0.0,0.0,0.0,0.0,0.0,2,167993,2025-10-26 05:23:07
+13701,759215,14,46231437,76,2,4740,79',0,0,Alex Balfour (Banks O'Dee) Substitution at 79',Alex Balfour Substitution,9980,0.0,0.0,0.0,0.0,0.0,0.0,1,381069,2025-10-26 05:23:07
+13701,759215,14,46231437,76,2,4740,79',0,0,Alex Balfour (Banks O'Dee) Substitution at 79',Alex Balfour Substitution,9980,0.0,0.0,0.0,0.0,0.0,0.0,2,329385,2025-10-26 05:23:07
+13701,759215,15,46231753,76,2,5040,84',0,0,Dylan Robertson (Fraserburgh) Substitution at 84',Dylan Robertson Substitution,7170,0.0,0.0,0.0,0.0,0.0,0.0,1,392319,2025-10-26 05:23:07
+13701,759215,15,46231753,76,2,5040,84',0,0,Dylan Robertson (Fraserburgh) Substitution at 84',Dylan Robertson Substitution,7170,0.0,0.0,0.0,0.0,0.0,0.0,2,228940,2025-10-26 05:23:07
+13701,759215,16,46231729,94,2,5160,86',0,0,Paul Young (Fraserburgh) Yellow Card at 86',Paul Young Yellow Card,7170,0.0,0.0,0.0,0.0,0.0,0.0,1,228945,2025-10-26 05:23:07
+13701,759215,17,46231977,94,2,5400,90'+1',0,0,Sam Pugh (Banks O'Dee) Yellow Card at 91',Sam Pugh Yellow Card,9980,0.0,0.0,0.0,0.0,0.0,0.0,1,231512,2025-10-26 05:23:07
+13701,759216,1,46220990,70,1,240,4',1,0,Lucas Stenhouse (Linlithgow Rose) Goal at 4',Lucas Stenhouse Goal,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,347274,2025-10-25 05:18:41
+13701,759216,2,46221038,70,1,600,10',1,0,Oliver Hamilton (Linlithgow Rose) Goal at 10',Oliver Hamilton Goal,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,277682,2025-10-25 05:18:41
+13701,759216,3,46221101,94,1,1020,17',0,0,Josh Wishart (Bo'ness Athletic) Yellow Card at 17',Josh Wishart Yellow Card,22366,0.0,0.0,0.0,0.0,0.0,0.0,1,413581,2025-10-25 05:18:41
+13701,759216,4,46221980,76,2,2700,45',0,0,Callum MacDonald (Bo'ness Athletic) Substitution at 45',Callum MacDonald Substitution,22366,0.0,0.0,0.0,0.0,0.0,0.0,1,93413,2025-10-25 05:18:41
+13701,759216,5,46221981,76,2,2700,45',0,0,Chris Ogilvie (Bo'ness Athletic) Substitution at 45',Chris Ogilvie Substitution,22366,0.0,0.0,0.0,0.0,0.0,0.0,1,394850,2025-10-25 05:18:41
+13701,759216,4,46221980,76,2,2700,45',0,0,Callum MacDonald (Bo'ness Athletic) Substitution at 45',Callum MacDonald Substitution,22366,0.0,0.0,0.0,0.0,0.0,0.0,2,413580,2025-10-25 05:18:41
+13701,759216,5,46221981,76,2,2700,45',0,0,Chris Ogilvie (Bo'ness Athletic) Substitution at 45',Chris Ogilvie Substitution,22366,0.0,0.0,0.0,0.0,0.0,0.0,2,346140,2025-10-25 05:18:41
+13701,759216,6,46222030,94,2,2940,49',0,0,Paul Kennedy (Linlithgow Rose) Yellow Card at 49',Paul Kennedy Yellow Card,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,277546,2025-10-25 05:18:41
+13701,759216,7,46222125,76,2,3240,54',0,0,James Berry (Linlithgow Rose) Substitution at 54',James Berry Substitution,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,303677,2025-10-25 05:18:41
+13701,759216,7,46222125,76,2,3240,54',0,0,James Berry (Linlithgow Rose) Substitution at 54',James Berry Substitution,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,141845,2025-10-25 05:18:41
+13701,759216,7,46222125,76,2,3240,54',0,0,James Berry (Linlithgow Rose) Substitution at 54',James Berry Substitution,8565,0.0,0.0,0.0,0.0,0.0,0.0,2,277546,2025-10-25 05:18:41
+13701,759216,8,46222246,76,2,3660,61',0,0,Blair Henderson (Linlithgow Rose) Substitution at 61',Blair Henderson Substitution,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,179659,2025-10-25 05:18:41
+13701,759216,8,46222246,76,2,3660,61',0,0,Blair Henderson (Linlithgow Rose) Substitution at 61',Blair Henderson Substitution,8565,0.0,0.0,0.0,0.0,0.0,0.0,2,97706,2025-10-25 05:18:41
+13701,759216,9,46222324,94,2,3840,64',0,0,Greg Skinner (Linlithgow Rose) Yellow Card at 64',Greg Skinner Yellow Card,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,327811,2025-10-25 05:18:41
+13701,759216,10,46222389,76,2,4140,69',0,0,Ben Woloszyn (Bo'ness Athletic) Substitution at 69',Ben Woloszyn Substitution,22366,0.0,0.0,0.0,0.0,0.0,0.0,1,329702,2025-10-25 05:18:41
+13701,759216,10,46222389,76,2,4140,69',0,0,Ben Woloszyn (Bo'ness Athletic) Substitution at 69',Ben Woloszyn Substitution,22366,0.0,0.0,0.0,0.0,0.0,0.0,2,394841,2025-10-25 05:18:41
+13701,759216,11,46222475,94,2,4380,73',0,0,Godwin Kangni-Soupke (Bo'ness Athletic) Yellow Card at 73',Godwin Kangni-Soupke Yellow Card,22366,0.0,0.0,0.0,0.0,0.0,0.0,1,359222,2025-10-25 05:18:41
+13701,759216,12,46222555,94,2,4740,79',0,0,James Berry (Linlithgow Rose) Yellow Card at 79',James Berry Yellow Card,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,303677,2025-10-25 05:18:41
+13701,759216,12,46222555,94,2,4740,79',0,0,James Berry (Linlithgow Rose) Yellow Card at 79',James Berry Yellow Card,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,141845,2025-10-25 05:18:41
+13701,759216,13,46222576,94,2,4860,81',0,0,Cameron Thompson (Linlithgow Rose) Yellow Card at 81',Cameron Thompson Yellow Card,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,240726,2025-10-25 05:18:41
+13701,759216,14,46222634,76,2,5040,84',0,0,Michael Beagley (Bo'ness Athletic) Substitution at 84',Michael Beagley Substitution,22366,0.0,0.0,0.0,0.0,0.0,0.0,1,326252,2025-10-25 05:18:41
+13701,759216,14,46222634,76,2,5040,84',0,0,Michael Beagley (Bo'ness Athletic) Substitution at 84',Michael Beagley Substitution,22366,0.0,0.0,0.0,0.0,0.0,0.0,2,351843,2025-10-25 05:18:41
+13701,759216,15,46222744,76,2,5400,90'+1',0,0,Jamie Allen (Linlithgow Rose) Substitution at 91',Jamie Allen Substitution,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,303779,2025-10-25 05:18:41
+13701,759216,15,46222744,76,2,5400,90'+1',0,0,Jamie Allen (Linlithgow Rose) Substitution at 91',Jamie Allen Substitution,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,303772,2025-10-25 05:18:41
+13701,759216,15,46222744,76,2,5400,90'+1',0,0,Jamie Allen (Linlithgow Rose) Substitution at 91',Jamie Allen Substitution,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,177607,2025-10-25 05:18:41
+13701,759216,17,46222803,94,2,5400,90'+4',0,0,Blair Henderson (Linlithgow Rose) Yellow Card at 94',Blair Henderson Yellow Card,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,179659,2025-10-25 05:18:41
+13701,759216,16,46222745,76,2,5400,90'+1',0,0,Joseph Smith (Linlithgow Rose) Substitution at 91',Joseph Smith Substitution,8565,0.0,0.0,0.0,0.0,0.0,0.0,1,243631,2025-10-25 05:18:41
+13701,759216,16,46222745,76,2,5400,90'+1',0,0,Joseph Smith (Linlithgow Rose) Substitution at 91',Joseph Smith Substitution,8565,0.0,0.0,0.0,0.0,0.0,0.0,2,277682,2025-10-25 05:18:41
+13701,759216,15,46222744,76,2,5400,90'+1',0,0,Jamie Allen (Linlithgow Rose) Substitution at 91',Jamie Allen Substitution,8565,0.0,0.0,0.0,0.0,0.0,0.0,2,378327,2025-10-25 05:18:41
+13701,759217,1,46228269,94,1,900,15',0,0,Finn Graham (Dundonald Bluebell) Yellow Card at 15',Finn Graham Yellow Card,20847,0.0,0.0,0.0,0.0,0.0,0.0,1,179653,2025-10-26 05:23:07
+13701,759217,2,46228501,94,1,1260,21',0,0,Finlay Allan (Brechin City) Yellow Card at 21',Finlay Allan Yellow Card,413,0.0,0.0,0.0,0.0,0.0,0.0,1,366855,2025-10-26 05:23:07
+13701,759217,3,46228798,94,1,1560,26',0,0,John Moreland (Brechin City) Yellow Card at 26',John Moreland Yellow Card,413,0.0,0.0,0.0,0.0,0.0,0.0,1,324545,2025-10-26 05:23:07
+13701,759217,4,46229915,76,2,2700,45',0,0,Mitchell Findlay (Brechin City) Substitution at 45',Mitchell Findlay Substitution,413,0.0,0.0,0.0,0.0,0.0,0.0,1,407233,2025-10-26 05:23:07
+13701,759217,5,46229933,76,2,2700,45',0,0,Jake Nicholson (Dundonald Bluebell) Substitution at 45',Jake Nicholson Substitution,20847,0.0,0.0,0.0,0.0,0.0,0.0,1,165270,2025-10-26 05:23:07
+13701,759217,4,46229915,76,2,2700,45',0,0,Mitchell Findlay (Brechin City) Substitution at 45',Mitchell Findlay Substitution,413,0.0,0.0,0.0,0.0,0.0,0.0,2,366855,2025-10-26 05:23:07
+13701,759217,5,46229933,76,2,2700,45',0,0,Jake Nicholson (Dundonald Bluebell) Substitution at 45',Jake Nicholson Substitution,20847,0.0,0.0,0.0,0.0,0.0,0.0,2,260607,2025-10-26 05:23:07
+13701,759217,6,46230224,70,2,3120,52',1,0,Fraser Macleod (Brechin City) Goal at 52',Fraser Macleod Goal,413,0.0,0.0,0.0,0.0,0.0,0.0,1,260041,2025-10-26 05:23:07
+13701,759217,7,46230448,70,2,3540,59',1,0,Mitchell Findlay (Brechin City) Goal at 59',Mitchell Findlay Goal,413,0.0,0.0,0.0,0.0,0.0,0.0,1,407233,2025-10-26 05:23:07
+13701,759217,8,46230626,76,2,3720,62',0,0,Grady Mcgrath (Brechin City) Substitution at 62',Grady Mcgrath Substitution,413,0.0,0.0,0.0,0.0,0.0,0.0,1,279963,2025-10-26 05:23:07
+13701,759217,8,46230626,76,2,3720,62',0,0,Grady Mcgrath (Brechin City) Substitution at 62',Grady Mcgrath Substitution,413,0.0,0.0,0.0,0.0,0.0,0.0,2,193442,2025-10-26 05:23:07
+13701,759217,9,46230786,76,2,3900,65',0,0,Lewis Mckenzie (Dundonald Bluebell) Substitution at 65',Lewis Mckenzie Substitution,20847,0.0,0.0,0.0,0.0,0.0,0.0,1,413611,2025-10-26 05:23:07
+13701,759217,9,46230786,76,2,3900,65',0,0,Lewis Mckenzie (Dundonald Bluebell) Substitution at 65',Lewis Mckenzie Substitution,20847,0.0,0.0,0.0,0.0,0.0,0.0,2,293662,2025-10-26 05:23:07
+13701,759217,10,46230919,94,2,4020,67',0,0,Jordan Wright (Dundonald Bluebell) Yellow Card at 67',Jordan Wright Yellow Card,20847,0.0,0.0,0.0,0.0,0.0,0.0,1,168159,2025-10-26 05:23:07
+13701,759217,11,46231112,94,2,4260,71',0,0,Mitchell Findlay (Brechin City) Yellow Card at 71',Mitchell Findlay Yellow Card,413,0.0,0.0,0.0,0.0,0.0,0.0,1,407233,2025-10-26 05:23:07
+13701,759217,12,46231136,76,2,4320,72',0,0,Harry Craig (Brechin City) Substitution at 72',Harry Craig Substitution,413,0.0,0.0,0.0,0.0,0.0,0.0,1,376256,2025-10-26 05:23:07
+13701,759217,12,46231136,76,2,4320,72',0,0,Harry Craig (Brechin City) Substitution at 72',Harry Craig Substitution,413,0.0,0.0,0.0,0.0,0.0,0.0,2,324545,2025-10-26 05:23:07
+13701,759217,13,46231294,70,2,4560,76',1,0,Grady Mcgrath (Brechin City) Goal at 76',Grady Mcgrath Goal,413,0.0,0.0,0.0,0.0,0.0,0.0,1,279963,2025-10-26 05:23:07
+13701,759217,14,46231422,70,2,4680,78',1,0,Lewis Mckenzie (Dundonald Bluebell) Goal at 78',Lewis Mckenzie Goal,20847,0.0,0.0,0.0,0.0,0.0,0.0,1,413611,2025-10-26 05:23:07
+13701,759217,15,46231765,94,2,5220,87',0,0,Lucas Berry (Dundonald Bluebell) Yellow Card at 87',Lucas Berry Yellow Card,20847,0.0,0.0,0.0,0.0,0.0,0.0,1,309601,2025-10-26 05:23:07
+13701,759218,1,46228263,94,1,900,15',0,0,Callum Crane (Stirling Albion) Yellow Card at 15',Callum Crane Yellow Card,417,0.0,0.0,0.0,0.0,0.0,0.0,1,223317,2025-10-26 05:23:07
+13701,759218,2,46228776,70,1,1620,27',1,0,Ross McNeil (Caledonian Braves) Goal at 27',Ross McNeil Goal,18846,0.0,0.0,0.0,0.0,0.0,0.0,1,190426,2025-10-26 05:23:07
+13701,759218,3,46229054,97,1,2040,34',1,0,Robbie Stewart (Caledonian Braves) Own Goal at 34',Robbie Stewart Own Goal,417,0.0,0.0,0.0,0.0,0.0,0.0,1,370272,2025-10-26 05:23:07
+13701,759218,4,46229433,94,1,2520,42',0,0,Billy Hutchingson (Stirling Albion) Yellow Card at 42',Billy Hutchingson Yellow Card,417,0.0,0.0,0.0,0.0,0.0,0.0,1,388260,2025-10-26 05:23:07
+13701,759218,5,46229604,94,1,2700,45'+2',0,0,Russell Mclean (Stirling Albion) Yellow Card at 47',Russell Mclean Yellow Card,417,0.0,0.0,0.0,0.0,0.0,0.0,1,240703,2025-10-26 05:23:07
+13701,759218,6,46230039,70,2,2880,48',1,0,Christopher Eadie (Stirling Albion) Goal at 48',Christopher Eadie Goal,417,0.0,0.0,0.0,0.0,0.0,0.0,1,368046,2025-10-26 05:23:07
+13701,759218,7,46230424,76,2,3420,57',0,0,Dale Hilson (Stirling Albion) Substitution at 57',Dale Hilson Substitution,417,0.0,0.0,0.0,0.0,0.0,0.0,1,141875,2025-10-26 05:23:07
+13701,759218,7,46230424,76,2,3420,57',0,0,Dale Hilson (Stirling Albion) Substitution at 57',Dale Hilson Substitution,417,0.0,0.0,0.0,0.0,0.0,0.0,2,409059,2025-10-26 05:23:07
+13701,759218,8,46230632,94,2,3660,61',0,0,John Guthrie (Caledonian Braves) Yellow Card at 61',John Guthrie Yellow Card,18846,0.0,0.0,0.0,0.0,0.0,0.0,1,254318,2025-10-26 05:23:07
+13701,759218,9,46230856,76,2,3960,66',0,0,Connor McLaren (Caledonian Braves) Substitution at 66',Connor McLaren Substitution,18846,0.0,0.0,0.0,0.0,0.0,0.0,1,163774,2025-10-26 05:23:07
+13701,759218,10,46230857,76,2,3960,66',0,0,Aidan Clocherty (Caledonian Braves) Substitution at 66',Aidan Clocherty Substitution,18846,0.0,0.0,0.0,0.0,0.0,0.0,1,326889,2025-10-26 05:23:07
+13701,759218,10,46230857,76,2,3960,66',0,0,Aidan Clocherty (Caledonian Braves) Substitution at 66',Aidan Clocherty Substitution,18846,0.0,0.0,0.0,0.0,0.0,0.0,2,169045,2025-10-26 05:23:07
+13701,759218,9,46230856,76,2,3960,66',0,0,Connor McLaren (Caledonian Braves) Substitution at 66',Connor McLaren Substitution,18846,0.0,0.0,0.0,0.0,0.0,0.0,2,255732,2025-10-26 05:23:07
+13701,759218,11,46230946,98,2,4080,68',1,0,Russell Mclean (Stirling Albion) Penalty - Scored at 68',Russell Mclean Penalty - Scored,417,0.0,0.0,0.0,0.0,0.0,0.0,1,240703,2025-10-26 05:23:07
+13701,759218,12,46231075,94,2,4200,70',0,0,Dale Hilson (Stirling Albion) Yellow Card at 70',Dale Hilson Yellow Card,417,0.0,0.0,0.0,0.0,0.0,0.0,1,141875,2025-10-26 05:23:07
+13701,759218,13,46231345,76,2,4560,76',0,0,Bright Prince (Caledonian Braves) Substitution at 76',Bright Prince Substitution,18846,0.0,0.0,0.0,0.0,0.0,0.0,1,356365,2025-10-26 05:23:07
+13701,759218,14,46231346,76,2,4560,76',0,0,Dom Mcmahon (Caledonian Braves) Substitution at 76',Dom Mcmahon Substitution,18846,0.0,0.0,0.0,0.0,0.0,0.0,1,308894,2025-10-26 05:23:07
+13701,759218,14,46231346,76,2,4560,76',0,0,Dom Mcmahon (Caledonian Braves) Substitution at 76',Dom Mcmahon Substitution,18846,0.0,0.0,0.0,0.0,0.0,0.0,2,260625,2025-10-26 05:23:07
+13701,759218,13,46231345,76,2,4560,76',0,0,Bright Prince (Caledonian Braves) Substitution at 76',Bright Prince Substitution,18846,0.0,0.0,0.0,0.0,0.0,0.0,2,190426,2025-10-26 05:23:07
+13701,759218,15,46231542,76,2,4800,80',0,0,Adam Brown (Stirling Albion) Substitution at 80',Adam Brown Substitution,417,0.0,0.0,0.0,0.0,0.0,0.0,1,57725,2025-10-26 05:23:07
+13701,759218,15,46231542,76,2,4800,80',0,0,Adam Brown (Stirling Albion) Substitution at 80',Adam Brown Substitution,417,0.0,0.0,0.0,0.0,0.0,0.0,2,240703,2025-10-26 05:23:07
+13701,759218,17,46232036,76,2,5400,90'+1',0,0,Sam Featherstone (Stirling Albion) Substitution at 91',Sam Featherstone Substitution,417,0.0,0.0,0.0,0.0,0.0,0.0,1,366872,2025-10-26 05:23:07
+13701,759218,16,46231992,70,2,5400,90',1,0,Connor McLaren (Caledonian Braves) Goal at 90',Connor McLaren Goal,18846,0.0,0.0,0.0,0.0,0.0,0.0,1,163774,2025-10-26 05:23:07
+13701,759218,18,46232056,70,2,5400,90'+2',1,0,Lennon Walker (Caledonian Braves) Goal at 92',Lennon Walker Goal,18846,0.0,0.0,0.0,0.0,0.0,0.0,1,317305,2025-10-26 05:23:07
+13701,759218,17,46232036,76,2,5400,90'+1',0,0,Sam Featherstone (Stirling Albion) Substitution at 91',Sam Featherstone Substitution,417,0.0,0.0,0.0,0.0,0.0,0.0,2,141875,2025-10-26 05:23:07
+13701,759218,19,46232320,94,3,5880,98',0,0,Connor McLaren (Caledonian Braves) Yellow Card at 98',Connor McLaren Yellow Card,18846,0.0,0.0,0.0,0.0,0.0,0.0,1,163774,2025-10-26 05:23:07
+13701,759218,20,46232348,76,3,6120,102',0,0,Corey Thomson (Stirling Albion) Substitution at 102',Corey Thomson Substitution,417,0.0,0.0,0.0,0.0,0.0,0.0,1,281964,2025-10-26 05:23:07
+13701,759218,20,46232348,76,3,6120,102',0,0,Corey Thomson (Stirling Albion) Substitution at 102',Corey Thomson Substitution,417,0.0,0.0,0.0,0.0,0.0,0.0,2,388260,2025-10-26 05:23:07
+13701,759218,21,46232417,70,4,6480,108',1,0,Adam Brown (Stirling Albion) Goal at 108',Adam Brown Goal,417,0.0,0.0,0.0,0.0,0.0,0.0,1,57725,2025-10-26 05:23:07
+13701,759219,1,46228844,94,1,1800,30',0,0,Craig Menzies (Johnstone Burgh FC) Yellow Card at 30',Craig Menzies Yellow Card,131396,0.0,0.0,0.0,0.0,0.0,0.0,1,45668,2025-10-26 05:23:07
+13701,759219,2,46229947,94,2,2820,47',0,0,Jamie McCormack (Camelon Juniors) Yellow Card at 47',Jamie McCormack Yellow Card,20846,0.0,0.0,0.0,0.0,0.0,0.0,1,171823,2025-10-26 05:23:07
+13701,759219,3,46230558,76,2,3780,63',0,0,Nathan Wade (Camelon Juniors) Substitution at 63',Nathan Wade Substitution,20846,0.0,0.0,0.0,0.0,0.0,0.0,1,413389,2025-10-26 05:23:07
+13701,759219,3,46230558,76,2,3780,63',0,0,Nathan Wade (Camelon Juniors) Substitution at 63',Nathan Wade Substitution,20846,0.0,0.0,0.0,0.0,0.0,0.0,2,119015,2025-10-26 05:23:07
+13701,759219,4,46230607,76,2,3840,64',0,0,Aiden Gilmartin (Johnstone Burgh FC) Substitution at 64',Aiden Gilmartin Substitution,131396,0.0,0.0,0.0,0.0,0.0,0.0,1,324848,2025-10-26 05:23:07
+13701,759219,4,46230607,76,2,3840,64',0,0,Aiden Gilmartin (Johnstone Burgh FC) Substitution at 64',Aiden Gilmartin Substitution,131396,0.0,0.0,0.0,0.0,0.0,0.0,2,247767,2025-10-26 05:23:07
+13701,759219,5,46230953,93,2,4200,70',0,0,Aaron Mason (Johnstone Burgh FC) Red Card at 70',Aaron Mason Red Card,131396,0.0,0.0,0.0,0.0,0.0,0.0,1,329999,2025-10-26 05:23:07
+13701,759219,6,46231082,76,2,4380,73',0,0,Kyle Lafferty (Johnstone Burgh FC) Substitution at 73',Kyle Lafferty Substitution,131396,0.0,0.0,0.0,0.0,0.0,0.0,1,67426,2025-10-26 05:23:07
+13701,759219,6,46231082,76,2,4380,73',0,0,Kyle Lafferty (Johnstone Burgh FC) Substitution at 73',Kyle Lafferty Substitution,131396,0.0,0.0,0.0,0.0,0.0,0.0,2,126256,2025-10-26 05:23:07
+13701,759219,7,46231209,70,2,4560,76',1,0,Graham Taylor (Camelon Juniors) Goal at 76',Graham Taylor Goal,20846,0.0,0.0,0.0,0.0,0.0,0.0,1,36094,2025-10-26 05:23:07
+13701,759219,8,46231370,76,2,4800,80',0,0,Malky Mcdonald (Johnstone Burgh FC) Substitution at 80',Malky Mcdonald Substitution,131396,0.0,0.0,0.0,0.0,0.0,0.0,1,413475,2025-10-26 05:23:07
+13701,759219,8,46231370,76,2,4800,80',0,0,Malky Mcdonald (Johnstone Burgh FC) Substitution at 80',Malky Mcdonald Substitution,131396,0.0,0.0,0.0,0.0,0.0,0.0,2,334270,2025-10-26 05:23:07
+13701,759219,9,46231589,94,2,5040,84',0,0,Nathan Wade (Camelon Juniors) Yellow Card at 84',Nathan Wade Yellow Card,20846,0.0,0.0,0.0,0.0,0.0,0.0,1,413389,2025-10-26 05:23:07
+13701,759219,10,46231642,94,2,5160,86',0,0,Jack Breen (Camelon Juniors) Yellow Card at 86',Jack Breen Yellow Card,20846,0.0,0.0,0.0,0.0,0.0,0.0,1,260791,2025-10-26 05:23:07
+13701,759219,11,46231684,94,2,5220,87',0,0,Ross Kavanagh (Camelon Juniors) Yellow Card at 87',Ross Kavanagh Yellow Card,20846,0.0,0.0,0.0,0.0,0.0,0.0,1,226593,2025-10-26 05:23:07
+13701,759219,12,46231787,94,2,5340,89',0,0,Dean Shaw (Camelon Juniors) Yellow Card at 89',Dean Shaw Yellow Card,20846,0.0,0.0,0.0,0.0,0.0,0.0,1,168051,2025-10-26 05:23:07
+13701,759219,14,46231973,94,2,5400,90'+3',0,0,Dean Watson (Camelon Juniors) Yellow Card at 93',Dean Watson Yellow Card,20846,0.0,0.0,0.0,0.0,0.0,0.0,1,275907,2025-10-26 05:23:07
+13701,759219,13,46231920,93,2,5400,90'+2',0,0,Danny O'Neill (Johnstone Burgh FC) Red Card at 92',Danny O'Neill Red Card,131396,0.0,0.0,0.0,0.0,0.0,0.0,1,413452,2025-10-26 05:23:07
+13701,759219,15,46231987,76,2,5400,90'+3',0,0,Ben Scarborough (Camelon Juniors) Substitution at 93',Ben Scarborough Substitution,20846,0.0,0.0,0.0,0.0,0.0,0.0,1,375257,2025-10-26 05:23:07
+13701,759219,15,46231987,76,2,5400,90'+3',0,0,Ben Scarborough (Camelon Juniors) Substitution at 93',Ben Scarborough Substitution,20846,0.0,0.0,0.0,0.0,0.0,0.0,2,275907,2025-10-26 05:23:07
+13701,759220,1,46228749,94,1,1560,26',0,0,Dylan McGowan (Sauchie Juniors) Yellow Card at 26',Dylan McGowan Yellow Card,21120,0.0,0.0,0.0,0.0,0.0,0.0,1,126323,2025-10-29 05:18:13
+13701,759220,2,46229469,94,1,2640,44',0,0,Archie Swanson (Sauchie Juniors) Yellow Card at 44',Archie Swanson Yellow Card,21120,0.0,0.0,0.0,0.0,0.0,0.0,1,413482,2025-10-26 05:23:07
+13701,759220,3,46229925,76,2,2700,45',0,0,Ben Corner (Clachnacuddin) Substitution at 45',Ben Corner Substitution,2831,0.0,0.0,0.0,0.0,0.0,0.0,1,387375,2025-10-26 05:23:07
+13701,759220,4,46229926,76,2,2700,45',0,0,Andrew Macrae (Clachnacuddin) Substitution at 45',Andrew Macrae Substitution,2831,0.0,0.0,0.0,0.0,0.0,0.0,1,229539,2025-10-26 05:23:07
+13701,759220,4,46229926,76,2,2700,45',0,0,Andrew Macrae (Clachnacuddin) Substitution at 45',Andrew Macrae Substitution,2831,0.0,0.0,0.0,0.0,0.0,0.0,2,266914,2025-10-26 05:23:07
+13701,759220,3,46229925,76,2,2700,45',0,0,Ben Corner (Clachnacuddin) Substitution at 45',Ben Corner Substitution,2831,0.0,0.0,0.0,0.0,0.0,0.0,2,335232,2025-10-26 05:23:07
+13701,759220,5,46230207,94,2,3060,51',0,0,Harry Nicolson (Clachnacuddin) Yellow Card at 51',Harry Nicolson Yellow Card,2831,0.0,0.0,0.0,0.0,0.0,0.0,1,283735,2025-10-26 05:23:07
+13701,759220,6,46230354,94,2,3300,55',0,0,Jon Tully (Sauchie Juniors) Yellow Card at 55',Jon Tully Yellow Card,21120,0.0,0.0,0.0,0.0,0.0,0.0,1,34814,2025-10-26 05:23:07
+13701,759220,7,46230539,94,2,3480,58',0,0,Callum Gardiner (Sauchie Juniors) Yellow Card at 58',Callum Gardiner Yellow Card,21120,0.0,0.0,0.0,0.0,0.0,0.0,1,392110,2025-10-26 05:23:07
+13701,759220,8,46230556,94,2,3600,60',0,0,Samuel Collumbine (Sauchie Juniors) Yellow Card at 60',Samuel Collumbine Yellow Card,21120,0.0,0.0,0.0,0.0,0.0,0.0,1,208161,2025-10-26 05:23:07
+13701,759220,9,46230865,76,2,3960,66',0,0,John Hill (Sauchie Juniors) Substitution at 66',John Hill Substitution,21120,0.0,0.0,0.0,0.0,0.0,0.0,1,413626,2025-10-26 05:23:07
+13701,759220,9,46230865,76,2,3960,66',0,0,John Hill (Sauchie Juniors) Substitution at 66',John Hill Substitution,21120,0.0,0.0,0.0,0.0,0.0,0.0,2,413481,2025-10-26 05:23:07
+13701,759220,10,46230960,70,2,4020,67',1,0,James Anderson (Clachnacuddin) Goal at 67',James Anderson Goal,2831,0.0,0.0,0.0,0.0,0.0,0.0,1,297704,2025-10-26 05:23:07
+13701,759220,11,46231392,70,2,4560,76',1,0,James Anderson (Clachnacuddin) Goal at 76',James Anderson Goal,2831,0.0,0.0,0.0,0.0,0.0,0.0,1,297704,2025-10-26 05:23:07
+13701,759220,12,46231432,76,2,4620,77',0,0,Ally Gillies (Clachnacuddin) Substitution at 77',Ally Gillies Substitution,2831,0.0,0.0,0.0,0.0,0.0,0.0,1,284808,2025-10-26 05:23:07
+13701,759220,12,46231432,76,2,4620,77',0,0,Ally Gillies (Clachnacuddin) Substitution at 77',Ally Gillies Substitution,2831,0.0,0.0,0.0,0.0,0.0,0.0,2,407318,2025-10-26 05:23:07
+13701,759220,13,46231481,76,2,4740,79',0,0,Rory Hutchinson (Sauchie Juniors) Substitution at 79',Rory Hutchinson Substitution,21120,0.0,0.0,0.0,0.0,0.0,0.0,1,413480,2025-10-26 05:23:07
+13701,759220,13,46231481,76,2,4740,79',0,0,Rory Hutchinson (Sauchie Juniors) Substitution at 79',Rory Hutchinson Substitution,21120,0.0,0.0,0.0,0.0,0.0,0.0,2,34814,2025-10-26 05:23:07
+13701,759220,15,46231666,76,2,4980,83',0,0,Scott Davidson (Clachnacuddin) Substitution at 83',Scott Davidson Substitution,2831,0.0,0.0,0.0,0.0,0.0,0.0,1,7150,2025-10-26 05:23:07
+13701,759220,14,46231665,76,2,4980,83',0,0,Jack Davison (Clachnacuddin) Substitution at 83',Jack Davison Substitution,2831,0.0,0.0,0.0,0.0,0.0,0.0,1,327819,2025-10-26 05:23:07
+13701,759220,14,46231665,76,2,4980,83',0,0,Jack Davison (Clachnacuddin) Substitution at 83',Jack Davison Substitution,2831,0.0,0.0,0.0,0.0,0.0,0.0,2,232310,2025-10-26 05:23:07
+13701,759220,15,46231666,76,2,4980,83',0,0,Scott Davidson (Clachnacuddin) Substitution at 83',Scott Davidson Substitution,2831,0.0,0.0,0.0,0.0,0.0,0.0,2,375287,2025-10-26 05:23:07
+13701,759220,17,46232029,94,2,5400,90'+1',0,0,Scott Davidson (Clachnacuddin) Yellow Card at 91',Scott Davidson Yellow Card,2831,0.0,0.0,0.0,0.0,0.0,0.0,1,7150,2025-10-26 05:23:07
+13701,759220,16,46231983,76,2,5400,90',0,0,Struan Coli (Clachnacuddin) Substitution at 90',Struan Coli Substitution,2831,0.0,0.0,0.0,0.0,0.0,0.0,1,375575,2025-10-26 05:23:07
+13701,759220,16,46231983,76,2,5400,90',0,0,Struan Coli (Clachnacuddin) Substitution at 90',Struan Coli Substitution,2831,0.0,0.0,0.0,0.0,0.0,0.0,2,327819,2025-10-26 05:23:07
+13701,759221,1,46228304,70,1,960,16',1,0,William Gibson (Annan Athletic) Goal at 16',William Gibson Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,7191,2025-10-26 05:23:07
+13701,759221,2,46228465,70,1,1260,21',1,0,Aidan Smith (Annan Athletic) Goal at 21',Aidan Smith Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,190469,2025-10-26 05:23:07
+13701,759221,3,46228738,94,1,1440,24',0,0,Sam Campbell (Clyde) Yellow Card at 24',Sam Campbell Yellow Card,255,0.0,0.0,0.0,0.0,0.0,0.0,1,143389,2025-10-26 05:23:07
+13701,759221,4,46229254,76,1,2280,38',0,0,Darren Lyon (Clyde) Substitution at 38',Darren Lyon Substitution,255,0.0,0.0,0.0,0.0,0.0,0.0,1,176452,2025-10-26 05:23:07
+13701,759221,4,46229254,76,1,2280,38',0,0,Darren Lyon (Clyde) Substitution at 38',Darren Lyon Substitution,255,0.0,0.0,0.0,0.0,0.0,0.0,2,143389,2025-10-26 05:23:07
+13701,759221,5,46230373,70,2,3240,54',1,0,Taylor Sutherland (Clyde) Goal at 54',Taylor Sutherland Goal,255,0.0,0.0,0.0,0.0,0.0,0.0,1,347420,2025-10-26 05:23:07
+13701,759221,6,46230759,94,2,3720,62',0,0,Andrew Murdoch (Clyde) Yellow Card at 62',Andrew Murdoch Yellow Card,255,0.0,0.0,0.0,0.0,0.0,0.0,1,180087,2025-10-26 05:23:07
+13701,759221,7,46230951,94,2,3900,65',0,0,William Gibson (Annan Athletic) Yellow Card at 65',William Gibson Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,7191,2025-10-26 05:23:07
+13701,759221,8,46230952,70,2,3960,66',1,0,Kyle Connell (Clyde) Goal at 66',Kyle Connell Goal,255,0.0,0.0,0.0,0.0,0.0,0.0,1,292265,2025-10-26 05:23:07
+13701,759221,9,46231431,76,2,4560,76',0,0,Kyle Fleming (Clyde) Substitution at 76',Kyle Fleming Substitution,255,0.0,0.0,0.0,0.0,0.0,0.0,1,289947,2025-10-26 05:23:07
+13701,759221,9,46231431,76,2,4560,76',0,0,Kyle Fleming (Clyde) Substitution at 76',Kyle Fleming Substitution,255,0.0,0.0,0.0,0.0,0.0,0.0,2,259585,2025-10-26 05:23:07
+13701,759221,10,46231575,94,2,4740,79',0,0,Max Kilsby (Annan Athletic) Yellow Card at 79',Max Kilsby Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,310608,2025-10-26 05:23:07
+13701,759221,11,46231626,76,2,4860,81',0,0,Robbie Leitch (Clyde) Substitution at 81',Robbie Leitch Substitution,255,0.0,0.0,0.0,0.0,0.0,0.0,1,220706,2025-10-26 05:23:07
+13701,759221,11,46231626,76,2,4860,81',0,0,Robbie Leitch (Clyde) Substitution at 81',Robbie Leitch Substitution,255,0.0,0.0,0.0,0.0,0.0,0.0,2,292265,2025-10-26 05:23:07
+13701,759221,12,46231721,76,2,4980,83',0,0,Gravine Kalala (Annan Athletic) Substitution at 83',Gravine Kalala Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,378619,2025-10-26 05:23:07
+13701,759221,12,46231721,76,2,4980,83',0,0,Gravine Kalala (Annan Athletic) Substitution at 83',Gravine Kalala Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,2,290854,2025-10-26 05:23:07
+13701,759221,13,46232001,76,2,5340,89',0,0,Paul Mcgowan (Annan Athletic) Substitution at 89',Paul Mcgowan Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,86441,2025-10-26 05:23:07
+13701,759221,13,46232001,76,2,5340,89',0,0,Paul Mcgowan (Annan Athletic) Substitution at 89',Paul Mcgowan Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,2,310608,2025-10-26 05:23:07
+13701,759221,14,46232153,70,2,5400,90'+3',1,0,William Gibson (Annan Athletic) Goal at 93',William Gibson Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,7191,2025-10-26 05:23:07
+13701,759222,1,46227851,70,1,360,6',1,0,Jay Mcgarva (Bonnyrigg Rose) Goal at 6',Jay Mcgarva Goal,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,366858,2025-10-26 05:23:07
+13701,759222,2,46230479,97,2,3540,59',1,0,Liam Allison (Cumbernauld Colts) Own Goal at 59',Liam Allison Own Goal,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,248921,2025-10-26 05:23:07
+13701,759222,3,46230693,76,2,3720,62',0,0,Scott Walker (Cumbernauld Colts) Substitution at 62',Scott Walker Substitution,18012,0.0,0.0,0.0,0.0,0.0,0.0,1,304585,2025-10-26 05:23:07
+13701,759222,3,46230693,76,2,3720,62',0,0,Scott Walker (Cumbernauld Colts) Substitution at 62',Scott Walker Substitution,18012,0.0,0.0,0.0,0.0,0.0,0.0,2,388136,2025-10-26 05:23:07
+13701,759222,4,46230837,94,2,3900,65',0,0,Billy King (Bonnyrigg Rose) Yellow Card at 65',Billy King Yellow Card,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,169558,2025-10-26 05:23:07
+13701,759222,6,46230936,76,2,4020,67',0,0,Kian Speirs (Bonnyrigg Rose) Substitution at 67',Kian Speirs Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,346615,2025-10-26 05:23:07
+13701,759222,5,46230935,76,2,4020,67',0,0,Kallum Higginbotham (Bonnyrigg Rose) Substitution at 67',Kallum Higginbotham Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,107564,2025-10-26 05:23:07
+13701,759222,5,46230935,76,2,4020,67',0,0,Kallum Higginbotham (Bonnyrigg Rose) Substitution at 67',Kallum Higginbotham Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,2,398368,2025-10-26 05:23:07
+13701,759222,6,46230936,76,2,4020,67',0,0,Kian Speirs (Bonnyrigg Rose) Substitution at 67',Kian Speirs Substitution,10605,0.0,0.0,0.0,0.0,0.0,0.0,2,381405,2025-10-26 05:23:07
+13701,759222,8,46231351,76,2,4560,76',0,0,Finn Mcguigan (Cumbernauld Colts) Substitution at 76',Finn Mcguigan Substitution,18012,0.0,0.0,0.0,0.0,0.0,0.0,1,411892,2025-10-26 05:23:07
+13701,759222,7,46231350,76,2,4560,76',0,0,Conor Falls (Cumbernauld Colts) Substitution at 76',Conor Falls Substitution,18012,0.0,0.0,0.0,0.0,0.0,0.0,1,377141,2025-10-26 05:23:07
+13701,759222,9,46231352,76,2,4560,76',0,0,Cameron Dickson (Cumbernauld Colts) Substitution at 76',Cameron Dickson Substitution,18012,0.0,0.0,0.0,0.0,0.0,0.0,1,290817,2025-10-26 05:23:07
+13701,759222,9,46231352,76,2,4560,76',0,0,Cameron Dickson (Cumbernauld Colts) Substitution at 76',Cameron Dickson Substitution,18012,0.0,0.0,0.0,0.0,0.0,0.0,2,229899,2025-10-26 05:23:07
+13701,759222,8,46231351,76,2,4560,76',0,0,Finn Mcguigan (Cumbernauld Colts) Substitution at 76',Finn Mcguigan Substitution,18012,0.0,0.0,0.0,0.0,0.0,0.0,2,410061,2025-10-26 05:23:07
+13701,759222,7,46231350,76,2,4560,76',0,0,Conor Falls (Cumbernauld Colts) Substitution at 76',Conor Falls Substitution,18012,0.0,0.0,0.0,0.0,0.0,0.0,2,180035,2025-10-26 05:23:07
+13701,759222,10,46231423,76,2,4680,78',0,0,Jack Devlin (Cumbernauld Colts) Substitution at 78',Jack Devlin Substitution,18012,0.0,0.0,0.0,0.0,0.0,0.0,1,251856,2025-10-26 05:23:07
+13701,759222,10,46231423,76,2,4680,78',0,0,Jack Devlin (Cumbernauld Colts) Substitution at 78',Jack Devlin Substitution,18012,0.0,0.0,0.0,0.0,0.0,0.0,2,271182,2025-10-26 05:23:07
+13701,759222,11,46231557,94,2,4860,81',0,0,Conor Falls (Cumbernauld Colts) Yellow Card at 81',Conor Falls Yellow Card,18012,0.0,0.0,0.0,0.0,0.0,0.0,1,377141,2025-10-26 05:23:07
+13701,759222,12,46231876,94,2,5220,87',0,0,Finn Mcguigan (Cumbernauld Colts) Yellow Card at 87',Finn Mcguigan Yellow Card,18012,0.0,0.0,0.0,0.0,0.0,0.0,1,411892,2025-10-26 05:23:07
+13701,759222,13,46231915,94,2,5340,89',0,0,Cameron Dickson (Cumbernauld Colts) Yellow Card at 89',Cameron Dickson Yellow Card,18012,0.0,0.0,0.0,0.0,0.0,0.0,1,290817,2025-10-26 05:23:07
+13701,759222,14,46231954,94,2,5400,90',0,0,Jay Mcgarva (Bonnyrigg Rose) Yellow Card at 90',Jay Mcgarva Yellow Card,10605,0.0,0.0,0.0,0.0,0.0,0.0,1,366858,2025-10-26 05:23:07
+13701,759223,1,46229130,70,1,2220,37',1,0,Morgyn Neil (Dumbarton) Goal at 37',Morgyn Neil Goal,415,0.0,0.0,0.0,0.0,0.0,0.0,1,190862,2025-10-26 05:23:07
+13701,759223,2,46230145,70,2,3060,51',1,0,Gordon Walker (Dumbarton) Goal at 51',Gordon Walker Goal,415,0.0,0.0,0.0,0.0,0.0,0.0,1,378999,2025-10-26 05:23:07
+13701,759223,3,46230721,76,2,3840,64',0,0,Jamie Hume (Tayport) Substitution at 64',Jamie Hume Substitution,22010,0.0,0.0,0.0,0.0,0.0,0.0,1,167768,2025-10-26 05:23:07
+13701,759223,4,46230722,76,2,3840,64',0,0,Nick Mann (Tayport) Substitution at 64',Nick Mann Substitution,22010,0.0,0.0,0.0,0.0,0.0,0.0,1,413467,2025-10-26 05:23:07
+13701,759223,4,46230722,76,2,3840,64',0,0,Nick Mann (Tayport) Substitution at 64',Nick Mann Substitution,22010,0.0,0.0,0.0,0.0,0.0,0.0,2,309537,2025-10-26 05:23:07
+13701,759223,3,46230721,76,2,3840,64',0,0,Jamie Hume (Tayport) Substitution at 64',Jamie Hume Substitution,22010,0.0,0.0,0.0,0.0,0.0,0.0,2,413460,2025-10-26 05:23:07
+13701,759223,6,46230864,76,2,3960,66',0,0,Aron Lynas (Dumbarton) Substitution at 66',Aron Lynas Substitution,415,0.0,0.0,0.0,0.0,0.0,0.0,1,179626,2025-10-26 05:23:07
+13701,759223,5,46230863,76,2,3960,66',0,0,Scott Tomlinson (Dumbarton) Substitution at 66',Scott Tomlinson Substitution,415,0.0,0.0,0.0,0.0,0.0,0.0,1,355996,2025-10-26 05:23:07
+13701,759223,5,46230863,76,2,3960,66',0,0,Scott Tomlinson (Dumbarton) Substitution at 66',Scott Tomlinson Substitution,415,0.0,0.0,0.0,0.0,0.0,0.0,2,206523,2025-10-26 05:23:07
+13701,759223,6,46230864,76,2,3960,66',0,0,Aron Lynas (Dumbarton) Substitution at 66',Aron Lynas Substitution,415,0.0,0.0,0.0,0.0,0.0,0.0,2,271188,2025-10-26 05:23:07
+13701,759223,8,46231207,76,2,4380,73',0,0,Tony Wallace (Dumbarton) Substitution at 73',Tony Wallace Substitution,415,0.0,0.0,0.0,0.0,0.0,0.0,1,123714,2025-10-26 05:23:07
+13701,759223,7,46231206,76,2,4380,73',0,0,Chris Johnston (Dumbarton) Substitution at 73',Chris Johnston Substitution,415,0.0,0.0,0.0,0.0,0.0,0.0,1,169804,2025-10-26 05:23:07
+13701,759223,8,46231207,76,2,4380,73',0,0,Tony Wallace (Dumbarton) Substitution at 73',Tony Wallace Substitution,415,0.0,0.0,0.0,0.0,0.0,0.0,2,207453,2025-10-26 05:23:07
+13701,759223,7,46231206,76,2,4380,73',0,0,Chris Johnston (Dumbarton) Substitution at 73',Chris Johnston Substitution,415,0.0,0.0,0.0,0.0,0.0,0.0,2,347015,2025-10-26 05:23:07
+13701,759223,9,46231404,76,2,4680,78',0,0,Carrick Mcevoy (Dumbarton) Substitution at 78',Carrick Mcevoy Substitution,415,0.0,0.0,0.0,0.0,0.0,0.0,1,366801,2025-10-26 05:23:07
+13701,759223,9,46231404,76,2,4680,78',0,0,Carrick Mcevoy (Dumbarton) Substitution at 78',Carrick Mcevoy Substitution,415,0.0,0.0,0.0,0.0,0.0,0.0,2,190465,2025-10-26 05:23:07
+13701,759223,10,46231543,76,2,4860,81',0,0,Nairn Lowe (Tayport) Substitution at 81',Nairn Lowe Substitution,22010,0.0,0.0,0.0,0.0,0.0,0.0,1,413465,2025-10-26 05:23:07
+13701,759223,11,46231544,76,2,4860,81',0,0,Kyle Mcmulkin (Tayport) Substitution at 81',Kyle Mcmulkin Substitution,22010,0.0,0.0,0.0,0.0,0.0,0.0,1,413466,2025-10-26 05:23:07
+13701,759223,11,46231544,76,2,4860,81',0,0,Kyle Mcmulkin (Tayport) Substitution at 81',Kyle Mcmulkin Substitution,22010,0.0,0.0,0.0,0.0,0.0,0.0,2,413459,2025-10-26 05:23:07
+13701,759223,10,46231543,76,2,4860,81',0,0,Nairn Lowe (Tayport) Substitution at 81',Nairn Lowe Substitution,22010,0.0,0.0,0.0,0.0,0.0,0.0,2,250374,2025-10-26 05:23:07
+13701,759224,1,46228190,76,1,840,14',0,0,Kenzi Nair (Spartans FC) Substitution at 14',Kenzi Nair Substitution,18015,0.0,0.0,0.0,0.0,0.0,0.0,1,365874,2025-10-26 05:23:07
+13701,759224,1,46228190,76,1,840,14',0,0,Kenzi Nair (Spartans FC) Substitution at 14',Kenzi Nair Substitution,18015,0.0,0.0,0.0,0.0,0.0,0.0,2,250561,2025-10-26 05:23:07
+13701,759224,2,46228344,94,1,1080,18',0,0,Ethan Drysdale (Spartans FC) Yellow Card at 18',Ethan Drysdale Yellow Card,18015,0.0,0.0,0.0,0.0,0.0,0.0,1,365870,2025-10-26 05:23:07
+13701,759224,3,46228397,98,1,1200,20',1,0,John Robertson (East Kilbride) Penalty - Scored at 20',John Robertson Penalty - Scored,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,261415,2025-10-26 05:23:07
+13701,759224,3,46228397,98,1,1200,20',1,0,John Robertson (East Kilbride) Penalty - Scored at 20',John Robertson Penalty - Scored,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,223320,2025-10-26 05:23:07
+13701,759224,4,46229285,94,1,2460,41',0,0,John Robertson (East Kilbride) Yellow Card at 41',John Robertson Yellow Card,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,261415,2025-10-26 05:23:07
+13701,759224,4,46229285,94,1,2460,41',0,0,John Robertson (East Kilbride) Yellow Card at 41',John Robertson Yellow Card,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,223320,2025-10-26 05:23:07
+13701,759224,6,46229949,76,2,2700,45',0,0,Callum Booth (Spartans FC) Substitution at 45',Callum Booth Substitution,18015,0.0,0.0,0.0,0.0,0.0,0.0,1,145039,2025-10-26 05:23:07
+13701,759224,5,46229498,94,1,2700,45',0,0,Jordan McGregor (East Kilbride) Yellow Card at 45',Jordan McGregor Yellow Card,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,232290,2025-10-26 05:23:07
+13701,759224,6,46229949,76,2,2700,45',0,0,Callum Booth (Spartans FC) Substitution at 45',Callum Booth Substitution,18015,0.0,0.0,0.0,0.0,0.0,0.0,2,365870,2025-10-26 05:23:07
+13701,759224,7,46230069,94,2,2820,47',0,0,Jack Leitch (East Kilbride) Yellow Card at 47',Jack Leitch Yellow Card,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,190864,2025-10-26 05:23:07
+13701,759224,8,46230288,94,2,3180,53',0,0,Bradley Whyte (Spartans FC) Yellow Card at 53',Bradley Whyte Yellow Card,18015,0.0,0.0,0.0,0.0,0.0,0.0,1,334325,2025-10-26 05:23:07
+13701,759224,9,46230592,70,2,3600,60',1,0,Marc McNulty (Spartans FC) Goal at 60',Marc McNulty Goal,18015,0.0,0.0,0.0,0.0,0.0,0.0,1,139835,2025-10-26 05:23:07
+13701,759224,10,46230642,76,2,3660,61',0,0,Murray Aiken (Spartans FC) Substitution at 61',Murray Aiken Substitution,18015,0.0,0.0,0.0,0.0,0.0,0.0,1,324794,2025-10-26 05:23:07
+13701,759224,10,46230642,76,2,3660,61',0,0,Murray Aiken (Spartans FC) Substitution at 61',Murray Aiken Substitution,18015,0.0,0.0,0.0,0.0,0.0,0.0,2,137317,2025-10-26 05:23:07
+13701,759224,11,46230713,70,2,3720,62',1,0,Marc McNulty (Spartans FC) Goal at 62',Marc McNulty Goal,18015,0.0,0.0,0.0,0.0,0.0,0.0,1,139835,2025-10-26 05:23:07
+13701,759224,12,46231007,76,2,4080,68',0,0,Jack Healy (East Kilbride) Substitution at 68',Jack Healy Substitution,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,293874,2025-10-26 05:23:07
+13701,759224,12,46231007,76,2,4080,68',0,0,Jack Healy (East Kilbride) Substitution at 68',Jack Healy Substitution,17582,0.0,0.0,0.0,0.0,0.0,0.0,2,206524,2025-10-26 05:23:07
+13701,759224,13,46231052,76,2,4140,69',0,0,Mark Stowe (Spartans FC) Substitution at 69',Mark Stowe Substitution,18015,0.0,0.0,0.0,0.0,0.0,0.0,1,260605,2025-10-26 05:23:07
+13701,759224,13,46231052,76,2,4140,69',0,0,Mark Stowe (Spartans FC) Substitution at 69',Mark Stowe Substitution,18015,0.0,0.0,0.0,0.0,0.0,0.0,2,139835,2025-10-26 05:23:07
+13701,759224,14,46231464,76,2,4740,79',0,0,Ouzy See (East Kilbride) Substitution at 79',Ouzy See Substitution,17582,0.0,0.0,0.0,0.0,0.0,0.0,1,228162,2025-10-26 05:23:07
+13701,759224,14,46231464,76,2,4740,79',0,0,Ouzy See (East Kilbride) Substitution at 79',Ouzy See Substitution,17582,0.0,0.0,0.0,0.0,0.0,0.0,2,190864,2025-10-26 05:23:07
+13701,759225,1,46228439,70,1,1260,21',1,0,James Dolan (Stranraer) Goal at 21',James Dolan Goal,407,0.0,0.0,0.0,0.0,0.0,0.0,1,7017,2025-10-26 05:23:07
+13701,759225,2,46228973,97,1,1980,33',1,0,Lewis Currie (Glenafton Athletic) Own Goal at 33',Lewis Currie Own Goal,407,0.0,0.0,0.0,0.0,0.0,0.0,1,362467,2025-10-26 05:23:07
+13701,759225,3,46229068,76,1,2100,35',0,0,Ollie Rowe (Glenafton Athletic) Substitution at 35',Ollie Rowe Substitution,18847,0.0,0.0,0.0,0.0,0.0,0.0,1,142691,2025-10-26 05:23:07
+13701,759225,3,46229068,76,1,2100,35',0,0,Ollie Rowe (Glenafton Athletic) Substitution at 35',Ollie Rowe Substitution,18847,0.0,0.0,0.0,0.0,0.0,0.0,2,223402,2025-10-26 05:23:07
+13701,759225,4,46229239,76,1,2340,39',0,0,Brannan Mcdermott (Glenafton Athletic) Substitution at 39',Brannan Mcdermott Substitution,18847,0.0,0.0,0.0,0.0,0.0,0.0,1,347013,2025-10-26 05:23:07
+13701,759225,4,46229239,76,1,2340,39',0,0,Brannan Mcdermott (Glenafton Athletic) Substitution at 39',Brannan Mcdermott Substitution,18847,0.0,0.0,0.0,0.0,0.0,0.0,2,362467,2025-10-26 05:23:07
+13701,759225,5,46229354,94,1,2520,42',0,0,Evan Maley (Glenafton Athletic) Yellow Card at 42',Evan Maley Yellow Card,18847,0.0,0.0,0.0,0.0,0.0,0.0,1,245145,2025-10-26 05:23:07
+13701,759225,6,46230597,94,2,3720,62',0,0,Ollie Rowe (Glenafton Athletic) Yellow Card at 62',Ollie Rowe Yellow Card,18847,0.0,0.0,0.0,0.0,0.0,0.0,1,142691,2025-10-26 05:23:07
+13701,759225,7,46230686,76,2,3840,64',0,0,Deryn Lang (Stranraer) Substitution at 64',Deryn Lang Substitution,407,0.0,0.0,0.0,0.0,0.0,0.0,1,366556,2025-10-26 05:23:07
+13701,759225,8,46230687,76,2,3840,64',0,0,Mark Russell (Stranraer) Substitution at 64',Mark Russell Substitution,407,0.0,0.0,0.0,0.0,0.0,0.0,1,118401,2025-10-26 05:23:07
+13701,759225,9,46230688,76,2,3840,64',0,0,Dominic Plank (Stranraer) Substitution at 64',Dominic Plank Substitution,407,0.0,0.0,0.0,0.0,0.0,0.0,1,355170,2025-10-26 05:23:07
+13701,759225,7,46230686,76,2,3840,64',0,0,Deryn Lang (Stranraer) Substitution at 64',Deryn Lang Substitution,407,0.0,0.0,0.0,0.0,0.0,0.0,2,7017,2025-10-26 05:23:07
+13701,759225,9,46230688,76,2,3840,64',0,0,Dominic Plank (Stranraer) Substitution at 64',Dominic Plank Substitution,407,0.0,0.0,0.0,0.0,0.0,0.0,2,322782,2025-10-26 05:23:07
+13701,759225,8,46230687,76,2,3840,64',0,0,Mark Russell (Stranraer) Substitution at 64',Mark Russell Substitution,407,0.0,0.0,0.0,0.0,0.0,0.0,2,350931,2025-10-26 05:23:07
+13701,759225,10,46231190,94,2,4380,73',0,0,Matthew Gillies (Stranraer) Yellow Card at 73',Matthew Gillies Yellow Card,407,0.0,0.0,0.0,0.0,0.0,0.0,1,387534,2025-10-26 05:23:07
+13701,759225,11,46231218,76,2,4500,75',0,0,Lewis Hunter (Stranraer) Substitution at 75',Lewis Hunter Substitution,407,0.0,0.0,0.0,0.0,0.0,0.0,1,228932,2025-10-26 05:23:07
+13701,759225,11,46231218,76,2,4500,75',0,0,Lewis Hunter (Stranraer) Substitution at 75',Lewis Hunter Substitution,407,0.0,0.0,0.0,0.0,0.0,0.0,2,324792,2025-10-26 05:23:07
+13701,759225,12,46231293,70,2,4620,77',1,0,Lewis Hunter (Stranraer) Goal at 77',Lewis Hunter Goal,407,0.0,0.0,0.0,0.0,0.0,0.0,1,228932,2025-10-26 05:23:07
+13701,759225,14,46231358,76,2,4680,78',0,0,Robbie Mcdougall (Glenafton Athletic) Substitution at 78',Robbie Mcdougall Substitution,18847,0.0,0.0,0.0,0.0,0.0,0.0,1,413470,2025-10-26 05:23:07
+13701,759225,13,46231357,76,2,4680,78',0,0,Callum Wilson (Glenafton Athletic) Substitution at 78',Callum Wilson Substitution,18847,0.0,0.0,0.0,0.0,0.0,0.0,1,329175,2025-10-26 05:23:07
+13701,759225,13,46231357,76,2,4680,78',0,0,Callum Wilson (Glenafton Athletic) Substitution at 78',Callum Wilson Substitution,18847,0.0,0.0,0.0,0.0,0.0,0.0,1,321350,2025-10-26 05:23:07
+13701,759225,13,46231357,76,2,4680,78',0,0,Callum Wilson (Glenafton Athletic) Substitution at 78',Callum Wilson Substitution,18847,0.0,0.0,0.0,0.0,0.0,0.0,1,236375,2025-10-26 05:23:07
+13701,759225,13,46231357,76,2,4680,78',0,0,Callum Wilson (Glenafton Athletic) Substitution at 78',Callum Wilson Substitution,18847,0.0,0.0,0.0,0.0,0.0,0.0,1,138924,2025-10-26 05:23:07
+13701,759225,13,46231357,76,2,4680,78',0,0,Callum Wilson (Glenafton Athletic) Substitution at 78',Callum Wilson Substitution,18847,0.0,0.0,0.0,0.0,0.0,0.0,2,396479,2025-10-26 05:23:07
+13701,759225,14,46231358,76,2,4680,78',0,0,Robbie Mcdougall (Glenafton Athletic) Substitution at 78',Robbie Mcdougall Substitution,18847,0.0,0.0,0.0,0.0,0.0,0.0,2,197367,2025-10-26 05:23:07
+13701,759225,15,46231407,76,2,4740,79',0,0,Bernard Coll (Stranraer) Substitution at 79',Bernard Coll Substitution,407,0.0,0.0,0.0,0.0,0.0,0.0,1,231492,2025-10-26 05:23:07
+13701,759225,15,46231407,76,2,4740,79',0,0,Bernard Coll (Stranraer) Substitution at 79',Bernard Coll Substitution,407,0.0,0.0,0.0,0.0,0.0,0.0,2,27945,2025-10-26 05:23:07
+13701,759225,16,46231882,70,2,5400,90',1,0,Ryan Edgar (Stranraer) Goal at 90',Ryan Edgar Goal,407,0.0,0.0,0.0,0.0,0.0,0.0,1,115743,2025-10-26 05:23:07
+13701,759226,1,46228386,98,1,1260,21',1,0,Miller Keir (Turriff United) Penalty - Scored at 21',Miller Keir Penalty - Scored,13400,0.0,0.0,0.0,0.0,0.0,0.0,1,410017,2025-10-26 05:23:07
+13701,759226,2,46229120,94,1,2280,38',0,0,Adrian Voigt (Nairn County) Yellow Card at 38',Adrian Voigt Yellow Card,8567,0.0,0.0,0.0,0.0,0.0,0.0,1,409995,2025-10-26 05:23:07
+13701,759226,3,46229429,70,1,2700,45',1,0,Owen Kinsella (Turriff United) Goal at 45',Owen Kinsella Goal,13400,0.0,0.0,0.0,0.0,0.0,0.0,1,312053,2025-10-26 05:23:07
+13701,759226,4,46229902,76,2,2700,45',0,0,Ben Barron (Nairn County) Substitution at 45',Ben Barron Substitution,8567,0.0,0.0,0.0,0.0,0.0,0.0,1,332028,2025-10-26 05:23:07
+13701,759226,4,46229902,76,2,2700,45',0,0,Ben Barron (Nairn County) Substitution at 45',Ben Barron Substitution,8567,0.0,0.0,0.0,0.0,0.0,0.0,2,409996,2025-10-26 05:23:07
+13701,759226,5,46230250,94,2,3180,53',0,0,Tyler Eadie (Nairn County) Yellow Card at 53',Tyler Eadie Yellow Card,8567,0.0,0.0,0.0,0.0,0.0,0.0,1,370278,2025-10-26 05:23:07
+13701,759226,6,46230394,94,2,3480,58',0,0,Murray Cormack (Turriff United) Yellow Card at 58',Murray Cormack Yellow Card,13400,0.0,0.0,0.0,0.0,0.0,0.0,1,327885,2025-10-26 05:23:07
+13701,759226,7,46230447,76,2,3480,58',0,0,Benjamin Kelly (Nairn County) Substitution at 58',Benjamin Kelly Substitution,8567,0.0,0.0,0.0,0.0,0.0,0.0,1,370277,2025-10-26 05:23:07
+13701,759226,7,46230447,76,2,3480,58',0,0,Benjamin Kelly (Nairn County) Substitution at 58',Benjamin Kelly Substitution,8567,0.0,0.0,0.0,0.0,0.0,0.0,2,409995,2025-10-26 05:23:07
+13701,759226,8,46230673,98,2,3780,63',1,0,Ben Barron (Nairn County) Penalty - Scored at 63',Ben Barron Penalty - Scored,8567,0.0,0.0,0.0,0.0,0.0,0.0,1,332028,2025-10-26 05:23:07
+13701,759226,9,46230970,76,2,4140,69',0,0,Gary Pullen (Nairn County) Substitution at 69',Gary Pullen Substitution,8567,0.0,0.0,0.0,0.0,0.0,0.0,1,370285,2025-10-26 05:23:07
+13701,759226,9,46230970,76,2,4140,69',0,0,Gary Pullen (Nairn County) Substitution at 69',Gary Pullen Substitution,8567,0.0,0.0,0.0,0.0,0.0,0.0,2,370278,2025-10-26 05:23:07
+13701,759226,10,46231063,94,2,4200,70',0,0,Millar Gamble (Nairn County) Yellow Card at 70',Millar Gamble Yellow Card,8567,0.0,0.0,0.0,0.0,0.0,0.0,1,286834,2025-10-26 05:23:07
+13701,759226,11,46231425,76,2,4740,79',0,0,Mackenzie Taylor (Turriff United) Substitution at 79',Mackenzie Taylor Substitution,13400,0.0,0.0,0.0,0.0,0.0,0.0,1,395801,2025-10-26 05:23:07
+13701,759226,11,46231425,76,2,4740,79',0,0,Mackenzie Taylor (Turriff United) Substitution at 79',Mackenzie Taylor Substitution,13400,0.0,0.0,0.0,0.0,0.0,0.0,2,410017,2025-10-26 05:23:07
+13701,759226,12,46231532,94,2,4860,81',0,0,Calum Mackay (Nairn County) Yellow Card at 81',Calum Mackay Yellow Card,8567,0.0,0.0,0.0,0.0,0.0,0.0,1,341081,2025-10-26 05:23:07
+13701,759226,13,46231627,76,2,5040,84',0,0,Ryan Mclean (Turriff United) Substitution at 84',Ryan Mclean Substitution,13400,0.0,0.0,0.0,0.0,0.0,0.0,1,352884,2025-10-26 05:23:07
+13701,759226,13,46231627,76,2,5040,84',0,0,Ryan Mclean (Turriff United) Substitution at 84',Ryan Mclean Substitution,13400,0.0,0.0,0.0,0.0,0.0,0.0,2,327885,2025-10-26 05:23:07
+13701,759226,14,46231799,93,2,5220,87',0,0,Fraser Dingwall (Nairn County) Red Card at 87',Fraser Dingwall Red Card,8567,0.0,0.0,0.0,0.0,0.0,0.0,1,312427,2025-10-26 05:23:07
+13701,759226,15,46231899,76,2,5340,89',0,0,Timi Fatona (Turriff United) Substitution at 89',Timi Fatona Substitution,13400,0.0,0.0,0.0,0.0,0.0,0.0,1,324754,2025-10-26 05:23:07
+13701,759226,15,46231899,76,2,5340,89',0,0,Timi Fatona (Turriff United) Substitution at 89',Timi Fatona Substitution,13400,0.0,0.0,0.0,0.0,0.0,0.0,2,321200,2025-10-26 05:23:07
+13701,759226,16,46232087,93,2,5400,90'+4',0,0,Gary Pullen (Nairn County) Red Card at 94',Gary Pullen Red Card,8567,0.0,0.0,0.0,0.0,0.0,0.0,1,370285,2025-10-26 05:23:07
+13701,759227,1,46229079,94,1,2100,35',0,0,Lorenzo Giovanazzi (Benburb) Yellow Card at 35',Lorenzo Giovanazzi Yellow Card,21662,0.0,0.0,0.0,0.0,0.0,0.0,1,413434,2025-10-26 05:23:07
+13701,759227,3,46229537,94,1,2700,45',0,0,Mikey Mcwilliams (Benburb) Yellow Card at 45',Mikey Mcwilliams Yellow Card,21662,0.0,0.0,0.0,0.0,0.0,0.0,1,375246,2025-10-26 05:23:07
+13701,759227,2,46229497,94,1,2700,45',0,0,Euan Kennedy (Wick Academy) Yellow Card at 45',Euan Kennedy Yellow Card,651,0.0,0.0,0.0,0.0,0.0,0.0,1,399304,2025-10-26 05:23:07
+13701,759227,4,46230625,94,2,3720,62',0,0,Lewis Mctaggart (Benburb) Yellow Card at 62',Lewis Mctaggart Yellow Card,21662,0.0,0.0,0.0,0.0,0.0,0.0,1,352730,2025-10-26 05:23:07
+13701,759227,5,46231044,76,2,4200,70',0,0,Matthew Robertson (Wick Academy) Substitution at 70',Matthew Robertson Substitution,651,0.0,0.0,0.0,0.0,0.0,0.0,1,390890,2025-10-26 05:23:07
+13701,759227,5,46231044,76,2,4200,70',0,0,Matthew Robertson (Wick Academy) Substitution at 70',Matthew Robertson Substitution,651,0.0,0.0,0.0,0.0,0.0,0.0,2,370290,2025-10-26 05:23:07
+13701,759227,6,46231222,76,2,4380,73',0,0,Mark Macadie (Wick Academy) Substitution at 73',Mark Macadie Substitution,651,0.0,0.0,0.0,0.0,0.0,0.0,1,312064,2025-10-26 05:23:07
+13701,759227,6,46231222,76,2,4380,73',0,0,Mark Macadie (Wick Academy) Substitution at 73',Mark Macadie Substitution,651,0.0,0.0,0.0,0.0,0.0,0.0,2,399304,2025-10-26 05:23:07
+13701,759227,7,46231266,94,2,4440,74',0,0,Davie Allan (Wick Academy) Yellow Card at 74',Davie Allan Yellow Card,651,0.0,0.0,0.0,0.0,0.0,0.0,1,228946,2025-10-26 05:23:07
+13701,759227,8,46231443,76,2,4740,79',0,0,Matthew Collins (Benburb) Substitution at 79',Matthew Collins Substitution,21662,0.0,0.0,0.0,0.0,0.0,0.0,1,32344,2025-10-26 05:23:07
+13701,759227,8,46231443,76,2,4740,79',0,0,Matthew Collins (Benburb) Substitution at 79',Matthew Collins Substitution,21662,0.0,0.0,0.0,0.0,0.0,0.0,2,142240,2025-10-26 05:23:07
+13701,759227,9,46231847,76,2,5280,88',0,0,Matthew Aitkenhead (Wick Academy) Substitution at 88',Matthew Aitkenhead Substitution,651,0.0,0.0,0.0,0.0,0.0,0.0,1,352607,2025-10-26 05:23:07
+13701,759227,9,46231847,76,2,5280,88',0,0,Matthew Aitkenhead (Wick Academy) Substitution at 88',Matthew Aitkenhead Substitution,651,0.0,0.0,0.0,0.0,0.0,0.0,2,370289,2025-10-26 05:23:07
+13701,759227,10,46232214,76,3,5400,90',0,0,Michael Mulcany (Benburb) Substitution at 90',Michael Mulcany Substitution,21662,0.0,0.0,0.0,0.0,0.0,0.0,1,413615,2025-10-26 05:23:07
+13701,759227,10,46232214,76,3,5400,90',0,0,Michael Mulcany (Benburb) Substitution at 90',Michael Mulcany Substitution,21662,0.0,0.0,0.0,0.0,0.0,0.0,2,413442,2025-10-26 05:23:07
+13701,759227,11,46232319,70,3,5880,98',1,0,Jamie Taggart (Benburb) Goal at 98',Jamie Taggart Goal,21662,0.0,0.0,0.0,0.0,0.0,0.0,1,358306,2025-10-26 05:23:07
+13701,759227,12,46232338,76,3,6000,100',0,0,Charlie Mccoll (Benburb) Substitution at 100',Charlie Mccoll Substitution,21662,0.0,0.0,0.0,0.0,0.0,0.0,1,413617,2025-10-26 05:23:07
+13701,759227,12,46232338,76,3,6000,100',0,0,Charlie Mccoll (Benburb) Substitution at 100',Charlie Mccoll Substitution,21662,0.0,0.0,0.0,0.0,0.0,0.0,2,358306,2025-10-26 05:23:07
+13701,759227,13,46232339,94,3,6060,101',0,0,Noah Young (Benburb) Yellow Card at 101',Noah Young Yellow Card,21662,0.0,0.0,0.0,0.0,0.0,0.0,1,413457,2025-10-26 05:23:07
+13701,759227,14,46232352,70,3,6180,103',1,0,Marc MacGregor (Wick Academy) Goal at 103',Marc MacGregor Goal,651,0.0,0.0,0.0,0.0,0.0,0.0,1,228949,2025-10-26 05:23:07
+13701,759227,15,46232396,76,4,6300,105',0,0,Jamie Waddell (Benburb) Substitution at 105',Jamie Waddell Substitution,21662,0.0,0.0,0.0,0.0,0.0,0.0,1,266919,2025-10-26 05:23:07
+13701,759227,16,46232401,76,4,6300,105',0,0,Scott Gallagher (Benburb) Substitution at 105',Scott Gallagher Substitution,21662,0.0,0.0,0.0,0.0,0.0,0.0,1,139742,2025-10-26 05:23:07
+13701,759227,16,46232401,76,4,6300,105',0,0,Scott Gallagher (Benburb) Substitution at 105',Scott Gallagher Substitution,21662,0.0,0.0,0.0,0.0,0.0,0.0,2,352730,2025-10-26 05:23:07
+13701,759227,15,46232396,76,4,6300,105',0,0,Jamie Waddell (Benburb) Substitution at 105',Jamie Waddell Substitution,21662,0.0,0.0,0.0,0.0,0.0,0.0,2,254198,2025-10-26 05:23:07
+13701,759227,17,46232489,76,4,6960,116',0,0,James Boyd (Wick Academy) Substitution at 116',James Boyd Substitution,651,0.0,0.0,0.0,0.0,0.0,0.0,1,239249,2025-10-26 05:23:07
+13701,759227,17,46232489,76,4,6960,116',0,0,James Boyd (Wick Academy) Substitution at 116',James Boyd Substitution,651,0.0,0.0,0.0,0.0,0.0,0.0,2,408062,2025-10-26 05:23:07
+13701,759228,1,46229350,70,1,2580,43',1,0,Jamie Todd (Musselburgh Athletic) Goal at 43',Jamie Todd Goal,21664,0.0,0.0,0.0,0.0,0.0,0.0,1,229715,2025-10-26 05:23:07
+13701,759228,2,46229973,70,2,2760,46',1,0,Stuart Morrison (Forfar Athletic) Goal at 46',Stuart Morrison Goal,408,0.0,0.0,0.0,0.0,0.0,0.0,1,253077,2025-10-26 05:23:07
+13701,759228,3,46230139,76,2,3060,51',0,0,Jonathan Court (Musselburgh Athletic) Substitution at 51',Jonathan Court Substitution,21664,0.0,0.0,0.0,0.0,0.0,0.0,1,223866,2025-10-26 05:23:07
+13701,759228,3,46230139,76,2,3060,51',0,0,Jonathan Court (Musselburgh Athletic) Substitution at 51',Jonathan Court Substitution,21664,0.0,0.0,0.0,0.0,0.0,0.0,2,229578,2025-10-26 05:23:07
+13701,759228,5,46230664,76,2,3660,61',0,0,Jamie Richardson (Forfar Athletic) Substitution at 61',Jamie Richardson Substitution,408,0.0,0.0,0.0,0.0,0.0,0.0,1,324912,2025-10-26 05:23:07
+13701,759228,4,46230598,76,2,3660,61',0,0,Lewis Lorimer (Forfar Athletic) Substitution at 61',Lewis Lorimer Substitution,408,0.0,0.0,0.0,0.0,0.0,0.0,1,366852,2025-10-26 05:23:07
+13701,759228,4,46230598,76,2,3660,61',0,0,Lewis Lorimer (Forfar Athletic) Substitution at 61',Lewis Lorimer Substitution,408,0.0,0.0,0.0,0.0,0.0,0.0,2,388243,2025-10-26 05:23:07
+13701,759228,5,46230664,76,2,3660,61',0,0,Jamie Richardson (Forfar Athletic) Substitution at 61',Jamie Richardson Substitution,408,0.0,0.0,0.0,0.0,0.0,0.0,2,370589,2025-10-26 05:23:07
+13701,759228,6,46231169,76,2,4320,72',0,0,Cormac Christie (Forfar Athletic) Substitution at 72',Cormac Christie Substitution,408,0.0,0.0,0.0,0.0,0.0,0.0,1,408825,2025-10-26 05:23:07
+13701,759228,6,46231169,76,2,4320,72',0,0,Cormac Christie (Forfar Athletic) Substitution at 72',Cormac Christie Substitution,408,0.0,0.0,0.0,0.0,0.0,0.0,2,190256,2025-10-26 05:23:07
+13701,759228,7,46231444,94,2,4560,76',0,0,Robert Wilson (Musselburgh Athletic) Yellow Card at 76',Robert Wilson Yellow Card,21664,0.0,0.0,0.0,0.0,0.0,0.0,1,225473,2025-10-26 05:23:07
+13701,759228,8,46231445,76,2,4740,79',0,0,Jackson Barker (Musselburgh Athletic) Substitution at 79',Jackson Barker Substitution,21664,0.0,0.0,0.0,0.0,0.0,0.0,1,375563,2025-10-26 05:23:07
+13701,759228,8,46231445,76,2,4740,79',0,0,Jackson Barker (Musselburgh Athletic) Substitution at 79',Jackson Barker Substitution,21664,0.0,0.0,0.0,0.0,0.0,0.0,2,157548,2025-10-26 05:23:07
+13701,759228,9,46231597,94,2,4920,82',0,0,Lewis Martin (Forfar Athletic) Yellow Card at 82',Lewis Martin Yellow Card,408,0.0,0.0,0.0,0.0,0.0,0.0,1,179657,2025-10-26 05:23:07
+13701,759228,10,46231745,70,2,5220,87',1,0,Craig Slater (Forfar Athletic) Goal at 87',Craig Slater Goal,408,0.0,0.0,0.0,0.0,0.0,0.0,1,142368,2025-10-26 05:23:07
+13701,759228,11,46231812,76,2,5220,87',0,0,Aidan Walsh (Musselburgh Athletic) Substitution at 87',Aidan Walsh Substitution,21664,0.0,0.0,0.0,0.0,0.0,0.0,1,291509,2025-10-26 05:23:07
+13701,759228,11,46231812,76,2,5220,87',0,0,Aidan Walsh (Musselburgh Athletic) Substitution at 87',Aidan Walsh Substitution,21664,0.0,0.0,0.0,0.0,0.0,0.0,2,179086,2025-10-26 05:23:07
+13701,759228,12,46232129,94,2,5400,90'+3',0,0,Angus Mailer (Forfar Athletic) Yellow Card at 93',Angus Mailer Yellow Card,408,0.0,0.0,0.0,0.0,0.0,0.0,1,234324,2025-10-26 05:23:07
+13701,759229,1,46221710,70,1,2160,36',1,0,Josh Peters (Buckie Thistle) Goal at 36',Josh Peters Goal,650,0.0,0.0,0.0,0.0,0.0,0.0,1,211932,2025-10-25 05:18:41
+13701,759229,2,46222368,70,2,3120,52',1,0,Aaron Cummings (Buckie Thistle) Goal at 52',Aaron Cummings Goal,650,0.0,0.0,0.0,0.0,0.0,0.0,1,409038,2025-10-25 05:18:41
+13701,759229,3,46222481,76,2,3600,60',0,0,Julian Wade (Formartine United) Substitution at 60',Julian Wade Substitution,13397,0.0,0.0,0.0,0.0,0.0,0.0,1,159215,2025-10-25 05:18:41
+13701,759229,4,46222501,76,2,3600,60',0,0,Michael Dangana (Formartine United) Substitution at 60',Michael Dangana Substitution,13397,0.0,0.0,0.0,0.0,0.0,0.0,1,291445,2025-10-25 05:18:41
+13701,759229,3,46222481,76,2,3600,60',0,0,Julian Wade (Formartine United) Substitution at 60',Julian Wade Substitution,13397,0.0,0.0,0.0,0.0,0.0,0.0,2,291449,2025-10-25 05:18:41
+13701,759229,4,46222501,76,2,3600,60',0,0,Michael Dangana (Formartine United) Substitution at 60',Michael Dangana Substitution,13397,0.0,0.0,0.0,0.0,0.0,0.0,2,213310,2025-10-25 05:18:41
+13701,759229,5,46222643,76,2,4260,71',0,0,Paul Campbell (Formartine United) Substitution at 71',Paul Campbell Substitution,13397,0.0,0.0,0.0,0.0,0.0,0.0,1,228937,2025-10-25 05:18:41
+13701,759229,5,46222643,76,2,4260,71',0,0,Paul Campbell (Formartine United) Substitution at 71',Paul Campbell Substitution,13397,0.0,0.0,0.0,0.0,0.0,0.0,2,142068,2025-10-25 05:18:41
+13701,759229,6,46222772,76,2,4560,76',0,0,Marcus Goodall (Buckie Thistle) Substitution at 76',Marcus Goodall Substitution,650,0.0,0.0,0.0,0.0,0.0,0.0,1,291497,2025-10-25 05:18:41
+13701,759229,6,46222772,76,2,4560,76',0,0,Marcus Goodall (Buckie Thistle) Substitution at 76',Marcus Goodall Substitution,650,0.0,0.0,0.0,0.0,0.0,0.0,2,40472,2025-10-25 05:18:41
+13701,759229,7,46222787,76,2,4680,78',0,0,Scott Adams (Formartine United) Substitution at 78',Scott Adams Substitution,13397,0.0,0.0,0.0,0.0,0.0,0.0,1,126247,2025-10-25 05:18:41
+13701,759229,7,46222787,76,2,4680,78',0,0,Scott Adams (Formartine United) Substitution at 78',Scott Adams Substitution,13397,0.0,0.0,0.0,0.0,0.0,0.0,2,57727,2025-10-25 05:18:41
+13701,759229,8,46222802,94,2,4740,79',0,0,Marcus Goodall (Buckie Thistle) Yellow Card at 79',Marcus Goodall Yellow Card,650,0.0,0.0,0.0,0.0,0.0,0.0,1,291497,2025-10-25 05:18:41
+13701,759229,9,46222858,76,2,4980,83',0,0,Aaron Nicolson (Buckie Thistle) Substitution at 83',Aaron Nicolson Substitution,650,0.0,0.0,0.0,0.0,0.0,0.0,1,354021,2025-10-25 05:18:41
+13701,759229,9,46222858,76,2,4980,83',0,0,Aaron Nicolson (Buckie Thistle) Substitution at 83',Aaron Nicolson Substitution,650,0.0,0.0,0.0,0.0,0.0,0.0,2,211932,2025-10-25 05:18:41
+13701,759229,10,46222963,76,2,5280,88',0,0,Innes Mckay (Buckie Thistle) Substitution at 88',Innes Mckay Substitution,650,0.0,0.0,0.0,0.0,0.0,0.0,1,327828,2025-10-25 05:18:41
+13701,759229,10,46222963,76,2,5280,88',0,0,Innes Mckay (Buckie Thistle) Substitution at 88',Innes Mckay Substitution,650,0.0,0.0,0.0,0.0,0.0,0.0,2,310699,2025-10-25 05:18:41
+13701,759229,11,46223040,94,2,5400,90'+1',0,0,Paul Campbell (Formartine United) Yellow Card at 91',Paul Campbell Yellow Card,13397,0.0,0.0,0.0,0.0,0.0,0.0,1,228937,2025-10-25 05:18:41
+13701,759229,12,46223035,94,2,5400,90'+2',0,0,Glenn Murison (Formartine United) Yellow Card at 92',Glenn Murison Yellow Card,13397,0.0,0.0,0.0,0.0,0.0,0.0,1,229000,2025-10-25 05:18:41
+13701,759230,1,46228480,94,1,1380,23',0,0,Jack Murray (Elgin City) Yellow Card at 23',Jack Murray Yellow Card,419,0.0,0.0,0.0,0.0,0.0,0.0,1,152253,2025-10-26 05:23:07
+13701,759230,2,46228555,94,1,1560,26',0,0,Garry Wood (Deveronvale) Yellow Card at 26',Garry Wood Yellow Card,661,0.0,0.0,0.0,0.0,0.0,0.0,1,42520,2025-10-26 05:23:07
+13701,759230,3,46228848,94,1,1800,30',0,0,Alasdair Spalding (Elgin City) Yellow Card at 30',Alasdair Spalding Yellow Card,419,0.0,0.0,0.0,0.0,0.0,0.0,1,345411,2025-10-26 05:23:07
+13701,759230,4,46229446,94,1,2640,44',0,0,Mark Gallagher (Elgin City) Yellow Card at 44',Mark Gallagher Yellow Card,419,0.0,0.0,0.0,0.0,0.0,0.0,1,7257,2025-10-26 05:23:07
+13701,759230,5,46229882,76,2,2700,45',0,0,Jayden Goldie (Deveronvale) Substitution at 45',Jayden Goldie Substitution,661,0.0,0.0,0.0,0.0,0.0,0.0,1,350154,2025-10-26 05:23:07
+13701,759230,5,46229882,76,2,2700,45',0,0,Jayden Goldie (Deveronvale) Substitution at 45',Jayden Goldie Substitution,661,0.0,0.0,0.0,0.0,0.0,0.0,2,394828,2025-10-26 05:23:07
+13701,759230,6,46230392,93,2,3480,58',0,0,Alasdair Spalding (Elgin City) Red Card at 58',Alasdair Spalding Red Card,419,0.0,0.0,0.0,0.0,0.0,0.0,1,345411,2025-10-26 05:23:07
+13701,759230,7,46230523,94,2,3600,60',0,0,Josh Walker (Elgin City) Yellow Card at 60',Josh Walker Yellow Card,419,0.0,0.0,0.0,0.0,0.0,0.0,1,291467,2025-10-26 05:23:07
+13701,759230,7,46230523,94,2,3600,60',0,0,Josh Walker (Elgin City) Yellow Card at 60',Josh Walker Yellow Card,419,0.0,0.0,0.0,0.0,0.0,0.0,1,276612,2025-10-26 05:23:07
+13701,759230,7,46230523,94,2,3600,60',0,0,Josh Walker (Elgin City) Yellow Card at 60',Josh Walker Yellow Card,419,0.0,0.0,0.0,0.0,0.0,0.0,1,251683,2025-10-26 05:23:07
+13701,759230,8,46230524,76,2,3660,61',0,0,Oliver Colloty (Elgin City) Substitution at 61',Oliver Colloty Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,1,362626,2025-10-26 05:23:07
+13701,759230,9,46230525,76,2,3660,61',0,0,Ryan Sargent (Elgin City) Substitution at 61',Ryan Sargent Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,1,266928,2025-10-26 05:23:07
+13701,759230,8,46230524,76,2,3660,61',0,0,Oliver Colloty (Elgin City) Substitution at 61',Oliver Colloty Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,2,223017,2025-10-26 05:23:07
+13701,759230,9,46230525,76,2,3660,61',0,0,Ryan Sargent (Elgin City) Substitution at 61',Ryan Sargent Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,2,291467,2025-10-26 05:23:07
+13701,759230,9,46230525,76,2,3660,61',0,0,Ryan Sargent (Elgin City) Substitution at 61',Ryan Sargent Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,2,276612,2025-10-26 05:23:07
+13701,759230,9,46230525,76,2,3660,61',0,0,Ryan Sargent (Elgin City) Substitution at 61',Ryan Sargent Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,2,251683,2025-10-26 05:23:07
+13701,759230,10,46230557,70,2,3720,62',1,0,Jack Murray (Elgin City) Goal at 62',Jack Murray Goal,419,0.0,0.0,0.0,0.0,0.0,0.0,1,152253,2025-10-26 05:23:07
+13701,759230,11,46230674,76,2,3840,64',0,0,Aleksander Dlugosz (Deveronvale) Substitution at 64',Aleksander Dlugosz Substitution,661,0.0,0.0,0.0,0.0,0.0,0.0,1,350169,2025-10-26 05:23:07
+13701,759230,11,46230674,76,2,3840,64',0,0,Aleksander Dlugosz (Deveronvale) Substitution at 64',Aleksander Dlugosz Substitution,661,0.0,0.0,0.0,0.0,0.0,0.0,2,375288,2025-10-26 05:23:07
+13701,759230,12,46230954,76,2,4200,70',0,0,Marcus Binnie (Deveronvale) Substitution at 70',Marcus Binnie Substitution,661,0.0,0.0,0.0,0.0,0.0,0.0,1,409991,2025-10-26 05:23:07
+13701,759230,12,46230954,76,2,4200,70',0,0,Marcus Binnie (Deveronvale) Substitution at 70',Marcus Binnie Substitution,661,0.0,0.0,0.0,0.0,0.0,0.0,2,374944,2025-10-26 05:23:07
+13701,759230,13,46231403,76,2,4740,79',0,0,Cameron Angus (Deveronvale) Substitution at 79',Cameron Angus Substitution,661,0.0,0.0,0.0,0.0,0.0,0.0,1,350174,2025-10-26 05:23:07
+13701,759230,13,46231403,76,2,4740,79',0,0,Cameron Angus (Deveronvale) Substitution at 79',Cameron Angus Substitution,661,0.0,0.0,0.0,0.0,0.0,0.0,2,301562,2025-10-26 05:23:07
+13701,759230,14,46231454,94,2,4800,80',0,0,Tom Ritchie (Elgin City) Yellow Card at 80',Tom Ritchie Yellow Card,419,0.0,0.0,0.0,0.0,0.0,0.0,1,291452,2025-10-26 05:23:07
+13701,759230,15,46231827,70,2,5100,85',1,0,Cameron Angus (Deveronvale) Goal at 85',Cameron Angus Goal,661,0.0,0.0,0.0,0.0,0.0,0.0,1,350174,2025-10-26 05:23:07
+13701,759230,16,46231914,70,2,5400,90'+1',1,0,Ryan Sargent (Elgin City) Goal at 91',Ryan Sargent Goal,419,0.0,0.0,0.0,0.0,0.0,0.0,1,266928,2025-10-26 05:23:07
+13701,759231,1,46228312,76,1,1080,18',0,0,Innes Lawson (Edinburgh City) Substitution at 18',Innes Lawson Substitution,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,327831,2025-10-26 05:23:07
+13701,759231,1,46228312,76,1,1080,18',0,0,Innes Lawson (Edinburgh City) Substitution at 18',Innes Lawson Substitution,2832,0.0,0.0,0.0,0.0,0.0,0.0,2,154406,2025-10-26 05:23:07
+13701,759231,2,46229064,94,1,2100,35',0,0,Calan Ledingham (Stirling University) Yellow Card at 35',Calan Ledingham Yellow Card,18019,0.0,0.0,0.0,0.0,0.0,0.0,1,365388,2025-10-26 05:23:07
+13701,759231,3,46229103,70,1,2220,37',1,0,Innes Lawson (Edinburgh City) Goal at 37',Innes Lawson Goal,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,327831,2025-10-26 05:23:07
+13701,759231,4,46229142,94,1,2280,38',0,0,Edin Lynch (Edinburgh City) Yellow Card at 38',Edin Lynch Yellow Card,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,277672,2025-10-26 05:23:07
+13701,759231,5,46230287,94,2,3000,50',0,0,Lewis Mcarthur (Edinburgh City) Yellow Card at 50',Lewis Mcarthur Yellow Card,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,352383,2025-10-26 05:23:07
+13701,759231,6,46230798,94,2,3540,59',0,0,Quinn Mitchell (Edinburgh City) Yellow Card at 59',Quinn Mitchell Yellow Card,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,336766,2025-10-26 05:23:07
+13701,759231,7,46230799,94,2,3540,59',0,0,Thomas Vonk (Stirling University) Yellow Card at 59',Thomas Vonk Yellow Card,18019,0.0,0.0,0.0,0.0,0.0,0.0,1,370592,2025-10-26 05:23:07
+13701,759231,8,46231084,76,2,3900,65',0,0,Sam Martin (Stirling University) Substitution at 65',Sam Martin Substitution,18019,0.0,0.0,0.0,0.0,0.0,0.0,1,345205,2025-10-26 05:23:07
+13701,759231,8,46231084,76,2,3900,65',0,0,Sam Martin (Stirling University) Substitution at 65',Sam Martin Substitution,18019,0.0,0.0,0.0,0.0,0.0,0.0,2,344865,2025-10-26 05:23:07
+13701,759231,9,46231420,76,2,4380,73',0,0,Liam Trotter (Stirling University) Substitution at 73',Liam Trotter Substitution,18019,0.0,0.0,0.0,0.0,0.0,0.0,1,77939,2025-10-26 05:23:07
+13701,759231,10,46231421,76,2,4380,73',0,0,Nathan Tallen (Stirling University) Substitution at 73',Nathan Tallen Substitution,18019,0.0,0.0,0.0,0.0,0.0,0.0,1,366873,2025-10-26 05:23:07
+13701,759231,10,46231421,76,2,4380,73',0,0,Nathan Tallen (Stirling University) Substitution at 73',Nathan Tallen Substitution,18019,0.0,0.0,0.0,0.0,0.0,0.0,2,370592,2025-10-26 05:23:07
+13701,759231,9,46231420,76,2,4380,73',0,0,Liam Trotter (Stirling University) Substitution at 73',Liam Trotter Substitution,18019,0.0,0.0,0.0,0.0,0.0,0.0,2,381651,2025-10-26 05:23:07
+13701,759231,11,46231459,94,2,4440,74',0,0,Jake Service (Edinburgh City) Yellow Card at 74',Jake Service Yellow Card,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,350197,2025-10-26 05:23:07
+13701,759231,12,46231779,76,2,4920,82',0,0,Logan Myles (Edinburgh City) Substitution at 82',Logan Myles Substitution,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,407287,2025-10-26 05:23:07
+13701,759231,12,46231779,76,2,4920,82',0,0,Logan Myles (Edinburgh City) Substitution at 82',Logan Myles Substitution,2832,0.0,0.0,0.0,0.0,0.0,0.0,2,352383,2025-10-26 05:23:07
+13701,759231,13,46232016,76,2,5220,87',0,0,Finn Regan (Stirling University) Substitution at 87',Finn Regan Substitution,18019,0.0,0.0,0.0,0.0,0.0,0.0,1,324856,2025-10-26 05:23:07
+13701,759231,14,46232017,76,2,5220,87',0,0,Dylan Brown (Stirling University) Substitution at 87',Dylan Brown Substitution,18019,0.0,0.0,0.0,0.0,0.0,0.0,1,388269,2025-10-26 05:23:07
+13701,759231,14,46232017,76,2,5220,87',0,0,Dylan Brown (Stirling University) Substitution at 87',Dylan Brown Substitution,18019,0.0,0.0,0.0,0.0,0.0,0.0,2,400753,2025-10-26 05:23:07
+13701,759231,13,46232016,76,2,5220,87',0,0,Finn Regan (Stirling University) Substitution at 87',Finn Regan Substitution,18019,0.0,0.0,0.0,0.0,0.0,0.0,2,365388,2025-10-26 05:23:07
+13701,759231,15,46232140,94,2,5400,90',0,0,Robert Mahon (Edinburgh City) Yellow Card at 90',Robert Mahon Yellow Card,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,321900,2025-10-26 05:23:07
+13701,759232,1,46227986,70,1,600,10',1,0,Connor Boyd (Auchinleck Talbot) Goal at 10',Connor Boyd Goal,10603,0.0,0.0,0.0,0.0,0.0,0.0,1,394835,2025-10-28 05:15:45
+13701,759232,2,46228062,94,1,720,12',0,0,Logan Sinclair (Gretna 2008) Yellow Card at 12',Logan Sinclair Yellow Card,17580,0.0,0.0,0.0,0.0,0.0,0.0,1,362470,2025-10-26 05:23:07
+13701,759232,4,46228414,94,1,1260,21',0,0,Ross Clark (Auchinleck Talbot) Yellow Card at 21',Ross Clark Yellow Card,10603,0.0,0.0,0.0,0.0,0.0,0.0,1,394832,2025-10-26 05:23:07
+13701,759232,4,46228414,94,1,1260,21',0,0,Ross Clark (Auchinleck Talbot) Yellow Card at 21',Ross Clark Yellow Card,10603,0.0,0.0,0.0,0.0,0.0,0.0,1,388261,2025-10-26 05:23:07
+13701,759232,3,46228413,94,1,1260,21',0,0,Hayden Tait (Gretna 2008) Yellow Card at 21',Hayden Tait Yellow Card,17580,0.0,0.0,0.0,0.0,0.0,0.0,1,390921,2025-10-26 05:23:07
+13701,759232,5,46228716,70,1,1620,27',1,0,Scott Schoneville (Auchinleck Talbot) Goal at 27',Scott Schoneville Goal,10603,0.0,0.0,0.0,0.0,0.0,0.0,1,394827,2025-10-26 05:23:07
+13701,759232,6,46228778,93,1,1740,29',0,0,Hayden Tait (Gretna 2008) Red Card at 29',Hayden Tait Red Card,17580,0.0,0.0,0.0,0.0,0.0,0.0,1,390921,2025-10-26 05:23:07
+13701,759232,7,46228870,94,1,1800,30',0,0,Sean McKenzie (Gretna 2008) Yellow Card at 30',Sean McKenzie Yellow Card,17580,0.0,0.0,0.0,0.0,0.0,0.0,1,206494,2025-10-26 05:23:07
+13701,759232,8,46230005,76,2,2700,45',0,0,Aaron Weir (Gretna 2008) Substitution at 45',Aaron Weir Substitution,17580,0.0,0.0,0.0,0.0,0.0,0.0,1,383917,2025-10-26 05:23:07
+13701,759232,8,46230005,76,2,2700,45',0,0,Aaron Weir (Gretna 2008) Substitution at 45',Aaron Weir Substitution,17580,0.0,0.0,0.0,0.0,0.0,0.0,2,239243,2025-10-26 05:23:07
+13701,759232,9,46230443,70,2,3540,59',1,0,Luke Gillies (Auchinleck Talbot) Goal at 59',Luke Gillies Goal,10603,0.0,0.0,0.0,0.0,0.0,0.0,1,394829,2025-10-26 05:23:07
+13701,759232,12,46230909,76,2,3840,64',0,0,Andy Kerr (Auchinleck Talbot) Substitution at 64',Andy Kerr Substitution,10603,0.0,0.0,0.0,0.0,0.0,0.0,1,67800,2025-10-26 05:23:07
+13701,759232,11,46230873,76,2,3840,64',0,0,Cameron Crooks (Auchinleck Talbot) Substitution at 64',Cameron Crooks Substitution,10603,0.0,0.0,0.0,0.0,0.0,0.0,1,308577,2025-10-26 05:23:07
+13701,759232,13,46230910,76,2,3840,64',0,0,Keiran Wood (Auchinleck Talbot) Substitution at 64',Keiran Wood Substitution,10603,0.0,0.0,0.0,0.0,0.0,0.0,1,352401,2025-10-26 05:23:07
+13701,759232,10,46230866,76,2,3840,64',0,0,Alex Nimmo (Auchinleck Talbot) Substitution at 64',Alex Nimmo Substitution,10603,0.0,0.0,0.0,0.0,0.0,0.0,1,353054,2025-10-26 05:23:07
+13701,759232,10,46230866,76,2,3840,64',0,0,Alex Nimmo (Auchinleck Talbot) Substitution at 64',Alex Nimmo Substitution,10603,0.0,0.0,0.0,0.0,0.0,0.0,2,324847,2025-10-26 05:23:07
+13701,759232,11,46230873,76,2,3840,64',0,0,Cameron Crooks (Auchinleck Talbot) Substitution at 64',Cameron Crooks Substitution,10603,0.0,0.0,0.0,0.0,0.0,0.0,2,394832,2025-10-26 05:23:07
+13701,759232,11,46230873,76,2,3840,64',0,0,Cameron Crooks (Auchinleck Talbot) Substitution at 64',Cameron Crooks Substitution,10603,0.0,0.0,0.0,0.0,0.0,0.0,2,388261,2025-10-26 05:23:07
+13701,759232,13,46230910,76,2,3840,64',0,0,Keiran Wood (Auchinleck Talbot) Substitution at 64',Keiran Wood Substitution,10603,0.0,0.0,0.0,0.0,0.0,0.0,2,394827,2025-10-26 05:23:07
+13701,759232,12,46230909,76,2,3840,64',0,0,Andy Kerr (Auchinleck Talbot) Substitution at 64',Andy Kerr Substitution,10603,0.0,0.0,0.0,0.0,0.0,0.0,2,282314,2025-10-26 05:23:07
+13701,759232,14,46230911,70,2,4080,68',1,0,Andrew Oram (Gretna 2008) Goal at 68',Andrew Oram Goal,17580,0.0,0.0,0.0,0.0,0.0,0.0,1,365998,2025-10-26 05:23:07
+13701,759232,15,46231119,76,2,4380,73',0,0,Kyan Gunn (Gretna 2008) Substitution at 73',Kyan Gunn Substitution,17580,0.0,0.0,0.0,0.0,0.0,0.0,1,345413,2025-10-26 05:23:07
+13701,759232,15,46231119,76,2,4380,73',0,0,Kyan Gunn (Gretna 2008) Substitution at 73',Kyan Gunn Substitution,17580,0.0,0.0,0.0,0.0,0.0,0.0,2,362470,2025-10-26 05:23:07
+13701,759232,16,46231428,76,2,4800,80',0,0,Robbie Scullion (Auchinleck Talbot) Substitution at 80',Robbie Scullion Substitution,10603,0.0,0.0,0.0,0.0,0.0,0.0,1,347419,2025-10-26 05:23:07
+13701,759232,16,46231428,76,2,4800,80',0,0,Robbie Scullion (Auchinleck Talbot) Substitution at 80',Robbie Scullion Substitution,10603,0.0,0.0,0.0,0.0,0.0,0.0,2,347303,2025-10-26 05:23:07
+13701,759232,17,46231615,76,2,5040,84',0,0,Kayn Cranston (Gretna 2008) Substitution at 84',Kayn Cranston Substitution,17580,0.0,0.0,0.0,0.0,0.0,0.0,1,365493,2025-10-26 05:23:07
+13701,759232,17,46231615,76,2,5040,84',0,0,Kayn Cranston (Gretna 2008) Substitution at 84',Kayn Cranston Substitution,17580,0.0,0.0,0.0,0.0,0.0,0.0,2,260615,2025-10-26 05:23:07
+13701,759232,18,46231798,76,2,5280,88',0,0,Leo Clark (Gretna 2008) Substitution at 88',Leo Clark Substitution,17580,0.0,0.0,0.0,0.0,0.0,0.0,1,413621,2025-10-26 05:23:07
+13701,759232,19,46231853,76,2,5280,88',0,0,Liam Short (Gretna 2008) Substitution at 88',Liam Short Substitution,17580,0.0,0.0,0.0,0.0,0.0,0.0,1,351343,2025-10-26 05:23:07
+13701,759232,19,46231853,76,2,5280,88',0,0,Liam Short (Gretna 2008) Substitution at 88',Liam Short Substitution,17580,0.0,0.0,0.0,0.0,0.0,0.0,2,206494,2025-10-26 05:23:07
+13701,759232,18,46231798,76,2,5280,88',0,0,Leo Clark (Gretna 2008) Substitution at 88',Leo Clark Substitution,17580,0.0,0.0,0.0,0.0,0.0,0.0,2,365998,2025-10-26 05:23:07
+13701,759232,20,46231924,94,2,5340,89',0,0,Kyle Mcavoy (Auchinleck Talbot) Yellow Card at 89',Kyle Mcavoy Yellow Card,10603,0.0,0.0,0.0,0.0,0.0,0.0,1,394837,2025-10-26 05:23:07
+13701,759232,22,46232054,94,2,5400,90'+3',0,0,Iain Anderson (Gretna 2008) Yellow Card at 93',Iain Anderson Yellow Card,17580,0.0,0.0,0.0,0.0,0.0,0.0,1,4943,2025-10-26 05:23:07
+13701,759232,21,46231993,94,2,5400,90'+1',0,0,Sam Atkinson (Gretna 2008) Yellow Card at 91',Sam Atkinson Yellow Card,17580,0.0,0.0,0.0,0.0,0.0,0.0,1,229709,2025-10-26 05:23:07
+13701,759233,1,46229521,98,1,2700,45',1,0,Broque Watson (Tranent Juniors) Penalty - Scored at 45',Broque Watson Penalty - Scored,20845,0.0,0.0,0.0,0.0,0.0,0.0,1,239234,2025-10-26 05:23:07
+13701,759233,2,46230202,70,2,2940,49',1,0,Cameron Mckinlay (Tranent Juniors) Goal at 49',Cameron Mckinlay Goal,20845,0.0,0.0,0.0,0.0,0.0,0.0,1,338846,2025-10-26 05:23:07
+13701,759233,3,46230701,76,2,3600,60',0,0,Jamie Montgomery (Dundee North End) Substitution at 60',Jamie Montgomery Substitution,22367,0.0,0.0,0.0,0.0,0.0,0.0,1,191382,2025-10-26 05:23:07
+13701,759233,3,46230701,76,2,3600,60',0,0,Jamie Montgomery (Dundee North End) Substitution at 60',Jamie Montgomery Substitution,22367,0.0,0.0,0.0,0.0,0.0,0.0,2,93676,2025-10-26 05:23:07
+13701,759233,4,46231051,94,2,4020,67',0,0,Liam Gibb (Dundee North End) Yellow Card at 67',Liam Gibb Yellow Card,22367,0.0,0.0,0.0,0.0,0.0,0.0,1,239247,2025-10-26 05:23:07
+13701,759233,5,46231500,76,2,4620,77',0,0,Daniel Handling (Tranent Juniors) Substitution at 77',Daniel Handling Substitution,20845,0.0,0.0,0.0,0.0,0.0,0.0,1,158068,2025-10-26 05:23:07
+13701,759233,6,46231501,76,2,4620,77',0,0,Guy Mcgarry (Tranent Juniors) Substitution at 77',Guy Mcgarry Substitution,20845,0.0,0.0,0.0,0.0,0.0,0.0,1,329310,2025-10-26 05:23:07
+13701,759233,5,46231500,76,2,4620,77',0,0,Daniel Handling (Tranent Juniors) Substitution at 77',Daniel Handling Substitution,20845,0.0,0.0,0.0,0.0,0.0,0.0,2,338846,2025-10-26 05:23:07
+13701,759233,6,46231501,76,2,4620,77',0,0,Guy Mcgarry (Tranent Juniors) Substitution at 77',Guy Mcgarry Substitution,20845,0.0,0.0,0.0,0.0,0.0,0.0,2,240685,2025-10-26 05:23:07
+13701,759233,7,46231559,76,2,4680,78',0,0,Luc Bollan (Dundee North End) Substitution at 78',Luc Bollan Substitution,22367,0.0,0.0,0.0,0.0,0.0,0.0,1,260274,2025-10-26 05:23:07
+13701,759233,7,46231559,76,2,4680,78',0,0,Luc Bollan (Dundee North End) Substitution at 78',Luc Bollan Substitution,22367,0.0,0.0,0.0,0.0,0.0,0.0,2,395216,2025-10-26 05:23:07
+13701,759233,8,46231605,94,2,4740,79',0,0,Michael Gardyne (Dundee North End) Yellow Card at 79',Michael Gardyne Yellow Card,22367,0.0,0.0,0.0,0.0,0.0,0.0,1,197370,2025-10-26 05:23:07
+13701,759233,9,46232519,94,2,4980,83',0,0,Craig Donald (Dundee North End) Yellow Card at 83',Craig Donald Yellow Card,22367,0.0,0.0,0.0,0.0,0.0,0.0,1,105090,2025-10-26 05:23:07
+13701,759233,10,46231758,98,2,5040,84',1,0,Broque Watson (Tranent Juniors) Penalty - Scored at 84',Broque Watson Penalty - Scored,20845,0.0,0.0,0.0,0.0,0.0,0.0,1,239234,2025-10-26 05:23:07
+13701,759233,11,46231900,76,2,5160,86',0,0,Ben Miller (Tranent Juniors) Substitution at 86',Ben Miller Substitution,20845,0.0,0.0,0.0,0.0,0.0,0.0,1,163012,2025-10-26 05:23:07
+13701,759233,12,46231901,76,2,5160,86',0,0,Euan Bauld (Tranent Juniors) Substitution at 86',Euan Bauld Substitution,20845,0.0,0.0,0.0,0.0,0.0,0.0,1,206482,2025-10-26 05:23:07
+13701,759233,13,46231902,76,2,5160,86',0,0,Reece Mullen (Tranent Juniors) Substitution at 86',Reece Mullen Substitution,20845,0.0,0.0,0.0,0.0,0.0,0.0,1,379805,2025-10-26 05:23:07
+13701,759233,11,46231900,76,2,5160,86',0,0,Ben Miller (Tranent Juniors) Substitution at 86',Ben Miller Substitution,20845,0.0,0.0,0.0,0.0,0.0,0.0,2,308696,2025-10-26 05:23:07
+13701,759233,13,46231902,76,2,5160,86',0,0,Reece Mullen (Tranent Juniors) Substitution at 86',Reece Mullen Substitution,20845,0.0,0.0,0.0,0.0,0.0,0.0,2,248958,2025-10-26 05:23:07
+13701,759233,12,46231901,76,2,5160,86',0,0,Euan Bauld (Tranent Juniors) Substitution at 86',Euan Bauld Substitution,20845,0.0,0.0,0.0,0.0,0.0,0.0,2,239234,2025-10-26 05:23:07
+13701,759233,14,46231935,76,2,5220,87',0,0,Cammy Blacklock (Dundee North End) Substitution at 87',Cammy Blacklock Substitution,22367,0.0,0.0,0.0,0.0,0.0,0.0,1,308683,2025-10-26 05:23:07
+13701,759233,14,46231935,76,2,5220,87',0,0,Cammy Blacklock (Dundee North End) Substitution at 87',Cammy Blacklock Substitution,22367,0.0,0.0,0.0,0.0,0.0,0.0,2,197370,2025-10-26 05:23:07
+13701,759234,1,46227801,94,1,120,2',0,0,Chris Inglis (East Stirlingshire) Yellow Card at 2',Chris Inglis Yellow Card,418,0.0,0.0,0.0,0.0,0.0,0.0,1,179066,2025-10-26 05:23:07
+13701,759234,2,46228020,70,1,480,8',1,0,Flynn Mccafferty (East Stirlingshire) Goal at 8',Flynn Mccafferty Goal,418,0.0,0.0,0.0,0.0,0.0,0.0,1,387372,2025-10-26 05:23:07
+13701,759234,3,46228936,70,1,1860,31',1,0,James Grant (Clydebank) Goal at 31',James Grant Goal,404,0.0,0.0,0.0,0.0,0.0,0.0,1,276338,2025-10-26 05:23:07
+13701,759234,4,46229228,76,1,2280,38',0,0,Ynyr Liddell (East Stirlingshire) Substitution at 38',Ynyr Liddell Substitution,418,0.0,0.0,0.0,0.0,0.0,0.0,1,370267,2025-10-26 05:23:07
+13701,759234,4,46229228,76,1,2280,38',0,0,Ynyr Liddell (East Stirlingshire) Substitution at 38',Ynyr Liddell Substitution,418,0.0,0.0,0.0,0.0,0.0,0.0,2,347012,2025-10-26 05:23:07
+13701,759234,5,46230028,76,2,2700,45',0,0,Adam Hodge (Clydebank) Substitution at 45',Adam Hodge Substitution,404,0.0,0.0,0.0,0.0,0.0,0.0,1,191434,2025-10-26 05:23:07
+13701,759234,6,46230055,76,2,2700,45',0,0,Finlay Malcolm (East Stirlingshire) Substitution at 45',Finlay Malcolm Substitution,418,0.0,0.0,0.0,0.0,0.0,0.0,1,311112,2025-10-26 05:23:07
+13701,759234,5,46230028,76,2,2700,45',0,0,Adam Hodge (Clydebank) Substitution at 45',Adam Hodge Substitution,404,0.0,0.0,0.0,0.0,0.0,0.0,2,276338,2025-10-26 05:23:07
+13701,759234,6,46230055,76,2,2700,45',0,0,Finlay Malcolm (East Stirlingshire) Substitution at 45',Finlay Malcolm Substitution,418,0.0,0.0,0.0,0.0,0.0,0.0,2,410024,2025-10-26 05:23:07
+13701,759234,7,46230527,76,2,3360,56',0,0,Jamie Hislop (East Stirlingshire) Substitution at 56',Jamie Hislop Substitution,418,0.0,0.0,0.0,0.0,0.0,0.0,1,388194,2025-10-26 05:23:07
+13701,759234,7,46230527,76,2,3360,56',0,0,Jamie Hislop (East Stirlingshire) Substitution at 56',Jamie Hislop Substitution,418,0.0,0.0,0.0,0.0,0.0,0.0,2,365492,2025-10-26 05:23:07
+13701,759234,9,46231037,76,2,3900,65',0,0,Aaron Black (Clydebank) Substitution at 65',Aaron Black Substitution,404,0.0,0.0,0.0,0.0,0.0,0.0,1,20042,2025-10-26 05:23:07
+13701,759234,8,46231036,76,2,3900,65',0,0,Oisin Mchugh (Clydebank) Substitution at 65',Oisin Mchugh Substitution,404,0.0,0.0,0.0,0.0,0.0,0.0,1,329390,2025-10-26 05:23:07
+13701,759234,10,46231038,76,2,3900,65',0,0,Rocco Hickey-Fugaccia (Clydebank) Substitution at 65',Rocco Hickey-Fugaccia Substituti,404,0.0,0.0,0.0,0.0,0.0,0.0,1,347271,2025-10-26 05:23:07
+13701,759234,9,46231037,76,2,3900,65',0,0,Aaron Black (Clydebank) Substitution at 65',Aaron Black Substitution,404,0.0,0.0,0.0,0.0,0.0,0.0,2,107838,2025-10-26 05:23:07
+13701,759234,10,46231038,76,2,3900,65',0,0,Rocco Hickey-Fugaccia (Clydebank) Substitution at 65',Rocco Hickey-Fugaccia Substituti,404,0.0,0.0,0.0,0.0,0.0,0.0,2,212367,2025-10-26 05:23:07
+13701,759234,8,46231036,76,2,3900,65',0,0,Oisin Mchugh (Clydebank) Substitution at 65',Oisin Mchugh Substitution,404,0.0,0.0,0.0,0.0,0.0,0.0,2,219357,2025-10-26 05:23:07
+13701,759234,11,46231123,70,2,4080,68',1,0,Keir Samson (Clydebank) Goal at 68',Keir Samson Goal,404,0.0,0.0,0.0,0.0,0.0,0.0,1,227710,2025-10-26 05:23:07
+13701,759234,12,46231265,76,2,4260,71',0,0,Kenzie Mitchell (East Stirlingshire) Substitution at 71',Kenzie Mitchell Substitution,418,0.0,0.0,0.0,0.0,0.0,0.0,1,398784,2025-10-26 05:23:07
+13701,759234,12,46231265,76,2,4260,71',0,0,Kenzie Mitchell (East Stirlingshire) Substitution at 71',Kenzie Mitchell Substitution,418,0.0,0.0,0.0,0.0,0.0,0.0,2,84039,2025-10-26 05:23:07
+13701,759234,13,46231842,94,2,4980,83',0,0,Ben Hobbs (East Stirlingshire) Yellow Card at 83',Ben Hobbs Yellow Card,418,0.0,0.0,0.0,0.0,0.0,0.0,1,390651,2025-10-26 05:23:07
+13701,759234,14,46232034,94,2,5280,88',0,0,Kenzie Mitchell (East Stirlingshire) Yellow Card at 88',Kenzie Mitchell Yellow Card,418,0.0,0.0,0.0,0.0,0.0,0.0,1,398784,2025-10-26 05:23:07
+13701,759234,15,46232189,70,2,5400,90'+3',1,0,Rocco Hickey-Fugaccia (Clydebank) Goal at 93',Rocco Hickey-Fugaccia Goal,404,0.0,0.0,0.0,0.0,0.0,0.0,1,347271,2025-10-26 05:23:07

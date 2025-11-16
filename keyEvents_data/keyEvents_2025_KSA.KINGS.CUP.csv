@@ -1,0 +1,759 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13424,759165,1,46256563,94,1,1440,24',0,0,Mateo Borrell (Al Okhdood) Yellow Card at 24',Mateo Borrell Yellow Card,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,395382.0,2025-10-29 05:18:13
+13424,759165,2,46256572,76,1,1860,31',0,0,Mohammed Al Jahif (Al Okhdood) Substitution at 31',Mohammed Al Jahif Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,367695.0,2025-10-29 05:18:13
+13424,759165,2,46256572,76,1,1860,31',0,0,Mohammed Al Jahif (Al Okhdood) Substitution at 31',Mohammed Al Jahif Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,2,291391.0,2025-10-29 05:18:13
+13424,759165,3,46256574,94,1,2160,36',0,0,Abdullah Al-Hamdan (Al Hilal) Yellow Card at 36',Abdullah Al-Hamdan Yellow Card,929,0.0,0.0,0.0,0.0,0.0,0.0,1,294239.0,2025-10-29 05:18:13
+13424,759165,4,46256577,94,1,2700,45',0,0,Mohanad Al Qaydhi (Al Okhdood) Yellow Card at 45',Mohanad Al Qaydhi Yellow Card,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,357646.0,2025-10-29 05:18:13
+13424,759165,5,46256579,98,1,2700,45'+3',1,0,Marcos Leonardo (Al Hilal) Penalty - Scored at 48',Marcos Leonardo Penalty - Scored,929,0.0,0.0,0.0,0.0,0.0,0.0,1,304571.0,2025-10-30 05:17:42
+13424,759165,7,46256596,76,2,2700,45',0,0,Koray Günter (Al Okhdood) Substitution at 45',Koray Günter Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,174616.0,2025-10-29 05:18:13
+13424,759165,8,46256599,76,2,2700,45',0,0,Juan Pedroza (Al Okhdood) Substitution at 45',Juan Pedroza Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,196748.0,2025-10-29 05:18:13
+13424,759165,6,46256595,76,2,2700,45',0,0,Gökhan Gül (Al Okhdood) Substitution at 45',Gökhan Gül Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,108251.0,2025-10-29 05:18:13
+13424,759165,6,46256595,76,2,2700,45',0,0,Gökhan Gül (Al Okhdood) Substitution at 45',Gökhan Gül Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,2,357639.0,2025-10-29 05:18:13
+13424,759165,7,46256596,76,2,2700,45',0,0,Koray Günter (Al Okhdood) Substitution at 45',Koray Günter Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,2,310294.0,2025-10-29 05:18:13
+13424,759165,8,46256599,76,2,2700,45',0,0,Juan Pedroza (Al Okhdood) Substitution at 45',Juan Pedroza Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,2,174978.0,2025-10-29 05:18:13
+13424,759165,9,46256609,76,2,3900,65',0,0,Theo Hernández (Al Hilal) Substitution at 65',Theo Hernández Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,1,233621.0,2025-10-29 05:18:13
+13424,759165,9,46256609,76,2,3900,65',0,0,Theo Hernández (Al Hilal) Substitution at 65',Theo Hernández Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,320482.0,2025-10-29 05:18:13
+13424,759165,11,46256611,76,2,3960,66',0,0,Rúben Neves (Al Hilal) Substitution at 66',Rúben Neves Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,1,208128.0,2025-10-29 05:18:13
+13424,759165,10,46256610,76,2,3960,66',0,0,Darwin Núñez (Al Hilal) Substitution at 66',Darwin Núñez Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,1,271788.0,2025-10-29 05:18:13
+13424,759165,10,46256610,76,2,3960,66',0,0,Darwin Núñez (Al Hilal) Substitution at 66',Darwin Núñez Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,294239.0,2025-10-29 05:18:13
+13424,759165,11,46256611,76,2,3960,66',0,0,Rúben Neves (Al Hilal) Substitution at 66',Rúben Neves Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,253195.0,2025-10-29 05:18:13
+13424,759165,12,46256940,76,2,4500,75',0,0,Ali Lajami (Al Hilal) Substitution at 75',Ali Lajami Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,1,296972.0,2025-10-29 05:18:13
+13424,759165,12,46256940,76,2,4500,75',0,0,Ali Lajami (Al Hilal) Substitution at 75',Ali Lajami Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,270417.0,2025-10-29 05:18:13
+13424,759165,13,46256943,76,2,4680,78',0,0,Khaled Narey (Al Okhdood) Substitution at 78',Khaled Narey Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,209584.0,2025-10-29 05:18:13
+13424,759165,13,46256943,76,2,4680,78',0,0,Khaled Narey (Al Okhdood) Substitution at 78',Khaled Narey Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,2,326767.0,2025-10-29 05:18:13
+13424,759165,14,46256949,76,2,5220,87',0,0,Abdulkarim Darisi (Al Hilal) Substitution at 87',Abdulkarim Darisi Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,1,372853.0,2025-10-29 05:18:13
+13424,759165,14,46256949,76,2,5220,87',0,0,Abdulkarim Darisi (Al Hilal) Substitution at 87',Abdulkarim Darisi Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,304571.0,2025-10-29 05:18:13
+13424,759166,1,46256553,70,1,540,9',1,0,Nawaf Al-Habshi (Al Hazem) Goal at 9',Nawaf Al-Habshi Goal,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,367512.0,2025-10-29 05:18:13
+13424,759166,2,46256556,70,1,1320,22',1,0,Mateo Retegui (Al Qadsiah) Goal at 22',Mateo Retegui Goal,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,268703.0,2025-10-29 05:18:13
+13424,759166,3,46256557,94,1,2460,41',0,0,Yasser Al-Shahrani (Al Qadsiah) Yellow Card at 41',Yasser Al-Shahrani Yellow Card,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,268744.0,2025-10-29 05:18:13
+13424,759166,3,46256557,94,1,2460,41',0,0,Yasser Al-Shahrani (Al Qadsiah) Yellow Card at 41',Yasser Al-Shahrani Yellow Card,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,171877.0,2025-10-29 05:18:13
+13424,759166,6,46256567,76,2,2700,45',0,0,Mohammed Aboulshamat (Al Qadsiah) Substitution at 45',Mohammed Aboulshamat Substitutio,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,361692.0,2025-10-29 05:18:13
+13424,759166,5,46256566,76,2,2700,45',0,0,Christopher Baah (Al Qadsiah) Substitution at 45',Christopher Baah Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,360279.0,2025-10-29 05:18:13
+13424,759166,4,46256565,76,2,2700,45',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 45',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,315523.0,2025-10-29 05:18:13
+13424,759166,6,46256567,76,2,2700,45',0,0,Mohammed Aboulshamat (Al Qadsiah) Substitution at 45',Mohammed Aboulshamat Substitutio,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,361399.0,2025-10-29 05:18:13
+13424,759166,6,46256567,76,2,2700,45',0,0,Mohammed Aboulshamat (Al Qadsiah) Substitution at 45',Mohammed Aboulshamat Substitutio,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,314835.0,2025-10-29 05:18:13
+13424,759166,4,46256565,76,2,2700,45',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 45',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,402890.0,2025-10-29 05:18:13
+13424,759166,4,46256565,76,2,2700,45',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 45',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,400306.0,2025-10-29 05:18:13
+13424,759166,4,46256565,76,2,2700,45',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 45',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,399134.0,2025-10-29 05:18:13
+13424,759166,4,46256565,76,2,2700,45',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 45',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,394249.0,2025-10-29 05:18:13
+13424,759166,4,46256565,76,2,2700,45',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 45',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,357910.0,2025-10-29 05:18:13
+13424,759166,4,46256565,76,2,2700,45',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 45',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,333867.0,2025-10-29 05:18:13
+13424,759166,4,46256565,76,2,2700,45',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 45',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,308195.0,2025-10-29 05:18:13
+13424,759166,4,46256565,76,2,2700,45',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 45',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,237497.0,2025-10-29 05:18:13
+13424,759166,4,46256565,76,2,2700,45',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 45',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,201547.0,2025-10-29 05:18:13
+13424,759166,4,46256565,76,2,2700,45',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 45',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,196881.0,2025-10-29 05:18:13
+13424,759166,4,46256565,76,2,2700,45',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 45',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,153918.0,2025-10-29 05:18:13
+13424,759166,4,46256565,76,2,2700,45',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 45',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,113999.0,2025-10-29 05:18:13
+13424,759166,5,46256566,76,2,2700,45',0,0,Christopher Baah (Al Qadsiah) Substitution at 45',Christopher Baah Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,283330.0,2025-10-29 05:18:13
+13424,759166,7,46256573,94,2,2940,49',0,0,Sultan Tanker (Al Hazem) Yellow Card at 49',Sultan Tanker Yellow Card,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,367515.0,2025-10-29 05:18:13
+13424,759166,8,46256576,70,2,3240,54',1,0,Julián Quiñones (Al Qadsiah) Goal at 54',Julián Quiñones Goal,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,233075.0,2025-10-29 05:18:13
+13424,759166,8,46256576,70,2,3240,54',1,0,Julián Quiñones (Al Qadsiah) Goal at 54',Julián Quiñones Goal,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,198729.0,2025-10-29 05:18:13
+13424,759166,9,46256578,98,2,3780,63',1,0,Julián Quiñones (Al Qadsiah) Penalty - Scored at 63',Julián Quiñones Penalty - Scored,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,233075.0,2025-10-29 05:18:13
+13424,759166,9,46256578,98,2,3780,63',1,0,Julián Quiñones (Al Qadsiah) Penalty - Scored at 63',Julián Quiñones Penalty - Scored,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,198729.0,2025-10-29 05:18:13
+13424,759166,11,46256583,76,2,4200,70',0,0,Amir Sayoud (Al Hazem) Substitution at 70',Amir Sayoud Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,189615.0,2025-10-29 05:18:13
+13424,759166,10,46256581,76,2,4200,70',0,0,Ahmed Al-Nakhli (Al Hazem) Substitution at 70',Ahmed Al-Nakhli Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,306689.0,2025-10-29 05:18:13
+13424,759166,12,46256584,76,2,4200,70',0,0,Ali Abdullah Hazzazi (Al Qadsiah) Substitution at 70',Ali Abdullah Hazzazi Substitutio,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,287058.0,2025-10-29 05:18:13
+13424,759166,13,46256585,76,2,4200,70',0,0,Aboubacar Bah (Al Hazem) Substitution at 70',Aboubacar Bah Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,409773.0,2025-10-29 05:18:13
+13424,759166,13,46256585,76,2,4200,70',0,0,Aboubacar Bah (Al Hazem) Substitution at 70',Aboubacar Bah Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,2,312821.0,2025-10-29 05:18:13
+13424,759166,11,46256583,76,2,4200,70',0,0,Amir Sayoud (Al Hazem) Substitution at 70',Amir Sayoud Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,2,306516.0,2025-10-29 05:18:13
+13424,759166,10,46256581,76,2,4200,70',0,0,Ahmed Al-Nakhli (Al Hazem) Substitution at 70',Ahmed Al-Nakhli Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,2,377712.0,2025-10-29 05:18:13
+13424,759166,12,46256584,76,2,4200,70',0,0,Ali Abdullah Hazzazi (Al Qadsiah) Substitution at 70',Ali Abdullah Hazzazi Substitutio,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,233075.0,2025-10-29 05:18:13
+13424,759166,12,46256584,76,2,4200,70',0,0,Ali Abdullah Hazzazi (Al Qadsiah) Substitution at 70',Ali Abdullah Hazzazi Substitutio,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,198729.0,2025-10-29 05:18:13
+13424,759166,16,46256593,76,2,4860,81',0,0,Abdulhadi Al-Harajin (Al Hazem) Substitution at 81',Abdulhadi Al-Harajin Substitutio,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,365524.0,2025-10-29 05:18:13
+13424,759166,15,46256592,76,2,4860,81',0,0,Fábio Martins (Al Hazem) Substitution at 81',Fábio Martins Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,206547.0,2025-10-29 05:18:13
+13424,759166,14,46256590,76,2,4860,81',0,0,Abdullah Al-Salem (Al Qadsiah) Substitution at 81',Abdullah Al-Salem Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,286249.0,2025-10-29 05:18:13
+13424,759166,14,46256590,76,2,4860,81',0,0,Abdullah Al-Salem (Al Qadsiah) Substitution at 81',Abdullah Al-Salem Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,213056.0,2025-10-29 05:18:13
+13424,759166,16,46256593,76,2,4860,81',0,0,Abdulhadi Al-Harajin (Al Hazem) Substitution at 81',Abdulhadi Al-Harajin Substitutio,21964,0.0,0.0,0.0,0.0,0.0,0.0,2,346381.0,2025-10-29 05:18:13
+13424,759166,15,46256592,76,2,4860,81',0,0,Fábio Martins (Al Hazem) Substitution at 81',Fábio Martins Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,2,216955.0,2025-10-29 05:18:13
+13424,759166,17,46256600,94,2,5160,86',0,0,Mateo Retegui (Al Qadsiah) Yellow Card at 86',Mateo Retegui Yellow Card,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,268703.0,2025-10-29 05:18:13
+13424,759166,18,46256601,94,2,5220,87',0,0,Nacho (Al Qadsiah) Yellow Card at 87',Nacho Yellow Card,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,413154.0,2025-10-30 05:17:42
+13424,759166,18,46256601,94,2,5220,87',0,0,Nacho (Al Qadsiah) Yellow Card at 87',Nacho Yellow Card,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,412991.0,2025-10-30 05:17:42
+13424,759166,18,46256601,94,2,5220,87',0,0,Nacho (Al Qadsiah) Yellow Card at 87',Nacho Yellow Card,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,375872.0,2025-10-30 05:17:42
+13424,759166,18,46256601,94,2,5220,87',0,0,Nacho (Al Qadsiah) Yellow Card at 87',Nacho Yellow Card,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,331995.0,2025-10-30 05:17:42
+13424,759166,18,46256601,94,2,5220,87',0,0,Nacho (Al Qadsiah) Yellow Card at 87',Nacho Yellow Card,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,331272.0,2025-10-30 05:17:42
+13424,759166,18,46256601,94,2,5220,87',0,0,Nacho (Al Qadsiah) Yellow Card at 87',Nacho Yellow Card,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,157710.0,2025-10-30 05:17:42
+13424,759167,1,46257867,94,1,600,10',0,0,Fabinho (Al Ittihad) Yellow Card at 10',Fabinho Yellow Card,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,403163.0,2025-10-30 05:17:42
+13424,759167,1,46257867,94,1,600,10',0,0,Fabinho (Al Ittihad) Yellow Card at 10',Fabinho Yellow Card,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,307934.0,2025-10-30 05:17:42
+13424,759167,1,46257867,94,1,600,10',0,0,Fabinho (Al Ittihad) Yellow Card at 10',Fabinho Yellow Card,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,295072.0,2025-10-30 05:17:42
+13424,759167,1,46257867,94,1,600,10',0,0,Fabinho (Al Ittihad) Yellow Card at 10',Fabinho Yellow Card,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,252223.0,2025-10-30 05:17:42
+13424,759167,1,46257867,94,1,600,10',0,0,Fabinho (Al Ittihad) Yellow Card at 10',Fabinho Yellow Card,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,176287.0,2025-10-30 05:17:42
+13424,759167,1,46257867,94,1,600,10',0,0,Fabinho (Al Ittihad) Yellow Card at 10',Fabinho Yellow Card,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,164093.0,2025-10-30 05:17:42
+13424,759167,1,46257867,94,1,600,10',0,0,Fabinho (Al Ittihad) Yellow Card at 10',Fabinho Yellow Card,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,144754.0,2025-10-30 05:17:42
+13424,759167,1,46257867,94,1,600,10',0,0,Fabinho (Al Ittihad) Yellow Card at 10',Fabinho Yellow Card,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,113818.0,2025-10-30 05:17:42
+13424,759167,2,46257917,94,1,840,14',0,0,Abdullah Al-Khaibari (Al Nassr) Yellow Card at 14',Abdullah Al-Khaibari Yellow Card,817,0.0,0.0,0.0,0.0,0.0,0.0,1,271461.0,2025-10-29 05:18:13
+13424,759167,3,46257938,70,1,900,15',1,0,Karim Benzema (Al Ittihad) Goal at 15',Karim Benzema Goal,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,46858.0,2025-10-29 05:18:13
+13424,759167,4,46258290,70,1,1800,30',1,0,Ângelo Gabriel (Al Nassr) Goal at 30',Ângelo Gabriel Goal,817,0.0,0.0,0.0,0.0,0.0,0.0,1,309275.0,2025-10-30 05:17:42
+13424,759167,5,46258430,94,1,2280,38',0,0,Houssem Aouar (Al Ittihad) Yellow Card at 38',Houssem Aouar Yellow Card,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,241116.0,2025-10-29 05:18:13
+13424,759167,6,46258431,94,1,2280,38',0,0,Mohamed Simakan (Al Nassr) Yellow Card at 38',Mohamed Simakan Yellow Card,817,0.0,0.0,0.0,0.0,0.0,0.0,1,277306.0,2025-10-29 05:18:13
+13424,759167,7,46258571,70,1,2700,45'+2',1,0,Houssem Aouar (Al Ittihad) Goal at 47',Houssem Aouar Goal,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,241116.0,2025-10-29 05:18:13
+13424,759167,9,46259104,93,2,2940,49',0,0,Ahmed Al-Julaydan (Al Ittihad) Red Card at 49',Ahmed Al-Julaydan Red Card,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,361707.0,2025-10-29 05:18:13
+13424,759167,8,46259076,76,2,2940,49',0,0,Abdulelah Al-Amri (Al Nassr) Substitution at 49',Abdulelah Al-Amri Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,1,256667.0,2025-10-29 05:18:13
+13424,759167,8,46259076,76,2,2940,49',0,0,Abdulelah Al-Amri (Al Nassr) Substitution at 49',Abdulelah Al-Amri Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,2,277306.0,2025-10-29 05:18:13
+13424,759167,11,46259597,76,2,4020,67',0,0,Wesley Ribeiro (Al Nassr) Substitution at 67',Wesley Ribeiro Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,1,304533.0,2025-10-29 05:18:13
+13424,759167,12,46259618,76,2,4020,67',0,0,Marcelo Brozovic (Al Nassr) Substitution at 67',Marcelo Brozovic Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,1,178383.0,2025-10-29 05:18:13
+13424,759167,10,46259596,76,2,4020,67',0,0,Sultan Al-Ghannam (Al Nassr) Substitution at 67',Sultan Al-Ghannam Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,1,269485.0,2025-10-29 05:18:13
+13424,759167,11,46259597,76,2,4020,67',0,0,Wesley Ribeiro (Al Nassr) Substitution at 67',Wesley Ribeiro Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,2,315109.0,2025-10-29 05:18:13
+13424,759167,11,46259597,76,2,4020,67',0,0,Wesley Ribeiro (Al Nassr) Substitution at 67',Wesley Ribeiro Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,2,276350.0,2025-10-29 05:18:13
+13424,759167,12,46259618,76,2,4020,67',0,0,Marcelo Brozovic (Al Nassr) Substitution at 67',Marcelo Brozovic Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,2,271461.0,2025-10-29 05:18:13
+13424,759167,10,46259596,76,2,4020,67',0,0,Sultan Al-Ghannam (Al Nassr) Substitution at 67',Sultan Al-Ghannam Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,2,296602.0,2025-10-29 05:18:13
+13424,759167,13,46259820,76,2,4560,76',0,0,Steven Bergwijn (Al Ittihad) Substitution at 76',Steven Bergwijn Substitution,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,207542.0,2025-10-29 05:18:13
+13424,759167,13,46259820,76,2,4560,76',0,0,Steven Bergwijn (Al Ittihad) Substitution at 76',Steven Bergwijn Substitution,2276,0.0,0.0,0.0,0.0,0.0,0.0,2,46858.0,2025-10-29 05:18:13
+13424,759167,14,46259931,76,2,4920,82',0,0,Muhannad Al-Shanqiti (Al Ittihad) Substitution at 82',Muhannad Al-Shanqiti Substitutio,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,286009.0,2025-10-29 05:18:13
+13424,759167,14,46259931,76,2,4920,82',0,0,Muhannad Al-Shanqiti (Al Ittihad) Substitution at 82',Muhannad Al-Shanqiti Substitutio,2276,0.0,0.0,0.0,0.0,0.0,0.0,2,324373.0,2025-10-29 05:18:13
+13424,759167,15,46259989,76,2,5100,85',0,0,Ali Al-Hassan (Al Nassr) Substitution at 85',Ali Al-Hassan Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,1,309320.0,2025-10-29 05:18:13
+13424,759167,15,46259989,76,2,5100,85',0,0,Ali Al-Hassan (Al Nassr) Substitution at 85',Ali Al-Hassan Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,2,331918.0,2025-10-29 05:18:13
+13424,759167,16,46260145,76,2,5280,88',0,0,Hamed Alghamdi (Al Ittihad) Substitution at 88',Hamed Alghamdi Substitution,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,288571.0,2025-10-29 05:18:13
+13424,759167,16,46260145,76,2,5280,88',0,0,Hamed Alghamdi (Al Ittihad) Substitution at 88',Hamed Alghamdi Substitution,2276,0.0,0.0,0.0,0.0,0.0,0.0,2,241116.0,2025-10-29 05:18:13
+13424,759168,1,46253134,94,1,1920,32',0,0,John Buckley (Al Kholood) Yellow Card at 32',John Buckley Yellow Card,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,243599.0,2025-10-28 05:15:45
+13424,759168,4,46253266,76,2,2700,45',0,0,Abdullah Al Hawsawi (Al Najma) Substitution at 45',Abdullah Al Hawsawi Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,357664.0,2025-10-28 05:15:45
+13424,759168,3,46253265,76,2,2700,45',0,0,Bilal Boutobba (Al Najma) Substitution at 45',Bilal Boutobba Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,214690.0,2025-10-28 05:15:45
+13424,759168,2,46253141,94,1,2700,45',0,0,Fahad Al Abdulrazzaq (Al Najma) Yellow Card at 45',Fahad Al Abdulrazzaq Yellow Card,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,367657.0,2025-10-28 05:15:45
+13424,759168,3,46253265,76,2,2700,45',0,0,Bilal Boutobba (Al Najma) Substitution at 45',Bilal Boutobba Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,2,367657.0,2025-10-28 05:15:45
+13424,759168,4,46253266,76,2,2700,45',0,0,Abdullah Al Hawsawi (Al Najma) Substitution at 45',Abdullah Al Hawsawi Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,2,373104.0,2025-10-28 05:15:45
+13424,759168,5,46253667,76,2,4020,67',0,0,Abdulaziz Al-Aliwa (Al Kholood) Substitution at 67',Abdulaziz Al-Aliwa Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,341460.0,2025-10-28 05:15:45
+13424,759168,5,46253667,76,2,4020,67',0,0,Abdulaziz Al-Aliwa (Al Kholood) Substitution at 67',Abdulaziz Al-Aliwa Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,2,271331.0,2025-10-28 05:15:45
+13424,759168,6,46253669,94,2,4500,75',0,0,Nasser Al Haleel (Al Najma) Yellow Card at 75',Nasser Al Haleel Yellow Card,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,373089.0,2025-10-28 05:15:45
+13424,759168,7,46253670,76,2,4560,76',0,0,Muhammad Sawan (Al Kholood) Substitution at 76',Muhammad Sawan Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,373174.0,2025-10-28 05:15:45
+13424,759168,7,46253670,76,2,4560,76',0,0,Muhammad Sawan (Al Kholood) Substitution at 76',Muhammad Sawan Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,2,251570.0,2025-10-28 05:15:45
+13424,759168,8,46253677,76,2,4800,80',0,0,Ali Jasim (Al Najma) Substitution at 80',Ali Jasim Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,307750.0,2025-10-28 05:15:45
+13424,759168,8,46253677,76,2,4800,80',0,0,Ali Jasim (Al Najma) Substitution at 80',Ali Jasim Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,2,289907.0,2025-10-28 05:15:45
+13424,759168,8,46253677,76,2,4800,80',0,0,Ali Jasim (Al Najma) Substitution at 80',Ali Jasim Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,2,205963.0,2025-10-28 05:15:45
+13424,759168,10,46253680,94,2,4920,82',0,0,Romell Quioto (Al Najma) Yellow Card at 82',Romell Quioto Yellow Card,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,175968.0,2025-10-28 05:15:45
+13424,759168,9,46253678,94,2,4920,82',0,0,Deybi Flores (Al Najma) Yellow Card at 82',Deybi Flores Yellow Card,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,217254.0,2025-10-28 05:15:45
+13424,759168,11,46253829,76,3,5400,90',0,0,Marin Prekodravac (Al Najma) Substitution at 90',Marin Prekodravac Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,366015.0,2025-10-28 05:15:45
+13424,759168,11,46253829,76,3,5400,90',0,0,Marin Prekodravac (Al Najma) Substitution at 90',Marin Prekodravac Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,2,373089.0,2025-10-28 05:15:45
+13424,759168,13,46253994,70,3,5940,99',1,0,Ramiro Enrique (Al Kholood) Goal at 99',Ramiro Enrique Goal,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,309410.0,2025-10-28 05:15:45
+13424,759168,12,46253993,76,3,5940,99',0,0,Ammar Al-Najjar (Al Najma) Substitution at 99',Ammar Al-Najjar Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,343928.0,2025-10-28 05:15:45
+13424,759168,12,46253993,76,3,5940,99',0,0,Ammar Al-Najjar (Al Najma) Substitution at 99',Ammar Al-Najjar Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,2,175968.0,2025-10-28 05:15:45
+13424,759168,14,46253999,76,3,6300,105',0,0,Sultan Al Shehri (Al Kholood) Substitution at 105',Sultan Al Shehri Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,373162.0,2025-10-28 05:15:45
+13424,759168,14,46253999,76,3,6300,105',0,0,Sultan Al Shehri (Al Kholood) Substitution at 105',Sultan Al Shehri Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,2,251758.0,2025-10-28 05:15:45
+13424,759168,15,46254197,94,4,6540,109',0,0,Abdulrahman Al Safari (Al Kholood) Yellow Card at 109',Abdulrahman Al Safari Yellow Car,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,357644.0,2025-10-28 05:15:45
+13424,759168,16,46254199,76,4,6720,112',0,0,Adi Adi (Al Kholood) Substitution at 112',Adi Adi Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,412840.0,2025-10-28 05:15:45
+13424,759168,17,46254200,76,4,6720,112',0,0,Majed Khalifah (Al Kholood) Substitution at 112',Majed Khalifah Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,391000.0,2025-10-28 05:15:45
+13424,759168,16,46254199,76,4,6720,112',0,0,Adi Adi (Al Kholood) Substitution at 112',Adi Adi Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,2,357644.0,2025-10-28 05:15:45
+13424,759168,17,46254200,76,4,6720,112',0,0,Majed Khalifah (Al Kholood) Substitution at 112',Majed Khalifah Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,2,309410.0,2025-10-28 05:15:45
+13424,759168,18,46254201,94,4,6900,115',0,0,Juan Pablo Cozzani (Al Kholood) Yellow Card at 115',Juan Pablo Cozzani Yellow Card,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,271254.0,2025-10-28 05:15:45
+13424,759169,1,46253126,70,1,480,8',1,0,Joshua King (Al Khaleej) Goal at 8',Joshua King Goal,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,141188.0,2025-10-28 05:15:45
+13424,759169,2,46253128,94,1,900,15',0,0,Al Mufarrij (Al Taawoun) Yellow Card at 15',Al Mufarrij Yellow Card,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,270416.0,2025-10-28 05:15:45
+13424,759169,3,46253129,94,1,1260,21',0,0,Abdullah Al Hafith (Al Khaleej) Yellow Card at 21',Abdullah Al Hafith Yellow Card,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,163852.0,2025-10-28 05:15:45
+13424,759169,4,46253130,70,1,1440,24',1,0,Roger Martínez (Al Taawoun) Goal at 24',Roger Martínez Goal,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,332036.0,2025-10-28 05:15:45
+13424,759169,4,46253130,70,1,1440,24',1,0,Roger Martínez (Al Taawoun) Goal at 24',Roger Martínez Goal,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,192180.0,2025-10-28 05:15:45
+13424,759169,5,46253276,94,1,2700,45'+2',0,0,Andrei Girotto (Al Taawoun) Yellow Card at 47',Andrei Girotto Yellow Card,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,186952.0,2025-10-28 05:15:45
+13424,759169,6,46253268,76,2,3960,66',0,0,Saeed Al Hamsal (Al Khaleej) Substitution at 66',Saeed Al Hamsal Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,357602.0,2025-10-28 05:15:45
+13424,759169,6,46253268,76,2,3960,66',0,0,Saeed Al Hamsal (Al Khaleej) Substitution at 66',Saeed Al Hamsal Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,2,357649.0,2025-10-28 05:15:45
+13424,759169,7,46253267,76,2,4020,67',0,0,Dimitrios Kourbelis (Al Khaleej) Substitution at 67',Dimitrios Kourbelis Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,206928.0,2025-10-28 05:15:45
+13424,759169,8,46253269,76,2,4020,67',0,0,Saleh Al-Jamaan (Al Khaleej) Substitution at 67',Saleh Al-Jamaan Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,262499.0,2025-10-28 05:15:45
+13424,759169,7,46253267,76,2,4020,67',0,0,Dimitrios Kourbelis (Al Khaleej) Substitution at 67',Dimitrios Kourbelis Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,2,287051.0,2025-10-28 05:15:45
+13424,759169,8,46253269,76,2,4020,67',0,0,Saleh Al-Jamaan (Al Khaleej) Substitution at 67',Saleh Al-Jamaan Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,2,267868.0,2025-10-28 05:15:45
+13424,759169,9,46253272,76,2,4440,74',0,0,Mohammed Al Kuwaykibi (Al Taawoun) Substitution at 74',Mohammed Al Kuwaykibi Substituti,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,271460.0,2025-10-28 05:15:45
+13424,759169,9,46253272,76,2,4440,74',0,0,Mohammed Al Kuwaykibi (Al Taawoun) Substitution at 74',Mohammed Al Kuwaykibi Substituti,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,215452.0,2025-10-28 05:15:45
+13424,759169,10,46253277,76,2,4920,82',0,0,Murad Al Hawsawi (Al Khaleej) Substitution at 82',Murad Al Hawsawi Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,373097.0,2025-10-28 05:15:45
+13424,759169,10,46253277,76,2,4920,82',0,0,Murad Al Hawsawi (Al Khaleej) Substitution at 82',Murad Al Hawsawi Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,2,259139.0,2025-10-28 05:15:45
+13424,759169,12,46253672,76,3,5400,90',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 90',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,367728.0,2025-10-28 05:15:45
+13424,759169,11,46253671,76,3,5400,90',0,0,Abdulfattah Adam (Al Taawoun) Substitution at 90',Abdulfattah Adam Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,271508.0,2025-10-28 05:15:45
+13424,759169,13,46253673,76,3,5400,90',0,0,Arif Al Haydar (Al Khaleej) Substitution at 90',Arif Al Haydar Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,357628.0,2025-10-28 05:15:45
+13424,759169,13,46253673,76,3,5400,90',0,0,Arif Al Haydar (Al Khaleej) Substitution at 90',Arif Al Haydar Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,2,357521.0,2025-10-28 05:15:45
+13424,759169,12,46253672,76,3,5400,90',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 90',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,407769.0,2025-10-28 05:15:45
+13424,759169,12,46253672,76,3,5400,90',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 90',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,403245.0,2025-10-28 05:15:45
+13424,759169,12,46253672,76,3,5400,90',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 90',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,398719.0,2025-10-28 05:15:45
+13424,759169,12,46253672,76,3,5400,90',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 90',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,357715.0,2025-10-28 05:15:45
+13424,759169,12,46253672,76,3,5400,90',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 90',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,347410.0,2025-10-28 05:15:45
+13424,759169,12,46253672,76,3,5400,90',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 90',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,334382.0,2025-10-28 05:15:45
+13424,759169,12,46253672,76,3,5400,90',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 90',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,322751.0,2025-10-28 05:15:45
+13424,759169,12,46253672,76,3,5400,90',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 90',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,155374.0,2025-10-28 05:15:45
+13424,759169,11,46253671,76,3,5400,90',0,0,Abdulfattah Adam (Al Taawoun) Substitution at 90',Abdulfattah Adam Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,332036.0,2025-10-28 05:15:45
+13424,759169,11,46253671,76,3,5400,90',0,0,Abdulfattah Adam (Al Taawoun) Substitution at 90',Abdulfattah Adam Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,192180.0,2025-10-28 05:15:45
+13424,759169,14,46253830,76,4,6720,112',0,0,Bart Schenkeveld (Al Khaleej) Substitution at 112',Bart Schenkeveld Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,142291.0,2025-10-28 05:15:45
+13424,759169,14,46253830,76,4,6720,112',0,0,Bart Schenkeveld (Al Khaleej) Substitution at 112',Bart Schenkeveld Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,2,141188.0,2025-10-28 05:15:45
+13424,759169,15,46253831,76,4,6900,115',0,0,Ahmed Saleh Bahusayn (Al Taawoun) Substitution at 115',Ahmed Saleh Bahusayn Substitutio,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,347036.0,2025-10-28 05:15:45
+13424,759169,15,46253831,76,4,6900,115',0,0,Ahmed Saleh Bahusayn (Al Taawoun) Substitution at 115',Ahmed Saleh Bahusayn Substitutio,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,288356.0,2025-10-28 05:15:45
+13424,759169,15,46253831,76,4,6900,115',0,0,Ahmed Saleh Bahusayn (Al Taawoun) Substitution at 115',Ahmed Saleh Bahusayn Substitutio,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,236781.0,2025-10-28 05:15:45
+13424,759169,15,46253831,76,4,6900,115',0,0,Ahmed Saleh Bahusayn (Al Taawoun) Substitution at 115',Ahmed Saleh Bahusayn Substitutio,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,229511.0,2025-10-28 05:15:45
+13424,759169,15,46253831,76,4,6900,115',0,0,Ahmed Saleh Bahusayn (Al Taawoun) Substitution at 115',Ahmed Saleh Bahusayn Substitutio,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,219003.0,2025-10-28 05:15:45
+13424,759169,15,46253831,76,4,6900,115',0,0,Ahmed Saleh Bahusayn (Al Taawoun) Substitution at 115',Ahmed Saleh Bahusayn Substitutio,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,189786.0,2025-10-28 05:15:45
+13424,759169,16,46253990,76,4,7140,119',0,0,Cristhoper Zambrano (Al Taawoun) Substitution at 119',Cristhoper Zambrano Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,318055.0,2025-10-28 05:15:45
+13424,759169,16,46253990,76,4,7140,119',0,0,Cristhoper Zambrano (Al Taawoun) Substitution at 119',Cristhoper Zambrano Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,287054.0,2025-10-28 05:15:45
+13424,759169,17,46254195,94,5,7200,120',0,0,Anthony Moris (Al Khaleej) Yellow Card at 120',Anthony Moris Yellow Card,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,140195.0,2025-10-28 05:15:45
+13424,759170,1,46254232,97,1,1320,22',1,0,Turaki Al Jalfan (Al Batin) Own Goal at 22',Turaki Al Jalfan Own Goal,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,410668.0,2025-10-28 05:15:45
+13424,759170,2,46254734,70,2,3000,50',1,0,Feras Al-Brikan (Al Ahli) Goal at 50',Feras Al-Brikan Goal,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,283331.0,2025-10-28 05:15:45
+13424,759170,3,46254752,76,2,3540,59',0,0,Mohamed Falah Al-Sahli (Al Batin) Substitution at 59',Mohamed Falah Al-Sahli Substitut,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,294240.0,2025-10-28 05:15:45
+13424,759170,4,46254753,76,2,3540,59',0,0,Salem Al Saleem (Al Batin) Substitution at 59',Salem Al Saleem Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,286005.0,2025-10-28 05:15:45
+13424,759170,4,46254753,76,2,3540,59',0,0,Salem Al Saleem (Al Batin) Substitution at 59',Salem Al Saleem Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,2,120855.0,2025-10-28 05:15:45
+13424,759170,3,46254752,76,2,3540,59',0,0,Mohamed Falah Al-Sahli (Al Batin) Substitution at 59',Mohamed Falah Al-Sahli Substitut,21832,0.0,0.0,0.0,0.0,0.0,0.0,2,405989.0,2025-10-28 05:15:45
+13424,759170,5,46254759,70,2,3960,66',1,0,Ivan Toney (Al Ahli) Goal at 66',Ivan Toney Goal,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,180639.0,2025-10-28 05:15:45
+13424,759170,7,46254779,76,2,4260,71',0,0,Eid Al Muwallad (Al Ahli) Substitution at 71',Eid Al Muwallad Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,367696.0,2025-10-28 05:15:45
+13424,759170,6,46254778,76,2,4260,71',0,0,Ali Majrashi (Al Ahli) Substitution at 71',Ali Majrashi Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,331920.0,2025-10-28 05:15:45
+13424,759170,7,46254779,76,2,4260,71',0,0,Eid Al Muwallad (Al Ahli) Substitution at 71',Eid Al Muwallad Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,2,359165.0,2025-10-28 05:15:45
+13424,759170,6,46254778,76,2,4260,71',0,0,Ali Majrashi (Al Ahli) Substitution at 71',Ali Majrashi Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,2,334379.0,2025-10-28 05:15:45
+13424,759170,6,46254778,76,2,4260,71',0,0,Ali Majrashi (Al Ahli) Substitution at 71',Ali Majrashi Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,2,312621.0,2025-10-28 05:15:45
+13424,759170,8,46254780,76,2,4320,72',0,0,Fahad Alrashidi (Al Ahli) Substitution at 72',Fahad Alrashidi Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,256608.0,2025-10-28 05:15:45
+13424,759170,9,46254781,76,2,4320,72',0,0,Mohammed Sulaiman (Al Ahli) Substitution at 72',Mohammed Sulaiman Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,341463.0,2025-10-28 05:15:45
+13424,759170,8,46254780,76,2,4320,72',0,0,Fahad Alrashidi (Al Ahli) Substitution at 72',Fahad Alrashidi Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,2,283331.0,2025-10-28 05:15:45
+13424,759170,9,46254781,76,2,4320,72',0,0,Mohammed Sulaiman (Al Ahli) Substitution at 72',Mohammed Sulaiman Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,2,267178.0,2025-10-28 05:15:45
+13424,759170,10,46254783,76,2,4380,73',0,0,Abdulkarim Al Qahtani (Al Batin) Substitution at 73',Abdulkarim Al Qahtani Substituti,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,357654.0,2025-10-28 05:15:45
+13424,759170,10,46254783,76,2,4380,73',0,0,Abdulkarim Al Qahtani (Al Batin) Substitution at 73',Abdulkarim Al Qahtani Substituti,21832,0.0,0.0,0.0,0.0,0.0,0.0,2,357546.0,2025-10-28 05:15:45
+13424,759170,11,46254922,76,2,4680,78',0,0,Youssouf M'Changama (Al Batin) Substitution at 78',Youssouf M'Changama Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,172195.0,2025-10-28 05:15:45
+13424,759170,11,46254922,76,2,4680,78',0,0,Youssouf M'Changama (Al Batin) Substitution at 78',Youssouf M'Changama Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,2,410984.0,2025-10-28 05:15:45
+13424,759170,12,46254925,76,2,4740,79',0,0,Khaled Al-Lazam (Al Batin) Substitution at 79',Khaled Al-Lazam Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,371782.0,2025-10-28 05:15:45
+13424,759170,12,46254925,76,2,4740,79',0,0,Khaled Al-Lazam (Al Batin) Substitution at 79',Khaled Al-Lazam Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,2,392636.0,2025-10-28 05:15:45
+13424,759170,13,46254935,76,2,4920,82',0,0,Abdulelah Al Khaibari (Al Ahli) Substitution at 82',Abdulelah Al Khaibari Substituti,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,367369.0,2025-10-28 05:15:45
+13424,759170,13,46254935,76,2,4920,82',0,0,Abdulelah Al Khaibari (Al Ahli) Substitution at 82',Abdulelah Al Khaibari Substituti,8346,0.0,0.0,0.0,0.0,0.0,0.0,2,331153.0,2025-10-28 05:15:45
+13424,759170,14,46254955,94,2,5340,89',0,0,Mohamed Falah Al-Sahli (Al Batin) Yellow Card at 89',Mohamed Falah Al-Sahli Yellow Ca,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,294240.0,2025-10-28 05:15:45
+13424,759170,15,46254963,94,2,5400,90'+3',0,0,Eid Al Muwallad (Al Ahli) Yellow Card at 93',Eid Al Muwallad Yellow Card,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,367696.0,2025-10-28 05:15:45
+13424,759171,1,46256555,94,1,420,7',0,0,Eric Omondi (Al Zulfi) Yellow Card at 7',Eric Omondi Yellow Card,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,236795.0,2025-10-29 05:18:13
+13424,759171,2,46256558,94,1,2040,34',0,0,Diego Miranda (Al Zulfi) Yellow Card at 34',Diego Miranda Yellow Card,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,183961.0,2025-10-29 05:18:13
+13424,759171,3,46256559,98,1,2100,35',1,0,Yannick Carrasco (Al Shabab) Penalty - Scored at 35',Yannick Carrasco Penalty - Score,793,0.0,0.0,0.0,0.0,0.0,0.0,1,174893.0,2025-10-29 05:18:13
+13424,759171,4,46256560,94,1,2520,42',0,0,Sultan (Al Shabab) Yellow Card at 42',Sultan Yellow Card,793,0.0,0.0,0.0,0.0,0.0,0.0,1,409771.0,2025-10-29 05:18:13
+13424,759171,6,46256587,76,2,3540,59',0,0,Mutair Al Zahrani (Al Zulfi) Substitution at 59',Mutair Al Zahrani Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,306696.0,2025-10-29 05:18:13
+13424,759171,5,46256586,76,2,3540,59',0,0,Thaar Al-Otaibi (Al Zulfi) Substitution at 59',Thaar Al-Otaibi Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,307635.0,2025-10-29 05:18:13
+13424,759171,5,46256586,76,2,3540,59',0,0,Thaar Al-Otaibi (Al Zulfi) Substitution at 59',Thaar Al-Otaibi Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,2,236795.0,2025-10-29 05:18:13
+13424,759171,6,46256587,76,2,3540,59',0,0,Mutair Al Zahrani (Al Zulfi) Substitution at 59',Mutair Al Zahrani Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,2,357653.0,2025-10-29 05:18:13
+13424,759171,7,46256588,76,2,3780,63',0,0,Hussain Al-Sabiyani (Al Shabab) Substitution at 63',Hussain Al-Sabiyani Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,1,336156.0,2025-10-29 05:18:13
+13424,759171,7,46256588,76,2,3780,63',0,0,Hussain Al-Sabiyani (Al Shabab) Substitution at 63',Hussain Al-Sabiyani Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,2,409771.0,2025-10-29 05:18:13
+13424,759171,8,46256589,94,2,3900,65',0,0,Hussain Al-Sabiyani (Al Shabab) Yellow Card at 65',Hussain Al-Sabiyani Yellow Card,793,0.0,0.0,0.0,0.0,0.0,0.0,1,336156.0,2025-10-29 05:18:13
+13424,759171,9,46256598,76,2,4200,70',0,0,Maher Al Mutairi (Al Zulfi) Substitution at 70',Maher Al Mutairi Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,404975.0,2025-10-29 05:18:13
+13424,759171,9,46256598,76,2,4200,70',0,0,Maher Al Mutairi (Al Zulfi) Substitution at 70',Maher Al Mutairi Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,2,336139.0,2025-10-29 05:18:13
+13424,759171,11,46256603,76,2,4500,75',0,0,Faisal Al Sibyani (Al Shabab) Substitution at 75',Faisal Al Sibyani Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,1,341474.0,2025-10-29 05:18:13
+13424,759171,10,46256602,76,2,4500,75',0,0,Carlos (Al Shabab) Substitution at 75',Carlos Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,1,306329.0,2025-10-30 05:17:42
+13424,759171,10,46256602,76,2,4500,75',0,0,Carlos (Al Shabab) Substitution at 75',Carlos Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,1,219083.0,2025-10-30 05:17:42
+13424,759171,10,46256602,76,2,4500,75',0,0,Carlos (Al Shabab) Substitution at 75',Carlos Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,1,218932.0,2025-10-30 05:17:42
+13424,759171,10,46256602,76,2,4500,75',0,0,Carlos (Al Shabab) Substitution at 75',Carlos Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,1,196826.0,2025-10-30 05:17:42
+13424,759171,10,46256602,76,2,4500,75',0,0,Carlos (Al Shabab) Substitution at 75',Carlos Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,2,389695.0,2025-10-30 05:17:42
+13424,759171,11,46256603,76,2,4500,75',0,0,Faisal Al Sibyani (Al Shabab) Substitution at 75',Faisal Al Sibyani Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,2,279748.0,2025-10-29 05:18:13
+13424,759171,12,46256604,76,2,4920,82',0,0,Nawaf Al Ghulaimish (Al Shabab) Substitution at 82',Nawaf Al Ghulaimish Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,1,378621.0,2025-10-29 05:18:13
+13424,759171,12,46256604,76,2,4920,82',0,0,Nawaf Al Ghulaimish (Al Shabab) Substitution at 82',Nawaf Al Ghulaimish Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,2,336157.0,2025-10-29 05:18:13
+13424,759171,14,46256607,76,2,5100,85',0,0,Nawaf Asiri (Al Zulfi) Substitution at 85',Nawaf Asiri Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,404981.0,2025-10-29 05:18:13
+13424,759171,13,46256605,94,2,5100,85',0,0,Marcelo Grohe (Al Shabab) Yellow Card at 85',Marcelo Grohe Yellow Card,793,0.0,0.0,0.0,0.0,0.0,0.0,1,199072.0,2025-10-29 05:18:13
+13424,759171,14,46256607,76,2,5100,85',0,0,Nawaf Asiri (Al Zulfi) Substitution at 85',Nawaf Asiri Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,2,287049.0,2025-10-29 05:18:13
+13424,759171,18,46256942,94,2,5400,90'+11',0,0,Koshaim Al Karani (Al Zulfi) Yellow Card at 101',Koshaim Al Karani Yellow Card,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,373132.0,2025-10-29 05:18:13
+13424,759171,15,46256830,93,2,5400,90'+6',0,0,Abdul Rahman Al Hajri (Al Zulfi) Red Card at 96',Abdul Rahman Al Hajri Red Card,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,357653.0,2025-10-29 05:18:13
+13424,759171,16,46256832,93,2,5400,90'+7',0,0,Mohammed Essa Harbush (Al Shabab) Red Card at 97',Mohammed Essa Harbush Red Card,793,0.0,0.0,0.0,0.0,0.0,0.0,1,339789.0,2025-10-29 05:18:13
+13424,759171,17,46256834,94,2,5400,90'+9',0,0,Carlos (Al Shabab) Yellow Card at 99',Carlos Yellow Card,793,0.0,0.0,0.0,0.0,0.0,0.0,1,306329.0,2025-10-30 05:17:42
+13424,759171,17,46256834,94,2,5400,90'+9',0,0,Carlos (Al Shabab) Yellow Card at 99',Carlos Yellow Card,793,0.0,0.0,0.0,0.0,0.0,0.0,1,219083.0,2025-10-30 05:17:42
+13424,759171,17,46256834,94,2,5400,90'+9',0,0,Carlos (Al Shabab) Yellow Card at 99',Carlos Yellow Card,793,0.0,0.0,0.0,0.0,0.0,0.0,1,218932.0,2025-10-30 05:17:42
+13424,759171,17,46256834,94,2,5400,90'+9',0,0,Carlos (Al Shabab) Yellow Card at 99',Carlos Yellow Card,793,0.0,0.0,0.0,0.0,0.0,0.0,1,196826.0,2025-10-30 05:17:42
+13424,759172,1,46253136,76,2,2700,45',0,0,Wesley Delgado (Al Fateh) Substitution at 45',Wesley Delgado Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,411128.0,2025-10-28 05:15:45
+13424,759172,1,46253136,76,2,2700,45',0,0,Wesley Delgado (Al Fateh) Substitution at 45',Wesley Delgado Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,2,357059.0,2025-10-28 05:15:45
+13424,759172,2,46253137,94,2,2820,47',0,0,Teddy Okou (Al Riyadh) Yellow Card at 47',Teddy Okou Yellow Card,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,255773.0,2025-10-28 05:15:45
+13424,759172,3,46253139,94,2,3000,50',0,0,Sofiane Bendebka (Al Fateh) Yellow Card at 50',Sofiane Bendebka Yellow Card,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,240451.0,2025-10-28 05:15:45
+13424,759172,4,46253140,94,2,3120,52',0,0,Sergio González (Al Riyadh) Yellow Card at 52',Sergio González Yellow Card,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,364828.0,2025-10-28 05:15:45
+13424,759172,4,46253140,94,2,3120,52',0,0,Sergio González (Al Riyadh) Yellow Card at 52',Sergio González Yellow Card,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,301431.0,2025-10-28 05:15:45
+13424,759172,4,46253140,94,2,3120,52',0,0,Sergio González (Al Riyadh) Yellow Card at 52',Sergio González Yellow Card,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,268602.0,2025-10-28 05:15:45
+13424,759172,4,46253140,94,2,3120,52',0,0,Sergio González (Al Riyadh) Yellow Card at 52',Sergio González Yellow Card,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,229338.0,2025-10-28 05:15:45
+13424,759172,4,46253140,94,2,3120,52',0,0,Sergio González (Al Riyadh) Yellow Card at 52',Sergio González Yellow Card,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,216523.0,2025-10-28 05:15:45
+13424,759172,4,46253140,94,2,3120,52',0,0,Sergio González (Al Riyadh) Yellow Card at 52',Sergio González Yellow Card,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,198849.0,2025-10-28 05:15:45
+13424,759172,4,46253140,94,2,3120,52',0,0,Sergio González (Al Riyadh) Yellow Card at 52',Sergio González Yellow Card,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,89109.0,2025-10-28 05:15:45
+13424,759172,6,46253260,76,2,3480,58',0,0,Karl Toko Ekambi (Al Fateh) Substitution at 58',Karl Toko Ekambi Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,207040.0,2025-10-28 05:15:45
+13424,759172,5,46253259,76,2,3480,58',0,0,Mourad Batna (Al Fateh) Substitution at 58',Mourad Batna Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,232639.0,2025-10-28 05:15:45
+13424,759172,6,46253260,76,2,3480,58',0,0,Karl Toko Ekambi (Al Fateh) Substitution at 58',Karl Toko Ekambi Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,2,341459.0,2025-10-28 05:15:45
+13424,759172,5,46253259,76,2,3480,58',0,0,Mourad Batna (Al Fateh) Substitution at 58',Mourad Batna Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,2,341473.0,2025-10-28 05:15:45
+13424,759172,7,46253261,76,2,3780,63',0,0,Ismaila Soro (Al Riyadh) Substitution at 63',Ismaila Soro Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,291689.0,2025-10-28 05:15:45
+13424,759172,8,46253262,76,2,3780,63',0,0,Muhammad Sahlouli (Al Riyadh) Substitution at 63',Muhammad Sahlouli Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,357621.0,2025-10-28 05:15:45
+13424,759172,9,46253263,70,2,3780,63',1,0,Mourad Batna (Al Fateh) Goal at 63',Mourad Batna Goal,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,232639.0,2025-10-28 05:15:45
+13424,759172,7,46253261,76,2,3780,63',0,0,Ismaila Soro (Al Riyadh) Substitution at 63',Ismaila Soro Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,399863.0,2025-10-28 05:15:45
+13424,759172,8,46253262,76,2,3780,63',0,0,Muhammad Sahlouli (Al Riyadh) Substitution at 63',Muhammad Sahlouli Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,302747.0,2025-10-28 05:15:45
+13424,759172,10,46253264,94,2,3960,66',0,0,Yoann Barbet (Al Riyadh) Yellow Card at 66',Yoann Barbet Yellow Card,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,197151.0,2025-10-28 05:15:45
+13424,759172,11,46253270,94,2,4260,71',0,0,Mamadou Sylla (Al Riyadh) Yellow Card at 71',Mamadou Sylla Yellow Card,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,218438.0,2025-10-28 05:15:45
+13424,759172,12,46253271,70,2,4440,74',1,0,Fahad Zubaidi (Al Fateh) Goal at 74',Fahad Zubaidi Goal,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,357622.0,2025-10-28 05:15:45
+13424,759172,14,46253274,76,2,4680,78',0,0,Farhah Al Shamrani (Al Riyadh) Substitution at 78',Farhah Al Shamrani Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,366345.0,2025-10-28 05:15:45
+13424,759172,13,46253273,76,2,4680,78',0,0,Khaled Ali (Al Riyadh) Substitution at 78',Khaled Ali Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,341421.0,2025-10-28 05:15:45
+13424,759172,13,46253273,76,2,4680,78',0,0,Khaled Ali (Al Riyadh) Substitution at 78',Khaled Ali Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,166039.0,2025-10-28 05:15:45
+13424,759172,14,46253274,76,2,4680,78',0,0,Farhah Al Shamrani (Al Riyadh) Substitution at 78',Farhah Al Shamrani Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,255773.0,2025-10-28 05:15:45
+13424,759172,13,46253273,76,2,4680,78',0,0,Khaled Ali (Al Riyadh) Substitution at 78',Khaled Ali Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,364828.0,2025-10-28 05:15:45
+13424,759172,13,46253273,76,2,4680,78',0,0,Khaled Ali (Al Riyadh) Substitution at 78',Khaled Ali Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,301431.0,2025-10-28 05:15:45
+13424,759172,13,46253273,76,2,4680,78',0,0,Khaled Ali (Al Riyadh) Substitution at 78',Khaled Ali Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,268602.0,2025-10-28 05:15:45
+13424,759172,13,46253273,76,2,4680,78',0,0,Khaled Ali (Al Riyadh) Substitution at 78',Khaled Ali Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,229338.0,2025-10-28 05:15:45
+13424,759172,13,46253273,76,2,4680,78',0,0,Khaled Ali (Al Riyadh) Substitution at 78',Khaled Ali Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,216523.0,2025-10-28 05:15:45
+13424,759172,13,46253273,76,2,4680,78',0,0,Khaled Ali (Al Riyadh) Substitution at 78',Khaled Ali Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,198849.0,2025-10-28 05:15:45
+13424,759172,13,46253273,76,2,4680,78',0,0,Khaled Ali (Al Riyadh) Substitution at 78',Khaled Ali Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,89109.0,2025-10-28 05:15:45
+13424,759172,15,46253275,76,2,4800,80',0,0,Saad Al-Shurafa (Al Fateh) Substitution at 80',Saad Al-Shurafa Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,362792.0,2025-10-28 05:15:45
+13424,759172,15,46253275,76,2,4800,80',0,0,Saad Al-Shurafa (Al Fateh) Substitution at 80',Saad Al-Shurafa Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,2,357622.0,2025-10-28 05:15:45
+13424,759172,16,46253446,76,2,5220,87',0,0,Abdurahman Al Shammeri (Al Riyadh) Substitution at 87',Abdurahman Al Shammeri Substitut,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,367371.0,2025-10-28 05:15:45
+13424,759172,16,46253446,76,2,5220,87',0,0,Abdurahman Al Shammeri (Al Riyadh) Substitution at 87',Abdurahman Al Shammeri Substitut,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,157292.0,2025-10-28 05:15:45
+13424,759172,17,46253447,76,2,5280,88',0,0,Mohammed Al-Sahihi (Al Fateh) Substitution at 88',Mohammed Al-Sahihi Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,409782.0,2025-10-28 05:15:45
+13424,759172,17,46253447,76,2,5280,88',0,0,Mohammed Al-Sahihi (Al Fateh) Substitution at 88',Mohammed Al-Sahihi Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,2,250566.0,2025-10-28 05:15:45
+13424,759172,18,46253668,94,2,5400,90'+8',0,0,Mohammed Al-Sahihi (Al Fateh) Yellow Card at 98',Mohammed Al-Sahihi Yellow Card,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,409782.0,2025-10-28 05:15:45
+13425,736484,1,45954580,70,1,780,13',1,0,Yannick Carrasco (Al Shabab) Goal at 13',Yannick Carrasco Goal,793,0.0,0.0,0.0,0.0,0.0,0.0,1,174893.0,2025-09-23 05:13:14
+13425,736484,2,45954610,70,1,1440,24',1,0,Afonso Taira (Abha) Goal at 24',Afonso Taira Goal,21833,0.0,0.0,0.0,0.0,0.0,0.0,1,169601.0,2025-09-23 05:13:14
+13425,736484,3,45954636,93,1,1860,31',0,0,Saad Balobaid (Al Shabab) Red Card at 31',Saad Balobaid Red Card,793,0.0,0.0,0.0,0.0,0.0,0.0,1,307639.0,2025-09-23 05:13:14
+13425,736484,4,45954671,94,1,2520,42',0,0,Yasser Yaqoub Ibrahim (Abha) Yellow Card at 42',Yasser Yaqoub Ibrahim Yellow Car,21833,0.0,0.0,0.0,0.0,0.0,0.0,1,372878.0,2025-09-23 05:13:14
+13425,736484,6,45954740,76,2,2700,45',0,0,Suwailem Al Menhali (Abha) Substitution at 45',Suwailem Al Menhali Substitution,21833,0.0,0.0,0.0,0.0,0.0,0.0,1,341458.0,2025-09-23 05:13:14
+13425,736484,7,45954741,76,2,2700,45',0,0,Sultan (Al Shabab) Substitution at 45',Sultan Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,1,409771.0,2025-09-23 05:13:14
+13425,736484,5,45954678,93,1,2700,45',0,0,Wesley Hoedt (Al Shabab) Red Card at 45',Wesley Hoedt Red Card,793,0.0,0.0,0.0,0.0,0.0,0.0,1,190977.0,2025-09-23 05:13:14
+13425,736484,6,45954740,76,2,2700,45',0,0,Suwailem Al Menhali (Abha) Substitution at 45',Suwailem Al Menhali Substitution,21833,0.0,0.0,0.0,0.0,0.0,0.0,2,372878.0,2025-09-23 05:13:14
+13425,736484,7,45954741,76,2,2700,45',0,0,Sultan (Al Shabab) Substitution at 45',Sultan Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,2,389695.0,2025-09-23 05:13:14
+13425,736484,8,45954824,94,2,3240,54',0,0,Abdullah Al Fahad (Abha) Yellow Card at 54',Abdullah Al Fahad Yellow Card,21833,0.0,0.0,0.0,0.0,0.0,0.0,1,357591.0,2025-09-23 05:13:14
+13425,736484,9,45954867,76,2,3660,61',0,0,Manaf Yabes (Abha) Substitution at 61',Manaf Yabes Substitution,21833,0.0,0.0,0.0,0.0,0.0,0.0,1,286046.0,2025-09-23 05:13:14
+13425,736484,9,45954867,76,2,3660,61',0,0,Manaf Yabes (Abha) Substitution at 61',Manaf Yabes Substitution,21833,0.0,0.0,0.0,0.0,0.0,0.0,2,357591.0,2025-09-23 05:13:14
+13425,736484,10,45954981,76,2,4560,76',0,0,Carlos (Al Shabab) Substitution at 76',Carlos Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,1,306329.0,2025-09-23 05:13:14
+13425,736484,10,45954981,76,2,4560,76',0,0,Carlos (Al Shabab) Substitution at 76',Carlos Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,1,219083.0,2025-09-23 05:13:14
+13425,736484,10,45954981,76,2,4560,76',0,0,Carlos (Al Shabab) Substitution at 76',Carlos Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,1,218932.0,2025-09-23 05:13:14
+13425,736484,10,45954981,76,2,4560,76',0,0,Carlos (Al Shabab) Substitution at 76',Carlos Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,1,196826.0,2025-09-23 05:13:14
+13425,736484,10,45954981,76,2,4560,76',0,0,Carlos (Al Shabab) Substitution at 76',Carlos Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,2,383084.0,2025-09-23 05:13:14
+13425,736484,11,45955002,76,2,4680,78',0,0,Feras Al Ghamdi (Abha) Substitution at 78',Feras Al Ghamdi Substitution,21833,0.0,0.0,0.0,0.0,0.0,0.0,1,384215.0,2025-09-23 05:13:14
+13425,736484,11,45955002,76,2,4680,78',0,0,Feras Al Ghamdi (Abha) Substitution at 78',Feras Al Ghamdi Substitution,21833,0.0,0.0,0.0,0.0,0.0,0.0,2,286046.0,2025-09-23 05:13:14
+13425,736484,12,45955092,76,2,5400,90'+2',0,0,Hazim Al-Zahrani (Abha) Substitution at 92',Hazim Al-Zahrani Substitution,21833,0.0,0.0,0.0,0.0,0.0,0.0,1,288567.0,2025-09-23 05:13:14
+13425,736484,13,45955148,76,3,5400,90',0,0,Yacine Adli (Al Shabab) Substitution at 90',Yacine Adli Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,1,265911.0,2025-09-23 05:13:14
+13425,736484,13,45955148,76,3,5400,90',0,0,Yacine Adli (Al Shabab) Substitution at 90',Yacine Adli Substitution,793,0.0,0.0,0.0,0.0,0.0,0.0,2,194557.0,2025-09-23 05:13:14
+13425,736484,12,45955092,76,2,5400,90'+2',0,0,Hazim Al-Zahrani (Abha) Substitution at 92',Hazim Al-Zahrani Substitution,21833,0.0,0.0,0.0,0.0,0.0,0.0,2,357629.0,2025-09-23 05:13:14
+13425,736484,14,45955158,94,3,5460,91',0,0,Suwailem Al Menhali (Abha) Yellow Card at 91',Suwailem Al Menhali Yellow Card,21833,0.0,0.0,0.0,0.0,0.0,0.0,1,341458.0,2025-09-23 05:13:14
+13425,736484,15,45955192,70,3,5820,97',1,0,Muralha (Abha) Goal at 97',Muralha Goal,21833,0.0,0.0,0.0,0.0,0.0,0.0,1,199046.0,2025-09-23 05:13:14
+13425,736484,17,45955217,94,3,5940,99',0,0,Fahad Al Jayzani (Abha) Yellow Card at 99',Fahad Al Jayzani Yellow Card,21833,0.0,0.0,0.0,0.0,0.0,0.0,1,392639.0,2025-09-23 05:13:14
+13425,736484,16,45955216,94,3,5940,99',0,0,Yannick Carrasco (Al Shabab) Yellow Card at 99',Yannick Carrasco Yellow Card,793,0.0,0.0,0.0,0.0,0.0,0.0,1,174893.0,2025-09-23 05:13:14
+13425,736484,18,45955238,70,3,6240,104',1,0,Vincent Sierro (Al Shabab) Goal at 104',Vincent Sierro Goal,793,0.0,0.0,0.0,0.0,0.0,0.0,1,218857.0,2025-09-23 05:13:14
+13425,736484,19,45955290,76,4,6300,105',0,0,Hamed Al Mousa (Abha) Substitution at 105',Hamed Al Mousa Substitution,21833,0.0,0.0,0.0,0.0,0.0,0.0,1,410986.0,2025-09-23 05:13:14
+13425,736484,19,45955290,76,4,6300,105',0,0,Hamed Al Mousa (Abha) Substitution at 105',Hamed Al Mousa Substitution,21833,0.0,0.0,0.0,0.0,0.0,0.0,2,341458.0,2025-09-23 05:13:14
+13425,736484,20,45955300,94,4,6360,106',0,0,Feras Al Ghamdi (Abha) Yellow Card at 106',Feras Al Ghamdi Yellow Card,21833,0.0,0.0,0.0,0.0,0.0,0.0,1,384215.0,2025-09-23 05:13:14
+13425,736484,21,45955363,94,4,6960,116',0,0,Vincent Sierro (Al Shabab) Yellow Card at 116',Vincent Sierro Yellow Card,793,0.0,0.0,0.0,0.0,0.0,0.0,1,218857.0,2025-09-23 05:13:14
+13425,736484,22,45955436,94,4,7200,120',0,0,Hamed Al Mousa (Abha) Yellow Card at 120',Hamed Al Mousa Yellow Card,21833,0.0,0.0,0.0,0.0,0.0,0.0,1,410986.0,2025-09-23 05:13:14
+13425,736485,1,45957998,97,1,480,8',1,0,Faisal Othman (Jeddah) Own Goal at 8',Faisal Othman Own Goal,817,0.0,0.0,0.0,0.0,0.0,0.0,1,357541.0,2025-09-24 05:13:41
+13425,736485,2,45958252,76,1,1740,29',0,0,Rafi Matmi (Jeddah) Substitution at 29',Rafi Matmi Substitution,22021,0.0,0.0,0.0,0.0,0.0,0.0,1,410674.0,2025-09-24 05:13:41
+13425,736485,2,45958252,76,1,1740,29',0,0,Rafi Matmi (Jeddah) Substitution at 29',Rafi Matmi Substitution,22021,0.0,0.0,0.0,0.0,0.0,0.0,2,317820.0,2025-09-24 05:13:41
+13425,736485,3,45959277,76,2,2700,45',0,0,Hassan Mukhtar (Jeddah) Substitution at 45',Hassan Mukhtar Substitution,22021,0.0,0.0,0.0,0.0,0.0,0.0,1,392640.0,2025-09-24 05:13:41
+13425,736485,3,45959277,76,2,2700,45',0,0,Hassan Mukhtar (Jeddah) Substitution at 45',Hassan Mukhtar Substitution,22021,0.0,0.0,0.0,0.0,0.0,0.0,2,236326.0,2025-09-24 05:13:41
+13425,736485,4,45959709,70,2,3660,61',1,0,Wesley Ribeiro (Al Nassr) Goal at 61',Wesley Ribeiro Goal,817,0.0,0.0,0.0,0.0,0.0,0.0,1,304533.0,2025-09-24 05:13:41
+13425,736485,7,45959786,76,2,3780,63',0,0,Kingsley Coman (Al Nassr) Substitution at 63',Kingsley Coman Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,1,184012.0,2025-09-24 05:13:41
+13425,736485,6,45959785,76,2,3780,63',0,0,João Félix (Al Nassr) Substitution at 63',João Félix Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,1,315109.0,2025-09-24 05:13:41
+13425,736485,6,45959785,76,2,3780,63',0,0,João Félix (Al Nassr) Substitution at 63',João Félix Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,1,276350.0,2025-09-24 05:13:41
+13425,736485,8,45959839,76,2,3780,63',0,0,Mohamed Simakan (Al Nassr) Substitution at 63',Mohamed Simakan Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,1,277306.0,2025-09-24 05:13:41
+13425,736485,5,45959784,76,2,3780,63',0,0,Sadio Mané (Al Nassr) Substitution at 63',Sadio Mané Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,1,169797.0,2025-09-24 05:13:41
+13425,736485,6,45959785,76,2,3780,63',0,0,João Félix (Al Nassr) Substitution at 63',João Félix Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,2,270415.0,2025-09-24 05:13:41
+13425,736485,7,45959786,76,2,3780,63',0,0,Kingsley Coman (Al Nassr) Substitution at 63',Kingsley Coman Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,2,271461.0,2025-09-24 05:13:41
+13425,736485,8,45959839,76,2,3780,63',0,0,Mohamed Simakan (Al Nassr) Substitution at 63',Mohamed Simakan Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,2,353559.0,2025-09-24 05:13:41
+13425,736485,8,45959839,76,2,3780,63',0,0,Mohamed Simakan (Al Nassr) Substitution at 63',Mohamed Simakan Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,2,165562.0,2025-09-24 05:13:41
+13425,736485,5,45959784,76,2,3780,63',0,0,Sadio Mané (Al Nassr) Substitution at 63',Sadio Mané Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,2,273590.0,2025-09-24 05:13:41
+13425,736485,9,45959922,76,2,4080,68',0,0,Aiman Yahya (Al Nassr) Substitution at 68',Aiman Yahya Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,1,296602.0,2025-09-24 05:13:41
+13425,736485,9,45959922,76,2,4080,68',0,0,Aiman Yahya (Al Nassr) Substitution at 68',Aiman Yahya Substitution,817,0.0,0.0,0.0,0.0,0.0,0.0,2,269485.0,2025-09-24 05:13:41
+13425,736485,10,45960029,70,2,4260,71',1,0,João Félix (Al Nassr) Goal at 71',João Félix Goal,817,0.0,0.0,0.0,0.0,0.0,0.0,1,315109.0,2025-09-24 05:13:41
+13425,736485,10,45960029,70,2,4260,71',1,0,João Félix (Al Nassr) Goal at 71',João Félix Goal,817,0.0,0.0,0.0,0.0,0.0,0.0,1,276350.0,2025-09-24 05:13:41
+13425,736485,12,45960297,76,2,4620,77',0,0,Fahad Al-Sahafi (Jeddah) Substitution at 77',Fahad Al-Sahafi Substitution,22021,0.0,0.0,0.0,0.0,0.0,0.0,1,372868.0,2025-09-24 05:13:41
+13425,736485,11,45960245,76,2,4620,77',0,0,Wesam Al Hawsawi (Jeddah) Substitution at 77',Wesam Al Hawsawi Substitution,22021,0.0,0.0,0.0,0.0,0.0,0.0,1,392642.0,2025-09-24 05:13:41
+13425,736485,11,45960245,76,2,4620,77',0,0,Wesam Al Hawsawi (Jeddah) Substitution at 77',Wesam Al Hawsawi Substitution,22021,0.0,0.0,0.0,0.0,0.0,0.0,2,273341.0,2025-09-24 05:13:41
+13425,736485,12,45960297,76,2,4620,77',0,0,Fahad Al-Sahafi (Jeddah) Substitution at 77',Fahad Al-Sahafi Substitution,22021,0.0,0.0,0.0,0.0,0.0,0.0,2,199532.0,2025-09-24 05:13:41
+13425,736485,13,45960634,76,2,5340,89',0,0,Abdullah Al Amoudi (Jeddah) Substitution at 89',Abdullah Al Amoudi Substitution,22021,0.0,0.0,0.0,0.0,0.0,0.0,1,410744.0,2025-09-24 05:13:41
+13425,736485,14,45960639,70,2,5340,89',1,0,Mohamed Simakan (Al Nassr) Goal at 89',Mohamed Simakan Goal,817,0.0,0.0,0.0,0.0,0.0,0.0,1,277306.0,2025-09-24 05:13:41
+13425,736485,13,45960634,76,2,5340,89',0,0,Abdullah Al Amoudi (Jeddah) Substitution at 89',Abdullah Al Amoudi Substitution,22021,0.0,0.0,0.0,0.0,0.0,0.0,2,373077.0,2025-09-24 05:13:41
+13425,736486,1,45809773,98,1,1860,31',1,0,Ivan Toney (Al Ahli) Penalty - Scored at 31',Ivan Toney Penalty - Scored,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,180639.0,2025-09-01 05:11:00
+13425,736486,2,45810106,76,1,2640,44',0,0,Mahmoud Jaafar Albohassan (Al Arabi) Substitution at 44',Mahmoud Jaafar Albohassan Substi,7131,0.0,0.0,0.0,0.0,0.0,0.0,1,372898.0,2025-09-01 05:11:00
+13425,736486,2,45810106,76,1,2640,44',0,0,Mahmoud Jaafar Albohassan (Al Arabi) Substitution at 44',Mahmoud Jaafar Albohassan Substi,7131,0.0,0.0,0.0,0.0,0.0,0.0,2,297140.0,2025-09-01 05:11:00
+13425,736486,3,45810243,70,1,2700,45'+6',1,0,Enzo Millot (Al Ahli) Goal at 51',Enzo Millot Goal,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,297158.0,2025-09-01 05:11:00
+13425,736486,5,45810805,76,2,3600,60',0,0,Wesam Mudhaya (Al Arabi) Substitution at 60',Wesam Mudhaya Substitution,7131,0.0,0.0,0.0,0.0,0.0,0.0,1,372888.0,2025-09-01 05:11:00
+13425,736486,4,45810804,76,2,3600,60',0,0,Sultan Al Sawadi (Al Arabi) Substitution at 60',Sultan Al Sawadi Substitution,7131,0.0,0.0,0.0,0.0,0.0,0.0,1,357656.0,2025-09-01 05:11:00
+13425,736486,5,45810805,76,2,3600,60',0,0,Wesam Mudhaya (Al Arabi) Substitution at 60',Wesam Mudhaya Substitution,7131,0.0,0.0,0.0,0.0,0.0,0.0,2,373059.0,2025-09-01 05:11:00
+13425,736486,4,45810804,76,2,3600,60',0,0,Sultan Al Sawadi (Al Arabi) Substitution at 60',Sultan Al Sawadi Substitution,7131,0.0,0.0,0.0,0.0,0.0,0.0,2,409792.0,2025-09-01 05:11:00
+13425,736486,6,45810842,76,2,3840,64',0,0,Waheb Saleh (Al Ahli) Substitution at 64',Waheb Saleh Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,371797.0,2025-09-01 05:11:00
+13425,736486,6,45810842,76,2,3840,64',0,0,Waheb Saleh (Al Ahli) Substitution at 64',Waheb Saleh Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,2,331920.0,2025-09-01 05:11:00
+13425,736486,8,45810844,76,2,3900,65',0,0,Fahad Alrashidi (Al Ahli) Substitution at 65',Fahad Alrashidi Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,256608.0,2025-09-01 05:11:00
+13425,736486,7,45810843,76,2,3900,65',0,0,Mohammed Yousef (Al Ahli) Substitution at 65',Mohammed Yousef Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,367660.0,2025-09-01 05:11:00
+13425,736486,7,45810843,76,2,3900,65',0,0,Mohammed Yousef (Al Ahli) Substitution at 65',Mohammed Yousef Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,2,259732.0,2025-09-01 05:11:00
+13425,736486,8,45810844,76,2,3900,65',0,0,Fahad Alrashidi (Al Ahli) Substitution at 65',Fahad Alrashidi Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,2,306692.0,2025-09-01 05:11:00
+13425,736486,9,45810862,70,2,4080,68',1,0,Fahad Alrashidi (Al Ahli) Goal at 68',Fahad Alrashidi Goal,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,256608.0,2025-09-01 05:11:00
+13425,736486,10,45810924,76,2,4320,72',0,0,Ali Al-Zaqan (Al Arabi) Substitution at 72',Ali Al-Zaqan Substitution,7131,0.0,0.0,0.0,0.0,0.0,0.0,1,185639.0,2025-09-01 05:11:00
+13425,736486,10,45810924,76,2,4320,72',0,0,Ali Al-Zaqan (Al Arabi) Substitution at 72',Ali Al-Zaqan Substitution,7131,0.0,0.0,0.0,0.0,0.0,0.0,2,373078.0,2025-09-01 05:11:00
+13425,736486,11,45810945,94,2,4440,74',0,0,Sultan Al Sawadi (Al Arabi) Yellow Card at 74',Sultan Al Sawadi Yellow Card,7131,0.0,0.0,0.0,0.0,0.0,0.0,1,357656.0,2025-09-01 05:11:00
+13425,736486,13,45811024,76,2,4740,79',0,0,Yaseen Al Zubaidi (Al Ahli) Substitution at 79',Yaseen Al Zubaidi Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,372852.0,2025-09-01 05:11:00
+13425,736486,12,45811014,76,2,4740,79',0,0,Mohammed Sulaiman (Al Ahli) Substitution at 79',Mohammed Sulaiman Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,341463.0,2025-09-01 05:11:00
+13425,736486,13,45811024,76,2,4740,79',0,0,Yaseen Al Zubaidi (Al Ahli) Substitution at 79',Yaseen Al Zubaidi Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,2,163940.0,2025-09-01 05:11:00
+13425,736486,12,45811014,76,2,4740,79',0,0,Mohammed Sulaiman (Al Ahli) Substitution at 79',Mohammed Sulaiman Substitution,8346,0.0,0.0,0.0,0.0,0.0,0.0,2,267178.0,2025-09-01 05:11:00
+13425,736486,14,45811047,94,2,4800,80',0,0,Sheldon (Al Arabi) Yellow Card at 80',Sheldon Yellow Card,7131,0.0,0.0,0.0,0.0,0.0,0.0,1,333854.0,2025-09-01 05:11:00
+13425,736486,15,45811055,70,2,4920,82',1,0,Ivan Toney (Al Ahli) Goal at 82',Ivan Toney Goal,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,180639.0,2025-09-01 05:11:00
+13425,736486,16,45811228,98,2,5400,90'+3',1,0,Ivan Toney (Al Ahli) Penalty - Scored at 93',Ivan Toney Penalty - Scored,8346,0.0,0.0,0.0,0.0,0.0,0.0,1,180639.0,2025-09-01 05:11:00
+13425,736487,1,45944773,70,1,1080,18',1,0,Koka  (Al Ettifaq) Goal at 18',Koka  Goal,8363,0.0,0.0,0.0,0.0,0.0,0.0,1,180051.0,2025-09-22 05:12:23
+13425,736487,2,45945198,70,1,2400,40',1,0,Khalid Al Khathlan (Al Batin) Goal at 40',Khalid Al Khathlan Goal,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,357582.0,2025-09-22 05:12:23
+13425,736487,3,45945599,70,2,2820,47',1,0,Georginio Wijnaldum (Al Ettifaq) Goal at 47',Georginio Wijnaldum Goal,8363,0.0,0.0,0.0,0.0,0.0,0.0,1,98342.0,2025-09-22 05:12:23
+13425,736487,4,45945691,94,2,3120,52',0,0,Ondrej Duda (Al Ettifaq) Yellow Card at 52',Ondrej Duda Yellow Card,8363,0.0,0.0,0.0,0.0,0.0,0.0,1,206072.0,2025-09-22 05:12:23
+13425,736487,5,45945742,76,2,3300,55',0,0,Radhi Al-Otaibi (Al Ettifaq) Substitution at 55',Radhi Al-Otaibi Substitution,8363,0.0,0.0,0.0,0.0,0.0,0.0,1,367517.0,2025-09-22 05:12:23
+13425,736487,5,45945742,76,2,3300,55',0,0,Radhi Al-Otaibi (Al Ettifaq) Substitution at 55',Radhi Al-Otaibi Substitution,8363,0.0,0.0,0.0,0.0,0.0,0.0,2,408237.0,2025-09-22 05:12:23
+13425,736487,6,45945885,76,2,3720,62',0,0,Mohau Nkota (Al Ettifaq) Substitution at 62',Mohau Nkota Substitution,8363,0.0,0.0,0.0,0.0,0.0,0.0,1,380803.0,2025-09-22 05:12:23
+13425,736487,6,45945885,76,2,3720,62',0,0,Mohau Nkota (Al Ettifaq) Substitution at 62',Mohau Nkota Substitution,8363,0.0,0.0,0.0,0.0,0.0,0.0,2,382397.0,2025-09-22 05:12:23
+13425,736487,7,45945998,76,2,4080,68',0,0,Mohamed Falah Al-Sahli (Al Batin) Substitution at 68',Mohamed Falah Al-Sahli Substitut,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,294240.0,2025-09-22 05:12:23
+13425,736487,8,45946016,76,2,4080,68',0,0,Nawaf Al Sehimai (Al Batin) Substitution at 68',Nawaf Al Sehimai Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,357546.0,2025-09-22 05:12:23
+13425,736487,7,45945998,76,2,4080,68',0,0,Mohamed Falah Al-Sahli (Al Batin) Substitution at 68',Mohamed Falah Al-Sahli Substitut,21832,0.0,0.0,0.0,0.0,0.0,0.0,2,120855.0,2025-09-22 05:12:23
+13425,736487,8,45946016,76,2,4080,68',0,0,Nawaf Al Sehimai (Al Batin) Substitution at 68',Nawaf Al Sehimai Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,2,286005.0,2025-09-22 05:12:23
+13425,736487,9,45946104,94,2,4560,76',0,0,Álvaro Medrán (Al Ettifaq) Yellow Card at 76',Álvaro Medrán Yellow Card,8363,0.0,0.0,0.0,0.0,0.0,0.0,1,200986.0,2025-09-22 05:12:23
+13425,736487,10,45946154,76,2,4740,79',0,0,Yousef Fawaz (Al Batin) Substitution at 79',Yousef Fawaz Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,357547.0,2025-09-22 05:12:23
+13425,736487,11,45946184,76,2,4740,79',0,0,Qusai Al Khaibary (Al Batin) Substitution at 79',Qusai Al Khaibary Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,410984.0,2025-09-22 05:12:23
+13425,736487,10,45946154,76,2,4740,79',0,0,Yousef Fawaz (Al Batin) Substitution at 79',Yousef Fawaz Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,2,372930.0,2025-09-22 05:12:23
+13425,736487,11,45946184,76,2,4740,79',0,0,Qusai Al Khaibary (Al Batin) Substitution at 79',Qusai Al Khaibary Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,2,405989.0,2025-09-22 05:12:23
+13425,736487,12,45946281,76,2,5160,86',0,0,Faris Al Ghamdi (Al Ettifaq) Substitution at 86',Faris Al Ghamdi Substitution,8363,0.0,0.0,0.0,0.0,0.0,0.0,1,372811.0,2025-09-22 05:12:23
+13425,736487,12,45946281,76,2,5160,86',0,0,Faris Al Ghamdi (Al Ettifaq) Substitution at 86',Faris Al Ghamdi Substitution,8363,0.0,0.0,0.0,0.0,0.0,0.0,2,288570.0,2025-09-22 05:12:23
+13425,736487,13,45946282,76,2,5220,87',0,0,Majed Dawran (Al Ettifaq) Substitution at 87',Majed Dawran Substitution,8363,0.0,0.0,0.0,0.0,0.0,0.0,1,372814.0,2025-09-22 05:12:23
+13425,736487,13,45946282,76,2,5220,87',0,0,Majed Dawran (Al Ettifaq) Substitution at 87',Majed Dawran Substitution,8363,0.0,0.0,0.0,0.0,0.0,0.0,2,180051.0,2025-09-22 05:12:23
+13425,736487,14,45946306,76,2,5340,89',0,0,Faraj Al Dhefiri (Al Batin) Substitution at 89',Faraj Al Dhefiri Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,410666.0,2025-09-22 05:12:23
+13425,736487,14,45946306,76,2,5340,89',0,0,Faraj Al Dhefiri (Al Batin) Substitution at 89',Faraj Al Dhefiri Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,2,147180.0,2025-09-22 05:12:23
+13425,736487,16,45946548,94,2,5400,90'+5',0,0,Mohau Nkota (Al Ettifaq) Yellow Card at 95',Mohau Nkota Yellow Card,8363,0.0,0.0,0.0,0.0,0.0,0.0,1,380803.0,2025-09-22 05:12:23
+13425,736487,15,45946350,70,2,5400,90'+3',1,0,Mohamed Falah Al-Sahli (Al Batin) Goal at 93',Mohamed Falah Al-Sahli Goal,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,294240.0,2025-09-22 05:12:23
+13425,736487,17,45946665,94,3,5760,96',0,0,Qusai Al Khaibary (Al Batin) Yellow Card at 96',Qusai Al Khaibary Yellow Card,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,410984.0,2025-09-22 05:12:23
+13425,736487,18,45946710,94,3,5880,98',0,0,Yousef Fawaz (Al Batin) Yellow Card at 98',Yousef Fawaz Yellow Card,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,357547.0,2025-09-22 05:12:23
+13425,736487,19,45946770,76,3,6240,104',0,0,Bader Al Shimmari (Al Batin) Substitution at 104',Bader Al Shimmari Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,357545.0,2025-09-22 05:12:23
+13425,736487,19,45946770,76,3,6240,104',0,0,Bader Al Shimmari (Al Batin) Substitution at 104',Bader Al Shimmari Substitution,21832,0.0,0.0,0.0,0.0,0.0,0.0,2,404985.0,2025-09-22 05:12:23
+13425,736487,20,45946941,94,4,6900,115',0,0,Simon Falette (Al Batin) Yellow Card at 115',Simon Falette Yellow Card,21832,0.0,0.0,0.0,0.0,0.0,0.0,1,168956.0,2025-09-22 05:12:23
+13425,736487,21,45946993,76,4,7200,120',0,0,Mukhtar Ali (Al Ettifaq) Substitution at 120',Mukhtar Ali Substitution,8363,0.0,0.0,0.0,0.0,0.0,0.0,1,243630.0,2025-09-22 05:12:23
+13425,736487,22,45947123,94,5,7200,120',0,0,Francisco Calvo (Al Ettifaq) Yellow Card at 120',Francisco Calvo Yellow Card,8363,0.0,0.0,0.0,0.0,0.0,0.0,1,159195.0,2025-09-22 05:12:23
+13425,736487,21,45946993,76,4,7200,120',0,0,Mukhtar Ali (Al Ettifaq) Substitution at 120',Mukhtar Ali Substitution,8363,0.0,0.0,0.0,0.0,0.0,0.0,2,372814.0,2025-09-22 05:12:23
+13425,736488,1,45954471,97,1,1680,28',1,0,Saud Fallatah (Al Bukayriyah) Own Goal at 28',Saud Fallatah Own Goal,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,392548.0,2025-09-23 05:13:14
+13425,736488,3,45954492,76,2,3720,62',0,0,Rayan Sharahili (Al Bukayriyah) Substitution at 62',Rayan Sharahili Substitution,22279,0.0,0.0,0.0,0.0,0.0,0.0,1,392558.0,2025-09-23 05:13:14
+13425,736488,2,45954490,76,2,3720,62',0,0,Abdulaziz Al-Aliwa (Al Kholood) Substitution at 62',Abdulaziz Al-Aliwa Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,341460.0,2025-09-23 05:13:14
+13425,736488,3,45954492,76,2,3720,62',0,0,Rayan Sharahili (Al Bukayriyah) Substitution at 62',Rayan Sharahili Substitution,22279,0.0,0.0,0.0,0.0,0.0,0.0,2,372862.0,2025-09-23 05:13:14
+13425,736488,2,45954490,76,2,3720,62',0,0,Abdulaziz Al-Aliwa (Al Kholood) Substitution at 62',Abdulaziz Al-Aliwa Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,2,271331.0,2025-09-23 05:13:14
+13425,736488,4,45954499,70,2,4260,71',1,0,Ramiro Enrique (Al Kholood) Goal at 71',Ramiro Enrique Goal,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,309410.0,2025-09-23 05:13:14
+13425,736488,5,45954507,76,2,4620,77',0,0,Meshari Al Khalifa (Al Bukayriyah) Substitution at 77',Meshari Al Khalifa Substitution,22279,0.0,0.0,0.0,0.0,0.0,0.0,1,392554.0,2025-09-23 05:13:14
+13425,736488,5,45954507,76,2,4620,77',0,0,Meshari Al Khalifa (Al Bukayriyah) Substitution at 77',Meshari Al Khalifa Substitution,22279,0.0,0.0,0.0,0.0,0.0,0.0,2,217163.0,2025-09-23 05:13:14
+13425,736488,6,45954508,76,2,4680,78',0,0,Saad Al-Muwalad (Al Bukayriyah) Substitution at 78',Saad Al-Muwalad Substitution,22279,0.0,0.0,0.0,0.0,0.0,0.0,1,336155.0,2025-09-23 05:13:14
+13425,736488,7,45954511,76,2,4680,78',0,0,Majed Khalifah (Al Kholood) Substitution at 78',Majed Khalifah Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,391000.0,2025-09-23 05:13:14
+13425,736488,8,45954512,76,2,4680,78',0,0,Sultan Al Shehri (Al Kholood) Substitution at 78',Sultan Al Shehri Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,373162.0,2025-09-23 05:13:14
+13425,736488,6,45954508,76,2,4680,78',0,0,Saad Al-Muwalad (Al Bukayriyah) Substitution at 78',Saad Al-Muwalad Substitution,22279,0.0,0.0,0.0,0.0,0.0,0.0,2,169591.0,2025-09-23 05:13:14
+13425,736488,8,45954512,76,2,4680,78',0,0,Sultan Al Shehri (Al Kholood) Substitution at 78',Sultan Al Shehri Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,2,357644.0,2025-09-23 05:13:14
+13425,736488,7,45954511,76,2,4680,78',0,0,Majed Khalifah (Al Kholood) Substitution at 78',Majed Khalifah Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,2,309410.0,2025-09-23 05:13:14
+13425,736488,9,45954518,70,2,4920,82',1,0,Meshari Al Khalifa (Al Bukayriyah) Goal at 82',Meshari Al Khalifa Goal,22279,0.0,0.0,0.0,0.0,0.0,0.0,1,392554.0,2025-09-23 05:13:14
+13425,736488,11,45954520,76,2,5040,84',0,0,Ibrahim Albarakah (Al Bukayriyah) Substitution at 84',Ibrahim Albarakah Substitution,22279,0.0,0.0,0.0,0.0,0.0,0.0,1,253121.0,2025-09-23 05:13:14
+13425,736488,12,45954522,94,2,5040,84',0,0,Khalid Bin Shuwayyi (Al Bukayriyah) Yellow Card at 84',Khalid Bin Shuwayyi Yellow Card,22279,0.0,0.0,0.0,0.0,0.0,0.0,1,286250.0,2025-09-24 05:13:41
+13425,736488,10,45954519,76,2,5040,84',0,0,Muhannad Al Malki (Al Bukayriyah) Substitution at 84',Muhannad Al Malki Substitution,22279,0.0,0.0,0.0,0.0,0.0,0.0,1,404991.0,2025-09-23 05:13:14
+13425,736488,10,45954519,76,2,5040,84',0,0,Muhannad Al Malki (Al Bukayriyah) Substitution at 84',Muhannad Al Malki Substitution,22279,0.0,0.0,0.0,0.0,0.0,0.0,2,392548.0,2025-09-23 05:13:14
+13425,736488,11,45954520,76,2,5040,84',0,0,Ibrahim Albarakah (Al Bukayriyah) Substitution at 84',Ibrahim Albarakah Substitution,22279,0.0,0.0,0.0,0.0,0.0,0.0,2,253107.0,2025-09-23 05:13:14
+13425,736488,13,45954525,76,2,5280,88',0,0,Guga (Al Kholood) Substitution at 88',Guga Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,382836.0,2025-09-23 05:13:14
+13425,736488,13,45954525,76,2,5280,88',0,0,Guga (Al Kholood) Substitution at 88',Guga Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,366090.0,2025-09-23 05:13:14
+13425,736488,13,45954525,76,2,5280,88',0,0,Guga (Al Kholood) Substitution at 88',Guga Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,271557.0,2025-09-23 05:13:14
+13425,736488,13,45954525,76,2,5280,88',0,0,Guga (Al Kholood) Substitution at 88',Guga Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,238899.0,2025-09-23 05:13:14
+13425,736488,13,45954525,76,2,5280,88',0,0,Guga (Al Kholood) Substitution at 88',Guga Substitution,22028,0.0,0.0,0.0,0.0,0.0,0.0,2,373174.0,2025-09-23 05:13:14
+13425,736488,16,45954535,94,2,5400,90'+8',0,0,Shaquille Pinas (Al Kholood) Yellow Card at 98',Shaquille Pinas Yellow Card,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,251758.0,2025-09-23 05:13:14
+13425,736488,15,45954530,94,2,5400,90'+5',0,0,Mohammed Alshammari (Al Kholood) Yellow Card at 95',Mohammed Alshammari Yellow Card,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,371757.0,2025-09-23 05:13:14
+13425,736488,14,45954529,94,2,5400,90',0,0,Sultan Al Shehri (Al Kholood) Yellow Card at 90',Sultan Al Shehri Yellow Card,22028,0.0,0.0,0.0,0.0,0.0,0.0,1,373162.0,2025-09-23 05:13:14
+13425,736489,1,45946976,70,1,240,4',1,0,Sultan Mandash (Al Taawoun) Goal at 4',Sultan Mandash Goal,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,287054.0,2025-09-22 05:12:23
+13425,736489,2,45947110,76,1,1020,17',0,0,Yaseen Barnawi (Al-Faisaly) Substitution at 17',Yaseen Barnawi Substitution,21446,0.0,0.0,0.0,0.0,0.0,0.0,1,286050.0,2025-09-22 05:12:23
+13425,736489,2,45947110,76,1,1020,17',0,0,Yaseen Barnawi (Al-Faisaly) Substitution at 17',Yaseen Barnawi Substitution,21446,0.0,0.0,0.0,0.0,0.0,0.0,2,219606.0,2025-09-22 05:12:23
+13425,736489,3,45947139,70,1,1260,21',1,0,Musa Barrow (Al Taawoun) Goal at 21',Musa Barrow Goal,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,269072.0,2025-09-22 05:12:23
+13425,736489,4,45947161,94,1,1440,24',0,0,Jaber Mustafa (Al-Faisaly) Yellow Card at 24',Jaber Mustafa Yellow Card,21446,0.0,0.0,0.0,0.0,0.0,0.0,1,269484.0,2025-09-22 05:12:23
+13425,736489,5,45947168,94,1,1500,25',0,0,Yaseen Barnawi (Al-Faisaly) Yellow Card at 25',Yaseen Barnawi Yellow Card,21446,0.0,0.0,0.0,0.0,0.0,0.0,1,286050.0,2025-09-22 05:12:23
+13425,736489,6,45947184,76,1,1680,28',0,0,Mohammed Al Dossari (Al Taawoun) Substitution at 28',Mohammed Al Dossari Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,373156.0,2025-09-22 05:12:23
+13425,736489,6,45947184,76,1,1680,28',0,0,Mohammed Al Dossari (Al Taawoun) Substitution at 28',Mohammed Al Dossari Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,186952.0,2025-09-22 05:12:23
+13425,736489,7,45947536,76,2,2700,45',0,0,Cristhoper Zambrano (Al Taawoun) Substitution at 45',Cristhoper Zambrano Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,318055.0,2025-09-22 05:12:23
+13425,736489,8,45947547,76,2,2700,45',0,0,Victor Hugo (Al Taawoun) Substitution at 45',Victor Hugo Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,407769.0,2025-09-23 05:13:14
+13425,736489,8,45947547,76,2,2700,45',0,0,Victor Hugo (Al Taawoun) Substitution at 45',Victor Hugo Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,403245.0,2025-09-23 05:13:14
+13425,736489,8,45947547,76,2,2700,45',0,0,Victor Hugo (Al Taawoun) Substitution at 45',Victor Hugo Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,398719.0,2025-09-23 05:13:14
+13425,736489,8,45947547,76,2,2700,45',0,0,Victor Hugo (Al Taawoun) Substitution at 45',Victor Hugo Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,357715.0,2025-09-23 05:13:14
+13425,736489,8,45947547,76,2,2700,45',0,0,Victor Hugo (Al Taawoun) Substitution at 45',Victor Hugo Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,347410.0,2025-09-23 05:13:14
+13425,736489,8,45947547,76,2,2700,45',0,0,Victor Hugo (Al Taawoun) Substitution at 45',Victor Hugo Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,334382.0,2025-09-23 05:13:14
+13425,736489,8,45947547,76,2,2700,45',0,0,Victor Hugo (Al Taawoun) Substitution at 45',Victor Hugo Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,322751.0,2025-09-23 05:13:14
+13425,736489,8,45947547,76,2,2700,45',0,0,Victor Hugo (Al Taawoun) Substitution at 45',Victor Hugo Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,155374.0,2025-09-23 05:13:14
+13425,736489,7,45947536,76,2,2700,45',0,0,Cristhoper Zambrano (Al Taawoun) Substitution at 45',Cristhoper Zambrano Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,215452.0,2025-09-22 05:12:23
+13425,736489,8,45947547,76,2,2700,45',0,0,Victor Hugo (Al Taawoun) Substitution at 45',Victor Hugo Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,332036.0,2025-09-23 05:13:14
+13425,736489,8,45947547,76,2,2700,45',0,0,Victor Hugo (Al Taawoun) Substitution at 45',Victor Hugo Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,192180.0,2025-09-23 05:13:14
+13425,736489,9,45947588,94,2,2880,48',0,0,Musa Barrow (Al Taawoun) Yellow Card at 48',Musa Barrow Yellow Card,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,269072.0,2025-09-22 05:12:23
+13425,736489,10,45947697,94,2,3120,52',0,0,Al Mufarrij (Al Taawoun) Yellow Card at 52',Al Mufarrij Yellow Card,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,270416.0,2025-09-22 05:12:23
+13425,736489,11,45948049,94,2,3780,63',0,0,Raphael Silva (Al-Faisaly) Yellow Card at 63',Raphael Silva Yellow Card,21446,0.0,0.0,0.0,0.0,0.0,0.0,1,192807.0,2025-09-22 05:12:23
+13425,736489,13,45948091,76,2,3960,66',0,0,Ahmad Al Badah (Al-Faisaly) Substitution at 66',Ahmad Al Badah Substitution,21446,0.0,0.0,0.0,0.0,0.0,0.0,1,373106.0,2025-09-22 05:12:23
+13425,736489,12,45948090,76,2,3960,66',0,0,Abdullah Ibrahim Rashid Al Omar Al Dossari (Al-Faisaly) Substitution at 66',Abdullah Ibrahim Rashid Al Omar ,21446,0.0,0.0,0.0,0.0,0.0,0.0,1,370148.0,2025-09-22 05:12:23
+13425,736489,12,45948090,76,2,3960,66',0,0,Abdullah Ibrahim Rashid Al Omar Al Dossari (Al-Faisaly) Substitution at 66',Abdullah Ibrahim Rashid Al Omar ,21446,0.0,0.0,0.0,0.0,0.0,0.0,2,373087.0,2025-09-22 05:12:23
+13425,736489,13,45948091,76,2,3960,66',0,0,Ahmad Al Badah (Al-Faisaly) Substitution at 66',Ahmad Al Badah Substitution,21446,0.0,0.0,0.0,0.0,0.0,0.0,2,269484.0,2025-09-22 05:12:23
+13425,736489,14,45948115,70,2,4080,68',1,0,Sultan Mandash (Al Taawoun) Goal at 68',Sultan Mandash Goal,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,287054.0,2025-09-22 05:12:23
+13425,736489,16,45948182,76,2,4320,72',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 72',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,367728.0,2025-09-22 05:12:23
+13425,736489,15,45948181,76,2,4320,72',0,0,Mohammed Al Hurayji (Al Taawoun) Substitution at 72',Mohammed Al Hurayji Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,357549.0,2025-09-22 05:12:23
+13425,736489,15,45948181,76,2,4320,72',0,0,Mohammed Al Hurayji (Al Taawoun) Substitution at 72',Mohammed Al Hurayji Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,270416.0,2025-09-22 05:12:23
+13425,736489,16,45948182,76,2,4320,72',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 72',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,288356.0,2025-09-22 05:12:23
+13425,736489,16,45948182,76,2,4320,72',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 72',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,236781.0,2025-09-22 05:12:23
+13425,736489,16,45948182,76,2,4320,72',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 72',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,229511.0,2025-09-22 05:12:23
+13425,736489,16,45948182,76,2,4320,72',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 72',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,219003.0,2025-09-22 05:12:23
+13425,736489,16,45948182,76,2,4320,72',0,0,Abdulelah Abdulelah (Al Taawoun) Substitution at 72',Abdulelah Abdulelah Substitution,18459,0.0,0.0,0.0,0.0,0.0,0.0,2,189786.0,2025-09-22 05:12:23
+13425,736489,17,45948219,76,2,4560,76',0,0,Mohammed Abbas Al Nakhli (Al-Faisaly) Substitution at 76',Mohammed Abbas Al Nakhli Substit,21446,0.0,0.0,0.0,0.0,0.0,0.0,1,392570.0,2025-09-22 05:12:23
+13425,736489,18,45948243,76,2,4560,76',0,0,Abdullah Almogren (Al-Faisaly) Substitution at 76',Abdullah Almogren Substitution,21446,0.0,0.0,0.0,0.0,0.0,0.0,1,365532.0,2025-09-22 05:12:23
+13425,736489,17,45948219,76,2,4560,76',0,0,Mohammed Abbas Al Nakhli (Al-Faisaly) Substitution at 76',Mohammed Abbas Al Nakhli Substit,21446,0.0,0.0,0.0,0.0,0.0,0.0,2,201304.0,2025-09-22 05:12:23
+13425,736489,17,45948219,76,2,4560,76',0,0,Mohammed Abbas Al Nakhli (Al-Faisaly) Substitution at 76',Mohammed Abbas Al Nakhli Substit,21446,0.0,0.0,0.0,0.0,0.0,0.0,2,198431.0,2025-09-22 05:12:23
+13425,736489,18,45948243,76,2,4560,76',0,0,Abdullah Almogren (Al-Faisaly) Substitution at 76',Abdullah Almogren Substitution,21446,0.0,0.0,0.0,0.0,0.0,0.0,2,256688.0,2025-09-22 05:12:23
+13425,736489,19,45948448,70,2,5340,89',1,0,Musa Barrow (Al Taawoun) Goal at 89',Musa Barrow Goal,18459,0.0,0.0,0.0,0.0,0.0,0.0,1,269072.0,2025-09-22 05:12:23
+13425,736490,1,45965193,70,1,1800,30',1,0,Cheikh Touré (Al Jabalain) Goal at 30',Cheikh Touré Goal,22024,0.0,0.0,0.0,0.0,0.0,0.0,1,406414.0,2025-09-25 05:17:29
+13425,736490,2,45965230,70,1,2580,43',1,0,Matias Vargas (Al Fateh) Goal at 43',Matias Vargas Goal,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,391591.0,2025-09-25 05:17:29
+13425,736490,2,45965230,70,1,2580,43',1,0,Matias Vargas (Al Fateh) Goal at 43',Matias Vargas Goal,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,219387.0,2025-09-25 05:17:29
+13425,736490,2,45965230,70,1,2580,43',1,0,Matias Vargas (Al Fateh) Goal at 43',Matias Vargas Goal,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,196613.0,2025-09-25 05:17:29
+13425,736490,3,45965368,94,2,2940,49',0,0,Zaydou Youssef (Al Fateh) Yellow Card at 49',Zaydou Youssef Yellow Card,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,250566.0,2025-09-25 05:17:29
+13425,736490,4,45965460,94,2,3540,59',0,0,Diogo Queirós (Al Jabalain) Yellow Card at 59',Diogo Queirós Yellow Card,22024,0.0,0.0,0.0,0.0,0.0,0.0,1,258916.0,2025-09-25 05:17:29
+13425,736490,5,45965598,76,2,4380,73',0,0,Abdulelah Al Shehri (Al Jabalain) Substitution at 73',Abdulelah Al Shehri Substitution,22024,0.0,0.0,0.0,0.0,0.0,0.0,1,359646.0,2025-09-25 05:17:29
+13425,736490,5,45965598,76,2,4380,73',0,0,Abdulelah Al Shehri (Al Jabalain) Substitution at 73',Abdulelah Al Shehri Substitution,22024,0.0,0.0,0.0,0.0,0.0,0.0,2,302498.0,2025-09-25 05:17:29
+13425,736490,5,45965598,76,2,4380,73',0,0,Abdulelah Al Shehri (Al Jabalain) Substitution at 73',Abdulelah Al Shehri Substitution,22024,0.0,0.0,0.0,0.0,0.0,0.0,2,299358.0,2025-09-25 05:17:29
+13425,736490,6,45965676,76,2,4680,78',0,0,Abdulaziz Al Fawaz (Al Fateh) Substitution at 78',Abdulaziz Al Fawaz Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,389697.0,2025-09-25 05:17:29
+13425,736490,7,45965679,76,2,4680,78',0,0,Wesley Delgado (Al Fateh) Substitution at 78',Wesley Delgado Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,411128.0,2025-09-25 05:17:29
+13425,736490,7,45965679,76,2,4680,78',0,0,Wesley Delgado (Al Fateh) Substitution at 78',Wesley Delgado Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,2,341473.0,2025-09-25 05:17:29
+13425,736490,6,45965676,76,2,4680,78',0,0,Abdulaziz Al Fawaz (Al Fateh) Substitution at 78',Abdulaziz Al Fawaz Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,2,250566.0,2025-09-25 05:17:29
+13425,736490,8,45965706,70,2,4920,82',1,0,Karl Toko Ekambi (Al Fateh) Goal at 82',Karl Toko Ekambi Goal,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,207040.0,2025-09-25 05:17:29
+13425,736490,9,45965721,76,2,4980,83',0,0,Rayan Al Bloushi (Al Jabalain) Substitution at 83',Rayan Al Bloushi Substitution,22024,0.0,0.0,0.0,0.0,0.0,0.0,1,357524.0,2025-09-25 05:17:29
+13425,736490,10,45965722,76,2,4980,83',0,0,Nawaf Al Mutairi (Al Jabalain) Substitution at 83',Nawaf Al Mutairi Substitution,22024,0.0,0.0,0.0,0.0,0.0,0.0,1,90951.0,2025-09-25 05:17:29
+13425,736490,9,45965721,76,2,4980,83',0,0,Rayan Al Bloushi (Al Jabalain) Substitution at 83',Rayan Al Bloushi Substitution,22024,0.0,0.0,0.0,0.0,0.0,0.0,2,289200.0,2025-09-25 05:17:29
+13425,736490,10,45965722,76,2,4980,83',0,0,Nawaf Al Mutairi (Al Jabalain) Substitution at 83',Nawaf Al Mutairi Substitution,22024,0.0,0.0,0.0,0.0,0.0,0.0,2,357608.0,2025-09-25 05:17:29
+13425,736490,12,45965741,76,2,5220,87',0,0,Fawaz Al-Torais (Al Jabalain) Substitution at 87',Fawaz Al-Torais Substitution,22024,0.0,0.0,0.0,0.0,0.0,0.0,1,313148.0,2025-09-25 05:17:29
+13425,736490,11,45965740,76,2,5220,87',0,0,Faisal Al Dosari (Al Jabalain) Substitution at 87',Faisal Al Dosari Substitution,22024,0.0,0.0,0.0,0.0,0.0,0.0,1,410732.0,2025-09-25 05:17:29
+13425,736490,11,45965740,76,2,5220,87',0,0,Faisal Al Dosari (Al Jabalain) Substitution at 87',Faisal Al Dosari Substitution,22024,0.0,0.0,0.0,0.0,0.0,0.0,2,370554.0,2025-09-25 05:17:29
+13425,736490,12,45965741,76,2,5220,87',0,0,Fawaz Al-Torais (Al Jabalain) Substitution at 87',Fawaz Al-Torais Substitution,22024,0.0,0.0,0.0,0.0,0.0,0.0,2,264062.0,2025-09-25 05:17:29
+13425,736490,13,45965762,76,2,5340,89',0,0,Saad Al-Shurafa (Al Fateh) Substitution at 89',Saad Al-Shurafa Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,362792.0,2025-09-25 05:17:29
+13425,736490,13,45965762,76,2,5340,89',0,0,Saad Al-Shurafa (Al Fateh) Substitution at 89',Saad Al-Shurafa Substitution,13033,0.0,0.0,0.0,0.0,0.0,0.0,2,207040.0,2025-09-25 05:17:29
+13425,736490,14,45965763,94,2,5400,90',0,0,Fawaz Al-Torais (Al Jabalain) Yellow Card at 90',Fawaz Al-Torais Yellow Card,22024,0.0,0.0,0.0,0.0,0.0,0.0,1,313148.0,2025-09-25 05:17:29
+13425,736490,16,45965974,93,2,5400,90'+7',0,0,Matias Vargas (Al Fateh) Red Card at 97',Matias Vargas Red Card,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,391591.0,2025-09-25 05:17:29
+13425,736490,16,45965974,93,2,5400,90'+7',0,0,Matias Vargas (Al Fateh) Red Card at 97',Matias Vargas Red Card,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,219387.0,2025-09-25 05:17:29
+13425,736490,16,45965974,93,2,5400,90'+7',0,0,Matias Vargas (Al Fateh) Red Card at 97',Matias Vargas Red Card,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,196613.0,2025-09-25 05:17:29
+13425,736490,15,45965772,94,2,5400,90'+2',0,0,Mourad Batna (Al Fateh) Yellow Card at 92',Mourad Batna Yellow Card,13033,0.0,0.0,0.0,0.0,0.0,0.0,1,232639.0,2025-09-25 05:17:29
+13425,736491,1,45966346,70,1,540,9',1,0,Julián Quiñones (Al Qadsiah) Goal at 9',Julián Quiñones Goal,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,233075.0,2025-09-25 05:17:29
+13425,736491,1,45966346,70,1,540,9',1,0,Julián Quiñones (Al Qadsiah) Goal at 9',Julián Quiñones Goal,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,198729.0,2025-09-25 05:17:29
+13425,736491,2,45966421,70,1,960,16',1,0,Aboubacar Doumbia (Al Orobah) Goal at 16',Aboubacar Doumbia Goal,22029,0.0,0.0,0.0,0.0,0.0,0.0,1,219460.0,2025-09-25 05:17:29
+13425,736491,3,45966584,94,1,1680,28',0,0,Jehad Thakri (Al Qadsiah) Yellow Card at 28',Jehad Thakri Yellow Card,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,371796.0,2025-09-25 05:17:29
+13425,736491,4,45966662,70,1,2100,35',1,0,Nacho (Al Qadsiah) Goal at 35',Nacho Goal,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,413154.0,2025-09-25 05:17:29
+13425,736491,4,45966662,70,1,2100,35',1,0,Nacho (Al Qadsiah) Goal at 35',Nacho Goal,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,412991.0,2025-09-25 05:17:29
+13425,736491,4,45966662,70,1,2100,35',1,0,Nacho (Al Qadsiah) Goal at 35',Nacho Goal,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,375872.0,2025-09-25 05:17:29
+13425,736491,4,45966662,70,1,2100,35',1,0,Nacho (Al Qadsiah) Goal at 35',Nacho Goal,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,331995.0,2025-09-25 05:17:29
+13425,736491,4,45966662,70,1,2100,35',1,0,Nacho (Al Qadsiah) Goal at 35',Nacho Goal,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,331272.0,2025-09-25 05:17:29
+13425,736491,4,45966662,70,1,2100,35',1,0,Nacho (Al Qadsiah) Goal at 35',Nacho Goal,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,157710.0,2025-09-25 05:17:29
+13425,736491,5,45966878,94,1,2340,39',0,0,Rayan Al Hazmi (Al Orobah) Yellow Card at 39',Rayan Al Hazmi Yellow Card,22029,0.0,0.0,0.0,0.0,0.0,0.0,1,410746.0,2025-09-25 05:17:29
+13425,736491,6,45967007,94,1,2700,45'+3',0,0,Ahmed Al-Juwaid (Al Orobah) Yellow Card at 48',Ahmed Al-Juwaid Yellow Card,22029,0.0,0.0,0.0,0.0,0.0,0.0,1,365538.0,2025-09-25 05:17:29
+13425,736491,7,45967473,76,2,2700,45',0,0,Gastón Álvarez (Al Qadsiah) Substitution at 45',Gastón Álvarez Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-09-25 05:17:29
+13425,736491,7,45967473,76,2,2700,45',0,0,Gastón Álvarez (Al Qadsiah) Substitution at 45',Gastón Álvarez Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,371796.0,2025-09-25 05:17:29
+13425,736491,8,45967612,94,2,2940,49',0,0,Aboubacar Doumbia (Al Orobah) Yellow Card at 49',Aboubacar Doumbia Yellow Card,22029,0.0,0.0,0.0,0.0,0.0,0.0,1,219460.0,2025-09-25 05:17:29
+13425,736491,9,45967918,76,2,3720,62',0,0,Faraj (Al Orobah) Substitution at 62',Faraj Substitution,22029,0.0,0.0,0.0,0.0,0.0,0.0,1,390029.0,2025-09-25 05:17:29
+13425,736491,11,45967947,76,2,3720,62',0,0,Ayman Al Hujaili (Al Orobah) Substitution at 62',Ayman Al Hujaili Substitution,22029,0.0,0.0,0.0,0.0,0.0,0.0,1,357614.0,2025-09-25 05:17:29
+13425,736491,12,45967972,76,2,3720,62',0,0,Christopher Baah (Al Qadsiah) Substitution at 62',Christopher Baah Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,360279.0,2025-09-25 05:17:29
+13425,736491,13,45967973,76,2,3720,62',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 62',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,315523.0,2025-09-25 05:17:29
+13425,736491,10,45967946,76,2,3720,62',0,0,Ali Al-Sultan (Al Orobah) Substitution at 62',Ali Al-Sultan Substitution,22029,0.0,0.0,0.0,0.0,0.0,0.0,1,336143.0,2025-09-25 05:17:29
+13425,736491,9,45967918,76,2,3720,62',0,0,Faraj (Al Orobah) Substitution at 62',Faraj Substitution,22029,0.0,0.0,0.0,0.0,0.0,0.0,2,365538.0,2025-09-25 05:17:29
+13425,736491,13,45967973,76,2,3720,62',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 62',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,361399.0,2025-09-25 05:17:29
+13425,736491,13,45967973,76,2,3720,62',0,0,Musab Al-Juwayr (Al Qadsiah) Substitution at 62',Musab Al-Juwayr Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,314835.0,2025-09-25 05:17:29
+13425,736491,12,45967972,76,2,3720,62',0,0,Christopher Baah (Al Qadsiah) Substitution at 62',Christopher Baah Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,283330.0,2025-09-25 05:17:29
+13425,736491,11,45967947,76,2,3720,62',0,0,Ayman Al Hujaili (Al Orobah) Substitution at 62',Ayman Al Hujaili Substitution,22029,0.0,0.0,0.0,0.0,0.0,0.0,2,179142.0,2025-09-25 05:17:29
+13425,736491,10,45967946,76,2,3720,62',0,0,Ali Al-Sultan (Al Orobah) Substitution at 62',Ali Al-Sultan Substitution,22029,0.0,0.0,0.0,0.0,0.0,0.0,2,410746.0,2025-09-25 05:17:29
+13425,736491,14,45968106,98,2,4140,69',1,0,Musab Al-Juwayr (Al Qadsiah) Penalty - Scored at 69',Musab Al-Juwayr Penalty - Scored,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,315523.0,2025-09-25 05:17:29
+13425,736491,15,45968187,94,2,4200,70',0,0,Julian Weigl (Al Qadsiah) Yellow Card at 70',Julian Weigl Yellow Card,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,200192.0,2025-09-25 05:17:29
+13425,736491,16,45968349,76,2,4680,78',0,0,Omar Al Sharari (Al Orobah) Substitution at 78',Omar Al Sharari Substitution,22029,0.0,0.0,0.0,0.0,0.0,0.0,1,373065.0,2025-09-25 05:17:29
+13425,736491,16,45968349,76,2,4680,78',0,0,Omar Al Sharari (Al Orobah) Substitution at 78',Omar Al Sharari Substitution,22029,0.0,0.0,0.0,0.0,0.0,0.0,2,357650.0,2025-09-25 05:17:29
+13425,736491,17,45968422,76,2,4860,81',0,0,Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',Saif Rashad Mohamed Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,372880.0,2025-09-25 05:17:29
+13425,736491,18,45968465,76,2,4860,81',0,0,Ali Abdullah Hazzazi (Al Qadsiah) Substitution at 81',Ali Abdullah Hazzazi Substitutio,22022,0.0,0.0,0.0,0.0,0.0,0.0,1,287058.0,2025-09-25 05:17:29
+13425,736491,17,45968422,76,2,4860,81',0,0,Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',Saif Rashad Mohamed Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,402890.0,2025-09-25 05:17:29
+13425,736491,17,45968422,76,2,4860,81',0,0,Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',Saif Rashad Mohamed Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,400306.0,2025-09-25 05:17:29
+13425,736491,17,45968422,76,2,4860,81',0,0,Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',Saif Rashad Mohamed Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,399134.0,2025-09-25 05:17:29
+13425,736491,17,45968422,76,2,4860,81',0,0,Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',Saif Rashad Mohamed Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,394249.0,2025-09-25 05:17:29
+13425,736491,17,45968422,76,2,4860,81',0,0,Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',Saif Rashad Mohamed Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,357910.0,2025-09-25 05:17:29
+13425,736491,17,45968422,76,2,4860,81',0,0,Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',Saif Rashad Mohamed Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,333867.0,2025-09-25 05:17:29
+13425,736491,17,45968422,76,2,4860,81',0,0,Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',Saif Rashad Mohamed Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,308195.0,2025-09-25 05:17:29
+13425,736491,17,45968422,76,2,4860,81',0,0,Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',Saif Rashad Mohamed Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,237497.0,2025-09-25 05:17:29
+13425,736491,17,45968422,76,2,4860,81',0,0,Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',Saif Rashad Mohamed Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,201547.0,2025-09-25 05:17:29
+13425,736491,17,45968422,76,2,4860,81',0,0,Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',Saif Rashad Mohamed Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,196881.0,2025-09-25 05:17:29
+13425,736491,17,45968422,76,2,4860,81',0,0,Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',Saif Rashad Mohamed Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,153918.0,2025-09-25 05:17:29
+13425,736491,17,45968422,76,2,4860,81',0,0,Saif Rashad Mohamed (Al Qadsiah) Substitution at 81',Saif Rashad Mohamed Substitution,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,113999.0,2025-09-25 05:17:29
+13425,736491,18,45968465,76,2,4860,81',0,0,Ali Abdullah Hazzazi (Al Qadsiah) Substitution at 81',Ali Abdullah Hazzazi Substitutio,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,233075.0,2025-09-25 05:17:29
+13425,736491,18,45968465,76,2,4860,81',0,0,Ali Abdullah Hazzazi (Al Qadsiah) Substitution at 81',Ali Abdullah Hazzazi Substitutio,22022,0.0,0.0,0.0,0.0,0.0,0.0,2,198729.0,2025-09-25 05:17:29
+13425,736491,19,45968553,76,2,5100,85',0,0,Sultan Al Jarbi (Al Orobah) Substitution at 85',Sultan Al Jarbi Substitution,22029,0.0,0.0,0.0,0.0,0.0,0.0,1,411283.0,2025-09-25 05:17:29
+13425,736491,19,45968553,76,2,5100,85',0,0,Sultan Al Jarbi (Al Orobah) Substitution at 85',Sultan Al Jarbi Substitution,22029,0.0,0.0,0.0,0.0,0.0,0.0,2,219460.0,2025-09-25 05:17:29
+13425,736492,1,45944536,70,1,300,5',1,0,Khaled Narey (Al Okhdood) Goal at 5',Khaled Narey Goal,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,209584.0,2025-09-22 05:12:23
+13425,736492,2,45945297,94,1,2460,41',0,0,Mohanad Al Qaydhi (Al Okhdood) Yellow Card at 41',Mohanad Al Qaydhi Yellow Card,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,357646.0,2025-09-22 05:12:23
+13425,736492,3,45945347,94,1,2580,43',0,0,Ahmed Ghassan (Al Okhdood) Yellow Card at 43',Ahmed Ghassan Yellow Card,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,390079.0,2025-09-22 05:12:23
+13425,736492,7,45945700,76,2,2700,45',0,0,Saleh Al-Harthi (Al Okhdood) Substitution at 45',Saleh Al-Harthi Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,365540.0,2025-09-22 05:12:23
+13425,736492,4,45945404,94,1,2700,45'+3',0,0,Musleh Al Shaikh (Al Raed) Yellow Card at 48',Musleh Al Shaikh Yellow Card,21834,0.0,0.0,0.0,0.0,0.0,0.0,1,367746.0,2025-09-22 05:12:23
+13425,736492,6,45945699,76,2,2700,45',0,0,Ali Al Salem (Al Okhdood) Substitution at 45',Ali Al Salem Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,357639.0,2025-09-22 05:12:23
+13425,736492,5,45945698,76,2,2700,45',0,0,Mohammed Abu Abd (Al Okhdood) Substitution at 45',Mohammed Abu Abd Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,357632.0,2025-09-22 05:12:23
+13425,736492,6,45945699,76,2,2700,45',0,0,Ali Al Salem (Al Okhdood) Substitution at 45',Ali Al Salem Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,2,357646.0,2025-09-22 05:12:23
+13425,736492,7,45945700,76,2,2700,45',0,0,Saleh Al-Harthi (Al Okhdood) Substitution at 45',Saleh Al-Harthi Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,2,390079.0,2025-09-22 05:12:23
+13425,736492,5,45945698,76,2,2700,45',0,0,Mohammed Abu Abd (Al Okhdood) Substitution at 45',Mohammed Abu Abd Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,2,209584.0,2025-09-22 05:12:23
+13425,736492,9,45945973,76,2,3540,59',0,0,Yahya Sunbul (Al Raed) Substitution at 59',Yahya Sunbul Substitution,21834,0.0,0.0,0.0,0.0,0.0,0.0,1,357587.0,2025-09-22 05:12:23
+13425,736492,8,45945944,76,2,3540,59',0,0,Saad Alsaluli (Al Raed) Substitution at 59',Saad Alsaluli Substitution,21834,0.0,0.0,0.0,0.0,0.0,0.0,1,319154.0,2025-09-22 05:12:23
+13425,736492,9,45945973,76,2,3540,59',0,0,Yahya Sunbul (Al Raed) Substitution at 59',Yahya Sunbul Substitution,21834,0.0,0.0,0.0,0.0,0.0,0.0,2,286049.0,2025-09-22 05:12:23
+13425,736492,8,45945944,76,2,3540,59',0,0,Saad Alsaluli (Al Raed) Substitution at 59',Saad Alsaluli Substitution,21834,0.0,0.0,0.0,0.0,0.0,0.0,2,367746.0,2025-09-22 05:12:23
+13425,736492,10,45945979,94,2,3660,61',0,0,Christian Bassogog (Al Okhdood) Yellow Card at 61',Christian Bassogog Yellow Card,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,234395.0,2025-09-22 05:12:23
+13425,736492,11,45946093,76,2,4020,67',0,0,Abdullah Hazazi (Al Raed) Substitution at 67',Abdullah Hazazi Substitution,21834,0.0,0.0,0.0,0.0,0.0,0.0,1,372887.0,2025-09-22 05:12:23
+13425,736492,11,45946093,76,2,4020,67',0,0,Abdullah Hazazi (Al Raed) Substitution at 67',Abdullah Hazazi Substitution,21834,0.0,0.0,0.0,0.0,0.0,0.0,2,264669.0,2025-09-22 05:12:23
+13425,736492,12,45946250,94,2,4560,76',0,0,Omar Ahmed Shami (Al Raed) Yellow Card at 76',Omar Ahmed Shami Yellow Card,21834,0.0,0.0,0.0,0.0,0.0,0.0,1,382788.0,2025-09-22 05:12:23
+13425,736492,13,45946271,76,2,4680,78',0,0,Waleed Al Shanqiti (Al Raed) Substitution at 78',Waleed Al Shanqiti Substitution,21834,0.0,0.0,0.0,0.0,0.0,0.0,1,357634.0,2025-09-22 05:12:23
+13425,736492,13,45946271,76,2,4680,78',0,0,Waleed Al Shanqiti (Al Raed) Substitution at 78',Waleed Al Shanqiti Substitution,21834,0.0,0.0,0.0,0.0,0.0,0.0,2,382788.0,2025-09-22 05:12:23
+13425,736492,14,45946540,76,2,5220,87',0,0,Gökhan Gül (Al Okhdood) Substitution at 87',Gökhan Gül Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,108251.0,2025-09-22 05:12:23
+13425,736492,14,45946540,76,2,5220,87',0,0,Gökhan Gül (Al Okhdood) Substitution at 87',Gökhan Gül Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,2,367748.0,2025-09-22 05:12:23
+13425,736492,15,45946582,76,2,5400,90'+3',0,0,Saleh Al Abbas (Al Okhdood) Substitution at 93',Saleh Al Abbas Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,291391.0,2025-09-22 05:12:23
+13425,736492,16,45946592,94,2,5400,90'+4',0,0,Rakan Najjar (Al Okhdood) Yellow Card at 94',Rakan Najjar Yellow Card,21966,0.0,0.0,0.0,0.0,0.0,0.0,1,286017.0,2025-09-22 05:12:23
+13425,736492,15,45946582,76,2,5400,90'+3',0,0,Saleh Al Abbas (Al Okhdood) Substitution at 93',Saleh Al Abbas Substitution,21966,0.0,0.0,0.0,0.0,0.0,0.0,2,234395.0,2025-09-22 05:12:23
+13425,736493,1,45954469,70,1,60,1',1,0,Georgios Masouras (Al Khaleej) Goal at 1',Georgios Masouras Goal,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,239483.0,2025-09-23 05:13:14
+13425,736493,2,45954488,76,2,2700,45',0,0,Ali Salah Al Jassem (Al Tai) Substitution at 45',Ali Salah Al Jassem Substitution,21831,0.0,0.0,0.0,0.0,0.0,0.0,1,357527.0,2025-09-23 05:13:14
+13425,736493,3,45954489,76,2,2700,45',0,0,Ahmad Asiri (Al Khaleej) Substitution at 45',Ahmad Asiri Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,172190.0,2025-09-23 05:13:14
+13425,736493,2,45954488,76,2,2700,45',0,0,Ali Salah Al Jassem (Al Tai) Substitution at 45',Ali Salah Al Jassem Substitution,21831,0.0,0.0,0.0,0.0,0.0,0.0,2,410731.0,2025-09-23 05:13:14
+13425,736493,3,45954489,76,2,2700,45',0,0,Ahmad Asiri (Al Khaleej) Substitution at 45',Ahmad Asiri Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,2,267868.0,2025-09-23 05:13:14
+13425,736493,4,45954491,94,2,3060,51',0,0,Rakan Shamlan (Al Tai) Yellow Card at 51',Rakan Shamlan Yellow Card,21831,0.0,0.0,0.0,0.0,0.0,0.0,1,286258.0,2025-09-23 05:13:14
+13425,736493,5,45954494,70,2,3180,53',1,0,Murad Al Hawsawi (Al Khaleej) Goal at 53',Murad Al Hawsawi Goal,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,373097.0,2025-09-23 05:13:14
+13425,736493,6,45954496,97,2,3420,57',1,0,Nawaf Al Qamiri (Al Tai) Own Goal at 57',Nawaf Al Qamiri Own Goal,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,357569.0,2025-09-23 05:13:14
+13425,736493,7,45954497,76,2,3480,58',0,0,Abdulrahman Al Harthi (Al Tai) Substitution at 58',Abdulrahman Al Harthi Substituti,21831,0.0,0.0,0.0,0.0,0.0,0.0,1,365523.0,2025-09-23 05:13:14
+13425,736493,8,45954498,76,2,3480,58',0,0,Jonata Felipe (Al Tai) Substitution at 58',Jonata Felipe Substitution,21831,0.0,0.0,0.0,0.0,0.0,0.0,1,269932.0,2025-09-23 05:13:14
+13425,736493,9,45954501,76,2,3480,58',0,0,Hussain Al Shurafaa (Al Tai) Substitution at 58',Hussain Al Shurafaa Substitution,21831,0.0,0.0,0.0,0.0,0.0,0.0,1,392653.0,2025-09-23 05:13:14
+13425,736493,9,45954501,76,2,3480,58',0,0,Hussain Al Shurafaa (Al Tai) Substitution at 58',Hussain Al Shurafaa Substitution,21831,0.0,0.0,0.0,0.0,0.0,0.0,2,372854.0,2025-09-23 05:13:14
+13425,736493,7,45954497,76,2,3480,58',0,0,Abdulrahman Al Harthi (Al Tai) Substitution at 58',Abdulrahman Al Harthi Substituti,21831,0.0,0.0,0.0,0.0,0.0,0.0,2,286258.0,2025-09-23 05:13:14
+13425,736493,8,45954498,76,2,3480,58',0,0,Jonata Felipe (Al Tai) Substitution at 58',Jonata Felipe Substitution,21831,0.0,0.0,0.0,0.0,0.0,0.0,2,282089.0,2025-09-23 05:13:14
+13425,736493,10,45954502,94,2,3840,64',0,0,Ahmad Asiri (Al Khaleej) Yellow Card at 64',Ahmad Asiri Yellow Card,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,172190.0,2025-09-23 05:13:14
+13425,736493,11,45954505,76,2,3900,65',0,0,Bandar Al Mutairi (Al Khaleej) Substitution at 65',Bandar Al Mutairi Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,287057.0,2025-09-23 05:13:14
+13425,736493,12,45954515,76,2,3900,65',0,0,Hussain Al Sultan (Al Khaleej) Substitution at 65',Hussain Al Sultan Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,398909.0,2025-09-23 05:13:14
+13425,736493,12,45954515,76,2,3900,65',0,0,Hussain Al Sultan (Al Khaleej) Substitution at 65',Hussain Al Sultan Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,2,239483.0,2025-09-23 05:13:14
+13425,736493,11,45954505,76,2,3900,65',0,0,Bandar Al Mutairi (Al Khaleej) Substitution at 65',Bandar Al Mutairi Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,2,219233.0,2025-09-23 05:13:14
+13425,736493,13,45954509,70,2,4020,67',1,0,Paolo Fernandes (Al Khaleej) Goal at 67',Paolo Fernandes Goal,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,259139.0,2025-09-23 05:13:14
+13425,736493,14,45954516,76,2,4200,70',0,0,Ali Abdoulraouf Alabdrabalnabi (Al Khaleej) Substitution at 70',Ali Abdoulraouf Alabdrabalnabi S,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,399522.0,2025-09-23 05:13:14
+13425,736493,15,45954517,76,2,4200,70',0,0,Arif Al Haydar (Al Khaleej) Substitution at 70',Arif Al Haydar Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,357628.0,2025-09-23 05:13:14
+13425,736493,14,45954516,76,2,4200,70',0,0,Ali Abdoulraouf Alabdrabalnabi (Al Khaleej) Substitution at 70',Ali Abdoulraouf Alabdrabalnabi S,21829,0.0,0.0,0.0,0.0,0.0,0.0,2,373097.0,2025-09-23 05:13:14
+13425,736493,15,45954517,76,2,4200,70',0,0,Arif Al Haydar (Al Khaleej) Substitution at 70',Arif Al Haydar Substitution,21829,0.0,0.0,0.0,0.0,0.0,0.0,2,262499.0,2025-09-23 05:13:14
+13425,736493,16,45954521,76,2,4440,74',0,0,Mohammed Al-Saiari (Al Tai) Substitution at 74',Mohammed Al-Saiari Substitution,21831,0.0,0.0,0.0,0.0,0.0,0.0,1,253105.0,2025-09-23 05:13:14
+13425,736493,16,45954521,76,2,4440,74',0,0,Mohammed Al-Saiari (Al Tai) Substitution at 74',Mohammed Al-Saiari Substitution,21831,0.0,0.0,0.0,0.0,0.0,0.0,2,256561.0,2025-09-23 05:13:14
+13425,736493,17,45954527,70,2,4740,79',1,0,Paolo Fernandes (Al Khaleej) Goal at 79',Paolo Fernandes Goal,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,259139.0,2025-09-23 05:13:14
+13425,736493,18,45954531,94,2,5100,85',0,0,Paolo Fernandes (Al Khaleej) Yellow Card at 85',Paolo Fernandes Yellow Card,21829,0.0,0.0,0.0,0.0,0.0,0.0,1,259139.0,2025-09-23 05:13:14
+13425,736493,19,45954533,94,2,5100,85',0,0,Dino Halilovic (Al Tai) Yellow Card at 85',Dino Halilovic Yellow Card,21831,0.0,0.0,0.0,0.0,0.0,0.0,1,228329.0,2025-09-23 05:13:14
+13425,736494,1,45957999,98,1,540,9',1,0,Saleh Al-Shehri (Al Ittihad) Penalty - Scored at 9',Saleh Al-Shehri Penalty - Scored,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,177897.0,2025-09-24 05:13:41
+13425,736494,2,45958594,94,1,2220,37',0,0,Jan-Carlo Simic (Al Ittihad) Yellow Card at 37',Jan-Carlo Simic Yellow Card,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,355861.0,2025-09-24 05:13:41
+13425,736494,3,45958631,94,1,2340,39',0,0,Adel Khodari (Al Wehda) Yellow Card at 39',Adel Khodari Yellow Card,21835,0.0,0.0,0.0,0.0,0.0,0.0,1,373413.0,2025-09-24 05:13:41
+13425,736494,4,45958689,94,1,2520,42',0,0,Ahmed Al-Julaydan (Al Ittihad) Yellow Card at 42',Ahmed Al-Julaydan Yellow Card,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,361707.0,2025-09-24 05:13:41
+13425,736494,5,45959488,76,2,3420,57',0,0,Murad Khadari (Al Wehda) Substitution at 57',Murad Khadari Substitution,21835,0.0,0.0,0.0,0.0,0.0,0.0,1,367496.0,2025-09-24 05:13:41
+13425,736494,5,45959488,76,2,3420,57',0,0,Murad Khadari (Al Wehda) Substitution at 57',Murad Khadari Substitution,21835,0.0,0.0,0.0,0.0,0.0,0.0,2,410847.0,2025-09-24 05:13:41
+13425,736494,8,45959989,76,2,4200,70',0,0,Ahmed Sharahili (Al Ittihad) Substitution at 70',Ahmed Sharahili Substitution,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,202276.0,2025-09-24 05:13:41
+13425,736494,7,45959927,76,2,4200,70',0,0,Yaseen Khalid (Al Ittihad) Substitution at 70',Yaseen Khalid Substitution,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,390499.0,2025-09-24 05:13:41
+13425,736494,10,45959991,76,2,4200,70',0,0,Ahmed Al Ghamdi (Al Ittihad) Substitution at 70',Ahmed Al Ghamdi Substitution,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,357522.0,2025-09-24 05:13:41
+13425,736494,9,45959990,76,2,4200,70',0,0,Hamed Alghamdi (Al Ittihad) Substitution at 70',Hamed Alghamdi Substitution,2276,0.0,0.0,0.0,0.0,0.0,0.0,1,288571.0,2025-09-24 05:13:41
+13425,736494,6,45959926,94,2,4200,70',0,0,Salem Al-Maqadi (Al Wehda) Yellow Card at 70',Salem Al-Maqadi Yellow Card,21835,0.0,0.0,0.0,0.0,0.0,0.0,1,372864.0,2025-09-24 05:13:41
+13425,736494,8,45959989,76,2,4200,70',0,0,Ahmed Sharahili (Al Ittihad) Substitution at 70',Ahmed Sharahili Substitution,2276,0.0,0.0,0.0,0.0,0.0,0.0,2,357523.0,2025-09-24 05:13:41
+13425,736494,9,45959990,76,2,4200,70',0,0,Hamed Alghamdi (Al Ittihad) Substitution at 70',Hamed Alghamdi Substitution,2276,0.0,0.0,0.0,0.0,0.0,0.0,2,280457.0,2025-09-24 05:13:41
+13425,736494,7,45959927,76,2,4200,70',0,0,Yaseen Khalid (Al Ittihad) Substitution at 70',Yaseen Khalid Substitution,2276,0.0,0.0,0.0,0.0,0.0,0.0,2,361707.0,2025-09-24 05:13:41
+13425,736494,10,45959991,76,2,4200,70',0,0,Ahmed Al Ghamdi (Al Ittihad) Substitution at 70',Ahmed Al Ghamdi Substitution,2276,0.0,0.0,0.0,0.0,0.0,0.0,2,356106.0,2025-09-24 05:13:41
+13425,736494,11,45960234,76,2,4680,78',0,0,Abdulaziz Majrashi (Al Wehda) Substitution at 78',Abdulaziz Majrashi Substitution,21835,0.0,0.0,0.0,0.0,0.0,0.0,1,357669.0,2025-09-24 05:13:41
+13425,736494,11,45960234,76,2,4680,78',0,0,Abdulaziz Majrashi (Al Wehda) Substitution at 78',Abdulaziz Majrashi Substitution,21835,0.0,0.0,0.0,0.0,0.0,0.0,1,267582.0,2025-09-24 05:13:41
+13425,736494,11,45960234,76,2,4680,78',0,0,Abdulaziz Majrashi (Al Wehda) Substitution at 78',Abdulaziz Majrashi Substitution,21835,0.0,0.0,0.0,0.0,0.0,0.0,2,372864.0,2025-09-24 05:13:41
+13425,736494,12,45960518,76,2,5220,87',0,0,Fahad Al Johani (Al Wehda) Substitution at 87',Fahad Al Johani Substitution,21835,0.0,0.0,0.0,0.0,0.0,0.0,1,357570.0,2025-09-24 05:13:41
+13425,736494,12,45960518,76,2,5220,87',0,0,Fahad Al Johani (Al Wehda) Substitution at 87',Fahad Al Johani Substitution,21835,0.0,0.0,0.0,0.0,0.0,0.0,2,217336.0,2025-09-24 05:13:41
+13425,736494,13,45960666,94,2,5400,90'+2',0,0,Abdulmohsen Fallatah (Al Wehda) Yellow Card at 92',Abdulmohsen Fallatah Yellow Card,21835,0.0,0.0,0.0,0.0,0.0,0.0,1,291381.0,2025-09-24 05:13:41
+13425,736495,1,45954827,70,1,2700,45'+2',1,0,Abdullah Al-Hamdan (Al Hilal) Goal at 47',Abdullah Al-Hamdan Goal,929,0.0,0.0,0.0,0.0,0.0,0.0,1,294239.0,2025-09-23 05:13:14
+13425,736495,2,45955003,76,2,2700,45',0,0,Nawaf Bo Amer (Al Adalah) Substitution at 45',Nawaf Bo Amer Substitution,21830,0.0,0.0,0.0,0.0,0.0,0.0,1,373171.0,2025-09-23 05:13:14
+13425,736495,2,45955003,76,2,2700,45',0,0,Nawaf Bo Amer (Al Adalah) Substitution at 45',Nawaf Bo Amer Substitution,21830,0.0,0.0,0.0,0.0,0.0,0.0,2,357578.0,2025-09-23 05:13:14
+13425,736495,3,45955043,76,2,3060,51',0,0,Musa Alamoudi (Al Adalah) Substitution at 51',Musa Alamoudi Substitution,21830,0.0,0.0,0.0,0.0,0.0,0.0,1,410730.0,2025-09-23 05:13:14
+13425,736495,3,45955043,76,2,3060,51',0,0,Musa Alamoudi (Al Adalah) Substitution at 51',Musa Alamoudi Substitution,21830,0.0,0.0,0.0,0.0,0.0,0.0,2,280458.0,2025-09-23 05:13:14
+13425,736495,4,45955203,94,2,4560,76',0,0,Lucas Cunha (Al Adalah) Yellow Card at 76',Lucas Cunha Yellow Card,21830,0.0,0.0,0.0,0.0,0.0,0.0,1,198597.0,2025-10-08 05:25:51
+13425,736495,6,45955223,76,2,4680,78',0,0,Theo Hernández (Al Hilal) Substitution at 78',Theo Hernández Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,1,233621.0,2025-09-23 05:13:14
+13425,736495,7,45955228,76,2,4680,78',0,0,Mohammed Al-Qahtani (Al Hilal) Substitution at 78',Mohammed Al-Qahtani Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,1,324942.0,2025-09-23 05:13:14
+13425,736495,5,45955222,76,2,4680,78',0,0,Salem Al-Dawsari (Al Hilal) Substitution at 78',Salem Al-Dawsari Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,1,163850.0,2025-09-23 05:13:14
+13425,736495,7,45955228,76,2,4680,78',0,0,Mohammed Al-Qahtani (Al Hilal) Substitution at 78',Mohammed Al-Qahtani Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,294239.0,2025-09-23 05:13:14
+13425,736495,6,45955223,76,2,4680,78',0,0,Theo Hernández (Al Hilal) Substitution at 78',Theo Hernández Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,372853.0,2025-09-23 05:13:14
+13425,736495,5,45955222,76,2,4680,78',0,0,Salem Al-Dawsari (Al Hilal) Substitution at 78',Salem Al-Dawsari Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,398930.0,2025-09-23 05:13:14
+13425,736495,5,45955222,76,2,4680,78',0,0,Salem Al-Dawsari (Al Hilal) Substitution at 78',Salem Al-Dawsari Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,380947.0,2025-09-23 05:13:14
+13425,736495,5,45955222,76,2,4680,78',0,0,Salem Al-Dawsari (Al Hilal) Substitution at 78',Salem Al-Dawsari Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,347456.0,2025-09-23 05:13:14
+13425,736495,5,45955222,76,2,4680,78',0,0,Salem Al-Dawsari (Al Hilal) Substitution at 78',Salem Al-Dawsari Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,336808.0,2025-09-23 05:13:14
+13425,736495,5,45955222,76,2,4680,78',0,0,Salem Al-Dawsari (Al Hilal) Substitution at 78',Salem Al-Dawsari Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,304474.0,2025-09-23 05:13:14
+13425,736495,5,45955222,76,2,4680,78',0,0,Salem Al-Dawsari (Al Hilal) Substitution at 78',Salem Al-Dawsari Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,301215.0,2025-09-23 05:13:14
+13425,736495,5,45955222,76,2,4680,78',0,0,Salem Al-Dawsari (Al Hilal) Substitution at 78',Salem Al-Dawsari Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,285421.0,2025-09-23 05:13:14
+13425,736495,5,45955222,76,2,4680,78',0,0,Salem Al-Dawsari (Al Hilal) Substitution at 78',Salem Al-Dawsari Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,236098.0,2025-09-23 05:13:14
+13425,736495,5,45955222,76,2,4680,78',0,0,Salem Al-Dawsari (Al Hilal) Substitution at 78',Salem Al-Dawsari Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,226420.0,2025-09-23 05:13:14
+13425,736495,5,45955222,76,2,4680,78',0,0,Salem Al-Dawsari (Al Hilal) Substitution at 78',Salem Al-Dawsari Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,201447.0,2025-09-23 05:13:14
+13425,736495,8,45955262,76,2,4980,83',0,0,Mohammed Al Marri (Al Adalah) Substitution at 83',Mohammed Al Marri Substitution,21830,0.0,0.0,0.0,0.0,0.0,0.0,1,341481.0,2025-09-23 05:13:14
+13425,736495,8,45955262,76,2,4980,83',0,0,Mohammed Al Marri (Al Adalah) Substitution at 83',Mohammed Al Marri Substitution,21830,0.0,0.0,0.0,0.0,0.0,0.0,2,357618.0,2025-09-23 05:13:14
+13425,736495,9,45955263,76,2,5040,84',0,0,Elyas Al Baladi (Al Adalah) Substitution at 84',Elyas Al Baladi Substitution,21830,0.0,0.0,0.0,0.0,0.0,0.0,1,357625.0,2025-09-23 05:13:14
+13425,736495,9,45955263,76,2,5040,84',0,0,Elyas Al Baladi (Al Adalah) Substitution at 84',Elyas Al Baladi Substitution,21830,0.0,0.0,0.0,0.0,0.0,0.0,2,319916.0,2025-09-23 05:13:14
+13425,736495,11,45955302,76,2,5400,90'+1',0,0,Mohammed Al Zaid (Al Hilal) Substitution at 91',Mohammed Al Zaid Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,1,392555.0,2025-09-23 05:13:14
+13425,736495,11,45955302,76,2,5400,90'+1',0,0,Mohammed Al Zaid (Al Hilal) Substitution at 91',Mohammed Al Zaid Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,1,371403.0,2025-09-23 05:13:14
+13425,736495,12,45955309,76,2,5400,90'+3',0,0,Abdullah Radif (Al Hilal) Substitution at 93',Abdullah Radif Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,1,313423.0,2025-09-23 05:13:14
+13425,736495,10,45955301,76,2,5400,90'+1',0,0,Metaab Al Khadi (Al Adalah) Substitution at 91',Metaab Al Khadi Substitution,21830,0.0,0.0,0.0,0.0,0.0,0.0,1,411195.0,2025-09-23 05:13:14
+13425,736495,12,45955309,76,2,5400,90'+3',0,0,Abdullah Radif (Al Hilal) Substitution at 93',Abdullah Radif Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,304571.0,2025-09-23 05:13:14
+13425,736495,10,45955301,76,2,5400,90'+1',0,0,Metaab Al Khadi (Al Adalah) Substitution at 91',Metaab Al Khadi Substitution,21830,0.0,0.0,0.0,0.0,0.0,0.0,2,410749.0,2025-09-23 05:13:14
+13425,736495,11,45955302,76,2,5400,90'+1',0,0,Mohammed Al Zaid (Al Hilal) Substitution at 91',Mohammed Al Zaid Substitution,929,0.0,0.0,0.0,0.0,0.0,0.0,2,291380.0,2025-09-23 05:13:14
+13425,736496,1,45956921,94,1,300,5',0,0,Jamal Harkass (Damac) Yellow Card at 5',Jamal Harkass Yellow Card,21828,0.0,0.0,0.0,0.0,0.0,0.0,1,333191.0,2025-09-24 05:13:41
+13425,736496,2,45956951,94,1,1320,22',0,0,Dhari Al Anazi (Damac) Yellow Card at 22',Dhari Al Anazi Yellow Card,21828,0.0,0.0,0.0,0.0,0.0,0.0,1,357671.0,2025-09-24 05:13:41
+13425,736496,3,45956952,94,1,1380,23',0,0,Khaled Al Shammari (Al Najma) Yellow Card at 23',Khaled Al Shammari Yellow Card,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,373144.0,2025-09-24 05:13:41
+13425,736496,3,45956952,94,1,1380,23',0,0,Khaled Al Shammari (Al Najma) Yellow Card at 23',Khaled Al Shammari Yellow Card,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,373076.0,2025-09-24 05:13:41
+13425,736496,4,45957136,94,2,3360,56',0,0,Abdulelah Al Shammry (Al Najma) Yellow Card at 56',Abdulelah Al Shammry Yellow Card,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,343934.0,2025-09-24 05:13:41
+13425,736496,5,45957151,70,2,3480,58',1,0,Lázaro  (Al Najma) Goal at 58',Lázaro  Goal,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,289907.0,2025-09-24 05:13:41
+13425,736496,5,45957151,70,2,3480,58',1,0,Lázaro  (Al Najma) Goal at 58',Lázaro  Goal,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,205963.0,2025-09-24 05:13:41
+13425,736496,6,45957156,76,2,3600,60',0,0,Bilal Boutobba (Al Najma) Substitution at 60',Bilal Boutobba Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,214690.0,2025-09-24 05:13:41
+13425,736496,6,45957156,76,2,3600,60',0,0,Bilal Boutobba (Al Najma) Substitution at 60',Bilal Boutobba Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,2,373104.0,2025-09-24 05:13:41
+13425,736496,7,45957163,76,2,3660,61',0,0,Abdullah Al Qahtani (Damac) Substitution at 61',Abdullah Al Qahtani Substitution,21828,0.0,0.0,0.0,0.0,0.0,0.0,1,343929.0,2025-09-24 05:13:41
+13425,736496,8,45957168,76,2,3660,61',0,0,Sanousi Al Hawsawi (Damac) Substitution at 61',Sanousi Al Hawsawi Substitution,21828,0.0,0.0,0.0,0.0,0.0,0.0,1,357576.0,2025-09-24 05:13:41
+13425,736496,8,45957168,76,2,3660,61',0,0,Sanousi Al Hawsawi (Damac) Substitution at 61',Sanousi Al Hawsawi Substitution,21828,0.0,0.0,0.0,0.0,0.0,0.0,2,373079.0,2025-09-24 05:13:41
+13425,736496,7,45957163,76,2,3660,61',0,0,Abdullah Al Qahtani (Damac) Substitution at 61',Abdullah Al Qahtani Substitution,21828,0.0,0.0,0.0,0.0,0.0,0.0,2,276066.0,2025-09-24 05:13:41
+13425,736496,9,45957197,94,2,3900,65',0,0,Mohammed Al-Konaideri (Al Najma) Yellow Card at 65',Mohammed Al-Konaideri Yellow Car,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,302744.0,2025-09-24 05:13:41
+13425,736496,10,45957418,76,2,4380,73',0,0,Abdulaziz Al Harabi (Al Najma) Substitution at 73',Abdulaziz Al Harabi Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,357572.0,2025-09-24 05:13:41
+13425,736496,10,45957418,76,2,4380,73',0,0,Abdulaziz Al Harabi (Al Najma) Substitution at 73',Abdulaziz Al Harabi Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,2,337326.0,2025-09-24 05:13:41
+13425,736496,11,45957465,70,2,4740,79',1,0,Hazzaa Al Ghamdi (Damac) Goal at 79',Hazzaa Al Ghamdi Goal,21828,0.0,0.0,0.0,0.0,0.0,0.0,1,357652.0,2025-09-24 05:13:41
+13425,736496,12,45957472,94,2,4860,81',0,0,David Kaiki Flores Da Silva (Damac) Yellow Card at 81',David Kaiki Flores Da Silva Yell,21828,0.0,0.0,0.0,0.0,0.0,0.0,1,335390.0,2025-09-24 05:13:41
+13425,736496,13,45957491,76,2,5220,87',0,0,Hisham Al Dubais (Al Najma) Substitution at 87',Hisham Al Dubais Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,357611.0,2025-09-24 05:13:41
+13425,736496,13,45957491,76,2,5220,87',0,0,Hisham Al Dubais (Al Najma) Substitution at 87',Hisham Al Dubais Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,2,289907.0,2025-09-24 05:13:41
+13425,736496,13,45957491,76,2,5220,87',0,0,Hisham Al Dubais (Al Najma) Substitution at 87',Hisham Al Dubais Substitution,22023,0.0,0.0,0.0,0.0,0.0,0.0,2,205963.0,2025-09-24 05:13:41
+13425,736496,14,45957500,76,2,5400,90',0,0,Yahya Naji (Damac) Substitution at 90',Yahya Naji Substitution,21828,0.0,0.0,0.0,0.0,0.0,0.0,1,288569.0,2025-09-24 05:13:41
+13425,736496,17,45957509,70,2,5400,90'+3',1,0,Abdulaziz Al Harabi (Al Najma) Goal at 93',Abdulaziz Al Harabi Goal,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,357572.0,2025-09-24 05:13:41
+13425,736496,16,45957508,94,2,5400,90'+1',0,0,Hisham Al Dubais (Al Najma) Yellow Card at 91',Hisham Al Dubais Yellow Card,22023,0.0,0.0,0.0,0.0,0.0,0.0,1,357611.0,2025-09-24 05:13:41
+13425,736496,15,45957507,76,2,5400,90',0,0,Khaled Al Samiri (Damac) Substitution at 90',Khaled Al Samiri Substitution,21828,0.0,0.0,0.0,0.0,0.0,0.0,1,256669.0,2025-09-24 05:13:41
+13425,736496,14,45957500,76,2,5400,90',0,0,Yahya Naji (Damac) Substitution at 90',Yahya Naji Substitution,21828,0.0,0.0,0.0,0.0,0.0,0.0,2,357652.0,2025-09-24 05:13:41
+13425,736496,15,45957507,76,2,5400,90',0,0,Khaled Al Samiri (Damac) Substitution at 90',Khaled Al Samiri Substitution,21828,0.0,0.0,0.0,0.0,0.0,0.0,2,253196.0,2025-09-24 05:13:41
+13425,736497,1,45956914,70,1,300,5',1,0,Omar Al-Somah (Al Hazem) Goal at 5',Omar Al-Somah Goal,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,216955.0,2025-09-24 05:13:41
+13425,736497,2,45956953,70,1,1560,26',1,0,Alexandre Lacazette (Neom SC) Goal at 26',Alexandre Lacazette Goal,130899,0.0,0.0,0.0,0.0,0.0,0.0,1,131752.0,2025-09-24 05:13:41
+13425,736497,4,45957062,76,2,2700,45',0,0,Abdullah Al-Shanqiti (Al Hazem) Substitution at 45',Abdullah Al-Shanqiti Substitutio,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,309321.0,2025-09-24 05:13:41
+13425,736497,3,45957053,76,2,2700,45',0,0,Saïmon Bouabré (Neom SC) Substitution at 45',Saïmon Bouabré Substitution,130899,0.0,0.0,0.0,0.0,0.0,0.0,1,371472.0,2025-09-24 05:13:41
+13425,736497,3,45957053,76,2,2700,45',0,0,Saïmon Bouabré (Neom SC) Substitution at 45',Saïmon Bouabré Substitution,130899,0.0,0.0,0.0,0.0,0.0,0.0,2,309318.0,2025-09-24 05:13:41
+13425,736497,4,45957062,76,2,2700,45',0,0,Abdullah Al-Shanqiti (Al Hazem) Substitution at 45',Abdullah Al-Shanqiti Substitutio,21964,0.0,0.0,0.0,0.0,0.0,0.0,2,365531.0,2025-09-24 05:13:41
+13425,736497,5,45957079,94,2,2820,47',0,0,Abdulaziz Al-Harbi (Al Hazem) Yellow Card at 47',Abdulaziz Al-Harbi Yellow Card,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,365541.0,2025-09-24 05:13:41
+13425,736497,6,45957137,94,2,3540,59',0,0,Mohammed Al-Burayk (Neom SC) Yellow Card at 59',Mohammed Al-Burayk Yellow Card,130899,0.0,0.0,0.0,0.0,0.0,0.0,1,251569.0,2025-09-24 05:13:41
+13425,736497,7,45957157,70,2,3720,62',1,0,Omar Al-Somah (Al Hazem) Goal at 62',Omar Al-Somah Goal,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,216955.0,2025-09-24 05:13:41
+13425,736497,9,45957162,76,2,3780,63',0,0,Amadou Koné (Neom SC) Substitution at 63',Amadou Koné Substitution,130899,0.0,0.0,0.0,0.0,0.0,0.0,1,375052.0,2025-09-24 05:13:41
+13425,736497,8,45957159,76,2,3780,63',0,0,Abdulmalik Al Oyayari (Neom SC) Substitution at 63',Abdulmalik Al Oyayari Substituti,130899,0.0,0.0,0.0,0.0,0.0,0.0,1,337325.0,2025-09-24 05:13:41
+13425,736497,9,45957162,76,2,3780,63',0,0,Amadou Koné (Neom SC) Substitution at 63',Amadou Koné Substitution,130899,0.0,0.0,0.0,0.0,0.0,0.0,2,256672.0,2025-09-24 05:13:41
+13425,736497,8,45957159,76,2,3780,63',0,0,Abdulmalik Al Oyayari (Neom SC) Substitution at 63',Abdulmalik Al Oyayari Substituti,130899,0.0,0.0,0.0,0.0,0.0,0.0,2,251569.0,2025-09-24 05:13:41
+13425,736497,10,45957416,76,2,4500,75',0,0,Ahmed Abdu (Neom SC) Substitution at 75',Ahmed Abdu Substitution,130899,0.0,0.0,0.0,0.0,0.0,0.0,1,346286.0,2025-09-24 05:13:41
+13425,736497,10,45957416,76,2,4500,75',0,0,Ahmed Abdu (Neom SC) Substitution at 75',Ahmed Abdu Substitution,130899,0.0,0.0,0.0,0.0,0.0,0.0,2,118688.0,2025-09-24 05:13:41
+13425,736497,12,45957426,76,2,4620,77',0,0,Elias Mokwana (Al Hazem) Substitution at 77',Elias Mokwana Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,346381.0,2025-09-24 05:13:41
+13425,736497,11,45957423,76,2,4620,77',0,0,Amir Sayoud (Al Hazem) Substitution at 77',Amir Sayoud Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,189615.0,2025-09-24 05:13:41
+13425,736497,11,45957423,76,2,4620,77',0,0,Amir Sayoud (Al Hazem) Substitution at 77',Amir Sayoud Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,2,286015.0,2025-09-24 05:13:41
+13425,736497,12,45957426,76,2,4620,77',0,0,Elias Mokwana (Al Hazem) Substitution at 77',Elias Mokwana Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,2,336151.0,2025-09-24 05:13:41
+13425,736497,13,45957470,94,2,4920,82',0,0,Omar Al-Somah (Al Hazem) Yellow Card at 82',Omar Al-Somah Yellow Card,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,216955.0,2025-09-24 05:13:41
+13425,736497,14,45957482,76,2,5160,86',0,0,Khalid Al Subaie (Al Hazem) Substitution at 86',Khalid Al Subaie Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,1,377712.0,2025-09-24 05:13:41
+13425,736497,14,45957482,76,2,5160,86',0,0,Khalid Al Subaie (Al Hazem) Substitution at 86',Khalid Al Subaie Substitution,21964,0.0,0.0,0.0,0.0,0.0,0.0,2,306689.0,2025-09-24 05:13:41
+13425,736497,15,45957495,76,2,5400,90'+1',0,0,Hassan Hashim Al Ali (Neom SC) Substitution at 91',Hassan Hashim Al Ali Substitutio,130899,0.0,0.0,0.0,0.0,0.0,0.0,1,307749.0,2025-09-24 05:13:41
+13425,736497,15,45957495,76,2,5400,90'+1',0,0,Hassan Hashim Al Ali (Neom SC) Substitution at 91',Hassan Hashim Al Ali Substitutio,130899,0.0,0.0,0.0,0.0,0.0,0.0,2,176562.0,2025-09-24 05:13:41
+13425,736498,1,45965112,94,1,1200,20',0,0,Marzouq Tambakti (Al Riyadh) Yellow Card at 20',Marzouq Tambakti Yellow Card,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,372196.0,2025-09-25 05:17:29
+13425,736498,2,45965121,70,1,1500,25',1,0,Yahya Alshehri (Al Riyadh) Goal at 25',Yahya Alshehri Goal,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,243928.0,2025-09-25 05:17:29
+13425,736498,3,45965154,174,1,2280,38',0,0,Faycal Fajr (Al Jubail) Penalty - Saved at 38',Faycal Fajr Penalty - Saved,130900,0.0,0.0,0.0,0.0,0.0,0.0,1,163121.0,2025-09-25 05:17:29
+13425,736498,4,45965189,76,2,2700,45',0,0,Nawaf Hazazi (Al Jubail) Substitution at 45',Nawaf Hazazi Substitution,130900,0.0,0.0,0.0,0.0,0.0,0.0,1,357525.0,2025-09-25 05:17:29
+13425,736498,5,45965190,76,2,2700,45',0,0,Khalil Al-Absi (Al Riyadh) Substitution at 45',Khalil Al-Absi Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,302747.0,2025-09-25 05:17:29
+13425,736498,6,45965191,76,2,2700,45',0,0,Ismaila Soro (Al Riyadh) Substitution at 45',Ismaila Soro Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,291689.0,2025-09-25 05:17:29
+13425,736498,6,45965191,76,2,2700,45',0,0,Ismaila Soro (Al Riyadh) Substitution at 45',Ismaila Soro Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,400624.0,2025-09-25 05:17:29
+13425,736498,4,45965189,76,2,2700,45',0,0,Nawaf Hazazi (Al Jubail) Substitution at 45',Nawaf Hazazi Substitution,130900,0.0,0.0,0.0,0.0,0.0,0.0,2,216398.0,2025-09-25 05:17:29
+13425,736498,5,45965190,76,2,2700,45',0,0,Khalil Al-Absi (Al Riyadh) Substitution at 45',Khalil Al-Absi Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,331921.0,2025-09-25 05:17:29
+13425,736498,7,45965212,94,2,3060,51',0,0,Ibrahim Bayesh (Al Riyadh) Yellow Card at 51',Ibrahim Bayesh Yellow Card,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,266496.0,2025-09-25 05:17:29
+13425,736498,9,45965250,76,2,3780,63',0,0,Sergio González (Al Riyadh) Substitution at 63',Sergio González Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,364828.0,2025-09-25 05:17:29
+13425,736498,9,45965250,76,2,3780,63',0,0,Sergio González (Al Riyadh) Substitution at 63',Sergio González Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,301431.0,2025-09-25 05:17:29
+13425,736498,9,45965250,76,2,3780,63',0,0,Sergio González (Al Riyadh) Substitution at 63',Sergio González Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,268602.0,2025-09-25 05:17:29
+13425,736498,9,45965250,76,2,3780,63',0,0,Sergio González (Al Riyadh) Substitution at 63',Sergio González Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,229338.0,2025-09-25 05:17:29
+13425,736498,9,45965250,76,2,3780,63',0,0,Sergio González (Al Riyadh) Substitution at 63',Sergio González Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,216523.0,2025-09-25 05:17:29
+13425,736498,9,45965250,76,2,3780,63',0,0,Sergio González (Al Riyadh) Substitution at 63',Sergio González Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,198849.0,2025-09-25 05:17:29
+13425,736498,9,45965250,76,2,3780,63',0,0,Sergio González (Al Riyadh) Substitution at 63',Sergio González Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,89109.0,2025-09-25 05:17:29
+13425,736498,8,45965239,76,2,3780,63',0,0,Khaled Ali (Al Riyadh) Substitution at 63',Khaled Ali Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,341421.0,2025-09-25 05:17:29
+13425,736498,8,45965239,76,2,3780,63',0,0,Khaled Ali (Al Riyadh) Substitution at 63',Khaled Ali Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,166039.0,2025-09-25 05:17:29
+13425,736498,9,45965250,76,2,3780,63',0,0,Sergio González (Al Riyadh) Substitution at 63',Sergio González Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,266496.0,2025-09-25 05:17:29
+13425,736498,8,45965239,76,2,3780,63',0,0,Khaled Ali (Al Riyadh) Substitution at 63',Khaled Ali Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,372196.0,2025-09-25 05:17:29
+13425,736498,11,45965252,76,2,3840,64',0,0,Nawaf Al-Rashwodi (Al Jubail) Substitution at 64',Nawaf Al-Rashwodi Substitution,130900,0.0,0.0,0.0,0.0,0.0,0.0,1,306697.0,2025-09-25 05:17:29
+13425,736498,10,45965251,76,2,3840,64',0,0,Riyadh Al Asmari (Al Jubail) Substitution at 64',Riyadh Al Asmari Substitution,130900,0.0,0.0,0.0,0.0,0.0,0.0,1,379863.0,2025-09-25 05:17:29
+13425,736498,11,45965252,76,2,3840,64',0,0,Nawaf Al-Rashwodi (Al Jubail) Substitution at 64',Nawaf Al-Rashwodi Substitution,130900,0.0,0.0,0.0,0.0,0.0,0.0,2,205265.0,2025-09-25 05:17:29
+13425,736498,10,45965251,76,2,3840,64',0,0,Riyadh Al Asmari (Al Jubail) Substitution at 64',Riyadh Al Asmari Substitution,130900,0.0,0.0,0.0,0.0,0.0,0.0,2,410682.0,2025-09-25 05:17:29
+13425,736498,12,45965256,76,2,3900,65',0,0,Mohammed Al Mahmudi (Al Jubail) Substitution at 65',Mohammed Al Mahmudi Substitution,130900,0.0,0.0,0.0,0.0,0.0,0.0,1,404995.0,2025-09-25 05:17:29
+13425,736498,12,45965256,76,2,3900,65',0,0,Mohammed Al Mahmudi (Al Jubail) Substitution at 65',Mohammed Al Mahmudi Substitution,130900,0.0,0.0,0.0,0.0,0.0,0.0,2,372929.0,2025-09-25 05:17:29
+13425,736498,13,45965290,76,2,4500,75',0,0,Teddy Okou (Al Riyadh) Substitution at 75',Teddy Okou Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,1,255773.0,2025-09-25 05:17:29
+13425,736498,13,45965290,76,2,4500,75',0,0,Teddy Okou (Al Riyadh) Substitution at 75',Teddy Okou Substitution,21965,0.0,0.0,0.0,0.0,0.0,0.0,2,243928.0,2025-09-25 05:17:29
+13425,736498,14,45965312,76,2,4680,78',0,0,Naif Al Khaldi (Al Jubail) Substitution at 78',Naif Al Khaldi Substitution,130900,0.0,0.0,0.0,0.0,0.0,0.0,1,404993.0,2025-09-25 05:17:29
+13425,736498,14,45965312,76,2,4680,78',0,0,Naif Al Khaldi (Al Jubail) Substitution at 78',Naif Al Khaldi Substitution,130900,0.0,0.0,0.0,0.0,0.0,0.0,2,410680.0,2025-09-25 05:17:29
+13425,736498,15,45965365,94,2,4980,83',0,0,Hussein Al Nakhli (Al Jubail) Yellow Card at 83',Hussein Al Nakhli Yellow Card,130900,0.0,0.0,0.0,0.0,0.0,0.0,1,410683.0,2025-09-25 05:17:29
+13425,736499,2,45957056,76,2,2700,45',0,0,Maher Al Mutairi (Al Zulfi) Substitution at 45',Maher Al Mutairi Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,404975.0,2025-09-24 05:13:41
+13425,736499,1,45956997,94,1,2700,45',0,0,Fashion Sakala (Al Fayha) Yellow Card at 45',Fashion Sakala Yellow Card,21827,0.0,0.0,0.0,0.0,0.0,0.0,1,256640.0,2025-09-24 05:13:41
+13425,736499,3,45957070,76,2,2700,45',0,0,Chris Smalling (Al Fayha) Substitution at 45',Chris Smalling Substitution,21827,0.0,0.0,0.0,0.0,0.0,0.0,1,123605.0,2025-09-24 05:13:41
+13425,736499,2,45957056,76,2,2700,45',0,0,Maher Al Mutairi (Al Zulfi) Substitution at 45',Maher Al Mutairi Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,2,253119.0,2025-09-24 05:13:41
+13425,736499,3,45957070,76,2,2700,45',0,0,Chris Smalling (Al Fayha) Substitution at 45',Chris Smalling Substitution,21827,0.0,0.0,0.0,0.0,0.0,0.0,2,180698.0,2025-09-24 05:13:41
+13425,736499,4,45957152,76,2,3720,62',0,0,Ahmed Bamasud (Al Fayha) Substitution at 62',Ahmed Bamasud Substitution,21827,0.0,0.0,0.0,0.0,0.0,0.0,1,350707.0,2025-09-24 05:13:41
+13425,736499,5,45957153,76,2,3720,62',0,0,Jason  (Al Fayha) Substitution at 62',Jason  Substitution,21827,0.0,0.0,0.0,0.0,0.0,0.0,1,186840.0,2025-09-24 05:13:41
+13425,736499,4,45957152,76,2,3720,62',0,0,Ahmed Bamasud (Al Fayha) Substitution at 62',Ahmed Bamasud Substitution,21827,0.0,0.0,0.0,0.0,0.0,0.0,2,259963.0,2025-09-24 05:13:41
+13425,736499,5,45957153,76,2,3720,62',0,0,Jason  (Al Fayha) Substitution at 62',Jason  Substitution,21827,0.0,0.0,0.0,0.0,0.0,0.0,2,371415.0,2025-09-24 05:13:41
+13425,736499,7,45957376,76,2,4200,70',0,0,Thaar Al-Otaibi (Al Zulfi) Substitution at 70',Thaar Al-Otaibi Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,307635.0,2025-09-24 05:13:41
+13425,736499,6,45957375,76,2,4200,70',0,0,Abdulrahman Al Faleh (Al Zulfi) Substitution at 70',Abdulrahman Al Faleh Substitutio,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,404978.0,2025-09-24 05:13:41
+13425,736499,6,45957375,76,2,4200,70',0,0,Abdulrahman Al Faleh (Al Zulfi) Substitution at 70',Abdulrahman Al Faleh Substitutio,130901,0.0,0.0,0.0,0.0,0.0,0.0,2,306696.0,2025-09-24 05:13:41
+13425,736499,7,45957376,76,2,4200,70',0,0,Thaar Al-Otaibi (Al Zulfi) Substitution at 70',Thaar Al-Otaibi Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,2,183961.0,2025-09-24 05:13:41
+13425,736499,8,45957431,76,2,4680,78',0,0,Ammar Al Khaibari (Al Fayha) Substitution at 78',Ammar Al Khaibari Substitution,21827,0.0,0.0,0.0,0.0,0.0,0.0,1,404977.0,2025-09-24 05:13:41
+13425,736499,8,45957431,76,2,4680,78',0,0,Ammar Al Khaibari (Al Fayha) Substitution at 78',Ammar Al Khaibari Substitution,21827,0.0,0.0,0.0,0.0,0.0,0.0,2,275425.0,2025-09-24 05:13:41
+13425,736499,9,45957432,76,2,4740,79',0,0,Malek Al Abdulmonam (Al Fayha) Substitution at 79',Malek Al Abdulmonam Substitution,21827,0.0,0.0,0.0,0.0,0.0,0.0,1,302750.0,2025-09-24 05:13:41
+13425,736499,9,45957432,76,2,4740,79',0,0,Malek Al Abdulmonam (Al Fayha) Substitution at 79',Malek Al Abdulmonam Substitution,21827,0.0,0.0,0.0,0.0,0.0,0.0,2,349836.0,2025-09-24 05:13:41
+13425,736499,10,45957490,94,2,5340,89',0,0,Ahmed Al-Anazi (Al Zulfi) Yellow Card at 89',Ahmed Al-Anazi Yellow Card,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,336139.0,2025-09-24 05:13:41
+13425,736499,11,45957601,94,3,5820,97',0,0,Maher Al Mutairi (Al Zulfi) Yellow Card at 97',Maher Al Mutairi Yellow Card,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,404975.0,2025-09-24 05:13:41
+13425,736499,12,45957615,76,3,6000,100',0,0,Ali Al Hussain (Al Fayha) Substitution at 100',Ali Al Hussain Substitution,21827,0.0,0.0,0.0,0.0,0.0,0.0,1,389767.0,2025-09-24 05:13:41
+13425,736499,12,45957615,76,3,6000,100',0,0,Ali Al Hussain (Al Fayha) Substitution at 100',Ali Al Hussain Substitution,21827,0.0,0.0,0.0,0.0,0.0,0.0,2,159327.0,2025-09-24 05:13:41
+13425,736499,14,45957634,76,3,6180,103',0,0,Eric Omondi (Al Zulfi) Substitution at 103',Eric Omondi Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,236795.0,2025-09-24 05:13:41
+13425,736499,13,45957624,76,3,6180,103',0,0,Nawaf Asiri (Al Zulfi) Substitution at 103',Nawaf Asiri Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,404981.0,2025-09-24 05:13:41
+13425,736499,14,45957634,76,3,6180,103',0,0,Eric Omondi (Al Zulfi) Substitution at 103',Eric Omondi Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,2,373132.0,2025-09-24 05:13:41
+13425,736499,13,45957624,76,3,6180,103',0,0,Nawaf Asiri (Al Zulfi) Substitution at 103',Nawaf Asiri Substitution,130901,0.0,0.0,0.0,0.0,0.0,0.0,2,336139.0,2025-09-24 05:13:41
+13425,736499,15,45957662,94,4,6600,110',0,0,Ali Al Hussain (Al Fayha) Yellow Card at 110',Ali Al Hussain Yellow Card,21827,0.0,0.0,0.0,0.0,0.0,0.0,1,389767.0,2025-09-24 05:13:41
+13425,736499,16,45957668,94,4,6840,114',0,0,Saad Alsaleh (Al Zulfi) Yellow Card at 114',Saad Alsaleh Yellow Card,130901,0.0,0.0,0.0,0.0,0.0,0.0,1,371733.0,2025-09-24 05:13:41
+13425,736499,17,45957690,94,4,7080,118',0,0,Jason  (Al Fayha) Yellow Card at 118',Jason  Yellow Card,21827,0.0,0.0,0.0,0.0,0.0,0.0,1,186840.0,2025-09-24 05:13:41
+13425,736499,18,45957706,94,4,7140,119',0,0,Chris Smalling (Al Fayha) Yellow Card at 119',Chris Smalling Yellow Card,21827,0.0,0.0,0.0,0.0,0.0,0.0,1,123605.0,2025-09-24 05:13:41

@@ -1,0 +1,514 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13524,747983,1,45520253,70,1,720,12',1,0,Ghizlane Chebbak (Morocco) Goal at 12',Ghizlane Chebbak Goal,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329941.0,2025-07-27 04:38:41
+13524,747983,2,45520324,70,1,1440,24',1,0,Mssoudy Sanaa (Morocco) Goal at 24',Mssoudy Sanaa Goal,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329942.0,2025-07-27 04:38:41
+13524,747983,3,45520598,76,2,3480,58',0,0,Rinsola Babajide (Nigeria) Substitution at 58',Rinsola Babajide Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,323522.0,2025-07-27 04:38:41
+13524,747983,3,45520598,76,2,3480,58',0,0,Rinsola Babajide (Nigeria) Substitution at 58',Rinsola Babajide Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,220191.0,2025-07-27 04:38:41
+13524,747983,4,45520603,76,2,3540,59',0,0,Jennifer Echegini (Nigeria) Substitution at 59',Jennifer Echegini Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,292902.0,2025-07-27 04:38:41
+13524,747983,4,45520603,76,2,3540,59',0,0,Jennifer Echegini (Nigeria) Substitution at 59',Jennifer Echegini Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,219969.0,2025-07-27 04:38:41
+13524,747983,5,45520622,98,2,3840,64',1,0,Esther Okoronkwo (Nigeria) Penalty - Scored at 64',Esther Okoronkwo Penalty - Score,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,279837.0,2025-07-27 04:38:41
+13524,747983,6,45520648,70,2,4260,71',1,0,Folashade Ijamilusi (Nigeria) Goal at 71',Folashade Ijamilusi Goal,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,344265.0,2025-07-27 04:38:41
+13524,747983,7,45520671,76,2,4440,74',0,0,Imane Saoud (Morocco) Substitution at 74',Imane Saoud Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,350964.0,2025-07-27 04:38:41
+13524,747983,8,45520672,76,2,4440,74',0,0,Sarah Kassi (Morocco) Substitution at 74',Sarah Kassi Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,347208.0,2025-07-27 04:38:41
+13524,747983,7,45520671,76,2,4440,74',0,0,Imane Saoud (Morocco) Substitution at 74',Imane Saoud Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,350967.0,2025-07-27 04:38:41
+13524,747983,8,45520672,76,2,4440,74',0,0,Sarah Kassi (Morocco) Substitution at 74',Sarah Kassi Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,348933.0,2025-07-27 04:38:41
+13524,747983,9,45520804,76,2,4680,78',0,0,Asisat Oshoala (Nigeria) Substitution at 78',Asisat Oshoala Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,219980.0,2025-07-27 04:38:41
+13524,747983,9,45520804,76,2,4680,78',0,0,Asisat Oshoala (Nigeria) Substitution at 78',Asisat Oshoala Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,344265.0,2025-07-27 04:38:41
+13524,747983,10,45520886,70,2,5280,88',1,0,Jennifer Echegini (Nigeria) Goal at 88',Jennifer Echegini Goal,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,292902.0,2025-07-27 04:38:41
+13524,747983,11,45520956,76,2,5400,90'+1',0,0,Kenza Chapelle (Morocco) Substitution at 91',Kenza Chapelle Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,347122.0,2025-07-27 04:38:41
+13524,747983,12,45520969,76,2,5400,90'+3',0,0,Shukurat Oladipo (Nigeria) Substitution at 93',Shukurat Oladipo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,397149.0,2025-07-27 04:38:41
+13524,747983,13,45520970,76,2,5400,90'+3',0,0,Sikiratu Isah (Nigeria) Substitution at 93',Sikiratu Isah Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,397153.0,2025-07-27 04:38:41
+13524,747983,12,45520969,76,2,5400,90'+3',0,0,Shukurat Oladipo (Nigeria) Substitution at 93',Shukurat Oladipo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,225731.0,2025-07-27 04:38:41
+13524,747983,11,45520956,76,2,5400,90'+1',0,0,Kenza Chapelle (Morocco) Substitution at 91',Kenza Chapelle Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,329936.0,2025-07-27 04:38:41
+13524,747983,13,45520970,76,2,5400,90'+3',0,0,Sikiratu Isah (Nigeria) Substitution at 93',Sikiratu Isah Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,279837.0,2025-07-27 04:38:41
+13520,747958,1,45441330,70,1,60,1',1,0,Barbra Banda (Zambia) Goal at 1',Barbra Banda Goal,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,310645.0,2025-07-06 13:05:14
+13520,747958,2,45441388,98,1,720,12',1,0,Ibtissam Jraïdi (Morocco) Penalty - Scored at 12',Ibtissam Jraïdi Penalty - Scored,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,350967.0,2025-07-06 13:05:14
+13520,747958,3,45441501,70,1,1620,27',1,0,Racheal Kundananji (Zambia) Goal at 27',Racheal Kundananji Goal,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,310652.0,2025-07-06 13:05:14
+13520,747958,4,45441591,94,1,2640,44',0,0,Grace Chanda (Zambia) Yellow Card at 44',Grace Chanda Yellow Card,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,310642.0,2025-07-06 13:05:14
+13520,747958,5,45441701,94,2,3360,56',0,0,Prisca Chilufya (Zambia) Yellow Card at 56',Prisca Chilufya Yellow Card,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,351425.0,2025-07-06 13:05:14
+13520,747958,6,45441713,76,2,3660,61',0,0,Mssoudy Sanaa (Morocco) Substitution at 61',Mssoudy Sanaa Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329942.0,2025-07-06 13:05:14
+13520,747958,6,45441713,76,2,3660,61',0,0,Mssoudy Sanaa (Morocco) Substitution at 61',Mssoudy Sanaa Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,348933.0,2025-07-06 13:05:14
+13520,747958,7,45441721,76,2,4020,67',0,0,Fridah Mukoma (Zambia) Substitution at 67',Fridah Mukoma Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,406773.0,2025-07-06 13:05:14
+13520,747958,7,45441721,76,2,4020,67',0,0,Fridah Mukoma (Zambia) Substitution at 67',Fridah Mukoma Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2,351425.0,2025-07-06 13:05:14
+13520,747958,8,45441741,76,2,4500,75',0,0,Imane Saoud (Morocco) Substitution at 75',Imane Saoud Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,350964.0,2025-07-06 13:05:14
+13520,747958,8,45441741,76,2,4500,75',0,0,Imane Saoud (Morocco) Substitution at 75',Imane Saoud Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,351883.0,2025-07-06 13:05:14
+13520,747958,9,45441751,76,2,4680,78',0,0,Kabange Mupopo (Zambia) Substitution at 78',Kabange Mupopo Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,386580.0,2025-07-06 13:05:14
+13520,747958,9,45441751,76,2,4680,78',0,0,Kabange Mupopo (Zambia) Substitution at 78',Kabange Mupopo Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2,310642.0,2025-07-06 13:05:14
+13520,747958,11,45441778,76,2,5160,86',0,0,Élodie Nakkach (Morocco) Substitution at 86',Élodie Nakkach Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,328118.0,2025-07-06 13:05:14
+13520,747958,10,45441771,76,2,5160,86',0,0,Anissa Lahmari (Morocco) Substitution at 86',Anissa Lahmari Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,295676.0,2025-07-06 13:05:14
+13520,747958,11,45441778,76,2,5160,86',0,0,Élodie Nakkach (Morocco) Substitution at 86',Élodie Nakkach Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,329932.0,2025-07-06 13:05:14
+13520,747958,10,45441771,76,2,5160,86',0,0,Anissa Lahmari (Morocco) Substitution at 86',Anissa Lahmari Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,350967.0,2025-07-06 13:05:14
+13520,747958,12,45441779,70,2,5220,87',1,0,Ghizlane Chebbak (Morocco) Goal at 87',Ghizlane Chebbak Goal,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329941.0,2025-07-06 13:05:14
+13520,747959,1,45444204,70,1,300,5',1,0,Mama Diop (Senegal) Goal at 5',Mama Diop Goal,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406619.0,2025-07-07 04:28:45
+13520,747959,2,45444211,70,1,780,13',1,0,Nguenar Ndiaye (Senegal) Goal at 13',Nguenar Ndiaye Goal,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406622.0,2025-07-07 04:28:45
+13520,747959,3,45444214,76,1,1020,17',0,0,Esther Siluvangi (Congo DR) Substitution at 17',Esther Siluvangi Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406796.0,2025-07-07 04:28:45
+13520,747959,3,45444214,76,1,1020,17',0,0,Esther Siluvangi (Congo DR) Substitution at 17',Esther Siluvangi Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,2,406879.0,2025-07-07 04:28:45
+13520,747959,4,45444220,94,1,1080,18',0,0,Méta Kandé (Senegal) Yellow Card at 18',Méta Kandé Yellow Card,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406806.0,2025-07-07 04:28:45
+13520,747959,5,45444223,70,1,1320,22',1,0,Mama Diop (Senegal) Goal at 22',Mama Diop Goal,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406619.0,2025-07-07 04:28:45
+13520,747959,6,45444227,94,1,2220,37',0,0,Naomie Kabakaba (Congo DR) Yellow Card at 37',Naomie Kabakaba Yellow Card,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406791.0,2025-07-07 04:28:45
+13520,747959,7,45444229,70,1,2400,40',1,0,Nguenar Ndiaye (Senegal) Goal at 40',Nguenar Ndiaye Goal,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406622.0,2025-07-07 04:28:45
+13520,747959,8,45444233,76,2,2700,45',0,0,Safietou Sagna (Senegal) Substitution at 45',Safietou Sagna Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406624.0,2025-07-07 04:28:45
+13520,747959,9,45444236,76,2,2700,45',0,0,Ndèye Casset (Senegal) Substitution at 45',Ndèye Casset Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406809.0,2025-07-07 04:28:45
+13520,747959,9,45444236,76,2,2700,45',0,0,Ndèye Casset (Senegal) Substitution at 45',Ndèye Casset Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,370335.0,2025-07-07 04:28:45
+13520,747959,8,45444233,76,2,2700,45',0,0,Safietou Sagna (Senegal) Substitution at 45',Safietou Sagna Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,406806.0,2025-07-07 04:28:45
+13520,747959,10,45444240,76,2,3840,64',0,0,Wivine Kahambu (Congo DR) Substitution at 64',Wivine Kahambu Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406795.0,2025-07-07 04:28:45
+13520,747959,10,45444240,76,2,3840,64',0,0,Wivine Kahambu (Congo DR) Substitution at 64',Wivine Kahambu Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,2,406797.0,2025-07-07 04:28:45
+13520,747959,12,45444242,76,2,4140,69',0,0,Gloria Mabomba (Congo DR) Substitution at 69',Gloria Mabomba Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406792.0,2025-07-07 04:28:45
+13520,747959,11,45444241,76,2,4140,69',0,0,Haby Baldé (Senegal) Substitution at 69',Haby Baldé Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406614.0,2025-07-07 04:28:45
+13520,747959,12,45444242,76,2,4140,69',0,0,Gloria Mabomba (Congo DR) Substitution at 69',Gloria Mabomba Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,2,406791.0,2025-07-07 04:28:45
+13520,747959,11,45444241,76,2,4140,69',0,0,Haby Baldé (Senegal) Substitution at 69',Haby Baldé Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,406619.0,2025-07-07 04:28:45
+13520,747959,14,45444244,76,2,4680,78',0,0,Meta Camara (Senegal) Substitution at 78',Meta Camara Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406618.0,2025-07-07 04:28:45
+13520,747959,13,45444243,76,2,4680,78',0,0,Dieynaba Ndaw (Senegal) Substitution at 78',Dieynaba Ndaw Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,325235.0,2025-07-07 04:28:45
+13520,747959,13,45444243,76,2,4680,78',0,0,Dieynaba Ndaw (Senegal) Substitution at 78',Dieynaba Ndaw Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,406622.0,2025-07-07 04:28:45
+13520,747959,14,45444244,76,2,4680,78',0,0,Meta Camara (Senegal) Substitution at 78',Meta Camara Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,406651.0,2025-07-07 04:28:45
+13520,747960,1,45444261,70,1,240,4',1,0,Asisat Oshoala (Nigeria) Goal at 4',Asisat Oshoala Goal,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,219980.0,2025-07-07 04:28:45
+13520,747960,2,45444303,94,1,1320,22',0,0,Deborah Abiodun (Nigeria) Yellow Card at 22',Deborah Abiodun Yellow Card,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,349550.0,2025-07-07 04:28:45
+13520,747960,4,45444368,76,2,2700,45',0,0,Christy Ucheibe (Nigeria) Substitution at 45',Christy Ucheibe Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,328066.0,2025-07-07 04:28:45
+13520,747960,6,45444374,76,2,2700,45',0,0,Chinwendu Ihezuo (Nigeria) Substitution at 45',Chinwendu Ihezuo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,220191.0,2025-07-07 04:28:45
+13520,747960,3,45444350,70,1,2700,45'+1',1,0,Rinsola Babajide (Nigeria) Goal at 46',Rinsola Babajide Goal,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,323522.0,2025-07-07 04:28:45
+13520,747960,5,45444369,76,2,2700,45',0,0,Esther Okoronkwo (Nigeria) Substitution at 45',Esther Okoronkwo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,279837.0,2025-07-07 04:28:45
+13520,747960,5,45444369,76,2,2700,45',0,0,Esther Okoronkwo (Nigeria) Substitution at 45',Esther Okoronkwo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,219980.0,2025-07-07 04:28:45
+13520,747960,6,45444374,76,2,2700,45',0,0,Chinwendu Ihezuo (Nigeria) Substitution at 45',Chinwendu Ihezuo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,323522.0,2025-07-07 04:28:45
+13520,747960,4,45444368,76,2,2700,45',0,0,Christy Ucheibe (Nigeria) Substitution at 45',Christy Ucheibe Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,349550.0,2025-07-07 04:28:45
+13520,747960,7,45444400,76,2,3360,56',0,0,Sabrine Ellouzi (Tunisia) Substitution at 56',Sabrine Ellouzi Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,309914.0,2025-07-07 04:28:45
+13520,747960,7,45444400,76,2,3360,56',0,0,Sabrine Ellouzi (Tunisia) Substitution at 56',Sabrine Ellouzi Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,2,374566.0,2025-07-07 04:28:45
+13520,747960,8,45444455,76,2,4920,82',0,0,Folashade Ijamilusi (Nigeria) Substitution at 82',Folashade Ijamilusi Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,344265.0,2025-07-07 04:28:45
+13520,747960,8,45444455,76,2,4920,82',0,0,Folashade Ijamilusi (Nigeria) Substitution at 82',Folashade Ijamilusi Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,211151.0,2025-07-07 04:28:45
+13520,747960,9,45444458,70,2,5040,84',1,0,Chinwendu Ihezuo (Nigeria) Goal at 84',Chinwendu Ihezuo Goal,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,220191.0,2025-07-07 04:28:45
+13520,747960,10,45444463,94,2,5160,86',0,0,Blessing Demehin (Nigeria) Yellow Card at 86',Blessing Demehin Yellow Card,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,320400.0,2025-07-07 04:28:45
+13520,747960,11,45444467,76,2,5220,87',0,0,Mariem Houij (Tunisia) Substitution at 87',Mariem Houij Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,406639.0,2025-07-07 04:28:45
+13520,747960,11,45444467,76,2,5220,87',0,0,Mariem Houij (Tunisia) Substitution at 87',Mariem Houij Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,2,406817.0,2025-07-07 04:28:45
+13520,747960,12,45444473,76,2,5400,90'+2',0,0,Jennifer Echegini (Nigeria) Substitution at 92',Jennifer Echegini Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,292902.0,2025-07-07 04:28:45
+13520,747960,13,45444474,76,2,5400,90'+5',0,0,Ahlem Ammar (Tunisia) Substitution at 95',Ahlem Ammar Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,406820.0,2025-07-07 04:28:45
+13520,747960,12,45444473,76,2,5400,90'+2',0,0,Jennifer Echegini (Nigeria) Substitution at 92',Jennifer Echegini Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,219969.0,2025-07-07 04:28:45
+13520,747960,13,45444474,76,2,5400,90'+5',0,0,Ahlem Ammar (Tunisia) Substitution at 95',Ahlem Ammar Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,2,406816.0,2025-07-07 04:28:45
+13520,747961,1,45444577,70,1,600,10',1,0,Ghoutia Karchouni (Algeria) Goal at 10',Ghoutia Karchouni Goal,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,406712.0,2025-07-07 04:28:45
+13520,747961,2,45444873,94,2,3180,53',0,0,Inès Belloumou (Algeria) Yellow Card at 53',Inès Belloumou Yellow Card,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,347137.0,2025-07-07 04:28:45
+13520,747961,3,45444980,76,2,4140,69',0,0,Leungo Senwelo (Botswana) Substitution at 69',Leungo Senwelo Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406829.0,2025-07-07 04:28:45
+13520,747961,4,45444981,76,2,4140,69',0,0,Gaonyadiwe Ontlametse (Botswana) Substitution at 69',Gaonyadiwe Ontlametse Substituti,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406589.0,2025-07-07 04:28:45
+13520,747961,3,45444980,76,2,4140,69',0,0,Leungo Senwelo (Botswana) Substitution at 69',Leungo Senwelo Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,2,406586.0,2025-07-07 04:28:45
+13520,747961,4,45444981,76,2,4140,69',0,0,Gaonyadiwe Ontlametse (Botswana) Substitution at 69',Gaonyadiwe Ontlametse Substituti,20916,0.0,0.0,0.0,0.0,0.0,0.0,2,406592.0,2025-07-07 04:28:45
+13520,747961,5,45445003,76,2,4320,72',0,0,Laura Muller (Algeria) Substitution at 72',Laura Muller Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,350116.0,2025-07-07 04:28:45
+13520,747961,5,45445003,76,2,4320,72',0,0,Laura Muller (Algeria) Substitution at 72',Laura Muller Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,406547.0,2025-07-07 04:28:45
+13520,747961,6,45445032,76,2,4680,78',0,0,Nihed Naïli (Algeria) Substitution at 78',Nihed Naïli Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,406717.0,2025-07-07 04:28:45
+13520,747961,7,45445037,76,2,4680,78',0,0,Wissem Bouzid (Algeria) Substitution at 78',Wissem Bouzid Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,295683.0,2025-07-07 04:28:45
+13520,747961,6,45445032,76,2,4680,78',0,0,Nihed Naïli (Algeria) Substitution at 78',Nihed Naïli Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,406712.0,2025-07-07 04:28:45
+13520,747961,7,45445037,76,2,4680,78',0,0,Wissem Bouzid (Algeria) Substitution at 78',Wissem Bouzid Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,366734.0,2025-07-07 04:28:45
+13520,747961,8,45445072,94,2,5040,84',0,0,Laura Muller (Algeria) Yellow Card at 84',Laura Muller Yellow Card,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,350116.0,2025-07-07 04:28:45
+13520,747961,9,45445084,94,2,5100,85',0,0,Leungo Senwelo (Botswana) Yellow Card at 85',Leungo Senwelo Yellow Card,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406829.0,2025-07-07 04:28:45
+13520,747961,10,45445085,76,2,5160,86',0,0,Obonetse Rathari (Botswana) Substitution at 86',Obonetse Rathari Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406811.0,2025-07-07 04:28:45
+13520,747961,10,45445085,76,2,5160,86',0,0,Obonetse Rathari (Botswana) Substitution at 86',Obonetse Rathari Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,2,406597.0,2025-07-07 04:28:45
+13520,747961,11,45445098,76,2,5340,89',0,0,Emma Smaali (Algeria) Substitution at 89',Emma Smaali Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,406713.0,2025-07-07 04:28:45
+13520,747961,11,45445098,76,2,5340,89',0,0,Emma Smaali (Algeria) Substitution at 89',Emma Smaali Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,387574.0,2025-07-07 04:28:45
+13520,747961,12,45445119,76,2,5400,90'+2',0,0,Esalenna Galekhutle (Botswana) Substitution at 92',Esalenna Galekhutle Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406588.0,2025-07-07 04:28:45
+13520,747961,12,45445119,76,2,5400,90'+2',0,0,Esalenna Galekhutle (Botswana) Substitution at 92',Esalenna Galekhutle Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,2,406598.0,2025-07-07 04:28:45
+13520,747962,1,45445867,94,1,600,10',0,0,Doris Boaduwaa (Ghana) Yellow Card at 10',Doris Boaduwaa Yellow Card,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,387269.0,2025-07-08 04:31:15
+13520,747962,2,45445897,98,1,1680,28',1,0,Linda Motlhalo (South Africa) Penalty - Scored at 28',Linda Motlhalo Penalty - Scored,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,238754.0,2025-07-08 04:31:15
+13520,747962,3,45445914,70,1,2040,34',1,0,Jermaine Seoposenwe (South Africa) Goal at 34',Jermaine Seoposenwe Goal,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,176035.0,2025-07-08 04:31:15
+13520,747962,4,45446013,76,2,4020,67',0,0,Princess  (Ghana) Substitution at 67',Princess  Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,379823.0,2025-07-08 04:31:15
+13520,747962,4,45446013,76,2,4020,67',0,0,Princess  (Ghana) Substitution at 67',Princess  Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,259560.0,2025-07-08 04:31:15
+13520,747962,6,45446024,76,2,4080,68',0,0,Nancy Amoh (Ghana) Substitution at 68',Nancy Amoh Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,406705.0,2025-07-08 04:31:15
+13520,747962,5,45446018,76,2,4080,68',0,0,Princella Adobea (Ghana) Substitution at 68',Princella Adobea Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,259555.0,2025-07-08 04:31:15
+13520,747962,5,45446018,76,2,4080,68',0,0,Princella Adobea (Ghana) Substitution at 68',Princella Adobea Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,387269.0,2025-07-08 04:31:15
+13520,747962,6,45446024,76,2,4080,68',0,0,Nancy Amoh (Ghana) Substitution at 68',Nancy Amoh Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,406708.0,2025-07-08 04:31:15
+13520,747962,7,45446026,76,2,4200,70',0,0,Regina Mogolola (South Africa) Substitution at 70',Regina Mogolola Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,270064.0,2025-07-08 04:31:15
+13520,747962,7,45446026,76,2,4200,70',0,0,Regina Mogolola (South Africa) Substitution at 70',Regina Mogolola Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,265463.0,2025-07-08 04:31:15
+13520,747962,8,45446060,76,2,5160,86',0,0,Ronnel Donnelly (South Africa) Substitution at 86',Ronnel Donnelly Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,406886.0,2025-07-08 04:31:15
+13520,747962,9,45446066,76,2,5160,86',0,0,Hildah Magaia (South Africa) Substitution at 86',Hildah Magaia Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,285102.0,2025-07-08 04:31:15
+13520,747962,9,45446066,76,2,5160,86',0,0,Hildah Magaia (South Africa) Substitution at 86',Hildah Magaia Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,238756.0,2025-07-08 04:31:15
+13520,747962,8,45446060,76,2,5160,86',0,0,Ronnel Donnelly (South Africa) Substitution at 86',Ronnel Donnelly Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,298812.0,2025-07-08 04:31:15
+13520,747962,11,45446068,76,2,5220,87',0,0,Nina Norshie (Ghana) Substitution at 87',Nina Norshie Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,387266.0,2025-07-08 04:31:15
+13520,747962,10,45446067,76,2,5220,87',0,0,Stella Nyamekye (Ghana) Substitution at 87',Stella Nyamekye Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,387274.0,2025-07-08 04:31:15
+13520,747962,10,45446067,76,2,5220,87',0,0,Stella Nyamekye (Ghana) Substitution at 87',Stella Nyamekye Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,381615.0,2025-07-08 04:31:15
+13520,747962,11,45446068,76,2,5220,87',0,0,Nina Norshie (Ghana) Substitution at 87',Nina Norshie Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,387270.0,2025-07-08 04:31:15
+13520,747963,1,45446149,94,1,1140,19',0,0,Violeth Mwamakamba (Tanzania) Yellow Card at 19',Violeth Mwamakamba Yellow Card,21911,0.0,0.0,0.0,0.0,0.0,0.0,1,352106.0,2025-07-08 04:31:15
+13520,747963,2,45446179,76,1,1920,32',0,0,Aisha Mnunka (Tanzania) Substitution at 32',Aisha Mnunka Substitution,21911,0.0,0.0,0.0,0.0,0.0,0.0,1,352084.0,2025-07-08 04:31:15
+13520,747963,2,45446179,76,1,1920,32',0,0,Aisha Mnunka (Tanzania) Substitution at 32',Aisha Mnunka Substitution,21911,0.0,0.0,0.0,0.0,0.0,0.0,2,406953.0,2025-07-08 04:31:15
+13520,747963,3,45446200,70,1,2700,45'+1',1,0,Saratou Traoré (Mali) Goal at 46',Saratou Traoré Goal,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,371181.0,2025-07-08 04:31:15
+13520,747963,4,45446256,76,2,3960,66',0,0,Fatoumata Niakaté (Mali) Substitution at 66',Fatoumata Niakaté Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,406891.0,2025-07-08 04:31:15
+13520,747963,4,45446256,76,2,3960,66',0,0,Fatoumata Niakaté (Mali) Substitution at 66',Fatoumata Niakaté Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,2,392983.0,2025-07-08 04:31:15
+13520,747963,5,45446279,76,2,4680,78',0,0,Lidya Kabambo (Tanzania) Substitution at 78',Lidya Kabambo Substitution,21911,0.0,0.0,0.0,0.0,0.0,0.0,1,406958.0,2025-07-08 04:31:15
+13520,747963,6,45446280,76,2,4680,78',0,0,Winfrida Gerald (Tanzania) Substitution at 78',Winfrida Gerald Substitution,21911,0.0,0.0,0.0,0.0,0.0,0.0,1,406951.0,2025-07-09 04:33:07
+13520,747963,6,45446280,76,2,4680,78',0,0,Winfrida Gerald (Tanzania) Substitution at 78',Winfrida Gerald Substitution,21911,0.0,0.0,0.0,0.0,0.0,0.0,2,406947.0,2025-07-09 04:33:07
+13520,747963,5,45446279,76,2,4680,78',0,0,Lidya Kabambo (Tanzania) Substitution at 78',Lidya Kabambo Substitution,21911,0.0,0.0,0.0,0.0,0.0,0.0,2,352106.0,2025-07-08 04:31:15
+13520,747963,7,45446284,76,2,4740,79',0,0,Salimata Diarra (Mali) Substitution at 79',Salimata Diarra Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,406557.0,2025-07-08 04:31:15
+13520,747963,8,45446285,76,2,4740,79',0,0,Oumou Kone (Mali) Substitution at 79',Oumou Kone Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,406885.0,2025-07-08 04:31:15
+13520,747963,8,45446285,76,2,4740,79',0,0,Oumou Kone (Mali) Substitution at 79',Oumou Kone Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,2,406893.0,2025-07-08 04:31:15
+13520,747963,7,45446284,76,2,4740,79',0,0,Salimata Diarra (Mali) Substitution at 79',Salimata Diarra Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,2,406554.0,2025-07-08 04:31:15
+13520,747964,1,45449207,70,1,300,5',1,0,Nguenar Ndiaye (Senegal) Goal at 5',Nguenar Ndiaye Goal,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406622.0,2025-07-10 04:42:41
+13520,747964,2,45449222,70,1,720,12',1,0,Barbra Banda (Zambia) Goal at 12',Barbra Banda Goal,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,310645.0,2025-07-10 04:42:41
+13520,747964,3,45449246,94,1,1860,31',0,0,Grace Chanda (Zambia) Yellow Card at 31',Grace Chanda Yellow Card,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,310642.0,2025-07-10 04:42:41
+13520,747964,4,45449284,94,1,2700,45'+1',0,0,Bineta Seck (Senegal) Yellow Card at 46',Bineta Seck Yellow Card,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406611.0,2025-07-10 04:42:41
+13520,747964,5,45449320,70,2,3060,51',1,0,Racheal Kundananji (Zambia) Goal at 51',Racheal Kundananji Goal,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,310652.0,2025-07-10 04:42:41
+13520,747964,6,45449334,76,2,3600,60',0,0,Fatoumata Dramé (Senegal) Substitution at 60',Fatoumata Dramé Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406804.0,2025-07-10 04:42:41
+13520,747964,7,45449337,76,2,3600,60',0,0,Hapsatou Diallo (Senegal) Substitution at 60',Hapsatou Diallo Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,370335.0,2025-07-10 04:42:41
+13520,747964,7,45449337,76,2,3600,60',0,0,Hapsatou Diallo (Senegal) Substitution at 60',Hapsatou Diallo Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,406809.0,2025-07-10 04:42:41
+13520,747964,6,45449334,76,2,3600,60',0,0,Fatoumata Dramé (Senegal) Substitution at 60',Fatoumata Dramé Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,406806.0,2025-07-10 04:42:41
+13520,747964,8,45449351,76,2,4080,68',0,0,Fridah Mukoma (Zambia) Substitution at 68',Fridah Mukoma Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,406773.0,2025-07-10 04:42:41
+13520,747964,8,45449351,76,2,4080,68',0,0,Fridah Mukoma (Zambia) Substitution at 68',Fridah Mukoma Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2,310642.0,2025-07-10 04:42:41
+13520,747964,9,45449353,94,2,4200,70',0,0,Aïssatou Fall (Senegal) Yellow Card at 70',Aïssatou Fall Yellow Card,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406803.0,2025-07-10 04:42:41
+13520,747964,10,45449369,70,2,4380,73',1,0,Barbra Banda (Zambia) Goal at 73',Barbra Banda Goal,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,310645.0,2025-07-10 04:42:41
+13520,747964,11,45449377,76,2,4500,75',0,0,Sadigatou Diallo (Senegal) Substitution at 75',Sadigatou Diallo Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406807.0,2025-07-10 04:42:41
+13520,747964,11,45449377,76,2,4500,75',0,0,Sadigatou Diallo (Senegal) Substitution at 75',Sadigatou Diallo Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,406611.0,2025-07-10 04:42:41
+13520,747964,12,45449392,94,2,4740,79',0,0,Ngambo Musole (Zambia) Yellow Card at 79',Ngambo Musole Yellow Card,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,310902.0,2025-07-10 04:42:41
+13520,747964,13,45449393,98,2,4800,80',1,0,Nguenar Ndiaye (Senegal) Penalty - Scored at 80',Nguenar Ndiaye Penalty - Scored,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406622.0,2025-07-10 04:42:41
+13520,747964,14,45449423,76,2,5400,90'+12',0,0,Margaret Belemu (Zambia) Substitution at 102',Margaret Belemu Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,310648.0,2025-07-10 04:42:41
+13520,747964,14,45449423,76,2,5400,90'+12',0,0,Margaret Belemu (Zambia) Substitution at 102',Margaret Belemu Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2,310662.0,2025-07-10 04:42:41
+13520,747965,1,45449462,70,1,360,6',1,0,Merveille Kanjinga (Congo DR) Goal at 6',Merveille Kanjinga Goal,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,399707.0,2025-07-10 04:42:41
+13520,747965,2,45449533,70,1,1500,25',1,0,Ghizlane Chebbak (Morocco) Goal at 25',Ghizlane Chebbak Goal,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329941.0,2025-07-10 04:42:41
+13520,747965,3,45449581,70,1,2580,43',1,0,Ghizlane Chebbak (Morocco) Goal at 43',Ghizlane Chebbak Goal,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329941.0,2025-07-10 04:42:41
+13520,747965,4,45449617,76,2,2700,45',0,0,Mssoudy Sanaa (Morocco) Substitution at 45',Mssoudy Sanaa Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329942.0,2025-07-10 04:42:41
+13520,747965,4,45449617,76,2,2700,45',0,0,Mssoudy Sanaa (Morocco) Substitution at 45',Mssoudy Sanaa Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,329943.0,2025-07-10 04:42:41
+13520,747965,5,45449629,76,2,3360,56',0,0,Flavine Mawete (Congo DR) Substitution at 56',Flavine Mawete Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406798.0,2025-07-10 04:42:41
+13520,747965,5,45449629,76,2,3360,56',0,0,Flavine Mawete (Congo DR) Substitution at 56',Flavine Mawete Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,2,406797.0,2025-07-10 04:42:41
+13520,747965,7,45449663,76,2,3780,63',0,0,Imene El Ghazouani (Morocco) Substitution at 63',Imene El Ghazouani Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,406766.0,2025-07-10 04:42:41
+13520,747965,6,45449655,76,2,3780,63',0,0,Imane Saoud (Morocco) Substitution at 63',Imane Saoud Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,350964.0,2025-07-10 04:42:41
+13520,747965,6,45449655,76,2,3780,63',0,0,Imane Saoud (Morocco) Substitution at 63',Imane Saoud Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,351883.0,2025-07-10 04:42:41
+13520,747965,7,45449663,76,2,3780,63',0,0,Imene El Ghazouani (Morocco) Substitution at 63',Imene El Ghazouani Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,329936.0,2025-07-10 04:42:41
+13520,747965,8,45449669,94,2,3900,65',0,0,Merveille Kanjinga (Congo DR) Yellow Card at 65',Merveille Kanjinga Yellow Card,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,399707.0,2025-07-10 04:42:41
+13520,747965,9,45449695,70,2,4200,70',1,0,Flavine Mawete (Congo DR) Goal at 70',Flavine Mawete Goal,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406798.0,2025-07-10 04:42:41
+13520,747965,10,45449849,94,2,4200,70',0,0,Flavine Mawete (Congo DR) Yellow Card at 70',Flavine Mawete Yellow Card,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406798.0,2025-07-10 04:42:41
+13520,747965,13,45449714,76,2,4500,75',0,0,Anissa Lahmari (Morocco) Substitution at 75',Anissa Lahmari Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,295676.0,2025-07-10 04:42:41
+13520,747965,12,45449713,76,2,4500,75',0,0,Ruth Bulala Nossa (Congo DR) Substitution at 75',Ruth Bulala Nossa Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406878.0,2025-07-10 04:42:41
+13520,747965,14,45449718,70,2,4500,75',1,0,Ghizlane Chebbak (Morocco) Goal at 75',Ghizlane Chebbak Goal,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329941.0,2025-07-10 04:42:41
+13520,747965,11,45449706,76,2,4500,75',0,0,Esther Dikisha (Congo DR) Substitution at 75',Esther Dikisha Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406790.0,2025-07-10 04:42:41
+13520,747965,13,45449714,76,2,4500,75',0,0,Anissa Lahmari (Morocco) Substitution at 75',Anissa Lahmari Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,350967.0,2025-07-10 04:42:41
+13520,747965,11,45449706,76,2,4500,75',0,0,Esther Dikisha (Congo DR) Substitution at 75',Esther Dikisha Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,2,399707.0,2025-07-10 04:42:41
+13520,747965,12,45449713,76,2,4500,75',0,0,Ruth Bulala Nossa (Congo DR) Substitution at 75',Ruth Bulala Nossa Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,2,406786.0,2025-07-10 04:42:41
+13520,747965,15,45449758,98,2,4980,83',1,0,Yasmin Mrabet (Morocco) Penalty - Scored at 83',Yasmin Mrabet Penalty - Scored,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,348933.0,2025-07-10 04:42:41
+13520,747965,16,45449800,76,2,5400,90',0,0,Élodie Nakkach (Morocco) Substitution at 90',Élodie Nakkach Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,328118.0,2025-07-10 04:42:41
+13520,747965,16,45449800,76,2,5400,90',0,0,Élodie Nakkach (Morocco) Substitution at 90',Élodie Nakkach Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,329941.0,2025-07-10 04:42:41
+13520,747966,1,45450419,76,1,2280,38',0,0,Yesmin Khanchouch (Tunisia) Substitution at 38',Yesmin Khanchouch Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,397586.0,2025-07-11 01:26:56
+13520,747966,1,45450419,76,1,2280,38',0,0,Yesmin Khanchouch (Tunisia) Substitution at 38',Yesmin Khanchouch Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,2,406817.0,2025-07-11 01:26:56
+13520,747966,2,45450441,76,2,2700,45',0,0,Sabrine Ellouzi (Tunisia) Substitution at 45',Sabrine Ellouzi Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,309914.0,2025-07-11 01:26:56
+13520,747966,2,45450441,76,2,2700,45',0,0,Sabrine Ellouzi (Tunisia) Substitution at 45',Sabrine Ellouzi Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,2,406639.0,2025-07-11 01:26:56
+13520,747966,3,45450497,94,2,3480,58',0,0,Inès Belloumou (Algeria) Yellow Card at 58',Inès Belloumou Yellow Card,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,347137.0,2025-07-11 01:26:56
+13520,747966,4,45450526,94,2,3840,64',0,0,Sabrine Ellouzi (Tunisia) Yellow Card at 64',Sabrine Ellouzi Yellow Card,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,309914.0,2025-07-11 01:26:56
+13520,747966,5,45450569,76,2,4380,73',0,0,Laura Muller (Algeria) Substitution at 73',Laura Muller Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,350116.0,2025-07-11 01:26:56
+13520,747966,5,45450569,76,2,4380,73',0,0,Laura Muller (Algeria) Substitution at 73',Laura Muller Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,366734.0,2025-07-11 01:26:56
+13520,747966,6,45450669,76,2,5340,89',0,0,Ghada Ayadi (Tunisia) Substitution at 89',Ghada Ayadi Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,406633.0,2025-07-11 01:26:56
+13520,747966,6,45450669,76,2,5340,89',0,0,Ghada Ayadi (Tunisia) Substitution at 89',Ghada Ayadi Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,2,406822.0,2025-07-11 01:26:56
+13520,747966,7,45450670,76,2,5400,90',0,0,Mélinne D'Oria (Algeria) Substitution at 90',Mélinne D'Oria Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,387618.0,2025-07-11 01:26:56
+13520,747966,8,45450678,76,2,5400,90'+4',0,0,Norhène Bettoumi (Tunisia) Substitution at 94',Norhène Bettoumi Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,374566.0,2025-07-11 01:26:56
+13520,747966,7,45450670,76,2,5400,90',0,0,Mélinne D'Oria (Algeria) Substitution at 90',Mélinne D'Oria Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,353007.0,2025-07-11 01:26:56
+13520,747966,8,45450678,76,2,5400,90'+4',0,0,Norhène Bettoumi (Tunisia) Substitution at 94',Norhène Bettoumi Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,2,406819.0,2025-07-11 01:26:56
+13520,747967,1,45451342,94,1,2460,41',0,0,Nancy Baeletsi (Botswana) Yellow Card at 41',Nancy Baeletsi Yellow Card,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406603.0,2025-07-11 01:26:56
+13520,747967,3,45451437,76,2,2700,45',0,0,Christy Ucheibe (Nigeria) Substitution at 45',Christy Ucheibe Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,328066.0,2025-07-11 01:26:56
+13520,747967,2,45451432,76,2,2700,45',0,0,Chinwendu Ihezuo (Nigeria) Substitution at 45',Chinwendu Ihezuo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,220191.0,2025-07-11 01:26:56
+13520,747967,4,45451438,76,2,2700,45',0,0,Esther Okoronkwo (Nigeria) Substitution at 45',Esther Okoronkwo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,279837.0,2025-07-11 01:26:56
+13520,747967,4,45451438,76,2,2700,45',0,0,Esther Okoronkwo (Nigeria) Substitution at 45',Esther Okoronkwo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,219980.0,2025-07-11 01:26:56
+13520,747967,3,45451437,76,2,2700,45',0,0,Christy Ucheibe (Nigeria) Substitution at 45',Christy Ucheibe Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,211151.0,2025-07-11 01:26:56
+13520,747967,2,45451432,76,2,2700,45',0,0,Chinwendu Ihezuo (Nigeria) Substitution at 45',Chinwendu Ihezuo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,323522.0,2025-07-11 01:26:56
+13520,747967,5,45451455,94,2,3300,55',0,0,Deborah Abiodun (Nigeria) Yellow Card at 55',Deborah Abiodun Yellow Card,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,349550.0,2025-07-11 01:26:56
+13520,747967,6,45451665,76,2,4140,69',0,0,Jennifer Echegini (Nigeria) Substitution at 69',Jennifer Echegini Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,292902.0,2025-07-11 04:37:03
+13520,747967,6,45451665,76,2,4140,69',0,0,Jennifer Echegini (Nigeria) Substitution at 69',Jennifer Echegini Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,349550.0,2025-07-11 04:37:03
+13520,747967,7,45451666,76,2,5100,85',0,0,Nondi Mahlasela (Botswana) Substitution at 85',Nondi Mahlasela Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406604.0,2025-07-11 04:37:03
+13520,747967,8,45451667,94,2,5100,85',0,0,Sedilame Boseja (Botswana) Yellow Card at 85',Sedilame Boseja Yellow Card,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406606.0,2025-07-11 04:37:03
+13520,747967,7,45451666,76,2,5100,85',0,0,Nondi Mahlasela (Botswana) Substitution at 85',Nondi Mahlasela Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,2,406603.0,2025-07-11 04:37:03
+13520,747967,9,45451668,76,2,5220,87',0,0,Leungo Senwelo (Botswana) Substitution at 87',Leungo Senwelo Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406829.0,2025-07-11 04:37:03
+13520,747967,9,45451668,76,2,5220,87',0,0,Leungo Senwelo (Botswana) Substitution at 87',Leungo Senwelo Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,2,406586.0,2025-07-11 04:37:03
+13520,747967,10,45451669,70,2,5340,89',1,0,Chinwendu Ihezuo (Nigeria) Goal at 89',Chinwendu Ihezuo Goal,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,220191.0,2025-07-11 04:37:03
+13520,747967,11,45451670,76,2,5400,90'+4',0,0,Gaonyadiwe Ontlametse (Botswana) Substitution at 94',Gaonyadiwe Ontlametse Substituti,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406589.0,2025-07-11 04:37:03
+13520,747967,11,45451670,76,2,5400,90'+4',0,0,Gaonyadiwe Ontlametse (Botswana) Substitution at 94',Gaonyadiwe Ontlametse Substituti,20916,0.0,0.0,0.0,0.0,0.0,0.0,2,406598.0,2025-07-11 04:37:03
+13520,747968,1,45452209,70,1,360,6',1,0,Alice Kusi (Ghana) Goal at 6',Alice Kusi Goal,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,259560.0,2025-07-12 04:35:19
+13520,747968,2,45452210,94,1,660,11',0,0,Fatoumata Diarra (Mali) Yellow Card at 11',Fatoumata Diarra Yellow Card,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,406554.0,2025-07-12 04:35:19
+13520,747968,3,45452211,94,1,1620,27',0,0,Fatou Dembele (Mali) Yellow Card at 27',Fatou Dembele Yellow Card,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,393000.0,2025-07-12 04:35:19
+13520,747968,4,45452213,94,1,2280,38',0,0,Comfort Yeboah (Ghana) Yellow Card at 38',Comfort Yeboah Yellow Card,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,406703.0,2025-07-12 04:35:19
+13520,747968,5,45452214,94,1,2700,45'+4',0,0,Yakaré Niakaté (Mali) Yellow Card at 49',Yakaré Niakaté Yellow Card,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,406555.0,2025-07-12 04:35:19
+13520,747968,6,45452955,94,2,3000,50',0,0,Doris Boaduwaa (Ghana) Yellow Card at 50',Doris Boaduwaa Yellow Card,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,387269.0,2025-07-12 04:35:19
+13520,747968,7,45452218,70,2,3120,52',1,0,Aïssata Traoré (Mali) Goal at 52',Aïssata Traoré Goal,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,347112.0,2025-07-12 04:35:19
+13520,747968,8,45452221,76,2,3660,61',0,0,Princella Adobea (Ghana) Substitution at 61',Princella Adobea Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,259555.0,2025-07-12 04:35:19
+13520,747968,9,45452222,76,2,3660,61',0,0,Princess  (Ghana) Substitution at 61',Princess  Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,379823.0,2025-07-12 04:35:19
+13520,747968,8,45452221,76,2,3660,61',0,0,Princella Adobea (Ghana) Substitution at 61',Princella Adobea Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,381615.0,2025-07-12 04:35:19
+13520,747968,9,45452222,76,2,3660,61',0,0,Princess  (Ghana) Substitution at 61',Princess  Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,259560.0,2025-07-12 04:35:19
+13520,747968,10,45452223,76,2,3720,62',0,0,Oumou Kone (Mali) Substitution at 62',Oumou Kone Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,406885.0,2025-07-12 04:35:19
+13520,747968,10,45452223,76,2,3720,62',0,0,Oumou Kone (Mali) Substitution at 62',Oumou Kone Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,2,406893.0,2025-07-12 04:35:19
+13520,747968,11,45452229,76,2,4320,72',0,0,Josephine Bonsu (Ghana) Substitution at 72',Josephine Bonsu Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,406706.0,2025-07-12 04:35:19
+13520,747968,11,45452229,76,2,4320,72',0,0,Josephine Bonsu (Ghana) Substitution at 72',Josephine Bonsu Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,387270.0,2025-07-12 04:35:19
+13520,747968,12,45452232,76,2,4620,77',0,0,Fatoumata Niakaté (Mali) Substitution at 77',Fatoumata Niakaté Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,406891.0,2025-07-12 04:35:19
+13520,747968,12,45452232,76,2,4620,77',0,0,Fatoumata Niakaté (Mali) Substitution at 77',Fatoumata Niakaté Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,2,392983.0,2025-07-12 04:35:19
+13520,747968,13,45452233,94,2,4740,79',0,0,Oumou Kone (Mali) Yellow Card at 79',Oumou Kone Yellow Card,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,406885.0,2025-07-12 04:35:19
+13520,747969,1,45452402,94,1,1140,19',0,0,Jermaine Seoposenwe (South Africa) Yellow Card at 19',Jermaine Seoposenwe Yellow Card,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,176035.0,2025-07-12 04:35:19
+13520,747969,3,45452425,70,1,1440,24',1,0,Opah Clement (Tanzania) Goal at 24',Opah Clement Goal,21911,0.0,0.0,0.0,0.0,0.0,0.0,1,406940.0,2025-07-12 04:35:19
+13520,747969,2,45452424,94,1,1440,24',0,0,Noxolo Cesane (South Africa) Yellow Card at 24',Noxolo Cesane Yellow Card,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,298812.0,2025-07-12 04:35:19
+13520,747969,4,45452599,76,2,2700,45',0,0,Lebohang Ramalepe (South Africa) Substitution at 45',Lebohang Ramalepe Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,238756.0,2025-07-12 04:35:19
+13520,747969,5,45452601,76,2,2700,45',0,0,Hildah Magaia (South Africa) Substitution at 45',Hildah Magaia Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,285102.0,2025-07-12 04:35:19
+13520,747969,4,45452599,76,2,2700,45',0,0,Lebohang Ramalepe (South Africa) Substitution at 45',Lebohang Ramalepe Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,270061.0,2025-07-12 04:35:19
+13520,747969,5,45452601,76,2,2700,45',0,0,Hildah Magaia (South Africa) Substitution at 45',Hildah Magaia Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,298812.0,2025-07-12 04:35:19
+13520,747969,6,45452721,76,2,3720,62',0,0,Amogelang Motau (South Africa) Substitution at 62',Amogelang Motau Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,265463.0,2025-07-12 04:35:19
+13520,747969,6,45452721,76,2,3720,62',0,0,Amogelang Motau (South Africa) Substitution at 62',Amogelang Motau Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,288384.0,2025-07-12 04:35:19
+13520,747969,7,45452756,70,2,4200,70',1,0,Bambanani Mbane (South Africa) Goal at 70',Bambanani Mbane Goal,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,238759.0,2025-07-12 04:35:19
+13520,747969,8,45452761,94,2,4320,72',0,0,Anastazia Katunzi (Tanzania) Yellow Card at 72',Anastazia Katunzi Yellow Card,21911,0.0,0.0,0.0,0.0,0.0,0.0,1,406944.0,2025-07-12 04:35:19
+13520,747969,9,45452779,76,2,4500,75',0,0,Nonhlanhla Mthandi (South Africa) Substitution at 75',Nonhlanhla Mthandi Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,394679.0,2025-07-12 04:35:19
+13520,747969,10,45452791,94,2,4500,75',0,0,Winfrida Gerald (Tanzania) Yellow Card at 75',Winfrida Gerald Yellow Card,21911,0.0,0.0,0.0,0.0,0.0,0.0,1,406951.0,2025-07-13 04:33:09
+13520,747969,9,45452779,76,2,4500,75',0,0,Nonhlanhla Mthandi (South Africa) Substitution at 75',Nonhlanhla Mthandi Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,176029.0,2025-07-12 04:35:19
+13520,747969,11,45452863,93,2,5040,84',0,0,Winfrida Gerald (Tanzania) Red Card at 84',Winfrida Gerald Red Card,21911,0.0,0.0,0.0,0.0,0.0,0.0,1,406951.0,2025-07-13 04:33:09
+13520,747969,12,45452903,76,2,5400,90'+1',0,0,Ronnel Donnelly (South Africa) Substitution at 91',Ronnel Donnelly Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,406886.0,2025-07-12 04:35:19
+13520,747969,12,45452903,76,2,5400,90'+1',0,0,Ronnel Donnelly (South Africa) Substitution at 91',Ronnel Donnelly Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,351790.0,2025-07-12 04:35:19
+13520,747970,1,45455244,94,1,420,7',0,0,Yasmin Mrabet (Morocco) Yellow Card at 7',Yasmin Mrabet Yellow Card,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,348933.0,2025-07-13 04:33:09
+13520,747970,2,45455533,94,1,1860,31',0,0,Hapsatou Diallo (Senegal) Yellow Card at 31',Hapsatou Diallo Yellow Card,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,370335.0,2025-07-13 04:33:09
+13520,747970,4,45455734,94,1,2700,45'+2',0,0,Adama Sané (Senegal) Yellow Card at 47',Adama Sané Yellow Card,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,307847.0,2025-07-13 04:33:09
+13520,747970,3,45455733,94,1,2700,45'+1',0,0,Adji Ndiaye (Senegal) Yellow Card at 46',Adji Ndiaye Yellow Card,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406650.0,2025-07-13 04:33:09
+13520,747970,6,45455968,76,2,2700,45',0,0,Imane Saoud (Morocco) Substitution at 45',Imane Saoud Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,350964.0,2025-07-13 04:33:09
+13520,747970,5,45455736,98,1,2700,45'+2',1,0,Yasmin Mrabet (Morocco) Penalty - Scored at 47',Yasmin Mrabet Penalty - Scored,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,348933.0,2025-07-13 04:33:09
+13520,747970,6,45455968,76,2,2700,45',0,0,Imane Saoud (Morocco) Substitution at 45',Imane Saoud Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,351883.0,2025-07-13 04:33:09
+13520,747970,7,45456149,76,2,3300,55',0,0,Korka Fall (Senegal) Substitution at 55',Korka Fall Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406617.0,2025-07-13 04:33:09
+13520,747970,7,45456149,76,2,3300,55',0,0,Korka Fall (Senegal) Substitution at 55',Korka Fall Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,406807.0,2025-07-13 04:33:09
+13520,747970,8,45456222,76,2,3720,62',0,0,Élodie Nakkach (Morocco) Substitution at 62',Élodie Nakkach Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,328118.0,2025-07-13 04:33:09
+13520,747970,8,45456222,76,2,3720,62',0,0,Élodie Nakkach (Morocco) Substitution at 62',Élodie Nakkach Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,329932.0,2025-07-13 04:33:09
+13520,747970,9,45456390,76,2,4320,72',0,0,Anta Dembélé (Senegal) Substitution at 72',Anta Dembélé Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406609.0,2025-07-13 04:33:09
+13520,747970,11,45456392,76,2,4320,72',0,0,Anissa Lahmari (Morocco) Substitution at 72',Anissa Lahmari Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,295676.0,2025-07-13 04:33:09
+13520,747970,10,45456391,76,2,4320,72',0,0,Ndeye Diakhaté (Senegal) Substitution at 72',Ndeye Diakhaté Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406621.0,2025-07-13 04:33:09
+13520,747970,9,45456390,76,2,4320,72',0,0,Anta Dembélé (Senegal) Substitution at 72',Anta Dembélé Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,307847.0,2025-07-13 04:33:09
+13520,747970,11,45456392,76,2,4320,72',0,0,Anissa Lahmari (Morocco) Substitution at 72',Anissa Lahmari Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,350967.0,2025-07-13 04:33:09
+13520,747970,10,45456391,76,2,4320,72',0,0,Ndeye Diakhaté (Senegal) Substitution at 72',Ndeye Diakhaté Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,406804.0,2025-07-13 04:33:09
+13520,747970,12,45456493,94,2,4740,79',0,0,Korka Fall (Senegal) Yellow Card at 79',Korka Fall Yellow Card,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406617.0,2025-07-13 04:33:09
+13520,747970,13,45456515,76,2,4920,82',0,0,Ndèye Casset (Senegal) Substitution at 82',Ndèye Casset Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406809.0,2025-07-13 04:33:09
+13520,747970,14,45456554,94,2,4920,82',0,0,Ghizlane Chebbak (Morocco) Yellow Card at 82',Ghizlane Chebbak Yellow Card,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329941.0,2025-07-13 04:33:09
+13520,747970,13,45456515,76,2,4920,82',0,0,Ndèye Casset (Senegal) Substitution at 82',Ndèye Casset Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,370335.0,2025-07-13 04:33:09
+13520,747970,15,45456717,94,2,5400,90'+5',0,0,Ndèye Casset (Senegal) Yellow Card at 95',Ndèye Casset Yellow Card,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406809.0,2025-07-13 04:33:09
+13520,747971,1,45463979,94,1,480,8',0,0,Eva Sumo (Congo DR) Yellow Card at 8',Eva Sumo Yellow Card,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,347231.0,2025-07-13 22:08:23
+13520,747971,2,45455245,70,1,540,9',1,0,Racheal Kundananji (Zambia) Goal at 9',Racheal Kundananji Goal,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,310652.0,2025-07-13 22:08:23
+13520,747971,3,45455909,76,2,2700,45',0,0,Émeraude Mawanda (Congo DR) Substitution at 45',Émeraude Mawanda Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406788.0,2025-07-13 22:08:23
+13520,747971,3,45455909,76,2,2700,45',0,0,Émeraude Mawanda (Congo DR) Substitution at 45',Émeraude Mawanda Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,2,406789.0,2025-07-13 22:08:23
+13520,747971,4,45456165,76,2,3720,62',0,0,Sarah Yasongamo (Congo DR) Substitution at 62',Sarah Yasongamo Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406800.0,2025-07-13 22:08:23
+13520,747971,6,45456175,76,2,3720,62',0,0,Anastasia Soulac (Congo DR) Substitution at 62',Anastasia Soulac Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406877.0,2025-07-13 22:08:23
+13520,747971,5,45456174,76,2,3720,62',0,0,Falonne Pambani (Congo DR) Substitution at 62',Falonne Pambani Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406797.0,2025-07-13 22:08:23
+13520,747971,6,45456175,76,2,3720,62',0,0,Anastasia Soulac (Congo DR) Substitution at 62',Anastasia Soulac Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,2,406791.0,2025-07-13 22:08:23
+13520,747971,4,45456165,76,2,3720,62',0,0,Sarah Yasongamo (Congo DR) Substitution at 62',Sarah Yasongamo Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,2,406796.0,2025-07-13 22:08:23
+13520,747971,5,45456174,76,2,3720,62',0,0,Falonne Pambani (Congo DR) Substitution at 62',Falonne Pambani Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,2,406785.0,2025-07-13 22:08:23
+13520,747971,7,45456284,93,2,4140,69',0,0,Falonne Pambani (Congo DR) Red Card at 69',Falonne Pambani Red Card,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406797.0,2025-07-13 22:08:23
+13520,747971,8,45456312,76,2,4200,70',0,0,Prisca Chilufya (Zambia) Substitution at 70',Prisca Chilufya Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,351425.0,2025-07-13 22:08:23
+13520,747971,8,45456312,76,2,4200,70',0,0,Prisca Chilufya (Zambia) Substitution at 70',Prisca Chilufya Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2,394172.0,2025-07-13 22:08:23
+13520,747971,9,45456406,76,2,4620,77',0,0,Evarine Katongo (Zambia) Substitution at 77',Evarine Katongo Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,320955.0,2025-07-13 22:08:23
+13520,747971,9,45456406,76,2,4620,77',0,0,Evarine Katongo (Zambia) Substitution at 77',Evarine Katongo Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2,310653.0,2025-07-13 22:08:23
+13520,747971,10,45456533,76,2,5220,87',0,0,Kabange Mupopo (Zambia) Substitution at 87',Kabange Mupopo Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,386580.0,2025-07-13 22:08:23
+13520,747971,11,45456555,76,2,5220,87',0,0,Martha Tembo (Zambia) Substitution at 87',Martha Tembo Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,310662.0,2025-07-13 22:08:23
+13520,747971,10,45456533,76,2,5220,87',0,0,Kabange Mupopo (Zambia) Substitution at 87',Kabange Mupopo Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2,310908.0,2025-07-13 22:08:23
+13520,747971,11,45456555,76,2,5220,87',0,0,Martha Tembo (Zambia) Substitution at 87',Martha Tembo Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2,406773.0,2025-07-13 22:08:23
+13520,747971,12,45456556,76,2,5280,88',0,0,Gloria Mabomba (Congo DR) Substitution at 88',Gloria Mabomba Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406792.0,2025-07-13 22:08:23
+13520,747971,12,45456556,76,2,5280,88',0,0,Gloria Mabomba (Congo DR) Substitution at 88',Gloria Mabomba Substitution,131255,0.0,0.0,0.0,0.0,0.0,0.0,2,349977.0,2025-07-13 22:08:23
+13520,747971,13,45456639,94,2,5400,90'+3',0,0,Sarah Yasongamo (Congo DR) Yellow Card at 93',Sarah Yasongamo Yellow Card,131255,0.0,0.0,0.0,0.0,0.0,0.0,1,406800.0,2025-07-13 22:08:23
+13520,747972,1,45463992,70,1,720,12',1,0,Yesmin Khanchouch (Tunisia) Goal at 12',Yesmin Khanchouch Goal,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,397586.0,2025-07-13 22:08:23
+13520,747972,2,45464154,94,1,1740,29',0,0,Lone Gaofetoge (Botswana) Yellow Card at 29',Lone Gaofetoge Yellow Card,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406595.0,2025-07-13 22:08:23
+13520,747972,3,45464199,94,1,2040,34',0,0,Sarah Ben M'Barek (Tunisia) Yellow Card at 34',Sarah Ben M'Barek Yellow Card,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,406824.0,2025-07-13 22:08:23
+13520,747972,6,45464507,76,2,2700,45',0,0,Obonetse Rathari (Botswana) Substitution at 45',Obonetse Rathari Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406811.0,2025-07-13 22:08:23
+13520,747972,5,45464498,76,2,2700,45',0,0,Gaonyadiwe Ontlametse (Botswana) Substitution at 45',Gaonyadiwe Ontlametse Substituti,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406589.0,2025-07-13 22:08:23
+13520,747972,4,45464355,94,1,2700,45'+2',0,0,Rania Aouina (Tunisia) Yellow Card at 47',Rania Aouina Yellow Card,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,295684.0,2025-07-13 22:08:23
+13520,747972,6,45464507,76,2,2700,45',0,0,Obonetse Rathari (Botswana) Substitution at 45',Obonetse Rathari Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,2,406588.0,2025-07-13 22:08:23
+13520,747972,5,45464498,76,2,2700,45',0,0,Gaonyadiwe Ontlametse (Botswana) Substitution at 45',Gaonyadiwe Ontlametse Substituti,20916,0.0,0.0,0.0,0.0,0.0,0.0,2,406592.0,2025-07-13 22:08:23
+13520,747972,7,45464583,94,2,2940,49',0,0,Veronicah Mogotsi (Botswana) Yellow Card at 49',Veronicah Mogotsi Yellow Card,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406608.0,2025-07-13 22:08:23
+13520,747972,8,45464754,76,2,3780,63',0,0,Sabah Shaiek (Tunisia) Substitution at 63',Sabah Shaiek Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,406819.0,2025-07-13 22:08:23
+13520,747972,8,45464754,76,2,3780,63',0,0,Sabah Shaiek (Tunisia) Substitution at 63',Sabah Shaiek Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,2,406823.0,2025-07-13 22:08:23
+13520,747972,9,45464802,70,2,3960,66',1,0,Lesego Radiakanyo (Botswana) Goal at 66',Lesego Radiakanyo Goal,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406598.0,2025-07-13 22:08:23
+13520,747972,10,45464876,76,2,4320,72',0,0,Michelle Abueng (Botswana) Substitution at 72',Michelle Abueng Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406599.0,2025-07-13 22:08:23
+13520,747972,11,45464877,76,2,4320,72',0,0,Balothany Johannes (Botswana) Substitution at 72',Balothany Johannes Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406586.0,2025-07-13 22:08:23
+13520,747972,10,45464876,76,2,4320,72',0,0,Michelle Abueng (Botswana) Substitution at 72',Michelle Abueng Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,2,406603.0,2025-07-13 22:08:23
+13520,747972,11,45464877,76,2,4320,72',0,0,Balothany Johannes (Botswana) Substitution at 72',Balothany Johannes Substitution,20916,0.0,0.0,0.0,0.0,0.0,0.0,2,406608.0,2025-07-13 22:08:23
+13520,747972,12,45464979,76,2,4800,80',0,0,Ahlem Ammar (Tunisia) Substitution at 80',Ahlem Ammar Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,406820.0,2025-07-13 22:08:23
+13520,747972,13,45464980,76,2,4800,80',0,0,Mariem Houij (Tunisia) Substitution at 80',Mariem Houij Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,1,406639.0,2025-07-13 22:08:23
+13520,747972,13,45464980,76,2,4800,80',0,0,Mariem Houij (Tunisia) Substitution at 80',Mariem Houij Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,2,397586.0,2025-07-13 22:08:23
+13520,747972,12,45464979,76,2,4800,80',0,0,Ahlem Ammar (Tunisia) Substitution at 80',Ahlem Ammar Substitution,21301,0.0,0.0,0.0,0.0,0.0,0.0,2,406824.0,2025-07-13 22:08:23
+13520,747972,14,45465212,70,2,5400,90'+5',1,0,Gaonyadiwe Ontlametse (Botswana) Goal at 95',Gaonyadiwe Ontlametse Goal,20916,0.0,0.0,0.0,0.0,0.0,0.0,1,406589.0,2025-07-13 22:08:23
+13520,747973,1,45464639,76,2,3240,54',0,0,Esther Okoronkwo (Nigeria) Substitution at 54',Esther Okoronkwo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,279837.0,2025-07-13 22:08:23
+13520,747973,1,45464639,76,2,3240,54',0,0,Esther Okoronkwo (Nigeria) Substitution at 54',Esther Okoronkwo Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,213954.0,2025-07-13 22:08:23
+13520,747973,2,45464727,76,2,3660,61',0,0,Amira Braham (Algeria) Substitution at 61',Amira Braham Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,387574.0,2025-07-13 22:08:23
+13520,747973,2,45464727,76,2,3660,61',0,0,Amira Braham (Algeria) Substitution at 61',Amira Braham Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,406719.0,2025-07-13 22:08:23
+13520,747973,3,45464854,94,2,4320,72',0,0,Marine Dafeur (Algeria) Yellow Card at 72',Marine Dafeur Yellow Card,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,347079.0,2025-07-13 22:08:23
+13520,747973,4,45464901,76,2,4560,76',0,0,Ines Boutaleb (Algeria) Substitution at 76',Ines Boutaleb Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,406547.0,2025-07-13 22:08:23
+13520,747973,4,45464901,76,2,4560,76',0,0,Ines Boutaleb (Algeria) Substitution at 76',Ines Boutaleb Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,353007.0,2025-07-13 22:08:23
+13520,747973,6,45464943,76,2,4620,77',0,0,Rinsola Babajide (Nigeria) Substitution at 77',Rinsola Babajide Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,323522.0,2025-07-13 22:08:23
+13520,747973,5,45464926,76,2,4620,77',0,0,Folashade Ijamilusi (Nigeria) Substitution at 77',Folashade Ijamilusi Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,344265.0,2025-07-13 22:08:23
+13520,747973,5,45464926,76,2,4620,77',0,0,Folashade Ijamilusi (Nigeria) Substitution at 77',Folashade Ijamilusi Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,351996.0,2025-07-13 22:08:23
+13520,747973,6,45464943,76,2,4620,77',0,0,Rinsola Babajide (Nigeria) Substitution at 77',Rinsola Babajide Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,220191.0,2025-07-13 22:08:23
+13520,747973,7,45465128,76,2,5340,89',0,0,Emma Smaali (Algeria) Substitution at 89',Emma Smaali Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,406713.0,2025-07-13 22:08:23
+13520,747973,7,45465128,76,2,5340,89',0,0,Emma Smaali (Algeria) Substitution at 89',Emma Smaali Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,406573.0,2025-07-13 22:08:23
+13520,747973,8,45465135,76,2,5400,90',0,0,Léa Abadou (Algeria) Substitution at 90',Léa Abadou Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,406714.0,2025-07-13 22:08:23
+13520,747973,8,45465135,76,2,5400,90',0,0,Léa Abadou (Algeria) Substitution at 90',Léa Abadou Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,406717.0,2025-07-13 22:08:23
+13520,747974,1,45468247,70,1,720,12',1,0,Princella Adobea (Ghana) Goal at 12',Princella Adobea Goal,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,259555.0,2025-07-15 04:35:53
+13520,747974,2,45468256,94,1,2040,34',0,0,Donisia Minja (Tanzania) Yellow Card at 34',Donisia Minja Yellow Card,21911,0.0,0.0,0.0,0.0,0.0,0.0,1,406946.0,2025-07-15 04:35:53
+13520,747974,3,45468278,70,1,2460,41',1,0,Stumai Athumani (Tanzania) Goal at 41',Stumai Athumani Goal,21911,0.0,0.0,0.0,0.0,0.0,0.0,1,406950.0,2025-07-15 04:35:53
+13520,747974,4,45468348,94,2,3300,55',0,0,Grace Asantewaa (Ghana) Yellow Card at 55',Grace Asantewaa Yellow Card,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,282841.0,2025-07-15 04:35:53
+13520,747974,5,45468353,98,2,3780,63',1,0,Alice Kusi (Ghana) Penalty - Scored at 63',Alice Kusi Penalty - Scored,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,259560.0,2025-07-15 04:35:53
+13520,747974,6,45468357,76,2,4260,71',0,0,Asha Omary (Tanzania) Substitution at 71',Asha Omary Substitution,21911,0.0,0.0,0.0,0.0,0.0,0.0,1,406953.0,2025-07-17 04:40:28
+13520,747974,7,45468358,76,2,4260,71',0,0,Janeth Pangamwene (Tanzania) Substitution at 71',Janeth Pangamwene Substitution,21911,0.0,0.0,0.0,0.0,0.0,0.0,1,406948.0,2025-07-17 04:40:28
+13520,747974,6,45468357,76,2,4260,71',0,0,Asha Omary (Tanzania) Substitution at 71',Asha Omary Substitution,21911,0.0,0.0,0.0,0.0,0.0,0.0,2,406943.0,2025-07-17 04:40:28
+13520,747974,7,45468358,76,2,4260,71',0,0,Janeth Pangamwene (Tanzania) Substitution at 71',Janeth Pangamwene Substitution,21911,0.0,0.0,0.0,0.0,0.0,0.0,2,406944.0,2025-07-17 04:40:28
+13520,747974,8,45468371,76,2,4560,76',0,0,Evelyn Badu (Ghana) Substitution at 76',Evelyn Badu Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,381615.0,2025-07-15 04:35:53
+13520,747974,8,45468371,76,2,4560,76',0,0,Evelyn Badu (Ghana) Substitution at 76',Evelyn Badu Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,259555.0,2025-07-15 04:35:53
+13520,747974,9,45468378,76,2,4800,80',0,0,Hasnath Ubamba (Tanzania) Substitution at 80',Hasnath Ubamba Substitution,21911,0.0,0.0,0.0,0.0,0.0,0.0,1,352097.0,2025-07-15 04:35:53
+13520,747974,9,45468378,76,2,4800,80',0,0,Hasnath Ubamba (Tanzania) Substitution at 80',Hasnath Ubamba Substitution,21911,0.0,0.0,0.0,0.0,0.0,0.0,2,406946.0,2025-07-15 04:35:53
+13520,747974,10,45468393,76,2,5160,86',0,0,Stella Nyamekye (Ghana) Substitution at 86',Stella Nyamekye Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,387274.0,2025-07-15 04:35:53
+13520,747974,10,45468393,76,2,5160,86',0,0,Stella Nyamekye (Ghana) Substitution at 86',Stella Nyamekye Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,379823.0,2025-07-15 04:35:53
+13520,747974,11,45468401,70,2,5220,87',1,0,Evelyn Badu (Ghana) Goal at 87',Evelyn Badu Goal,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,381615.0,2025-07-15 04:35:53
+13520,747974,12,45468409,70,2,5400,90',1,0,Chantelle Boye-Hlorkah (Ghana) Goal at 90',Chantelle Boye-Hlorkah Goal,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,312483.0,2025-07-15 04:35:53
+13520,747975,1,45468246,70,1,300,5',1,0,Lebohang Ramalepe (South Africa) Goal at 5',Lebohang Ramalepe Goal,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,238756.0,2025-07-15 04:35:53
+13520,747975,2,45468250,94,1,1800,30',0,0,Kani Konte (Mali) Yellow Card at 30',Kani Konte Yellow Card,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,406550.0,2025-07-15 04:35:53
+13520,747975,3,45468252,70,1,1920,32',1,0,Refiloe Jane (South Africa) Goal at 32',Refiloe Jane Goal,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,176029.0,2025-07-15 04:35:53
+13520,747975,6,45468326,76,2,2700,45',0,0,Regina Mogolola (South Africa) Substitution at 45',Regina Mogolola Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,270064.0,2025-07-15 04:35:53
+13520,747975,8,45468328,76,2,2700,45',0,0,Alima Cissé (Mali) Substitution at 45',Alima Cissé Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,407156.0,2025-07-15 04:35:53
+13520,747975,4,45468286,94,1,2700,45',0,0,Amogelang Motau (South Africa) Yellow Card at 45',Amogelang Motau Yellow Card,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,265463.0,2025-07-15 04:35:53
+13520,747975,5,45468322,76,2,2700,45',0,0,Gabriela Salgado (South Africa) Substitution at 45',Gabriela Salgado Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,255598.0,2025-07-15 04:35:53
+13520,747975,9,45468332,76,2,2700,45',0,0,Fatou Dembele (Mali) Substitution at 45',Fatou Dembele Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,393000.0,2025-07-15 04:35:53
+13520,747975,7,45468327,76,2,2700,45',0,0,Sibulele Holweni (South Africa) Substitution at 45',Sibulele Holweni Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,288384.0,2025-07-15 04:35:53
+13520,747975,7,45468327,76,2,2700,45',0,0,Sibulele Holweni (South Africa) Substitution at 45',Sibulele Holweni Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,265463.0,2025-07-15 04:35:53
+13520,747975,6,45468326,76,2,2700,45',0,0,Regina Mogolola (South Africa) Substitution at 45',Regina Mogolola Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,176029.0,2025-07-15 04:35:53
+13520,747975,8,45468328,76,2,2700,45',0,0,Alima Cissé (Mali) Substitution at 45',Alima Cissé Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,2,406884.0,2025-07-15 04:35:53
+13520,747975,5,45468322,76,2,2700,45',0,0,Gabriela Salgado (South Africa) Substitution at 45',Gabriela Salgado Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,176035.0,2025-07-15 04:35:53
+13520,747975,9,45468332,76,2,2700,45',0,0,Fatou Dembele (Mali) Substitution at 45',Fatou Dembele Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,2,365593.0,2025-07-15 04:35:53
+13520,747975,10,45468354,70,2,3660,61',1,0,Hildah Magaia (South Africa) Goal at 61',Hildah Magaia Goal,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,285102.0,2025-07-15 04:35:53
+13520,747975,11,45468355,76,2,3900,65',0,0,Kadidiatou Diabate (Mali) Substitution at 65',Kadidiatou Diabate Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,406893.0,2025-07-18 04:42:52
+13520,747975,11,45468355,76,2,3900,65',0,0,Kadidiatou Diabate (Mali) Substitution at 65',Kadidiatou Diabate Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,2,406891.0,2025-07-18 04:42:52
+13520,747975,12,45468359,76,2,3960,66',0,0,Agueissa Diarra (Mali) Substitution at 66',Agueissa Diarra Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,392983.0,2025-07-15 04:35:53
+13520,747975,12,45468359,76,2,3960,66',0,0,Agueissa Diarra (Mali) Substitution at 66',Agueissa Diarra Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,2,406881.0,2025-07-15 04:35:53
+13520,747975,13,45468362,76,2,4140,69',0,0,Ronnel Donnelly (South Africa) Substitution at 69',Ronnel Donnelly Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,406886.0,2025-07-15 04:35:53
+13520,747975,13,45468362,76,2,4140,69',0,0,Ronnel Donnelly (South Africa) Substitution at 69',Ronnel Donnelly Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,285102.0,2025-07-15 04:35:53
+13520,747975,14,45468377,76,2,4500,75',0,0,Nonhlanhla Mthandi (South Africa) Substitution at 75',Nonhlanhla Mthandi Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,394679.0,2025-07-15 04:35:53
+13520,747975,14,45468377,76,2,4500,75',0,0,Nonhlanhla Mthandi (South Africa) Substitution at 75',Nonhlanhla Mthandi Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,238754.0,2025-07-15 04:35:53
+13520,747975,15,45468388,70,2,4740,79',1,0,Ronnel Donnelly (South Africa) Goal at 79',Ronnel Donnelly Goal,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,406886.0,2025-07-15 04:35:53
+13521,747976,1,45482146,70,1,120,2',1,0,Osinachi Ohale (Nigeria) Goal at 2',Osinachi Ohale Goal,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,159612.0,2025-07-19 04:39:36
+13521,747976,2,45482194,94,1,1680,28',0,0,Blessing Demehin (Nigeria) Yellow Card at 28',Blessing Demehin Yellow Card,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,320400.0,2025-07-19 04:39:36
+13521,747976,3,45482203,76,1,1860,31',0,0,Evarine Katongo (Zambia) Substitution at 31',Evarine Katongo Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,320955.0,2025-07-19 04:39:36
+13521,747976,3,45482203,76,1,1860,31',0,0,Evarine Katongo (Zambia) Substitution at 31',Evarine Katongo Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2,310653.0,2025-07-19 04:39:36
+13521,747976,4,45482204,70,1,1980,33',1,0,Esther Okoronkwo (Nigeria) Goal at 33',Esther Okoronkwo Goal,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,279837.0,2025-07-19 04:39:36
+13521,747976,5,45482228,94,1,2400,40',0,0,Racheal Nachula (Zambia) Yellow Card at 40',Racheal Nachula Yellow Card,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,310908.0,2025-07-19 04:39:36
+13521,747976,7,45482263,76,2,2700,45',0,0,Fridah Mukoma (Zambia) Substitution at 45',Fridah Mukoma Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,406773.0,2025-07-19 04:39:36
+13521,747976,6,45482240,70,1,2700,45',1,0,Chinwendu Ihezuo (Nigeria) Goal at 45',Chinwendu Ihezuo Goal,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,220191.0,2025-07-19 04:39:36
+13521,747976,7,45482263,76,2,2700,45',0,0,Fridah Mukoma (Zambia) Substitution at 45',Fridah Mukoma Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2,310908.0,2025-07-19 04:39:36
+13521,747976,8,45482318,76,2,3780,63',0,0,Mercy Chipasula (Zambia) Substitution at 63',Mercy Chipasula Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,394172.0,2025-07-19 04:39:36
+13521,747976,9,45482322,76,2,3780,63',0,0,Martha Tembo (Zambia) Substitution at 63',Martha Tembo Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,310662.0,2025-07-19 04:39:36
+13521,747976,9,45482322,76,2,3780,63',0,0,Martha Tembo (Zambia) Substitution at 63',Martha Tembo Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2,394164.0,2025-07-19 04:39:36
+13521,747976,8,45482318,76,2,3780,63',0,0,Mercy Chipasula (Zambia) Substitution at 63',Mercy Chipasula Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2,351425.0,2025-07-19 04:39:36
+13521,747976,10,45482325,76,2,3900,65',0,0,Sikiratu Isah (Nigeria) Substitution at 65',Sikiratu Isah Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,397153.0,2025-07-19 04:39:36
+13521,747976,10,45482325,76,2,3900,65',0,0,Sikiratu Isah (Nigeria) Substitution at 65',Sikiratu Isah Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,220191.0,2025-07-19 04:39:36
+13521,747976,11,45482331,70,2,4080,68',1,0,Blessing Demehin (Nigeria) Goal at 68',Blessing Demehin Goal,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,320400.0,2025-07-19 04:39:36
+13521,747976,12,45482337,76,2,4140,69',0,0,Memory Nthala (Zambia) Substitution at 69',Memory Nthala Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,1,406772.0,2025-07-19 04:39:36
+13521,747976,12,45482337,76,2,4140,69',0,0,Memory Nthala (Zambia) Substitution at 69',Memory Nthala Substitution,20795,0.0,0.0,0.0,0.0,0.0,0.0,2,310648.0,2025-07-19 04:39:36
+13521,747976,13,45482348,76,2,4380,73',0,0,Asisat Oshoala (Nigeria) Substitution at 73',Asisat Oshoala Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,219980.0,2025-07-19 04:39:36
+13521,747976,13,45482348,76,2,4380,73',0,0,Asisat Oshoala (Nigeria) Substitution at 73',Asisat Oshoala Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,279837.0,2025-07-19 04:39:36
+13521,747976,15,45482350,76,2,4440,74',0,0,Christy Ucheibe (Nigeria) Substitution at 74',Christy Ucheibe Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,328066.0,2025-07-19 04:39:36
+13521,747976,14,45482349,76,2,4440,74',0,0,Deborah Abiodun (Nigeria) Substitution at 74',Deborah Abiodun Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,349550.0,2025-07-19 04:39:36
+13521,747976,14,45482349,76,2,4440,74',0,0,Deborah Abiodun (Nigeria) Substitution at 74',Deborah Abiodun Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,219969.0,2025-07-19 04:39:36
+13521,747976,15,45482350,76,2,4440,74',0,0,Christy Ucheibe (Nigeria) Substitution at 74',Christy Ucheibe Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,292902.0,2025-07-19 04:39:36
+13521,747976,16,45482419,70,2,5400,90'+1',1,0,Folashade Ijamilusi (Nigeria) Goal at 91',Folashade Ijamilusi Goal,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,344265.0,2025-07-19 04:39:36
+13521,747977,1,45482497,70,1,420,7',1,0,Ibtissam Jraïdi (Morocco) Goal at 7',Ibtissam Jraïdi Goal,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,350967.0,2025-07-19 04:39:36
+13521,747977,2,45482574,94,1,2460,41',0,0,Fatou Dembele (Mali) Yellow Card at 41',Fatou Dembele Yellow Card,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,393000.0,2025-07-19 04:39:36
+13521,747977,3,45482596,76,2,2700,45',0,0,Élodie Nakkach (Morocco) Substitution at 45',Élodie Nakkach Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,328118.0,2025-07-19 04:39:36
+13521,747977,4,45482597,76,2,2700,45',0,0,Mssoudy Sanaa (Morocco) Substitution at 45',Mssoudy Sanaa Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329942.0,2025-07-19 04:39:36
+13521,747977,4,45482597,76,2,2700,45',0,0,Mssoudy Sanaa (Morocco) Substitution at 45',Mssoudy Sanaa Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,348933.0,2025-07-19 04:39:36
+13521,747977,3,45482596,76,2,2700,45',0,0,Élodie Nakkach (Morocco) Substitution at 45',Élodie Nakkach Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,329932.0,2025-07-19 04:39:36
+13521,747977,5,45482657,76,2,4200,70',0,0,Imane Saoud (Morocco) Substitution at 70',Imane Saoud Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,350964.0,2025-07-19 04:39:36
+13521,747977,5,45482657,76,2,4200,70',0,0,Imane Saoud (Morocco) Substitution at 70',Imane Saoud Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,329943.0,2025-07-19 04:39:36
+13521,747977,6,45482669,98,2,4740,79',1,0,Ibtissam Jraïdi (Morocco) Penalty - Scored at 79',Ibtissam Jraïdi Penalty - Scored,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,350967.0,2025-07-19 04:39:36
+13521,747977,7,45482679,76,2,4920,82',0,0,Maimouna Traore (Mali) Substitution at 82',Maimouna Traore Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,406569.0,2025-07-19 04:39:36
+13521,747977,7,45482679,76,2,4920,82',0,0,Maimouna Traore (Mali) Substitution at 82',Maimouna Traore Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,2,406549.0,2025-07-19 04:39:36
+13521,747977,8,45482684,76,2,5040,84',0,0,Kenza Chapelle (Morocco) Substitution at 84',Kenza Chapelle Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,347122.0,2025-07-19 04:39:36
+13521,747977,8,45482684,76,2,5040,84',0,0,Kenza Chapelle (Morocco) Substitution at 84',Kenza Chapelle Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,350967.0,2025-07-19 04:39:36
+13521,747977,9,45482685,76,2,5100,85',0,0,Salimata Diarra (Mali) Substitution at 85',Salimata Diarra Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,406557.0,2025-07-19 04:39:36
+13521,747977,9,45482685,76,2,5100,85',0,0,Salimata Diarra (Mali) Substitution at 85',Salimata Diarra Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,2,406893.0,2025-07-19 04:39:36
+13521,747977,10,45482687,94,2,5220,87',0,0,Aïssata Traoré (Mali) Yellow Card at 87',Aïssata Traoré Yellow Card,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,347112.0,2025-07-19 04:39:36
+13521,747977,11,45482693,76,2,5340,89',0,0,Djenaba Baradji (Mali) Substitution at 89',Djenaba Baradji Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,406567.0,2025-07-19 04:39:36
+13521,747977,12,45482696,70,2,5340,89',1,0,Kenza Chapelle (Morocco) Goal at 89',Kenza Chapelle Goal,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,347122.0,2025-07-19 04:39:36
+13521,747977,11,45482693,76,2,5340,89',0,0,Djenaba Baradji (Mali) Substitution at 89',Djenaba Baradji Substitution,21129,0.0,0.0,0.0,0.0,0.0,0.0,2,392983.0,2025-07-19 04:39:36
+13521,747977,14,45482702,98,2,5400,90'+7',1,0,Aïssata Traoré (Mali) Penalty - Scored at 97',Aïssata Traoré Penalty - Scored,21129,0.0,0.0,0.0,0.0,0.0,0.0,1,347112.0,2025-07-19 04:39:36
+13521,747977,13,45482698,76,2,5400,90'+1',0,0,Imene El Ghazouani (Morocco) Substitution at 91',Imene El Ghazouani Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,406766.0,2025-07-19 04:39:36
+13521,747977,13,45482698,76,2,5400,90'+1',0,0,Imene El Ghazouani (Morocco) Substitution at 91',Imene El Ghazouani Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,351883.0,2025-07-19 04:39:36
+13521,747978,1,45485601,94,1,840,14',0,0,Princess  (Ghana) Yellow Card at 14',Princess  Yellow Card,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-07-20 04:36:58
+13521,747978,3,45485656,76,2,3600,60',0,0,Laura Muller (Algeria) Substitution at 60',Laura Muller Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,350116.0,2025-07-20 04:36:58
+13521,747978,4,45485657,76,2,3600,60',0,0,Wassila Alouache (Algeria) Substitution at 60',Wassila Alouache Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,406709.0,2025-07-20 04:36:58
+13521,747978,2,45485655,76,2,3600,60',0,0,Morgane Ikene (Algeria) Substitution at 60',Morgane Ikene Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,406719.0,2025-07-20 04:36:58
+13521,747978,4,45485657,76,2,3600,60',0,0,Wassila Alouache (Algeria) Substitution at 60',Wassila Alouache Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,349859.0,2025-07-20 04:36:58
+13521,747978,2,45485655,76,2,3600,60',0,0,Morgane Ikene (Algeria) Substitution at 60',Morgane Ikene Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,366734.0,2025-07-20 04:36:58
+13521,747978,3,45485656,76,2,3600,60',0,0,Laura Muller (Algeria) Substitution at 60',Laura Muller Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,353007.0,2025-07-20 04:36:58
+13521,747978,5,45485660,94,2,4020,67',0,0,Portia Boakye (Ghana) Yellow Card at 67',Portia Boakye Yellow Card,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,267429.0,2025-07-20 04:36:58
+13521,747978,6,45485664,94,2,4200,70',0,0,Marine Dafeur (Algeria) Yellow Card at 70',Marine Dafeur Yellow Card,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,347079.0,2025-07-20 04:36:58
+13521,747978,7,45485679,76,2,4440,74',0,0,Evelyn Badu (Ghana) Substitution at 74',Evelyn Badu Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,381615.0,2025-07-20 04:36:58
+13521,747978,7,45485679,76,2,4440,74',0,0,Evelyn Badu (Ghana) Substitution at 74',Evelyn Badu Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,387274.0,2025-07-20 04:36:58
+13521,747978,8,45485687,94,2,4800,80',0,0,Ines Boutaleb (Algeria) Yellow Card at 80',Ines Boutaleb Yellow Card,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,406547.0,2025-07-20 04:36:58
+13521,747978,9,45485691,76,2,4920,82',0,0,Princella Adobea (Ghana) Substitution at 82',Princella Adobea Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,259555.0,2025-07-20 04:36:58
+13521,747978,9,45485691,76,2,4920,82',0,0,Princella Adobea (Ghana) Substitution at 82',Princella Adobea Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-07-20 04:36:58
+13521,747978,10,45485758,76,3,5520,92',0,0,Nihed Naïli (Algeria) Substitution at 92',Nihed Naïli Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,406717.0,2025-07-20 04:36:58
+13521,747978,10,45485758,76,3,5520,92',0,0,Nihed Naïli (Algeria) Substitution at 92',Nihed Naïli Substitution,21302,0.0,0.0,0.0,0.0,0.0,0.0,2,406547.0,2025-07-20 04:36:58
+13521,747978,11,45485786,94,3,6000,100',0,0,Amira Braham (Algeria) Yellow Card at 100',Amira Braham Yellow Card,21302,0.0,0.0,0.0,0.0,0.0,0.0,1,387574.0,2025-07-20 04:36:58
+13521,747978,12,45485824,76,4,7200,120',0,0,Nancy Amoh (Ghana) Substitution at 120',Nancy Amoh Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,406705.0,2025-07-20 04:36:58
+13521,747978,12,45485824,76,4,7200,120',0,0,Nancy Amoh (Ghana) Substitution at 120',Nancy Amoh Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,303940.0,2025-07-20 04:36:58
+13521,747979,1,45486219,94,1,1980,33',0,0,Wolimata Ndiaye (Senegal) Yellow Card at 33',Wolimata Ndiaye Yellow Card,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406651.0,2025-07-20 04:36:58
+13521,747979,2,45486525,94,2,3360,56',0,0,Bineta Seck (Senegal) Yellow Card at 56',Bineta Seck Yellow Card,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406611.0,2025-07-20 04:36:58
+13521,747979,3,45486543,76,2,3480,58',0,0,Amogelang Motau (South Africa) Substitution at 58',Amogelang Motau Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,265463.0,2025-07-20 04:36:58
+13521,747979,3,45486543,76,2,3480,58',0,0,Amogelang Motau (South Africa) Substitution at 58',Amogelang Motau Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,288384.0,2025-07-20 04:36:58
+13521,747979,4,45486615,76,2,3960,66',0,0,Fatoumata Dramé (Senegal) Substitution at 66',Fatoumata Dramé Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406804.0,2025-07-20 04:36:58
+13521,747979,4,45486615,76,2,3960,66',0,0,Fatoumata Dramé (Senegal) Substitution at 66',Fatoumata Dramé Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,406617.0,2025-07-20 04:36:58
+13521,747979,5,45487045,76,3,5400,90',0,0,Nonhlanhla Mthandi (South Africa) Substitution at 90',Nonhlanhla Mthandi Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,394679.0,2025-07-20 04:36:58
+13521,747979,5,45487045,76,3,5400,90',0,0,Nonhlanhla Mthandi (South Africa) Substitution at 90',Nonhlanhla Mthandi Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,265463.0,2025-07-20 04:36:58
+13521,747979,6,45487095,76,3,5760,96',0,0,Hapsatou Diallo (Senegal) Substitution at 96',Hapsatou Diallo Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,370335.0,2025-07-20 04:36:58
+13521,747979,6,45487095,76,3,5760,96',0,0,Hapsatou Diallo (Senegal) Substitution at 96',Hapsatou Diallo Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,406614.0,2025-07-20 04:36:58
+13521,747979,7,45487142,76,3,6300,105',0,0,Gabriela Salgado (South Africa) Substitution at 105',Gabriela Salgado Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,255598.0,2025-07-20 04:36:58
+13521,747979,8,45487143,76,3,6300,105'+1',0,0,Bongeka Gamede (South Africa) Substitution at 106',Bongeka Gamede Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,287896.0,2025-07-20 04:36:58
+13521,747979,8,45487143,76,3,6300,105'+1',0,0,Bongeka Gamede (South Africa) Substitution at 106',Bongeka Gamede Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,238754.0,2025-07-20 04:36:58
+13521,747979,7,45487142,76,3,6300,105',0,0,Gabriela Salgado (South Africa) Substitution at 105',Gabriela Salgado Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,238756.0,2025-07-20 04:36:58
+13521,747979,9,45487348,76,4,7200,120',0,0,Méta Kandé (Senegal) Substitution at 120',Méta Kandé Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,1,406806.0,2025-07-20 04:36:58
+13521,747979,9,45487348,76,4,7200,120',0,0,Méta Kandé (Senegal) Substitution at 120',Méta Kandé Substitution,21823,0.0,0.0,0.0,0.0,0.0,0.0,2,406611.0,2025-07-20 04:36:58
+13522,747980,1,45500287,76,1,1560,26',0,0,Hildah Magaia (South Africa) Substitution at 26',Hildah Magaia Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,285102.0,2025-07-23 04:39:13
+13522,747980,1,45500287,76,1,1560,26',0,0,Hildah Magaia (South Africa) Substitution at 26',Hildah Magaia Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,284188.0,2025-07-23 04:39:13
+13522,747980,2,45500339,98,1,2700,45',1,0,Rasheedat Ajibade (Nigeria) Penalty - Scored at 45',Rasheedat Ajibade Penalty - Scor,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,284186.0,2025-07-23 04:39:13
+13522,747980,3,45500436,98,2,3600,60',1,0,Linda Motlhalo (South Africa) Penalty - Scored at 60',Linda Motlhalo Penalty - Scored,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,238754.0,2025-07-23 04:39:13
+13522,747980,4,45500447,76,2,3660,61',0,0,Noxolo Cesane (South Africa) Substitution at 61',Noxolo Cesane Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,298812.0,2025-07-23 04:39:13
+13522,747980,4,45500447,76,2,3660,61',0,0,Noxolo Cesane (South Africa) Substitution at 61',Noxolo Cesane Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,238756.0,2025-07-23 04:39:13
+13522,747980,5,45500463,76,2,3840,64',0,0,Christy Ucheibe (Nigeria) Substitution at 64',Christy Ucheibe Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,328066.0,2025-07-23 04:39:13
+13522,747980,5,45500463,76,2,3840,64',0,0,Christy Ucheibe (Nigeria) Substitution at 64',Christy Ucheibe Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,292902.0,2025-07-23 04:39:13
+13522,747980,6,45500532,94,2,4500,75',0,0,Halimatu Ayinde (Nigeria) Yellow Card at 75',Halimatu Ayinde Yellow Card,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,219969.0,2025-07-23 04:39:13
+13522,747980,7,45500569,76,2,4860,81',0,0,Deborah Abiodun (Nigeria) Substitution at 81',Deborah Abiodun Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,349550.0,2025-07-23 04:39:13
+13522,747980,7,45500569,76,2,4860,81',0,0,Deborah Abiodun (Nigeria) Substitution at 81',Deborah Abiodun Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,219969.0,2025-07-23 04:39:13
+13522,747980,8,45500617,76,2,5340,89',0,0,Sibulele Holweni (South Africa) Substitution at 89',Sibulele Holweni Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,288384.0,2025-07-23 04:39:13
+13522,747980,8,45500617,76,2,5340,89',0,0,Sibulele Holweni (South Africa) Substitution at 89',Sibulele Holweni Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,255598.0,2025-07-23 04:39:13
+13522,747980,9,45500637,70,2,5400,90'+4',1,0,Michelle Alozie (Nigeria) Goal at 94',Michelle Alozie Goal,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,225731.0,2025-07-23 04:39:13
+13522,747980,10,45500653,94,2,5400,90'+7',0,0,Chinwendu Ihezuo (Nigeria) Yellow Card at 97',Chinwendu Ihezuo Yellow Card,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,220191.0,2025-07-23 04:39:13
+13522,747980,11,45500654,76,2,5400,90'+9',0,0,Sikiratu Isah (Nigeria) Substitution at 99',Sikiratu Isah Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,1,397153.0,2025-07-23 04:39:13
+13522,747980,11,45500654,76,2,5400,90'+9',0,0,Sikiratu Isah (Nigeria) Substitution at 99',Sikiratu Isah Substitution,2761,0.0,0.0,0.0,0.0,0.0,0.0,2,220191.0,2025-07-23 04:39:13
+13522,747981,1,45501186,70,1,1560,26',1,0,Stella Nyamekye (Ghana) Goal at 26',Stella Nyamekye Goal,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,387274.0,2025-07-23 04:39:13
+13522,747981,2,45501239,76,1,2160,36',0,0,Najat Badri (Morocco) Substitution at 36',Najat Badri Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329932.0,2025-07-23 04:39:13
+13522,747981,2,45501239,76,1,2160,36',0,0,Najat Badri (Morocco) Substitution at 36',Najat Badri Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,328118.0,2025-07-23 04:39:13
+13522,747981,3,45501260,94,1,2580,43',0,0,Mssoudy Sanaa (Morocco) Yellow Card at 43',Mssoudy Sanaa Yellow Card,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329942.0,2025-07-23 04:39:13
+13522,747981,4,45501473,70,2,3300,55',1,0,Sakina Ouzraoui (Morocco) Goal at 55',Sakina Ouzraoui Goal,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,351883.0,2025-07-23 04:39:13
+13522,747981,5,45501519,76,2,3480,58',0,0,Alice Kusi (Ghana) Substitution at 58',Alice Kusi Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,259560.0,2025-07-23 04:39:13
+13522,747981,5,45501519,76,2,3480,58',0,0,Alice Kusi (Ghana) Substitution at 58',Alice Kusi Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,,2025-07-23 04:39:13
+13522,747981,6,45501556,94,2,3720,62',0,0,Ghizlane Chebbak (Morocco) Yellow Card at 62',Ghizlane Chebbak Yellow Card,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329941.0,2025-07-23 04:39:13
+13522,747981,7,45501607,76,2,4260,71',0,0,Princella Adobea (Ghana) Substitution at 71',Princella Adobea Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,259555.0,2025-07-23 04:39:13
+13522,747981,7,45501607,76,2,4260,71',0,0,Princella Adobea (Ghana) Substitution at 71',Princella Adobea Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,387269.0,2025-07-23 04:39:13
+13522,747981,8,45501699,94,2,4920,82',0,0,Chantelle Boye-Hlorkah (Ghana) Yellow Card at 82',Chantelle Boye-Hlorkah Yellow Ca,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,312483.0,2025-07-23 04:39:13
+13522,747981,9,45501739,76,2,5340,89',0,0,Evelyn Badu (Ghana) Substitution at 89',Evelyn Badu Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,381615.0,2025-07-23 04:39:13
+13522,747981,9,45501739,76,2,5340,89',0,0,Evelyn Badu (Ghana) Substitution at 89',Evelyn Badu Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,387274.0,2025-07-23 04:39:13
+13522,747981,10,45501772,76,3,5400,90',0,0,Imane Saoud (Morocco) Substitution at 90',Imane Saoud Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,350964.0,2025-07-23 04:39:13
+13522,747981,11,45501773,76,3,5400,90',0,0,Fatima Tagnaout (Morocco) Substitution at 90',Fatima Tagnaout Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329943.0,2025-07-23 04:39:13
+13522,747981,10,45501772,76,3,5400,90',0,0,Imane Saoud (Morocco) Substitution at 90',Imane Saoud Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,351883.0,2025-07-23 04:39:13
+13522,747981,11,45501773,76,3,5400,90',0,0,Fatima Tagnaout (Morocco) Substitution at 90',Fatima Tagnaout Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,329942.0,2025-07-23 04:39:13
+13522,747981,12,45501801,76,3,6120,102',0,0,Sherifatu Sumaila (Ghana) Substitution at 102',Sherifatu Sumaila Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,354945.0,2025-07-23 04:39:13
+13522,747981,12,45501801,76,3,6120,102',0,0,Sherifatu Sumaila (Ghana) Substitution at 102',Sherifatu Sumaila Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,312483.0,2025-07-23 04:39:13
+13522,747981,13,45501817,76,3,6300,105',0,0,Sarah Kassi (Morocco) Substitution at 105',Sarah Kassi Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,347208.0,2025-07-23 04:39:13
+13522,747981,14,45501818,76,3,6300,105',0,0,Anissa Lahmari (Morocco) Substitution at 105',Anissa Lahmari Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,295676.0,2025-07-23 04:39:13
+13522,747981,13,45501817,76,3,6300,105',0,0,Sarah Kassi (Morocco) Substitution at 105',Sarah Kassi Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,348933.0,2025-07-23 04:39:13
+13522,747981,14,45501818,76,3,6300,105',0,0,Anissa Lahmari (Morocco) Substitution at 105',Anissa Lahmari Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,329941.0,2025-07-23 04:39:13
+13522,747981,15,45501866,94,4,6840,114',0,0,Hanane Aït El Haj (Morocco) Yellow Card at 114',Hanane Aït El Haj Yellow Card,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,329927.0,2025-07-23 04:39:13
+13522,747981,16,45501867,76,4,6960,116',0,0,Kenza Chapelle (Morocco) Substitution at 116',Kenza Chapelle Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,1,347122.0,2025-07-23 04:39:13
+13522,747981,16,45501867,76,4,6960,116',0,0,Kenza Chapelle (Morocco) Substitution at 116',Kenza Chapelle Substitution,18221,0.0,0.0,0.0,0.0,0.0,0.0,2,329943.0,2025-07-23 04:39:13
+13523,747982,1,45514826,70,1,2700,45',1,0,Nonhlanhla Mthandi (South Africa) Goal at 45',Nonhlanhla Mthandi Goal,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,394679.0,2025-07-26 04:40:39
+13523,747982,2,45514917,76,2,2700,45',0,0,Kgaelebane Mohlakoana (South Africa) Substitution at 45',Kgaelebane Mohlakoana Substituti,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,270061.0,2025-07-26 04:40:39
+13523,747982,4,45514921,76,2,2700,45',0,0,Evelyn Badu (Ghana) Substitution at 45',Evelyn Badu Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,381615.0,2025-07-26 04:40:39
+13523,747982,5,45514922,76,2,2700,45',0,0,Princella Adobea (Ghana) Substitution at 45',Princella Adobea Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,259555.0,2025-07-26 04:40:39
+13523,747982,3,45514920,76,2,2700,45',0,0,Refiloe Jane (South Africa) Substitution at 45',Refiloe Jane Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,176029.0,2025-07-26 04:40:39
+13523,747982,2,45514917,76,2,2700,45',0,0,Kgaelebane Mohlakoana (South Africa) Substitution at 45',Kgaelebane Mohlakoana Substituti,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,394679.0,2025-07-26 04:40:39
+13523,747982,3,45514920,76,2,2700,45',0,0,Refiloe Jane (South Africa) Substitution at 45',Refiloe Jane Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,270064.0,2025-07-26 04:40:39
+13523,747982,5,45514922,76,2,2700,45',0,0,Princella Adobea (Ghana) Substitution at 45',Princella Adobea Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,387269.0,2025-07-26 04:40:39
+13523,747982,4,45514921,76,2,2700,45',0,0,Evelyn Badu (Ghana) Substitution at 45',Evelyn Badu Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,387274.0,2025-07-26 04:40:39
+13523,747982,6,45514936,94,2,3600,60',0,0,Chantelle Boye-Hlorkah (Ghana) Yellow Card at 60',Chantelle Boye-Hlorkah Yellow Ca,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,312483.0,2025-07-26 04:40:39
+13523,747982,7,45514937,76,2,3600,60',0,0,Anasthesia Achiaa (Ghana) Substitution at 60',Anasthesia Achiaa Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,387270.0,2025-07-26 04:40:39
+13523,747982,7,45514937,76,2,3600,60',0,0,Anasthesia Achiaa (Ghana) Substitution at 60',Anasthesia Achiaa Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,406703.0,2025-07-26 04:40:39
+13523,747982,8,45514941,94,2,3780,63',0,0,Kgaelebane Mohlakoana (South Africa) Yellow Card at 63',Kgaelebane Mohlakoana Yellow Car,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,270061.0,2025-07-26 04:40:39
+13523,747982,9,45514947,97,2,4080,68',1,0,Andile Dlamini (South Africa) Own Goal at 68',Andile Dlamini Own Goal,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,176020.0,2025-07-26 04:40:39
+13523,747982,10,45514951,94,2,4200,70',0,0,Susan Duah (Ghana) Yellow Card at 70',Susan Duah Yellow Card,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,387271.0,2025-07-26 04:40:39
+13523,747982,11,45514954,94,2,4860,81',0,0,Portia Boakye (Ghana) Yellow Card at 81',Portia Boakye Yellow Card,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,267429.0,2025-07-26 04:40:39
+13523,747982,12,45514956,76,2,5040,84',0,0,Ronnel Donnelly (South Africa) Substitution at 84',Ronnel Donnelly Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,1,406886.0,2025-07-26 04:40:39
+13523,747982,13,45514957,76,2,5040,84',0,0,Louisa Aniwaa (Ghana) Substitution at 84',Louisa Aniwaa Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,406702.0,2025-07-26 04:40:39
+13523,747982,12,45514956,76,2,5040,84',0,0,Ronnel Donnelly (South Africa) Substitution at 84',Ronnel Donnelly Substitution,13313,0.0,0.0,0.0,0.0,0.0,0.0,2,298812.0,2025-07-26 04:40:39
+13523,747982,13,45514957,76,2,5040,84',0,0,Louisa Aniwaa (Ghana) Substitution at 84',Louisa Aniwaa Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,387271.0,2025-07-26 04:40:39
+13523,747982,14,45514961,76,2,5400,90'+6',0,0,Nancy Amoh (Ghana) Substitution at 96',Nancy Amoh Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,1,406705.0,2025-07-26 04:40:39
+13523,747982,14,45514961,76,2,5400,90'+6',0,0,Nancy Amoh (Ghana) Substitution at 96',Nancy Amoh Substitution,2757,0.0,0.0,0.0,0.0,0.0,0.0,2,282841.0,2025-07-26 04:40:39

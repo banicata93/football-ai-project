@@ -1,0 +1,41 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12813,715386,2,43536115,76,2,2700,45',0,0,Sergi Domínguez (Barcelona) Substitution at 45',Sergi Domínguez Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,388284,2024-08-13 09:21:46
+12813,715386,1,43536114,76,2,2700,45',0,0,Ilkay Gündogan (Barcelona) Substitution at 45',Ilkay Gündogan Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,131424,2024-08-13 09:21:46
+12813,715386,1,43536114,76,2,2700,45',0,0,Ilkay Gündogan (Barcelona) Substitution at 45',Ilkay Gündogan Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,206110,2024-08-13 09:21:46
+12813,715386,2,43536115,76,2,2700,45',0,0,Sergi Domínguez (Barcelona) Substitution at 45',Sergi Domínguez Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,186430,2024-08-13 09:21:46
+12813,715386,3,43536136,70,2,3000,50',1,0,Lamine Camara (AS Monaco) Goal at 50',Lamine Camara Goal,174,0.0,0.0,0.0,0.0,0.0,0.0,1,38721,2024-08-13 09:21:46
+12813,715386,4,43536190,70,2,3420,57',1,0,Breel Embolo (AS Monaco) Goal at 57',Breel Embolo Goal,174,0.0,0.0,0.0,0.0,0.0,0.0,1,202099,2024-08-13 09:21:46
+12813,715386,5,43536289,76,2,4020,67',0,0,Ferran Torres (Barcelona) Substitution at 67',Ferran Torres Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,265869,2024-08-13 09:21:46
+12813,715386,5,43536289,76,2,4020,67',0,0,Ferran Torres (Barcelona) Substitution at 67',Ferran Torres Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,131424,2024-08-13 09:21:46
+12813,715386,7,43536291,76,2,4080,68',0,0,Hector Fort (Barcelona) Substitution at 68',Hector Fort Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,363039,2024-08-13 09:21:46
+12813,715386,8,43536292,76,2,4080,68',0,0,Gerard (Barcelona) Substitution at 68',Gerard Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,312015,2024-08-13 09:21:46
+12813,715386,6,43536290,76,2,4080,68',0,0,Lamine Yamal (Barcelona) Substitution at 68',Lamine Yamal Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,362150,2024-08-13 09:21:46
+12813,715386,7,43536291,76,2,4080,68',0,0,Hector Fort (Barcelona) Substitution at 68',Hector Fort Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,231692,2024-08-13 09:21:46
+12813,715386,8,43536292,76,2,4080,68',0,0,Gerard (Barcelona) Substitution at 68',Gerard Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,323703,2024-08-13 09:21:46
+12813,715386,6,43536290,76,2,4080,68',0,0,Lamine Yamal (Barcelona) Substitution at 68',Lamine Yamal Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,125824,2024-08-13 09:21:46
+12813,715386,9,43536345,76,2,4560,76',0,0,George Ilenikhena (AS Monaco) Substitution at 76',George Ilenikhena Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,1,357108,2024-08-13 09:21:46
+12813,715386,9,43536345,76,2,4560,76',0,0,George Ilenikhena (AS Monaco) Substitution at 76',George Ilenikhena Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,202099,2024-08-13 09:21:46
+12813,715386,11,43536347,76,2,4620,77',0,0,Caio Henrique (AS Monaco) Substitution at 77',Caio Henrique Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,1,240353,2024-08-13 09:21:46
+12813,715386,10,43536346,76,2,4620,77',0,0,Iñaki Peña (Barcelona) Substitution at 77',Iñaki Peña Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,282680,2024-08-13 09:21:46
+12813,715386,10,43536346,76,2,4620,77',0,0,Iñaki Peña (Barcelona) Substitution at 77',Iñaki Peña Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,140740,2024-08-13 09:21:46
+12813,715386,11,43536347,76,2,4620,77',0,0,Caio Henrique (AS Monaco) Substitution at 77',Caio Henrique Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,346947,2024-08-13 09:21:46
+12813,715386,14,43536388,76,2,4860,81',0,0,Saïmon Bouabré (AS Monaco) Substitution at 81',Saïmon Bouabré Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,1,371472,2024-08-13 09:21:46
+12813,715386,12,43536373,76,2,4860,81',0,0,Edan Diop (AS Monaco) Substitution at 81',Edan Diop Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,1,345645,2024-08-13 09:21:46
+12813,715386,13,43536387,76,2,4860,81',0,0,Christian Mawissa (AS Monaco) Substitution at 81',Christian Mawissa Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,1,350525,2024-08-13 09:21:46
+12813,715386,13,43536387,76,2,4860,81',0,0,Christian Mawissa (AS Monaco) Substitution at 81',Christian Mawissa Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,310640,2024-08-13 09:21:46
+12813,715386,12,43536373,76,2,4860,81',0,0,Edan Diop (AS Monaco) Substitution at 81',Edan Diop Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,38721,2024-08-13 09:21:46
+12813,715386,14,43536388,76,2,4860,81',0,0,Saïmon Bouabré (AS Monaco) Substitution at 81',Saïmon Bouabré Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,159348,2024-08-13 09:21:46
+12813,715386,13,43536387,76,2,4860,81',0,0,Christian Mawissa (AS Monaco) Substitution at 81',Christian Mawissa Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,183576,2024-08-13 09:21:46
+12813,715386,15,43536417,70,2,5160,86',1,0,Christian Mawissa (AS Monaco) Goal at 86',Christian Mawissa Goal,174,0.0,0.0,0.0,0.0,0.0,0.0,1,350525,2024-08-13 09:21:46
+12813,715386,16,43536435,76,2,5280,88',0,0,Toni Fernández (Barcelona) Substitution at 88',Toni Fernández Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,388285,2024-08-13 09:21:46
+12813,715386,18,43536486,76,2,5280,88',0,0,Eliot Matazo (AS Monaco) Substitution at 88',Eliot Matazo Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,1,306055,2024-08-13 09:21:46
+12813,715386,17,43536447,76,2,5280,88',0,0,Quim Junyent (Barcelona) Substitution at 88',Quim Junyent Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,1,376425,2024-08-13 09:21:46
+12813,715386,18,43536486,76,2,5280,88',0,0,Eliot Matazo (AS Monaco) Substitution at 88',Eliot Matazo Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,222628,2024-08-13 09:21:46
+12813,715386,17,43536447,76,2,5280,88',0,0,Quim Junyent (Barcelona) Substitution at 88',Quim Junyent Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,231050,2024-08-13 09:21:46
+12813,715386,17,43536447,76,2,5280,88',0,0,Quim Junyent (Barcelona) Substitution at 88',Quim Junyent Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,339862,2024-08-13 09:21:46
+12813,715386,16,43536435,76,2,5280,88',0,0,Toni Fernández (Barcelona) Substitution at 88',Toni Fernández Substitution,83,0.0,0.0,0.0,0.0,0.0,0.0,2,376423,2024-08-13 09:21:46
+12813,715386,21,43536498,94,2,5400,90'+4',0,0,Mohammed Salisu (AS Monaco) Yellow Card at 94',Mohammed Salisu Yellow Card,174,0.0,0.0,0.0,0.0,0.0,0.0,1,277718,2024-08-13 09:21:46
+12813,715386,19,43536496,76,2,5400,90'+3',0,0,Kassoum Ouattara (AS Monaco) Substitution at 93',Kassoum Ouattara Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,1,345243,2024-08-13 09:21:46
+12813,715386,20,43536497,76,2,5400,90'+3',0,0,Lucas Michel (AS Monaco) Substitution at 93',Lucas Michel Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,1,356651,2024-08-13 09:21:46
+12813,715386,19,43536496,76,2,5400,90'+3',0,0,Kassoum Ouattara (AS Monaco) Substitution at 93',Kassoum Ouattara Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,268796,2024-08-13 09:21:46
+12813,715386,20,43536497,76,2,5400,90'+3',0,0,Lucas Michel (AS Monaco) Substitution at 93',Lucas Michel Substitution,174,0.0,0.0,0.0,0.0,0.0,0.0,2,282643,2024-08-13 09:21:46

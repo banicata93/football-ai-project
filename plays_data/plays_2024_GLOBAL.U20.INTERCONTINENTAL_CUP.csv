@@ -1,0 +1,16 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+12836,716631,1,43612787,70,Argyrios Liatsikouras (Olympiacos U20) Goal at 54',Argyrios Liatsikouras Goal,2,3240,54',22331,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,387675,Argyrios Liatsikouras,2024-08-29 05:44:27
+12836,716631,2,43613030,76,Jean Carlos (Flamengo S20) Substitution at 61',Jean Carlos Substitution,2,3660,61',18467,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,343844,Jean Carlos,2024-09-01 05:45:08
+12836,716631,3,43613031,76,Caio Vinicius (Flamengo S20) Substitution at 61',Caio Vinicius Substitution,2,3660,61',18467,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,358161,Caio Vinicius,2024-09-01 05:45:08
+12836,716631,2,43613030,76,Jean Carlos (Flamengo S20) Substitution at 61',Jean Carlos Substitution,2,3660,61',18467,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,338951,José Welinton,2024-09-01 05:45:08
+12836,716631,3,43613031,76,Caio Vinicius (Flamengo S20) Substitution at 61',Caio Vinicius Substitution,2,3660,61',18467,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,387686,João Alves,2024-09-01 05:45:08
+12836,716631,4,43613132,76,Felipe Teresa (Flamengo S20) Substitution at 65',Felipe Teresa Substitution,2,3900,65',18467,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,382846,Felipe Teresa,2024-09-01 05:45:08
+12836,716631,4,43613132,76,Felipe Teresa (Flamengo S20) Substitution at 65',Felipe Teresa Substitution,2,3900,65',18467,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,379497,Guilherme Henrique Bernardineli Gomes,2024-09-01 05:45:08
+12836,716631,5,43613175,94,Theofanis Bakoulas (Olympiacos U20) Yellow Card at 68',Theofanis Bakoulas Yellow Card,2,4080,68',22331,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,387654,Theofanis Bakoulas,2024-08-29 05:44:27
+12836,716631,6,43613304,70,Caio Vinicius (Flamengo S20) Goal at 73',Caio Vinicius Goal,2,4380,73',18467,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,358161,Caio Vinicius,2024-09-01 05:45:08
+12836,716631,7,43613701,76,Da Mata (Flamengo S20) Substitution at 86',Da Mata Substitution,2,5160,86',18467,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,371495,Da Mata,2024-09-01 05:45:08
+12836,716631,8,43613702,76,Adriel (Flamengo S20) Substitution at 86',Adriel Substitution,2,5160,86',18467,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388806,Adriel,2024-09-01 05:45:08
+12836,716631,7,43613701,76,Da Mata (Flamengo S20) Substitution at 86',Da Mata Substitution,2,5160,86',18467,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,357115,Daniel Sales,2024-09-01 05:45:08
+12836,716631,8,43613702,76,Adriel (Flamengo S20) Substitution at 86',Adriel Substitution,2,5160,86',18467,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,382847,Shola Ogundana,2024-09-01 05:45:08
+12836,716631,9,43613854,70,Felipe Teresa (Flamengo S20) Goal at 92',Felipe Teresa Goal,2,5400,90'+2',18467,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,382846,Felipe Teresa,2024-09-01 05:45:08
+12836,716631,10,43613883,94,Felipe Teresa (Flamengo S20) Yellow Card at 92',Felipe Teresa Yellow Card,2,5400,90'+2',18467,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,382846,Felipe Teresa,2024-09-01 05:45:08

@@ -1,0 +1,24 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13504,743268,1,45611078,70,1,240,4',1,0,Hugo Ekitike (Liverpool) Goal at 4',Hugo Ekitike Goal,364,0.0,0.0,0.0,0.0,0.0,0.0,1,304901,2025-08-11 04:43:12
+13504,743268,2,45611163,98,1,1020,17',1,0,Jean-Philippe Mateta (Crystal Palace) Penalty - Scored at 17',Jean-Philippe Mateta Penalty - S,384,0.0,0.0,0.0,0.0,0.0,0.0,1,241187,2025-08-11 04:43:12
+13504,743268,3,45611203,70,1,1260,21',1,0,Jeremie Frimpong (Liverpool) Goal at 21',Jeremie Frimpong Goal,364,0.0,0.0,0.0,0.0,0.0,0.0,1,281119,2025-08-11 04:43:12
+13504,743268,4,45611253,76,1,1740,29',0,0,Will Hughes (Crystal Palace) Substitution at 29',Will Hughes Substitution,384,0.0,0.0,0.0,0.0,0.0,0.0,1,168421,2025-08-11 04:43:12
+13504,743268,4,45611253,76,1,1740,29',0,0,Will Hughes (Crystal Palace) Substitution at 29',Will Hughes Substitution,384,0.0,0.0,0.0,0.0,0.0,0.0,2,219362,2025-08-11 04:43:12
+13504,743268,5,45611472,94,1,2580,43',0,0,Ibrahima Konaté (Liverpool) Yellow Card at 43',Ibrahima Konaté Yellow Card,364,0.0,0.0,0.0,0.0,0.0,0.0,1,251634,2025-08-11 04:43:12
+13504,743268,6,45611502,94,1,2640,44',0,0,Florian Wirtz (Liverpool) Yellow Card at 44',Florian Wirtz Yellow Card,364,0.0,0.0,0.0,0.0,0.0,0.0,1,303748,2025-08-11 04:43:12
+13504,743268,7,45611944,76,2,4260,71',0,0,Wataru Endo (Liverpool) Substitution at 71',Wataru Endo Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,152479,2025-08-11 04:43:12
+13504,743268,8,45611945,76,2,4260,71',0,0,Alexis Mac Allister (Liverpool) Substitution at 71',Alexis Mac Allister Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,249299,2025-08-11 04:43:12
+13504,743268,8,45611945,76,2,4260,71',0,0,Alexis Mac Allister (Liverpool) Substitution at 71',Alexis Mac Allister Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,304901,2025-08-11 04:43:12
+13504,743268,7,45611944,76,2,4260,71',0,0,Wataru Endo (Liverpool) Substitution at 71',Wataru Endo Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,190257,2025-08-11 04:43:12
+13504,743268,9,45612001,70,2,4620,77',1,0,Ismaïla Sarr (Crystal Palace) Goal at 77',Ismaïla Sarr Goal,384,0.0,0.0,0.0,0.0,0.0,0.0,1,241012,2025-08-11 04:43:12
+13504,743268,10,45612010,76,2,4740,79',0,0,Borna Sosa (Crystal Palace) Substitution at 79',Borna Sosa Substitution,384,0.0,0.0,0.0,0.0,0.0,0.0,1,228319,2025-08-11 04:43:12
+13504,743268,10,45612010,76,2,4740,79',0,0,Borna Sosa (Crystal Palace) Substitution at 79',Borna Sosa Substitution,384,0.0,0.0,0.0,0.0,0.0,0.0,2,300853,2025-08-11 04:43:12
+13504,743268,12,45612098,76,2,5040,84',0,0,Andrew Robertson (Liverpool) Substitution at 84',Andrew Robertson Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,104943,2025-08-11 04:43:12
+13504,743268,11,45612097,76,2,5040,84',0,0,Harvey Elliott (Liverpool) Substitution at 84',Harvey Elliott Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,1,280806,2025-08-11 04:43:12
+13504,743268,12,45612098,76,2,5040,84',0,0,Andrew Robertson (Liverpool) Substitution at 84',Andrew Robertson Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,323110,2025-08-11 04:43:12
+13504,743268,11,45612097,76,2,5040,84',0,0,Harvey Elliott (Liverpool) Substitution at 84',Harvey Elliott Substitution,364,0.0,0.0,0.0,0.0,0.0,0.0,2,303748,2025-08-11 04:43:12
+13504,743268,13,45612099,76,2,5100,85',0,0,Jefferson Lerma (Crystal Palace) Substitution at 85',Jefferson Lerma Substitution,384,0.0,0.0,0.0,0.0,0.0,0.0,1,197399,2025-08-11 04:43:12
+13504,743268,13,45612099,76,2,5100,85',0,0,Jefferson Lerma (Crystal Palace) Substitution at 85',Jefferson Lerma Substitution,384,0.0,0.0,0.0,0.0,0.0,0.0,2,333419,2025-08-11 04:43:12
+13504,743268,14,45612117,94,2,5220,87',0,0,Mohamed Salah (Liverpool) Yellow Card at 87',Mohamed Salah Yellow Card,364,0.0,0.0,0.0,0.0,0.0,0.0,1,173896,2025-08-11 04:43:12
+13504,743268,15,45612157,76,2,5400,90'+4',0,0,Justin Devenny (Crystal Palace) Substitution at 94',Justin Devenny Substitution,384,0.0,0.0,0.0,0.0,0.0,0.0,1,291468,2025-08-11 04:43:12
+13504,743268,15,45612157,76,2,5400,90'+4',0,0,Justin Devenny (Crystal Palace) Substitution at 94',Justin Devenny Substitution,384,0.0,0.0,0.0,0.0,0.0,0.0,2,265907,2025-08-11 04:43:12

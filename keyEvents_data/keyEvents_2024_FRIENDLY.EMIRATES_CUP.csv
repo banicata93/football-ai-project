@@ -1,0 +1,37 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12702,707416,1,43529003,70,1,540,9',1,0,William Saliba (Arsenal) Goal at 9',William Saliba Goal,359,0.0,0.0,0.0,0.0,0.0,0.0,1,277385,2024-08-12 09:38:32
+12702,707416,2,43529128,70,1,1620,27',1,0,Gabriel Magalhães (Arsenal) Goal at 27',Gabriel Magalhães Goal,359,0.0,0.0,0.0,0.0,0.0,0.0,1,236322,2024-08-12 09:38:32
+12702,707416,4,43529480,76,2,3840,64',0,0,Gabriel Jesus (Arsenal) Substitution at 64',Gabriel Jesus Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,217289,2024-08-12 09:38:32
+12702,707416,3,43529479,76,2,3840,64',0,0,Riccardo Calafiori (Arsenal) Substitution at 64',Riccardo Calafiori Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,298329,2024-08-12 09:38:32
+12702,707416,3,43529479,76,2,3840,64',0,0,Riccardo Calafiori (Arsenal) Substitution at 64',Riccardo Calafiori Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,217482,2024-08-12 09:38:32
+12702,707416,4,43529480,76,2,3840,64',0,0,Gabriel Jesus (Arsenal) Substitution at 64',Gabriel Jesus Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,238262,2024-08-12 09:38:32
+12702,707416,5,43529481,76,2,3900,65',0,0,Mama Baldé (Lyon) Substitution at 65',Mama Baldé Substitution,167,0.0,0.0,0.0,0.0,0.0,0.0,1,259960,2024-08-12 09:38:32
+12702,707416,8,43529484,76,2,3900,65',0,0,Mahamadou Diawara (Lyon) Substitution at 65',Mahamadou Diawara Substitution,167,0.0,0.0,0.0,0.0,0.0,0.0,1,133319,2024-08-12 09:38:32
+12702,707416,6,43529482,76,2,3900,65',0,0,Ernest Nuamah (Lyon) Substitution at 65',Ernest Nuamah Substitution,167,0.0,0.0,0.0,0.0,0.0,0.0,1,333310,2024-08-12 09:38:32
+12702,707416,7,43529483,76,2,3900,65',0,0,Gift Orban (Lyon) Substitution at 65',Gift Orban Substitution,167,0.0,0.0,0.0,0.0,0.0,0.0,1,356402,2024-08-12 09:38:32
+12702,707416,5,43529481,76,2,3900,65',0,0,Mama Baldé (Lyon) Substitution at 65',Mama Baldé Substitution,167,0.0,0.0,0.0,0.0,0.0,0.0,2,194543,2024-08-12 09:38:32
+12702,707416,8,43529484,76,2,3900,65',0,0,Mahamadou Diawara (Lyon) Substitution at 65',Mahamadou Diawara Substitution,167,0.0,0.0,0.0,0.0,0.0,0.0,2,265912,2024-08-12 09:38:32
+12702,707416,6,43529482,76,2,3900,65',0,0,Ernest Nuamah (Lyon) Substitution at 65',Ernest Nuamah Substitution,167,0.0,0.0,0.0,0.0,0.0,0.0,2,194072,2024-08-12 09:38:32
+12702,707416,6,43529482,76,2,3900,65',0,0,Ernest Nuamah (Lyon) Substitution at 65',Ernest Nuamah Substitution,167,0.0,0.0,0.0,0.0,0.0,0.0,2,285088,2024-08-12 09:38:32
+12702,707416,6,43529482,76,2,3900,65',0,0,Ernest Nuamah (Lyon) Substitution at 65',Ernest Nuamah Substitution,167,0.0,0.0,0.0,0.0,0.0,0.0,2,359217,2024-08-12 09:38:32
+12702,707416,7,43529483,76,2,3900,65',0,0,Gift Orban (Lyon) Substitution at 65',Gift Orban Substitution,167,0.0,0.0,0.0,0.0,0.0,0.0,2,300002,2024-08-12 09:38:32
+12702,707416,11,43529653,76,2,4620,77',0,0,Jorginho (Arsenal) Substitution at 77',Jorginho Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,165778,2024-08-12 09:38:32
+12702,707416,9,43529651,76,2,4620,77',0,0,Ethan Nwaneri (Arsenal) Substitution at 77',Ethan Nwaneri Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,349733,2024-08-12 09:38:32
+12702,707416,11,43529653,76,2,4620,77',0,0,Jorginho (Arsenal) Substitution at 77',Jorginho Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,188366,2024-08-12 09:38:32
+12702,707416,10,43529652,76,2,4620,77',0,0,Reiss Nelson (Arsenal) Substitution at 77',Reiss Nelson Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,227794,2024-08-12 09:38:32
+12702,707416,11,43529653,76,2,4620,77',0,0,Jorginho (Arsenal) Substitution at 77',Jorginho Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,215728,2024-08-12 09:38:32
+12702,707416,11,43529653,76,2,4620,77',0,0,Jorginho (Arsenal) Substitution at 77',Jorginho Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,222283,2024-08-12 09:38:32
+12702,707416,11,43529653,76,2,4620,77',0,0,Jorginho (Arsenal) Substitution at 77',Jorginho Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,379413,2024-08-12 09:38:32
+12702,707416,11,43529653,76,2,4620,77',0,0,Jorginho (Arsenal) Substitution at 77',Jorginho Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,357775,2024-08-12 09:38:32
+12702,707416,11,43529653,76,2,4620,77',0,0,Jorginho (Arsenal) Substitution at 77',Jorginho Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,233721,2024-08-12 09:38:32
+12702,707416,10,43529652,76,2,4620,77',0,0,Reiss Nelson (Arsenal) Substitution at 77',Reiss Nelson Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,280555,2024-08-12 09:38:32
+12702,707416,9,43529651,76,2,4620,77',0,0,Ethan Nwaneri (Arsenal) Substitution at 77',Ethan Nwaneri Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,231182,2024-08-12 09:38:32
+12702,707416,11,43529653,76,2,4620,77',0,0,Jorginho (Arsenal) Substitution at 77',Jorginho Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,189972,2024-08-12 09:38:32
+12702,707416,13,43529655,76,2,4680,78',0,0,Myles Lewis-Skelly (Arsenal) Substitution at 78',Myles Lewis-Skelly Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,352758,2024-08-12 09:38:32
+12702,707416,14,43529656,76,2,4680,78',0,0,Leandro Trossard (Arsenal) Substitution at 78',Leandro Trossard Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,174980,2024-08-12 09:38:32
+12702,707416,12,43529654,76,2,4680,78',0,0,Jakub Kiwior (Arsenal) Substitution at 78',Jakub Kiwior Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,1,304965,2024-08-12 09:38:32
+12702,707416,13,43529655,76,2,4680,78',0,0,Myles Lewis-Skelly (Arsenal) Substitution at 78',Myles Lewis-Skelly Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,236322,2024-08-12 09:38:32
+12702,707416,12,43529654,76,2,4680,78',0,0,Jakub Kiwior (Arsenal) Substitution at 78',Jakub Kiwior Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,277385,2024-08-12 09:38:32
+12702,707416,14,43529656,76,2,4680,78',0,0,Leandro Trossard (Arsenal) Substitution at 78',Leandro Trossard Substitution,359,0.0,0.0,0.0,0.0,0.0,0.0,2,269844,2024-08-12 09:38:32
+12702,707416,15,43529700,76,2,5100,85',0,0,Orel Mangala (Lyon) Substitution at 85',Orel Mangala Substitution,167,0.0,0.0,0.0,0.0,0.0,0.0,1,228424,2024-08-12 09:38:32
+12702,707416,15,43529700,76,2,5100,85',0,0,Orel Mangala (Lyon) Substitution at 85',Orel Mangala Substitution,167,0.0,0.0,0.0,0.0,0.0,0.0,2,192060,2024-08-12 09:38:32

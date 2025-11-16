@@ -1,0 +1,766 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12513,704223,1,43311911,70,1,420,7',1,0,Denys Shostak (Ukraine U23) Goal at 7',Denys Shostak Goal,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,308982.0,2024-06-17 04:37:19
+12513,704223,2,43311916,94,1,540,9',0,0,Valy Konaté (Ivory Coast U20) Yellow Card at 9',Valy Konaté Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384986.0,2024-06-17 04:37:19
+12513,704223,3,43311958,94,1,1320,22',0,0,Oleksandr Martynyuk (Ukraine U23) Yellow Card at 22',Oleksandr Martynyuk Yellow Card,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-17 04:37:19
+12513,704223,4,43312018,70,1,1860,31',1,0,Maksym Khlan (Ukraine U23) Goal at 31',Maksym Khlan Goal,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,317298.0,2024-06-17 04:37:19
+12513,704223,5,43312088,70,1,2700,45'+3',1,0,Vignon Ouotro (Ivory Coast U20) Goal at 48',Vignon Ouotro Goal,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384523.0,2024-06-17 04:37:19
+12513,704223,6,43312183,76,2,2700,45',0,0,Yehor Yarmoliuk (Ukraine U23) Substitution at 45',Yehor Yarmoliuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,342029.0,2024-06-17 04:37:19
+12513,704223,6,43312183,76,2,2700,45',0,0,Yehor Yarmoliuk (Ukraine U23) Substitution at 45',Yehor Yarmoliuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,384548.0,2024-06-17 04:37:19
+12513,704223,7,43312221,76,2,3360,56',0,0,Oleh Ocheretko (Ukraine U23) Substitution at 56',Oleh Ocheretko Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,338311.0,2024-06-17 04:37:19
+12513,704223,8,43312222,76,2,3360,56',0,0,Ihor Krasnopir (Ukraine U23) Substitution at 56',Ihor Krasnopir Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,370128.0,2024-06-17 04:37:19
+12513,704223,8,43312222,76,2,3360,56',0,0,Ihor Krasnopir (Ukraine U23) Substitution at 56',Ihor Krasnopir Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,288490.0,2024-06-17 04:37:19
+12513,704223,7,43312221,76,2,3360,56',0,0,Oleh Ocheretko (Ukraine U23) Substitution at 56',Oleh Ocheretko Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,308982.0,2024-06-17 04:37:19
+12513,704223,9,43312227,70,2,3540,59',1,0,Vignon Ouotro (Ivory Coast U20) Goal at 59',Vignon Ouotro Goal,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384523.0,2024-06-17 04:37:19
+12513,704223,10,43312285,94,2,4080,68',0,0,Vladyslav Veleten (Ukraine U23) Yellow Card at 68',Vladyslav Veleten Yellow Card,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,384983.0,2024-06-17 04:37:19
+12513,704223,11,43312319,76,2,4260,71',0,0,Bamba Goudouss (Ivory Coast U20) Substitution at 71',Bamba Goudouss Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384996.0,2024-06-17 04:37:19
+12513,704223,12,43312320,76,2,4260,71',0,0,Kyrylo Siheiev (Ukraine U23) Substitution at 71',Kyrylo Siheiev Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,340193.0,2024-06-17 04:37:19
+12513,704223,11,43312319,76,2,4260,71',0,0,Bamba Goudouss (Ivory Coast U20) Substitution at 71',Bamba Goudouss Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,385001.0,2024-06-17 04:37:19
+12513,704223,12,43312320,76,2,4260,71',0,0,Kyrylo Siheiev (Ukraine U23) Substitution at 71',Kyrylo Siheiev Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,384983.0,2024-06-17 04:37:19
+12513,704223,13,43312329,94,2,4380,73',0,0,Mohamed Koné (Ivory Coast U20) Yellow Card at 73',Mohamed Koné Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,396792.0,2024-06-17 04:37:19
+12513,704223,13,43312329,94,2,4380,73',0,0,Mohamed Koné (Ivory Coast U20) Yellow Card at 73',Mohamed Koné Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385417.0,2024-06-17 04:37:19
+12513,704223,13,43312329,94,2,4380,73',0,0,Mohamed Koné (Ivory Coast U20) Yellow Card at 73',Mohamed Koné Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385004.0,2024-06-17 04:37:19
+12513,704223,13,43312329,94,2,4380,73',0,0,Mohamed Koné (Ivory Coast U20) Yellow Card at 73',Mohamed Koné Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,377182.0,2024-06-17 04:37:19
+12513,704223,13,43312329,94,2,4380,73',0,0,Mohamed Koné (Ivory Coast U20) Yellow Card at 73',Mohamed Koné Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,323997.0,2024-06-17 04:37:19
+12513,704223,13,43312329,94,2,4380,73',0,0,Mohamed Koné (Ivory Coast U20) Yellow Card at 73',Mohamed Koné Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,221156.0,2024-06-17 04:37:19
+12513,704223,14,43312384,76,2,5040,84',0,0,Abdoulaye Djire (Ivory Coast U20) Substitution at 84',Abdoulaye Djire Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,40920.0,2024-06-17 04:37:19
+12513,704223,14,43312384,76,2,5040,84',0,0,Abdoulaye Djire (Ivory Coast U20) Substitution at 84',Abdoulaye Djire Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,323997.0,2024-06-17 04:37:19
+12513,704223,14,43312384,76,2,5040,84',0,0,Abdoulaye Djire (Ivory Coast U20) Substitution at 84',Abdoulaye Djire Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,377182.0,2024-06-17 04:37:19
+12513,704223,14,43312384,76,2,5040,84',0,0,Abdoulaye Djire (Ivory Coast U20) Substitution at 84',Abdoulaye Djire Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,221156.0,2024-06-17 04:37:19
+12513,704223,14,43312384,76,2,5040,84',0,0,Abdoulaye Djire (Ivory Coast U20) Substitution at 84',Abdoulaye Djire Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,385004.0,2024-06-17 04:37:19
+12513,704223,14,43312384,76,2,5040,84',0,0,Abdoulaye Djire (Ivory Coast U20) Substitution at 84',Abdoulaye Djire Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,385417.0,2024-06-17 04:37:19
+12513,704223,14,43312384,76,2,5040,84',0,0,Abdoulaye Djire (Ivory Coast U20) Substitution at 84',Abdoulaye Djire Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,396792.0,2024-06-17 04:37:19
+12513,704223,15,43312389,76,2,5220,87',0,0,Maksym Kucheriavyi (Ukraine U23) Substitution at 87',Maksym Kucheriavyi Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,321354.0,2024-06-17 04:37:19
+12513,704223,15,43312389,76,2,5220,87',0,0,Maksym Kucheriavyi (Ukraine U23) Substitution at 87',Maksym Kucheriavyi Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-06-17 04:37:19
+12513,704223,16,43312426,76,2,5400,90'+8',0,0,Cheick Koné (Ivory Coast U20) Substitution at 98',Cheick Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384998.0,2024-06-17 04:37:19
+12513,704223,16,43312426,76,2,5400,90'+8',0,0,Cheick Koné (Ivory Coast U20) Substitution at 98',Cheick Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,384523.0,2024-06-17 04:37:19
+12516,701964,1,43263224,94,1,2220,37',0,0,Lee Dong-Yeol (South Korea U21) Yellow Card at 37',Lee Dong-Yeol Yellow Card,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384769.0,2024-06-04 04:33:30
+12516,701964,3,43263226,76,2,2700,45',0,0,Mohammed Al Dawsari (Saudi Arabia U23) Substitution at 45',Mohammed Al Dawsari Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341465.0,2024-06-04 04:33:30
+12516,701964,2,43263225,76,2,2700,45',0,0,Hwang In-Taek (South Korea U21) Substitution at 45',Hwang In-Taek Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,362200.0,2024-06-04 04:33:30
+12516,701964,2,43263225,76,2,2700,45',0,0,Hwang In-Taek (South Korea U21) Substitution at 45',Hwang In-Taek Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384755.0,2024-06-04 04:33:30
+12516,701964,3,43263226,76,2,2700,45',0,0,Mohammed Al Dawsari (Saudi Arabia U23) Substitution at 45',Mohammed Al Dawsari Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,367328.0,2024-06-04 04:33:30
+12516,701964,4,43263227,76,2,3540,59',0,0,Jung Seung-Bae (South Korea U21) Substitution at 59',Jung Seung-Bae Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384759.0,2024-06-04 04:33:30
+12516,701964,5,43263228,76,2,3540,59',0,0,Kim Gun-Nam (South Korea U21) Substitution at 59',Kim Gun-Nam Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,385055.0,2024-06-04 04:33:30
+12516,701964,5,43263228,76,2,3540,59',0,0,Kim Gun-Nam (South Korea U21) Substitution at 59',Kim Gun-Nam Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384769.0,2024-06-04 04:33:30
+12516,701964,4,43263227,76,2,3540,59',0,0,Jung Seung-Bae (South Korea U21) Substitution at 59',Jung Seung-Bae Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384756.0,2024-06-04 04:33:30
+12516,701964,6,43263229,76,2,4140,69',0,0,Zaid Al Enezi (Saudi Arabia U23) Substitution at 69',Zaid Al Enezi Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,384809.0,2024-06-04 04:33:30
+12516,701964,7,43263230,76,2,4140,69',0,0,Abdullah Al Zaid (Saudi Arabia U23) Substitution at 69',Abdullah Al Zaid Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341475.0,2024-06-04 04:33:30
+12516,701964,7,43263230,76,2,4140,69',0,0,Abdullah Al Zaid (Saudi Arabia U23) Substitution at 69',Abdullah Al Zaid Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,372853.0,2024-06-04 04:33:30
+12516,701964,6,43263229,76,2,4140,69',0,0,Zaid Al Enezi (Saudi Arabia U23) Substitution at 69',Zaid Al Enezi Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,331921.0,2024-06-04 04:33:30
+12516,701964,8,43263231,70,2,4740,79',1,0,Abdullah Al Zaid (Saudi Arabia U23) Goal at 79',Abdullah Al Zaid Goal,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341475.0,2024-06-04 04:33:30
+12516,701964,9,43263232,76,2,4860,81',0,0,Jeon Yu-Sang (South Korea U21) Substitution at 81',Jeon Yu-Sang Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384760.0,2024-06-04 04:33:30
+12516,701964,9,43263232,76,2,4860,81',0,0,Jeon Yu-Sang (South Korea U21) Substitution at 81',Jeon Yu-Sang Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,379141.0,2024-06-04 04:33:30
+12516,701964,10,43263233,76,2,5040,84',0,0,Yazid Joshan (Saudi Arabia U23) Substitution at 84',Yazid Joshan Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341462.0,2024-06-04 04:33:30
+12516,701964,10,43263233,76,2,5040,84',0,0,Yazid Joshan (Saudi Arabia U23) Substitution at 84',Yazid Joshan Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,371390.0,2024-06-04 04:33:30
+12516,701964,12,43263235,76,2,5100,85',0,0,Faisal Al Asmari (Saudi Arabia U23) Substitution at 85',Faisal Al Asmari Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,371404.0,2024-06-04 04:33:30
+12516,701964,11,43263234,76,2,5100,85',0,0,Jin-Ho Jo (South Korea U21) Substitution at 85',Jin-Ho Jo Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,297264.0,2024-06-04 04:33:30
+12516,701964,11,43263234,76,2,5100,85',0,0,Jin-Ho Jo (South Korea U21) Substitution at 85',Jin-Ho Jo Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384763.0,2024-06-04 04:33:30
+12516,701964,12,43263235,76,2,5100,85',0,0,Faisal Al Asmari (Saudi Arabia U23) Substitution at 85',Faisal Al Asmari Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,341473.0,2024-06-04 04:33:30
+12516,701964,13,43263236,70,2,5400,90'+3',1,0,Faisal Al Asmari (Saudi Arabia U23) Goal at 93',Faisal Al Asmari Goal,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,371404.0,2024-06-04 04:33:30
+12516,701965,1,43263254,70,1,2220,37',1,0,Gilbert Bandama (Ivory Coast U20) Goal at 37',Gilbert Bandama Goal,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384987.0,2024-06-04 04:33:30
+12516,701965,4,43263354,76,2,3720,62',0,0,Antoine Joujou (France U20) Substitution at 62',Antoine Joujou Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,357235.0,2024-06-04 04:33:30
+12516,701965,2,43263352,76,2,3720,62',0,0,Ange Yohan Bonny (France U20) Substitution at 62',Ange Yohan Bonny Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-04 04:33:30
+12516,701965,3,43263353,76,2,3720,62',0,0,Wilson Odobert (France U20) Substitution at 62',Wilson Odobert Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,345687.0,2024-06-04 04:33:30
+12516,701965,3,43263353,76,2,3720,62',0,0,Wilson Odobert (France U20) Substitution at 62',Wilson Odobert Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,309563.0,2024-06-04 04:33:30
+12516,701965,4,43263354,76,2,3720,62',0,0,Antoine Joujou (France U20) Substitution at 62',Antoine Joujou Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,304743.0,2024-06-04 04:33:30
+12516,701965,2,43263352,76,2,3720,62',0,0,Ange Yohan Bonny (France U20) Substitution at 62',Ange Yohan Bonny Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,318389.0,2024-06-04 04:33:30
+12516,701965,5,43263355,70,2,3780,63',1,0,Christ Wawa (Ivory Coast U20) Goal at 63',Christ Wawa Goal,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385001.0,2024-06-04 04:33:30
+12516,701965,6,43263356,94,2,3840,64',0,0,Bamba Siaka (Ivory Coast U20) Yellow Card at 64',Bamba Siaka Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385005.0,2024-06-04 04:33:30
+12516,701965,8,43263360,76,2,4080,68',0,0,Bamba Goudouss (Ivory Coast U20) Substitution at 68',Bamba Goudouss Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384996.0,2024-06-04 04:33:30
+12516,701965,7,43263359,76,2,4080,68',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 68',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,396792.0,2024-06-04 04:33:30
+12516,701965,7,43263359,76,2,4080,68',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 68',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385417.0,2024-06-04 04:33:30
+12516,701965,7,43263359,76,2,4080,68',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 68',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385004.0,2024-06-04 04:33:30
+12516,701965,7,43263359,76,2,4080,68',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 68',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,377182.0,2024-06-04 04:33:30
+12516,701965,7,43263359,76,2,4080,68',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 68',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,323997.0,2024-06-04 04:33:30
+12516,701965,7,43263359,76,2,4080,68',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 68',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,221156.0,2024-06-04 04:33:30
+12516,701965,7,43263359,76,2,4080,68',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 68',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,385005.0,2024-06-04 04:33:30
+12516,701965,8,43263360,76,2,4080,68',0,0,Bamba Goudouss (Ivory Coast U20) Substitution at 68',Bamba Goudouss Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,385001.0,2024-06-04 04:33:30
+12516,701965,9,43263361,94,2,4200,70',0,0,Mathieu Patouillet (France U20) Yellow Card at 70',Mathieu Patouillet Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,365781.0,2024-06-04 04:33:30
+12516,701965,11,43263365,76,2,4440,74',0,0,Noé Lebreton (France U20) Substitution at 74',Noé Lebreton Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,340685.0,2024-06-04 04:33:30
+12516,701965,10,43263364,76,2,4440,74',0,0,Tanguy Zoukrou (France U20) Substitution at 74',Tanguy Zoukrou Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,324657.0,2024-06-04 04:33:30
+12516,701965,11,43263365,76,2,4440,74',0,0,Noé Lebreton (France U20) Substitution at 74',Noé Lebreton Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,361266.0,2024-06-04 04:33:30
+12516,701965,10,43263364,76,2,4440,74',0,0,Tanguy Zoukrou (France U20) Substitution at 74',Tanguy Zoukrou Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,207878.0,2024-06-04 04:33:30
+12516,701965,12,43263384,76,2,4800,80',0,0,Valy Konaté (Ivory Coast U20) Substitution at 80',Valy Konaté Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384986.0,2024-06-04 04:33:30
+12516,701965,13,43263385,76,2,4800,80',0,0,Vignon Ouotro (Ivory Coast U20) Substitution at 80',Vignon Ouotro Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384523.0,2024-06-04 04:33:30
+12516,701965,13,43263385,76,2,4800,80',0,0,Vignon Ouotro (Ivory Coast U20) Substitution at 80',Vignon Ouotro Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,299566.0,2024-06-04 04:33:30
+12516,701965,12,43263384,76,2,4800,80',0,0,Valy Konaté (Ivory Coast U20) Substitution at 80',Valy Konaté Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,357303.0,2024-06-04 04:33:30
+12516,701965,14,43263415,94,2,5340,89',0,0,Gilbert Bandama (Ivory Coast U20) Yellow Card at 89',Gilbert Bandama Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384987.0,2024-06-04 04:33:30
+12516,701965,15,43263425,76,2,5400,90'+3',0,0,Abdoulaye Djire (Ivory Coast U20) Substitution at 93',Abdoulaye Djire Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,40920.0,2024-06-04 04:33:30
+12516,701965,15,43263425,76,2,5400,90'+3',0,0,Abdoulaye Djire (Ivory Coast U20) Substitution at 93',Abdoulaye Djire Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,384987.0,2024-06-04 04:33:30
+12516,701966,1,43265691,94,1,420,7',0,0,Kosei Ogura (Japan U19) Yellow Card at 7',Kosei Ogura Yellow Card,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,384810.0,2024-06-05 04:40:12
+12516,701966,2,43265692,94,1,420,7',0,0,Alessandro Bianco (Italy U21) Yellow Card at 7',Alessandro Bianco Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,251776.0,2024-06-05 04:40:12
+12516,701966,3,43265693,70,1,600,10',1,0,Seydou Fini (Italy U21) Goal at 10',Seydou Fini Goal,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,347409.0,2024-06-05 04:40:12
+12516,701966,4,43265694,94,1,1260,21',0,0,Wataru Goto (Japan U19) Yellow Card at 21',Wataru Goto Yellow Card,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,371602.0,2024-06-05 04:40:12
+12516,701966,5,43265695,98,1,1320,22',1,0,Giovanni Fabbian (Italy U21) Penalty - Scored at 22',Giovanni Fabbian Penalty - Score,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,323118.0,2024-06-05 04:40:12
+12516,701966,8,43265698,76,2,2700,45',0,0,Mattia Zanotti (Italy U21) Substitution at 45',Mattia Zanotti Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,323117.0,2024-06-05 04:40:12
+12516,701966,6,43265696,70,1,2700,45',1,0,Kento Shiogai (Japan U19) Goal at 45',Kento Shiogai Goal,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362959.0,2024-06-05 04:40:12
+12516,701966,7,43265697,76,2,2700,45',0,0,Cher Ndour (Italy U21) Substitution at 45',Cher Ndour Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,360061.0,2024-06-05 04:40:12
+12516,701966,7,43265697,76,2,2700,45',0,0,Cher Ndour (Italy U21) Substitution at 45',Cher Ndour Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,323118.0,2024-06-05 04:40:12
+12516,701966,8,43265698,76,2,2700,45',0,0,Mattia Zanotti (Italy U21) Substitution at 45',Mattia Zanotti Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,333925.0,2024-06-05 04:40:12
+12516,701966,9,43265699,94,2,3360,56',0,0,Franco Tongya (Italy U21) Yellow Card at 56',Franco Tongya Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,297219.0,2024-06-05 04:40:12
+12516,701966,10,43265700,70,2,3540,59',1,0,Antonio Raimondo (Italy U21) Goal at 59',Antonio Raimondo Goal,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,319265.0,2024-06-05 04:40:12
+12516,701966,11,43265701,76,2,3600,60',0,0,Niccolò Pisilli (Italy U21) Substitution at 60',Niccolò Pisilli Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,360235.0,2024-06-05 04:40:12
+12516,701966,11,43265701,76,2,3600,60',0,0,Niccolò Pisilli (Italy U21) Substitution at 60',Niccolò Pisilli Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,251776.0,2024-06-05 04:40:12
+12516,701966,12,43265702,70,2,3720,62',1,0,Kento Shiogai (Japan U19) Goal at 62',Kento Shiogai Goal,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362959.0,2024-06-05 04:40:12
+12516,701966,13,43265703,76,2,3780,63',0,0,Justin Homma (Japan U19) Substitution at 63',Justin Homma Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362957.0,2024-06-05 04:40:12
+12516,701966,14,43265704,76,2,3780,63',0,0,Rando Hiroi (Japan U19) Substitution at 63',Rando Hiroi Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,384729.0,2024-06-05 04:40:12
+12516,701966,14,43265704,76,2,3780,63',0,0,Rando Hiroi (Japan U19) Substitution at 63',Rando Hiroi Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,362953.0,2024-06-05 04:40:12
+12516,701966,13,43265703,76,2,3780,63',0,0,Justin Homma (Japan U19) Substitution at 63',Justin Homma Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,341714.0,2024-06-05 04:40:12
+12516,701966,15,43265708,76,2,4140,69',0,0,Sebastiano Esposito (Italy U21) Substitution at 69',Sebastiano Esposito Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,286929.0,2024-06-05 04:40:12
+12516,701966,15,43265708,76,2,4140,69',0,0,Sebastiano Esposito (Italy U21) Substitution at 69',Sebastiano Esposito Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,347409.0,2024-06-05 04:40:12
+12516,701966,16,43265709,70,2,4200,70',1,0,Antonio Raimondo (Italy U21) Goal at 70',Antonio Raimondo Goal,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,319265.0,2024-06-05 04:40:12
+12516,701966,17,43265710,76,2,4320,72',0,0,Yotaro Nakajima (Japan U19) Substitution at 72',Yotaro Nakajima Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,365018.0,2024-06-05 04:40:12
+12516,701966,17,43265710,76,2,4320,72',0,0,Yotaro Nakajima (Japan U19) Substitution at 72',Yotaro Nakajima Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,359859.0,2024-06-05 04:40:12
+12516,701966,19,43265712,76,2,4920,82',0,0,Yutaka Michiwaki (Japan U19) Substitution at 82',Yutaka Michiwaki Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,354522.0,2024-06-05 04:40:12
+12516,701966,18,43265711,76,2,4920,82',0,0,Rachid Kouda (Italy U21) Substitution at 82',Rachid Kouda Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,365697.0,2024-06-05 04:40:12
+12516,701966,18,43265711,76,2,4920,82',0,0,Rachid Kouda (Italy U21) Substitution at 82',Rachid Kouda Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,319265.0,2024-06-05 04:40:12
+12516,701966,19,43265712,76,2,4920,82',0,0,Yutaka Michiwaki (Japan U19) Substitution at 82',Yutaka Michiwaki Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,360096.0,2024-06-05 04:40:12
+12516,701966,20,43265713,70,2,5100,85',1,0,Kento Shiogai (Japan U19) Goal at 85',Kento Shiogai Goal,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362959.0,2024-06-05 04:40:12
+12516,701967,1,43265720,70,1,540,9',1,0,Hennadiy Synchuk (Ukraine U23) Goal at 9',Hennadiy Synchuk Goal,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-06 04:32:20
+12516,701967,2,43265722,70,1,1800,30',1,0,Mykola Mykhailenko (Ukraine U23) Goal at 30',Mykola Mykhailenko Goal,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,326666.0,2024-06-06 04:32:20
+12516,701967,7,43265729,76,2,2700,45',0,0,Oleh Fedor (Ukraine U23) Substitution at 45',Oleh Fedor Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,384548.0,2024-06-06 04:32:20
+12516,701967,6,43265727,76,2,2700,45',0,0,Heorhii Ermakov (Ukraine U23) Substitution at 45',Heorhii Ermakov Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-06 04:32:20
+12516,701967,5,43265726,76,2,2700,45',0,0,Darel Valentino (Indonesia U20) Substitution at 45',Darel Valentino Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385026.0,2024-06-06 04:32:20
+12516,701967,4,43265725,76,2,2700,45',0,0,Mauresmo Hinoke (Indonesia U20) Substitution at 45',Mauresmo Hinoke Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385016.0,2024-06-06 04:32:20
+12516,701967,8,43265730,76,2,2700,45',0,0,Figo Dennis (Indonesia U20) Substitution at 45',Figo Dennis Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,376405.0,2024-06-06 04:32:20
+12516,701967,3,43265724,94,1,2700,45',0,0,Nazar Voloshyn (Ukraine U23) Yellow Card at 45',Nazar Voloshyn Yellow Card,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,359862.0,2024-06-06 04:32:20
+12516,701967,4,43265725,76,2,2700,45',0,0,Mauresmo Hinoke (Indonesia U20) Substitution at 45',Mauresmo Hinoke Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,385006.0,2024-06-06 04:32:20
+12516,701967,5,43265726,76,2,2700,45',0,0,Darel Valentino (Indonesia U20) Substitution at 45',Darel Valentino Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,385021.0,2024-06-06 04:32:20
+12516,701967,8,43265730,76,2,2700,45',0,0,Figo Dennis (Indonesia U20) Substitution at 45',Figo Dennis Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,385023.0,2024-06-06 04:32:20
+12516,701967,7,43265729,76,2,2700,45',0,0,Oleh Fedor (Ukraine U23) Substitution at 45',Oleh Fedor Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,322535.0,2024-06-06 04:32:20
+12516,701967,6,43265727,76,2,2700,45',0,0,Heorhii Ermakov (Ukraine U23) Substitution at 45',Heorhii Ermakov Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,298245.0,2024-06-06 04:32:20
+12516,701967,9,43265728,94,2,2760,46',0,0,Maksym Bragaru (Ukraine U23) Yellow Card at 46',Maksym Bragaru Yellow Card,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-06 04:32:20
+12516,701967,10,43265733,70,2,3540,59',1,0,Oleh Fedor (Ukraine U23) Goal at 59',Oleh Fedor Goal,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,384548.0,2024-06-06 04:32:20
+12516,701967,11,43265738,94,2,3900,65',0,0,Hennadiy Synchuk (Ukraine U23) Yellow Card at 65',Hennadiy Synchuk Yellow Card,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-06 04:32:20
+12516,701967,12,43265742,76,2,4020,67',0,0,Tim Geypens (Indonesia U20) Substitution at 67',Tim Geypens Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,379812.0,2024-06-06 04:32:20
+12516,701967,12,43265742,76,2,4020,67',0,0,Tim Geypens (Indonesia U20) Substitution at 67',Tim Geypens Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,385012.0,2024-06-06 04:32:20
+12516,701967,14,43265744,76,2,4080,68',0,0,Denys Shostak (Ukraine U23) Substitution at 68',Denys Shostak Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,308982.0,2024-06-06 04:32:20
+12516,701967,15,43265745,76,2,4080,68',0,0,Maksym Khlan (Ukraine U23) Substitution at 68',Maksym Khlan Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,317298.0,2024-06-06 04:32:20
+12516,701967,13,43265743,76,2,4080,68',0,0,Vladyslav Veleten (Ukraine U23) Substitution at 68',Vladyslav Veleten Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,384983.0,2024-06-06 04:32:20
+12516,701967,14,43265744,76,2,4080,68',0,0,Denys Shostak (Ukraine U23) Substitution at 68',Denys Shostak Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,326666.0,2024-06-06 04:32:20
+12516,701967,15,43265745,76,2,4080,68',0,0,Maksym Khlan (Ukraine U23) Substitution at 68',Maksym Khlan Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-06-06 04:32:20
+12516,701967,13,43265743,76,2,4080,68',0,0,Vladyslav Veleten (Ukraine U23) Substitution at 68',Vladyslav Veleten Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,359862.0,2024-06-06 04:32:20
+12516,701967,16,43265747,76,2,4380,73',0,0,Jens Raven (Indonesia U20) Substitution at 73',Jens Raven Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385015.0,2024-06-06 04:32:20
+12516,701967,16,43265747,76,2,4380,73',0,0,Jens Raven (Indonesia U20) Substitution at 73',Jens Raven Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,376397.0,2024-06-06 04:32:20
+12516,701967,17,43265754,94,2,5400,90'+3',0,0,Alexander Drambayev (Ukraine U23) Yellow Card at 93',Alexander Drambayev Yellow Card,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,326669.0,2024-06-06 04:32:20
+12516,701968,1,43268646,70,1,720,12',1,0,Christ Wawa (Ivory Coast U20) Goal at 12',Christ Wawa Goal,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385001.0,2024-06-06 04:32:20
+12516,701968,2,43268647,94,1,1800,30',0,0,Christ Tapé (Ivory Coast U20) Yellow Card at 30',Christ Tapé Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385000.0,2024-06-06 04:32:20
+12516,701968,4,43268649,76,2,2700,45',0,0,Park Ju-Yeong (South Korea U21) Substitution at 45',Park Ju-Yeong Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,379141.0,2024-06-06 04:32:20
+12516,701968,3,43268648,76,2,2700,45',0,0,Jung Seung-Bae (South Korea U21) Substitution at 45',Jung Seung-Bae Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384759.0,2024-06-06 04:32:20
+12516,701968,3,43268648,76,2,2700,45',0,0,Jung Seung-Bae (South Korea U21) Substitution at 45',Jung Seung-Bae Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384769.0,2024-06-06 04:32:20
+12516,701968,4,43268649,76,2,2700,45',0,0,Park Ju-Yeong (South Korea U21) Substitution at 45',Park Ju-Yeong Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384760.0,2024-06-06 04:32:20
+12516,701968,5,43268650,76,2,3360,56',0,0,Jin-Ho Jo (South Korea U21) Substitution at 56',Jin-Ho Jo Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,297264.0,2024-06-06 04:32:20
+12516,701968,5,43268650,76,2,3360,56',0,0,Jin-Ho Jo (South Korea U21) Substitution at 56',Jin-Ho Jo Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384756.0,2024-06-06 04:32:20
+12516,701968,6,43268651,76,2,3540,59',0,0,Vignon Ouotro (Ivory Coast U20) Substitution at 59',Vignon Ouotro Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384523.0,2024-06-06 04:32:20
+12516,701968,6,43268651,76,2,3540,59',0,0,Vignon Ouotro (Ivory Coast U20) Substitution at 59',Vignon Ouotro Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,299566.0,2024-06-06 04:32:20
+12516,701968,7,43268652,76,2,3600,60',0,0,Valy Konaté (Ivory Coast U20) Substitution at 60',Valy Konaté Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384986.0,2024-06-06 04:32:20
+12516,701968,8,43268653,76,2,3600,60',0,0,Abdramane Konaté (Ivory Coast U20) Substitution at 60',Abdramane Konaté Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,357303.0,2024-06-06 04:32:20
+12516,701968,8,43268653,76,2,3600,60',0,0,Abdramane Konaté (Ivory Coast U20) Substitution at 60',Abdramane Konaté Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,385001.0,2024-06-06 04:32:20
+12516,701968,7,43268652,76,2,3600,60',0,0,Valy Konaté (Ivory Coast U20) Substitution at 60',Valy Konaté Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,385000.0,2024-06-06 04:32:20
+12516,701968,9,43268654,94,2,4020,67',0,0,Vignon Ouotro (Ivory Coast U20) Yellow Card at 67',Vignon Ouotro Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384523.0,2024-06-06 04:32:20
+12516,701968,10,43268655,76,2,4200,70',0,0,Hong Yong-Jun (South Korea U21) Substitution at 70',Hong Yong-Jun Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384754.0,2024-06-06 04:32:20
+12516,701968,10,43268655,76,2,4200,70',0,0,Hong Yong-Jun (South Korea U21) Substitution at 70',Hong Yong-Jun Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384768.0,2024-06-06 04:32:20
+12516,701968,11,43268656,94,2,4260,71',0,0,Hong Yong-Jun (South Korea U21) Yellow Card at 71',Hong Yong-Jun Yellow Card,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384754.0,2024-06-06 04:32:20
+12516,701968,12,43268657,70,2,4320,72',1,0,Vignon Ouotro (Ivory Coast U20) Goal at 72',Vignon Ouotro Goal,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384523.0,2024-06-06 04:32:20
+12516,701968,13,43268658,94,2,4740,79',0,0,Eroine Agnikoi (Ivory Coast U20) Yellow Card at 79',Eroine Agnikoi Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,363143.0,2024-06-06 04:32:20
+12516,701968,15,43268660,76,2,5400,90'+1',0,0,Abdoulaye Djire (Ivory Coast U20) Substitution at 91',Abdoulaye Djire Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,40920.0,2024-06-06 04:32:20
+12516,701968,17,43268662,76,2,5400,90'+1',0,0,Hong Ki-Wook (South Korea U21) Substitution at 91',Hong Ki-Wook Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384763.0,2024-06-06 04:32:20
+12516,701968,14,43268659,70,2,5400,90'+1',1,0,Hong Yong-Jun (South Korea U21) Goal at 91',Hong Yong-Jun Goal,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384754.0,2024-06-06 04:32:20
+12516,701968,16,43268661,76,2,5400,90'+1',0,0,Bamalick Bella (Ivory Coast U20) Substitution at 91',Bamalick Bella Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384995.0,2024-06-06 04:32:20
+12516,701968,15,43268660,76,2,5400,90'+1',0,0,Abdoulaye Djire (Ivory Coast U20) Substitution at 91',Abdoulaye Djire Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,384987.0,2024-06-06 04:32:20
+12516,701968,17,43268662,76,2,5400,90'+1',0,0,Hong Ki-Wook (South Korea U21) Substitution at 91',Hong Ki-Wook Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,368973.0,2024-06-06 04:32:20
+12516,701968,16,43268661,76,2,5400,90'+1',0,0,Bamalick Bella (Ivory Coast U20) Substitution at 91',Bamalick Bella Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,359108.0,2024-06-06 04:32:20
+12516,701969,1,43268663,94,1,1260,21',0,0,Dalangunypole Gomis (France U20) Yellow Card at 21',Dalangunypole Gomis Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,377891.0,2024-06-07 04:39:10
+12516,701969,2,43268668,94,1,2700,45'+1',0,0,Rodrigo Huescas (Mexico U23) Yellow Card at 46',Rodrigo Huescas Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,317453.0,2024-06-07 04:39:10
+12516,701969,3,43268674,70,2,3480,58',1,0,Ettson Ayón (Mexico U23) Goal at 58',Ettson Ayón Goal,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,329123.0,2024-06-07 04:39:10
+12516,701969,4,43268675,76,2,3600,60',0,0,Luca Martinez (Mexico U23) Substitution at 60',Luca Martinez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,309473.0,2024-06-07 04:39:10
+12516,701969,4,43268675,76,2,3600,60',0,0,Luca Martinez (Mexico U23) Substitution at 60',Luca Martinez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,329123.0,2024-06-07 04:39:10
+12516,701969,9,43268683,76,2,3720,62',0,0,Alan Virginius (France U20) Substitution at 62',Alan Virginius Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,304743.0,2024-06-07 04:39:10
+12516,701969,6,43268677,76,2,3720,62',0,0,Denzell García (Mexico U23) Substitution at 62',Denzell García Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,337308.0,2024-06-07 04:39:10
+12516,701969,7,43268681,76,2,3720,62',0,0,Brahim Traoré (France U20) Substitution at 62',Brahim Traoré Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,319164.0,2024-06-07 04:39:10
+12516,701969,8,43268682,76,2,3720,62',0,0,Wilson Odobert (France U20) Substitution at 62',Wilson Odobert Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,345687.0,2024-06-07 04:39:10
+12516,701969,5,43268676,76,2,3720,62',0,0,Ramiro Árciga (Mexico U23) Substitution at 62',Ramiro Árciga Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,360957.0,2024-06-07 04:39:10
+12516,701969,9,43268683,76,2,3720,62',0,0,Alan Virginius (France U20) Substitution at 62',Alan Virginius Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,357235.0,2024-06-07 04:39:10
+12516,701969,7,43268681,76,2,3720,62',0,0,Brahim Traoré (France U20) Substitution at 62',Brahim Traoré Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,377891.0,2024-06-07 04:39:10
+12516,701969,6,43268677,76,2,3720,62',0,0,Denzell García (Mexico U23) Substitution at 62',Denzell García Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,259971.0,2024-06-07 04:39:10
+12516,701969,8,43268682,76,2,3720,62',0,0,Wilson Odobert (France U20) Substitution at 62',Wilson Odobert Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,324541.0,2024-06-07 04:39:10
+12516,701969,5,43268676,76,2,3720,62',0,0,Ramiro Árciga (Mexico U23) Substitution at 62',Ramiro Árciga Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,344568.0,2024-06-07 04:39:10
+12516,701969,5,43268676,76,2,3720,62',0,0,Ramiro Árciga (Mexico U23) Substitution at 62',Ramiro Árciga Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,124544.0,2024-06-07 04:39:10
+12516,701969,5,43268676,76,2,3720,62',0,0,Ramiro Árciga (Mexico U23) Substitution at 62',Ramiro Árciga Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,103806.0,2024-06-07 04:39:10
+12516,701969,10,43268678,70,2,3780,63',1,0,Edouard Michut (France U20) Goal at 63',Edouard Michut Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,304738.0,2024-06-07 04:39:10
+12516,701969,11,43268679,76,2,3780,63',0,0,Edouard Michut (France U20) Substitution at 63',Edouard Michut Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,304738.0,2024-06-07 04:39:10
+12516,701969,12,43268680,76,2,3780,63',0,0,Matthis Abline (France U20) Substitution at 63',Matthis Abline Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,318389.0,2024-06-07 04:39:10
+12516,701969,11,43268679,76,2,3780,63',0,0,Edouard Michut (France U20) Substitution at 63',Edouard Michut Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-06-07 04:39:10
+12516,701969,12,43268680,76,2,3780,63',0,0,Matthis Abline (France U20) Substitution at 63',Matthis Abline Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,340685.0,2024-06-07 04:39:10
+12516,701969,13,43268688,94,2,4500,75',0,0,Denzell García (Mexico U23) Yellow Card at 75',Denzell García Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,337308.0,2024-06-07 04:39:10
+12516,701969,14,43268697,70,2,4620,77',1,0,Matthis Abline (France U20) Goal at 77',Matthis Abline Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,318389.0,2024-06-07 04:39:10
+12516,701969,15,43268720,76,2,5040,84',0,0,Miguel Rodríguez (Mexico U23) Substitution at 84',Miguel Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,83494.0,2024-06-07 04:39:10
+12516,701969,15,43268720,76,2,5040,84',0,0,Miguel Rodríguez (Mexico U23) Substitution at 84',Miguel Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,375198.0,2024-06-07 04:39:10
+12516,701969,15,43268720,76,2,5040,84',0,0,Miguel Rodríguez (Mexico U23) Substitution at 84',Miguel Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,347479.0,2024-06-07 04:39:10
+12516,701969,15,43268720,76,2,5040,84',0,0,Miguel Rodríguez (Mexico U23) Substitution at 84',Miguel Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,342767.0,2024-06-07 04:39:10
+12516,701969,15,43268720,76,2,5040,84',0,0,Miguel Rodríguez (Mexico U23) Substitution at 84',Miguel Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,233134.0,2024-06-07 04:39:10
+12516,701969,16,43268721,76,2,5040,84',0,0,Alan Bautista (Mexico U23) Substitution at 84',Alan Bautista Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,326072.0,2024-06-07 04:39:10
+12516,701969,15,43268720,76,2,5040,84',0,0,Miguel Rodríguez (Mexico U23) Substitution at 84',Miguel Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,327782.0,2024-06-07 04:39:10
+12516,701969,16,43268721,76,2,5040,84',0,0,Alan Bautista (Mexico U23) Substitution at 84',Alan Bautista Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,260173.0,2024-06-07 04:39:10
+12516,701969,17,43268727,70,2,5160,86',1,0,Rodrigo Huescas (Mexico U23) Goal at 86',Rodrigo Huescas Goal,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,317453.0,2024-06-07 04:39:10
+12516,701969,18,43268764,94,2,5400,90'+4',0,0,Jesús Gómez (Mexico U23) Yellow Card at 94',Jesús Gómez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,206158.0,2024-06-07 04:39:10
+12516,701970,1,43272797,70,1,1860,31',1,0,Maksym Khlan (Ukraine U23) Goal at 31',Maksym Khlan Goal,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,317298.0,2024-06-07 04:39:10
+12516,701970,2,43272871,94,1,2520,42',0,0,Mattia Zanotti (Italy U21) Yellow Card at 42',Mattia Zanotti Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,323117.0,2024-06-07 04:39:10
+12516,701970,3,43272876,94,1,2580,43',0,0,Vladyslav Veleten (Ukraine U23) Yellow Card at 43',Vladyslav Veleten Yellow Card,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,384983.0,2024-06-07 04:39:10
+12516,701970,6,43273012,76,2,2700,45',0,0,Antonio Raimondo (Italy U21) Substitution at 45',Antonio Raimondo Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,319265.0,2024-06-07 04:39:10
+12516,701970,5,43273011,76,2,2700,45',0,0,Franco Tongya (Italy U21) Substitution at 45',Franco Tongya Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,297219.0,2024-06-07 04:39:10
+12516,701970,4,43273010,76,2,2700,45',0,0,Federico Zuccon (Italy U21) Substitution at 45',Federico Zuccon Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,329738.0,2024-06-07 04:39:10
+12516,701970,5,43273011,76,2,2700,45',0,0,Franco Tongya (Italy U21) Substitution at 45',Franco Tongya Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,323118.0,2024-06-07 04:39:10
+12516,701970,4,43273010,76,2,2700,45',0,0,Federico Zuccon (Italy U21) Substitution at 45',Federico Zuccon Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,340707.0,2024-06-07 04:39:10
+12516,701970,6,43273012,76,2,2700,45',0,0,Antonio Raimondo (Italy U21) Substitution at 45',Antonio Raimondo Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,342101.0,2024-06-07 04:39:10
+12516,701970,7,43273021,70,2,3180,53',1,0,Oleksandr Martynyuk (Ukraine U23) Goal at 53',Oleksandr Martynyuk Goal,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-07 04:39:10
+12516,701970,8,43273027,76,2,3480,58',0,0,Seydou Fini (Italy U21) Substitution at 58',Seydou Fini Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,347409.0,2024-06-07 04:39:10
+12516,701970,8,43273027,76,2,3480,58',0,0,Seydou Fini (Italy U21) Substitution at 58',Seydou Fini Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,330259.0,2024-06-07 04:39:10
+12516,701970,9,43273037,70,2,3840,64',1,0,Danylo Sikan (Ukraine U23) Goal at 64',Danylo Sikan Goal,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,288490.0,2024-06-07 04:39:10
+12516,701970,10,43273042,76,2,4200,70',0,0,Ihor Krasnopir (Ukraine U23) Substitution at 70',Ihor Krasnopir Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,370128.0,2024-06-07 04:39:10
+12516,701970,11,43273043,76,2,4200,70',0,0,Yehor Yarmoliuk (Ukraine U23) Substitution at 70',Yehor Yarmoliuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,342029.0,2024-06-07 04:39:10
+12516,701970,12,43273044,76,2,4200,70',0,0,Nazar Voloshyn (Ukraine U23) Substitution at 70',Nazar Voloshyn Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,359862.0,2024-06-07 04:39:10
+12516,701970,11,43273043,76,2,4200,70',0,0,Yehor Yarmoliuk (Ukraine U23) Substitution at 70',Yehor Yarmoliuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,384548.0,2024-06-07 04:39:10
+12516,701970,10,43273042,76,2,4200,70',0,0,Ihor Krasnopir (Ukraine U23) Substitution at 70',Ihor Krasnopir Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,288490.0,2024-06-07 04:39:10
+12516,701970,12,43273044,76,2,4200,70',0,0,Nazar Voloshyn (Ukraine U23) Substitution at 70',Nazar Voloshyn Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,384983.0,2024-06-07 04:39:10
+12516,701970,13,43273045,70,2,4260,71',1,0,Nazar Voloshyn (Ukraine U23) Goal at 71',Nazar Voloshyn Goal,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,359862.0,2024-06-07 04:39:10
+12516,701970,14,43273046,76,2,4500,75',0,0,Niccolò Pisilli (Italy U21) Substitution at 75',Niccolò Pisilli Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,360235.0,2024-06-07 04:39:10
+12516,701970,14,43273046,76,2,4500,75',0,0,Niccolò Pisilli (Italy U21) Substitution at 75',Niccolò Pisilli Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,286929.0,2024-06-07 04:39:10
+12516,701970,15,43273048,76,2,4680,78',0,0,Kyrylo Siheiev (Ukraine U23) Substitution at 78',Kyrylo Siheiev Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,340193.0,2024-06-07 04:39:10
+12516,701970,15,43273048,76,2,4680,78',0,0,Kyrylo Siheiev (Ukraine U23) Substitution at 78',Kyrylo Siheiev Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,308982.0,2024-06-07 04:39:10
+12516,701970,16,43273056,94,2,4980,83',0,0,Seydou Fini (Italy U21) Yellow Card at 83',Seydou Fini Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,347409.0,2024-06-07 04:39:10
+12516,701970,17,43273079,76,2,5100,85',0,0,Yevhen Pavliuk (Ukraine U23) Substitution at 85',Yevhen Pavliuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,322527.0,2024-06-07 04:39:10
+12516,701970,17,43273079,76,2,5100,85',0,0,Yevhen Pavliuk (Ukraine U23) Substitution at 85',Yevhen Pavliuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-06-07 04:39:10
+12516,701970,18,43273092,94,2,5220,87',0,0,Federico Zuccon (Italy U21) Yellow Card at 87',Federico Zuccon Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,329738.0,2024-06-07 04:39:10
+12516,701971,1,43273306,94,1,600,10',0,0,Toni Firmansyah (Indonesia U20) Yellow Card at 10',Toni Firmansyah Yellow Card,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385023.0,2024-06-07 04:39:10
+12516,701971,2,43273342,70,1,1260,21',1,0,Ángel Orelien (Panama U23) Goal at 21',Ángel Orelien Goal,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,280518.0,2024-06-07 04:39:10
+12516,701971,3,43273392,94,1,1980,33',0,0,Martin Moran (Panama U23) Yellow Card at 33',Martin Moran Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,92181.0,2024-06-07 04:39:10
+12516,701971,4,43273577,76,2,3300,55',0,0,Taufik Rustam (Indonesia U20) Substitution at 55',Taufik Rustam Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385020.0,2024-06-07 04:39:10
+12516,701971,4,43273577,76,2,3300,55',0,0,Taufik Rustam (Indonesia U20) Substitution at 55',Taufik Rustam Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,385012.0,2024-06-07 04:39:10
+12516,701971,5,43273578,76,2,3360,56',0,0,Mauresmo Hinoke (Indonesia U20) Substitution at 56',Mauresmo Hinoke Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385016.0,2024-06-07 04:39:10
+12516,701971,6,43273579,76,2,3360,56',0,0,Arkhan Kaka (Indonesia U20) Substitution at 56',Arkhan Kaka Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,376397.0,2024-06-07 04:39:10
+12516,701971,5,43273578,76,2,3360,56',0,0,Mauresmo Hinoke (Indonesia U20) Substitution at 56',Mauresmo Hinoke Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,376399.0,2024-06-07 04:39:10
+12516,701971,6,43273579,76,2,3360,56',0,0,Arkhan Kaka (Indonesia U20) Substitution at 56',Arkhan Kaka Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,385015.0,2024-06-07 04:39:10
+12516,701971,7,43273582,70,2,3420,57',1,0,Ángel Orelien (Panama U23) Goal at 57',Ángel Orelien Goal,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,280518.0,2024-06-07 04:39:10
+12516,701971,8,43273845,76,2,4020,67',0,0,Yoameth Murillo (Panama U23) Substitution at 67',Yoameth Murillo Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,340540.0,2024-06-07 04:39:10
+12516,701971,9,43273846,76,2,4020,67',0,0,Amable Pinzón (Panama U23) Substitution at 67',Amable Pinzón Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,384979.0,2024-06-07 04:39:10
+12516,701971,10,43273847,76,2,4020,67',0,0,Welberlieskott Jardim (Indonesia U20) Substitution at 67',Welberlieskott Jardim Substituti,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,376416.0,2024-06-07 04:39:10
+12516,701971,9,43273846,76,2,4020,67',0,0,Amable Pinzón (Panama U23) Substitution at 67',Amable Pinzón Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,290961.0,2024-06-07 04:39:10
+12516,701971,8,43273845,76,2,4020,67',0,0,Yoameth Murillo (Panama U23) Substitution at 67',Yoameth Murillo Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,92181.0,2024-06-07 04:39:10
+12516,701971,10,43273847,76,2,4020,67',0,0,Welberlieskott Jardim (Indonesia U20) Substitution at 67',Welberlieskott Jardim Substituti,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,376405.0,2024-06-07 04:39:10
+12516,701971,11,43273848,98,2,4080,68',1,0,Ángel Orelien (Panama U23) Penalty - Scored at 68',Ángel Orelien Penalty - Scored,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,280518.0,2024-06-07 04:39:10
+12516,701971,12,43273912,76,2,4980,83',0,0,Tim Geypens (Indonesia U20) Substitution at 83',Tim Geypens Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,379812.0,2024-06-07 04:39:10
+12516,701971,12,43273912,76,2,4980,83',0,0,Tim Geypens (Indonesia U20) Substitution at 83',Tim Geypens Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,385023.0,2024-06-07 04:39:10
+12516,701971,14,43273930,76,2,5100,85',0,0,José Matos (Panama U23) Substitution at 85',José Matos Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,102807.0,2024-06-07 04:39:10
+12516,701971,13,43273929,76,2,5100,85',0,0,Gustavo Herrera (Panama U23) Substitution at 85',Gustavo Herrera Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,141631.0,2024-06-07 04:39:10
+12516,701971,13,43273929,76,2,5100,85',0,0,Gustavo Herrera (Panama U23) Substitution at 85',Gustavo Herrera Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,342196.0,2024-06-07 04:39:10
+12516,701971,14,43273930,76,2,5100,85',0,0,José Matos (Panama U23) Substitution at 85',José Matos Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,280518.0,2024-06-07 04:39:10
+12516,701971,15,43273944,70,2,5280,88',1,0,Amable Pinzón (Panama U23) Goal at 88',Amable Pinzón Goal,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,384979.0,2024-06-07 04:39:10
+12516,701971,16,43273948,76,2,5400,90',0,0,Jimar Sánchez (Panama U23) Substitution at 90',Jimar Sánchez Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,385056.0,2024-06-07 04:39:10
+12516,701971,16,43273948,76,2,5400,90',0,0,Jimar Sánchez (Panama U23) Substitution at 90',Jimar Sánchez Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,384978.0,2024-06-07 04:39:10
+12516,701972,1,43276094,94,1,1020,17',0,0,Abdulmalik Al Oyayari (Saudi Arabia U23) Yellow Card at 17',Abdulmalik Al Oyayari Yellow Car,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,337325.0,2024-06-08 04:40:06
+12516,701972,2,43276095,70,1,2040,34',1,0,Alan Bautista (Mexico U23) Goal at 34',Alan Bautista Goal,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,326072.0,2024-06-08 04:40:06
+12516,701972,3,43276096,98,1,2580,43',1,0,Talal Haji (Saudi Arabia U23) Penalty - Scored at 43',Talal Haji Penalty - Scored,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,371390.0,2024-06-08 04:40:06
+12516,701972,4,43276097,76,2,2700,45',0,0,Faisal Al Asmari (Saudi Arabia U23) Substitution at 45',Faisal Al Asmari Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,371404.0,2024-06-08 04:40:06
+12516,701972,4,43276097,76,2,2700,45',0,0,Faisal Al Asmari (Saudi Arabia U23) Substitution at 45',Faisal Al Asmari Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,337325.0,2024-06-08 04:40:06
+12516,701972,5,43276099,97,2,3060,51',1,0,Jesus Alcantar Rodríguez (Mexico U23) Own Goal at 51',Jesus Alcantar Rodríguez Own Goa,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-11 04:35:15
+12516,701972,6,43276101,94,2,3240,54',0,0,Mohammed Ali Barnawi (Saudi Arabia U23) Yellow Card at 54',Mohammed Ali Barnawi Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341469.0,2024-06-08 04:40:06
+12516,701972,7,43278166,94,2,3240,54',0,0,Mohammed Yousef (Saudi Arabia U23) Yellow Card at 54',Mohammed Yousef Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,367660.0,2024-06-08 04:40:06
+12516,701972,8,43276102,98,2,3420,57',1,0,Luca Martinez (Mexico U23) Penalty - Scored at 57',Luca Martinez Penalty - Scored,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,309473.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,79608.0,2024-06-08 04:40:06
+12516,701972,9,43276104,76,2,3600,60',0,0,Rodrigo López (Mexico U23) Substitution at 60',Rodrigo López Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,344568.0,2024-06-08 04:40:06
+12516,701972,9,43276104,76,2,3600,60',0,0,Rodrigo López (Mexico U23) Substitution at 60',Rodrigo López Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,124544.0,2024-06-08 04:40:06
+12516,701972,9,43276104,76,2,3600,60',0,0,Rodrigo López (Mexico U23) Substitution at 60',Rodrigo López Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,103806.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,402651.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,395030.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,375296.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,370923.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,350308.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,331346.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,312586.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,288110.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,149413.0,2024-06-08 04:40:06
+12516,701972,9,43276104,76,2,3600,60',0,0,Rodrigo López (Mexico U23) Substitution at 60',Rodrigo López Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,316030.0,2024-06-08 04:40:06
+12516,701972,9,43276104,76,2,3600,60',0,0,Rodrigo López (Mexico U23) Substitution at 60',Rodrigo López Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,140817.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,375567.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,333402.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,316405.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,264199.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,192278.0,2024-06-08 04:40:06
+12516,701972,10,43276105,76,2,3600,60',0,0,Jorge Rodríguez (Mexico U23) Substitution at 60',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,122060.0,2024-06-08 04:40:06
+12516,701972,11,43276107,94,2,3720,62',0,0,Faisal Al Asmari (Saudi Arabia U23) Yellow Card at 62',Faisal Al Asmari Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,371404.0,2024-06-08 04:40:06
+12516,701972,12,43276108,76,2,3900,65',0,0,Younes Al-Shanqeeti (Saudi Arabia U23) Substitution at 65',Younes Al-Shanqeeti Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,384117.0,2024-06-08 04:40:06
+12516,701972,12,43276108,76,2,3900,65',0,0,Younes Al-Shanqeeti (Saudi Arabia U23) Substitution at 65',Younes Al-Shanqeeti Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,341475.0,2024-06-08 04:40:06
+12516,701972,13,43276109,76,2,3960,66',0,0,Abdulaziz Saud Al Aliwa (Saudi Arabia U23) Substitution at 66',Abdulaziz Saud Al Aliwa Substitu,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-08 04:40:06
+12516,701972,13,43276109,76,2,3960,66',0,0,Abdulaziz Saud Al Aliwa (Saudi Arabia U23) Substitution at 66',Abdulaziz Saud Al Aliwa Substitu,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,371390.0,2024-06-08 04:40:06
+12516,701972,14,43276112,70,2,4200,70',1,0,Miguel Rodríguez (Mexico U23) Goal at 70',Miguel Rodríguez Goal,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,83494.0,2024-06-08 04:40:06
+12516,701972,14,43276112,70,2,4200,70',1,0,Miguel Rodríguez (Mexico U23) Goal at 70',Miguel Rodríguez Goal,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,375198.0,2024-06-08 04:40:06
+12516,701972,14,43276112,70,2,4200,70',1,0,Miguel Rodríguez (Mexico U23) Goal at 70',Miguel Rodríguez Goal,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,347479.0,2024-06-08 04:40:06
+12516,701972,14,43276112,70,2,4200,70',1,0,Miguel Rodríguez (Mexico U23) Goal at 70',Miguel Rodríguez Goal,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,342767.0,2024-06-08 04:40:06
+12516,701972,14,43276112,70,2,4200,70',1,0,Miguel Rodríguez (Mexico U23) Goal at 70',Miguel Rodríguez Goal,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,233134.0,2024-06-08 04:40:06
+12516,701972,15,43276114,76,2,4320,72',0,0,Ricardo Monreal (Mexico U23) Substitution at 72',Ricardo Monreal Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,259971.0,2024-06-08 04:40:06
+12516,701972,16,43276115,76,2,4320,72',0,0,Efrain Álvarez (Mexico U23) Substitution at 72',Efrain Álvarez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,260173.0,2024-06-08 04:40:06
+12516,701972,16,43276115,76,2,4320,72',0,0,Efrain Álvarez (Mexico U23) Substitution at 72',Efrain Álvarez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,360957.0,2024-06-08 04:40:06
+12516,701972,15,43276114,76,2,4320,72',0,0,Ricardo Monreal (Mexico U23) Substitution at 72',Ricardo Monreal Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,309473.0,2024-06-08 04:40:06
+12516,701972,18,43276118,76,2,5220,87',0,0,Ahmed Yousef Al Julaydan (Saudi Arabia U23) Substitution at 87',Ahmed Yousef Al Julaydan Substit,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-08 04:40:06
+12516,701972,17,43276117,76,2,5220,87',0,0,Yazid Joshan (Saudi Arabia U23) Substitution at 87',Yazid Joshan Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341462.0,2024-06-08 04:40:06
+12516,701972,18,43276118,76,2,5220,87',0,0,Ahmed Yousef Al Julaydan (Saudi Arabia U23) Substitution at 87',Ahmed Yousef Al Julaydan Substit,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,367660.0,2024-06-08 04:40:06
+12516,701972,17,43276117,76,2,5220,87',0,0,Yazid Joshan (Saudi Arabia U23) Substitution at 87',Yazid Joshan Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,341471.0,2024-06-08 04:40:06
+12516,701972,19,43276119,76,2,5280,88',0,0,Fidel Ambríz (Mexico U23) Substitution at 88',Fidel Ambríz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,298860.0,2024-06-08 04:40:06
+12516,701972,19,43276119,76,2,5280,88',0,0,Fidel Ambríz (Mexico U23) Substitution at 88',Fidel Ambríz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,83494.0,2024-06-08 04:40:06
+12516,701972,19,43276119,76,2,5280,88',0,0,Fidel Ambríz (Mexico U23) Substitution at 88',Fidel Ambríz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,375198.0,2024-06-08 04:40:06
+12516,701972,19,43276119,76,2,5280,88',0,0,Fidel Ambríz (Mexico U23) Substitution at 88',Fidel Ambríz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,347479.0,2024-06-08 04:40:06
+12516,701972,19,43276119,76,2,5280,88',0,0,Fidel Ambríz (Mexico U23) Substitution at 88',Fidel Ambríz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,342767.0,2024-06-08 04:40:06
+12516,701972,19,43276119,76,2,5280,88',0,0,Fidel Ambríz (Mexico U23) Substitution at 88',Fidel Ambríz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,233134.0,2024-06-08 04:40:06
+12516,701972,20,43276120,94,2,5400,90'+1',0,0,Mohammed Sulaiman (Saudi Arabia U23) Yellow Card at 91',Mohammed Sulaiman Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341463.0,2024-06-08 04:40:06
+12516,701973,1,43276161,94,1,360,6',0,0,Cheick Keita (France U20) Yellow Card at 6',Cheick Keita Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,207878.0,2024-06-08 04:40:06
+12516,701973,2,43276165,94,1,1620,27',0,0,Park Jae-Seong (South Korea U21) Yellow Card at 27',Park Jae-Seong Yellow Card,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384770.0,2024-06-08 04:40:06
+12516,701973,3,43276169,76,1,2160,36',0,0,Park Ju-Yeong (South Korea U21) Substitution at 36',Park Ju-Yeong Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,379141.0,2024-06-08 04:40:06
+12516,701973,3,43276169,76,1,2160,36',0,0,Park Ju-Yeong (South Korea U21) Substitution at 36',Park Ju-Yeong Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384754.0,2024-06-08 04:40:06
+12516,701973,4,43276170,70,1,2340,39',1,0,Alan Virginius (France U20) Goal at 39',Alan Virginius Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,304743.0,2024-06-08 04:40:06
+12516,701973,6,43276178,76,2,2700,45',0,0,Baek Ji-Ung (South Korea U21) Substitution at 45',Baek Ji-Ung Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384761.0,2024-06-08 04:40:06
+12516,701973,5,43276177,76,2,2700,45',0,0,Ryu Seung-Wan (South Korea U21) Substitution at 45',Ryu Seung-Wan Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384768.0,2024-06-08 04:40:06
+12516,701973,6,43276178,76,2,2700,45',0,0,Baek Ji-Ung (South Korea U21) Substitution at 45',Baek Ji-Ung Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384770.0,2024-06-08 04:40:06
+12516,701973,5,43276177,76,2,2700,45',0,0,Ryu Seung-Wan (South Korea U21) Substitution at 45',Ryu Seung-Wan Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384760.0,2024-06-08 04:40:06
+12516,701973,7,43276188,76,2,3540,59',0,0,Jung Seung-Bae (South Korea U21) Substitution at 59',Jung Seung-Bae Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384759.0,2024-06-08 04:40:06
+12516,701973,7,43276188,76,2,3540,59',0,0,Jung Seung-Bae (South Korea U21) Substitution at 59',Jung Seung-Bae Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384769.0,2024-06-08 04:40:06
+12516,701973,8,43276194,94,2,3780,63',0,0,Baek Ji-Ung (South Korea U21) Yellow Card at 63',Baek Ji-Ung Yellow Card,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384761.0,2024-06-08 04:40:06
+12516,701973,9,43276195,76,2,3780,63',0,0,Antoine Joujou (France U20) Substitution at 63',Antoine Joujou Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,357235.0,2024-06-08 04:40:06
+12516,701973,10,43276196,76,2,3780,63',0,0,Ange Yohan Bonny (France U20) Substitution at 63',Ange Yohan Bonny Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-08 04:40:06
+12516,701973,12,43276198,76,2,3780,63',0,0,Mathias De Amorim (France U20) Substitution at 63',Mathias De Amorim Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,368008.0,2024-06-08 04:40:06
+12516,701973,11,43276197,76,2,3780,63',0,0,Noé Lebreton (France U20) Substitution at 63',Noé Lebreton Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,340685.0,2024-06-08 04:40:06
+12516,701973,12,43276198,76,2,3780,63',0,0,Mathias De Amorim (France U20) Substitution at 63',Mathias De Amorim Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,318389.0,2024-06-08 04:40:06
+12516,701973,11,43276197,76,2,3780,63',0,0,Noé Lebreton (France U20) Substitution at 63',Noé Lebreton Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,361266.0,2024-06-08 04:40:06
+12516,701973,10,43276196,76,2,3780,63',0,0,Ange Yohan Bonny (France U20) Substitution at 63',Ange Yohan Bonny Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,312550.0,2024-06-08 04:40:06
+12516,701973,9,43276195,76,2,3780,63',0,0,Antoine Joujou (France U20) Substitution at 63',Antoine Joujou Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,324541.0,2024-06-08 04:40:06
+12516,701973,14,43276232,76,2,4980,83',0,0,Jung-Hyun Kim (South Korea U21) Substitution at 83',Jung-Hyun Kim Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,368973.0,2024-06-08 04:40:06
+12516,701973,13,43276231,76,2,4980,83',0,0,William Mikelbrencis (France U20) Substitution at 83',William Mikelbrencis Substitutio,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,313897.0,2024-06-08 04:40:06
+12516,701973,13,43276231,76,2,4980,83',0,0,William Mikelbrencis (France U20) Substitution at 83',William Mikelbrencis Substitutio,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,345243.0,2024-06-08 04:40:06
+12516,701973,14,43276232,76,2,4980,83',0,0,Jung-Hyun Kim (South Korea U21) Substitution at 83',Jung-Hyun Kim Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,297264.0,2024-06-08 04:40:06
+12516,701973,15,43276234,94,2,5220,87',0,0,Jung Sung-Woo (South Korea U21) Yellow Card at 87',Jung Sung-Woo Yellow Card,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384764.0,2024-06-08 04:40:06
+12516,701974,1,43278291,70,1,420,7',1,0,Soma Kanda (Japan U19) Goal at 7',Soma Kanda Goal,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,379758.0,2024-06-09 04:45:09
+12516,701974,2,43278292,76,1,2460,41',0,0,Alexandro Kamuru (Indonesia U20) Substitution at 41',Alexandro Kamuru Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385010.0,2024-06-09 04:45:09
+12516,701974,2,43278292,76,1,2460,41',0,0,Alexandro Kamuru (Indonesia U20) Substitution at 41',Alexandro Kamuru Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,376399.0,2024-06-09 04:45:09
+12516,701974,5,43278295,76,2,2700,45',0,0,Mufli Hidayat (Indonesia U20) Substitution at 45',Mufli Hidayat Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,346978.0,2024-06-09 04:45:09
+12516,701974,3,43278293,76,2,2700,45',0,0,Ryunosuke Sato (Japan U19) Substitution at 45',Ryunosuke Sato Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,360096.0,2024-06-09 04:45:09
+12516,701974,4,43278294,76,2,2700,45',0,0,Shota Kofie (Japan U19) Substitution at 45',Shota Kofie Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,383203.0,2024-06-09 04:45:09
+12516,701974,4,43278294,76,2,2700,45',0,0,Shota Kofie (Japan U19) Substitution at 45',Shota Kofie Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,384725.0,2024-06-09 04:45:09
+12516,701974,3,43278293,76,2,2700,45',0,0,Ryunosuke Sato (Japan U19) Substitution at 45',Ryunosuke Sato Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,384729.0,2024-06-09 04:45:09
+12516,701974,5,43278295,76,2,2700,45',0,0,Mufli Hidayat (Indonesia U20) Substitution at 45',Mufli Hidayat Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,384994.0,2024-06-09 04:45:09
+12516,701974,6,43278297,70,2,2820,47',1,0,Soma Kanda (Japan U19) Goal at 47',Soma Kanda Goal,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,379758.0,2024-06-09 04:45:09
+12516,701974,7,43278298,94,2,3180,53',0,0,Yutaka Michiwaki (Japan U19) Yellow Card at 53',Yutaka Michiwaki Yellow Card,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,354522.0,2024-06-09 04:45:09
+12516,701974,8,43278299,76,2,3240,54',0,0,Sulthan Zaky (Indonesia U20) Substitution at 54',Sulthan Zaky Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,369426.0,2024-06-09 04:45:09
+12516,701974,8,43278299,76,2,3240,54',0,0,Sulthan Zaky (Indonesia U20) Substitution at 54',Sulthan Zaky Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,385019.0,2024-06-09 04:45:09
+12516,701974,9,43278302,76,2,3600,60',0,0,Kosei Ogura (Japan U19) Substitution at 60',Kosei Ogura Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,384810.0,2024-06-09 04:45:09
+12516,701974,9,43278302,76,2,3600,60',0,0,Kosei Ogura (Japan U19) Substitution at 60',Kosei Ogura Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,347492.0,2024-06-09 04:45:09
+12516,701974,10,43278303,70,2,3960,66',1,0,Ryunosuke Sato (Japan U19) Goal at 66',Ryunosuke Sato Goal,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,360096.0,2024-06-09 04:45:09
+12516,701974,11,43278305,98,2,4200,70',1,0,Mauresmo Hinoke (Indonesia U20) Penalty - Scored at 70',Mauresmo Hinoke Penalty - Scored,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385016.0,2024-06-09 04:45:09
+12516,701974,12,43278306,76,2,4320,72',0,0,Toki Yukutomo (Japan U19) Substitution at 72',Toki Yukutomo Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362953.0,2024-06-09 04:45:09
+12516,701974,12,43278306,76,2,4320,72',0,0,Toki Yukutomo (Japan U19) Substitution at 72',Toki Yukutomo Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,359859.0,2024-06-09 04:45:09
+12516,701974,13,43278307,76,2,4680,78',0,0,Muhammad Ragil (Indonesia U20) Substitution at 78',Muhammad Ragil Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385024.0,2024-06-09 04:45:09
+12516,701974,13,43278307,76,2,4680,78',0,0,Muhammad Ragil (Indonesia U20) Substitution at 78',Muhammad Ragil Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,385015.0,2024-06-09 04:45:09
+12516,701974,14,43278309,76,2,4860,81',0,0,Rikuto Kuwahara (Japan U19) Substitution at 81',Rikuto Kuwahara Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,340749.0,2024-06-09 04:45:09
+12516,701974,14,43278309,76,2,4860,81',0,0,Rikuto Kuwahara (Japan U19) Substitution at 81',Rikuto Kuwahara Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,362957.0,2024-06-09 04:45:09
+12516,701974,16,43278313,94,2,5400,90'+6',0,0,Muhammad Ragil (Indonesia U20) Yellow Card at 96',Muhammad Ragil Yellow Card,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385024.0,2024-06-09 04:45:09
+12516,701974,15,43278312,70,2,5400,90'+4',1,0,Yutaka Michiwaki (Japan U19) Goal at 94',Yutaka Michiwaki Goal,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,354522.0,2024-06-09 04:45:09
+12516,701975,1,43278339,94,1,420,7',0,0,Moisés Véliz (Panama U23) Yellow Card at 7',Moisés Véliz Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,360012.0,2024-06-09 04:45:09
+12516,701975,2,43278419,94,1,2700,45'+2',0,0,Orman Davis (Panama U23) Yellow Card at 47',Orman Davis Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,328431.0,2024-06-09 04:45:09
+12516,701975,3,43278563,94,2,3480,58',0,0,Ricardo Hinds (Panama U23) Yellow Card at 58',Ricardo Hinds Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,320424.0,2024-06-09 04:45:09
+12516,701975,6,43278604,76,2,3660,61',0,0,Joel Guevara (Panama U23) Substitution at 61',Joel Guevara Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,384977.0,2024-06-09 04:45:09
+12516,701975,4,43278602,76,2,3660,61',0,0,Martin Moran (Panama U23) Substitution at 61',Martin Moran Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,92181.0,2024-06-09 04:45:09
+12516,701975,5,43278603,76,2,3660,61',0,0,Danylo Sikan (Ukraine U23) Substitution at 61',Danylo Sikan Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,288490.0,2024-06-09 04:45:09
+12516,701975,6,43278604,76,2,3660,61',0,0,Joel Guevara (Panama U23) Substitution at 61',Joel Guevara Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,320424.0,2024-06-09 04:45:09
+12516,701975,5,43278603,76,2,3660,61',0,0,Danylo Sikan (Ukraine U23) Substitution at 61',Danylo Sikan Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,370128.0,2024-06-09 04:45:09
+12516,701975,4,43278602,76,2,3660,61',0,0,Martin Moran (Panama U23) Substitution at 61',Martin Moran Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,360012.0,2024-06-09 04:45:09
+12516,701975,7,43278605,76,2,3720,62',0,0,Yehor Yarmoliuk (Ukraine U23) Substitution at 62',Yehor Yarmoliuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,342029.0,2024-06-09 04:45:09
+12516,701975,8,43278606,70,2,3720,62',1,0,Nazar Voloshyn (Ukraine U23) Goal at 62',Nazar Voloshyn Goal,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,359862.0,2024-06-09 04:45:09
+12516,701975,7,43278605,76,2,3720,62',0,0,Yehor Yarmoliuk (Ukraine U23) Substitution at 62',Yehor Yarmoliuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,321354.0,2024-06-09 04:45:09
+12516,701975,9,43278623,70,2,3960,66',1,0,Yehor Yarmoliuk (Ukraine U23) Goal at 66',Yehor Yarmoliuk Goal,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,342029.0,2024-06-09 04:45:09
+12516,701975,11,43278632,76,2,4140,69',0,0,Maksym Khlan (Ukraine U23) Substitution at 69',Maksym Khlan Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,317298.0,2024-06-09 04:45:09
+12516,701975,10,43278631,76,2,4140,69',0,0,Oleksandr Martynyuk (Ukraine U23) Substitution at 69',Oleksandr Martynyuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-09 04:45:09
+12516,701975,11,43278632,76,2,4140,69',0,0,Maksym Khlan (Ukraine U23) Substitution at 69',Maksym Khlan Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-06-09 04:45:09
+12516,701975,10,43278631,76,2,4140,69',0,0,Oleksandr Martynyuk (Ukraine U23) Substitution at 69',Oleksandr Martynyuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,326669.0,2024-06-09 04:45:09
+12516,701975,12,43278677,76,2,4560,76',0,0,Jorge Méndez (Panama U23) Substitution at 76',Jorge Méndez Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,260342.0,2024-06-09 04:45:09
+12516,701975,12,43278677,76,2,4560,76',0,0,Jorge Méndez (Panama U23) Substitution at 76',Jorge Méndez Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,309827.0,2024-06-09 04:45:09
+12516,701975,13,43278678,76,2,4620,77',0,0,Davis Contreras (Panama U23) Substitution at 77',Davis Contreras Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,290961.0,2024-06-09 04:45:09
+12516,701975,13,43278678,76,2,4620,77',0,0,Davis Contreras (Panama U23) Substitution at 77',Davis Contreras Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,342196.0,2024-06-09 04:45:09
+12516,701975,14,43278754,76,2,5040,84',0,0,Oleh Fedor (Ukraine U23) Substitution at 84',Oleh Fedor Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,384548.0,2024-06-09 04:45:09
+12516,701975,14,43278754,76,2,5040,84',0,0,Oleh Fedor (Ukraine U23) Substitution at 84',Oleh Fedor Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,359862.0,2024-06-09 04:45:09
+12516,701975,15,43278819,76,2,5400,90',0,0,Yoameth Murillo (Panama U23) Substitution at 90',Yoameth Murillo Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,340540.0,2024-06-09 04:45:09
+12516,701975,15,43278819,76,2,5400,90',0,0,Yoameth Murillo (Panama U23) Substitution at 90',Yoameth Murillo Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,384978.0,2024-06-09 04:45:09
+12516,701976,1,43285695,70,1,1380,23',1,0,Valy Konaté (Ivory Coast U20) Goal at 23',Valy Konaté Goal,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384986.0,2024-06-10 04:36:33
+12516,701976,2,43285696,94,1,2160,36',0,0,Christ Wawa (Ivory Coast U20) Yellow Card at 36',Christ Wawa Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385001.0,2024-06-10 04:36:33
+12516,701976,3,43285697,94,1,2160,36',0,0,Rodrigo López (Mexico U23) Yellow Card at 36',Rodrigo López Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,344568.0,2024-06-10 04:36:33
+12516,701976,3,43285697,94,1,2160,36',0,0,Rodrigo López (Mexico U23) Yellow Card at 36',Rodrigo López Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,124544.0,2024-06-10 04:36:33
+12516,701976,3,43285697,94,1,2160,36',0,0,Rodrigo López (Mexico U23) Yellow Card at 36',Rodrigo López Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,103806.0,2024-06-10 04:36:33
+12516,701976,4,43285698,94,1,2640,44',0,0,Efrain Álvarez (Mexico U23) Yellow Card at 44',Efrain Álvarez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,260173.0,2024-06-10 04:36:33
+12516,701976,5,43285699,70,2,3060,51',1,0,Vignon Ouotro (Ivory Coast U20) Goal at 51',Vignon Ouotro Goal,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384523.0,2024-06-10 04:36:33
+12516,701976,7,43285701,76,2,3120,52',0,0,Miguel Rodríguez (Mexico U23) Substitution at 52',Miguel Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,83494.0,2024-06-10 04:36:33
+12516,701976,7,43285701,76,2,3120,52',0,0,Miguel Rodríguez (Mexico U23) Substitution at 52',Miguel Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,375198.0,2024-06-10 04:36:33
+12516,701976,7,43285701,76,2,3120,52',0,0,Miguel Rodríguez (Mexico U23) Substitution at 52',Miguel Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,347479.0,2024-06-10 04:36:33
+12516,701976,7,43285701,76,2,3120,52',0,0,Miguel Rodríguez (Mexico U23) Substitution at 52',Miguel Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,342767.0,2024-06-10 04:36:33
+12516,701976,7,43285701,76,2,3120,52',0,0,Miguel Rodríguez (Mexico U23) Substitution at 52',Miguel Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,233134.0,2024-06-10 04:36:33
+12516,701976,6,43285700,76,2,3120,52',0,0,Pablo Alfonso Monroy (Mexico U23) Substitution at 52',Pablo Alfonso Monroy Substitutio,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,359267.0,2024-06-10 04:36:33
+12516,701976,6,43285700,76,2,3120,52',0,0,Pablo Alfonso Monroy (Mexico U23) Substitution at 52',Pablo Alfonso Monroy Substitutio,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,317453.0,2024-06-10 04:36:33
+12516,701976,7,43285701,76,2,3120,52',0,0,Miguel Rodríguez (Mexico U23) Substitution at 52',Miguel Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,327782.0,2024-06-10 04:36:33
+12516,701976,8,43285702,94,2,3540,59',0,0,Bazoumana Touré (Ivory Coast U20) Yellow Card at 59',Bazoumana Touré Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,359108.0,2024-06-10 04:36:33
+12516,701976,10,43285704,76,2,4080,68',0,0,Luca Martinez (Mexico U23) Substitution at 68',Luca Martinez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,309473.0,2024-06-10 04:36:33
+12516,701976,9,43285703,76,2,4080,68',0,0,Alan Bautista (Mexico U23) Substitution at 68',Alan Bautista Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,326072.0,2024-06-10 04:36:33
+12516,701976,10,43285704,76,2,4080,68',0,0,Luca Martinez (Mexico U23) Substitution at 68',Luca Martinez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,329123.0,2024-06-10 04:36:33
+12516,701976,9,43285703,76,2,4080,68',0,0,Alan Bautista (Mexico U23) Substitution at 68',Alan Bautista Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,344568.0,2024-06-10 04:36:33
+12516,701976,9,43285703,76,2,4080,68',0,0,Alan Bautista (Mexico U23) Substitution at 68',Alan Bautista Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,124544.0,2024-06-10 04:36:33
+12516,701976,9,43285703,76,2,4080,68',0,0,Alan Bautista (Mexico U23) Substitution at 68',Alan Bautista Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,103806.0,2024-06-10 04:36:33
+12516,701976,11,43285705,70,2,4200,70',1,0,Ricardo Monreal (Mexico U23) Goal at 70',Ricardo Monreal Goal,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,259971.0,2024-06-10 04:36:33
+12516,701976,13,43285707,94,2,4260,71',0,0,Jorge Berlanga (Mexico U23) Yellow Card at 71',Jorge Berlanga Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,364454.0,2024-06-10 04:36:33
+12516,701976,12,43285706,94,2,4260,71',0,0,Vignon Ouotro (Ivory Coast U20) Yellow Card at 71',Vignon Ouotro Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384523.0,2024-06-10 04:36:33
+12516,701976,15,43285709,76,2,4440,74',0,0,Abdoulaye Djire (Ivory Coast U20) Substitution at 74',Abdoulaye Djire Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,40920.0,2024-06-10 04:36:33
+12516,701976,14,43285708,76,2,4440,74',0,0,Oumar Konaté (Ivory Coast U20) Substitution at 74',Oumar Konaté Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,299566.0,2024-06-10 04:36:33
+12516,701976,15,43285709,76,2,4440,74',0,0,Abdoulaye Djire (Ivory Coast U20) Substitution at 74',Abdoulaye Djire Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,359108.0,2024-06-10 04:36:33
+12516,701976,14,43285708,76,2,4440,74',0,0,Oumar Konaté (Ivory Coast U20) Substitution at 74',Oumar Konaté Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,384523.0,2024-06-10 04:36:33
+12516,701976,16,43285710,94,2,4500,75',0,0,Jesús Gómez (Mexico U23) Yellow Card at 75',Jesús Gómez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,206158.0,2024-06-10 04:36:33
+12516,701976,17,43285711,70,2,4680,78',1,0,Gilbert Bandama (Ivory Coast U20) Goal at 78',Gilbert Bandama Goal,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384987.0,2024-06-10 04:36:33
+12516,701976,18,43285712,76,2,4920,82',0,0,Christ Tapé (Ivory Coast U20) Substitution at 82',Christ Tapé Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385000.0,2024-06-10 04:36:33
+12516,701976,18,43285712,76,2,4920,82',0,0,Christ Tapé (Ivory Coast U20) Substitution at 82',Christ Tapé Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,385001.0,2024-06-10 04:36:33
+12516,701976,20,43285714,94,2,4980,83',0,0,Jorge Rodríguez (Mexico U23) Yellow Card at 83',Jorge Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,79608.0,2024-06-10 04:36:33
+12516,701976,19,43285713,93,2,4980,83',0,0,Jesús Gómez (Mexico U23) Red Card at 83',Jesús Gómez Red Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,206158.0,2024-06-10 04:36:33
+12516,701976,20,43285714,94,2,4980,83',0,0,Jorge Rodríguez (Mexico U23) Yellow Card at 83',Jorge Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,402651.0,2024-06-10 04:36:33
+12516,701976,20,43285714,94,2,4980,83',0,0,Jorge Rodríguez (Mexico U23) Yellow Card at 83',Jorge Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,395030.0,2024-06-10 04:36:33
+12516,701976,20,43285714,94,2,4980,83',0,0,Jorge Rodríguez (Mexico U23) Yellow Card at 83',Jorge Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,375296.0,2024-06-10 04:36:33
+12516,701976,20,43285714,94,2,4980,83',0,0,Jorge Rodríguez (Mexico U23) Yellow Card at 83',Jorge Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,370923.0,2024-06-10 04:36:33
+12516,701976,20,43285714,94,2,4980,83',0,0,Jorge Rodríguez (Mexico U23) Yellow Card at 83',Jorge Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,350308.0,2024-06-10 04:36:33
+12516,701976,20,43285714,94,2,4980,83',0,0,Jorge Rodríguez (Mexico U23) Yellow Card at 83',Jorge Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,331346.0,2024-06-10 04:36:33
+12516,701976,20,43285714,94,2,4980,83',0,0,Jorge Rodríguez (Mexico U23) Yellow Card at 83',Jorge Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,312586.0,2024-06-10 04:36:33
+12516,701976,20,43285714,94,2,4980,83',0,0,Jorge Rodríguez (Mexico U23) Yellow Card at 83',Jorge Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,288110.0,2024-06-10 04:36:33
+12516,701976,20,43285714,94,2,4980,83',0,0,Jorge Rodríguez (Mexico U23) Yellow Card at 83',Jorge Rodríguez Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,149413.0,2024-06-10 04:36:33
+12516,701976,21,43285715,70,2,5160,86',1,0,Oumar Konaté (Ivory Coast U20) Goal at 86',Oumar Konaté Goal,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,299566.0,2024-06-10 04:36:33
+12516,701976,22,43285717,76,2,5220,87',0,0,Antonio Leone (Mexico U23) Substitution at 87',Antonio Leone Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,23761.0,2024-06-10 04:36:33
+12516,701976,22,43285717,76,2,5220,87',0,0,Antonio Leone (Mexico U23) Substitution at 87',Antonio Leone Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,260173.0,2024-06-10 04:36:33
+12516,701976,23,43285718,76,2,5400,90'+2',0,0,Cheick Koné (Ivory Coast U20) Substitution at 92',Cheick Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384998.0,2024-06-10 04:36:33
+12516,701976,24,43285719,76,2,5400,90'+2',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 92',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,396792.0,2024-06-10 04:36:33
+12516,701976,24,43285719,76,2,5400,90'+2',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 92',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385417.0,2024-06-10 04:36:33
+12516,701976,24,43285719,76,2,5400,90'+2',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 92',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385004.0,2024-06-10 04:36:33
+12516,701976,24,43285719,76,2,5400,90'+2',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 92',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,377182.0,2024-06-10 04:36:33
+12516,701976,24,43285719,76,2,5400,90'+2',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 92',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,323997.0,2024-06-10 04:36:33
+12516,701976,24,43285719,76,2,5400,90'+2',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 92',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,221156.0,2024-06-10 04:36:33
+12516,701976,23,43285718,76,2,5400,90'+2',0,0,Cheick Koné (Ivory Coast U20) Substitution at 92',Cheick Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,384991.0,2024-06-10 04:36:33
+12516,701976,24,43285719,76,2,5400,90'+2',0,0,Mohamed Koné (Ivory Coast U20) Substitution at 92',Mohamed Koné Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,357303.0,2024-06-10 04:36:33
+12516,701977,1,43285734,94,1,840,14',0,0,Noé Lebreton (France U20) Yellow Card at 14',Noé Lebreton Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,340685.0,2024-06-10 04:36:33
+12516,701977,2,43285735,70,1,1260,21',1,0,Cheick Keita (France U20) Goal at 21',Cheick Keita Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,207878.0,2024-06-10 04:36:33
+12516,701977,3,43285744,76,2,2700,45',0,0,Othman Ramzi Jasim Al Othman (Saudi Arabia U23) Substitution at 45',Othman Ramzi Jasim Al Othman Sub,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341473.0,2024-06-10 04:36:33
+12516,701977,3,43285744,76,2,2700,45',0,0,Othman Ramzi Jasim Al Othman (Saudi Arabia U23) Substitution at 45',Othman Ramzi Jasim Al Othman Sub,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,337325.0,2024-06-10 04:36:33
+12516,701977,4,43285746,76,2,3420,57',0,0,Brahim Traoré (France U20) Substitution at 57',Brahim Traoré Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,319164.0,2024-06-10 04:36:33
+12516,701977,4,43285746,76,2,3420,57',0,0,Brahim Traoré (France U20) Substitution at 57',Brahim Traoré Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,207878.0,2024-06-10 04:36:33
+12516,701977,5,43285748,76,2,3720,62',0,0,Abdulkarim Darisi (Saudi Arabia U23) Substitution at 62',Abdulkarim Darisi Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,372853.0,2024-06-10 04:36:33
+12516,701977,5,43285748,76,2,3720,62',0,0,Abdulkarim Darisi (Saudi Arabia U23) Substitution at 62',Abdulkarim Darisi Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,341462.0,2024-06-10 04:36:33
+12516,701977,6,43285749,76,2,3780,63',0,0,Meshari Al Nemer (Saudi Arabia U23) Substitution at 63',Meshari Al Nemer Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341461.0,2024-06-10 04:36:33
+12516,701977,6,43285749,76,2,3780,63',0,0,Meshari Al Nemer (Saudi Arabia U23) Substitution at 63',Meshari Al Nemer Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-06-10 04:36:33
+12516,701977,7,43285751,76,2,4080,68',0,0,Alan Virginius (France U20) Substitution at 68',Alan Virginius Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,304743.0,2024-06-10 04:36:33
+12516,701977,10,43285754,76,2,4080,68',0,0,Edouard Michut (France U20) Substitution at 68',Edouard Michut Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,304738.0,2024-06-10 04:36:33
+12516,701977,8,43285752,76,2,4080,68',0,0,Matthis Abline (France U20) Substitution at 68',Matthis Abline Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,318389.0,2024-06-10 04:36:33
+12516,701977,9,43285753,76,2,4080,68',0,0,Mohammed Yousef (Saudi Arabia U23) Substitution at 68',Mohammed Yousef Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,367660.0,2024-06-10 04:36:33
+12516,701977,8,43285752,76,2,4080,68',0,0,Matthis Abline (France U20) Substitution at 68',Matthis Abline Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-06-10 04:36:33
+12516,701977,7,43285751,76,2,4080,68',0,0,Alan Virginius (France U20) Substitution at 68',Alan Virginius Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,361266.0,2024-06-10 04:36:33
+12516,701977,10,43285754,76,2,4080,68',0,0,Edouard Michut (France U20) Substitution at 68',Edouard Michut Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,368008.0,2024-06-10 04:36:33
+12516,701977,9,43285753,76,2,4080,68',0,0,Mohammed Yousef (Saudi Arabia U23) Substitution at 68',Mohammed Yousef Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,331921.0,2024-06-10 04:36:33
+12516,701977,11,43285755,94,2,4200,70',0,0,Yaseen Al Zubaidi (Saudi Arabia U23) Yellow Card at 70',Yaseen Al Zubaidi Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,372852.0,2024-06-10 04:36:33
+12516,701977,12,43285756,76,2,4620,77',0,0,Kassoum Ouattara (France U20) Substitution at 77',Kassoum Ouattara Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,345243.0,2024-06-10 04:36:33
+12516,701977,13,43285757,76,2,4620,77',0,0,Loum Tchaouna (France U20) Substitution at 77',Loum Tchaouna Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,324541.0,2024-06-10 04:36:33
+12516,701977,14,43285758,76,2,4620,77',0,0,Mubarak Abdul Rahman Al Rajeh (Saudi Arabia U23) Substitution at 77',Mubarak Abdul Rahman Al Rajeh Su,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-10 04:36:33
+12516,701977,13,43285757,76,2,4620,77',0,0,Loum Tchaouna (France U20) Substitution at 77',Loum Tchaouna Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,357235.0,2024-06-10 04:36:33
+12516,701977,12,43285756,76,2,4620,77',0,0,Kassoum Ouattara (France U20) Substitution at 77',Kassoum Ouattara Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,360232.0,2024-06-10 04:36:33
+12516,701977,14,43285758,76,2,4620,77',0,0,Mubarak Abdul Rahman Al Rajeh (Saudi Arabia U23) Substitution at 77',Mubarak Abdul Rahman Al Rajeh Su,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,341463.0,2024-06-10 04:36:33
+12516,701977,15,43285759,94,2,4740,79',0,0,Mubarak Abdul Rahman Al Rajeh (Saudi Arabia U23) Yellow Card at 79',Mubarak Abdul Rahman Al Rajeh Ye,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-10 04:36:33
+12516,701977,16,43285763,97,2,5160,86',1,0,Mubarak Abdul Rahman Al Rajeh (Saudi Arabia U23) Own Goal at 86',Mubarak Abdul Rahman Al Rajeh Ow,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-10 04:36:33
+12516,701977,17,43285767,70,2,5400,90'+4',1,0,Noé Lebreton (France U20) Goal at 94',Noé Lebreton Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,340685.0,2024-06-10 04:36:33
+12516,701977,18,43285768,70,2,5400,90'+5',1,0,Loum Tchaouna (France U20) Goal at 95',Loum Tchaouna Goal,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,324541.0,2024-06-10 04:36:33
+12516,701978,1,43289009,94,1,1800,30',0,0,Kosei Ogura (Japan U19) Yellow Card at 30',Kosei Ogura Yellow Card,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,384810.0,2024-06-11 04:35:15
+12516,701978,2,43289011,70,1,2520,42',1,0,Vladyslav Veleten (Ukraine U23) Goal at 42',Vladyslav Veleten Goal,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,384983.0,2024-06-11 04:35:15
+12516,701978,3,43289014,76,2,2700,45',0,0,Hisatsugu Ishii (Japan U19) Substitution at 45',Hisatsugu Ishii Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,359859.0,2024-06-11 04:35:15
+12516,701978,3,43289014,76,2,2700,45',0,0,Hisatsugu Ishii (Japan U19) Substitution at 45',Hisatsugu Ishii Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,384810.0,2024-06-11 04:35:15
+12516,701978,4,43289015,94,2,3240,54',0,0,Oleksandr Martynyuk (Ukraine U23) Yellow Card at 54',Oleksandr Martynyuk Yellow Card,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-11 04:35:15
+12516,701978,5,43289016,70,2,3300,55',1,0,Vladyslav Veleten (Ukraine U23) Goal at 55',Vladyslav Veleten Goal,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,384983.0,2024-06-11 04:35:15
+12516,701978,6,43289017,76,2,3420,57',0,0,Yehor Yarmoliuk (Ukraine U23) Substitution at 57',Yehor Yarmoliuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,342029.0,2024-06-11 04:35:15
+12516,701978,6,43289017,76,2,3420,57',0,0,Yehor Yarmoliuk (Ukraine U23) Substitution at 57',Yehor Yarmoliuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,384548.0,2024-06-11 04:35:15
+12516,701978,7,43289018,76,2,3600,60',0,0,Keita Kosugi (Japan U19) Substitution at 60',Keita Kosugi Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,371596.0,2024-06-11 04:35:15
+12516,701978,7,43289018,76,2,3600,60',0,0,Keita Kosugi (Japan U19) Substitution at 60',Keita Kosugi Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,341714.0,2024-06-11 04:35:15
+12516,701978,8,43289019,76,2,3660,61',0,0,Justin Homma (Japan U19) Substitution at 61',Justin Homma Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362957.0,2024-06-11 04:35:15
+12516,701978,8,43289019,76,2,3660,61',0,0,Justin Homma (Japan U19) Substitution at 61',Justin Homma Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,384730.0,2024-06-11 04:35:15
+12516,701978,9,43289020,76,2,4140,69',0,0,Kyrylo Siheiev (Ukraine U23) Substitution at 69',Kyrylo Siheiev Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,340193.0,2024-06-11 04:35:15
+12516,701978,10,43289021,76,2,4140,69',0,0,Ihor Krasnopir (Ukraine U23) Substitution at 69',Ihor Krasnopir Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,370128.0,2024-06-11 04:35:15
+12516,701978,11,43289022,76,2,4140,69',0,0,Maksym Kucheriavyi (Ukraine U23) Substitution at 69',Maksym Kucheriavyi Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,321354.0,2024-06-11 04:35:15
+12516,701978,9,43289020,76,2,4140,69',0,0,Kyrylo Siheiev (Ukraine U23) Substitution at 69',Kyrylo Siheiev Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,308982.0,2024-06-11 04:35:15
+12516,701978,10,43289021,76,2,4140,69',0,0,Ihor Krasnopir (Ukraine U23) Substitution at 69',Ihor Krasnopir Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,288490.0,2024-06-11 04:35:15
+12516,701978,11,43289022,76,2,4140,69',0,0,Maksym Kucheriavyi (Ukraine U23) Substitution at 69',Maksym Kucheriavyi Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,384983.0,2024-06-11 04:35:15
+12516,701978,12,43289026,76,2,4680,78',0,0,Soma Kanda (Japan U19) Substitution at 78',Soma Kanda Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,379758.0,2024-06-11 04:35:15
+12516,701978,12,43289026,76,2,4680,78',0,0,Soma Kanda (Japan U19) Substitution at 78',Soma Kanda Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,362953.0,2024-06-11 04:35:15
+12516,701978,13,43289027,70,2,4860,81',1,0,Kento Shiogai (Japan U19) Goal at 81',Kento Shiogai Goal,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362959.0,2024-06-11 04:35:15
+12516,701978,15,43289031,76,2,5220,87',0,0,Yevhen Pavliuk (Ukraine U23) Substitution at 87',Yevhen Pavliuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,1,322527.0,2024-06-11 04:35:15
+12516,701978,14,43289030,76,2,5220,87',0,0,Yutaka Michiwaki (Japan U19) Substitution at 87',Yutaka Michiwaki Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,354522.0,2024-06-11 04:35:15
+12516,701978,14,43289030,76,2,5220,87',0,0,Yutaka Michiwaki (Japan U19) Substitution at 87',Yutaka Michiwaki Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,362959.0,2024-06-11 04:35:15
+12516,701978,15,43289031,76,2,5220,87',0,0,Yevhen Pavliuk (Ukraine U23) Substitution at 87',Yevhen Pavliuk Substitution,22240,0.0,0.0,0.0,0.0,0.0,0.0,2,322535.0,2024-06-11 04:35:15
+12516,701979,1,43289226,70,1,1380,23',1,0,Ricardo Hinds (Panama U23) Goal at 23',Ricardo Hinds Goal,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,320424.0,2024-06-11 04:35:15
+12516,701979,2,43289229,70,1,1560,26',1,0,John Alvarado (Panama U23) Goal at 26',John Alvarado Goal,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,342196.0,2024-06-11 04:35:15
+12516,701979,3,43289265,94,1,1980,33',0,0,Ricardo Hinds (Panama U23) Yellow Card at 33',Ricardo Hinds Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,320424.0,2024-06-11 04:35:15
+12516,701979,4,43289263,94,1,2040,34',0,0,Alessandro Bianco (Italy U21) Yellow Card at 34',Alessandro Bianco Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,251776.0,2024-06-11 04:35:15
+12516,701979,5,43289266,94,1,2100,35',0,0,Sebastiano Esposito (Italy U21) Yellow Card at 35',Sebastiano Esposito Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,286929.0,2024-06-11 04:35:15
+12516,701979,6,43289267,70,1,2400,40',1,0,Cher Ndour (Italy U21) Goal at 40',Cher Ndour Goal,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,360061.0,2024-06-11 04:35:15
+12516,701979,7,43289278,76,2,2700,45',0,0,Luis Hasa (Italy U21) Substitution at 45',Luis Hasa Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,364685.0,2024-06-11 04:35:15
+12516,701979,9,43289280,76,2,2700,45',0,0,Cristian Volpato (Italy U21) Substitution at 45',Cristian Volpato Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,330259.0,2024-06-11 04:35:15
+12516,701979,8,43289279,76,2,2700,45',0,0,Rodrigo Tello (Panama U23) Substitution at 45',Rodrigo Tello Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,360201.0,2024-06-11 04:35:15
+12516,701979,8,43289279,76,2,2700,45',0,0,Rodrigo Tello (Panama U23) Substitution at 45',Rodrigo Tello Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,342197.0,2024-06-11 04:35:15
+12516,701979,9,43289280,76,2,2700,45',0,0,Cristian Volpato (Italy U21) Substitution at 45',Cristian Volpato Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,286929.0,2024-06-11 04:35:15
+12516,701979,7,43289278,76,2,2700,45',0,0,Luis Hasa (Italy U21) Substitution at 45',Luis Hasa Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,360235.0,2024-06-11 04:35:15
+12516,701979,8,43289279,76,2,2700,45',0,0,Rodrigo Tello (Panama U23) Substitution at 45',Rodrigo Tello Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,384979.0,2024-06-11 04:35:15
+12516,701979,10,43289290,76,2,3180,53',0,0,Ángel Orelien (Panama U23) Substitution at 53',Ángel Orelien Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,280518.0,2024-06-11 04:35:15
+12516,701979,10,43289290,76,2,3180,53',0,0,Ángel Orelien (Panama U23) Substitution at 53',Ángel Orelien Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,328433.0,2024-06-11 04:35:15
+12516,701979,11,43289291,76,2,3300,55',0,0,Franco Tongya (Italy U21) Substitution at 55',Franco Tongya Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,297219.0,2024-06-11 04:35:15
+12516,701979,11,43289291,76,2,3300,55',0,0,Franco Tongya (Italy U21) Substitution at 55',Franco Tongya Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,347409.0,2024-06-11 04:35:15
+12516,701979,12,43289308,76,2,4020,67',0,0,Mattia Zanotti (Italy U21) Substitution at 67',Mattia Zanotti Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,323117.0,2024-06-11 04:35:15
+12516,701979,12,43289308,76,2,4020,67',0,0,Mattia Zanotti (Italy U21) Substitution at 67',Mattia Zanotti Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,340703.0,2024-06-11 04:35:15
+12516,701979,13,43289315,76,2,4140,69',0,0,Edilson Carrasquilla (Panama U23) Substitution at 69',Edilson Carrasquilla Substitutio,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,309827.0,2024-06-11 04:35:15
+12516,701979,14,43289316,76,2,4140,69',0,0,Ariel Arroyo (Panama U23) Substitution at 69',Ariel Arroyo Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,384978.0,2024-06-11 04:35:15
+12516,701979,14,43289316,76,2,4140,69',0,0,Ariel Arroyo (Panama U23) Substitution at 69',Ariel Arroyo Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,360202.0,2024-06-11 04:35:15
+12516,701979,13,43289315,76,2,4140,69',0,0,Edilson Carrasquilla (Panama U23) Substitution at 69',Edilson Carrasquilla Substitutio,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,342196.0,2024-06-11 04:35:15
+12516,701979,15,43289325,94,2,4740,79',0,0,Cher Ndour (Italy U21) Yellow Card at 79',Cher Ndour Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,360061.0,2024-06-11 04:35:15
+12516,701979,16,43289326,76,2,4860,81',0,0,Leonardo Cerri (Italy U21) Substitution at 81',Leonardo Cerri Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,342101.0,2024-06-11 04:35:15
+12516,701979,16,43289326,76,2,4860,81',0,0,Leonardo Cerri (Italy U21) Substitution at 81',Leonardo Cerri Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,251776.0,2024-06-11 04:35:15
+12516,701979,17,43289330,94,2,5040,84',0,0,Miguel Pérez (Panama U23) Yellow Card at 84',Miguel Pérez Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,375719.0,2024-06-11 04:35:15
+12516,701979,17,43289330,94,2,5040,84',0,0,Miguel Pérez (Panama U23) Yellow Card at 84',Miguel Pérez Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,375491.0,2024-06-11 04:35:15
+12516,701979,17,43289330,94,2,5040,84',0,0,Miguel Pérez (Panama U23) Yellow Card at 84',Miguel Pérez Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,346238.0,2024-06-11 04:35:15
+12516,701979,17,43289330,94,2,5040,84',0,0,Miguel Pérez (Panama U23) Yellow Card at 84',Miguel Pérez Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,338133.0,2024-06-11 04:35:15
+12516,701979,17,43289330,94,2,5040,84',0,0,Miguel Pérez (Panama U23) Yellow Card at 84',Miguel Pérez Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,216149.0,2024-06-11 04:35:15
+12516,701979,18,43289331,94,2,5160,86',0,0,Reyniel Perdomo (Panama U23) Yellow Card at 86',Reyniel Perdomo Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,340541.0,2024-06-11 04:35:15
+12516,701979,19,43289332,93,2,5220,87',0,0,Reyniel Perdomo (Panama U23) Red Card at 87',Reyniel Perdomo Red Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,340541.0,2024-06-11 04:35:15
+12516,701979,20,43289333,76,2,5400,90',0,0,Orman Davis (Panama U23) Substitution at 90',Orman Davis Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,328431.0,2024-06-11 04:35:15
+12516,701979,21,43289334,70,2,5400,90'+6',1,0,Cher Ndour (Italy U21) Goal at 96',Cher Ndour Goal,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,360061.0,2024-06-11 04:35:15
+12516,701979,20,43289333,76,2,5400,90',0,0,Orman Davis (Panama U23) Substitution at 90',Orman Davis Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,320424.0,2024-06-11 04:35:15
+12516,701980,1,43290562,94,1,1920,32',0,0,Kang Dong-Hyun (South Korea U21) Yellow Card at 32',Kang Dong-Hyun Yellow Card,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384765.0,2024-06-12 04:32:15
+12516,701980,3,43290760,76,2,2700,45',0,0,Lee Dong-Yeol (South Korea U21) Substitution at 45',Lee Dong-Yeol Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384769.0,2024-06-12 04:32:15
+12516,701980,2,43290759,76,2,2700,45',0,0,Ryu Seung-Wan (South Korea U21) Substitution at 45',Ryu Seung-Wan Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384768.0,2024-06-12 04:32:15
+12516,701980,3,43290760,76,2,2700,45',0,0,Lee Dong-Yeol (South Korea U21) Substitution at 45',Lee Dong-Yeol Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,379141.0,2024-06-12 04:32:15
+12516,701980,2,43290759,76,2,2700,45',0,0,Ryu Seung-Wan (South Korea U21) Substitution at 45',Ryu Seung-Wan Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,385055.0,2024-06-12 04:32:15
+12516,701980,5,43290831,76,2,3540,59',0,0,Jorge Rodríguez (Mexico U23) Substitution at 59',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,79608.0,2024-06-12 04:32:15
+12516,701980,4,43290830,76,2,3540,59',0,0,Fidel Ambríz (Mexico U23) Substitution at 59',Fidel Ambríz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,298860.0,2024-06-12 04:32:15
+12516,701980,5,43290831,76,2,3540,59',0,0,Jorge Rodríguez (Mexico U23) Substitution at 59',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,402651.0,2024-06-12 04:32:15
+12516,701980,5,43290831,76,2,3540,59',0,0,Jorge Rodríguez (Mexico U23) Substitution at 59',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,395030.0,2024-06-12 04:32:15
+12516,701980,5,43290831,76,2,3540,59',0,0,Jorge Rodríguez (Mexico U23) Substitution at 59',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,375296.0,2024-06-12 04:32:15
+12516,701980,5,43290831,76,2,3540,59',0,0,Jorge Rodríguez (Mexico U23) Substitution at 59',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,370923.0,2024-06-12 04:32:15
+12516,701980,5,43290831,76,2,3540,59',0,0,Jorge Rodríguez (Mexico U23) Substitution at 59',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,350308.0,2024-06-12 04:32:15
+12516,701980,5,43290831,76,2,3540,59',0,0,Jorge Rodríguez (Mexico U23) Substitution at 59',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,331346.0,2024-06-12 04:32:15
+12516,701980,5,43290831,76,2,3540,59',0,0,Jorge Rodríguez (Mexico U23) Substitution at 59',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,312586.0,2024-06-12 04:32:15
+12516,701980,5,43290831,76,2,3540,59',0,0,Jorge Rodríguez (Mexico U23) Substitution at 59',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,288110.0,2024-06-12 04:32:15
+12516,701980,5,43290831,76,2,3540,59',0,0,Jorge Rodríguez (Mexico U23) Substitution at 59',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,149413.0,2024-06-12 04:32:15
+12516,701980,5,43290831,76,2,3540,59',0,0,Jorge Rodríguez (Mexico U23) Substitution at 59',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,316030.0,2024-06-12 04:32:15
+12516,701980,5,43290831,76,2,3540,59',0,0,Jorge Rodríguez (Mexico U23) Substitution at 59',Jorge Rodríguez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,140817.0,2024-06-12 04:32:15
+12516,701980,4,43290830,76,2,3540,59',0,0,Fidel Ambríz (Mexico U23) Substitution at 59',Fidel Ambríz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,375567.0,2024-06-12 04:32:15
+12516,701980,4,43290830,76,2,3540,59',0,0,Fidel Ambríz (Mexico U23) Substitution at 59',Fidel Ambríz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,333402.0,2024-06-12 04:32:15
+12516,701980,4,43290830,76,2,3540,59',0,0,Fidel Ambríz (Mexico U23) Substitution at 59',Fidel Ambríz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,316405.0,2024-06-12 04:32:15
+12516,701980,4,43290830,76,2,3540,59',0,0,Fidel Ambríz (Mexico U23) Substitution at 59',Fidel Ambríz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,264199.0,2024-06-12 04:32:15
+12516,701980,4,43290830,76,2,3540,59',0,0,Fidel Ambríz (Mexico U23) Substitution at 59',Fidel Ambríz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,192278.0,2024-06-12 04:32:15
+12516,701980,4,43290830,76,2,3540,59',0,0,Fidel Ambríz (Mexico U23) Substitution at 59',Fidel Ambríz Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,122060.0,2024-06-12 04:32:15
+12516,701980,6,43290847,76,2,3780,63',0,0,Baek Ji-Ung (South Korea U21) Substitution at 63',Baek Ji-Ung Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384761.0,2024-06-12 04:32:15
+12516,701980,6,43290847,76,2,3780,63',0,0,Baek Ji-Ung (South Korea U21) Substitution at 63',Baek Ji-Ung Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,368973.0,2024-06-12 04:32:15
+12516,701980,7,43290859,76,2,4200,70',0,0,Ettson Ayón (Mexico U23) Substitution at 70',Ettson Ayón Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,329123.0,2024-06-12 04:32:15
+12516,701980,8,43290860,76,2,4200,70',0,0,Efrain Álvarez (Mexico U23) Substitution at 70',Efrain Álvarez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,260173.0,2024-06-12 04:32:15
+12516,701980,7,43290859,76,2,4200,70',0,0,Ettson Ayón (Mexico U23) Substitution at 70',Ettson Ayón Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,309473.0,2024-06-12 04:32:15
+12516,701980,8,43290860,76,2,4200,70',0,0,Efrain Álvarez (Mexico U23) Substitution at 70',Efrain Álvarez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,326072.0,2024-06-12 04:32:15
+12516,701980,9,43290908,76,2,4860,81',0,0,Ahn Jae-Min (South Korea U21) Substitution at 81',Ahn Jae-Min Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384757.0,2024-06-12 04:32:15
+12516,701980,10,43290909,76,2,4860,81',0,0,Ricardo Monreal (Mexico U23) Substitution at 81',Ricardo Monreal Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,259971.0,2024-06-12 04:32:15
+12516,701980,9,43290908,76,2,4860,81',0,0,Ahn Jae-Min (South Korea U21) Substitution at 81',Ahn Jae-Min Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384758.0,2024-06-12 04:32:15
+12516,701980,10,43290909,76,2,4860,81',0,0,Ricardo Monreal (Mexico U23) Substitution at 81',Ricardo Monreal Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,360957.0,2024-06-12 04:32:15
+12516,701980,11,43290963,76,2,5280,88',0,0,Moon Seong-Woo (South Korea U21) Substitution at 88',Moon Seong-Woo Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384756.0,2024-06-12 04:32:15
+12516,701980,11,43290963,76,2,5280,88',0,0,Moon Seong-Woo (South Korea U21) Substitution at 88',Moon Seong-Woo Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384759.0,2024-06-12 04:32:15
+12516,701981,1,43291277,70,1,900,15',1,0,Muhannad Yahya Saeed Al Saad (Saudi Arabia U23) Goal at 15',Muhannad Yahya Saeed Al Saad Goa,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-13 04:30:29
+12516,701981,2,43291360,94,1,2280,38',0,0,Mohamed Koné (Ivory Coast U20) Yellow Card at 38',Mohamed Koné Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,396792.0,2024-06-13 04:30:29
+12516,701981,2,43291360,94,1,2280,38',0,0,Mohamed Koné (Ivory Coast U20) Yellow Card at 38',Mohamed Koné Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385417.0,2024-06-13 04:30:29
+12516,701981,2,43291360,94,1,2280,38',0,0,Mohamed Koné (Ivory Coast U20) Yellow Card at 38',Mohamed Koné Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385004.0,2024-06-13 04:30:29
+12516,701981,2,43291360,94,1,2280,38',0,0,Mohamed Koné (Ivory Coast U20) Yellow Card at 38',Mohamed Koné Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,377182.0,2024-06-13 04:30:29
+12516,701981,2,43291360,94,1,2280,38',0,0,Mohamed Koné (Ivory Coast U20) Yellow Card at 38',Mohamed Koné Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,323997.0,2024-06-13 04:30:29
+12516,701981,2,43291360,94,1,2280,38',0,0,Mohamed Koné (Ivory Coast U20) Yellow Card at 38',Mohamed Koné Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,221156.0,2024-06-13 04:30:29
+12516,701981,3,43291400,94,1,2700,45'+3',0,0,Bamba Goudouss (Ivory Coast U20) Yellow Card at 48',Bamba Goudouss Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384996.0,2024-06-13 04:30:29
+12516,701981,4,43291482,76,2,2700,45',0,0,Sulaiman Hazazi (Saudi Arabia U23) Substitution at 45',Sulaiman Hazazi Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,331921.0,2024-06-13 04:30:29
+12516,701981,4,43291482,76,2,2700,45',0,0,Sulaiman Hazazi (Saudi Arabia U23) Substitution at 45',Sulaiman Hazazi Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,341476.0,2024-06-13 04:30:29
+12516,701981,6,43291570,76,2,3780,63',0,0,Talal Haji (Saudi Arabia U23) Substitution at 63',Talal Haji Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,371390.0,2024-06-13 04:30:29
+12516,701981,5,43291569,76,2,3780,63',0,0,Abdulmalik Al Oyayari (Saudi Arabia U23) Substitution at 63',Abdulmalik Al Oyayari Substituti,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,337325.0,2024-06-13 04:30:29
+12516,701981,6,43291570,76,2,3780,63',0,0,Talal Haji (Saudi Arabia U23) Substitution at 63',Talal Haji Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,341461.0,2024-06-13 04:30:29
+12516,701981,5,43291569,76,2,3780,63',0,0,Abdulmalik Al Oyayari (Saudi Arabia U23) Substitution at 63',Abdulmalik Al Oyayari Substituti,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,371404.0,2024-06-13 04:30:29
+12516,701981,7,43291571,76,2,3840,64',0,0,Othman Ramzi Jasim Al Othman (Saudi Arabia U23) Substitution at 64',Othman Ramzi Jasim Al Othman Sub,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341473.0,2024-06-13 04:30:29
+12516,701981,7,43291571,76,2,3840,64',0,0,Othman Ramzi Jasim Al Othman (Saudi Arabia U23) Substitution at 64',Othman Ramzi Jasim Al Othman Sub,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,384809.0,2024-06-13 04:30:29
+12516,701981,8,43291574,94,2,3900,65',0,0,Cheick Koné (Ivory Coast U20) Yellow Card at 65',Cheick Koné Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384998.0,2024-06-13 04:30:29
+12516,701981,9,43291578,76,2,4020,67',0,0,Christ Tapé (Ivory Coast U20) Substitution at 67',Christ Tapé Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385000.0,2024-06-13 04:30:29
+12516,701981,9,43291578,76,2,4020,67',0,0,Christ Tapé (Ivory Coast U20) Substitution at 67',Christ Tapé Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,359108.0,2024-06-13 04:30:29
+12516,701981,10,43291596,76,2,4440,74',0,0,Mohammed Al Dawsari (Saudi Arabia U23) Substitution at 74',Mohammed Al Dawsari Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341465.0,2024-06-13 04:30:29
+12516,701981,10,43291596,76,2,4440,74',0,0,Mohammed Al Dawsari (Saudi Arabia U23) Substitution at 74',Mohammed Al Dawsari Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,341469.0,2024-06-13 04:30:29
+12516,701981,11,43291597,94,2,4500,75',0,0,Christ Tapé (Ivory Coast U20) Yellow Card at 75',Christ Tapé Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385000.0,2024-06-13 04:30:29
+12516,701981,13,43291608,76,2,4680,78',0,0,Gilbert Bandama (Ivory Coast U20) Substitution at 78',Gilbert Bandama Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384987.0,2024-06-13 04:30:29
+12516,701981,12,43291607,76,2,4680,78',0,0,Eric Simporé (Ivory Coast U20) Substitution at 78',Eric Simporé Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,385002.0,2024-06-13 04:30:29
+12516,701981,14,43291609,76,2,4680,78',0,0,Abdramane Konaté (Ivory Coast U20) Substitution at 78',Abdramane Konaté Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,357303.0,2024-06-13 04:30:29
+12516,701981,12,43291607,76,2,4680,78',0,0,Eric Simporé (Ivory Coast U20) Substitution at 78',Eric Simporé Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,40920.0,2024-06-13 04:30:29
+12516,701981,14,43291609,76,2,4680,78',0,0,Abdramane Konaté (Ivory Coast U20) Substitution at 78',Abdramane Konaté Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,385005.0,2024-06-13 04:30:29
+12516,701981,13,43291608,76,2,4680,78',0,0,Gilbert Bandama (Ivory Coast U20) Substitution at 78',Gilbert Bandama Substitution,2837,0.0,0.0,0.0,0.0,0.0,0.0,2,384995.0,2024-06-13 04:30:29
+12516,701981,15,43291715,94,2,5400,90'+7',0,0,Gilbert Bandama (Ivory Coast U20) Yellow Card at 97',Gilbert Bandama Yellow Card,2837,0.0,0.0,0.0,0.0,0.0,0.0,1,384987.0,2024-06-13 04:30:29
+12516,701982,1,43295087,94,1,2280,38',0,0,Hisatsugu Ishii (Japan U19) Yellow Card at 38',Hisatsugu Ishii Yellow Card,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,359859.0,2024-06-14 04:26:22
+12516,701982,2,43295088,94,2,2880,48',0,0,Joel Guevara (Panama U23) Yellow Card at 48',Joel Guevara Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,384977.0,2024-06-14 04:26:22
+12516,701982,3,43295089,76,2,3480,58',0,0,Kento Shiogai (Japan U19) Substitution at 58',Kento Shiogai Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362959.0,2024-06-14 04:26:22
+12516,701982,3,43295089,76,2,3480,58',0,0,Kento Shiogai (Japan U19) Substitution at 58',Kento Shiogai Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,354522.0,2024-06-14 04:26:22
+12516,701982,4,43295090,94,2,3840,64',0,0,Gustavo Herrera (Panama U23) Yellow Card at 64',Gustavo Herrera Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,141631.0,2024-06-14 04:26:22
+12516,701982,5,43295092,76,2,4380,73',0,0,Justin Homma (Japan U19) Substitution at 73',Justin Homma Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362957.0,2024-06-14 04:26:22
+12516,701982,6,43295093,76,2,4380,73',0,0,Toki Yukutomo (Japan U19) Substitution at 73',Toki Yukutomo Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362953.0,2024-06-14 04:26:22
+12516,701982,6,43295093,76,2,4380,73',0,0,Toki Yukutomo (Japan U19) Substitution at 73',Toki Yukutomo Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,359859.0,2024-06-14 04:26:22
+12516,701982,5,43295092,76,2,4380,73',0,0,Justin Homma (Japan U19) Substitution at 73',Justin Homma Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,362956.0,2024-06-14 04:26:22
+12516,701982,7,43295094,94,2,4560,76',0,0,Moisés Véliz (Panama U23) Yellow Card at 76',Moisés Véliz Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,360012.0,2024-06-14 04:26:22
+12516,701982,8,43295095,76,2,4680,78',0,0,Davis Contreras (Panama U23) Substitution at 78',Davis Contreras Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,290961.0,2024-06-14 04:26:22
+12516,701982,9,43295096,76,2,4680,78',0,0,Yoameth Murillo (Panama U23) Substitution at 78',Yoameth Murillo Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,340540.0,2024-06-14 04:26:22
+12516,701982,9,43295096,76,2,4680,78',0,0,Yoameth Murillo (Panama U23) Substitution at 78',Yoameth Murillo Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,384977.0,2024-06-14 04:26:22
+12516,701982,8,43295095,76,2,4680,78',0,0,Davis Contreras (Panama U23) Substitution at 78',Davis Contreras Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,360012.0,2024-06-14 04:26:22
+12516,701982,10,43295097,76,2,4980,83',0,0,Niko Takahashi (Japan U19) Substitution at 83',Niko Takahashi Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,341714.0,2024-06-14 04:26:22
+12516,701982,10,43295097,76,2,4980,83',0,0,Niko Takahashi (Japan U19) Substitution at 83',Niko Takahashi Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,384729.0,2024-06-14 04:26:22
+12516,701982,11,43295098,76,2,5280,88',0,0,John Alvarado (Panama U23) Substitution at 88',John Alvarado Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,342196.0,2024-06-14 04:26:22
+12516,701982,11,43295098,76,2,5280,88',0,0,John Alvarado (Panama U23) Substitution at 88',John Alvarado Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,141631.0,2024-06-14 04:26:22
+12516,701982,12,43295099,70,2,5400,90'+3',1,0,Soma Kanda (Japan U19) Goal at 93',Soma Kanda Goal,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,379758.0,2024-06-14 04:26:22
+12516,701982,13,43295100,76,2,5400,90'+3',0,0,Jorge Méndez (Panama U23) Substitution at 93',Jorge Méndez Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,260342.0,2024-06-14 04:26:22
+12516,701982,13,43295100,76,2,5400,90'+3',0,0,Jorge Méndez (Panama U23) Substitution at 93',Jorge Méndez Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,384978.0,2024-06-14 04:26:22
+12516,701983,1,43295109,94,1,960,16',0,0,Nicolò Bertola (Italy U21) Yellow Card at 16',Nicolò Bertola Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,319437.0,2024-06-13 04:30:29
+12516,701983,2,43295110,94,1,1080,18',0,0,Arkhan Kaka (Indonesia U20) Yellow Card at 18',Arkhan Kaka Yellow Card,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,376397.0,2024-06-13 04:30:29
+12516,701983,3,43295111,94,1,1920,32',0,0,Alessandro Fontanarosa (Italy U21) Yellow Card at 32',Alessandro Fontanarosa Yellow Ca,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,340704.0,2024-06-13 04:30:29
+12516,701983,4,43295112,70,1,2280,38',1,0,Antonio Raimondo (Italy U21) Goal at 38',Antonio Raimondo Goal,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,319265.0,2024-06-13 04:30:29
+12516,701983,5,43295113,94,1,2340,39',0,0,Edoardo Pieragnolo (Italy U21) Yellow Card at 39',Edoardo Pieragnolo Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,333925.0,2024-06-13 04:30:29
+12516,701983,6,43295117,76,2,2700,45',0,0,Tim Geypens (Indonesia U20) Substitution at 45',Tim Geypens Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,379812.0,2024-06-13 04:30:29
+12516,701983,6,43295117,76,2,2700,45',0,0,Tim Geypens (Indonesia U20) Substitution at 45',Tim Geypens Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,346978.0,2024-06-13 04:30:29
+12516,701983,8,43295119,76,2,3540,59',0,0,Davide Veroli (Italy U21) Substitution at 59',Davide Veroli Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,353091.0,2024-06-13 04:30:29
+12516,701983,10,43295121,76,2,3540,59',0,0,Welberlieskott Jardim (Indonesia U20) Substitution at 59',Welberlieskott Jardim Substituti,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,376416.0,2024-06-13 04:30:29
+12516,701983,9,43295120,76,2,3540,59',0,0,Ji Da-bin (Indonesia U20) Substitution at 59',Ji Da-bin Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,376410.0,2024-06-13 04:30:29
+12516,701983,7,43295118,76,2,3540,59',0,0,Riccardo Turicchia (Italy U21) Substitution at 59',Riccardo Turicchia Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,340703.0,2024-06-13 04:30:29
+12516,701983,9,43295120,76,2,3540,59',0,0,Ji Da-bin (Indonesia U20) Substitution at 59',Ji Da-bin Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,385023.0,2024-06-13 04:30:29
+12516,701983,7,43295118,76,2,3540,59',0,0,Riccardo Turicchia (Italy U21) Substitution at 59',Riccardo Turicchia Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,340707.0,2024-06-13 04:30:29
+12516,701983,8,43295119,76,2,3540,59',0,0,Davide Veroli (Italy U21) Substitution at 59',Davide Veroli Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,333925.0,2024-06-13 04:30:29
+12516,701983,10,43295121,76,2,3540,59',0,0,Welberlieskott Jardim (Indonesia U20) Substitution at 59',Welberlieskott Jardim Substituti,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,376405.0,2024-06-13 04:30:29
+12516,701983,11,43295122,76,2,4140,69',0,0,Jens Raven (Indonesia U20) Substitution at 69',Jens Raven Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385015.0,2024-06-13 04:30:29
+12516,701983,11,43295122,76,2,4140,69',0,0,Jens Raven (Indonesia U20) Substitution at 69',Jens Raven Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,376397.0,2024-06-13 04:30:29
+12516,701983,12,43295123,76,2,4260,71',0,0,Leonardo Cerri (Italy U21) Substitution at 71',Leonardo Cerri Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,342101.0,2024-06-13 04:30:29
+12516,701983,12,43295123,76,2,4260,71',0,0,Leonardo Cerri (Italy U21) Substitution at 71',Leonardo Cerri Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,329738.0,2024-06-13 04:30:29
+12516,701983,13,43295124,76,2,4320,72',0,0,Sebastiano Esposito (Italy U21) Substitution at 72',Sebastiano Esposito Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,286929.0,2024-06-13 04:30:29
+12516,701983,13,43295124,76,2,4320,72',0,0,Sebastiano Esposito (Italy U21) Substitution at 72',Sebastiano Esposito Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,330259.0,2024-06-13 04:30:29
+12516,701983,14,43295125,76,2,5040,84',0,0,Franco Tongya (Italy U21) Substitution at 84',Franco Tongya Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,297219.0,2024-06-13 04:30:29
+12516,701983,14,43295125,76,2,5040,84',0,0,Franco Tongya (Italy U21) Substitution at 84',Franco Tongya Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,360235.0,2024-06-13 04:30:29
+12516,701983,15,43295126,94,2,5280,88',0,0,Daniele Ghilardi (Italy U21) Yellow Card at 88',Daniele Ghilardi Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,340705.0,2024-06-13 04:30:29
+12516,701983,16,43295127,76,2,5340,89',0,0,Alexandro Kamuru (Indonesia U20) Substitution at 89',Alexandro Kamuru Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385010.0,2024-06-13 04:30:29
+12516,701983,16,43295127,76,2,5340,89',0,0,Alexandro Kamuru (Indonesia U20) Substitution at 89',Alexandro Kamuru Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,385012.0,2024-06-13 04:30:29
+12515,704219,1,43300118,94,1,2280,38',0,0,Jin-Ho Jo (South Korea U21) Yellow Card at 38',Jin-Ho Jo Yellow Card,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,297264.0,2024-06-15 04:29:33
+12515,704219,2,43300041,94,1,2520,42',0,0,Toni Firmansyah (Indonesia U20) Yellow Card at 42',Toni Firmansyah Yellow Card,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385023.0,2024-06-15 04:29:33
+12515,704219,4,43300432,76,2,2700,45',0,0,Hwang In-Taek (South Korea U21) Substitution at 45',Hwang In-Taek Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,362200.0,2024-06-15 04:29:33
+12515,704219,5,43300433,76,2,2700,45',0,0,Jung Seung-Bae (South Korea U21) Substitution at 45',Jung Seung-Bae Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384759.0,2024-06-15 04:29:33
+12515,704219,6,43300437,76,2,2700,45',0,0,Riski Afrisal (Indonesia U20) Substitution at 45',Riski Afrisal Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,376399.0,2024-06-15 04:29:33
+12515,704219,3,43300299,76,2,2700,45',0,0,Welberlieskott Jardim (Indonesia U20) Substitution at 45',Welberlieskott Jardim Substituti,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,376416.0,2024-06-15 04:29:33
+12515,704219,5,43300433,76,2,2700,45',0,0,Jung Seung-Bae (South Korea U21) Substitution at 45',Jung Seung-Bae Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384761.0,2024-06-15 04:29:33
+12515,704219,6,43300437,76,2,2700,45',0,0,Riski Afrisal (Indonesia U20) Substitution at 45',Riski Afrisal Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,385016.0,2024-06-15 04:29:33
+12515,704219,4,43300432,76,2,2700,45',0,0,Hwang In-Taek (South Korea U21) Substitution at 45',Hwang In-Taek Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,362684.0,2024-06-15 04:29:33
+12515,704219,3,43300299,76,2,2700,45',0,0,Welberlieskott Jardim (Indonesia U20) Substitution at 45',Welberlieskott Jardim Substituti,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,376405.0,2024-06-15 04:29:33
+12515,704219,7,43300434,76,2,2760,46',0,0,Kang Min-Jun (South Korea U21) Substitution at 46',Kang Min-Jun Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384766.0,2024-06-15 04:29:33
+12515,704219,7,43300434,76,2,2760,46',0,0,Kang Min-Jun (South Korea U21) Substitution at 46',Kang Min-Jun Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384755.0,2024-06-15 04:29:33
+12515,704219,8,43300110,70,2,2820,47',1,0,Baek Ji-Ung (South Korea U21) Goal at 47',Baek Ji-Ung Goal,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384761.0,2024-06-15 04:29:33
+12515,704219,9,43300159,70,2,3540,59',1,0,Baek Ji-Ung (South Korea U21) Goal at 59',Baek Ji-Ung Goal,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384761.0,2024-06-15 04:29:33
+12515,704219,10,43300169,94,2,3660,61',0,0,Jung Sung-Woo (South Korea U21) Yellow Card at 61',Jung Sung-Woo Yellow Card,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384764.0,2024-06-15 04:29:33
+12515,704219,11,43300210,76,2,4080,68',0,0,Taufik Rustam (Indonesia U20) Substitution at 68',Taufik Rustam Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385020.0,2024-06-15 04:29:33
+12515,704219,11,43300210,76,2,4080,68',0,0,Taufik Rustam (Indonesia U20) Substitution at 68',Taufik Rustam Substitution,22268,0.0,0.0,0.0,0.0,0.0,0.0,2,385012.0,2024-06-15 04:29:33
+12515,704219,12,43300266,70,2,4620,77',1,0,Toni Firmansyah (Indonesia U20) Goal at 77',Toni Firmansyah Goal,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385023.0,2024-06-15 04:29:33
+12515,704219,13,43300292,94,2,4860,81',0,0,Sulthan Zaky (Indonesia U20) Yellow Card at 81',Sulthan Zaky Yellow Card,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,369426.0,2024-06-15 04:29:33
+12515,704219,15,43300435,76,2,5100,85',0,0,Lee Dong-Yeol (South Korea U21) Substitution at 85',Lee Dong-Yeol Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384769.0,2024-06-15 04:29:33
+12515,704219,14,43300313,94,2,5100,85',0,0,Dony Pamungkas (Indonesia U20) Yellow Card at 85',Dony Pamungkas Yellow Card,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,360966.0,2024-06-15 04:29:33
+12515,704219,15,43300435,76,2,5100,85',0,0,Lee Dong-Yeol (South Korea U21) Substitution at 85',Lee Dong-Yeol Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,384758.0,2024-06-15 04:29:33
+12515,704219,16,43300436,76,2,5160,86',0,0,Moon Seong-Woo (South Korea U21) Substitution at 86',Moon Seong-Woo Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,1,384756.0,2024-06-15 04:29:33
+12515,704219,16,43300436,76,2,5160,86',0,0,Moon Seong-Woo (South Korea U21) Substitution at 86',Moon Seong-Woo Substitution,19212,0.0,0.0,0.0,0.0,0.0,0.0,2,379141.0,2024-06-15 04:29:33
+12515,704219,18,43300351,94,2,5400,90'+3',0,0,Meshaal Hamzah (Indonesia U20) Yellow Card at 93',Meshaal Hamzah Yellow Card,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385007.0,2024-06-15 04:29:33
+12515,704219,17,43300346,93,2,5400,90'+1',0,0,Toni Firmansyah (Indonesia U20) Red Card at 91',Toni Firmansyah Red Card,22268,0.0,0.0,0.0,0.0,0.0,0.0,1,385023.0,2024-06-15 04:29:33
+12515,704220,1,43300457,94,1,660,11',0,0,Fidel Ambríz (Mexico U23) Yellow Card at 11',Fidel Ambríz Yellow Card,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,298860.0,2024-06-15 04:29:33
+12515,704220,2,43300458,70,1,1260,21',1,0,Soma Kanda (Japan U19) Goal at 21',Soma Kanda Goal,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,379758.0,2024-06-15 04:29:33
+12515,704220,3,43300625,76,2,2700,45',0,0,Yotaro Nakajima (Japan U19) Substitution at 45',Yotaro Nakajima Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,365018.0,2024-06-15 04:29:33
+12515,704220,4,43300626,76,2,2700,45',0,0,Denzell García (Mexico U23) Substitution at 45',Denzell García Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,337308.0,2024-06-15 04:29:33
+12515,704220,5,43300627,76,2,2700,45',0,0,Alan Bautista (Mexico U23) Substitution at 45',Alan Bautista Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,326072.0,2024-06-15 04:29:33
+12515,704220,3,43300625,76,2,2700,45',0,0,Yotaro Nakajima (Japan U19) Substitution at 45',Yotaro Nakajima Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,362956.0,2024-06-15 04:29:33
+12515,704220,4,43300626,76,2,2700,45',0,0,Denzell García (Mexico U23) Substitution at 45',Denzell García Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,103806.0,2024-06-15 04:29:33
+12515,704220,5,43300627,76,2,2700,45',0,0,Alan Bautista (Mexico U23) Substitution at 45',Alan Bautista Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,364454.0,2024-06-15 04:29:33
+12515,704220,4,43300626,76,2,2700,45',0,0,Denzell García (Mexico U23) Substitution at 45',Denzell García Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,124544.0,2024-06-15 04:29:33
+12515,704220,4,43300626,76,2,2700,45',0,0,Denzell García (Mexico U23) Substitution at 45',Denzell García Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,344568.0,2024-06-15 04:29:33
+12515,704220,7,43300630,76,2,3480,58',0,0,Shota Kofie (Japan U19) Substitution at 58',Shota Kofie Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,383203.0,2024-06-15 04:29:33
+12515,704220,6,43300629,76,2,3480,58',0,0,Ramiro Árciga (Mexico U23) Substitution at 58',Ramiro Árciga Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,360957.0,2024-06-15 04:29:33
+12515,704220,6,43300629,76,2,3480,58',0,0,Ramiro Árciga (Mexico U23) Substitution at 58',Ramiro Árciga Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,259971.0,2024-06-15 04:29:33
+12515,704220,7,43300630,76,2,3480,58',0,0,Shota Kofie (Japan U19) Substitution at 58',Shota Kofie Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,362953.0,2024-06-15 04:29:33
+12515,704220,8,43300631,76,2,3900,65',0,0,Justin Homma (Japan U19) Substitution at 65',Justin Homma Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362957.0,2024-06-15 04:29:33
+12515,704220,9,43300632,76,2,3900,65',0,0,Hisatsugu Ishii (Japan U19) Substitution at 65',Hisatsugu Ishii Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,359859.0,2024-06-15 04:29:33
+12515,704220,8,43300631,76,2,3900,65',0,0,Justin Homma (Japan U19) Substitution at 65',Justin Homma Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,340749.0,2024-06-15 04:29:33
+12515,704220,9,43300632,76,2,3900,65',0,0,Hisatsugu Ishii (Japan U19) Substitution at 65',Hisatsugu Ishii Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,384729.0,2024-06-15 04:29:33
+12515,704220,10,43300633,70,2,4020,67',1,0,Kento Shiogai (Japan U19) Goal at 67',Kento Shiogai Goal,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362959.0,2024-06-15 04:29:33
+12515,704220,11,43300634,76,2,4380,73',0,0,Luca Martinez (Mexico U23) Substitution at 73',Luca Martinez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,309473.0,2024-06-15 04:29:33
+12515,704220,11,43300634,76,2,4380,73',0,0,Luca Martinez (Mexico U23) Substitution at 73',Luca Martinez Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,260173.0,2024-06-15 04:29:33
+12515,704220,12,43300635,76,2,4620,77',0,0,Alberto Herrera (Mexico U23) Substitution at 77',Alberto Herrera Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,327782.0,2024-06-15 04:29:33
+12515,704220,12,43300635,76,2,4620,77',0,0,Alberto Herrera (Mexico U23) Substitution at 77',Alberto Herrera Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,350308.0,2024-06-15 04:29:33
+12515,704220,12,43300635,76,2,4620,77',0,0,Alberto Herrera (Mexico U23) Substitution at 77',Alberto Herrera Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,402651.0,2024-06-15 04:29:33
+12515,704220,12,43300635,76,2,4620,77',0,0,Alberto Herrera (Mexico U23) Substitution at 77',Alberto Herrera Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,395030.0,2024-06-15 04:29:33
+12515,704220,12,43300635,76,2,4620,77',0,0,Alberto Herrera (Mexico U23) Substitution at 77',Alberto Herrera Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,375296.0,2024-06-15 04:29:33
+12515,704220,12,43300635,76,2,4620,77',0,0,Alberto Herrera (Mexico U23) Substitution at 77',Alberto Herrera Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,370923.0,2024-06-15 04:29:33
+12515,704220,12,43300635,76,2,4620,77',0,0,Alberto Herrera (Mexico U23) Substitution at 77',Alberto Herrera Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,331346.0,2024-06-15 04:29:33
+12515,704220,12,43300635,76,2,4620,77',0,0,Alberto Herrera (Mexico U23) Substitution at 77',Alberto Herrera Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,312586.0,2024-06-15 04:29:33
+12515,704220,12,43300635,76,2,4620,77',0,0,Alberto Herrera (Mexico U23) Substitution at 77',Alberto Herrera Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,288110.0,2024-06-15 04:29:33
+12515,704220,12,43300635,76,2,4620,77',0,0,Alberto Herrera (Mexico U23) Substitution at 77',Alberto Herrera Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,149413.0,2024-06-15 04:29:33
+12515,704220,12,43300635,76,2,4620,77',0,0,Alberto Herrera (Mexico U23) Substitution at 77',Alberto Herrera Substitution,2888,0.0,0.0,0.0,0.0,0.0,0.0,2,79608.0,2024-06-15 04:29:33
+12515,704220,13,43300636,94,2,4740,79',0,0,Sotaro Hayashi (Japan U19) Yellow Card at 79',Sotaro Hayashi Yellow Card,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362816.0,2024-06-15 04:29:33
+12515,704220,14,43300637,76,2,4980,83',0,0,Keita Kosugi (Japan U19) Substitution at 83',Keita Kosugi Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,371596.0,2024-06-15 04:29:33
+12515,704220,14,43300637,76,2,4980,83',0,0,Keita Kosugi (Japan U19) Substitution at 83',Keita Kosugi Substitution,9252,0.0,0.0,0.0,0.0,0.0,0.0,2,379758.0,2024-06-15 04:29:33
+12515,704220,15,43300638,70,2,5040,84',1,0,Ramiro Árciga (Mexico U23) Goal at 84',Ramiro Árciga Goal,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,360957.0,2024-06-15 04:29:33
+12515,704220,17,43300641,93,2,5400,90'+6',0,0,Jesus Alcantar Rodríguez (Mexico U23) Red Card at 96',Jesus Alcantar Rodríguez Red Car,2888,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-15 04:29:33
+12515,704220,16,43300640,93,2,5400,90'+6',0,0,Kento Shiogai (Japan U19) Red Card at 96',Kento Shiogai Red Card,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,362959.0,2024-06-15 04:29:33
+12515,704220,18,43300642,70,2,5400,90'+7',1,0,Hisatsugu Ishii (Japan U19) Goal at 97',Hisatsugu Ishii Goal,9252,0.0,0.0,0.0,0.0,0.0,0.0,1,359859.0,2024-06-15 04:29:33
+12515,704221,1,43300628,70,1,420,7',1,0,John Alvarado (Panama U23) Goal at 7',John Alvarado Goal,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,342196.0,2024-06-15 04:29:33
+12515,704221,2,43300639,94,1,2700,45',0,0,Othman Ramzi Jasim Al Othman (Saudi Arabia U23) Yellow Card at 45',Othman Ramzi Jasim Al Othman Yel,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341473.0,2024-06-15 04:29:33
+12515,704221,3,43300643,76,2,2700,45',0,0,Abdullah Al Zaid (Saudi Arabia U23) Substitution at 45',Abdullah Al Zaid Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341475.0,2024-06-15 04:29:33
+12515,704221,3,43300643,76,2,2700,45',0,0,Abdullah Al Zaid (Saudi Arabia U23) Substitution at 45',Abdullah Al Zaid Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,341473.0,2024-06-15 04:29:33
+12515,704221,4,43300644,94,2,3480,58',0,0,John Alvarado (Panama U23) Yellow Card at 58',John Alvarado Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,342196.0,2024-06-15 04:29:33
+12515,704221,5,43300645,94,2,3600,60',0,0,Talal Haji (Saudi Arabia U23) Yellow Card at 60',Talal Haji Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,371390.0,2024-06-15 04:29:33
+12515,704221,6,43300646,76,2,4080,68',0,0,Abdulaziz Saud Al Aliwa (Saudi Arabia U23) Substitution at 68',Abdulaziz Saud Al Aliwa Substitu,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,,2024-06-15 04:29:33
+12515,704221,6,43300646,76,2,4080,68',0,0,Abdulaziz Saud Al Aliwa (Saudi Arabia U23) Substitution at 68',Abdulaziz Saud Al Aliwa Substitu,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-06-15 04:29:33
+12515,704221,8,43300654,76,2,4320,72',0,0,Younes Al-Shanqeeti (Saudi Arabia U23) Substitution at 72',Younes Al-Shanqeeti Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,384117.0,2024-06-15 04:29:33
+12515,704221,7,43300648,76,2,4320,72',0,0,Meshari Al Nemer (Saudi Arabia U23) Substitution at 72',Meshari Al Nemer Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341461.0,2024-06-15 04:29:33
+12515,704221,7,43300648,76,2,4320,72',0,0,Meshari Al Nemer (Saudi Arabia U23) Substitution at 72',Meshari Al Nemer Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,371390.0,2024-06-15 04:29:33
+12515,704221,8,43300654,76,2,4320,72',0,0,Younes Al-Shanqeeti (Saudi Arabia U23) Substitution at 72',Younes Al-Shanqeeti Substitution,20950,0.0,0.0,0.0,0.0,0.0,0.0,2,337325.0,2024-06-15 04:29:33
+12515,704221,9,43300649,70,2,4620,77',1,0,Meshari Al Nemer (Saudi Arabia U23) Goal at 77',Meshari Al Nemer Goal,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,341461.0,2024-06-15 04:29:33
+12515,704221,10,43300651,76,2,4980,83',0,0,Gustavo Herrera (Panama U23) Substitution at 83',Gustavo Herrera Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,141631.0,2024-06-15 04:29:33
+12515,704221,11,43300652,76,2,4980,83',0,0,Rodrigo Tello (Panama U23) Substitution at 83',Rodrigo Tello Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,360201.0,2024-06-15 04:29:33
+12515,704221,11,43300652,76,2,4980,83',0,0,Rodrigo Tello (Panama U23) Substitution at 83',Rodrigo Tello Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,342197.0,2024-06-15 04:29:33
+12515,704221,10,43300651,76,2,4980,83',0,0,Gustavo Herrera (Panama U23) Substitution at 83',Gustavo Herrera Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,342196.0,2024-06-15 04:29:33
+12515,704221,11,43300652,76,2,4980,83',0,0,Rodrigo Tello (Panama U23) Substitution at 83',Rodrigo Tello Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,384980.0,2024-06-15 04:29:33
+12515,704221,12,43300653,94,2,5100,85',0,0,Younes Al-Shanqeeti (Saudi Arabia U23) Yellow Card at 85',Younes Al-Shanqeeti Yellow Card,20950,0.0,0.0,0.0,0.0,0.0,0.0,1,384117.0,2024-06-15 04:29:33
+12515,704221,13,43300655,76,2,5400,90',0,0,Yoameth Murillo (Panama U23) Substitution at 90',Yoameth Murillo Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,340540.0,2024-06-15 04:29:33
+12515,704221,14,43300656,94,2,5400,90'+2',0,0,Jimar Sánchez (Panama U23) Yellow Card at 92',Jimar Sánchez Yellow Card,2874,0.0,0.0,0.0,0.0,0.0,0.0,1,385056.0,2024-06-15 04:29:33
+12515,704221,13,43300655,76,2,5400,90',0,0,Yoameth Murillo (Panama U23) Substitution at 90',Yoameth Murillo Substitution,2874,0.0,0.0,0.0,0.0,0.0,0.0,2,92181.0,2024-06-15 04:29:33
+12514,704222,1,43311150,94,1,1440,24',0,0,Nicolò Bertola (Italy U21) Yellow Card at 24',Nicolò Bertola Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,319437.0,2024-06-17 04:37:19
+12514,704222,2,43311162,76,1,1500,25',0,0,Federico Zuccon (Italy U21) Substitution at 25',Federico Zuccon Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,329738.0,2024-06-27 04:28:58
+12514,704222,2,43311162,76,1,1500,25',0,0,Federico Zuccon (Italy U21) Substitution at 25',Federico Zuccon Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,360235.0,2024-06-27 04:28:58
+12514,704222,3,43311269,94,1,2700,45',0,0,Mathias De Amorim (France U20) Yellow Card at 45',Mathias De Amorim Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,368008.0,2024-06-17 04:37:19
+12514,704222,4,43311464,94,2,3600,60',0,0,Loum Tchaouna (France U20) Yellow Card at 60',Loum Tchaouna Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,324541.0,2024-06-17 04:37:19
+12514,704222,5,43311481,76,2,3840,64',0,0,Seydou Fini (Italy U21) Substitution at 64',Seydou Fini Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,347409.0,2024-06-17 04:37:19
+12514,704222,6,43311482,76,2,3840,64',0,0,Cristian Volpato (Italy U21) Substitution at 64',Cristian Volpato Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,330259.0,2024-06-17 04:37:19
+12514,704222,5,43311481,76,2,3840,64',0,0,Seydou Fini (Italy U21) Substitution at 64',Seydou Fini Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,251776.0,2024-06-17 04:37:19
+12514,704222,6,43311482,76,2,3840,64',0,0,Cristian Volpato (Italy U21) Substitution at 64',Cristian Volpato Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,364685.0,2024-06-17 04:37:19
+12514,704222,7,43311483,94,2,3960,66',0,0,Federico Zuccon (Italy U21) Yellow Card at 66',Federico Zuccon Yellow Card,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,329738.0,2024-06-17 04:37:19
+12514,704222,8,43311515,94,2,4500,75',0,0,Edouard Michut (France U20) Yellow Card at 75',Edouard Michut Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,304738.0,2024-06-17 04:37:19
+12514,704222,10,43311524,76,2,4620,77',0,0,Thérence Koudou (France U20) Substitution at 77',Thérence Koudou Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,360232.0,2024-06-17 04:37:19
+12514,704222,9,43311523,76,2,4620,77',0,0,Etienne Camara (France U20) Substitution at 77',Etienne Camara Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,312550.0,2024-06-17 04:37:19
+12514,704222,10,43311524,76,2,4620,77',0,0,Thérence Koudou (France U20) Substitution at 77',Thérence Koudou Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,345243.0,2024-06-17 04:37:19
+12514,704222,9,43311523,76,2,4620,77',0,0,Etienne Camara (France U20) Substitution at 77',Etienne Camara Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,368008.0,2024-06-17 04:37:19
+12514,704222,11,43311528,94,2,4680,78',0,0,William Mikelbrencis (France U20) Yellow Card at 78',William Mikelbrencis Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,313897.0,2024-06-17 04:37:19
+12514,704222,13,43311541,76,2,4980,83',0,0,Leonardo Cerri (Italy U21) Substitution at 83',Leonardo Cerri Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,342101.0,2024-06-17 04:37:19
+12514,704222,14,43311542,76,2,4980,83',0,0,Edoardo Pieragnolo (Italy U21) Substitution at 83',Edoardo Pieragnolo Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,333925.0,2024-06-17 04:37:19
+12514,704222,12,43311540,76,2,4980,83',0,0,Giovanni Bonfanti (Italy U21) Substitution at 83',Giovanni Bonfanti Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,335952.0,2024-06-17 04:37:19
+12514,704222,12,43311540,76,2,4980,83',0,0,Giovanni Bonfanti (Italy U21) Substitution at 83',Giovanni Bonfanti Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,340703.0,2024-06-17 04:37:19
+12514,704222,14,43311542,76,2,4980,83',0,0,Edoardo Pieragnolo (Italy U21) Substitution at 83',Edoardo Pieragnolo Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,353091.0,2024-06-17 04:37:19
+12514,704222,13,43311541,76,2,4980,83',0,0,Leonardo Cerri (Italy U21) Substitution at 83',Leonardo Cerri Substitution,10343,0.0,0.0,0.0,0.0,0.0,0.0,2,319265.0,2024-06-17 04:37:19
+12514,704222,17,43311568,76,2,5220,87',0,0,Cheick Keita (France U20) Substitution at 87',Cheick Keita Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,207878.0,2024-06-27 04:28:58
+12514,704222,15,43311566,76,2,5220,87',0,0,Justin-Noel Kalumba (France U20) Substitution at 87',Justin-Noel Kalumba Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,361266.0,2024-06-17 04:37:19
+12514,704222,16,43311567,76,2,5220,87',0,0,Antoine Joujou (France U20) Substitution at 87',Antoine Joujou Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,357235.0,2024-06-17 04:37:19
+12514,704222,15,43311566,76,2,5220,87',0,0,Justin-Noel Kalumba (France U20) Substitution at 87',Justin-Noel Kalumba Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,,2024-06-17 04:37:19
+12514,704222,16,43311567,76,2,5220,87',0,0,Antoine Joujou (France U20) Substitution at 87',Antoine Joujou Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,324541.0,2024-06-17 04:37:19
+12514,704222,17,43311568,76,2,5220,87',0,0,Cheick Keita (France U20) Substitution at 87',Cheick Keita Substitution,12062,0.0,0.0,0.0,0.0,0.0,0.0,2,304738.0,2024-06-27 04:28:58
+12514,704222,18,43311569,94,2,5280,88',0,0,Matthis Abline (France U20) Yellow Card at 88',Matthis Abline Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,318389.0,2024-06-17 04:37:19
+12514,704222,19,43311570,70,2,5340,89',1,0,Leonardo Cerri (Italy U21) Goal at 89',Leonardo Cerri Goal,10343,0.0,0.0,0.0,0.0,0.0,0.0,1,342101.0,2024-06-17 04:37:19
+12514,704222,20,43311593,93,2,5400,90'+2',0,0,William Mikelbrencis (France U20) Red Card at 92',William Mikelbrencis Red Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,313897.0,2024-06-17 04:37:19
+12514,704222,21,43311600,94,2,5400,90'+4',0,0,Etienne Camara (France U20) Yellow Card at 94',Etienne Camara Yellow Card,12062,0.0,0.0,0.0,0.0,0.0,0.0,1,312550.0,2024-06-17 04:37:19

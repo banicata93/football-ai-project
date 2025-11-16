@@ -1,0 +1,24 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+12845,717322,1,43841818,94,Sean Zawadzki (Columbus Crew) Yellow Card at 32',Sean Zawadzki Yellow Card,1,1920,32',183,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,296221,Sean Zawadzki,2024-09-27 05:38:41
+12845,717322,2,43841936,76,Víctor Dávila (América) Substitution at 61',Víctor Dávila Substitution,2,3660,61',227,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,204923,Víctor Dávila,2024-09-27 05:38:41
+12845,717322,3,43841937,76,Diego Valdés (América) Substitution at 61',Diego Valdés Substitution,2,3660,61',227,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,70983,Diego Valdés,2024-09-27 05:38:41
+12845,717322,4,43841938,76,Rodrigo Aguirre (América) Substitution at 61',Rodrigo Aguirre Substitution,2,3660,61',227,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,159042,Rodrigo Aguirre,2024-09-27 05:38:41
+12845,717322,2,43841936,76,Víctor Dávila (América) Substitution at 61',Víctor Dávila Substitution,2,3660,61',227,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,144325,Brian Rodríguez,2024-09-27 05:38:41
+12845,717322,3,43841937,76,Diego Valdés (América) Substitution at 61',Diego Valdés Substitution,2,3660,61',227,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,212824,Alejandro Zendejas,2024-09-27 05:38:41
+12845,717322,4,43841938,76,Rodrigo Aguirre (América) Substitution at 61',Rodrigo Aguirre Substitution,2,3660,61',227,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,93184,Henry Martín,2024-09-27 05:38:41
+12845,717322,5,43841953,70,Víctor Dávila (América) Goal at 68',Víctor Dávila Goal,2,4080,68',227,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,204923,Víctor Dávila,2024-09-27 05:38:41
+12845,717322,6,43842000,70,Malte Amundsen (Columbus Crew) Goal at 77',Malte Amundsen Goal,2,4620,77',183,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,271075,Malte Amundsen,2024-09-27 05:38:41
+12845,717322,8,43842005,76,Jacen Russell-Rowe (Columbus Crew) Substitution at 78',Jacen Russell-Rowe Substitution,2,4680,78',183,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,297121,Jacen Russell-Rowe,2024-09-27 05:38:41
+12845,717322,7,43842004,76,Alexandru Matan (Columbus Crew) Substitution at 78',Alexandru Matan Substitution,2,4680,78',183,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239736,Alexandru Matan,2024-09-27 05:38:41
+12845,717322,7,43842004,76,Alexandru Matan (Columbus Crew) Substitution at 78',Alexandru Matan Substitution,2,4680,78',183,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,296221,Sean Zawadzki,2024-09-27 05:38:41
+12845,717322,8,43842005,76,Jacen Russell-Rowe (Columbus Crew) Substitution at 78',Jacen Russell-Rowe Substitution,2,4680,78',183,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,235061,Christian Ramírez,2024-09-27 05:38:41
+12845,717322,9,43842015,76,Richard Sánchez (América) Substitution at 81',Richard Sánchez Substitution,2,4860,81',227,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,251986,Richard Sánchez,2024-09-27 05:38:41
+12845,717322,10,43842016,76,Javairo Dilrosun (América) Substitution at 81',Javairo Dilrosun Substitution,2,4860,81',227,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,258971,Javairo Dilrosun,2024-09-27 05:38:41
+12845,717322,9,43842015,76,Richard Sánchez (América) Substitution at 81',Richard Sánchez Substitution,2,4860,81',227,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,137439,Jonathan dos Santos,2024-09-27 05:38:41
+12845,717322,10,43842016,76,Javairo Dilrosun (América) Substitution at 81',Javairo Dilrosun Substitution,2,4860,81',227,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,228730,Cristian Calderón,2024-09-27 05:38:41
+12845,717322,11,43842017,76,Aziel Jackson (Columbus Crew) Substitution at 86',Aziel Jackson Substitution,2,5160,86',183,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,318536,Aziel Jackson,2024-09-27 05:38:41
+12845,717322,11,43842017,76,Aziel Jackson (Columbus Crew) Substitution at 86',Aziel Jackson Substitution,2,5160,86',183,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,235817,Diego Rossi,2024-09-27 05:38:41
+12845,717322,12,43842018,76,DeJuan Jones (Columbus Crew) Substitution at 87',DeJuan Jones Substitution,2,5220,87',183,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,249985,DeJuan Jones,2024-09-27 05:38:41
+12845,717322,12,43842018,76,DeJuan Jones (Columbus Crew) Substitution at 87',DeJuan Jones Substitution,2,5220,87',183,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,359542,Maximilian Arfsten,2024-09-27 05:38:41
+12845,717322,13,43842020,76,Marcelo Herrera (Columbus Crew) Substitution at 88',Marcelo Herrera Substitution,2,5280,88',183,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,286389,Marcelo Herrera,2024-09-27 05:38:41
+12845,717322,13,43842020,76,Marcelo Herrera (Columbus Crew) Substitution at 88',Marcelo Herrera Substitution,2,5280,88',183,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,317021,Mohamed Farsi,2024-09-27 05:38:41

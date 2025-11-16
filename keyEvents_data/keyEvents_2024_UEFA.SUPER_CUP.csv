@@ -1,0 +1,32 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12573,702700,1,43548535,94,1,540,9',0,0,Éderson (Atalanta) Yellow Card at 9',Éderson Yellow Card,105,0.0,0.0,0.0,0.0,0.0,0.0,1,84984,2024-08-15 09:25:00
+12573,702700,1,43548535,94,1,540,9',0,0,Éderson (Atalanta) Yellow Card at 9',Éderson Yellow Card,105,0.0,0.0,0.0,0.0,0.0,0.0,1,176948,2024-08-15 09:25:00
+12573,702700,1,43548535,94,1,540,9',0,0,Éderson (Atalanta) Yellow Card at 9',Éderson Yellow Card,105,0.0,0.0,0.0,0.0,0.0,0.0,1,198981,2024-08-15 09:25:00
+12573,702700,1,43548535,94,1,540,9',0,0,Éderson (Atalanta) Yellow Card at 9',Éderson Yellow Card,105,0.0,0.0,0.0,0.0,0.0,0.0,1,278210,2024-08-15 09:25:00
+12573,702700,2,43548715,94,1,2100,35',0,0,Jude Bellingham (Real Madrid) Yellow Card at 35',Jude Bellingham Yellow Card,86,0.0,0.0,0.0,0.0,0.0,0.0,1,291281,2024-08-15 09:25:00
+12573,702700,3,43548729,94,1,2520,42',0,0,Vinícius Júnior (Real Madrid) Yellow Card at 42',Vinícius Júnior Yellow Card,86,0.0,0.0,0.0,0.0,0.0,0.0,1,252107,2024-08-15 09:25:00
+12573,702700,4,43548893,70,2,3540,59',1,0,Federico Valverde (Real Madrid) Goal at 59',Federico Valverde Goal,86,0.0,0.0,0.0,0.0,0.0,0.0,1,235818,2024-08-15 09:25:00
+12573,702700,6,43548926,76,2,3780,63',0,0,Ben Godfrey (Atalanta) Substitution at 63',Ben Godfrey Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,1,212953,2024-08-15 09:25:00
+12573,702700,5,43548925,76,2,3780,63',0,0,Mateo Retegui (Atalanta) Substitution at 63',Mateo Retegui Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,1,268703,2024-08-15 09:25:00
+12573,702700,5,43548925,76,2,3780,63',0,0,Mateo Retegui (Atalanta) Substitution at 63',Mateo Retegui Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,2,296319,2024-08-15 09:25:00
+12573,702700,6,43548926,76,2,3780,63',0,0,Ben Godfrey (Atalanta) Substitution at 63',Ben Godfrey Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,2,182627,2024-08-15 09:25:00
+12573,702700,7,43548927,94,2,3840,64',0,0,Berat Djimsiti (Atalanta) Yellow Card at 64',Berat Djimsiti Yellow Card,105,0.0,0.0,0.0,0.0,0.0,0.0,1,165291,2024-08-15 09:25:00
+12573,702700,8,43548948,70,2,4080,68',1,0,Kylian Mbappé (Real Madrid) Goal at 68',Kylian Mbappé Goal,86,0.0,0.0,0.0,0.0,0.0,0.0,1,231388,2024-08-15 09:25:00
+12573,702700,9,43548975,76,2,4260,71',0,0,Mitchel Bakker (Atalanta) Substitution at 71',Mitchel Bakker Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,1,267573,2024-08-15 09:25:00
+12573,702700,9,43548975,76,2,4260,71',0,0,Mitchel Bakker (Atalanta) Substitution at 71',Mitchel Bakker Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,2,170553,2024-08-15 09:25:00
+12573,702700,10,43549012,76,2,4560,76',0,0,Luka Modric (Real Madrid) Substitution at 76',Luka Modric Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,76762,2024-08-15 09:25:00
+12573,702700,10,43549012,76,2,4560,76',0,0,Luka Modric (Real Madrid) Substitution at 76',Luka Modric Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,267804,2024-08-15 09:25:00
+12573,702700,11,43549048,76,2,4980,83',0,0,Brahim Díaz (Real Madrid) Substitution at 83',Brahim Díaz Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,246532,2024-08-15 09:25:00
+12573,702700,11,43549048,76,2,4980,83',0,0,Brahim Díaz (Real Madrid) Substitution at 83',Brahim Díaz Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,231388,2024-08-15 09:25:00
+12573,702700,12,43549068,76,2,5280,88',0,0,Arda Güler (Real Madrid) Substitution at 88',Arda Güler Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,310452,2024-08-15 09:25:00
+12573,702700,12,43549068,76,2,5280,88',0,0,Arda Güler (Real Madrid) Substitution at 88',Arda Güler Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,252107,2024-08-15 09:25:00
+12573,702700,14,43549070,76,2,5340,89',0,0,Lucas Vázquez (Real Madrid) Substitution at 89',Lucas Vázquez Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,174967,2024-08-15 09:25:00
+12573,702700,13,43549069,76,2,5340,89',0,0,Dani Ceballos (Real Madrid) Substitution at 89',Dani Ceballos Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,202717,2024-08-15 09:25:00
+12573,702700,14,43549070,76,2,5340,89',0,0,Lucas Vázquez (Real Madrid) Substitution at 89',Lucas Vázquez Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,399731,2024-08-15 09:25:00
+12573,702700,14,43549070,76,2,5340,89',0,0,Lucas Vázquez (Real Madrid) Substitution at 89',Lucas Vázquez Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,1,243922,2024-08-15 09:25:00
+12573,702700,14,43549070,76,2,5340,89',0,0,Lucas Vázquez (Real Madrid) Substitution at 89',Lucas Vázquez Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,168531,2024-08-15 09:25:00
+12573,702700,13,43549069,76,2,5340,89',0,0,Dani Ceballos (Real Madrid) Substitution at 89',Dani Ceballos Substitution,86,0.0,0.0,0.0,0.0,0.0,0.0,2,291281,2024-08-15 09:25:00
+12573,702700,16,43549072,76,2,5400,90',0,0,Alberto Manzoni (Atalanta) Substitution at 90',Alberto Manzoni Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,1,377831,2024-08-15 09:25:00
+12573,702700,15,43549071,76,2,5400,90',0,0,Marco Palestra (Atalanta) Substitution at 90',Marco Palestra Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,1,362486,2024-08-15 09:25:00
+12573,702700,15,43549071,76,2,5400,90',0,0,Marco Palestra (Atalanta) Substitution at 90',Marco Palestra Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,2,312862,2024-08-15 09:25:00
+12573,702700,16,43549072,76,2,5400,90',0,0,Alberto Manzoni (Atalanta) Substitution at 90',Alberto Manzoni Substitution,105,0.0,0.0,0.0,0.0,0.0,0.0,2,189668,2024-08-15 09:25:00

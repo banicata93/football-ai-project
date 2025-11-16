@@ -1,0 +1,2000 @@
+seasonType,eventId,commentaryOrder,playId,clockDisplayValue,commentaryText,updateDateTime
+13654,754719,0,45751881,13',Raphael Kofler (Suditrol) Goal at 13',2025-08-25 04:57:58
+13654,754719,1,45752374,42',Hamza El Kaouakibi (Suditrol) Yellow Card at 42',2025-08-25 04:57:58
+13654,754719,2,45752951,57',Alphadjo Cissè (Catanzaro) Substitution at 57',2025-08-25 04:57:58
+13654,754719,3,45753038,61',Pietro Iemmello (Catanzaro) Goal at 61',2025-08-25 04:57:58
+13654,754719,4,45753372,75',Nicoló Buso (Catanzaro) Substitution at 75',2025-08-25 04:57:58
+13654,754719,5,45753393,75',Costantino Favasuli (Catanzaro) Substitution at 75',2025-08-25 04:57:58
+13654,754719,6,45753394,76',Raphael Odogwu (Suditrol) Substitution at 76',2025-08-25 04:57:58
+13654,754719,7,45753395,76',Fabian Tait (Suditrol) Substitution at 76',2025-08-25 04:57:58
+13654,754719,8,45753496,82',Jacopo Martini (Suditrol) Substitution at 82',2025-08-25 04:57:58
+13654,754719,9,45753515,83',Salvatore Molina (Suditrol) Substitution at 83',2025-08-25 04:57:58
+13654,754719,10,45753647,89',Filipe Bordon (Suditrol) Substitution at 89',2025-08-25 04:57:58
+13654,754719,11,45753695,90'+3',Raphael Kofler (Suditrol) Yellow Card at 93',2025-08-25 04:57:58
+13654,754720,0,45734974,20',Steven Shpendi (Empoli) Goal at 20',2025-08-24 04:58:03
+13654,754720,1,45734999,25',Mattia Bortolussi (Padova) Goal at 25',2025-08-24 04:58:03
+13654,754720,2,45735018,28',Bohdan Popov (Empoli) Substitution at 28',2025-08-24 04:58:03
+13654,754720,3,45735201,41',Bohdan Popov (Empoli) Goal at 41',2025-08-24 04:58:03
+13654,754720,4,45735348,45'+3',Gerard Yepes (Empoli) Yellow Card at 48',2025-08-24 04:58:03
+13654,754720,5,45735676,49',Alessandro Capelli (Padova) Yellow Card at 49',2025-08-24 04:58:03
+13654,754720,6,45735786,54',Daniele Baselli (Padova) Yellow Card at 54',2025-08-24 04:58:03
+13654,754720,7,45735828,57',Antonio Barreca (Padova) Yellow Card at 57',2025-08-24 04:58:03
+13654,754720,8,45735971,65',Paolo Ghiglione (Padova) Substitution at 65',2025-08-24 04:58:03
+13654,754720,9,45735972,65',Marco Perrotta (Padova) Substitution at 65',2025-08-24 04:58:03
+13654,754720,10,45735983,66',Bohdan Popov (Empoli) Goal at 66',2025-08-24 04:58:03
+13654,754720,11,45736083,74',Jonas Harder (Padova) Substitution at 74',2025-08-24 04:58:03
+13654,754720,12,45736084,74',Cristian Buonaiuto (Padova) Substitution at 74',2025-08-24 04:58:03
+13654,754720,13,45736104,74',Paolo Ghiglione (Padova) Yellow Card at 74',2025-08-24 04:58:03
+13654,754720,14,45736155,79',Joseph Ceesay (Empoli) Substitution at 79',2025-08-24 04:58:03
+13654,754720,15,45736183,81',Kevin Lasagna (Padova) Substitution at 81',2025-08-24 04:58:03
+13654,754720,16,45736246,88',Tyronne Ebuehi (Empoli) Substitution at 88',2025-08-24 04:58:03
+13654,754720,17,45736257,88',Brando Moruzzi (Empoli) Substitution at 88',2025-08-24 04:58:03
+13654,754720,18,45736258,88',Ivo Kaczmarski (Empoli) Substitution at 88',2025-08-24 04:58:03
+13654,754720,19,45736321,90'+3',Luca Belardinelli (Empoli) Yellow Card at 93',2025-08-24 04:58:03
+13654,754721,0,45751697,4',Ilias Koutsoupias (Frosinone) Goal at 4',2025-08-25 04:57:58
+13654,754721,1,45752157,28',Riccardo Marchizza (Frosinone) Goal at 28',2025-08-25 04:57:58
+13654,754721,2,45752274,35',Michele Besaggio (US Avellino) Yellow Card at 35',2025-08-25 04:57:58
+13654,754721,3,45752329,39',Ilario Monterisi (Frosinone) Yellow Card at 39',2025-08-25 04:57:58
+13654,754721,4,45752766,48',Kevin Barcella (Frosinone) Yellow Card at 48',2025-08-25 04:57:58
+13654,754721,5,45752906,55',Francesco Gelli (Frosinone) Substitution at 55',2025-08-25 04:57:58
+13654,754721,6,45753003,60',Alessandro Milani (US Avellino) Substitution at 60',2025-08-25 04:57:58
+13654,754721,7,45753004,60',Valerio Crespi (US Avellino) Substitution at 60',2025-08-25 04:57:58
+13654,754721,8,45753066,62',Gabriele Calvani (Frosinone) Red Card at 62',2025-08-25 04:57:58
+13654,754721,9,45753156,66',Gabriele Bracaglia (Frosinone) Substitution at 66',2025-08-25 04:57:58
+13654,754721,10,45753157,66',Massimo Zilli (Frosinone) Substitution at 66',2025-08-25 04:57:58
+13654,754721,11,45753267,70',Justin Kumi (US Avellino) Substitution at 70',2025-08-25 04:57:58
+13654,754721,12,45753268,71',Luca D'Andrea (US Avellino) Substitution at 71',2025-08-25 04:57:58
+13654,754721,13,45753282,71',Giuseppe Panico (US Avellino) Substitution at 71',2025-08-25 04:57:58
+13654,754721,14,45753313,72',Justin Kumi (US Avellino) Yellow Card at 72',2025-08-25 04:57:58
+13654,754721,15,45753361,75',Matteo Cichella (Frosinone) Substitution at 75',2025-08-25 04:57:58
+13654,754721,16,45753362,75',Edoardo Masciangelo (Frosinone) Substitution at 75',2025-08-25 04:57:58
+13654,754721,17,45753604,88',Edoardo Masciangelo (Frosinone) Yellow Card at 88',2025-08-25 04:57:58
+13654,754722,0,45736646,11',Patrick Ciurria (Monza) Yellow Card at 11',2025-08-24 04:58:03
+13654,754722,1,45737034,32',Samuele Birindelli (Monza) Yellow Card at 32',2025-08-24 04:58:03
+13654,754722,2,45737581,47',Nicolò Radaelli (Mantova) Yellow Card at 47',2025-08-24 04:58:03
+13654,754722,3,45737794,56',Armando Izzo (Monza) Goal at 56',2025-08-24 04:58:03
+13654,754722,4,45737873,60',Tommaso Maggioni (Mantova) Substitution at 60',2025-08-24 04:58:03
+13654,754722,5,45737874,60',Davis Mensah (Mantova) Substitution at 60',2025-08-24 04:58:03
+13654,754722,6,45738096,68',Nicolas Galazzi (Monza) Substitution at 68',2025-08-24 04:58:03
+13654,754722,7,45738097,69',Keita Baldé (Monza) Substitution at 69',2025-08-24 04:58:03
+13654,754722,8,45738123,70',Davis Mensah (Mantova) Yellow Card at 70',2025-08-24 04:58:03
+13654,754722,9,45738124,71',Francesco Galuppini (Mantova) Substitution at 71',2025-08-24 04:58:03
+13654,754722,10,45738369,79',Andrea Petagna (Monza) Substitution at 79',2025-08-24 04:58:03
+13654,754722,11,45738370,79',Leonardo Colombo (Monza) Substitution at 79',2025-08-24 04:58:03
+13654,754722,12,45738389,81',Simone Trimboli (Mantova) Yellow Card at 81',2025-08-24 04:58:03
+13654,754722,13,45738418,82',Antonio Fiori (Mantova) Substitution at 82',2025-08-24 04:58:03
+13654,754722,14,45738419,82',David Wieser (Mantova) Substitution at 82',2025-08-24 04:58:03
+13654,754722,15,45738622,89',Filippo Delli Carri (Monza) Substitution at 89',2025-08-24 04:58:03
+13654,754722,16,45738691,90',Keita Baldé (Monza) Yellow Card at 90',2025-08-24 04:58:03
+13654,754723,0,45736992,30',Salim Diakite (Palermo) Yellow Card at 30',2025-08-24 04:58:03
+13654,754723,1,45737130,38',Joel Pohjanpalo (Palermo) Goal at 38',2025-08-24 04:58:03
+13654,754723,2,45737558,45',Patryk Peda (Palermo) Substitution at 45',2025-08-24 04:58:03
+13654,754723,3,45737727,52',Andrea Papetti (Reggiana) Yellow Card at 52',2025-08-24 04:58:03
+13654,754723,4,45737963,62',Elayis Tavsan (Reggiana) Goal at 62',2025-08-24 04:58:03
+13654,754723,5,45738019,64',Niccolò Pierozzi (Palermo) Goal at 64',2025-08-24 04:58:03
+13654,754723,6,45738149,69',Jeremy Le Douaron (Palermo) Substitution at 69',2025-08-24 04:58:03
+13654,754723,7,45738150,70',Alexis Blin (Palermo) Substitution at 70',2025-08-24 04:58:03
+13654,754723,8,45738334,76',Paolo Rozzio (Reggiana) Substitution at 76',2025-08-24 04:58:03
+13654,754723,9,45738390,79',Antonio Palumbo (Palermo) Substitution at 79',2025-08-24 04:58:03
+13654,754723,10,45738451,79',Andrija Novakovich (Reggiana) Substitution at 79',2025-08-24 04:58:03
+13654,754723,11,45738635,87',Giacomo Corona (Palermo) Substitution at 87',2025-08-24 04:58:03
+13654,754723,12,45738663,88',Leo Stulac (Reggiana) Substitution at 88',2025-08-24 04:58:03
+13654,754723,13,45738664,88',Oumar Conte (Reggiana) Substitution at 88',2025-08-24 04:58:03
+13654,754724,0,45724233,31',Jalen Blesa (Cesena) Goal at 31',2025-08-23 05:02:55
+13654,754724,1,45724263,35',Giacomo Olzer (Pescara) Goal at 35',2025-08-23 05:02:55
+13654,754724,2,45724560,48',Cristian Shpendi (Cesena) Goal at 48',2025-08-23 05:02:55
+13654,754724,3,45724660,57',Erdis Kraja (Pescara) Substitution at 57',2025-08-23 05:02:55
+13654,754724,4,45724661,57',Lorenzo Meazzi (Pescara) Substitution at 57',2025-08-23 05:02:55
+13654,754724,5,45724711,63',Dimitri Bisoli (Cesena) Goal at 63',2025-08-23 05:02:55
+13654,754724,6,45724747,67',Gianluca Frabotta (Cesena) Yellow Card at 67',2025-08-23 05:02:55
+13654,754724,7,45724814,74',Gianmarco Cangiano (Pescara) Substitution at 74',2025-08-23 05:02:55
+13654,754724,8,45724815,74',Riccardo Tonin (Pescara) Substitution at 74',2025-08-23 05:02:55
+13654,754724,9,45724816,75',Raffaele Celia (Cesena) Substitution at 75',2025-08-23 05:02:55
+13654,754724,10,45724846,75',Matteo Francesconi (Cesena) Substitution at 75',2025-08-23 05:02:55
+13654,754724,11,45724875,79',Siren Diao (Cesena) Substitution at 79',2025-08-23 05:02:55
+13654,754724,12,45724876,79',Andrea Oliveri (Pescara) Yellow Card at 79',2025-08-23 05:02:55
+13654,754724,13,45724959,85',Emanuele Adamo (Cesena) Substitution at 85',2025-08-23 05:02:55
+13654,754724,14,45724960,85',Tommaso Arrigoni (Cesena) Substitution at 85',2025-08-23 05:02:55
+13654,754724,15,45724971,87',Lorenzo Berardi (Pescara) Substitution at 87',2025-08-23 05:02:55
+13654,754725,0,45759420,37',Francesco Zampano (Modena) Yellow Card at 37',2025-08-26 05:05:37
+13654,754725,1,45759828,61',Francesco Di Mariano (Modena) Yellow Card at 61',2025-08-26 05:05:37
+13654,754725,2,45759840,61',Marvin Cuni (Sampdoria) Substitution at 61',2025-08-26 05:05:37
+13654,754725,3,45759841,61',Simone Pafundi (Sampdoria) Substitution at 61',2025-08-26 05:05:37
+13654,754725,4,45759876,66',Pedro Mendes (Modena) Substitution at 66',2025-08-26 05:05:37
+13654,754725,5,45759884,66',Luca Zanimacchia (Modena) Substitution at 66',2025-08-26 05:05:37
+13654,754725,6,45759944,73',Luca Magnino (Modena) Substitution at 73',2025-08-26 05:05:37
+13654,754725,7,45759945,73',Alessandro Sersanti (Modena) Substitution at 73',2025-08-26 05:05:37
+13654,754725,8,45759946,73',Estanis Pedrola (Sampdoria) Substitution at 73',2025-08-26 05:05:37
+13654,754725,9,45759953,74',Oliver Abildgaard (Sampdoria) Substitution at 74',2025-08-26 05:05:37
+13654,754725,10,45759954,74',Simone Santoro (Modena) Goal at 74',2025-08-26 05:05:37
+13654,754725,11,45760005,79',Simone Pafundi (Sampdoria) Yellow Card at 79',2025-08-26 05:05:37
+13654,754725,12,45760023,81',Víctor Narro (Sampdoria) Substitution at 81',2025-08-26 05:05:37
+13654,754725,13,45760046,83',Luca Zanimacchia (Modena) Yellow Card at 83',2025-08-26 05:05:37
+13654,754725,14,45760071,86',Gady Beyuku (Modena) Yellow Card at 86',2025-08-26 05:05:37
+13654,754725,15,45760091,89',Yanis Massolin (Modena) Substitution at 89',2025-08-26 05:05:37
+13654,754725,16,45760095,90',Luca Zanimacchia (Modena) Goal at 90',2025-08-26 05:05:37
+13654,754726,0,45750155,5',Petko Hristov (Spezia) Yellow Card at 5',2025-08-25 04:57:58
+13654,754726,1,45750467,31',Julián Illanes (Carrarese) Yellow Card at 31',2025-08-25 04:57:58
+13654,754726,2,45750614,44',Rachid Kouda (Spezia) Red Card at 44',2025-08-25 04:57:58
+13654,754726,3,45750627,45',Nicholas Schiavi (Carrarese) Penalty - Scored at 45',2025-08-25 04:57:58
+13654,754726,4,45750639,45',Salvatore Esposito (Spezia) Yellow Card at 45',2025-08-25 04:57:58
+13654,754726,5,45750645,45'+2',Fabio Ruggeri (Carrarese) Yellow Card at 47',2025-08-25 04:57:58
+13654,754726,6,45750902,45',Gabriele Artistico (Spezia) Substitution at 45',2025-08-25 04:57:58
+13654,754726,7,45750918,45',Christian Comotto (Spezia) Substitution at 45',2025-08-25 04:57:58
+13654,754726,8,45751132,65',Filippo Melegoni (Carrarese) Substitution at 65',2025-08-25 04:57:58
+13654,754726,9,45751122,66',Nicolò Calabrese (Carrarese) Substitution at 66',2025-08-25 04:57:58
+13654,754726,10,45751135,67',Pietro Candelari (Spezia) Substitution at 67',2025-08-25 04:57:58
+13654,754726,11,45751140,68',Ales Mateju (Spezia) Yellow Card at 68',2025-08-25 04:57:58
+13654,754726,12,45751155,71',Nicholas Schiavi (Carrarese) Goal at 71',2025-08-25 04:57:58
+13654,754726,13,45751188,75',Ernesto Torregrossa (Carrarese) Substitution at 75',2025-08-25 04:57:58
+13654,754726,14,45751203,75',Devid Eugene Bouah (Carrarese) Substitution at 75',2025-08-25 04:57:58
+13654,754726,15,45751272,82',Christian Comotto (Spezia) Yellow Card at 82',2025-08-25 04:57:58
+13654,754726,16,45751347,88',Manuel Cicconi (Carrarese) Substitution at 88',2025-08-25 04:57:58
+13654,754726,17,45751376,88',Francesco Cassata (Spezia) Substitution at 88',2025-08-25 04:57:58
+13654,754726,18,45751404,90'+1',Giuseppe Di Serio (Spezia) Yellow Card at 91',2025-08-25 04:57:58
+13654,754727,0,45750248,9',Bjarki Steinn Bjarkason (Venezia) Goal at 9',2025-08-25 04:57:58
+13654,754727,1,45750444,26',Emile Dorval (Bari) Goal at 26',2025-08-25 04:57:58
+13654,754727,2,45750606,43',Alfred Duncan (Venezia) Goal at 43',2025-08-25 04:57:58
+13654,754727,3,45750880,52',Seid Korac (Venezia) Yellow Card at 52',2025-08-25 04:57:58
+13654,754727,4,45750881,53',Emanuele Rao (Bari) Substitution at 53',2025-08-25 04:57:58
+13654,754727,5,45750985,61',Daniel Fila (Venezia) Substitution at 61',2025-08-25 04:57:58
+13654,754727,6,45751002,61',Antonio Casas (Venezia) Substitution at 61',2025-08-25 04:57:58
+13654,754727,7,45751056,66',Richie Sagrado (Venezia) Substitution at 66',2025-08-25 04:57:58
+13654,754727,8,45751106,72',Emanuele Rao (Bari) Yellow Card at 72',2025-08-25 04:57:58
+13654,754727,9,45751121,73',Gaetano Castrovilli (Bari) Substitution at 73',2025-08-25 04:57:58
+13654,754727,10,45751167,80',Gastón Pereiro (Bari) Substitution at 80',2025-08-26 05:05:37
+13654,754727,11,45751166,81',Nicola Bellomo (Bari) Substitution at 81',2025-08-26 05:05:37
+13654,754727,12,45751191,85',Enrique Perez (Venezia) Substitution at 85',2025-08-25 04:57:58
+13654,754727,13,45751205,85',Michael Venturi (Venezia) Substitution at 85',2025-08-25 04:57:58
+13654,754728,0,45735567,45',Marco Varnier (Juve Stabia) Substitution at 45',2025-08-24 04:58:03
+13654,754728,1,45735568,45',Alessio Cacciamani (Juve Stabia) Substitution at 45',2025-08-24 04:58:03
+13654,754728,2,45735618,47',Leonardo Candellone (Juve Stabia) Goal at 47',2025-08-24 04:58:03
+13654,754728,3,45735769,53',Leonardo Candellone (Juve Stabia) Yellow Card at 53',2025-08-28 05:06:36
+13654,754728,4,45735864,60',Ivan Marconi (Virtus Entella) Goal at 60',2025-08-24 04:58:03
+13654,754728,5,45735919,63',Christian Pierobon (Juve Stabia) Substitution at 63',2025-08-24 04:58:03
+13654,754728,6,45736004,66',Giuseppe Leone (Juve Stabia) Yellow Card at 66',2025-08-24 04:58:03
+13654,754728,7,45736055,72',Alessandro Debenedetti (Virtus Entella) Substitution at 72',2025-08-24 04:58:03
+13654,754728,8,45736063,72',Marco Dalla Vecchia (Virtus Entella) Substitution at 72',2025-08-24 04:58:03
+13654,754728,9,45736101,75',Tommaso Fumagalli (Virtus Entella) Substitution at 75',2025-08-24 04:58:03
+13654,754728,10,45736225,85',Rares Burnete (Juve Stabia) Substitution at 85',2025-08-24 04:58:03
+13654,754728,11,45736226,86',Mattia Mannini (Juve Stabia) Substitution at 86',2025-08-24 04:58:03
+13654,754728,12,45736244,88',Antonio Boccadamo (Virtus Entella) Substitution at 88',2025-08-24 04:58:03
+13654,754728,13,45736245,88',Marco Emilio Nichetti (Virtus Entella) Yellow Card at 88',2025-08-24 04:58:03
+13654,754728,14,45736324,90'+4',Francesco Mezzoni (Virtus Entella) Yellow Card at 94',2025-08-24 04:58:03
+13654,754729,0,45812260,2',Dany Mota (Monza) Goal at 2',2025-09-01 05:11:18
+13654,754729,1,45812317,4',Luca Ravanelli (Monza) Yellow Card at 4',2025-09-01 05:11:18
+13654,754729,2,45812550,16',Gabriele Moncini (Bari) Goal at 16',2025-09-01 05:11:18
+13654,754729,3,45812625,19',Pedro Obiang (Monza) Yellow Card at 19',2025-09-01 05:11:18
+13654,754729,4,45812798,27',Gianluca Caprari (Monza) Yellow Card at 27',2025-09-01 05:11:18
+13654,754729,5,45812933,33',Anthony Partipilo (Bari) Yellow Card at 33',2025-09-01 05:11:18
+13654,754729,6,45814031,66',Agustín Álvarez Martínez (Monza) Substitution at 66',2025-09-01 05:11:18
+13654,754729,7,45814309,70',Emanuele Rao (Bari) Substitution at 70',2025-09-01 05:11:18
+13654,754729,8,45814427,75',Keita Baldé (Monza) Substitution at 75',2025-09-01 05:11:18
+13654,754729,9,45814428,75',Leonardo Colombo (Monza) Substitution at 75',2025-09-01 05:11:18
+13654,754729,10,45814429,75',Gaetano Castrovilli (Bari) Substitution at 75',2025-09-01 05:11:18
+13654,754729,11,45814502,79',Arvid Brorsson (Monza) Substitution at 79',2025-09-01 05:11:18
+13654,754729,12,45814523,80',Sheriff Kassama (Bari) Substitution at 80',2025-09-01 05:11:18
+13654,754729,13,45814525,80',Mirko Antonucci (Bari) Substitution at 80',2025-09-01 05:11:18
+13654,754729,14,45814592,82',Sheriff Kassama (Bari) Yellow Card at 82',2025-09-01 05:11:18
+13654,754729,15,45814755,88',Filippo Delli Carri (Monza) Yellow Card at 88',2025-09-01 05:11:18
+13654,754730,0,45810630,15',Antonio Barreca (Padova) Yellow Card at 15',2025-09-01 05:11:18
+13654,754730,1,45811016,39',Pietro Fusi (Padova) Yellow Card at 39',2025-09-01 05:11:18
+13654,754730,2,45811103,45'+1',Fabio Ruggeri (Carrarese) Yellow Card at 46',2025-09-01 05:11:18
+13654,754730,3,45811320,45',Filippo Melegoni (Carrarese) Substitution at 45',2025-09-01 05:11:18
+13654,754730,4,45811480,58',Devid Eugene Bouah (Carrarese) Substitution at 58',2025-09-01 05:11:18
+13654,754730,5,45811497,58',Federico Accornero (Carrarese) Substitution at 58',2025-09-01 05:11:18
+13654,754730,6,45811550,60',Pietro Fusi (Padova) Red Card at 60',2025-09-01 05:11:18
+13654,754730,7,45811591,65',Jonas Harder (Padova) Substitution at 65',2025-09-01 05:11:18
+13654,754730,8,45811613,67',Filippo Melegoni (Carrarese) Yellow Card at 67',2025-09-01 05:11:18
+13654,754730,9,45811633,69',Julián Illanes (Carrarese) Yellow Card at 69',2025-09-01 05:11:18
+13654,754730,10,45811646,69',Nikola Sekulov (Carrarese) Substitution at 69',2025-09-01 05:11:18
+13654,754730,11,45811690,76',Kevin Lasagna (Padova) Substitution at 76',2025-09-01 05:11:18
+13654,754730,12,45811708,79',Niccolò Belloni (Carrarese) Substitution at 79',2025-09-01 05:11:18
+13654,754730,13,45811904,85',Lorenzo Crisetig (Padova) Substitution at 85',2025-09-01 05:11:18
+13654,754730,14,45811918,85',Giulio Favale (Padova) Substitution at 85',2025-09-01 05:11:18
+13654,754731,0,45797870,8',Gianluca Frabotta (Cesena) Yellow Card at 8',2025-08-31 05:08:09
+13654,754731,1,45798490,37',Andrea Tiritiello (Virtus Entella) Yellow Card at 37',2025-08-31 05:08:09
+13654,754731,2,45798608,44',Tommaso Berti (Cesena) Yellow Card at 44',2025-08-31 05:08:09
+13654,754731,3,45799266,58',Tommaso Fumagalli (Virtus Entella) Substitution at 58',2025-08-31 05:08:09
+13654,754731,4,45799386,64',Francesco Mezzoni (Virtus Entella) Yellow Card at 64',2025-08-31 05:08:09
+13654,754731,5,45799467,67',Raffaele Celia (Cesena) Substitution at 67',2025-08-31 05:08:09
+13654,754731,6,45799510,68',Matteo Francesconi (Cesena) Substitution at 68',2025-08-31 05:08:09
+13654,754731,7,45799739,78',Ivan Marconi (Virtus Entella) Yellow Card at 78',2025-08-31 05:08:09
+13654,754731,8,45799740,79',Marco Dalla Vecchia (Virtus Entella) Substitution at 79',2025-08-31 05:08:09
+13654,754731,9,45799741,80',Davide Bariti (Virtus Entella) Substitution at 80',2025-08-31 05:08:09
+13654,754731,10,45799754,80',Alessandro Debenedetti (Virtus Entella) Substitution at 80',2025-08-31 05:08:09
+13654,754731,11,45799770,81',Cristian Shpendi (Cesena) Penalty - Scored at 81',2025-08-31 05:08:09
+13654,754731,12,45799906,87',Marco Olivieri (Cesena) Substitution at 87',2025-08-31 05:08:09
+13654,754731,13,45799951,88',Tommaso Arrigoni (Cesena) Substitution at 88',2025-08-31 05:08:09
+13654,754731,14,45799952,88',Antonio Boccadamo (Virtus Entella) Substitution at 88',2025-08-31 05:08:09
+13654,754731,15,45799998,90'+1',Andrea Franzoni (Virtus Entella) Goal at 91',2025-08-31 05:08:09
+13654,754732,0,45795555,16',Rares Burnete (Juve Stabia) Yellow Card at 16',2025-08-31 05:08:09
+13654,754732,1,45795898,37',John Yeboah (Venezia) Red Card at 37',2025-09-06 05:17:32
+13654,754732,2,45796152,45'+1',Issa Doumbia (Venezia) Yellow Card at 46',2025-09-06 05:17:32
+13654,754732,3,45796896,60',Antonio Casas (Venezia) Substitution at 60',2025-09-06 05:17:32
+13654,754732,4,45797121,70',Marco Bellich (Juve Stabia) Substitution at 70',2025-09-06 05:17:32
+13654,754732,5,45797142,70',Kevin Piscopo (Juve Stabia) Substitution at 70',2025-09-06 05:17:32
+13654,754732,6,45797224,75',Alessio Cacciamani (Juve Stabia) Yellow Card at 75',2025-09-06 05:17:32
+13654,754732,7,45797225,76',Michael Venturi (Venezia) Substitution at 76',2025-09-06 05:17:32
+13654,754732,8,45797242,77',Nunzio Lella (Venezia) Substitution at 77',2025-09-06 05:17:32
+13654,754732,9,45797243,77',Mattia Mannini (Juve Stabia) Substitution at 77',2025-09-06 05:17:32
+13654,754732,10,45797244,77',Giacomo De Pieri (Juve Stabia) Substitution at 77',2025-09-06 05:17:32
+13654,754732,11,45797355,85',Richie Sagrado (Venezia) Substitution at 85',2025-09-06 05:17:32
+13654,754732,12,45797356,85',Alessandro Pietrelli (Venezia) Substitution at 85',2025-09-06 05:17:32
+13654,754733,0,45813098,41',Andrea Cagnano (US Avellino) Yellow Card at 41',2025-09-01 05:11:18
+13654,754733,1,45813132,42',Grégoire Defrel (Modena) Yellow Card at 42',2025-09-01 05:11:18
+13654,754733,2,45813800,54',Dimitris Sounas (US Avellino) Goal at 54',2025-09-01 05:11:18
+13654,754733,3,45813945,59',Luca Zanimacchia (Modena) Substitution at 59',2025-09-01 05:11:18
+13654,754733,4,45814005,62',Justin Kumi (US Avellino) Substitution at 62',2025-09-01 05:11:18
+13654,754733,5,45814041,62',Raffaele Russo (US Avellino) Substitution at 62',2025-09-01 05:11:18
+13654,754733,6,45814051,63',Grégoire Defrel (Modena) Goal at 63',2025-09-01 05:11:18
+13654,754733,7,45814387,70',Cosimo Francesco Patierno (US Avellino) Yellow Card at 70',2025-09-01 05:11:18
+13654,754733,8,45814421,71',Pedro Mendes (Modena) Substitution at 71',2025-09-01 05:11:18
+13654,754733,9,45814422,71',Alessandro Sersanti (Modena) Substitution at 71',2025-09-01 05:11:18
+13654,754733,10,45814423,72',Alessandro Fontanarosa (US Avellino) Substitution at 72',2025-09-01 05:11:18
+13654,754733,11,45814483,74',Andrea Cagnano (US Avellino) Red Card at 74',2025-09-01 05:11:18
+13654,754733,12,45814559,78',Luca Magnino (Modena) Substitution at 78',2025-09-01 05:11:18
+13654,754733,13,45814589,78',Francesco Di Mariano (Modena) Substitution at 78',2025-09-01 05:11:18
+13654,754733,14,45814590,79',Alessandro Milani (US Avellino) Substitution at 79',2025-09-01 05:11:18
+13654,754733,15,45814591,79',Valerio Crespi (US Avellino) Substitution at 79',2025-09-01 05:11:18
+13654,754733,16,45814834,90',Dimitris Sounas (US Avellino) Yellow Card at 90',2025-09-01 05:11:18
+13654,754733,17,45814921,90'+3',Luca Magnino (Modena) Yellow Card at 93',2025-09-01 05:11:18
+13654,754733,18,45814961,90'+6',Claudio Manzi (US Avellino) Yellow Card at 96',2025-09-01 05:11:18
+13654,754734,0,45810490,8',Daniele Casiraghi (Suditrol) Goal at 8',2025-09-01 05:11:18
+13654,754734,1,45810658,19',Silvio Merkaj (Suditrol) Goal at 19',2025-09-01 05:11:18
+13654,754734,2,45810857,29',Marius Adamonis (Suditrol) Yellow Card at 29',2025-09-01 05:11:18
+13654,754734,3,45810874,31',Hamza El Kaouakibi (Suditrol) Goal at 31',2025-09-01 05:11:18
+13654,754734,4,45811307,45',Massimo Coda (Sampdoria) Substitution at 45',2025-09-01 05:11:18
+13654,754734,5,45811308,45',Alessandro Mallamo (Suditrol) Substitution at 45',2025-09-01 05:11:18
+13654,754734,6,45811439,56',Estanis Pedrola (Sampdoria) Substitution at 56',2025-09-01 05:11:18
+13654,754734,7,45811549,62',Fabio Depaoli (Sampdoria) Yellow Card at 62',2025-09-01 05:11:18
+13654,754734,8,45811600,67',Raphael Odogwu (Suditrol) Substitution at 67',2025-09-01 05:11:18
+13654,754734,9,45811622,67',Jacopo Martini (Suditrol) Substitution at 67',2025-09-01 05:11:18
+13654,754734,10,45811656,73',Francesco Conti (Sampdoria) Substitution at 73',2025-09-01 05:11:18
+13654,754734,11,45811657,73',Víctor Narro (Sampdoria) Substitution at 73',2025-09-01 05:11:18
+13654,754734,12,45811658,73',Mamadou Coulibaly (Suditrol) Substitution at 73',2025-09-01 05:11:18
+13654,754734,13,45811874,84',Simone Pafundi (Sampdoria) Substitution at 84',2025-09-01 05:11:18
+13654,754734,14,45811900,85',Estanis Pedrola (Sampdoria) Yellow Card at 85',2025-09-01 05:11:18
+13654,754734,15,45811916,86',Federico Davi (Suditrol) Substitution at 86',2025-09-01 05:11:18
+13654,754734,16,45811976,90',Massimo Coda (Sampdoria) Goal at 90',2025-09-01 05:11:18
+13654,754735,0,45798388,30',Giacomo Calo (Frosinone) Yellow Card at 30',2025-08-31 05:08:09
+13654,754735,1,45799384,59',Edoardo Masciangelo (Frosinone) Substitution at 59',2025-08-31 05:08:09
+13654,754735,2,45799385,60',Francesco Gelli (Frosinone) Substitution at 60',2025-08-31 05:08:09
+13654,754735,3,45799502,64',Jeremy Le Douaron (Palermo) Substitution at 64',2025-08-31 05:08:09
+13654,754735,4,45799598,70',Antonio Palumbo (Palermo) Substitution at 70',2025-08-31 05:08:09
+13654,754735,5,45799627,70',Claudio Gomes (Palermo) Substitution at 70',2025-08-31 05:08:09
+13654,754735,6,45799701,74',Matteo Cichella (Frosinone) Substitution at 74',2025-08-31 05:08:09
+13654,754735,7,45799702,74',Massimo Zilli (Frosinone) Substitution at 74',2025-08-31 05:08:09
+13654,754735,8,45799738,75',Jacopo Gelli (Frosinone) Yellow Card at 75',2025-08-31 05:08:09
+13654,754735,9,45799781,76',Gabriele Bracaglia (Frosinone) Yellow Card at 76',2025-08-31 05:08:09
+13654,754735,10,45799895,82',Jérémy Oyono (Frosinone) Substitution at 82',2025-08-31 05:08:09
+13654,754735,11,45799896,83',Patryk Peda (Palermo) Substitution at 83',2025-08-31 05:08:09
+13654,754735,12,45799897,83',Giacomo Corona (Palermo) Substitution at 83',2025-08-31 05:08:09
+13654,754735,13,45800140,90'+5',Mattia Bani (Palermo) Yellow Card at 95',2025-08-31 05:08:09
+13654,754736,0,45783334,12',Bohdan Popov (Empoli) Goal at 12',2025-08-30 05:04:44
+13654,754736,1,45783669,42',Gabriele Guarino (Empoli) Red Card at 42',2025-08-30 05:04:44
+13654,754736,2,45783670,44',Cedric Gondo (Reggiana) Penalty - Scored at 44',2025-08-30 05:04:44
+13654,754736,3,45783873,45'+1',Nosa Obaretin (Empoli) Red Card at 46',2025-08-30 05:04:44
+13654,754736,4,45784144,45',Leonardo Mendicino (Reggiana) Substitution at 45',2025-08-30 05:04:44
+13654,754736,5,45784168,45',Marco Curto (Empoli) Substitution at 45',2025-08-30 05:04:44
+13654,754736,6,45784464,57',Tobías Reinhart (Reggiana) Goal at 57',2025-08-30 05:04:44
+13654,754736,7,45784480,58',Tyronne Ebuehi (Empoli) Substitution at 58',2025-08-30 05:04:44
+13654,754736,8,45784774,70',Ismael Konaté (Empoli) Substitution at 70',2025-08-30 05:04:44
+13654,754736,9,45784784,73',Lorenzo Ignacchiti (Empoli) Yellow Card at 73',2025-08-30 05:04:44
+13654,754736,10,45784987,78',Manolo Portanova (Reggiana) Goal at 78',2025-08-30 05:04:44
+13654,754736,11,45785022,80',Andrija Novakovich (Reggiana) Substitution at 80',2025-08-30 05:04:44
+13654,754736,12,45785063,83',Brando Moruzzi (Empoli) Substitution at 83',2025-08-30 05:04:44
+13654,754736,13,45785064,83',Luca Belardinelli (Empoli) Substitution at 83',2025-08-30 05:04:44
+13654,754736,14,45785085,84',Francesco Vallarelli (Reggiana) Substitution at 84',2025-08-30 05:04:44
+13654,754736,15,45785086,84',Andrea Bozzolan (Reggiana) Substitution at 84',2025-08-30 05:04:44
+13654,754736,16,45785112,87',Damiano Basili (Reggiana) Substitution at 87',2025-08-30 05:04:44
+13654,754737,0,45797696,1',Salvatore Esposito (Spezia) Yellow Card at 1',2025-08-31 05:08:09
+13654,754737,1,45797832,6',Alphadjo Cissè (Catanzaro) Yellow Card at 6',2025-08-31 05:08:09
+13654,754737,2,45799008,48',Pietro Candelari (Spezia) Yellow Card at 48',2025-08-31 05:08:09
+13654,754737,3,45799276,60',Nicoló Buso (Catanzaro) Substitution at 60',2025-08-31 05:08:09
+13654,754737,4,45799307,60',Gianluca Di Chiara (Catanzaro) Substitution at 60',2025-08-31 05:08:09
+13654,754737,5,45799308,60',Francesco Cassata (Spezia) Substitution at 60',2025-08-31 05:08:09
+13654,754737,6,45799515,68',Edoardo Soleri (Spezia) Substitution at 68',2025-08-31 05:08:09
+13654,754737,7,45799516,68',Christian Comotto (Spezia) Substitution at 68',2025-08-31 05:08:09
+13654,754737,8,45799626,75',Pietro Beruatto (Spezia) Substitution at 75',2025-08-31 05:08:09
+13654,754737,9,45799638,75',Vanja Vlahovic (Spezia) Substitution at 75',2025-08-31 05:08:09
+13654,754737,10,45799676,77',Ruggero Frosinini (Catanzaro) Substitution at 77',2025-08-31 05:08:09
+13654,754737,11,45799771,81',Ruggero Frosinini (Catanzaro) Yellow Card at 81',2025-08-31 05:08:09
+13654,754737,12,45799772,81',Ales Mateju (Spezia) Yellow Card at 81',2025-08-31 05:08:09
+13654,754737,13,45799883,85',Patrick Nuamah (Catanzaro) Substitution at 85',2025-08-31 05:08:09
+13654,754737,14,45800058,90'+5',Filippo Pittarello (Catanzaro) Yellow Card at 95',2025-08-31 05:08:09
+13654,754738,0,45795660,29',Leonardo Mancuso (Mantova) Penalty - Scored at 29',2025-08-31 05:08:09
+13654,754738,1,45795998,44',Nicolò Radaelli (Mantova) Yellow Card at 44',2025-08-31 05:08:09
+13654,754738,2,45796486,48',Andrea Oliveri (Pescara) Yellow Card at 48',2025-08-31 05:08:09
+13654,754738,3,45796583,51',Valerio Mantovani (Mantova) Yellow Card at 51',2025-08-31 05:08:09
+13654,754738,4,45796667,52',Leonardo Mancuso (Mantova) Yellow Card at 52',2025-08-31 05:08:09
+13654,754738,5,45796682,53',Marco Festa (Mantova) Own Goal at 53',2025-08-31 05:08:09
+13654,754738,6,45797098,68',Cristiano Bani (Mantova) Yellow Card at 68',2025-08-31 05:08:09
+13654,754738,7,45797099,69',Davide Bragantini (Mantova) Substitution at 69',2025-08-31 05:08:09
+13654,754738,8,45797100,69',Davis Mensah (Mantova) Substitution at 69',2025-08-31 05:08:09
+13654,754738,9,45797190,75',Davide Merola (Pescara) Substitution at 75',2025-08-31 05:08:09
+13654,754738,10,45797191,75',Davide Giannini (Pescara) Substitution at 75',2025-08-31 05:08:09
+13654,754738,11,45797195,76',Zan Majer (Mantova) Substitution at 76',2025-08-31 05:08:09
+13654,754738,12,45797330,84',Antonio Fiori (Mantova) Substitution at 84',2025-08-31 05:08:09
+13654,754738,13,45797331,84',César Falletti (Mantova) Substitution at 84',2025-08-31 05:08:09
+13654,754738,14,45797354,86',Antonio Fiori (Mantova) Goal at 86',2025-08-31 05:08:09
+13654,754738,15,45797431,89',Lorenzo Meazzi (Pescara) Substitution at 89',2025-08-31 05:08:09
+13654,754738,16,45797432,89',Andrea Ferraris (Pescara) Substitution at 89',2025-08-31 05:08:09
+13654,754738,17,45797447,89',Lorenzo Berardi (Pescara) Substitution at 89',2025-08-31 05:08:09
+13654,754738,18,45797474,90'+1',Gabriele Corbo (Pescara) Yellow Card at 91',2025-08-31 05:08:09
+13654,754739,0,45888618,7',Andrea Tiritiello (Virtus Entella) Goal at 7',2025-09-15 05:16:59
+13654,754739,1,45889040,32',Tommaso Maggioni (Mantova) Substitution at 32',2025-09-15 05:16:59
+13654,754739,2,45889157,38',Andrea Franzoni (Virtus Entella) Yellow Card at 38',2025-09-15 05:16:59
+13654,754739,3,45889303,45'+3',Tommaso Fumagalli (Virtus Entella) Yellow Card at 48',2025-09-15 05:16:59
+13654,754739,4,45889679,59',César Falletti (Mantova) Substitution at 59',2025-09-15 05:16:59
+13654,754739,5,45889680,59',Davis Mensah (Mantova) Substitution at 59',2025-09-15 05:16:59
+13654,754739,6,45889681,59',Maat Caprini (Mantova) Substitution at 59',2025-09-15 05:16:59
+13654,754739,7,45889803,65',Alessandro Debenedetti (Virtus Entella) Substitution at 65',2025-09-15 05:16:59
+13654,754739,8,45889827,65',David Ankeye (Virtus Entella) Substitution at 65',2025-09-15 05:16:59
+13654,754739,9,45890007,74',Stefano Di Mario (Virtus Entella) Yellow Card at 74',2025-09-15 05:16:59
+13654,754739,10,45890008,75',Zan Majer (Mantova) Substitution at 75',2025-09-15 05:16:59
+13654,754739,11,45890045,75',Luca Parodi (Virtus Entella) Substitution at 75',2025-09-15 05:16:59
+13654,754739,12,45890175,84',Antonio Boccadamo (Virtus Entella) Substitution at 84',2025-09-15 05:16:59
+13654,754739,13,45890182,85',Nermin Karic (Virtus Entella) Substitution at 85',2025-09-15 05:16:59
+13654,754740,0,45875362,10',Stipe Vulikic (Sampdoria) Yellow Card at 10',2025-09-14 05:28:00
+13654,754740,1,45875620,24',Alessandro Pio Riccio (Sampdoria) Yellow Card at 24',2025-09-14 05:28:00
+13654,754740,2,45875819,37',Michele Castagnetti (Cesena) Goal at 37',2025-09-14 05:28:00
+13654,754740,3,45876247,45',Marvin Cuni (Sampdoria) Substitution at 45',2025-09-14 05:28:00
+13654,754740,4,45876323,52',Luigi Cherubini (Sampdoria) Substitution at 52',2025-09-14 05:28:00
+13654,754740,5,45876336,53',Giovanni Zaro (Cesena) Goal at 53',2025-09-14 05:28:00
+13654,754740,6,45876393,57',Liam Henderson (Sampdoria) Yellow Card at 57',2025-09-14 05:28:00
+13654,754740,7,45876545,69',Simone Pafundi (Sampdoria) Substitution at 69',2025-09-14 05:28:00
+13654,754740,8,45876546,70',Fabio Depaoli (Sampdoria) Substitution at 70',2025-09-14 05:28:00
+13654,754740,9,45876578,71',Cristian Shpendi (Cesena) Yellow Card at 71',2025-09-14 05:28:00
+13654,754740,10,45876761,78',Emanuele Adamo (Cesena) Substitution at 78',2025-09-14 05:28:00
+13654,754740,11,45876795,78',Matteo Francesconi (Cesena) Substitution at 78',2025-09-14 05:28:00
+13654,754740,12,45876904,82',Tommaso Berti (Cesena) Yellow Card at 82',2025-09-14 05:28:00
+13654,754740,13,45876942,83',Alessandro Bellemo (Sampdoria) Substitution at 83',2025-09-14 05:28:00
+13654,754740,14,45876943,84',Simone Bastoni (Cesena) Substitution at 84',2025-09-14 05:28:00
+13654,754740,15,45876975,84',Siren Diao (Cesena) Substitution at 84',2025-09-14 05:28:00
+13654,754740,16,45877004,86',Fabio Depaoli (Sampdoria) Yellow Card at 86',2025-09-14 05:28:00
+13654,754740,17,45877144,90'+2',Nicholas Ioannou (Sampdoria) Goal at 92',2025-09-14 05:28:00
+13654,754741,0,45868001,20',Andrea Adorante (Venezia) Penalty - Scored at 20',2025-09-14 05:28:00
+13654,754741,1,45868748,45',Riccardo Capellini (Pescara) Substitution at 45',2025-09-14 05:28:00
+13654,754741,2,45868759,45',Luca Valzania (Pescara) Substitution at 45',2025-09-14 05:28:00
+13654,754741,3,45869321,60',Daniel Fila (Venezia) Substitution at 60',2025-09-14 05:28:00
+13654,754741,4,45869322,60',Mattia Compagnon (Venezia) Substitution at 60',2025-09-14 05:28:00
+13654,754741,5,45869471,66',Daniel Fila (Venezia) Goal at 66',2025-09-14 05:28:00
+13654,754741,6,45869518,67',Sebastiano Desplanches (Pescara) Yellow Card at 67',2025-09-14 05:28:00
+13654,754741,7,45869641,71',Davide Merola (Pescara) Substitution at 71',2025-09-14 05:28:00
+13654,754741,8,45869642,71',Antonio Di Nardo (Pescara) Substitution at 71',2025-09-14 05:28:00
+13654,754741,9,45869939,77',Ridgeciano Haps (Venezia) Substitution at 77',2025-09-14 05:28:00
+13654,754741,10,45869998,77',Nunzio Lella (Venezia) Substitution at 77',2025-09-14 05:28:00
+13654,754741,11,45869999,77',Gaetano Letizia (Pescara) Substitution at 77',2025-09-14 05:28:00
+13654,754741,12,45870156,79',Giacomo Olzer (Pescara) Goal at 79',2025-09-14 05:28:00
+13654,754741,13,45870451,88',Emil Bohinen (Venezia) Substitution at 88',2025-09-14 05:28:00
+13654,754741,14,45870545,90'+1',Antonio Di Nardo (Pescara) Goal at 91',2025-09-14 05:28:00
+13654,754741,15,45870624,90'+5',Ridgeciano Haps (Venezia) Yellow Card at 95',2025-09-14 05:28:00
+13654,754742,0,45868066,25',Ben Lhassine Kone (Frosinone) Substitution at 25',2025-09-14 05:28:00
+13654,754742,1,45868235,37',Gabriele Bracaglia (Frosinone) Goal at 37',2025-09-14 05:28:00
+13654,754742,2,45868326,43',Giorgio Cittadini (Frosinone) Yellow Card at 43',2025-09-14 05:28:00
+13654,754742,3,45868388,45'+2',Antonio Barreca (Padova) Yellow Card at 47',2025-09-14 05:28:00
+13654,754742,4,45868791,45',Anthony Oyono (Frosinone) Substitution at 45',2025-09-14 05:28:00
+13654,754742,5,45869212,56',Antonio Raimondo (Frosinone) Substitution at 56',2025-09-14 05:28:00
+13654,754742,6,45869476,65',Luca Di Maggio (Padova) Substitution at 65',2025-09-14 05:28:00
+13654,754742,7,45869533,65',Cristian Buonaiuto (Padova) Substitution at 65',2025-10-10 12:44:37
+13654,754742,8,45869696,71',Matteo Cichella (Frosinone) Substitution at 71',2025-09-14 05:28:00
+13654,754742,9,45869697,71',Giorgi Kvernadze (Frosinone) Substitution at 71',2025-09-14 05:28:00
+13654,754742,10,45869752,71',Giulio Favale (Padova) Substitution at 71',2025-09-14 05:28:00
+13654,754742,11,45869969,76',Gabriele Bracaglia (Frosinone) Yellow Card at 76',2025-09-14 05:28:00
+13654,754742,12,45870049,77',Jonathan Silva (Padova) Substitution at 77',2025-09-14 05:28:00
+13654,754743,0,45868130,30',Emile Dorval (Bari) Yellow Card at 30',2025-09-14 05:28:00
+13654,754743,1,45868131,32',Ettore Gliozzi (Modena) Penalty - Scored at 32',2025-09-14 05:28:00
+13654,754743,2,45869091,54',Ettore Gliozzi (Modena) Penalty - Scored at 54',2025-09-14 05:28:00
+13654,754743,3,45869207,56',Emanuele Rao (Bari) Substitution at 56',2025-09-14 05:28:00
+13654,754743,4,45869228,56',Gaetano Castrovilli (Bari) Substitution at 56',2025-10-10 12:44:37
+13654,754743,5,45869296,59',Matthias Braunöder (Bari) Yellow Card at 59',2025-09-14 05:28:00
+13654,754743,6,45869510,67',Alessandro Sersanti (Modena) Substitution at 67',2025-09-14 05:28:00
+13654,754743,7,45869555,67',Gady Beyuku (Modena) Substitution at 67',2025-09-14 05:28:00
+13654,754743,8,45869741,71',Mirko Antonucci (Bari) Substitution at 71',2025-09-14 05:28:00
+13654,754743,9,45869742,71',Giulio Maggiore (Bari) Substitution at 71',2025-09-14 05:28:00
+13654,754743,10,45869860,74',Alessandro Sersanti (Modena) Yellow Card at 74',2025-09-14 05:28:00
+13654,754743,11,45870077,78',Grégoire Defrel (Modena) Substitution at 78',2025-09-14 05:28:00
+13654,754743,12,45870078,79',Pedro Mendes (Modena) Substitution at 79',2025-09-14 05:28:00
+13654,754743,13,45870243,81',Nicola Bellomo (Bari) Substitution at 81',2025-09-14 05:28:00
+13654,754743,14,45870505,88',Luca Magnino (Modena) Substitution at 88',2025-09-14 05:28:00
+13654,754743,15,45870506,89',Pedro Mendes (Modena) Goal at 89',2025-09-14 05:28:00
+13654,754744,0,45868023,21',Nicola Mosti (Juve Stabia) Yellow Card at 21',2025-09-14 05:28:00
+13654,754744,1,45868564,45',Alessandro Gabrielloni (Juve Stabia) Substitution at 45',2025-09-14 05:28:00
+13654,754744,2,45868599,45',Natan Girma (Reggiana) Substitution at 45',2025-09-14 05:28:00
+13654,754744,3,45868600,45',Massimo Bertagnoli (Reggiana) Substitution at 45',2025-09-14 05:28:00
+13654,754744,4,45869122,59',Mattia Mannini (Juve Stabia) Substitution at 59',2025-09-14 05:28:00
+13654,754744,5,45869173,59',Christian Pierobon (Juve Stabia) Substitution at 59',2025-09-14 05:28:00
+13654,754744,6,45869457,70',Rares Burnete (Juve Stabia) Substitution at 70',2025-09-14 05:28:00
+13654,754744,7,45869458,70',Mattia Mannini (Juve Stabia) Yellow Card at 70',2025-09-14 05:28:00
+13654,754744,8,45869777,78',Marco Varnier (Juve Stabia) Substitution at 78',2025-09-14 05:28:00
+13654,754744,9,45869778,78',Charlys (Reggiana) Substitution at 78',2025-09-14 05:28:00
+13654,754744,10,45869852,79',Andrea Bozzolan (Reggiana) Substitution at 79',2025-09-14 05:28:00
+13654,754744,11,45870076,82',Simone Bonetti (Reggiana) Substitution at 82',2025-09-14 05:28:00
+13654,754744,12,45870315,88',Omar Correia (Juve Stabia) Yellow Card at 88',2025-09-14 05:28:00
+13654,754744,13,45870316,88',Marco Ruggero (Juve Stabia) Yellow Card at 88',2025-09-14 05:28:00
+13654,754745,0,45893183,17',Gerard Yepes (Empoli) Yellow Card at 17',2025-09-15 05:16:59
+13654,754745,1,45893188,18',Salvatore Esposito (Spezia) Penalty - Scored at 18',2025-09-15 05:16:59
+13654,754745,2,45893438,43',Francesco Cassata (Spezia) Yellow Card at 43',2025-09-15 05:16:59
+13654,754745,3,45893671,45',Rares Ilie (Empoli) Substitution at 45',2025-09-15 05:16:59
+13654,754745,4,45893713,49',Bohdan Popov (Empoli) Goal at 49',2025-09-15 05:16:59
+13654,754745,5,45893825,60',Szymon Zurkowski (Spezia) Substitution at 60',2025-09-15 05:16:59
+13654,754745,6,45893826,60',Giuseppe Di Serio (Spezia) Substitution at 60',2025-09-15 05:16:59
+13654,754745,7,45893845,62',Salvatore Elia (Empoli) Yellow Card at 62',2025-09-15 05:16:59
+13654,754745,8,45893919,72',Ismael Konaté (Empoli) Substitution at 72',2025-09-15 05:16:59
+13654,754745,9,45893925,72',Brando Moruzzi (Empoli) Substitution at 72',2025-09-15 05:16:59
+13654,754745,10,45893926,72',Edoardo Soleri (Spezia) Substitution at 72',2025-09-15 05:16:59
+13654,754745,11,45894124,80',Luca Belardinelli (Empoli) Substitution at 80',2025-09-15 05:16:59
+13654,754745,12,45894187,84',Andrea Cistana (Spezia) Substitution at 84',2025-09-15 05:16:59
+13654,754745,13,45894208,84',Tyronne Ebuehi (Empoli) Substitution at 84',2025-09-15 05:16:59
+13654,754745,14,45894314,89',Ádám Nagy (Spezia) Yellow Card at 89',2025-09-15 05:16:59
+13654,754745,15,45894315,89',Rares Ilie (Empoli) Yellow Card at 89',2025-09-15 05:16:59
+13654,754746,0,45871437,2',Pietro Iemmello (Catanzaro) Yellow Card at 2',2025-09-14 05:28:00
+13654,754746,1,45872022,13',Kleis Bozhanaj (Carrarese) Yellow Card at 13',2025-09-14 05:28:00
+13654,754746,2,45873090,33',Filippo Melegoni (Carrarese) Substitution at 33',2025-09-14 05:28:00
+13654,754746,3,45874146,46',Matias Antonini Lui (Catanzaro) Goal at 46',2025-09-14 05:28:00
+13654,754746,4,45874180,50',Luis Hasa (Carrarese) Yellow Card at 50',2025-09-14 05:28:00
+13654,754746,5,45874190,50',Patrick Nuamah (Catanzaro) Yellow Card at 50',2025-09-14 05:28:00
+13654,754746,6,45874238,53',Gianluca Di Chiara (Catanzaro) Yellow Card at 53',2025-09-14 05:28:00
+13654,754746,7,45874350,60',Bruno Verrengia (Catanzaro) Substitution at 60',2025-09-14 05:28:00
+13654,754746,8,45874392,64',Julián Illanes (Carrarese) Goal at 64',2025-09-14 05:28:00
+13654,754746,9,45874558,74',Marco D'Alessandro (Catanzaro) Substitution at 74',2025-09-14 05:28:00
+13654,754746,10,45874559,74',Rémi Oudin (Catanzaro) Substitution at 74',2025-09-14 05:28:00
+13654,754746,11,45874560,74',Fabio Rispoli (Catanzaro) Substitution at 74',2025-09-14 05:28:00
+13654,754746,12,45874561,74',Devid Eugene Bouah (Carrarese) Substitution at 74',2025-09-14 05:28:00
+13654,754746,13,45874578,74',Nikola Sekulov (Carrarese) Substitution at 74',2025-09-14 05:28:00
+13654,754746,14,45874635,79',Fabio Rispoli (Catanzaro) Yellow Card at 79',2025-09-14 05:28:00
+13654,754746,15,45874719,85',Alessandro Arena (Carrarese) Substitution at 85',2025-09-14 05:28:00
+13654,754746,16,45874720,85',Gabriele Parlanti (Carrarese) Substitution at 85',2025-09-14 05:28:00
+13654,754746,17,45874791,90',Luca Pandolfi (Catanzaro) Substitution at 90',2025-09-14 05:28:00
+13654,754746,18,45874870,90'+6',Gabriele Parlanti (Carrarese) Yellow Card at 96',2025-09-14 05:28:00
+13654,754747,0,45862522,22',Lorenco Simic (US Avellino) Yellow Card at 22',2025-09-13 05:17:27
+13654,754747,1,45862604,33',Lorenco Simic (US Avellino) Goal at 33',2025-09-16 05:15:58
+13654,754747,2,45863261,59',Alessandro Fontanarosa (US Avellino) Yellow Card at 59',2025-09-13 05:17:27
+13654,754747,3,45863311,66',Patrick Ciurria (Monza) Substitution at 66',2025-09-13 05:17:27
+13654,754747,4,45863312,66',Agustín Álvarez Martínez (Monza) Substitution at 66',2025-09-13 05:17:27
+13654,754747,5,45863373,72',Martin Palumbo (US Avellino) Substitution at 72',2025-09-13 05:17:27
+13654,754747,6,45863374,72',Michele Besaggio (US Avellino) Substitution at 72',2025-09-13 05:17:27
+13654,754747,7,45863381,72',Mirko Maric (Monza) Substitution at 72',2025-09-13 05:17:27
+13654,754747,8,45863382,73',Keita Baldé (Monza) Substitution at 73',2025-09-13 05:17:27
+13654,754747,9,45863482,81',Raffaele Russo (US Avellino) Substitution at 81',2025-09-13 05:17:27
+13654,754747,10,45863491,81',Justin Kumi (US Avellino) Substitution at 81',2025-09-13 05:17:27
+13654,754747,11,45863525,85',Tommaso Cancellotti (US Avellino) Substitution at 85',2025-09-13 05:17:27
+13654,754747,12,45863526,86',Andrea Petagna (Monza) Substitution at 86',2025-09-13 05:17:27
+13654,754747,13,45863531,86',Raffaele Russo (US Avellino) Goal at 86',2025-09-13 05:17:27
+13654,754747,14,45863608,90'+2',Agustín Álvarez Martínez (Monza) Goal at 92',2025-09-13 05:17:27
+13654,754748,0,45890666,2',Joel Pohjanpalo (Palermo) Goal at 2',2025-09-15 05:16:59
+13654,754748,1,45891013,21',Mattia Bani (Palermo) Yellow Card at 21',2025-09-15 05:16:59
+13654,754748,2,45891754,45',Raphael Odogwu (Suditrol) Substitution at 45',2025-09-15 05:16:59
+13654,754748,3,45891815,47',Patryk Peda (Palermo) Yellow Card at 47',2025-09-15 05:16:59
+13654,754748,4,45891894,54',Salim Diakite (Palermo) Substitution at 54',2025-09-15 05:16:59
+13654,754748,5,45892079,62',Jacopo Martini (Suditrol) Substitution at 62',2025-09-15 05:16:59
+13654,754748,6,45892080,62',Salvatore Molina (Suditrol) Substitution at 62',2025-09-15 05:16:59
+13654,754748,7,45892081,63',Claudio Gomes (Palermo) Substitution at 63',2025-09-15 05:16:59
+13654,754748,8,45892209,68',Tommaso Augello (Palermo) Yellow Card at 68',2025-09-15 05:16:59
+13654,754748,9,45892353,75',Alessandro Mallamo (Suditrol) Yellow Card at 75',2025-09-15 05:16:59
+13654,754748,10,45892354,76',Alexis Blin (Palermo) Substitution at 76',2025-09-15 05:16:59
+13654,754748,11,45892355,76',Antonio Palumbo (Palermo) Substitution at 76',2025-09-15 05:16:59
+13654,754748,12,45892367,76',Davide Veroli (Palermo) Substitution at 76',2025-09-15 05:16:59
+13654,754748,13,45892432,80',Joel Pohjanpalo (Palermo) Goal at 80',2025-09-15 05:16:59
+13654,754748,14,45892482,83',Dhirar Brik (Suditrol) Substitution at 83',2025-09-15 05:16:59
+13654,754748,15,45892483,83',Jonathan Italeng (Suditrol) Substitution at 83',2025-09-15 05:16:59
+13654,754748,16,45892573,88',Jacopo Martini (Suditrol) Yellow Card at 88',2025-09-15 05:16:59
+13654,754749,0,45917062,10',Giacomo Calo (Frosinone) Penalty - Scored at 10',2025-09-20 05:13:09
+13654,754749,1,45917072,30',Farès Ghedjemis (Frosinone) Goal at 30',2025-09-20 05:13:09
+13654,754749,2,45917127,45',Raphael Odogwu (Suditrol) Substitution at 45',2025-09-20 05:13:09
+13654,754749,3,45917130,45',Hamza El Kaouakibi (Suditrol) Substitution at 45',2025-09-20 05:13:09
+13654,754749,4,45917197,64',Jacopo Martini (Suditrol) Substitution at 64',2025-09-20 05:13:09
+13654,754749,5,45917219,68',Karim Zedadka (Suditrol) Substitution at 68',2025-09-20 05:13:09
+13654,754749,6,45917220,69',Giorgio Cittadini (Frosinone) Substitution at 69',2025-09-20 05:13:09
+13654,754749,7,45917221,69',Edoardo Masciangelo (Frosinone) Substitution at 69',2025-09-20 05:13:09
+13654,754749,8,45917244,72',Jacopo Martini (Suditrol) Goal at 72',2025-09-20 05:13:09
+13654,754749,9,45917256,74',Gabriele Calvani (Frosinone) Yellow Card at 74',2025-09-20 05:13:09
+13654,754749,10,45917276,78',Giacomo Calo (Frosinone) Yellow Card at 78',2025-09-20 05:13:09
+13654,754749,11,45917277,78',Simone Davi (Suditrol) Yellow Card at 78',2025-09-20 05:13:09
+13654,754749,12,45917278,78',Silvio Merkaj (Suditrol) Penalty - Scored at 78',2025-09-20 05:13:09
+13654,754749,13,45917293,79',Silvio Merkaj (Suditrol) Yellow Card at 79',2025-09-20 05:13:09
+13654,754749,14,45917333,83',Riccardo Marchizza (Frosinone) Substitution at 83',2025-09-20 05:13:09
+13654,754749,15,45917322,84',Jérémy Oyono (Frosinone) Substitution at 84',2025-09-20 05:13:09
+13654,754749,16,45917334,85',Federico Davi (Suditrol) Substitution at 85',2025-09-20 05:13:09
+13654,754749,17,45917362,89',Massimo Zilli (Frosinone) Substitution at 89',2025-09-20 05:13:09
+13654,754750,0,45929786,1',Ettore Gliozzi (Modena) Goal at 1',2025-09-21 05:18:08
+13654,754750,1,45929932,9',Zan Majer (Mantova) Yellow Card at 9',2025-09-21 05:18:08
+13654,754750,2,45930005,13',Ettore Gliozzi (Modena) Penalty - Missed at 13',2025-09-21 05:18:08
+13654,754750,3,45930052,14',Francesco Di Mariano (Modena) Yellow Card at 14',2025-09-21 05:18:08
+13654,754750,4,45930269,24',Nicolò Radaelli (Mantova) Yellow Card at 24',2025-09-21 05:18:08
+13654,754750,5,45930341,29',Bryant Nieling (Modena) Yellow Card at 29',2025-09-21 05:18:08
+13654,754750,6,45930487,37',Cristian Cauz (Modena) Substitution at 37',2025-09-21 05:18:08
+13654,754750,7,45930527,38',Daniel Tonoli (Modena) Goal at 38',2025-09-21 05:18:08
+13654,754750,8,45930648,44',Fabio Gerli (Modena) Yellow Card at 44',2025-09-21 05:18:08
+13654,754750,9,45930690,45'+2',Leonardo Mancuso (Mantova) Penalty - Scored at 47',2025-09-21 05:18:08
+13654,754750,10,45931198,58',Alessio Castellini (Mantova) Yellow Card at 58',2025-09-21 05:18:08
+13654,754750,11,45931268,66',Davide Bragantini (Mantova) Substitution at 66',2025-09-21 05:18:08
+13654,754750,12,45931291,66',Tommaso Maggioni (Mantova) Substitution at 66',2025-09-21 05:18:08
+13654,754750,13,45931292,66',Antonio Fiori (Mantova) Substitution at 66',2025-09-21 05:18:08
+13654,754750,14,45931305,67',Zan Majer (Mantova) Own Goal at 67',2025-09-21 05:18:08
+13654,754750,15,45931383,75',Pedro Mendes (Modena) Substitution at 75',2025-09-21 05:18:08
+13654,754750,16,45931399,75',Luca Magnino (Modena) Substitution at 75',2025-09-21 05:18:08
+13654,754750,17,45931400,75',Niklas Pyyhtia (Modena) Substitution at 75',2025-09-21 05:18:08
+13654,754750,18,45931401,75',Nicholas Bonfanti (Mantova) Substitution at 75',2025-09-21 05:18:08
+13654,754750,19,45931648,86',Grégoire Defrel (Modena) Substitution at 86',2025-09-21 05:18:08
+13654,754751,0,45926683,4',Armando Izzo (Monza) Yellow Card at 4',2025-09-21 05:18:08
+13654,754751,1,45926839,7',Stipe Vulikic (Sampdoria) Yellow Card at 7',2025-09-21 05:18:08
+13654,754751,2,45927877,29',Antonín Barák (Sampdoria) Penalty - Saved at 29',2025-09-21 05:18:08
+13654,754751,3,45927988,31',Luigi Cherubini (Sampdoria) Red Card at 31',2025-09-21 05:18:08
+13654,754751,4,45928609,45',Samuele Birindelli (Monza) Substitution at 45',2025-09-21 05:18:08
+13654,754751,5,45928776,54',Liam Henderson (Sampdoria) Yellow Card at 54',2025-09-21 05:18:08
+13654,754751,6,45928812,55',Patrick Ciurria (Monza) Red Card at 55',2025-09-21 05:18:08
+13654,754751,7,45928856,59',Agustín Álvarez Martínez (Monza) Goal at 59',2025-09-21 05:18:08
+13654,754751,8,45928933,63',Simone Pafundi (Sampdoria) Substitution at 63',2025-09-21 05:18:08
+13654,754751,9,45928970,63',Massimo Coda (Sampdoria) Substitution at 63',2025-09-21 05:18:08
+13654,754751,10,45928934,64',Simone Giordano (Sampdoria) Substitution at 64',2025-09-21 05:18:08
+13654,754751,11,45928985,66',Andrea Colpani (Monza) Substitution at 66',2025-09-21 05:18:08
+13654,754751,12,45928986,66',Filippo Delli Carri (Monza) Substitution at 66',2025-09-21 05:18:08
+13654,754751,13,45929186,77',Andrea Petagna (Monza) Substitution at 77',2025-09-21 05:18:08
+13654,754751,14,45929265,82',Andrea Carboni (Monza) Substitution at 82',2025-09-21 05:18:08
+13654,754751,15,45929300,84',Víctor Narro (Sampdoria) Substitution at 84',2025-09-21 05:18:08
+13654,754751,16,45929352,88',Leonardo Benedetti (Sampdoria) Substitution at 88',2025-09-21 05:18:08
+13654,754752,0,45946755,11',Andrea Franzoni (Virtus Entella) Yellow Card at 11',2025-09-22 05:12:40
+13654,754752,1,45947108,45',Nermin Karic (Virtus Entella) Goal at 45',2025-09-22 05:12:40
+13654,754752,2,45947265,46',Andrea Tiritiello (Virtus Entella) Yellow Card at 46',2025-09-22 05:12:40
+13654,754752,3,45947302,51',Andrea Tiritiello (Virtus Entella) Red Card at 51',2025-09-22 05:12:40
+13654,754752,4,45947303,51',Davide Bariti (Virtus Entella) Yellow Card at 51',2025-09-22 05:12:40
+13654,754752,5,45947304,52',Mattia Bortolussi (Padova) Penalty - Scored at 52',2025-09-22 05:12:40
+13654,754752,6,45947319,54',Bernat Guiu (Virtus Entella) Substitution at 54',2025-09-22 05:12:40
+13654,754752,7,45947340,55',Lorenzo Moretti (Virtus Entella) Substitution at 55',2025-09-22 05:12:40
+13654,754752,8,45947341,55',Francesco Mezzoni (Virtus Entella) Substitution at 55',2025-09-22 05:12:40
+13654,754752,9,45947429,62',Jonathan Silva (Padova) Substitution at 62',2025-09-22 05:12:40
+13654,754752,10,45947514,70',Jonas Harder (Padova) Substitution at 70',2025-09-22 05:12:40
+13654,754752,11,45947573,74',Jonas Harder (Padova) Goal at 74',2025-09-22 05:12:40
+13654,754752,12,45947604,75',David Ankeye (Virtus Entella) Substitution at 75',2025-09-22 05:12:40
+13654,754752,13,45947700,81',Lorenzo Villa (Padova) Substitution at 81',2025-09-22 05:12:40
+13654,754752,14,45947716,81',Giulio Favale (Padova) Substitution at 81',2025-09-22 05:12:40
+13654,754752,15,45947741,84',Marco Dalla Vecchia (Virtus Entella) Substitution at 84',2025-09-22 05:12:40
+13654,754752,16,45948015,89',Stefano Di Mario (Virtus Entella) Yellow Card at 89',2025-09-22 05:12:40
+13654,754753,0,45917852,28',Ebrima Darboe (Bari) Yellow Card at 28',2025-09-20 05:13:09
+13654,754753,1,45918734,58',Riccardo Pagano (Bari) Substitution at 58',2025-09-20 05:13:09
+13654,754753,2,45918735,59',Christian Gytkjaer (Bari) Substitution at 59',2025-09-20 05:13:09
+13654,754753,3,45918880,69',Claudio Gomes (Palermo) Substitution at 69',2025-09-20 05:13:09
+13654,754753,4,45918928,72',Jeremy Le Douaron (Palermo) Substitution at 72',2025-09-20 05:13:09
+13654,754753,5,45918929,72',Salim Diakite (Palermo) Substitution at 72',2025-09-20 05:13:09
+13654,754753,6,45918986,76',Jeremy Le Douaron (Palermo) Goal at 76',2025-09-20 05:13:09
+13654,754753,7,45919056,81',Matthias Verreth (Bari) Yellow Card at 81',2025-09-20 05:13:09
+13654,754753,8,45919057,82',Alexis Blin (Palermo) Substitution at 82',2025-09-20 05:13:09
+13654,754753,9,45919064,82',Samuel Giovane (Palermo) Substitution at 82',2025-09-20 05:13:09
+13654,754753,10,45919065,83',Mirko Antonucci (Bari) Substitution at 83',2025-09-20 05:13:09
+13654,754753,11,45919066,83',Leonardo Cerri (Bari) Substitution at 83',2025-09-20 05:13:09
+13654,754753,12,45919115,90',Emanuele Rao (Bari) Substitution at 90',2025-09-20 05:13:09
+13654,754753,13,45919147,90'+2',Claudio Gomes (Palermo) Goal at 92',2025-09-20 05:13:09
+13654,754753,14,45919167,90'+5',Dimitris Nikolaou (Bari) Yellow Card at 95',2025-09-20 05:13:09
+13654,754754,0,45944580,23',Marco Curto (Empoli) Yellow Card at 23',2025-09-22 05:12:40
+13654,754754,1,45945353,45',Rares Ilie (Empoli) Substitution at 45',2025-09-22 05:12:40
+13654,754754,2,45945359,45',Gabriele Guarino (Empoli) Substitution at 45',2025-09-22 05:12:40
+13654,754754,3,45945612,60',Riccardo Capellini (Pescara) Yellow Card at 60',2025-09-22 05:12:40
+13654,754754,4,45945613,61',Gabriele Corbo (Pescara) Substitution at 61',2025-09-22 05:12:40
+13654,754754,5,45945690,65',Gabriele Guarino (Empoli) Yellow Card at 65',2025-09-22 05:12:40
+13654,754754,6,45945733,68',Andrea Oliveri (Pescara) Goal at 68',2025-09-22 05:12:40
+13654,754754,7,45945809,71',Andrea Oliveri (Pescara) Goal at 71',2025-09-22 05:12:40
+13654,754754,8,45945830,72',Ismael Konaté (Empoli) Substitution at 72',2025-09-22 05:12:40
+13654,754754,9,45945857,73',Lorenzo Meazzi (Pescara) Substitution at 73',2025-09-22 05:12:40
+13654,754754,10,45945858,73',Davide Merola (Pescara) Substitution at 73',2025-09-22 05:12:40
+13654,754754,11,45945923,77',Brando Moruzzi (Empoli) Substitution at 77',2025-09-22 05:12:40
+13654,754754,12,45945946,80',Lorenzo Meazzi (Pescara) Goal at 80',2025-09-22 05:12:40
+13654,754754,13,45946017,84',Antonio Di Nardo (Pescara) Substitution at 84',2025-09-22 05:12:40
+13654,754754,14,45946018,84',Gaetano Letizia (Pescara) Substitution at 84',2025-09-22 05:12:40
+13654,754754,15,45946142,90'+2',Davide Merola (Pescara) Goal at 92',2025-09-22 05:12:40
+13654,754755,0,45923235,10',Manuel Marras (Reggiana) Yellow Card at 10',2025-09-21 05:18:08
+13654,754755,1,45923275,13',Lorenzo Libutti (Reggiana) Substitution at 13',2025-09-21 05:18:08
+13654,754755,2,45923484,29',Alphadjo Cissè (Catanzaro) Goal at 29',2025-09-21 05:18:08
+13654,754755,3,45923563,36',Manuel Marras (Reggiana) Goal at 36',2025-09-21 05:18:08
+13654,754755,4,45923750,45'+4',Costantino Favasuli (Catanzaro) Yellow Card at 49',2025-09-21 05:18:08
+13654,754755,5,45924093,45',Tommaso Cassandro (Catanzaro) Substitution at 45',2025-09-21 05:18:08
+13654,754755,6,45924119,45',Patrick Nuamah (Catanzaro) Substitution at 45',2025-09-21 05:18:08
+13654,754755,7,45924452,55',Davide Bettella (Catanzaro) Yellow Card at 55',2025-09-21 05:18:08
+13654,754755,8,45924601,62',Mattia Liberali (Catanzaro) Substitution at 62',2025-09-21 05:18:08
+13654,754755,9,45924651,63',Andrea Bozzolan (Reggiana) Substitution at 63',2025-09-21 05:18:08
+13654,754755,10,45924652,63',Mathis Lambourde (Reggiana) Substitution at 63',2025-09-21 05:18:08
+13654,754755,11,45925135,74',Mathis Lambourde (Reggiana) Goal at 74',2025-09-21 05:18:08
+13654,754755,12,45925245,78',Alphadjo Cissè (Catanzaro) Goal at 78',2025-09-21 05:18:08
+13654,754755,13,45925333,79',Bruno Verrengia (Catanzaro) Substitution at 79',2025-09-21 05:18:08
+13654,754755,14,45925334,79',Andrija Novakovich (Reggiana) Substitution at 79',2025-09-21 05:18:08
+13654,754755,15,45925335,80',Charlys (Reggiana) Substitution at 80',2025-09-21 05:18:08
+13654,754756,0,45923092,2',Omar Correia (Juve Stabia) Goal at 2',2025-09-21 05:18:08
+13654,754756,1,45923332,19',Lorenzo Carissoni (Juve Stabia) Goal at 19',2025-09-21 05:18:08
+13654,754756,2,45923658,45',Christian Pierobon (Juve Stabia) Yellow Card at 45',2025-09-21 05:18:08
+13654,754756,3,45923961,45',Rachid Kouda (Spezia) Substitution at 45',2025-09-21 05:18:08
+13654,754756,4,45923974,45',Edoardo Soleri (Spezia) Substitution at 45',2025-09-21 05:18:08
+13654,754756,5,45924306,56',Rares Burnete (Juve Stabia) Substitution at 56',2025-09-21 05:18:08
+13654,754756,6,45924307,56',Leonardo Candellone (Juve Stabia) Substitution at 56',2025-09-21 05:18:08
+13654,754756,7,45924408,58',Vanja Vlahovic (Spezia) Substitution at 58',2025-09-21 05:18:08
+13654,754756,8,45924409,59',Edoardo Soleri (Spezia) Goal at 59',2025-09-21 05:18:08
+13654,754756,9,45924450,61',Leonardo Candellone (Juve Stabia) Goal at 61',2025-09-21 05:18:08
+13654,754756,10,45924520,64',Omar Correia (Juve Stabia) Yellow Card at 64',2025-09-21 05:18:08
+13654,754756,11,45924545,65',Giacomo Stabile (Juve Stabia) Substitution at 65',2025-09-21 05:18:08
+13654,754756,12,45924714,70',Giuseppe Aurelio (Spezia) Substitution at 70',2025-09-21 05:18:08
+13654,754756,13,45924791,72',Gianluca Lapadula (Spezia) Substitution at 72',2025-09-21 05:18:08
+13654,754756,14,45925074,79',Marco Ruggero (Juve Stabia) Yellow Card at 79',2025-09-21 05:18:08
+13654,754756,15,45925273,83',Nicola Mosti (Juve Stabia) Substitution at 83',2025-09-21 05:18:08
+13654,754756,16,45925274,83',Federico Zuccon (Juve Stabia) Substitution at 83',2025-09-21 05:18:08
+13654,754757,0,45923426,25',Michele Castagnetti (Cesena) Yellow Card at 25',2025-09-21 05:18:08
+13654,754757,1,45924314,54',Riccardo Ciervo (Cesena) Goal at 54',2025-09-21 05:18:08
+13654,754757,2,45924511,61',Ridgeciano Haps (Venezia) Substitution at 61',2025-09-21 05:18:08
+13654,754757,3,45924512,61',Michael Venturi (Venezia) Substitution at 61',2025-09-21 05:18:08
+13654,754757,4,45924513,61',Daniel Fila (Venezia) Substitution at 61',2025-09-21 05:18:08
+13654,754757,5,45924533,62',Raffaele Celia (Cesena) Substitution at 62',2025-09-21 05:18:08
+13654,754757,6,45924573,63',Gianluca Busio (Venezia) Yellow Card at 63',2025-09-21 05:18:08
+13654,754757,7,45924760,70',Marin Sverko (Venezia) Substitution at 70',2025-09-21 05:18:08
+13654,754757,8,45924800,71',Dimitri Bisoli (Cesena) Substitution at 71',2025-09-21 05:18:08
+13654,754757,9,45924801,71',Siren Diao (Cesena) Substitution at 71',2025-09-21 05:18:08
+13654,754757,10,45924855,72',Massimiliano Mangraviti (Cesena) Goal at 72',2025-09-21 05:18:08
+13654,754757,11,45925097,77',Antonio Casas (Venezia) Substitution at 77',2025-09-21 05:18:08
+13654,754757,12,45925325,83',Gianluca Busio (Venezia) Penalty - Scored at 83',2025-09-21 05:18:08
+13654,754757,13,45925377,84',Simone Bastoni (Cesena) Substitution at 84',2025-09-21 05:18:08
+13654,754757,14,45925378,84',Matteo Piacentini (Cesena) Substitution at 84',2025-09-21 05:18:08
+13654,754757,15,45925542,90'+1',Marin Sverko (Venezia) Yellow Card at 91',2025-09-21 05:18:08
+13654,754757,16,45925606,90'+3',Alfred Duncan (Venezia) Red Card at 93',2025-09-21 05:18:08
+13654,754757,17,45925715,90'+8',Dimitri Bisoli (Cesena) Yellow Card at 98',2025-09-21 05:18:08
+13654,754757,18,45925716,90'+9',Issa Doumbia (Venezia) Yellow Card at 99',2025-09-21 05:18:08
+13654,754758,0,45941519,1',Lorenco Simic (US Avellino) Yellow Card at 1',2025-09-22 05:12:40
+13654,754758,1,45941795,16',Fabio Abiuso (Carrarese) Goal at 16',2025-09-22 05:12:40
+13654,754758,2,45941809,18',Valerio Crespi (US Avellino) Goal at 18',2025-09-22 05:12:40
+13654,754758,3,45941873,22',Patrick Enrici (US Avellino) Yellow Card at 22',2025-09-22 05:12:40
+13654,754758,4,45941921,25',Manuel Cicconi (Carrarese) Penalty - Scored at 25',2025-09-22 05:12:40
+13654,754758,5,45942016,30',Patrick Enrici (US Avellino) Red Card at 30',2025-09-22 05:12:40
+13654,754758,6,45942138,37',Fabio Ruggeri (Carrarese) Own Goal at 37',2025-09-22 05:12:40
+13654,754758,7,45942147,38',Michele Besaggio (US Avellino) Substitution at 38',2025-09-22 05:12:40
+13654,754758,8,45942148,38',Alessandro Fontanarosa (US Avellino) Substitution at 38',2025-09-23 05:13:28
+13654,754758,9,45942253,44',Kleis Bozhanaj (Carrarese) Yellow Card at 44',2025-09-25 05:17:44
+13654,754758,10,45942544,45',Raffaele Russo (US Avellino) Substitution at 45',2025-09-25 05:17:44
+13654,754758,11,45942545,45',Alessandro Arena (Carrarese) Substitution at 45',2025-09-25 05:17:44
+13654,754758,12,45942879,56',Raffaele Russo (US Avellino) Goal at 56',2025-09-25 05:17:44
+13654,754758,13,45942937,57',Nicholas Schiavi (Carrarese) Substitution at 57',2025-09-25 05:17:44
+13654,754758,14,45942938,57',Simone Zanon (Carrarese) Substitution at 57',2025-09-25 05:17:44
+13654,754758,15,45943029,63',Claudio Manzi (US Avellino) Substitution at 63',2025-09-25 05:17:44
+13654,754758,16,45943134,67',Michele Besaggio (US Avellino) Goal at 67',2025-09-25 05:17:44
+13654,754758,17,45943175,69',Mattia Finotto (Carrarese) Substitution at 69',2025-09-25 05:17:44
+13654,754758,18,45943237,72',Facundo Lescano (US Avellino) Substitution at 72',2025-09-25 05:17:44
+13654,754758,19,45943255,73',Ernesto Torregrossa (Carrarese) Substitution at 73',2025-09-25 05:17:44
+13654,754758,20,45943371,78',Alessandro Fontanarosa (US Avellino) Yellow Card at 78',2025-09-25 05:17:44
+13654,754758,21,45943433,81',Nicholas Schiavi (Carrarese) Goal at 81',2025-09-25 05:17:44
+13654,754759,0,45987442,9',Tommaso Biasci (US Avellino) Goal at 9',2025-09-28 05:17:47
+13654,754759,1,45987767,34',Ahmad Benali (Virtus Entella) Yellow Card at 34',2025-09-28 05:17:47
+13654,754759,2,45987884,41',Luca Parodi (Virtus Entella) Yellow Card at 41',2025-09-28 05:17:47
+13654,754759,3,45988894,67',Alessandro Debenedetti (Virtus Entella) Substitution at 67',2025-09-28 05:17:47
+13654,754759,4,45988921,67',Marco Emilio Nichetti (Virtus Entella) Substitution at 67',2025-09-28 05:17:47
+13654,754759,5,45988922,68',Justin Kumi (US Avellino) Goal at 68',2025-09-28 05:17:47
+13654,754759,6,45988994,70',Emmanuel Gyabuaa (US Avellino) Substitution at 70',2025-09-28 05:17:47
+13654,754759,7,45989186,76',Raffaele Russo (US Avellino) Substitution at 76',2025-09-28 05:17:47
+13654,754759,8,45989228,76',Facundo Lescano (US Avellino) Substitution at 76',2025-09-28 05:17:47
+13654,754759,9,45989349,78',Marco Dalla Vecchia (Virtus Entella) Substitution at 78',2025-09-28 05:17:47
+13654,754759,10,45989350,79',Davide Bariti (Virtus Entella) Substitution at 79',2025-09-28 05:17:47
+13654,754759,11,45989351,79',Antonio Boccadamo (Virtus Entella) Substitution at 79',2025-09-28 05:17:47
+13654,754759,12,45989601,85',Marco Armellino (US Avellino) Substitution at 85',2025-09-28 05:17:47
+13654,754759,13,45989602,85',Martin Palumbo (US Avellino) Substitution at 85',2025-09-28 05:17:47
+13654,754759,14,45989961,90'+3',Andrea Cagnano (US Avellino) Yellow Card at 93',2025-09-28 05:17:47
+13654,754760,0,45994531,5',Marvin Cuni (Sampdoria) Yellow Card at 5',2025-09-28 05:17:47
+13654,754760,1,45994566,7',Liam Henderson (Sampdoria) Yellow Card at 7',2025-09-28 05:17:47
+13654,754760,2,45994764,17',Raffaele Pucino (Bari) Substitution at 17',2025-09-28 05:17:47
+13654,754760,3,45994822,19',Fabio Depaoli (Sampdoria) Yellow Card at 19',2025-09-28 05:17:47
+13654,754760,4,45994992,28',Fabio Depaoli (Sampdoria) Goal at 28',2025-09-28 05:17:47
+13654,754760,5,45995069,32',Gabriele Moncini (Bari) Goal at 32',2025-09-28 05:17:47
+13654,754760,6,45995888,51',Leonardo Benedetti (Sampdoria) Yellow Card at 51',2025-09-28 05:17:47
+13654,754760,7,45995921,53',Lorenzo Dickmann (Bari) Yellow Card at 53',2025-09-28 05:17:47
+13654,754760,8,45996123,66',Giuseppe Sibilli (Bari) Substitution at 66',2025-09-28 05:17:47
+13654,754760,9,45996124,66',Ebrima Darboe (Bari) Substitution at 66',2025-09-28 05:17:47
+13654,754760,10,45996125,66',Lorenzo Venuti (Sampdoria) Substitution at 66',2025-09-28 05:17:47
+13654,754760,11,45996126,66',Alessandro Bellemo (Sampdoria) Substitution at 66',2025-09-28 05:17:47
+13654,754760,12,45996282,75',Riccardo Burgio (Bari) Substitution at 75',2025-09-28 05:17:47
+13654,754760,13,45996365,80',Massimo Coda (Sampdoria) Substitution at 80',2025-09-28 05:17:47
+13654,754760,14,45996366,80',Antonín Barák (Sampdoria) Substitution at 80',2025-09-28 05:17:47
+13654,754760,15,45996519,87',Giuseppe Sibilli (Bari) Yellow Card at 87',2025-09-28 05:17:47
+13654,754761,0,46012840,5',Emanuele Zuelli (Carrarese) Yellow Card at 5',2025-09-29 05:23:55
+13654,754761,1,46012933,15',Simone Zanon (Carrarese) Goal at 15',2025-09-29 05:23:55
+13654,754761,2,46013154,33',Andrea Ghion (Empoli) Yellow Card at 33',2025-09-29 05:23:55
+13654,754761,3,46013232,40',Franco Carboni (Empoli) Yellow Card at 40',2025-09-29 05:23:55
+13654,754761,4,46013240,43',Steven Shpendi (Empoli) Goal at 43',2025-09-29 05:23:55
+13654,754761,5,46013477,48',Kleis Bozhanaj (Carrarese) Yellow Card at 48',2025-09-29 05:23:55
+13654,754761,6,46013542,56',Nikola Sekulov (Carrarese) Yellow Card at 56',2025-09-29 05:23:55
+13654,754761,7,46013570,59',Joseph Ceesay (Empoli) Substitution at 59',2025-09-29 05:23:55
+13654,754761,8,46013622,62',Fabio Abiuso (Carrarese) Substitution at 62',2025-09-29 05:23:55
+13654,754761,9,46013623,63',Tommaso Rubino (Carrarese) Substitution at 63',2025-09-29 05:23:55
+13654,754761,10,46013710,70',Fabio Ruggeri (Carrarese) Substitution at 70',2025-09-29 05:23:55
+13654,754761,11,46013737,71',Rares Ilie (Empoli) Substitution at 71',2025-09-29 05:23:55
+13654,754761,12,46013738,71',Brando Moruzzi (Empoli) Substitution at 71',2025-09-29 05:23:55
+13654,754761,13,46013739,71',Bohdan Popov (Empoli) Substitution at 71',2025-09-29 05:23:55
+13654,754761,14,46013887,78',Joseph Ceesay (Empoli) Goal at 78',2025-09-29 05:23:55
+13654,754761,15,46013976,82',Marco Curto (Empoli) Substitution at 82',2025-09-29 05:23:55
+13654,754761,16,46013977,82',Niccolò Belloni (Carrarese) Substitution at 82',2025-09-29 05:23:55
+13654,754761,17,46013984,83',Devid Eugene Bouah (Carrarese) Substitution at 83',2025-09-29 05:23:55
+13654,754761,18,46014098,88',Mattia Finotto (Carrarese) Goal at 88',2025-09-29 05:23:55
+13654,754762,0,45987425,8',Luca Vignali (Spezia) Red Card at 8',2025-09-28 05:17:47
+13654,754762,1,45987441,9',Enrique Perez (Venezia) Yellow Card at 9',2025-09-28 05:17:47
+13654,754762,2,45987708,29',Andrea Adorante (Venezia) Penalty - Scored at 29',2025-09-28 05:17:47
+13654,754762,3,45988245,45',Seid Korac (Venezia) Substitution at 45',2025-09-28 05:17:47
+13654,754762,4,45988266,45',Antoine Hainaut (Venezia) Substitution at 45',2025-09-28 05:17:47
+13654,754762,5,45988605,54',Seid Korac (Venezia) Goal at 54',2025-09-28 05:17:47
+13654,754762,6,45988679,56',Gabriele Artistico (Spezia) Substitution at 56',2025-09-28 05:17:47
+13654,754762,7,45988680,56',Francesco Cassata (Spezia) Substitution at 56',2025-09-28 05:17:47
+13654,754762,8,45988970,66',Petko Hristov (Spezia) Yellow Card at 66',2025-09-28 05:17:47
+13654,754762,9,45989011,67',Giuseppe Aurelio (Spezia) Substitution at 67',2025-09-28 05:17:47
+13654,754762,10,45989012,67',Christian Comotto (Spezia) Substitution at 67',2025-09-28 05:17:47
+13654,754762,11,45989111,70',Daniel Fila (Venezia) Substitution at 70',2025-09-28 05:17:47
+13654,754762,12,45989208,72',Emil Bohinen (Venezia) Substitution at 72',2025-09-28 05:17:47
+13654,754762,13,45989630,82',Gianluca Lapadula (Spezia) Substitution at 82',2025-09-28 05:17:47
+13654,754762,14,45989676,83',Michael Svoboda (Venezia) Substitution at 83',2025-09-28 05:17:47
+13654,754762,15,45989922,89',Francesco Cassata (Spezia) Yellow Card at 89',2025-09-28 05:17:47
+13654,754763,0,45993303,49',Marco Perrotta (Padova) Yellow Card at 49',2025-09-28 05:17:47
+13654,754763,1,45993336,51',Kevin Varas Marcillo (Padova) Goal at 51',2025-09-28 05:17:47
+13654,754763,2,45993491,52',Samuele Birindelli (Monza) Yellow Card at 52',2025-09-28 05:17:47
+13654,754763,3,45993447,57',Kevin Zeroli (Monza) Substitution at 57',2025-09-28 05:17:47
+13654,754763,4,45993448,57',Nicolas Galazzi (Monza) Substitution at 57',2025-09-28 05:17:47
+13654,754763,5,45993492,59',Cristian Buonaiuto (Padova) Substitution at 59',2025-09-28 05:17:47
+13654,754763,6,45993613,65',Gianluca Caprari (Monza) Substitution at 65',2025-09-28 05:17:47
+13654,754763,7,45993625,66',Andrea Petagna (Monza) Substitution at 66',2025-09-28 05:17:47
+13654,754763,8,45993645,66',Lorenzo Crisetig (Padova) Yellow Card at 66',2025-09-28 05:17:47
+13654,754763,9,45993756,74',Luca Di Maggio (Padova) Substitution at 74',2025-09-28 05:17:47
+13654,754763,10,45993757,75',Jonas Harder (Padova) Substitution at 75',2025-09-28 05:17:47
+13654,754763,11,45993851,81',Giulio Favale (Padova) Substitution at 81',2025-09-28 05:17:47
+13654,754763,12,45993854,82',Andrea Carboni (Monza) Substitution at 82',2025-09-28 05:17:47
+13654,754764,0,46010217,3',Filippo Pellacani (Pescara) Yellow Card at 3',2025-09-29 05:23:55
+13654,754764,1,46010309,7',Daniel Tonoli (Modena) Yellow Card at 7',2025-09-29 05:23:55
+13654,754764,2,46010337,9',Cristian Cauz (Modena) Yellow Card at 9',2025-09-29 05:23:55
+13654,754764,3,46010398,12',Francesco Di Mariano (Modena) Yellow Card at 12',2025-09-29 05:23:55
+13654,754764,4,46010797,31',Alessandro Dellavalle (Modena) Substitution at 31',2025-09-29 05:23:55
+13654,754764,5,46011004,40',Giacomo Olzer (Pescara) Goal at 40',2025-09-29 05:23:55
+13654,754764,6,46011449,45',Andreaw Gravillon (Pescara) Substitution at 45',2025-09-29 05:23:55
+13654,754764,7,46011571,52',Ettore Gliozzi (Modena) Penalty - Scored at 52',2025-09-29 05:23:55
+13654,754764,8,46011651,56',Riccardo Brosco (Pescara) Yellow Card at 56',2025-09-29 05:23:55
+13654,754764,9,46011676,58',Alessandro Sersanti (Modena) Goal at 58',2025-09-29 05:23:55
+13654,754764,10,46011835,64',Luca Valzania (Pescara) Yellow Card at 64',2025-09-29 05:23:55
+13654,754764,11,46011842,65',Grégoire Defrel (Modena) Substitution at 65',2025-09-30 05:15:44
+13654,754764,12,46011861,66',Niklas Pyyhtia (Modena) Substitution at 66',2025-09-29 05:23:55
+13654,754764,13,46011923,69',Davide Merola (Pescara) Substitution at 69',2025-09-29 05:23:55
+13654,754764,14,46011924,69',Gianmarco Cangiano (Pescara) Substitution at 69',2025-09-29 05:23:55
+13654,754764,15,46012194,78',Lorenzo Meazzi (Pescara) Substitution at 78',2025-09-29 05:23:55
+13654,754764,16,46012217,78',Orji Okwonkwo (Pescara) Substitution at 78',2025-09-29 05:23:55
+13654,754764,17,46012218,79',Pedro Mendes (Modena) Substitution at 79',2025-09-29 05:23:55
+13654,754764,18,46012219,79',Luca Magnino (Modena) Substitution at 79',2025-09-29 05:23:55
+13654,754765,0,45987443,8',Ilias Koutsoupias (Frosinone) Goal at 8',2025-09-28 05:17:47
+13654,754765,1,45987543,16',Farès Ghedjemis (Frosinone) Goal at 16',2025-09-28 05:17:47
+13654,754765,2,45987604,20',Gabriele Bracaglia (Frosinone) Yellow Card at 20',2025-09-28 05:17:47
+13654,754765,3,45987613,21',Leonardo Mancuso (Mantova) Penalty - Missed at 21',2025-09-28 05:17:47
+13654,754765,4,45987614,22',Filippo Grosso (Frosinone) Goal at 22',2025-09-28 05:17:47
+13654,754765,5,45987894,43',Giacomo Calo (Frosinone) Goal at 43',2025-09-28 05:17:47
+13654,754765,6,45988147,45',Jérémy Oyono (Frosinone) Substitution at 45',2025-09-28 05:17:47
+13654,754765,7,45988280,48',Massimo Zilli (Frosinone) Yellow Card at 48',2025-09-28 05:17:47
+13654,754765,8,45988524,54',Antonio Fiori (Mantova) Goal at 54',2025-09-28 05:17:47
+13654,754765,9,45988612,57',Antonio Raimondo (Frosinone) Substitution at 57',2025-09-28 05:17:47
+13654,754765,10,45988613,57',Matteo Cichella (Frosinone) Substitution at 57',2025-09-28 05:17:47
+13654,754765,11,45988714,57',Jérémy Oyono (Frosinone) Yellow Card at 57',2025-09-28 05:17:47
+13654,754765,12,45988796,62',Antonio Fiori (Mantova) Yellow Card at 62',2025-09-28 05:17:47
+13654,754765,13,45988797,62',Flavio Paoletti (Mantova) Substitution at 62',2025-09-28 05:17:47
+13654,754765,14,45988798,62',David Wieser (Mantova) Substitution at 62',2025-09-28 05:17:47
+13654,754765,15,45988799,62',Nicholas Bonfanti (Mantova) Substitution at 62',2025-09-28 05:17:47
+13654,754765,16,45989043,70',Tommaso Maggioni (Mantova) Substitution at 70',2025-09-28 05:17:47
+13654,754765,17,45989147,72',Ben Lhassine Kone (Frosinone) Substitution at 72',2025-09-28 05:17:47
+13654,754765,18,45989148,72',Edoardo Vergani (Frosinone) Substitution at 72',2025-09-28 05:17:47
+13654,754765,19,45989304,76',Tommaso Marras (Mantova) Substitution at 76',2025-09-28 05:17:47
+13654,754765,20,45989834,86',Edoardo Vergani (Frosinone) Goal at 86',2025-09-28 05:17:47
+13654,754765,21,45989742,87',Flavio Paoletti (Mantova) Yellow Card at 87',2025-09-28 05:17:47
+13654,754765,22,45989932,90'+2',Ilario Monterisi (Frosinone) Yellow Card at 92',2025-09-28 05:17:47
+13654,754765,23,45989933,90'+2',Nicholas Bonfanti (Mantova) Penalty - Missed at 92',2025-09-28 05:17:47
+13654,754766,0,45987565,18',Jacopo Martini (Suditrol) Goal at 18',2025-09-28 05:17:47
+13654,754766,1,45987679,26',Silvio Merkaj (Suditrol) Goal at 26',2025-09-28 05:17:47
+13654,754766,2,45988101,45',Mathis Lambourde (Reggiana) Substitution at 45',2025-09-28 05:17:47
+13654,754766,3,45988112,45',Manuel Marras (Reggiana) Substitution at 45',2025-09-28 05:17:47
+13654,754766,4,45988502,56',Simone Tronchin (Suditrol) Goal at 56',2025-09-28 05:17:47
+13654,754766,5,45988610,59',Manolo Portanova (Reggiana) Goal at 59',2025-09-28 05:17:47
+13654,754766,6,45988878,66',Charlys (Reggiana) Substitution at 66',2025-09-28 05:17:47
+13654,754766,7,45988945,69',Mamadou Coulibaly (Suditrol) Substitution at 69',2025-09-28 05:17:47
+13654,754766,8,45989165,75',Karim Zedadka (Suditrol) Substitution at 75',2025-09-28 05:17:47
+13654,754766,9,45989166,76',Federico Davi (Suditrol) Substitution at 76',2025-09-28 05:17:47
+13654,754766,10,45989355,80',Andrija Novakovich (Reggiana) Substitution at 80',2025-09-28 05:17:47
+13654,754766,11,45989377,81',Elayis Tavsan (Reggiana) Substitution at 81',2025-09-28 05:17:47
+13654,754766,12,45989426,82',Mamadou Coulibaly (Suditrol) Yellow Card at 82',2025-09-28 05:17:47
+13654,754766,13,45989660,88',Jonathan Italeng (Suditrol) Substitution at 88',2025-09-28 05:17:47
+13654,754766,14,45989726,88',Dhirar Brik (Suditrol) Substitution at 88',2025-09-28 05:17:47
+13654,754767,0,45987510,13',Giovanni Zaro (Cesena) Yellow Card at 13',2025-09-28 05:17:47
+13654,754767,1,45987772,34',Jalen Blesa (Cesena) Goal at 34',2025-09-28 05:17:47
+13654,754767,2,45988162,45',Alexis Blin (Palermo) Substitution at 45',2025-09-28 05:17:47
+13654,754767,3,45988569,56',Mattia Bani (Palermo) Goal at 56',2025-09-28 05:17:47
+13654,754767,4,45988636,57',Michele Castagnetti (Cesena) Yellow Card at 57',2025-09-28 05:17:47
+13654,754767,5,45988778,62',Simone Bastoni (Cesena) Substitution at 62',2025-09-28 05:17:47
+13654,754767,6,45988779,62',Siren Diao (Cesena) Substitution at 62',2025-09-28 05:17:47
+13654,754767,7,45988884,64',Matteo Brunori Sandri (Palermo) Substitution at 64',2025-09-28 05:17:47
+13654,754767,8,45988885,64',Patryk Peda (Palermo) Substitution at 64',2025-09-28 05:17:47
+13654,754767,9,45988952,68',Alexis Blin (Palermo) Yellow Card at 68',2025-09-28 05:17:47
+13654,754767,10,45988999,69',Samuel Giovane (Palermo) Substitution at 69',2025-09-28 05:17:47
+13654,754767,11,45989034,70',Matteo Guidi (Cesena) Substitution at 70',2025-09-28 05:17:47
+13654,754767,12,45989035,70',Dimitri Bisoli (Cesena) Substitution at 70',2025-09-28 05:17:47
+13654,754767,13,45989499,82',Aljosa Vasic (Palermo) Substitution at 82',2025-09-28 05:17:47
+13654,754767,14,45989674,86',Matteo Piacentini (Cesena) Substitution at 86',2025-09-28 05:17:47
+13654,754768,0,45982189,19',Davide Bettella (Catanzaro) Yellow Card at 19',2025-09-27 05:19:09
+13654,754768,1,45982198,21',Alessandro Gabrielloni (Juve Stabia) Penalty - Scored at 21',2025-09-27 05:19:09
+13654,754768,2,45982226,25',Alessio Cacciamani (Juve Stabia) Yellow Card at 25',2025-09-27 05:19:09
+13654,754768,3,45982253,30',Matias Antonini Lui (Catanzaro) Yellow Card at 30',2025-09-27 05:19:09
+13654,754768,4,45982324,36',Christian Pierobon (Juve Stabia) Yellow Card at 36',2025-09-27 05:19:09
+13654,754768,5,45982392,44',Lorenzo Carissoni (Juve Stabia) Goal at 44',2025-09-27 05:19:09
+13654,754768,6,45982455,45'+1',Alessio Cacciamani (Juve Stabia) Red Card at 46',2025-09-27 05:19:09
+13654,754768,7,45982682,45',Jacopo Petriccione (Catanzaro) Substitution at 45',2025-09-27 05:19:09
+13654,754768,8,45982698,45',Nicola Mosti (Juve Stabia) Substitution at 45',2025-09-27 05:19:09
+13654,754768,9,45982699,45',Bruno Verrengia (Catanzaro) Substitution at 45',2025-09-27 05:19:09
+13654,754768,10,45982700,45',Filippo Reale (Juve Stabia) Substitution at 45',2025-09-27 05:19:09
+13654,754768,11,45982701,45',Federico Di Francesco (Catanzaro) Substitution at 45',2025-09-27 05:19:09
+13654,754768,12,45982813,53',Bruno Verrengia (Catanzaro) Goal at 53',2025-09-27 05:19:09
+13654,754768,13,45982944,63',Rares Burnete (Juve Stabia) Substitution at 63',2025-09-27 05:19:09
+13654,754768,14,45982977,64',Rares Burnete (Juve Stabia) Yellow Card at 64',2025-09-27 05:19:09
+13654,754768,15,45983003,67',Filippo Pittarello (Catanzaro) Substitution at 67',2025-09-27 05:19:09
+13654,754768,16,45983029,71',Pietro Iemmello (Catanzaro) Goal at 71',2025-09-27 05:19:09
+13654,754768,17,45983226,72',Lorenzo Carissoni (Juve Stabia) Yellow Card at 72',2025-09-27 05:19:09
+13654,754768,18,45983290,76',Marco Bellich (Juve Stabia) Substitution at 76',2025-09-30 05:15:44
+13654,754768,19,45983291,76',Kevin Piscopo (Juve Stabia) Substitution at 76',2025-09-30 05:15:44
+13654,754768,20,45983377,84',Rémi Oudin (Catanzaro) Substitution at 84',2025-09-30 05:15:44
+13654,754768,21,45983503,90'+4',Kevin Piscopo (Juve Stabia) Yellow Card at 94',2025-09-30 05:15:44
+13654,754769,0,46030331,35',Matthias Verreth (Bari) Goal at 35',2025-10-01 05:14:09
+13654,754769,1,46030509,41',Ahmad Benali (Virtus Entella) Yellow Card at 41',2025-10-01 05:14:09
+13654,754769,2,46031083,45',Emanuele Rao (Bari) Substitution at 45',2025-10-01 05:14:09
+13654,754769,3,46031135,45',Christian Gytkjaer (Bari) Substitution at 45',2025-10-01 05:14:09
+13654,754769,4,46031271,48',Tommaso Fumagalli (Virtus Entella) Goal at 48',2025-10-01 05:14:09
+13654,754769,5,46031373,51',Andrea Tiritiello (Virtus Entella) Yellow Card at 51',2025-10-01 05:14:09
+13654,754769,6,46031437,55',Andrea Tiritiello (Virtus Entella) Goal at 55',2025-10-01 05:14:09
+13654,754769,7,46031665,65',Gaetano Castrovilli (Bari) Substitution at 65',2025-10-01 05:14:09
+13654,754769,8,46031666,65',Ebrima Darboe (Bari) Substitution at 65',2025-10-01 05:14:09
+13654,754769,9,46031694,65',Ivan Marconi (Virtus Entella) Yellow Card at 65',2025-10-01 05:14:09
+13654,754769,10,46031814,70',Gaetano Castrovilli (Bari) Yellow Card at 70',2025-10-01 05:14:09
+13654,754769,11,46031835,71',Davide Bariti (Virtus Entella) Substitution at 71',2025-10-01 05:14:09
+13654,754769,12,46031857,71',Stefano Di Mario (Virtus Entella) Yellow Card at 71',2025-10-01 05:14:09
+13654,754769,13,46031858,72',Leonardo Cerri (Bari) Substitution at 72',2025-10-01 05:14:09
+13654,754769,14,46031999,76',Andrea Franzoni (Virtus Entella) Yellow Card at 76',2025-10-01 05:14:09
+13654,754769,15,46032136,81',Marco Emilio Nichetti (Virtus Entella) Substitution at 81',2025-10-01 05:14:09
+13654,754769,16,46032174,81',Lorenzo Moretti (Virtus Entella) Substitution at 81',2025-10-01 05:14:09
+13654,754769,17,46032242,82',Davide Bariti (Virtus Entella) Yellow Card at 82',2025-10-01 05:14:09
+13654,754769,18,46032446,87',Christian Gytkjaer (Bari) Goal at 87',2025-10-01 05:14:09
+13654,754769,19,46032590,90',David Ankeye (Virtus Entella) Substitution at 90',2025-10-01 05:14:09
+13654,754769,20,46032591,90',Nermin Karic (Virtus Entella) Substitution at 90',2025-10-01 05:14:09
+13654,754770,0,46038520,14',Leonardo Colombo (Monza) Yellow Card at 14',2025-10-03 05:15:55
+13654,754770,1,46038597,28',Paulo Azzi (Monza) Substitution at 28',2025-10-03 05:15:55
+13654,754770,2,46038617,29',Keita Baldé (Monza) Substitution at 29',2025-10-03 05:15:55
+13654,754770,3,46039266,45',Pedro Obiang (Monza) Substitution at 45',2025-10-03 05:15:55
+13654,754770,4,46039341,49',Andrea Carboni (Monza) Goal at 49',2025-10-03 05:15:55
+13654,754770,5,46039455,57',Luca Belardinelli (Empoli) Yellow Card at 57',2025-10-03 05:15:55
+13654,754770,6,46039509,62',Salvatore Elia (Empoli) Yellow Card at 62',2025-10-03 05:15:55
+13654,754770,7,46039533,65',Gerard Yepes (Empoli) Substitution at 65',2025-10-03 05:15:55
+13654,754770,8,46039534,65',Rares Ilie (Empoli) Substitution at 65',2025-10-03 05:15:55
+13654,754770,9,46039535,66',Bohdan Popov (Empoli) Substitution at 66',2025-10-03 05:15:55
+13654,754770,10,46039549,66',Pedro Obiang (Monza) Yellow Card at 66',2025-10-03 05:15:55
+13654,754770,11,46039569,70',Andrea Colpani (Monza) Substitution at 70',2025-10-03 05:15:55
+13654,754770,12,46039721,77',Pietro Pellegri (Empoli) Substitution at 77',2025-10-03 05:15:55
+13654,754770,13,46039777,79',Gabriele Guarino (Empoli) Goal at 79',2025-10-03 05:15:55
+13654,754770,14,46039817,80',Franco Carboni (Empoli) Substitution at 80',2025-10-03 05:15:55
+13654,754770,15,46039972,87',Lorenzo Lucchesi (Monza) Substitution at 87',2025-10-03 05:15:55
+13654,754771,0,46031344,47',Antonio Raimondo (Frosinone) Goal at 47',2025-10-01 05:14:09
+13654,754771,1,46031433,52',Antonio Raimondo (Frosinone) Goal at 52',2025-10-01 05:14:09
+13654,754771,2,46031511,56',Farès Ghedjemis (Frosinone) Goal at 56',2025-10-01 05:14:09
+13654,754771,3,46031563,57',Vittorio Magni (Cesena) Substitution at 57',2025-10-01 05:14:09
+13654,754771,4,46031564,57',Marco Olivieri (Cesena) Substitution at 57',2025-10-01 05:14:09
+13654,754771,5,46031670,62',Giorgi Kvernadze (Frosinone) Red Card at 62',2025-10-01 05:14:09
+13654,754771,6,46031765,66',Edoardo Vergani (Frosinone) Substitution at 66',2025-10-01 05:14:09
+13654,754771,7,46031766,66',Matteo Cichella (Frosinone) Substitution at 66',2025-10-01 05:14:09
+13654,754771,8,46031812,66',Gianluca Frabotta (Cesena) Substitution at 66',2025-10-01 05:14:09
+13654,754771,9,46031813,67',Tommaso Berti (Cesena) Substitution at 67',2025-10-01 05:14:09
+13654,754771,10,46031871,70',Cristian Shpendi (Cesena) Substitution at 70',2025-10-01 05:14:09
+13654,754771,11,46031978,73',Massimo Zilli (Frosinone) Substitution at 73',2025-10-01 05:14:09
+13654,754771,12,46032096,76',Riccardo Ciervo (Cesena) Goal at 76',2025-10-01 05:14:09
+13654,754771,13,46032442,85',Emanuele Adamo (Cesena) Yellow Card at 85',2025-10-01 05:14:09
+13654,754771,14,46032593,88',Lorenzo Palmisani (Frosinone) Yellow Card at 88',2025-10-01 05:14:09
+13654,754771,15,46032834,90'+5',Abdoulie Ndow (Frosinone) Substitution at 95',2025-10-01 05:14:09
+13654,754772,0,46029873,5',Marco Ruggero (Juve Stabia) Goal at 5',2025-10-01 05:14:09
+13654,754772,1,46030028,20',Leonardo Candellone (Juve Stabia) Goal at 20',2025-10-01 05:14:09
+13654,754772,2,46030279,31',Fabio Maistro (Juve Stabia) Substitution at 31',2025-10-01 05:14:09
+13654,754772,3,46030569,40',Nicola Mosti (Juve Stabia) Yellow Card at 40',2025-10-01 05:14:09
+13654,754772,4,46030711,45',Simone Trimboli (Mantova) Yellow Card at 45',2025-10-01 05:14:09
+13654,754772,5,46031369,45',Christian Pierobon (Juve Stabia) Substitution at 45',2025-10-01 05:14:09
+13654,754772,6,46031526,53',Rares Burnete (Juve Stabia) Substitution at 53',2025-10-01 05:14:09
+13654,754772,7,46031625,56',Flavio Paoletti (Mantova) Substitution at 56',2025-10-01 05:14:09
+13654,754772,8,46031626,56',Antonio Fiori (Mantova) Substitution at 56',2025-10-01 05:14:09
+13654,754772,9,46032032,70',Flavio Paoletti (Mantova) Yellow Card at 70',2025-10-01 05:14:09
+13654,754772,10,46032093,73',Nicolò Radaelli (Mantova) Substitution at 73',2025-10-01 05:14:09
+13654,754772,11,46032157,74',Alessandro Confente (Juve Stabia) Yellow Card at 74',2025-10-01 05:14:09
+13654,754772,12,46032279,77',Leonardo Mancuso (Mantova) Substitution at 77',2025-10-01 05:14:09
+13654,754772,13,46032280,77',Davis Mensah (Mantova) Substitution at 77',2025-10-01 05:14:09
+13654,754772,14,46032344,79',Marco Bellich (Juve Stabia) Substitution at 79',2025-10-01 05:14:09
+13654,754772,15,46032345,79',Federico Zuccon (Juve Stabia) Substitution at 79',2025-10-01 05:14:09
+13654,754772,16,46032439,81',Nicolò Radaelli (Mantova) Yellow Card at 81',2025-10-01 05:14:09
+13654,754772,17,46033099,90'+4',Leonardo Mancuso (Mantova) Goal at 94',2025-10-01 05:14:09
+13654,754773,0,46038626,29',Alessandro Dellavalle (Modena) Yellow Card at 29',2025-10-03 05:15:55
+13654,754773,1,46038889,43',Niklas Pyyhtia (Modena) Yellow Card at 43',2025-10-03 05:15:55
+13654,754773,2,46038951,45'+2',Nicholas Schiavi (Carrarese) Yellow Card at 47',2025-10-03 05:15:55
+13654,754773,3,46039295,45',Simone Santoro (Modena) Substitution at 45',2025-10-03 05:15:55
+13654,754773,4,46039356,48',Daniel Tonoli (Modena) Yellow Card at 48',2025-10-03 05:15:55
+13654,754773,5,46039423,54',Luca Magnino (Modena) Yellow Card at 54',2025-10-03 05:15:55
+13654,754773,6,46039454,55',Julián Illanes (Carrarese) Yellow Card at 55',2025-10-03 05:15:55
+13654,754773,7,46039510,62',Francesco Di Mariano (Modena) Substitution at 62',2025-10-03 05:15:55
+13654,754773,8,46039519,62',Matteo Cottali (Modena) Substitution at 62',2025-10-03 05:15:55
+13654,754773,9,46039520,62',Ettore Gliozzi (Modena) Substitution at 62',2025-10-03 05:15:55
+13654,754773,10,46039565,68',Nikola Sekulov (Carrarese) Substitution at 68',2025-10-03 05:15:55
+13654,754773,11,46039581,68',Luis Hasa (Carrarese) Substitution at 68',2025-10-03 05:15:55
+13654,754773,12,46039830,80',Tommaso Rubino (Carrarese) Substitution at 80',2025-10-03 05:15:55
+13654,754773,13,46039831,80',Devid Eugene Bouah (Carrarese) Substitution at 80',2025-10-03 05:15:55
+13654,754773,14,46039895,82',Alessandro Sersanti (Modena) Substitution at 82',2025-10-03 05:15:55
+13654,754773,15,46039961,85',Ernesto Torregrossa (Carrarese) Substitution at 85',2025-10-03 05:15:55
+13654,754774,0,46029936,15',Niccolò Pierozzi (Palermo) Yellow Card at 15',2025-10-01 05:14:09
+13654,754774,1,46030298,31',Tommaso Augello (Palermo) Yellow Card at 31',2025-10-01 05:14:09
+13654,754774,2,46030364,33',Issa Doumbia (Venezia) Yellow Card at 33',2025-10-01 05:14:09
+13654,754774,3,46030492,37',Mattia Bani (Palermo) Yellow Card at 37',2025-10-01 05:14:09
+13654,754774,4,46031331,45',Emmanuel Gyasi (Palermo) Substitution at 45',2025-10-01 05:14:09
+13654,754774,5,46031332,45',Patryk Peda (Palermo) Substitution at 45',2025-10-01 05:14:09
+13654,754774,6,46031405,49',Pietro Ceccaroni (Palermo) Yellow Card at 49',2025-10-01 05:14:09
+13654,754774,7,46031656,58',Jeremy Le Douaron (Palermo) Substitution at 58',2025-10-01 05:14:09
+13654,754774,8,46031657,58',Claudio Gomes (Palermo) Substitution at 58',2025-10-01 05:14:09
+13654,754774,9,46031831,66',John Yeboah (Venezia) Substitution at 66',2025-10-01 05:14:09
+13654,754774,10,46032213,78',Bjarki Steinn Bjarkason (Venezia) Substitution at 78',2025-10-01 05:14:09
+13654,754774,11,46032503,85',Bartosz Bereszynski (Palermo) Substitution at 85',2025-10-01 05:14:09
+13654,754774,12,46032611,86',Gianluca Busio (Venezia) Yellow Card at 86',2025-10-01 05:14:09
+13654,754774,13,46032807,90'+2',Pietro Ceccaroni (Palermo) Red Card at 92',2025-10-01 05:14:09
+13654,754774,14,46033018,90'+2',Emil Bohinen (Venezia) Substitution at 92',2025-10-01 05:14:09
+13654,754774,15,46033019,90'+2',Antonio Casas (Venezia) Substitution at 92',2025-10-01 05:14:09
+13654,754775,0,46038554,20',Giacomo Olzer (Pescara) Yellow Card at 20',2025-10-03 05:15:55
+13654,754775,1,46038631,29',Simone Davi (Suditrol) Yellow Card at 29',2025-10-03 05:15:55
+13654,754775,2,46038675,32',Alessandro Mallamo (Suditrol) Yellow Card at 32',2025-10-03 05:15:55
+13654,754775,3,46039459,60',Mamadou Coulibaly (Suditrol) Substitution at 60',2025-10-03 05:15:55
+13654,754775,4,46039479,60',Jonathan Italeng (Suditrol) Substitution at 60',2025-10-03 05:15:55
+13654,754775,5,46039480,60',Gaetano Letizia (Pescara) Substitution at 60',2025-10-03 05:15:55
+13654,754775,6,46039481,60',Davide Merola (Pescara) Substitution at 60',2025-10-03 05:15:55
+13654,754775,7,46039517,65',Mamadou Coulibaly (Suditrol) Goal at 65',2025-10-03 05:15:55
+13654,754775,8,46039532,67',Karim Zedadka (Suditrol) Substitution at 67',2025-10-03 05:15:55
+13654,754775,9,46039707,78',Orji Okwonkwo (Pescara) Substitution at 78',2025-10-03 05:15:55
+13654,754775,10,46039719,78',Lorenzo Meazzi (Pescara) Substitution at 78',2025-10-03 05:15:55
+13654,754775,11,46039818,82',Gianmarco Cangiano (Pescara) Substitution at 82',2025-10-03 05:15:55
+13654,754775,12,46039888,84',Dhirar Brik (Suditrol) Substitution at 84',2025-10-03 05:15:55
+13654,754775,13,46039889,84',Emanuele Pecorino (Suditrol) Substitution at 84',2025-10-03 05:15:55
+13654,754775,14,46040181,90'+4',Jonathan Italeng (Suditrol) Yellow Card at 94',2025-10-03 05:15:55
+13654,754775,15,46040202,90'+5',Lorenzo Meazzi (Pescara) Goal at 95',2025-10-03 05:15:55
+13654,754775,16,46040221,90'+7',Lorenzo Meazzi (Pescara) Yellow Card at 97',2025-10-03 05:15:55
+13654,754776,0,46030085,26',Gianluca Lapadula (Spezia) Goal at 26',2025-10-01 05:14:09
+13654,754776,1,46031146,45',Natan Girma (Reggiana) Substitution at 45',2025-10-01 05:14:09
+13654,754776,2,46031378,52',Petko Hristov (Spezia) Red Card at 52',2025-10-01 05:14:09
+13654,754776,3,46031393,53',Andrea Cistana (Spezia) Yellow Card at 53',2025-10-01 05:14:09
+13654,754776,4,46031418,54',Andrea Cistana (Spezia) Substitution at 54',2025-10-01 05:14:09
+13654,754776,5,46031577,61',Natan Girma (Reggiana) Goal at 61',2025-10-01 05:14:09
+13654,754776,6,46031731,67',Francesco Cassata (Spezia) Substitution at 67',2025-10-01 05:14:09
+13654,754776,7,46031732,68',Giuseppe Di Serio (Spezia) Substitution at 68',2025-10-01 05:14:09
+13654,754776,8,46031874,72',Alessandro Tripaldelli (Reggiana) Substitution at 72',2025-10-01 05:14:09
+13654,754776,9,46031899,74',Manolo Portanova (Reggiana) Yellow Card at 74',2025-10-01 05:14:09
+13654,754776,10,46032094,78',Tobías Reinhart (Reggiana) Yellow Card at 78',2025-10-01 05:14:09
+13654,754776,11,46032210,83',Leonardo Mendicino (Reggiana) Substitution at 83',2025-10-01 05:14:09
+13654,754776,12,46032211,83',Elayis Tavsan (Reggiana) Substitution at 83',2025-10-01 05:14:09
+13654,754776,13,46032269,84',Elayis Tavsan (Reggiana) Yellow Card at 84',2025-10-01 05:14:09
+13654,754776,14,46032406,87',Lorenzo Libutti (Reggiana) Yellow Card at 87',2025-10-01 05:14:09
+13654,754776,15,46032518,90',Christian Comotto (Spezia) Substitution at 90',2025-10-01 05:14:09
+13654,754776,16,46032551,90',Pietro Beruatto (Spezia) Substitution at 90',2025-10-01 05:14:09
+13654,754776,17,46032552,90',Mathis Lambourde (Reggiana) Substitution at 90',2025-10-01 05:14:09
+13654,754776,18,46032666,90'+3',Natan Girma (Reggiana) Yellow Card at 93',2025-10-01 05:14:09
+13654,754777,0,46039490,61',Fabio Rispoli (Catanzaro) Substitution at 61',2025-10-03 05:15:55
+13654,754777,1,46039498,61',Luca Pandolfi (Catanzaro) Substitution at 61',2025-10-03 05:15:55
+13654,754777,2,46039499,61',Liam Henderson (Sampdoria) Substitution at 61',2025-10-03 05:15:55
+13654,754777,3,46039500,62',Massimo Coda (Sampdoria) Substitution at 62',2025-10-03 05:15:55
+13654,754777,4,46039600,72',Alphadjo Cissè (Catanzaro) Yellow Card at 72',2025-10-03 05:15:55
+13654,754777,5,46039601,73',Filippo Pittarello (Catanzaro) Substitution at 73',2025-10-03 05:15:55
+13654,754777,6,46039619,73',Gianluca Di Chiara (Catanzaro) Substitution at 73',2025-10-03 05:15:55
+13654,754777,7,46039860,82',Antonín Barák (Sampdoria) Substitution at 82',2025-10-03 05:15:55
+13654,754777,8,46039861,82',Nicholas Ioannou (Sampdoria) Substitution at 82',2025-10-03 05:15:55
+13654,754777,9,46039987,86',Federico Di Francesco (Catanzaro) Substitution at 86',2025-10-03 05:15:55
+13654,754777,10,46040134,90'+2',Francesco Conti (Sampdoria) Substitution at 92',2025-10-03 05:15:55
+13654,754778,0,46029879,9',Filippo Sgarbi (Padova) Goal at 9',2025-10-01 05:14:09
+13654,754778,1,46030146,29',Cristian Buonaiuto (Padova) Goal at 29',2025-10-01 05:14:09
+13654,754778,2,46030201,31',Tommaso Biasci (US Avellino) Goal at 31',2025-10-01 05:14:09
+13654,754778,3,46030608,44',Facundo Lescano (US Avellino) Goal at 44',2025-10-01 05:14:09
+13654,754778,4,46031460,54',Giulio Favale (Padova) Yellow Card at 54',2025-10-01 05:14:09
+13654,754778,5,46031513,56',Antonio Barreca (Padova) Substitution at 56',2025-10-01 05:14:09
+13654,754778,6,46031514,57',Kevin Lasagna (Padova) Substitution at 57',2025-10-01 05:14:09
+13654,754778,7,46031654,62',Michele Besaggio (US Avellino) Substitution at 62',2025-10-01 05:14:09
+13654,754778,8,46031942,73',Raffaele Russo (US Avellino) Substitution at 73',2025-10-01 05:14:09
+13654,754778,9,46031943,73',Valerio Crespi (US Avellino) Substitution at 73',2025-10-01 05:14:09
+13654,754778,10,46032040,77',Lorenzo Crisetig (Padova) Substitution at 77',2025-10-01 05:14:09
+13654,754778,11,46032090,77',Luca Di Maggio (Padova) Substitution at 77',2025-10-01 05:14:09
+13654,754778,12,46032252,82',Lorenco Simic (US Avellino) Substitution at 82',2025-10-01 05:14:09
+13654,754778,13,46032295,83',Martin Palumbo (US Avellino) Substitution at 83',2025-10-01 05:14:09
+13654,754778,14,46032378,84',Jonathan Silva (Padova) Substitution at 84',2025-10-01 05:14:09
+13654,754778,15,46032431,85',Luca Di Maggio (Padova) Yellow Card at 85',2025-10-01 05:14:09
+13654,754778,16,46032610,89',Raffaele Russo (US Avellino) Yellow Card at 89',2025-10-01 05:14:09
+13654,754779,0,46082238,5',Raphael Kofler (Suditrol) Red Card at 5',2025-10-07 05:28:47
+13654,754779,1,46083126,42',Emanuele Pecorino (Suditrol) Goal at 42',2025-10-07 05:28:47
+13654,754779,2,46083330,45',Rares Ilie (Empoli) Substitution at 45',2025-10-07 05:28:47
+13654,754779,3,46083331,45',Marco Nasti (Empoli) Substitution at 45',2025-10-07 05:28:47
+13654,754779,4,46083350,45',Gerard Yepes (Empoli) Substitution at 45',2025-10-07 05:28:47
+13654,754779,5,46083598,60',Steven Shpendi (Empoli) Goal at 60',2025-10-07 05:28:47
+13654,754779,6,46083700,62',Filipe Bordon (Suditrol) Substitution at 62',2025-10-07 05:28:47
+13654,754779,7,46083701,62',Jacopo Martini (Suditrol) Substitution at 62',2025-10-07 05:28:47
+13654,754779,8,46083750,65',Pietro Pellegri (Empoli) Substitution at 65',2025-10-07 05:28:47
+13654,754779,9,46083765,67',Marius Adamonis (Suditrol) Yellow Card at 67',2025-10-07 05:28:47
+13654,754779,10,46083920,73',Raphael Odogwu (Suditrol) Substitution at 73',2025-10-07 05:28:47
+13654,754779,11,46083952,73',Karim Zedadka (Suditrol) Substitution at 73',2025-10-07 05:28:47
+13654,754779,12,46084014,77',Franco Carboni (Empoli) Substitution at 77',2025-10-07 05:28:47
+13654,754779,13,46084118,80',Joseph Ceesay (Empoli) Yellow Card at 80',2025-10-07 05:28:47
+13654,754779,14,46084275,87',Gabriele Guarino (Empoli) Yellow Card at 87',2025-10-07 05:28:47
+13654,754779,15,46084356,90'+1',Daniele Casiraghi (Suditrol) Substitution at 91',2025-10-07 05:28:47
+13654,754779,16,46084453,90'+6',Marco Nasti (Empoli) Goal at 96',2025-10-07 05:28:47
+13654,754779,17,46084492,90'+9',Simone Tronchin (Suditrol) Yellow Card at 99',2025-10-07 05:28:47
+13654,754780,0,46066537,22',Salim Diakite (Palermo) Substitution at 22',2025-10-05 05:22:57
+13654,754780,1,46066838,29',Ales Mateju (Spezia) Yellow Card at 29',2025-10-05 05:22:57
+13654,754780,2,46066953,33',Salim Diakite (Palermo) Yellow Card at 33',2025-10-05 05:22:57
+13654,754780,3,46067247,42',Joel Pohjanpalo (Palermo) Goal at 42',2025-10-05 05:22:57
+13654,754780,4,46067590,45',Emmanuel Gyasi (Palermo) Substitution at 45',2025-10-05 05:22:57
+13654,754780,5,46067837,58',Niccolò Pierozzi (Palermo) Goal at 58',2025-10-05 05:22:57
+13654,754780,6,46067903,63',Antonio Candela (Spezia) Substitution at 63',2025-10-05 05:22:57
+13654,754780,7,46067904,63',Gabriele Artistico (Spezia) Substitution at 63',2025-10-05 05:22:57
+13654,754780,8,46067945,66',Alexis Blin (Palermo) Yellow Card at 66',2025-10-05 05:22:57
+13654,754780,9,46067983,69',Jacopo Segre (Palermo) Substitution at 69',2025-10-05 05:22:57
+13654,754780,10,46067984,70',Bartosz Bereszynski (Palermo) Substitution at 70',2025-10-05 05:22:57
+13654,754780,11,46067985,70',Pietro Beruatto (Spezia) Substitution at 70',2025-10-05 05:22:57
+13654,754780,12,46067986,70',Christian Comotto (Spezia) Substitution at 70',2025-10-05 05:22:57
+13654,754780,13,46068021,73',Davide Veroli (Palermo) Yellow Card at 73',2025-10-05 05:22:57
+13654,754780,14,46068128,83',Samuel Giovane (Palermo) Substitution at 83',2025-10-05 05:22:57
+13654,754780,15,46068133,83',Vanja Vlahovic (Spezia) Substitution at 83',2025-10-05 05:22:57
+13654,754780,16,46068186,89',Samuel Giovane (Palermo) Own Goal at 89',2025-10-05 05:22:57
+13654,754780,17,46068187,89',Salvatore Esposito (Spezia) Penalty - Saved at 89',2025-10-05 05:22:57
+13654,754781,0,46062250,5',Alphadjo Cissè (Catanzaro) Goal at 5',2025-10-05 05:22:57
+13654,754781,1,46062513,19',Kevin Zeroli (Monza) Yellow Card at 19',2025-10-05 05:22:57
+13654,754781,2,46062757,34',Samuele Birindelli (Monza) Yellow Card at 34',2025-10-05 05:22:57
+13654,754781,3,46062758,34',Alphadjo Cissè (Catanzaro) Yellow Card at 34',2025-10-05 05:22:57
+13654,754781,4,46062823,37',Agustín Álvarez Martínez (Monza) Goal at 37',2025-10-05 05:22:57
+13654,754781,5,46063671,62',Marco D'Alessandro (Catanzaro) Substitution at 62',2025-10-05 05:22:57
+13654,754781,6,46063813,66',Samuele Birindelli (Monza) Goal at 66',2025-10-05 05:22:57
+13654,754781,7,46063986,73',Federico Di Francesco (Catanzaro) Substitution at 73',2025-10-05 05:22:57
+13654,754781,8,46064021,73',Nicolas Galazzi (Monza) Substitution at 73',2025-10-05 05:22:57
+13654,754781,9,46064022,74',Luca Pandolfi (Catanzaro) Substitution at 74',2025-10-05 05:22:57
+13654,754781,10,46064260,74',Gianluca Di Chiara (Catanzaro) Substitution at 74',2025-10-05 05:22:57
+13654,754781,11,46064109,76',Mirko Maric (Monza) Substitution at 76',2025-10-05 05:22:57
+13654,754781,12,46064110,76',Leonardo Colombo (Monza) Substitution at 76',2025-10-05 05:22:57
+13654,754781,13,46064491,85',Filippo Pittarello (Catanzaro) Substitution at 85',2025-10-05 05:22:57
+13654,754781,14,46064847,90'+1',Filippo Delli Carri (Monza) Substitution at 91',2025-10-05 05:22:57
+13654,754781,15,46064848,90'+1',Arvid Brorsson (Monza) Substitution at 91',2025-10-05 05:22:57
+13654,754782,0,46082223,10',Nicholas Schiavi (Carrarese) Penalty - Scored at 10',2025-10-07 05:28:47
+13654,754782,1,46082713,25',Fabio Maistro (Juve Stabia) Yellow Card at 25',2025-10-07 05:28:47
+13654,754782,2,46082961,38',Devid Eugene Bouah (Carrarese) Yellow Card at 38',2025-10-07 05:28:47
+13654,754782,3,46083234,45',Kevin Piscopo (Juve Stabia) Substitution at 45',2025-10-07 05:28:47
+13654,754782,4,46083370,52',Simone Zanon (Carrarese) Substitution at 52',2025-10-07 05:28:47
+13654,754782,5,46083371,52',Mattia Finotto (Carrarese) Substitution at 52',2025-10-07 05:28:47
+13654,754782,6,46083442,57',Nicola Mosti (Juve Stabia) Yellow Card at 57',2025-10-07 05:28:47
+13654,754782,7,46083517,61',Marco Imperiale (Carrarese) Yellow Card at 61',2025-10-07 05:28:47
+13654,754782,8,46083623,67',Giacomo Stabile (Juve Stabia) Substitution at 67',2025-10-07 05:28:47
+13654,754782,9,46083659,67',Edoardo Duca (Juve Stabia) Substitution at 67',2025-10-07 05:28:47
+13654,754782,10,46083661,67',Kleis Bozhanaj (Carrarese) Substitution at 67',2025-10-07 05:28:47
+13654,754782,11,46083660,68',Filippo Oliana (Carrarese) Substitution at 68',2025-10-07 05:28:47
+13654,754782,12,46083829,75',Giacomo De Pieri (Juve Stabia) Substitution at 75',2025-10-07 05:28:47
+13654,754782,13,46083869,77',Luis Hasa (Carrarese) Goal at 77',2025-10-07 05:28:47
+13654,754782,14,46083948,79',Federico Zuccon (Juve Stabia) Substitution at 79',2025-10-07 05:28:47
+13654,754782,15,46084045,83',Ernesto Torregrossa (Carrarese) Substitution at 83',2025-10-07 05:28:47
+13654,754782,16,46084106,86',Simone Zanon (Carrarese) Goal at 86',2025-10-07 05:28:47
+13654,754782,17,46084235,90'+1',Giacomo De Pieri (Juve Stabia) Yellow Card at 91',2025-10-07 05:28:47
+13654,754782,18,46084285,90'+3',Giuseppe Leone (Juve Stabia) Yellow Card at 93',2025-10-07 05:28:47
+13654,754783,0,46062460,16',Sheriff Kassama (Bari) Substitution at 16',2025-10-05 05:22:57
+13654,754783,1,46062656,28',Emanuele Rao (Bari) Yellow Card at 28',2025-10-05 05:22:57
+13654,754783,2,46063165,45',Gabriele Moncini (Bari) Substitution at 45',2025-10-05 05:22:57
+13654,754783,3,46063166,45',Emile Dorval (Bari) Substitution at 45',2025-10-05 05:22:57
+13654,754783,4,46063307,50',Mattia Bortolussi (Padova) Goal at 50',2025-10-05 05:22:57
+13654,754783,5,46063517,56',Gaetano Castrovilli (Bari) Yellow Card at 56',2025-10-05 05:22:57
+13654,754783,6,46063734,64',Leonardo Cerri (Bari) Substitution at 64',2025-10-05 05:22:57
+13654,754783,7,46063897,69',Alessandro Capelli (Padova) Red Card at 69',2025-10-05 05:22:57
+13654,754783,8,46063898,71',Gabriele Moncini (Bari) Penalty - Scored at 71',2025-10-05 05:22:57
+13654,754783,9,46063957,73',Paolo Ghiglione (Padova) Substitution at 73',2025-10-05 05:22:57
+13654,754783,10,46063991,73',Jonas Harder (Padova) Substitution at 73',2025-10-05 05:22:57
+13654,754783,11,46064130,77',Gastón Pereiro (Bari) Substitution at 77',2025-10-05 05:22:57
+13654,754783,12,46064272,81',Luca Di Maggio (Padova) Substitution at 81',2025-10-05 05:22:57
+13654,754783,13,46064273,81',Giulio Favale (Padova) Substitution at 81',2025-10-05 05:22:57
+13654,754783,14,46064412,84',Leonardo Cerri (Bari) Goal at 84',2025-10-05 05:22:57
+13654,754783,15,46064473,86',Cristian Buonaiuto (Padova) Substitution at 86',2025-10-05 05:22:57
+13654,754784,0,46062697,30',Zan Majer (Mantova) Substitution at 30',2025-10-05 05:22:57
+13654,754784,1,46063189,45',Tommaso Marras (Mantova) Substitution at 45',2025-10-05 05:22:57
+13654,754784,2,46063215,45',Michele Besaggio (US Avellino) Substitution at 45',2025-10-05 05:22:57
+13654,754784,3,46063216,45',Raffaele Russo (US Avellino) Substitution at 45',2025-10-05 05:22:57
+13654,754784,4,46063600,57',Maat Caprini (Mantova) Yellow Card at 57',2025-10-05 05:22:57
+13654,754784,5,46063760,63',Leonardo Mancuso (Mantova) Substitution at 63',2025-10-05 05:22:57
+13654,754784,6,46063785,63',Francesco Ruocco (Mantova) Substitution at 63',2025-10-05 05:22:57
+13654,754784,7,46063895,68',Luca Palmiero (US Avellino) Yellow Card at 68',2025-10-05 05:22:57
+13654,754784,8,46063971,72',Cristiano Bani (Mantova) Yellow Card at 72',2025-10-05 05:22:57
+13654,754784,9,46064019,73',Valerio Mantovani (Mantova) Substitution at 73',2025-10-05 05:22:57
+13654,754784,10,46064106,75',Valerio Crespi (US Avellino) Substitution at 75',2025-10-05 05:22:57
+13654,754784,11,46064107,75',Alessandro Milani (US Avellino) Substitution at 75',2025-10-05 05:22:57
+13654,754784,12,46064177,76',Justin Kumi (US Avellino) Yellow Card at 76',2025-10-05 05:22:57
+13654,754784,13,46064342,80',Martin Palumbo (US Avellino) Substitution at 80',2025-10-05 05:22:57
+13654,754784,14,46064840,88',Federico Artioli (Mantova) Yellow Card at 88',2025-10-05 05:22:57
+13654,754785,0,46062223,3',Mattia Compagnon (Venezia) Goal at 3',2025-10-05 05:22:57
+13654,754785,1,46062484,15',Lorenzo Palmisani (Frosinone) Yellow Card at 15',2025-10-05 05:22:57
+13654,754785,2,46062442,16',John Yeboah (Venezia) Goal at 16',2025-10-05 05:22:57
+13654,754785,3,46062445,16',John Yeboah (Venezia) Penalty - Saved at 16',2025-10-05 05:22:57
+13654,754785,4,46062731,32',Ben Lhassine Kone (Frosinone) Yellow Card at 32',2025-10-05 05:22:57
+13654,754785,5,46062795,35',Marin Sverko (Venezia) Yellow Card at 35',2025-10-05 05:22:57
+13654,754785,6,46062902,41',Gianluca Busio (Venezia) Yellow Card at 41',2025-10-05 05:22:57
+13654,754785,7,46063106,45',Filippo Grosso (Frosinone) Substitution at 45',2025-10-05 05:22:57
+13654,754785,8,46063129,45',Antonio Casas (Venezia) Substitution at 45',2025-10-05 05:22:57
+13654,754785,9,46063130,45',Nunzio Lella (Venezia) Substitution at 45',2025-10-05 05:22:57
+13654,754785,10,46063355,53',Antonio Casas (Venezia) Goal at 53',2025-10-05 05:22:57
+13654,754785,11,46063428,56',Massimo Zilli (Frosinone) Substitution at 56',2025-10-05 05:22:57
+13654,754785,12,46063668,63',Matteo Cichella (Frosinone) Substitution at 63',2025-10-05 05:22:57
+13654,754785,13,46063669,63',Edoardo Vergani (Frosinone) Substitution at 63',2025-10-05 05:22:57
+13654,754785,14,46063670,64',Ahmed Sidibé (Venezia) Substitution at 64',2025-10-05 05:22:57
+13654,754785,15,46063845,70',Ilario Monterisi (Frosinone) Yellow Card at 70',2025-10-05 05:22:57
+13654,754785,16,46063861,70',Antonio Casas (Venezia) Yellow Card at 70',2025-10-05 05:22:57
+13654,754785,17,46063899,72',Ridgeciano Haps (Venezia) Substitution at 72',2025-10-05 05:22:57
+13654,754785,18,46064257,82',Emil Bohinen (Venezia) Substitution at 82',2025-10-05 05:22:57
+13654,754785,19,46064258,82',Adrian Raychev (Frosinone) Substitution at 82',2025-10-05 05:22:57
+13654,754785,20,46064371,84',Matteo Cichella (Frosinone) Yellow Card at 84',2025-10-05 05:22:57
+13654,754786,0,46084713,6',Davide Merola (Pescara) Substitution at 6',2025-10-07 05:28:47
+13654,754786,1,46085142,31',Stipe Vulikic (Sampdoria) Yellow Card at 31',2025-10-07 05:28:47
+13654,754786,2,46085355,44',Andrea Oliveri (Pescara) Goal at 44',2025-10-07 05:28:47
+13654,754786,3,46086010,45',Simone Giordano (Sampdoria) Substitution at 45',2025-10-07 05:28:47
+13654,754786,4,46086256,56',Massimo Coda (Sampdoria) Penalty - Scored at 56',2025-10-07 05:28:47
+13654,754786,5,46086313,59',Alessandro Pio Riccio (Sampdoria) Yellow Card at 59',2025-10-07 05:28:47
+13654,754786,6,46086423,63',Simone Pafundi (Sampdoria) Goal at 63',2025-10-07 05:28:47
+13654,754786,7,46086493,65',Lorenzo Meazzi (Pescara) Substitution at 65',2025-10-07 05:28:47
+13654,754786,8,46086494,65',Tommaso Corazza (Pescara) Substitution at 65',2025-10-07 05:28:47
+13654,754786,9,46086504,66',Fabio Depaoli (Sampdoria) Goal at 66',2025-10-07 05:28:47
+13654,754786,10,46086580,70',Riccardo Brosco (Pescara) Yellow Card at 70',2025-10-07 05:28:47
+13654,754786,11,46086678,76',Antonín Barák (Sampdoria) Substitution at 76',2025-10-07 05:28:47
+13654,754786,12,46086702,76',Liam Henderson (Sampdoria) Substitution at 76',2025-10-07 05:28:47
+13654,754786,13,46086767,81',Lorenzo Sgarbi (Pescara) Substitution at 81',2025-10-07 05:28:47
+13654,754786,14,46086768,81',Julian Brandes (Pescara) Substitution at 81',2025-10-07 05:28:47
+13654,754786,15,46086862,87',Nicholas Ioannou (Sampdoria) Substitution at 87',2025-10-07 05:28:47
+13654,754786,16,46086863,87',Marvin Cuni (Sampdoria) Substitution at 87',2025-10-07 05:28:47
+13654,754786,17,46086924,90'+1',Nicholas Ioannou (Sampdoria) Goal at 91',2025-10-07 05:28:47
+13654,754786,18,46086999,90'+3',Riccardo Brosco (Pescara) Red Card at 93',2025-10-07 05:28:47
+13654,754787,0,46068882,13',Simone Bonetti (Reggiana) Yellow Card at 13',2025-10-05 05:22:57
+13654,754787,1,46068917,15',Riccardo Ciervo (Cesena) Goal at 15',2025-10-05 05:22:57
+13654,754787,2,46068975,19',Elayis Tavsan (Reggiana) Goal at 19',2025-10-05 05:22:57
+13654,754787,3,46069059,24',Manolo Portanova (Reggiana) Goal at 24',2025-10-05 05:22:57
+13654,754787,4,46069621,45',Raffaele Celia (Cesena) Substitution at 45',2025-10-05 05:22:57
+13654,754787,5,46069625,45',Giangiacomo Magnani (Reggiana) Substitution at 45',2025-10-05 05:22:57
+13654,754787,6,46069650,46',Edoardo Motta (Reggiana) Yellow Card at 46',2025-10-08 05:26:07
+13654,754787,7,46069673,50',Tobías Reinhart (Reggiana) Yellow Card at 50',2025-10-05 05:22:57
+13654,754787,8,46069744,53',Riccardo Ciervo (Cesena) Yellow Card at 53',2025-10-05 05:22:57
+13654,754787,9,46069747,54',Simone Bastoni (Cesena) Substitution at 54',2025-10-05 05:22:57
+13654,754787,10,46069869,61',Marco Olivieri (Cesena) Substitution at 61',2025-10-05 05:22:57
+13654,754787,11,46069888,64',Massimo Bertagnoli (Reggiana) Substitution at 64',2025-10-05 05:22:57
+13654,754787,12,46069958,70',Tommaso Berti (Cesena) Yellow Card at 70',2025-10-05 05:22:57
+13654,754787,13,46069996,74',Andrija Novakovich (Reggiana) Substitution at 74',2025-10-05 05:22:57
+13654,754787,14,46070030,74',Vittorio Magni (Cesena) Substitution at 74',2025-10-05 05:22:57
+13654,754787,15,46070031,74',Siren Diao (Cesena) Substitution at 74',2025-10-05 05:22:57
+13654,754787,16,46070133,81',Leonardo Mendicino (Reggiana) Substitution at 81',2025-10-05 05:22:57
+13654,754787,17,46070152,81',Alessandro Tripaldelli (Reggiana) Substitution at 81',2025-10-05 05:22:57
+13654,754787,18,46070392,87',Simone Bastoni (Cesena) Red Card at 87',2025-10-05 05:22:57
+13654,754788,0,46088377,55',Simone Santoro (Modena) Yellow Card at 55',2025-10-07 05:28:47
+13654,754788,1,46088582,62',Pedro Mendes (Modena) Substitution at 62',2025-10-07 05:28:47
+13654,754788,2,46088596,62',Alessandro Sersanti (Modena) Substitution at 62',2025-10-07 05:28:47
+13654,754788,3,46088642,66',Ettore Gliozzi (Modena) Penalty - Scored at 66',2025-10-07 05:28:47
+13654,754788,4,46088746,73',Matteo Cottali (Modena) Substitution at 73',2025-10-07 05:28:47
+13654,754788,5,46088747,73',Grégoire Defrel (Modena) Substitution at 73',2025-10-07 05:28:47
+13654,754788,6,46088748,73',Tommaso Fumagalli (Virtus Entella) Substitution at 73',2025-10-07 05:28:47
+13654,754788,7,46088929,81',Flavio Russo (Virtus Entella) Substitution at 81',2025-10-07 05:28:47
+13654,754788,8,46088960,81',Tommaso Del Lungo (Virtus Entella) Substitution at 81',2025-10-07 05:28:47
+13654,754788,9,46089081,89',Luca Magnino (Modena) Substitution at 89',2025-10-07 05:28:47
+13654,754788,10,46089082,89',Antonio Boccadamo (Virtus Entella) Substitution at 89',2025-10-07 05:28:47
+13654,754788,11,46089105,89',David Ankeye (Virtus Entella) Substitution at 89',2025-10-07 05:28:47
+13654,754788,12,46089106,90',Pedro Mendes (Modena) Goal at 90',2025-10-07 05:28:47
+13654,754789,0,46168180,4',Gianluca Lapadula (Spezia) Goal at 4',2025-10-19 05:22:21
+13654,754789,1,46168393,17',Matteo Francesconi (Cesena) Yellow Card at 17',2025-10-19 05:22:21
+13654,754789,2,46168711,38',Gianluca Frabotta (Cesena) Goal at 38',2025-10-19 05:22:21
+13654,754789,3,46168878,45'+1',Gianluca Frabotta (Cesena) Goal at 46',2025-10-19 05:22:21
+13654,754789,4,46169152,45',Luca Vignali (Spezia) Substitution at 45',2025-10-19 05:22:21
+13654,754789,5,46169233,48',Michele Castagnetti (Cesena) Yellow Card at 48',2025-10-19 05:22:21
+13654,754789,6,46169384,63',Pietro Candelari (Spezia) Substitution at 63',2025-10-19 05:22:21
+13654,754789,7,46169385,63',Pietro Beruatto (Spezia) Substitution at 63',2025-10-19 05:22:21
+13654,754789,8,46169446,71',Vanja Vlahovic (Spezia) Substitution at 71',2025-10-19 05:22:21
+13654,754789,9,46169485,73',Emanuele Adamo (Cesena) Substitution at 73',2025-10-19 05:22:21
+13654,754789,10,46169553,77',Jonathan Klinsmann (Cesena) Yellow Card at 77',2025-10-19 05:22:21
+13654,754789,11,46169579,79',Massimiliano Mangraviti (Cesena) Yellow Card at 79',2025-10-19 05:22:21
+13654,754789,12,46169680,83',Giuseppe Di Serio (Spezia) Substitution at 83',2025-10-19 05:22:21
+13654,754789,13,46169681,83',Matteo Guidi (Cesena) Substitution at 83',2025-10-19 05:22:21
+13654,754789,14,46169682,83',Siren Diao (Cesena) Substitution at 83',2025-10-19 05:22:21
+13654,754789,15,46169967,90'+5',Salvatore Esposito (Spezia) Yellow Card at 95',2025-10-19 05:22:21
+13654,754790,0,46161457,9',Federico Davi (Suditrol) Yellow Card at 9',2025-10-19 05:22:21
+13654,754790,1,46161657,20',Filipe Bordon (Suditrol) Yellow Card at 20',2025-10-19 05:22:21
+13654,754790,2,46161970,40',Emanuele Pecorino (Suditrol) Goal at 40',2025-10-19 05:22:21
+13654,754790,3,46162381,45',Karim Zedadka (Suditrol) Substitution at 45',2025-10-19 05:22:21
+13654,754790,4,46162413,45',Andrea Masiello (Suditrol) Substitution at 45',2025-10-19 05:22:21
+13654,754790,5,46162791,55',Francesco Ruocco (Mantova) Goal at 55',2025-10-19 05:22:21
+13654,754790,6,46163013,60',Leonardo Mancuso (Mantova) Substitution at 60',2025-10-19 05:22:21
+13654,754790,7,46163141,64',Simone Davi (Suditrol) Yellow Card at 64',2025-10-19 05:22:21
+13654,754790,8,46163310,69',Antonio Fiori (Mantova) Substitution at 69',2025-10-19 05:22:21
+13654,754790,9,46163311,69',Davis Mensah (Mantova) Substitution at 69',2025-10-19 05:22:21
+13654,754790,10,46163312,69',Jacopo Martini (Suditrol) Substitution at 69',2025-10-19 05:22:21
+13654,754790,11,46163313,70',Raphael Odogwu (Suditrol) Substitution at 70',2025-10-19 05:22:21
+13654,754790,12,46163343,70',Davide Bragantini (Mantova) Yellow Card at 70',2025-10-19 05:22:21
+13654,754790,13,46163693,79',Tommaso Maggioni (Mantova) Substitution at 79',2025-10-19 05:22:21
+13654,754790,14,46163744,80',Zan Majer (Mantova) Substitution at 80',2025-10-19 05:22:21
+13654,754790,15,46164061,88',Fabian Tait (Suditrol) Substitution at 88',2025-10-19 05:22:21
+13654,754791,0,46180016,8',Alessandro Dellavalle (Modena) Substitution at 8',2025-10-20 05:22:45
+13654,754791,1,46180174,17',Fabio Gerli (Modena) Yellow Card at 17',2025-10-20 05:22:45
+13654,754791,2,46180188,18',Jacopo Segre (Palermo) Yellow Card at 18',2025-10-20 05:22:45
+13654,754791,3,46180389,32',Jacopo Segre (Palermo) Goal at 32',2025-10-20 05:22:45
+13654,754791,4,46180864,45',Claudio Gomes (Palermo) Substitution at 45',2025-10-20 05:22:45
+13654,754791,5,46181064,56',Jeremy Le Douaron (Palermo) Substitution at 56',2025-10-20 05:22:45
+13654,754791,6,46181065,56',Alexis Blin (Palermo) Substitution at 56',2025-10-20 05:22:45
+13654,754791,7,46181215,65',Yanis Massolin (Modena) Substitution at 65',2025-10-21 05:17:09
+13654,754791,8,46181213,66',Grégoire Defrel (Modena) Substitution at 66',2025-10-21 05:17:09
+13654,754791,9,46181214,66',Niklas Pyyhtia (Modena) Substitution at 66',2025-10-21 05:17:09
+13654,754791,10,46181282,70',Bartosz Bereszynski (Palermo) Substitution at 70',2025-10-20 05:22:45
+13654,754791,11,46181340,76',Bartosz Bereszynski (Palermo) Own Goal at 76',2025-10-20 05:22:45
+13654,754791,12,46181400,79',Pedro Mendes (Modena) Substitution at 79',2025-10-20 05:22:45
+13654,754791,13,46181445,82',Aljosa Vasic (Palermo) Substitution at 82',2025-10-20 05:22:45
+13654,754792,0,46182213,34',Andrea Adorante (Venezia) Goal at 34',2025-10-20 05:22:45
+13654,754792,1,46182361,42',Steven Shpendi (Empoli) Goal at 42',2025-10-20 05:22:45
+13654,754792,2,46182879,53',Rares Ilie (Empoli) Yellow Card at 53',2025-10-20 05:22:45
+13654,754792,3,46182894,55',Duccio Degli Innocenti (Empoli) Substitution at 55',2025-10-20 05:22:45
+13654,754792,4,46182895,55',Pietro Pellegri (Empoli) Substitution at 55',2025-10-20 05:22:45
+13654,754792,5,46182949,58',John Yeboah (Venezia) Substitution at 58',2025-10-20 05:22:45
+13654,754792,6,46182962,60',Pietro Pellegri (Empoli) Yellow Card at 60',2025-10-20 05:22:45
+13654,754792,7,46183082,65',Edoardo Saporiti (Empoli) Substitution at 65',2025-10-20 05:22:45
+13654,754792,8,46183083,65',Tyronne Ebuehi (Empoli) Substitution at 65',2025-10-20 05:22:45
+13654,754792,9,46183215,72',Alessandro Pietrelli (Venezia) Substitution at 72',2025-10-20 05:22:45
+13654,754792,10,46183216,72',Daniel Fila (Venezia) Substitution at 72',2025-10-20 05:22:45
+13654,754792,11,46183269,72',Richie Sagrado (Venezia) Substitution at 72',2025-10-20 05:22:45
+13654,754792,12,46183270,76',Nicolas Haas (Empoli) Substitution at 76',2025-10-20 05:22:45
+13654,754792,13,46183395,84',Bartol Franjic (Venezia) Substitution at 84',2025-10-20 05:22:45
+13654,754792,14,46183434,85',Nosa Obaretin (Empoli) Yellow Card at 85',2025-10-20 05:22:45
+13654,754792,15,46183547,90'+4',Bartol Franjic (Venezia) Yellow Card at 94',2025-10-20 05:22:45
+13654,754793,0,46161726,24',Keita Baldé (Monza) Yellow Card at 24',2025-10-19 05:22:21
+13654,754793,1,46161870,34',Ilias Koutsoupias (Frosinone) Yellow Card at 34',2025-10-19 05:22:21
+13654,754793,2,46161946,38',Keita Baldé (Monza) Goal at 38',2025-10-19 05:22:21
+13654,754793,3,46162472,45',Jacopo Gelli (Frosinone) Substitution at 45',2025-10-19 05:22:21
+13654,754793,4,46162963,57',Massimo Zilli (Frosinone) Substitution at 57',2025-10-19 05:22:21
+13654,754793,5,46162964,57',Giorgi Kvernadze (Frosinone) Substitution at 57',2025-10-19 05:22:21
+13654,754793,6,46163004,58',Andrea Petagna (Monza) Substitution at 58',2025-10-19 05:22:21
+13654,754793,7,46163005,58',Patrick Ciurria (Monza) Substitution at 58',2025-10-19 05:22:21
+13654,754793,8,46163404,71',Kevin Zeroli (Monza) Substitution at 71',2025-10-19 05:22:21
+13654,754793,9,46163441,71',Gianluca Caprari (Monza) Substitution at 71',2025-10-19 05:22:21
+13654,754793,10,46163442,72',Edoardo Vergani (Frosinone) Substitution at 72',2025-10-19 05:22:21
+13654,754793,11,46163504,73',Luca Ravanelli (Monza) Yellow Card at 73',2025-10-19 05:22:21
+13654,754793,12,46163707,78',Matteo Cichella (Frosinone) Substitution at 78',2025-10-19 05:22:21
+13654,754793,13,46163924,83',Arvid Brorsson (Monza) Substitution at 83',2025-10-19 05:22:21
+13654,754793,14,46163969,84',Kevin Zeroli (Monza) Yellow Card at 84',2025-10-19 05:22:21
+13654,754794,0,46166857,39',Nicola Mosti (Juve Stabia) Goal at 39',2025-10-19 05:22:21
+13654,754794,1,46166937,42',Marco Bellich (Juve Stabia) Goal at 42',2025-10-19 05:22:21
+13654,754794,2,46167135,45',Roberto Insigne (US Avellino) Substitution at 45',2025-10-19 05:22:21
+13654,754794,3,46167139,45',Valerio Crespi (US Avellino) Substitution at 45',2025-10-19 05:22:21
+13654,754794,4,46167172,49',Leonardo Candellone (Juve Stabia) Yellow Card at 49',2025-10-19 05:22:21
+13654,754794,5,46167254,59',Michele Besaggio (US Avellino) Substitution at 59',2025-10-19 05:22:21
+13654,754794,6,46167412,68',Andrea Cagnano (US Avellino) Yellow Card at 68',2025-10-19 05:22:21
+13654,754794,7,46167413,68',Omar Correia (Juve Stabia) Yellow Card at 68',2025-10-19 05:22:21
+13654,754794,8,46167414,70',Rares Burnete (Juve Stabia) Substitution at 70',2025-10-19 05:22:21
+13654,754794,9,46167443,70',Alessio Cacciamani (Juve Stabia) Substitution at 70',2025-10-19 05:22:21
+13654,754794,10,46167444,70',Christian Pierobon (Juve Stabia) Substitution at 70',2025-10-19 05:22:21
+13654,754794,11,46167445,70',Alessandro Milani (US Avellino) Substitution at 70',2025-10-19 05:22:21
+13654,754794,12,46167560,77',Facundo Lescano (US Avellino) Substitution at 77',2025-10-19 05:22:21
+13654,754794,13,46167609,79',Matteo Baldi (Juve Stabia) Substitution at 79',2025-10-19 05:22:21
+13654,754794,14,46167689,88',Federico Zuccon (Juve Stabia) Substitution at 88',2025-10-19 05:22:21
+13654,754794,15,46167817,90'+4',Roberto Insigne (US Avellino) Red Card at 94',2025-10-19 05:22:21
+13654,754795,0,46156671,32',Alessandro Debenedetti (Virtus Entella) Goal at 32',2025-10-19 05:22:21
+13654,754795,1,46156731,39',Andrea Franzoni (Virtus Entella) Penalty - Scored at 39',2025-10-18 05:22:43
+13654,754795,2,46156954,45',Marvin Cuni (Sampdoria) Substitution at 45',2025-10-18 05:22:43
+13654,754795,3,46156964,45',Antonín Barák (Sampdoria) Substitution at 45',2025-10-18 05:22:43
+13654,754795,4,46157016,48',Oliver Abildgaard (Sampdoria) Yellow Card at 48',2025-10-18 05:22:43
+13654,754795,5,46157069,53',Nicholas Ioannou (Sampdoria) Substitution at 53',2025-10-18 05:22:43
+13654,754795,6,46157185,64',Marco Dalla Vecchia (Virtus Entella) Substitution at 64',2025-10-18 05:22:43
+13654,754795,7,46157230,70',Marco Emilio Nichetti (Virtus Entella) Yellow Card at 70',2025-10-18 05:22:43
+13654,754795,8,46157243,72',Matteo Ricci (Sampdoria) Substitution at 72',2025-10-18 05:22:43
+13654,754795,9,46157255,74',Alessandro Debenedetti (Virtus Entella) Yellow Card at 74',2025-10-18 05:22:43
+13654,754795,10,46157260,76',Flavio Russo (Virtus Entella) Substitution at 76',2025-10-18 05:22:43
+13654,754795,11,46157301,81',Massimo Coda (Sampdoria) Goal at 81',2025-10-18 05:22:43
+13654,754795,12,46157342,83',Andrea Tiritiello (Virtus Entella) Goal at 83',2025-10-18 05:22:43
+13654,754795,13,46157383,87',Víctor Narro (Sampdoria) Substitution at 87',2025-10-18 05:22:43
+13654,754795,14,46157384,89',Davide Bariti (Virtus Entella) Substitution at 89',2025-10-18 05:22:43
+13654,754795,15,46157398,89',Iacopo Lipiani (Virtus Entella) Substitution at 89',2025-10-18 05:22:43
+13654,754795,16,46157399,89',Antonio Boccadamo (Virtus Entella) Substitution at 89',2025-10-18 05:22:43
+13654,754795,17,46157437,90'+2',Marco Dalla Vecchia (Virtus Entella) Yellow Card at 92',2025-10-18 05:22:43
+13654,754796,0,46183961,28',Gianluca Di Chiara (Catanzaro) Substitution at 28',2025-10-20 05:22:45
+13654,754796,1,46183977,32',Marco Perrotta (Padova) Goal at 32',2025-10-20 05:22:45
+13654,754796,2,46184010,35',Pietro Iemmello (Catanzaro) Penalty - Saved at 35',2025-10-20 05:22:45
+13654,754796,3,46184053,39',Tommaso Cassandro (Catanzaro) Yellow Card at 39',2025-10-20 05:22:45
+13654,754796,4,46184125,45'+2',Simone Pontisso (Catanzaro) Yellow Card at 47',2025-10-20 05:22:45
+13654,754796,5,46184234,45',Filippo Pittarello (Catanzaro) Substitution at 45',2025-10-20 05:22:45
+13654,754796,6,46184240,45',Fabio Rispoli (Catanzaro) Substitution at 45',2025-10-20 05:22:45
+13654,754796,7,46184258,48',Niccolò Brighenti (Catanzaro) Yellow Card at 48',2025-10-20 05:22:45
+13654,754796,8,46184306,57',Pietro Fusi (Padova) Yellow Card at 57',2025-10-20 05:22:45
+13654,754796,9,46184320,59',Patrick Nuamah (Catanzaro) Substitution at 59',2025-10-20 05:22:45
+13654,754796,10,46184332,62',Cristian Buonaiuto (Padova) Substitution at 62',2025-10-20 05:22:45
+13654,754796,11,46184333,62',Jonas Harder (Padova) Substitution at 62',2025-10-20 05:22:45
+13654,754796,12,46184365,67',Mattia Fortin (Padova) Yellow Card at 67',2025-10-20 05:22:45
+13654,754796,13,46184381,70',Luca Di Maggio (Padova) Substitution at 70',2025-10-20 05:22:45
+13654,754796,14,46184398,72',Cristian Buonaiuto (Padova) Yellow Card at 72',2025-10-20 05:22:45
+13654,754796,15,46184426,74',Filippo Sgarbi (Padova) Yellow Card at 74',2025-10-20 05:22:45
+13654,754796,16,46184479,79',Marco D'Alessandro (Catanzaro) Substitution at 79',2025-10-20 05:22:45
+13654,754797,0,46161340,2',Fabio Abiuso (Carrarese) Goal at 2',2025-10-19 05:22:21
+13654,754797,1,46161400,5',Andrea Oliveri (Pescara) Yellow Card at 5',2025-10-19 05:22:21
+13654,754797,2,46161562,15',Alessandro Vinciguerra (Pescara) Substitution at 15',2025-10-19 05:22:21
+13654,754797,3,46161794,29',Nicholas Schiavi (Carrarese) Yellow Card at 29',2025-10-19 05:22:21
+13654,754797,4,46162052,45',Gaetano Letizia (Pescara) Yellow Card at 45',2025-10-19 05:22:21
+13654,754797,5,46162070,45',Luis Hasa (Carrarese) Yellow Card at 45',2025-10-19 05:22:21
+13654,754797,6,46162378,45',Lorenzo Meazzi (Pescara) Substitution at 45',2025-10-19 05:22:21
+13654,754797,7,46162662,51',Luis Hasa (Carrarese) Goal at 51',2025-10-19 05:22:21
+13654,754797,8,46163102,63',Gianmarco Cangiano (Pescara) Substitution at 63',2025-10-19 05:22:21
+13654,754797,9,46163142,63',Orji Okwonkwo (Pescara) Substitution at 63',2025-10-19 05:22:21
+13654,754797,10,46163396,72',Nikola Sekulov (Carrarese) Substitution at 72',2025-10-19 05:22:21
+13654,754797,11,46163422,72',Kleis Bozhanaj (Carrarese) Substitution at 72',2025-10-19 05:22:21
+13654,754797,12,46163467,74',Lorenzo Meazzi (Pescara) Goal at 74',2025-10-19 05:22:21
+13654,754797,13,46163508,74',Fabrizio Caligara (Pescara) Substitution at 74',2025-10-19 05:22:21
+13654,754797,14,46163805,81',Filippo Melegoni (Carrarese) Substitution at 81',2025-10-19 05:22:21
+13654,754797,15,46164039,87',Ernesto Torregrossa (Carrarese) Substitution at 87',2025-10-19 05:22:21
+13654,754797,16,46164040,87',Filippo Oliana (Carrarese) Substitution at 87',2025-10-19 05:22:21
+13654,754797,17,46164080,88',Antonio Di Nardo (Pescara) Goal at 88',2025-10-19 05:22:21
+13654,754798,0,46161753,27',Andrea Papetti (Reggiana) Yellow Card at 27',2025-10-19 05:22:21
+13654,754798,1,46161967,38',Andrea Meroni (Bari) Yellow Card at 38',2025-10-19 05:22:21
+13654,754798,2,46161968,39',Manuel Marras (Reggiana) Yellow Card at 39',2025-10-19 05:22:21
+13654,754798,3,46162009,41',Gabriele Moncini (Bari) Goal at 41',2025-10-19 05:22:21
+13654,754798,4,46162106,45'+2',Elayis Tavsan (Reggiana) Goal at 47',2025-10-19 05:22:21
+13654,754798,5,46162437,45',Giangiacomo Magnani (Reggiana) Substitution at 45',2025-10-19 05:22:21
+13654,754798,6,46162990,59',Dimitris Nikolaou (Bari) Red Card at 59',2025-10-19 05:22:21
+13654,754798,7,46163038,60',Andrija Novakovich (Reggiana) Substitution at 60',2025-10-19 05:22:21
+13654,754798,8,46163109,61',Riccardo Burgio (Bari) Substitution at 61',2025-10-19 05:22:21
+13654,754798,9,46163110,62',Emile Dorval (Bari) Substitution at 62',2025-10-19 05:22:21
+13654,754798,10,46163316,69',Riccardo Pagano (Bari) Substitution at 69',2025-10-19 05:22:21
+13654,754798,11,46163353,70',Andrea Bozzolan (Reggiana) Goal at 70',2025-10-19 05:22:21
+13654,754798,12,46163576,76',Mathis Lambourde (Reggiana) Substitution at 76',2025-10-19 05:22:21
+13654,754798,13,46163765,80',Charlys (Reggiana) Yellow Card at 80',2025-10-19 05:22:21
+13654,754798,14,46163766,81',Mathis Lambourde (Reggiana) Goal at 81',2025-10-19 05:22:21
+13654,754798,15,46163839,82',Matto Rover (Reggiana) Substitution at 82',2025-10-19 05:22:21
+13654,754798,16,46163840,82',Massimo Bertagnoli (Reggiana) Substitution at 82',2025-10-19 05:22:21
+13654,754798,17,46163881,84',Christian Gytkjaer (Bari) Substitution at 84',2025-10-19 05:22:21
+13654,754798,18,46163944,84',Giulio Maggiore (Bari) Substitution at 84',2025-10-19 05:22:21
+13654,754799,0,46227193,24',Jacopo Martini (Suditrol) Yellow Card at 24',2025-10-27 05:19:29
+13654,754799,1,46227260,31',Cristian Shpendi (Cesena) Goal at 31',2025-10-26 05:23:25
+13654,754799,2,46227304,34',Massimiliano Mangraviti (Cesena) Yellow Card at 34',2025-10-26 05:23:25
+13654,754799,3,46227724,45',Federico Davi (Suditrol) Substitution at 45',2025-10-26 05:23:25
+13654,754799,4,46227748,45',Mamadou Coulibaly (Suditrol) Substitution at 45',2025-10-26 05:23:25
+13654,754799,5,46228133,55',Andrea Masiello (Suditrol) Substitution at 55',2025-10-26 05:23:25
+13654,754799,6,46228364,62',Karim Zedadka (Suditrol) Substitution at 62',2025-10-26 05:23:25
+13654,754799,7,46228464,66',Marco Olivieri (Cesena) Substitution at 66',2025-10-26 05:23:25
+13654,754799,8,46228825,73',Matteo Guidi (Cesena) Substitution at 73',2025-10-26 05:23:25
+13654,754799,9,46228826,73',Emanuele Adamo (Cesena) Substitution at 73',2025-10-26 05:23:25
+13654,754799,10,46229015,78',Jonathan Italeng (Suditrol) Substitution at 78',2025-10-26 05:23:25
+13654,754799,11,46229069,80',Siren Diao (Cesena) Substitution at 80',2025-10-26 05:23:25
+13654,754799,12,46229131,80',Raffaele Celia (Cesena) Substitution at 80',2025-10-26 05:23:25
+13654,754799,13,46229132,80',Federico Davi (Suditrol) Yellow Card at 80',2025-10-26 05:23:25
+13654,754799,14,46229622,90'+3',Marco Olivieri (Cesena) Yellow Card at 93',2025-10-26 05:23:25
+13654,754800,0,46221213,22',Joseph Ceesay (Empoli) Goal at 22',2025-10-25 05:18:56
+13654,754800,1,46221305,30',Rares Ilie (Empoli) Yellow Card at 30',2025-10-25 05:18:56
+13654,754800,2,46221312,30',Salvatore Elia (Empoli) Yellow Card at 30',2025-10-25 05:18:56
+13654,754800,3,46221442,37',Steven Shpendi (Empoli) Yellow Card at 37',2025-10-25 05:18:56
+13654,754800,4,46221743,45'+6',Ettore Gliozzi (Modena) Penalty - Scored at 51',2025-10-25 05:18:56
+13654,754800,5,46222087,45',Lorenzo Ignacchiti (Empoli) Substitution at 45',2025-10-25 05:18:56
+13654,754800,6,46222201,50',Francesco Zampano (Modena) Yellow Card at 50',2025-10-25 05:18:56
+13654,754800,7,46222313,57',Brando Moruzzi (Empoli) Substitution at 57',2025-10-25 05:18:56
+13654,754800,8,46222314,57',Pietro Pellegri (Empoli) Substitution at 57',2025-10-25 05:18:56
+13654,754800,9,46222480,66',Daniel Tonoli (Modena) Goal at 66',2025-10-25 05:18:56
+13654,754800,10,46222493,68',Bohdan Popov (Empoli) Substitution at 68',2025-10-25 05:18:56
+13654,754800,11,46222505,68',Francesco Di Mariano (Modena) Substitution at 68',2025-10-25 05:18:56
+13654,754800,12,46222506,69',Alessandro Sersanti (Modena) Substitution at 69',2025-10-25 05:18:56
+13654,754800,13,46222509,69',Pedro Mendes (Modena) Substitution at 69',2025-10-25 05:18:56
+13654,754800,14,46222572,74',Gady Beyuku (Modena) Substitution at 74',2025-10-25 05:18:56
+13654,754800,15,46222669,79',Alessandro Sersanti (Modena) Yellow Card at 79',2025-10-25 05:18:56
+13654,754800,16,46222670,80',Tyronne Ebuehi (Empoli) Substitution at 80',2025-10-25 05:18:56
+13654,754800,17,46222741,83',Luca Magnino (Modena) Substitution at 83',2025-10-25 05:18:56
+13654,754800,18,46222968,90'+4',Daniel Tonoli (Modena) Yellow Card at 94',2025-10-25 05:18:56
+13654,754801,0,46226880,2',Dany Mota (Monza) Goal at 2',2025-10-26 05:23:25
+13654,754801,1,46227048,13',Andrija Novakovich (Reggiana) Goal at 13',2025-10-26 05:23:25
+13654,754801,2,46227103,16',Mathis Lambourde (Reggiana) Yellow Card at 16',2025-10-26 05:23:25
+13654,754801,3,46227176,21',Manuel Marras (Reggiana) Yellow Card at 21',2025-10-26 05:23:25
+13654,754801,4,46227227,25',Armando Izzo (Monza) Goal at 25',2025-10-26 05:23:25
+13654,754801,5,46227247,26',Armando Izzo (Monza) Yellow Card at 26',2025-10-26 05:23:25
+13654,754801,6,46227268,29',Keita Baldé (Monza) Yellow Card at 29',2025-10-26 05:23:25
+13654,754801,7,46227487,43',Dany Mota (Monza) Goal at 43',2025-10-26 05:23:25
+13654,754801,8,46227852,45',Andrea Bozzolan (Reggiana) Substitution at 45',2025-10-26 05:23:25
+13654,754801,9,46227868,45',Luca Ravanelli (Monza) Substitution at 45',2025-10-26 05:23:25
+13654,754801,10,46228278,57',Mirko Maric (Monza) Substitution at 57',2025-10-26 05:23:25
+13654,754801,11,46228323,57',Kevin Zeroli (Monza) Substitution at 57',2025-10-26 05:23:25
+13654,754801,12,46228324,57',Giangiacomo Magnani (Reggiana) Substitution at 57',2025-10-26 05:23:25
+13654,754801,13,46228325,58',Elayis Tavsan (Reggiana) Substitution at 58',2025-10-26 05:23:25
+13654,754801,14,46228524,63',Charlys (Reggiana) Substitution at 63',2025-10-26 05:23:25
+13654,754801,15,46228525,63',Pedro Obiang (Monza) Substitution at 63',2025-10-26 05:23:25
+13654,754801,16,46228909,71',Cedric Gondo (Reggiana) Substitution at 71',2025-10-26 05:23:25
+13654,754801,17,46229090,76',Andrea Papetti (Reggiana) Yellow Card at 76',2025-10-26 05:23:25
+13654,754801,18,46229129,78',Lorenzo Lucchesi (Monza) Substitution at 78',2025-10-26 05:23:25
+13654,754802,0,46245953,21',Flavio Paoletti (Mantova) Yellow Card at 21',2025-10-27 05:19:29
+13654,754802,1,46245978,22',Raffaele Pucino (Bari) Yellow Card at 22',2025-10-27 05:19:29
+13654,754802,2,46246189,35',David Wieser (Mantova) Substitution at 35',2025-10-27 05:19:29
+13654,754802,3,46246767,49',Gabriele Moncini (Bari) Goal at 49',2025-10-27 05:19:29
+13654,754802,4,46247019,61',Simone Trimboli (Mantova) Yellow Card at 61',2025-10-27 05:19:29
+13654,754802,5,46247065,64',Leonardo Mancuso (Mantova) Substitution at 64',2025-10-27 05:19:29
+13654,754802,6,46247091,64',César Falletti (Mantova) Substitution at 64',2025-10-27 05:19:29
+13654,754802,7,46247092,65',Ebrima Darboe (Bari) Substitution at 65',2025-10-27 05:19:29
+13654,754802,8,46247109,65',Riccardo Pagano (Bari) Substitution at 65',2025-10-27 05:19:29
+13654,754802,9,46247286,76',David Wieser (Mantova) Yellow Card at 76',2025-10-27 05:19:29
+13654,754802,10,46247362,80',Francesco Galuppini (Mantova) Substitution at 80',2025-10-27 05:19:29
+13654,754802,11,46247363,80',Maat Caprini (Mantova) Substitution at 80',2025-10-27 05:19:29
+13654,754802,12,46247364,80',Christian Gytkjaer (Bari) Substitution at 80',2025-10-27 05:19:29
+13654,754802,13,46247384,81',Indrit Mavraj (Bari) Substitution at 81',2025-10-27 05:19:29
+13654,754802,14,46247406,84',Maat Caprini (Mantova) Yellow Card at 84',2025-10-27 05:19:29
+13654,754802,15,46247464,85',Francesco Galuppini (Mantova) Yellow Card at 85',2025-10-27 05:19:29
+13654,754802,16,46247514,90',Matthias Braunöder (Bari) Substitution at 90',2025-10-27 05:19:29
+13654,754802,17,46247670,90'+7',Ebrima Darboe (Bari) Yellow Card at 97',2025-10-27 05:19:29
+13654,754803,0,46231158,13',Andrea Adorante (Venezia) Goal at 13',2025-10-26 05:23:25
+13654,754803,1,46231579,22',Ridgeciano Haps (Venezia) Yellow Card at 22',2025-10-26 05:23:25
+13654,754803,2,46231720,25',Julián Illanes (Carrarese) Yellow Card at 25',2025-10-26 05:23:25
+13654,754803,3,46231919,31',Nicholas Schiavi (Carrarese) Yellow Card at 31',2025-10-26 05:23:25
+13654,754803,4,46232020,32',Fabio Abiuso (Carrarese) Yellow Card at 32',2025-10-26 05:23:25
+13654,754803,5,46232117,34',Marco Imperiale (Carrarese) Yellow Card at 34',2025-10-26 05:23:25
+13654,754803,6,46232262,41',Emanuele Zuelli (Carrarese) Goal at 41',2025-10-26 05:23:25
+13654,754803,7,46232497,52',Gianluca Busio (Venezia) Yellow Card at 52',2025-10-26 05:23:25
+13654,754803,8,46232524,55',Kleis Bozhanaj (Carrarese) Substitution at 55',2025-10-26 05:23:25
+13654,754803,9,46232634,62',Bjarki Steinn Bjarkason (Venezia) Substitution at 62',2025-10-26 05:23:25
+13654,754803,10,46232635,62',Alessandro Pietrelli (Venezia) Substitution at 62',2025-10-26 05:23:25
+13654,754803,11,46232661,63',Issa Doumbia (Venezia) Goal at 63',2025-10-26 05:23:25
+13654,754803,12,46232710,66',Enrique Perez (Venezia) Yellow Card at 66',2025-10-26 05:23:25
+13654,754803,13,46232772,72',Niccolò Belloni (Carrarese) Substitution at 72',2025-10-26 05:23:25
+13654,754803,14,46232773,72',Ernesto Torregrossa (Carrarese) Substitution at 72',2025-10-26 05:23:25
+13654,754803,15,46232827,74',Andrea Adorante (Venezia) Yellow Card at 74',2025-10-26 05:23:25
+13654,754803,16,46232854,76',Filippo Distefano (Carrarese) Substitution at 76',2025-10-26 05:23:25
+13654,754803,17,46232855,76',Tommaso Rubino (Carrarese) Substitution at 76',2025-10-26 05:23:25
+13654,754803,18,46232878,79',Daniel Fila (Venezia) Substitution at 79',2025-10-26 05:23:25
+13654,754803,19,46232894,79',Nunzio Lella (Venezia) Substitution at 79',2025-10-26 05:23:25
+13654,754803,20,46232952,84',Tommaso Rubino (Carrarese) Goal at 84',2025-10-26 05:23:25
+13654,754803,21,46233004,90',Antonio Casas (Venezia) Substitution at 90',2025-10-26 05:23:25
+13654,754803,22,46233107,90'+6',Filippo Distefano (Carrarese) Goal at 96',2025-10-26 05:23:25
+13654,754803,23,46233136,90'+7',Filippo Distefano (Carrarese) Yellow Card at 97',2025-10-26 05:23:25
+13654,754804,0,46233564,8',Niccolò Pierozzi (Palermo) Yellow Card at 8',2025-10-26 05:23:25
+13654,754804,1,46233670,15',Jacopo Petriccione (Catanzaro) Yellow Card at 15',2025-10-26 05:23:25
+13654,754804,2,46234098,39',Simone Pontisso (Catanzaro) Yellow Card at 39',2025-10-26 05:23:25
+13654,754804,3,46234243,45'+2',Alphadjo Cissè (Catanzaro) Goal at 47',2025-10-26 05:23:25
+13654,754804,4,46234521,45',Bartosz Bereszynski (Palermo) Substitution at 45',2025-10-26 05:23:25
+13654,754804,5,46234523,45',Davide Buglio (Catanzaro) Substitution at 45',2025-10-26 05:23:25
+13654,754804,6,46234596,50',Pietro Iemmello (Catanzaro) Yellow Card at 50',2025-10-26 05:23:25
+13654,754804,7,46234793,67',Matteo Brunori Sandri (Palermo) Substitution at 67',2025-10-26 05:23:25
+13654,754804,8,46234843,72',Gabriele Alesi (Catanzaro) Substitution at 72',2025-10-26 05:23:25
+13654,754804,9,46234844,72',Marco D'Alessandro (Catanzaro) Substitution at 72',2025-10-26 05:23:25
+13654,754804,10,46234845,73',Aljosa Vasic (Palermo) Substitution at 73',2025-10-26 05:23:25
+13654,754804,11,46234875,74',Patryk Peda (Palermo) Yellow Card at 74',2025-10-26 05:23:25
+13654,754804,12,46234939,77',Giacomo Corona (Palermo) Substitution at 77',2025-10-26 05:23:25
+13654,754804,13,46234940,78',Claudio Gomes (Palermo) Substitution at 78',2025-10-26 05:23:25
+13654,754804,14,46235081,84',Filippo Pittarello (Catanzaro) Substitution at 84',2025-10-26 05:23:25
+13654,754804,15,46235169,89',Davide Bettella (Catanzaro) Substitution at 89',2025-10-26 05:23:25
+13654,754804,16,46235246,90'+2',Antonio Palumbo (Palermo) Yellow Card at 92',2025-10-26 05:23:25
+13654,754805,0,46227220,25',Ivan Marconi (Virtus Entella) Yellow Card at 25',2025-10-26 05:23:25
+13654,754805,1,46227788,46',Luca Parodi (Virtus Entella) Yellow Card at 46',2025-10-26 05:23:25
+13654,754805,2,46228526,67',Davide Bariti (Virtus Entella) Substitution at 67',2025-10-26 05:23:25
+13654,754805,3,46228557,68',Flavio Russo (Virtus Entella) Substitution at 68',2025-10-26 05:23:25
+13654,754805,4,46228790,71',Fabrizio Caligara (Pescara) Substitution at 71',2025-10-26 05:23:25
+13654,754805,5,46228875,73',Antonio Di Nardo (Pescara) Goal at 73',2025-10-26 05:23:25
+13654,754805,6,46229138,80',David Ankeye (Virtus Entella) Substitution at 80',2025-10-26 05:23:25
+13654,754805,7,46229139,80',Marco Dalla Vecchia (Virtus Entella) Substitution at 80',2025-10-26 05:23:25
+13654,754805,8,46229271,84',Orji Okwonkwo (Pescara) Substitution at 84',2025-10-26 05:23:25
+13654,754805,9,46229331,84',Leonardo Graziani (Pescara) Substitution at 84',2025-10-26 05:23:25
+13654,754805,10,46229332,84',Andreaw Gravillon (Pescara) Substitution at 84',2025-10-26 05:23:25
+13654,754805,11,46229334,85',Antonio Boccadamo (Virtus Entella) Substitution at 85',2025-10-26 05:23:25
+13654,754805,12,46229557,90'+1',Davide Giannini (Pescara) Substitution at 91',2025-10-26 05:23:25
+13654,754805,13,46229641,90'+2',Fabrizio Caligara (Pescara) Yellow Card at 92',2025-10-26 05:23:25
+13654,754805,14,46229659,90'+3',Andrea Tiritiello (Virtus Entella) Goal at 93',2025-10-26 05:23:25
+13654,754806,0,46227089,17',Francesco Cassata (Spezia) Yellow Card at 17',2025-10-27 05:19:29
+13654,754806,1,46227476,44',Luca Palmiero (US Avellino) Red Card at 44',2025-10-26 05:23:25
+13654,754806,2,46227836,45',Alessandro Milani (US Avellino) Substitution at 45',2025-10-26 05:23:25
+13654,754806,3,46227871,45',Martin Palumbo (US Avellino) Substitution at 45',2025-10-26 05:23:25
+13654,754806,4,46227872,45',Rachid Kouda (Spezia) Substitution at 45',2025-10-26 05:23:25
+13654,754806,5,46227962,46',Michele Besaggio (US Avellino) Yellow Card at 46',2025-10-26 05:23:25
+13654,754806,6,46228415,61',Emmanuel Gyabuaa (US Avellino) Substitution at 61',2025-10-26 05:23:25
+13654,754806,7,46228499,63',Giuseppe Aurelio (Spezia) Goal at 63',2025-10-26 05:23:25
+13654,754806,8,46228707,66',Raffaele Russo (US Avellino) Substitution at 66',2025-10-26 05:23:25
+13654,754806,9,46228915,72',Giuseppe Di Serio (Spezia) Substitution at 72',2025-10-26 05:23:25
+13654,754806,10,46229080,76',Gennaro Tutino (US Avellino) Substitution at 76',2025-10-26 05:23:25
+13654,754806,11,46229280,80',Vanja Vlahovic (Spezia) Substitution at 80',2025-10-26 05:23:25
+13654,754806,12,46229281,80',Pietro Beruatto (Spezia) Substitution at 80',2025-10-26 05:23:25
+13654,754806,13,46229325,81',Lorenco Simic (US Avellino) Yellow Card at 81',2025-10-26 05:23:25
+13654,754806,14,46229357,82',Vanja Vlahovic (Spezia) Goal at 82',2025-10-26 05:23:25
+13654,754806,15,46229457,85',Luca Vignali (Spezia) Goal at 85',2025-10-26 05:23:25
+13654,754806,16,46229606,88',Antonio Candela (Spezia) Substitution at 88',2025-10-26 05:23:25
+13654,754806,17,46229648,90',Giuseppe Di Serio (Spezia) Goal at 90',2025-10-26 05:23:25
+13654,754807,0,46242997,10',Kevin Piscopo (Juve Stabia) Yellow Card at 10',2025-10-27 05:19:29
+13654,754807,1,46243100,17',Mattia Bortolussi (Padova) Penalty - Scored at 17',2025-10-27 05:19:29
+13654,754807,2,46243212,23',Lorenzo Crisetig (Padova) Yellow Card at 23',2025-10-27 05:19:29
+13654,754807,3,46243235,25',Alessio Cacciamani (Juve Stabia) Substitution at 25',2025-10-27 05:19:29
+13654,754807,4,46244001,45'+1',Alessio Cacciamani (Juve Stabia) Goal at 46',2025-10-27 05:19:29
+13654,754807,5,46244252,45',Luca Di Maggio (Padova) Substitution at 45',2025-10-27 05:19:29
+13654,754807,6,46244261,45',Jonas Harder (Padova) Substitution at 45',2025-10-27 05:19:29
+13654,754807,7,46244262,45',Antonio Barreca (Padova) Substitution at 45',2025-10-27 05:19:29
+13654,754807,8,46244457,56',Rares Burnete (Juve Stabia) Yellow Card at 56',2025-10-27 05:19:29
+13654,754807,9,46244513,59',Federico Zuccon (Juve Stabia) Substitution at 59',2025-10-27 05:19:29
+13654,754807,10,46244536,59',Giacomo De Pieri (Juve Stabia) Substitution at 59',2025-10-27 05:19:29
+13654,754807,11,46244537,59',Giacomo Stabile (Juve Stabia) Substitution at 59',2025-10-27 05:19:29
+13654,754807,12,46244635,64',Kevin Lasagna (Padova) Substitution at 64',2025-10-27 05:19:29
+13654,754807,13,46244729,68',Giacomo De Pieri (Juve Stabia) Goal at 68',2025-10-27 05:19:29
+13654,754807,14,46244861,73',Mattia Bortolussi (Padova) Goal at 73',2025-10-27 05:19:29
+13654,754807,15,46245152,83',Carlo Faedo (Padova) Yellow Card at 83',2025-10-27 05:19:29
+13654,754807,16,46245189,84',Giulio Favale (Padova) Substitution at 84',2025-10-27 05:19:29
+13654,754808,0,46227183,22',Anthony Oyono (Frosinone) Yellow Card at 22',2025-10-26 05:23:25
+13654,754808,1,46227272,29',Nicholas Ioannou (Sampdoria) Substitution at 29',2025-10-26 05:23:25
+13654,754808,2,46227392,38',Massimo Zilli (Frosinone) Goal at 38',2025-10-26 05:23:25
+13654,754808,3,46227919,45',Leonardo Benedetti (Sampdoria) Substitution at 45',2025-10-26 05:23:25
+13654,754808,4,46228401,58',Jacopo Gelli (Frosinone) Yellow Card at 58',2025-10-26 05:23:25
+13654,754808,5,46228484,61',Marvin Cuni (Sampdoria) Substitution at 61',2025-10-26 05:23:25
+13654,754808,6,46228485,61',Matteo Ricci (Sampdoria) Substitution at 61',2025-10-26 05:23:25
+13654,754808,7,46228774,66',Jérémy Oyono (Frosinone) Substitution at 66',2025-10-26 05:23:25
+13654,754808,8,46228824,67',Antonio Raimondo (Frosinone) Substitution at 67',2025-10-26 05:23:25
+13654,754808,9,46228883,69',Massimo Coda (Sampdoria) Goal at 69',2025-10-26 05:23:25
+13654,754808,10,46229183,77',Edoardo Vergani (Frosinone) Substitution at 77',2025-10-26 05:23:25
+13654,754808,11,46229473,83',Dennis Hadzikadunic (Sampdoria) Substitution at 83',2025-10-26 05:23:25
+13654,754808,12,46229550,85',Edoardo Vergani (Frosinone) Yellow Card at 85',2025-10-26 05:23:25
+13654,754808,13,46229674,88',Giorgio Cittadini (Frosinone) Substitution at 88',2025-10-26 05:23:25
+13654,754808,14,46229675,88',Niccolò Corrado (Frosinone) Substitution at 88',2025-10-26 05:23:25
+13654,754809,0,46259915,9',Fabio Ruggeri (Carrarese) Yellow Card at 9',2025-10-29 05:18:30
+13654,754809,1,46260725,35',Cristian Shpendi (Cesena) Penalty - Scored at 35',2025-10-30 05:17:57
+13654,754809,2,46261923,45',Mattia Finotto (Carrarese) Substitution at 45',2025-10-29 05:18:30
+13654,754809,3,46262142,53',Tommaso Berti (Cesena) Goal at 53',2025-10-29 05:18:30
+13654,754809,4,46262372,58',Simone Zanon (Carrarese) Substitution at 58',2025-10-29 05:18:30
+13654,754809,5,46262373,58',Ernesto Torregrossa (Carrarese) Substitution at 58',2025-10-29 05:18:30
+13654,754809,6,46262499,63',Michele Castagnetti (Cesena) Substitution at 63',2025-10-29 05:18:30
+13654,754809,7,46262500,63',Jalen Blesa (Cesena) Substitution at 63',2025-10-29 05:18:30
+13654,754809,8,46262781,68',Emanuele Adamo (Cesena) Yellow Card at 68',2025-10-29 05:18:30
+13654,754809,9,46262815,71',Manuel Cicconi (Carrarese) Substitution at 71',2025-10-29 05:18:30
+13654,754809,10,46262867,74',Mattia Finotto (Carrarese) Goal at 74',2025-10-29 05:18:30
+13654,754809,11,46262895,75',Matteo Guidi (Cesena) Substitution at 75',2025-10-29 05:18:30
+13654,754809,12,46263079,80',Tommaso Rubino (Carrarese) Substitution at 80',2025-10-29 05:18:30
+13654,754809,13,46263263,86',Marco Olivieri (Cesena) Substitution at 86',2025-10-29 05:18:30
+13654,754809,14,46263264,86',Tommaso Arrigoni (Cesena) Substitution at 86',2025-10-29 05:18:30
+13654,754810,0,46269835,5',Andrea Masiello (Suditrol) Yellow Card at 5',2025-10-30 05:17:57
+13654,754810,1,46270902,39',Issa Doumbia (Venezia) Goal at 39',2025-10-30 05:17:57
+13654,754810,2,46271242,45'+2',Enrique Perez (Venezia) Goal at 47',2025-10-30 05:17:57
+13654,754810,3,46271870,45',Alessandro Mallamo (Suditrol) Substitution at 45',2025-10-30 05:17:57
+13654,754810,4,46271984,45',Raphael Odogwu (Suditrol) Substitution at 45',2025-10-30 05:17:57
+13654,754810,5,46272233,53',Ridgeciano Haps (Venezia) Substitution at 53',2025-10-30 05:17:57
+13654,754810,6,46272569,61',Andrea Adorante (Venezia) Yellow Card at 61',2025-10-30 05:17:57
+13654,754810,7,46272644,63',Mamadou Coulibaly (Suditrol) Substitution at 63',2025-10-30 05:17:57
+13654,754810,8,46272715,65',Daniel Fila (Venezia) Substitution at 65',2025-10-30 05:17:57
+13654,754810,9,46272716,65',Emil Bohinen (Venezia) Substitution at 65',2025-10-30 05:17:57
+13654,754810,10,46272780,67',John Yeboah (Venezia) Goal at 67',2025-10-30 05:17:57
+13654,754810,11,46272829,69',Frederic Veseli (Suditrol) Substitution at 69',2025-10-30 05:17:57
+13654,754810,12,46272838,69',Jacopo Martini (Suditrol) Substitution at 69',2025-10-30 05:17:57
+13654,754810,13,46273095,75',Raphael Kofler (Suditrol) Yellow Card at 75',2025-10-30 05:17:57
+13654,754810,14,46273389,84',Richie Sagrado (Venezia) Substitution at 84',2025-10-30 05:17:57
+13654,754810,15,46273390,84',Bartol Franjic (Venezia) Substitution at 84',2025-10-30 05:17:57
+13654,754812,0,46260744,36',Antonio Raimondo (Frosinone) Goal at 36',2025-10-29 05:18:30
+13654,754812,1,46262231,58',Gabriele Bracaglia (Frosinone) Goal at 58',2025-10-29 05:18:30
+13654,754812,2,46262394,63',Tommaso Fumagalli (Virtus Entella) Substitution at 63',2025-10-29 05:18:30
+13654,754812,3,46262442,63',Flavio Russo (Virtus Entella) Substitution at 63',2025-10-29 05:18:30
+13654,754812,4,46262443,64',Antonio Boccadamo (Virtus Entella) Substitution at 64',2025-10-29 05:18:30
+13654,754812,5,46262444,65',Matteo Cichella (Frosinone) Substitution at 65',2025-10-29 05:18:30
+13654,754812,6,46262539,67',Matteo Cichella (Frosinone) Yellow Card at 67',2025-10-29 05:18:30
+13654,754812,7,46262760,73',Massimo Zilli (Frosinone) Substitution at 73',2025-10-29 05:18:30
+13654,754812,8,46262790,74',Marco Dalla Vecchia (Virtus Entella) Substitution at 74',2025-10-29 05:18:30
+13654,754812,9,46262791,74',Ahmad Benali (Virtus Entella) Substitution at 74',2025-10-29 05:18:30
+13654,754812,10,46262872,77',Massimo Zilli (Frosinone) Goal at 77',2025-10-29 05:18:30
+13654,754812,11,46262944,80',Ilias Koutsoupias (Frosinone) Goal at 80',2025-10-29 05:18:30
+13654,754812,12,46263049,83',Giorgio Cittadini (Frosinone) Substitution at 83',2025-10-29 05:18:30
+13654,754812,13,46263050,83',Abdoulie Ndow (Frosinone) Substitution at 83',2025-10-29 05:18:30
+13654,754812,14,46263075,83',Edoardo Masciangelo (Frosinone) Substitution at 83',2025-10-29 05:18:30
+13654,754813,0,46269863,7',Leonardo Mancuso (Mantova) Goal at 7',2025-10-30 05:17:57
+13654,754813,1,46272510,58',Pietro Iemmello (Catanzaro) Substitution at 58',2025-10-30 05:17:57
+13654,754813,2,46272511,58',Simone Pontisso (Catanzaro) Substitution at 58',2025-10-30 05:17:57
+13654,754813,3,46272512,58',Patrick Nuamah (Catanzaro) Substitution at 58',2025-10-30 05:17:57
+13654,754813,4,46272585,60',Simone Trimboli (Mantova) Yellow Card at 60',2025-10-30 05:17:57
+13654,754813,5,46272676,62',Zan Majer (Mantova) Substitution at 62',2025-10-30 05:17:57
+13654,754813,6,46272677,63',Tommaso Pittino (Mantova) Substitution at 63',2025-10-30 05:17:57
+13654,754813,7,46272918,68',Zan Majer (Mantova) Own Goal at 68',2025-10-30 05:17:57
+13654,754813,8,46272993,70',Niccolò Brighenti (Catanzaro) Yellow Card at 70',2025-10-30 05:17:57
+13654,754813,9,46273047,72',Davis Mensah (Mantova) Substitution at 72',2025-10-30 05:17:57
+13654,754813,10,46273048,72',David Wieser (Mantova) Substitution at 72',2025-10-30 05:17:57
+13654,754813,11,46273106,75',Alphadjo Cissè (Catanzaro) Goal at 75',2025-10-30 05:17:57
+13654,754813,12,46273217,78',Gabriele Alesi (Catanzaro) Substitution at 78',2025-10-30 05:17:57
+13654,754813,13,46273312,80',Costantino Favasuli (Catanzaro) Goal at 80',2025-10-30 05:17:57
+13654,754813,14,46273619,84',Nicholas Bonfanti (Mantova) Substitution at 84',2025-10-30 05:17:57
+13654,754813,15,46273690,87',Gianluca Di Chiara (Catanzaro) Substitution at 87',2025-10-30 05:17:57
+13654,754813,16,46273741,89',Matias Antonini Lui (Catanzaro) Yellow Card at 89',2025-10-30 05:17:57
+13654,754814,0,46269883,8',Francesco Belli (Padova) Yellow Card at 8',2025-10-30 05:17:57
+13654,754814,1,46270103,17',Gianluca Lapadula (Spezia) Goal at 17',2025-10-30 05:17:57
+13654,754814,2,46270587,30',Pietro Fusi (Padova) Yellow Card at 30',2025-10-30 05:17:57
+13654,754814,3,46272295,55',Kevin Varas Marcillo (Padova) Substitution at 55',2025-10-31 05:17:00
+13654,754814,4,46272336,55',Alessandro Capelli (Padova) Substitution at 55',2025-10-31 05:17:00
+13654,754814,5,46272479,59',Marco Perrotta (Padova) Yellow Card at 59',2025-10-30 05:17:57
+13654,754814,6,46272769,66',Kevin Lasagna (Padova) Goal at 66',2025-10-30 05:17:57
+13654,754814,7,46272824,68',Jonas Harder (Padova) Substitution at 68',2025-10-30 05:17:57
+13654,754814,8,46272825,68',Cristian Buonaiuto (Padova) Substitution at 68',2025-10-30 05:17:57
+13654,754814,9,46272967,71',Ádám Nagy (Spezia) Yellow Card at 71',2025-10-30 05:17:57
+13654,754814,10,46273072,75',Carlo Faedo (Padova) Substitution at 75',2025-10-30 05:17:57
+13654,754814,11,46273078,76',Pietro Candelari (Spezia) Substitution at 76',2025-10-30 05:17:57
+13654,754814,12,46273225,80',Edoardo Soleri (Spezia) Substitution at 80',2025-10-30 05:17:57
+13654,754814,13,46273283,81',Francesco Cassata (Spezia) Substitution at 81',2025-10-30 05:17:57
+13654,754814,14,46273391,83',Antonio Barreca (Padova) Yellow Card at 83',2025-10-30 05:17:57
+13654,754814,15,46273480,86',Rachid Kouda (Spezia) Substitution at 86',2025-10-30 05:17:57
+13654,754814,16,46273481,86',Antonio Candela (Spezia) Substitution at 86',2025-10-30 05:17:57
+13654,754814,17,46273853,90'+4',Jonas Harder (Padova) Yellow Card at 94',2025-10-30 05:17:57
+13654,754814,18,46273854,90'+4',Kevin Varas Marcillo (Padova) Yellow Card at 94',2025-10-30 05:17:57
+13654,754815,0,46260057,17',Andrea Bozzolan (Reggiana) Goal at 17',2025-10-29 05:18:30
+13654,754815,1,46261783,45',Fabio Gerli (Modena) Substitution at 45',2025-10-29 05:18:30
+13654,754815,2,46261794,45',Luca Zanimacchia (Modena) Substitution at 45',2025-10-29 05:18:30
+13654,754815,3,46262206,58',Ettore Gliozzi (Modena) Substitution at 58',2025-10-29 05:18:30
+13654,754815,4,46262247,59',Yanis Massolin (Modena) Substitution at 59',2025-10-29 05:18:30
+13654,754815,5,46262336,61',Bryant Nieling (Modena) Yellow Card at 61',2025-10-29 05:18:30
+13654,754815,6,46262439,64',Charlys (Reggiana) Yellow Card at 64',2025-10-29 05:18:30
+13654,754815,7,46262679,70',Francesco Di Mariano (Modena) Yellow Card at 70',2025-10-29 05:18:30
+13654,754815,8,46262680,71',Andrija Novakovich (Reggiana) Substitution at 71',2025-10-29 05:18:30
+13654,754815,9,46262723,72',Grégoire Defrel (Modena) Substitution at 72',2025-10-29 05:18:30
+13654,754815,10,46262904,79',Francesco Vallarelli (Reggiana) Substitution at 79',2025-10-29 05:18:30
+13654,754815,11,46263122,85',Mathis Lambourde (Reggiana) Substitution at 85',2025-10-29 05:18:30
+13654,754815,12,46263123,85',Simone Bonetti (Reggiana) Substitution at 85',2025-10-29 05:18:30
+13654,754815,13,46263366,90'+3',Simone Bonetti (Reggiana) Yellow Card at 93',2025-10-29 05:18:30
+13654,754815,14,46263398,90'+4',Daniel Tonoli (Modena) Yellow Card at 94',2025-10-29 05:18:30
+13654,754816,0,46259797,5',Riccardo Capellini (Pescara) Goal at 5',2025-10-29 05:18:30
+13654,754816,1,46260127,17',Luca Valzania (Pescara) Yellow Card at 17',2025-10-29 05:18:30
+13654,754816,2,46260177,19',Dimitris Sounas (US Avellino) Yellow Card at 19',2025-10-29 05:18:30
+13654,754816,3,46260479,29',Lorenco Simic (US Avellino) Goal at 29',2025-10-29 05:18:30
+13654,754816,4,46260986,41',Filippo Missori (US Avellino) Yellow Card at 41',2025-10-29 05:18:30
+13654,754816,5,46262196,57',Michele Besaggio (US Avellino) Substitution at 57',2025-10-29 05:18:30
+13654,754816,6,46262197,57',Tommaso Biasci (US Avellino) Substitution at 57',2025-10-29 05:18:30
+13654,754816,7,46262495,65',Fabrizio Caligara (Pescara) Substitution at 65',2025-10-29 05:18:30
+13654,754816,8,46262593,68',Gennaro Tutino (US Avellino) Substitution at 68',2025-10-29 05:18:30
+13654,754816,9,46262634,68',Raffaele Russo (US Avellino) Substitution at 68',2025-10-29 05:18:30
+13654,754816,10,46262847,77',Leonardo Graziani (Pescara) Substitution at 77',2025-10-29 05:18:30
+13654,754816,11,46262887,77',Davide Giannini (Pescara) Substitution at 77',2025-10-29 05:18:30
+13654,754816,12,46263172,87',Emmanuel Gyabuaa (US Avellino) Substitution at 87',2025-10-29 05:18:30
+13654,754816,13,46263345,90'+2',Alessandro Vinciguerra (Pescara) Substitution at 92',2025-10-29 05:18:30
+13654,754816,14,46263346,90'+2',Orji Okwonkwo (Pescara) Substitution at 92',2025-10-29 05:18:30
+13654,754816,15,46263421,90'+4',Gennaro Tutino (US Avellino) Yellow Card at 94',2025-10-29 05:18:30
+13654,754817,0,46260575,30',Keita Baldé (Monza) Yellow Card at 30',2025-10-29 05:18:30
+13654,754817,1,46260892,39',Dany Mota (Monza) Goal at 39',2025-10-29 05:18:30
+13654,754817,2,46262081,50',Armando Izzo (Monza) Goal at 50',2025-10-29 05:18:30
+13654,754817,3,46262237,55',Antonio Palumbo (Palermo) Substitution at 55',2025-10-29 05:18:30
+13654,754817,4,46262447,61',Andrea Colpani (Monza) Substitution at 61',2025-10-29 05:18:30
+13654,754817,5,46262572,64',Matteo Brunori Sandri (Palermo) Substitution at 64',2025-10-29 05:18:30
+13654,754817,6,46262573,64',Giacomo Corona (Palermo) Substitution at 64',2025-10-29 05:18:30
+13654,754817,7,46262882,74',Matteo Brunori Sandri (Palermo) Yellow Card at 74',2025-10-29 05:18:30
+13654,754817,8,46262883,74',Armando Izzo (Monza) Yellow Card at 74',2025-10-29 05:18:30
+13654,754817,9,46262945,77',Alexis Blin (Palermo) Substitution at 77',2025-10-29 05:18:30
+13654,754817,10,46262986,77',Aljosa Vasic (Palermo) Substitution at 77',2025-10-29 05:18:30
+13654,754817,11,46263060,80',Mirko Maric (Monza) Substitution at 80',2025-10-29 05:18:30
+13654,754817,12,46263089,80',Filippo Delli Carri (Monza) Substitution at 80',2025-10-29 05:18:30
+13654,754817,13,46263112,82',Samuele Birindelli (Monza) Yellow Card at 82',2025-10-29 05:18:30
+13654,754817,14,46263221,85',Andrea Carboni (Monza) Substitution at 85',2025-10-29 05:18:30
+13654,754817,15,46263222,85',Arvid Brorsson (Monza) Substitution at 85',2025-10-29 05:18:30
+13654,754817,16,46263550,90'+4',Luca Ravanelli (Monza) Yellow Card at 94',2025-10-29 05:18:30
+13654,754817,17,46263551,90'+5',Paulo Azzi (Monza) Goal at 95',2025-10-29 05:18:30
+13654,754818,0,46261845,45',Luca Belardinelli (Empoli) Substitution at 45',2025-10-29 05:18:30
+13654,754818,1,46262169,55',Alessandro Pio Riccio (Sampdoria) Substitution at 55',2025-10-29 05:18:30
+13654,754818,2,46262278,58',Salvatore Elia (Empoli) Yellow Card at 58',2025-10-29 05:18:30
+13654,754818,3,46262459,62',Leonardo Benedetti (Sampdoria) Yellow Card at 62',2025-10-29 05:18:30
+13654,754818,4,46262490,65',Salvatore Elia (Empoli) Red Card at 65',2025-10-29 05:18:30
+13654,754818,5,46262540,66',Tyronne Ebuehi (Empoli) Substitution at 66',2025-10-29 05:18:30
+13654,754818,6,46262594,67',Antonín Barák (Sampdoria) Substitution at 67',2025-10-29 05:18:30
+13654,754818,7,46262595,67',Stipe Vulikic (Sampdoria) Substitution at 67',2025-10-29 05:18:30
+13654,754818,8,46262796,73',Gerard Yepes (Empoli) Substitution at 73',2025-10-29 05:18:30
+13654,754818,9,46262797,73',Bohdan Popov (Empoli) Substitution at 73',2025-10-29 05:18:30
+13654,754818,10,46262935,77',Bohdan Popov (Empoli) Goal at 77',2025-10-29 05:18:30
+13654,754818,11,46262946,79',Jordan Ferri (Sampdoria) Substitution at 79',2025-10-29 05:18:30
+13654,754818,12,46262947,79',Estanis Pedrola (Sampdoria) Substitution at 79',2025-10-29 05:18:30
+13654,754818,13,46262987,80',Marvin Cuni (Sampdoria) Goal at 80',2025-10-29 05:18:30
+13654,754818,14,46263642,90'+8',Marco Curto (Empoli) Yellow Card at 98',2025-11-01 05:18:07
+13654,754818,15,46263643,90'+8',Jordan Ferri (Sampdoria) Red Card at 98',2025-10-29 05:18:30
+13654,754819,0,46288250,21',Lorenco Simic (US Avellino) Own Goal at 21',2025-11-02 05:18:08
+13654,754819,1,46288254,25',Tommaso Biasci (US Avellino) Yellow Card at 25',2025-11-05 06:16:11
+13654,754819,2,46288270,32',Roberto Insigne (US Avellino) Penalty - Scored at 32',2025-11-05 06:16:11
+13654,754819,3,46288622,45',Raffaele Russo (US Avellino) Substitution at 45',2025-11-05 06:16:11
+13654,754819,4,46288671,47',Luca Palmiero (US Avellino) Yellow Card at 47',2025-11-05 06:16:11
+13654,754819,5,46288695,50',Tommaso Biasci (US Avellino) Goal at 50',2025-11-05 06:16:11
+13654,754819,6,46288761,55',Andrija Novakovich (Reggiana) Goal at 55',2025-11-05 06:16:11
+13654,754819,7,46288793,55',Justin Kumi (US Avellino) Substitution at 55',2025-11-05 06:16:11
+13654,754819,8,46288817,57',Alessandro Milani (US Avellino) Yellow Card at 57',2025-11-05 06:16:11
+13654,754819,9,46288857,62',Andrija Novakovich (Reggiana) Goal at 62',2025-11-05 06:16:11
+13654,754819,10,46288872,64',Andrea Cagnano (US Avellino) Substitution at 64',2025-11-05 06:16:11
+13654,754819,11,46288873,64',Gennaro Tutino (US Avellino) Substitution at 64',2025-11-05 06:16:11
+13654,754819,12,46288885,64',Lorenco Simic (US Avellino) Goal at 64',2025-11-05 06:16:11
+13654,754819,13,46288904,67',Manolo Portanova (Reggiana) Yellow Card at 67',2025-11-05 06:16:11
+13654,754819,14,46288918,69',Mathis Lambourde (Reggiana) Substitution at 69',2025-11-05 06:16:11
+13654,754819,15,46288925,70',Martin Palumbo (US Avellino) Goal at 70',2025-11-05 06:16:11
+13654,754819,16,46288978,78',Cedric Gondo (Reggiana) Substitution at 78',2025-11-05 06:16:11
+13654,754819,17,46289001,78',Leo Stulac (Reggiana) Substitution at 78',2025-11-05 06:16:11
+13654,754819,18,46289036,82',Matto Rover (Reggiana) Substitution at 82',2025-11-05 06:16:11
+13654,754819,19,46289059,82',Dimitris Sounas (US Avellino) Substitution at 82',2025-11-05 06:16:11
+13654,754819,20,46289112,86',Filippo Missori (US Avellino) Yellow Card at 86',2025-11-05 06:16:11
+13654,754819,21,46289206,90'+3',Cedric Gondo (Reggiana) Yellow Card at 93',2025-11-05 06:16:11
+13654,754820,0,46307141,17',Matthias Verreth (Bari) Substitution at 17',2025-11-03 06:17:05
+13654,754820,1,46308205,58',Christian Gytkjaer (Bari) Substitution at 58',2025-11-03 06:17:05
+13654,754820,2,46308206,58',Matthias Braunöder (Bari) Substitution at 58',2025-11-03 06:17:05
+13654,754820,3,46308218,58',Emanuele Adamo (Cesena) Substitution at 58',2025-11-03 06:17:05
+13654,754820,4,46308334,64',Siren Diao (Cesena) Substitution at 64',2025-11-03 06:17:05
+13654,754820,5,46308364,64',Simone Bastoni (Cesena) Substitution at 64',2025-11-03 06:17:05
+13654,754820,6,46308455,69',Riccardo Ciervo (Cesena) Yellow Card at 69',2025-11-03 06:17:05
+13654,754820,7,46308505,72',Andrea Meroni (Bari) Yellow Card at 72',2025-11-03 06:17:05
+13654,754820,8,46308594,78',Leonardo Cerri (Bari) Substitution at 78',2025-11-03 06:17:05
+13654,754820,9,46308598,78',Anthony Partipilo (Bari) Substitution at 78',2025-11-03 06:17:05
+13654,754820,10,46308638,79',Christian Gytkjaer (Bari) Goal at 79',2025-11-03 06:17:05
+13654,754820,11,46308661,81',Raffaele Celia (Cesena) Substitution at 81',2025-11-03 06:17:05
+13654,754820,12,46308687,81',Marco Olivieri (Cesena) Substitution at 81',2025-11-03 06:17:05
+13654,754821,0,46289819,10',Ben Lhassine Kone (Frosinone) Yellow Card at 10',2025-11-02 05:18:08
+13654,754821,1,46289863,14',Alessandro Arena (Carrarese) Yellow Card at 14',2025-11-02 05:18:08
+13654,754821,2,46289985,29',Julián Illanes (Carrarese) Yellow Card at 29',2025-11-02 05:18:08
+13654,754821,3,46290076,36',Manuel Cicconi (Carrarese) Yellow Card at 36',2025-11-02 05:18:08
+13654,754821,4,46290127,39',Emanuele Zuelli (Carrarese) Yellow Card at 39',2025-11-02 05:18:08
+13654,754821,5,46290139,41',Giacomo Calo (Frosinone) Penalty - Scored at 41',2025-11-02 05:18:08
+13654,754821,6,46290247,45'+4',Anthony Oyono (Frosinone) Yellow Card at 49',2025-11-02 05:18:08
+13654,754821,7,46290608,45',Matteo Cichella (Frosinone) Substitution at 45',2025-11-02 05:18:08
+13654,754821,8,46290625,45',Nikola Sekulov (Carrarese) Substitution at 45',2025-11-02 05:18:08
+13654,754821,9,46291183,60',Mattia Finotto (Carrarese) Yellow Card at 60',2025-11-02 05:18:08
+13654,754821,10,46291245,63',Filippo Distefano (Carrarese) Substitution at 63',2025-11-02 05:18:08
+13654,754821,11,46291285,63',Devid Eugene Bouah (Carrarese) Substitution at 63',2025-11-02 05:18:08
+13654,754821,12,46291290,64',Massimo Zilli (Frosinone) Substitution at 64',2025-11-02 05:18:08
+13654,754821,13,46291435,67',Anthony Oyono (Frosinone) Red Card at 67',2025-11-02 05:18:08
+13654,754821,14,46291456,70',Niccolò Corrado (Frosinone) Substitution at 70',2025-11-02 05:18:08
+13654,754821,15,46291512,70',Giorgio Cittadini (Frosinone) Substitution at 70',2025-11-02 05:18:08
+13654,754821,16,46291755,76',Kleis Bozhanaj (Carrarese) Substitution at 76',2025-11-02 05:18:08
+13654,754821,17,46292130,84',Federico Accornero (Carrarese) Substitution at 84',2025-11-02 05:18:08
+13654,754821,18,46292131,84',Jérémy Oyono (Frosinone) Substitution at 84',2025-11-02 05:18:08
+13654,754821,19,46292273,89',Farès Ghedjemis (Frosinone) Goal at 89',2025-11-02 05:18:08
+13654,754822,0,46307723,45',Enrique Perez (Venezia) Yellow Card at 45',2025-11-03 06:17:05
+13654,754822,1,46307957,45',Patrick Nuamah (Catanzaro) Substitution at 45',2025-11-03 06:17:05
+13654,754822,2,46308143,54',Pietro Iemmello (Catanzaro) Goal at 54',2025-11-03 06:17:05
+13654,754822,3,46308219,59',John Yeboah (Venezia) Goal at 59',2025-11-03 06:17:05
+13654,754822,4,46308256,60',Patrick Nuamah (Catanzaro) Yellow Card at 60',2025-11-03 06:17:05
+13654,754822,5,46308302,60',Michael Svoboda (Venezia) Yellow Card at 60',2025-11-03 06:17:05
+13654,754822,6,46308266,62',Alessandro Pietrelli (Venezia) Substitution at 62',2025-11-03 06:17:05
+13654,754822,7,46308303,62',Issa Doumbia (Venezia) Substitution at 62',2025-11-03 06:17:05
+13654,754822,8,46308398,67',Bartol Franjic (Venezia) Substitution at 67',2025-11-03 06:17:05
+13654,754822,9,46308533,74',Andrea Adorante (Venezia) Yellow Card at 74',2025-11-03 06:17:05
+13654,754822,10,46308552,75',Gabriele Alesi (Catanzaro) Substitution at 75',2025-11-03 06:17:05
+13654,754822,11,46308553,75',Luca Pandolfi (Catanzaro) Substitution at 75',2025-11-03 06:17:05
+13654,754822,12,46308678,80',Gabriele Alesi (Catanzaro) Goal at 80',2025-11-03 06:17:05
+13654,754822,13,46308735,84',Antonio Casas (Venezia) Substitution at 84',2025-11-03 06:17:05
+13654,754822,14,46308922,84',Daniel Fila (Venezia) Substitution at 84',2025-11-03 06:17:05
+13654,754822,15,46308947,86',Antoine Hainaut (Venezia) Yellow Card at 86',2025-11-03 06:17:05
+13654,754822,16,46309018,90',Ervin Bashi (Catanzaro) Substitution at 90',2025-11-03 06:17:05
+13654,754822,17,46309115,90'+2',Mattia Liberali (Catanzaro) Substitution at 92',2025-11-03 06:17:05
+13654,754823,0,46307103,14',Bryant Nieling (Modena) Goal at 14',2025-11-03 06:17:05
+13654,754823,1,46308203,56',Marco Bellich (Juve Stabia) Yellow Card at 56',2025-11-03 06:17:05
+13654,754823,2,46308231,59',Francesco Di Mariano (Modena) Substitution at 59',2025-11-03 06:17:05
+13654,754823,3,46308232,59',Giacomo Stabile (Juve Stabia) Substitution at 59',2025-11-03 06:17:05
+13654,754823,4,46308233,59',Rares Burnete (Juve Stabia) Substitution at 59',2025-11-03 06:17:05
+13654,754823,5,46308452,69',Ettore Gliozzi (Modena) Penalty - Scored at 69',2025-11-03 06:17:05
+13654,754823,6,46308532,74',Pedro Mendes (Modena) Substitution at 74',2025-11-03 06:17:05
+13654,754823,7,46308557,74',Niklas Pyyhtia (Modena) Substitution at 74',2025-11-03 06:17:05
+13654,754823,8,46308558,74',Gady Beyuku (Modena) Substitution at 74',2025-11-03 06:17:05
+13654,754823,9,46308559,74',Kevin Piscopo (Juve Stabia) Substitution at 74',2025-11-03 06:17:05
+13654,754823,10,46308688,81',Simone Santoro (Modena) Yellow Card at 81',2025-11-03 06:17:05
+13654,754823,11,46308743,83',Alessandro Gabrielloni (Juve Stabia) Substitution at 83',2025-11-03 06:17:05
+13654,754823,12,46308935,84',Kevin Piscopo (Juve Stabia) Yellow Card at 84',2025-11-03 06:17:05
+13654,754823,13,46309051,90',Marco Ruggero (Juve Stabia) Own Goal at 90',2025-11-03 06:17:05
+13654,754823,14,46309147,90'+1',Alessandro Gabrielloni (Juve Stabia) Yellow Card at 91',2025-11-03 06:17:05
+13654,754823,15,46309121,90'+2',Folly Nador (Modena) Substitution at 92',2025-11-03 06:17:05
+13654,754824,0,46309857,18',Patrick Ciurria (Monza) Yellow Card at 18',2025-11-03 06:17:05
+13654,754824,1,46310908,53',Gianluca Lapadula (Spezia) Yellow Card at 53',2025-11-03 06:17:05
+13654,754824,2,46310935,53',Luca Ravanelli (Monza) Goal at 53',2025-11-03 06:17:05
+13654,754824,3,46311018,57',Giuseppe Di Serio (Spezia) Substitution at 57',2025-11-03 06:17:05
+13654,754824,4,46311247,68',Mirko Maric (Monza) Substitution at 68',2025-11-03 06:17:05
+13654,754824,5,46311283,68',Gianluca Caprari (Monza) Substitution at 68',2025-11-03 06:17:05
+13654,754824,6,46311433,75',Armando Izzo (Monza) Yellow Card at 75',2025-11-03 06:17:05
+13654,754824,7,46311434,76',Nicolas Galazzi (Monza) Substitution at 76',2025-11-03 06:17:05
+13654,754824,8,46311435,76',Samuele Birindelli (Monza) Substitution at 76',2025-11-03 06:17:05
+13654,754824,9,46311462,77',Edoardo Soleri (Spezia) Substitution at 77',2025-11-03 06:17:05
+13654,754824,10,46311479,77',Rachid Kouda (Spezia) Substitution at 77',2025-11-03 06:17:05
+13654,754824,11,46311498,79',Fellipe Jack (Spezia) Yellow Card at 79',2025-11-03 06:17:05
+13654,754824,12,46311588,84',Petko Hristov (Spezia) Substitution at 84',2025-11-03 06:17:05
+13654,754824,13,46311589,85',Pietro Candelari (Spezia) Substitution at 85',2025-11-03 06:17:05
+13654,754824,14,46311620,85',Armando Izzo (Monza) Red Card at 85',2025-11-03 06:17:05
+13654,754824,15,46311660,88',Filippo Delli Carri (Monza) Substitution at 88',2025-11-03 06:17:05
+13654,754825,0,46290160,43',Silvio Merkaj (Suditrol) Goal at 43',2025-11-02 05:18:08
+13654,754825,1,46290403,45',Federico Davi (Suditrol) Substitution at 45',2025-11-02 05:18:08
+13654,754825,2,46290753,55',Mattia Bortolussi (Padova) Substitution at 55',2025-11-02 05:18:08
+13654,754825,3,46290879,57',Antonio Barreca (Padova) Yellow Card at 57',2025-11-02 05:18:08
+13654,754825,4,46291056,61',Alessandro Capelli (Padova) Yellow Card at 61',2025-11-02 05:18:08
+13654,754825,5,46291164,65',Federico Davi (Suditrol) Yellow Card at 65',2025-11-02 05:18:08
+13654,754825,6,46291165,66',Luca Di Maggio (Padova) Substitution at 66',2025-11-02 05:18:08
+13654,754825,7,46291200,66',Alessandro Seghetti (Padova) Substitution at 66',2025-11-02 05:18:08
+13654,754825,8,46291201,66',Paolo Ghiglione (Padova) Substitution at 66',2025-11-02 05:18:08
+13654,754825,9,46291253,68',Karim Zedadka (Suditrol) Substitution at 68',2025-11-02 05:18:08
+13654,754825,10,46291538,77',Luca Di Maggio (Padova) Yellow Card at 77',2025-11-02 05:18:08
+13654,754825,11,46291589,77',Giulio Favale (Padova) Substitution at 77',2025-11-03 06:17:05
+13654,754825,12,46291590,78',Davide Mancini (Suditrol) Substitution at 78',2025-11-02 05:18:08
+13654,754825,13,46291643,79',Emanuele Pecorino (Suditrol) Substitution at 79',2025-11-02 05:18:08
+13654,754825,14,46291737,81',Davide Mancini (Suditrol) Yellow Card at 81',2025-11-02 05:18:08
+13654,754825,15,46291972,84',Salvatore Molina (Suditrol) Yellow Card at 84',2025-11-02 05:18:08
+13654,754825,16,46291905,85',Mattia Bortolussi (Padova) Penalty - Scored at 85',2025-11-02 05:18:08
+13654,754825,17,46292159,90',Filipe Bordon (Suditrol) Substitution at 90',2025-11-02 05:18:08
+13654,754825,18,46292212,90'+1',Jonas Harder (Padova) Yellow Card at 91',2025-11-02 05:18:08
+13654,754826,0,46297479,16',Jacopo Segre (Palermo) Substitution at 16',2025-11-02 05:18:08
+13654,754826,1,46297614,23',Niccolò Pierozzi (Palermo) Goal at 23',2025-11-02 05:18:08
+13654,754826,2,46297816,32',Julian Brandes (Pescara) Yellow Card at 32',2025-11-02 05:18:08
+13654,754826,3,46298749,45',Matteo Brunori Sandri (Palermo) Substitution at 45',2025-11-02 05:18:08
+13654,754826,4,46298817,46',Jacopo Segre (Palermo) Goal at 46',2025-11-02 05:18:08
+13654,754826,5,46299105,56',Orji Okwonkwo (Pescara) Substitution at 56',2025-11-02 05:18:08
+13654,754826,6,46299106,56',Gianmarco Cangiano (Pescara) Substitution at 56',2025-11-02 05:18:08
+13654,754826,7,46299131,58',Niccolò Pierozzi (Palermo) Goal at 58',2025-11-02 05:18:08
+13654,754826,8,46299218,64',Patryk Peda (Palermo) Substitution at 64',2025-11-02 05:18:08
+13654,754826,9,46299275,67',Lorenzo Meazzi (Pescara) Substitution at 67',2025-11-02 05:18:08
+13654,754826,10,46299276,67',Niccolò Squizzato (Pescara) Substitution at 67',2025-11-02 05:18:08
+13654,754826,11,46299346,71',Bartosz Bereszynski (Palermo) Yellow Card at 71',2025-11-02 05:18:08
+13654,754826,12,46299347,72',Matteo Brunori Sandri (Palermo) Goal at 72',2025-11-02 05:18:08
+13654,754826,13,46299409,73',Matteo Brunori Sandri (Palermo) Yellow Card at 73',2025-11-02 05:18:08
+13654,754826,14,46299439,74',Lorenzo Sgarbi (Pescara) Substitution at 74',2025-11-02 05:18:08
+13654,754826,15,46299473,75',Matteo Dagasso (Pescara) Yellow Card at 75',2025-11-02 05:18:08
+13654,754826,16,46299524,79',Salim Diakite (Palermo) Substitution at 79',2025-11-02 05:18:08
+13654,754826,17,46299525,79',Aljosa Vasic (Palermo) Substitution at 79',2025-11-02 05:18:08
+13654,754826,18,46299582,80',Aljosa Vasic (Palermo) Yellow Card at 80',2025-11-02 05:18:08
+13654,754826,19,46299622,83',Salim Diakite (Palermo) Goal at 83',2025-11-02 05:18:08
+13654,754827,0,46312090,1',Liam Henderson (Sampdoria) Yellow Card at 1',2025-11-03 06:17:05
+13654,754827,1,46313138,53',Leonardo Benedetti (Sampdoria) Substitution at 53',2025-11-03 06:17:05
+13654,754827,2,46313460,62',Tommaso Maggioni (Mantova) Substitution at 62',2025-11-03 06:17:05
+13654,754827,3,46313472,62',Davis Mensah (Mantova) Substitution at 62',2025-11-03 06:17:05
+13654,754827,4,46313565,70',Nicholas Ioannou (Sampdoria) Yellow Card at 70',2025-11-03 06:17:05
+13654,754827,5,46313574,70',Lorenzo Venuti (Sampdoria) Substitution at 70',2025-11-03 06:17:05
+13654,754827,6,46313612,77',Stipe Vulikic (Sampdoria) Substitution at 77',2025-11-03 06:17:05
+13654,754827,7,46313613,77',Alessandro Bellemo (Sampdoria) Substitution at 77',2025-11-03 06:17:05
+13654,754827,8,46313629,79',César Falletti (Mantova) Substitution at 79',2025-11-03 06:17:05
+13654,754827,9,46313630,79',Tommaso Marras (Mantova) Substitution at 79',2025-11-03 06:17:05
+13654,754827,10,46313763,87',Francesco Ruocco (Mantova) Goal at 87',2025-11-03 06:17:05
+13654,754827,11,46313776,89',David Wieser (Mantova) Substitution at 89',2025-11-03 06:17:05
+13654,754828,0,46295906,59',Andrea Tiritiello (Virtus Entella) Yellow Card at 59',2025-11-02 05:18:08
+13654,754828,1,46295932,60',Bohdan Popov (Empoli) Substitution at 60',2025-11-02 05:18:08
+13654,754828,2,46295933,60',Steven Shpendi (Empoli) Substitution at 60',2025-11-02 05:18:08
+13654,754828,3,46296003,63',Alessandro Debenedetti (Virtus Entella) Substitution at 63',2025-11-02 05:18:08
+13654,754828,4,46296004,64',Nermin Karic (Virtus Entella) Substitution at 64',2025-11-02 05:18:08
+13654,754828,5,46296059,66',Luca Belardinelli (Empoli) Yellow Card at 66',2025-11-02 05:18:08
+13654,754828,6,46296134,69',Duccio Degli Innocenti (Empoli) Substitution at 69',2025-11-02 05:18:08
+13654,754828,7,46296135,70',Lorenzo Ignacchiti (Empoli) Substitution at 70',2025-11-02 05:18:08
+13654,754828,8,46296603,83',Marco Emilio Nichetti (Virtus Entella) Substitution at 83',2025-11-02 05:18:08
+13654,754828,9,46296640,85',Duccio Degli Innocenti (Empoli) Yellow Card at 85',2025-11-02 05:18:08
+13654,754828,10,46296643,86',Andrea Tiritiello (Virtus Entella) Goal at 86',2025-11-02 05:18:08
+13654,754828,11,46296711,89',Flavio Junior Bianchi (Empoli) Substitution at 89',2025-11-02 05:18:08
+13654,754828,12,46296758,90'+3',Stefano Di Mario (Virtus Entella) Yellow Card at 93',2025-11-03 06:17:05
+13654,754828,13,46296773,90'+4',Denis Portanova (Virtus Entella) Substitution at 94',2025-11-02 05:18:08
+13654,754829,0,46368002,27',Riccardo Ciervo (Cesena) Goal at 27',2025-11-10 06:11:26
+13654,754829,1,46368048,29',Matteo Francesconi (Cesena) Yellow Card at 29',2025-11-10 06:11:26
+13654,754829,2,46368049,30',Michele Rigione (US Avellino) Substitution at 30',2025-11-10 06:11:26
+13654,754829,3,46368147,35',Alessandro Fontanarosa (US Avellino) Yellow Card at 35',2025-11-10 06:11:26
+13654,754829,4,46368473,45'+3',Michele Rigione (US Avellino) Yellow Card at 48',2025-11-10 06:11:26
+13654,754829,5,46368474,45'+5',Cristian Shpendi (Cesena) Penalty - Scored at 50',2025-11-10 06:11:26
+13654,754829,6,46368553,45'+8',Cosimo Francesco Patierno (US Avellino) Yellow Card at 53',2025-11-10 06:11:26
+13654,754829,7,46368717,45',Gennaro Tutino (US Avellino) Substitution at 45',2025-11-10 06:11:26
+13654,754829,8,46368733,45',Raffaele Russo (US Avellino) Substitution at 45',2025-11-10 06:11:26
+13654,754829,9,46368858,51',Jalen Blesa (Cesena) Goal at 51',2025-11-10 06:11:26
+13654,754829,10,46368935,53',Jalen Blesa (Cesena) Yellow Card at 53',2025-11-10 06:11:26
+13654,754829,11,46369107,61',Dimitris Sounas (US Avellino) Yellow Card at 61',2025-11-10 06:11:26
+13654,754829,12,46369108,62',Facundo Lescano (US Avellino) Substitution at 62',2025-11-10 06:11:26
+13654,754829,13,46369172,65',Simone Bastoni (Cesena) Substitution at 65',2025-11-10 06:11:26
+13654,754829,14,46369195,65',Marco Olivieri (Cesena) Substitution at 65',2025-11-10 06:11:26
+13654,754829,15,46369398,74',Justin Kumi (US Avellino) Substitution at 74',2025-11-10 06:11:26
+13654,754829,16,46369469,78',Siren Diao (Cesena) Substitution at 78',2025-11-10 06:11:26
+13654,754829,17,46369470,78',Emanuele Adamo (Cesena) Substitution at 78',2025-11-10 06:11:26
+13654,754829,18,46369670,83',Riccardo Ciervo (Cesena) Yellow Card at 83',2025-11-10 06:11:26
+13654,754829,19,46369730,85',Matteo Guidi (Cesena) Substitution at 85',2025-11-10 06:11:26
+13654,754829,20,46369924,90'+4',Emanuele Adamo (Cesena) Yellow Card at 94',2025-11-10 06:11:26
+13654,754830,0,46351421,10',Davide Bettella (Catanzaro) Substitution at 10',2025-11-09 15:08:00
+13654,754830,1,46351711,27',Nosa Obaretin (Empoli) Yellow Card at 27',2025-11-09 15:08:00
+13654,754830,2,46351767,31',Bohdan Popov (Empoli) Yellow Card at 31',2025-11-09 15:08:00
+13654,754830,3,46351982,44',Bohdan Popov (Empoli) Red Card at 44',2025-11-09 15:08:00
+13654,754830,4,46352309,45',Matteo Lovato (Empoli) Substitution at 45',2025-11-09 15:08:00
+13654,754830,5,46352643,55',Davide Bettella (Catanzaro) Yellow Card at 55',2025-11-09 15:08:00
+13654,754830,6,46352778,59',Steven Shpendi (Empoli) Penalty - Scored at 59',2025-11-09 15:08:00
+13654,754830,7,46352798,60',Luca Pandolfi (Catanzaro) Substitution at 60',2025-11-09 15:08:00
+13654,754830,8,46352832,60',Patrick Nuamah (Catanzaro) Substitution at 60',2025-11-09 15:08:00
+13654,754830,9,46353031,66',Niccolò Brighenti (Catanzaro) Yellow Card at 66',2025-11-09 15:08:00
+13654,754830,10,46353032,66',Mirko Pigliacelli (Catanzaro) Yellow Card at 66',2025-11-09 15:08:00
+13654,754830,11,46353238,70',Gerard Yepes (Empoli) Yellow Card at 70',2025-11-09 15:08:00
+13654,754830,12,46353239,71',Rares Ilie (Empoli) Substitution at 71',2025-11-09 15:08:00
+13654,754830,13,46353240,71',Pietro Pellegri (Empoli) Substitution at 71',2025-11-09 15:08:00
+13654,754830,14,46353288,72',Andrea Fulignati (Empoli) Yellow Card at 72',2025-11-09 15:08:00
+13654,754830,15,46353481,77',Gabriele Alesi (Catanzaro) Substitution at 77',2025-11-09 15:08:00
+13654,754830,16,46353482,77',Mattia Liberali (Catanzaro) Substitution at 77',2025-11-10 06:11:26
+13654,754830,17,46353855,86',Franco Carboni (Empoli) Substitution at 86',2025-11-09 15:08:00
+13654,754830,18,46353901,86',Nicolas Haas (Empoli) Substitution at 86',2025-11-09 15:08:00
+13654,754830,19,46354008,90',Gabriele Alesi (Catanzaro) Yellow Card at 90',2025-11-09 15:08:00
+13654,754831,0,46345468,7',Christian Gytkjaer (Bari) Goal at 7',2025-11-08 06:14:38
+13654,754831,1,46345696,36',Rachid Kouda (Spezia) Goal at 36',2025-11-08 06:14:38
+13654,754831,2,46345750,36',Rachid Kouda (Spezia) Yellow Card at 36',2025-11-08 06:14:38
+13654,754831,3,46345865,42',Rachid Kouda (Spezia) Red Card at 42',2025-11-08 06:14:38
+13654,754831,4,46346332,47',Dimitris Nikolaou (Bari) Yellow Card at 47',2025-11-08 06:14:38
+13654,754831,5,46346689,63',Leonardo Cerri (Bari) Substitution at 63',2025-11-08 06:14:38
+13654,754831,6,46346690,63',Gaetano Castrovilli (Bari) Substitution at 63',2025-11-08 06:14:38
+13654,754831,7,46346691,64',Antonio Candela (Spezia) Substitution at 64',2025-11-08 06:14:38
+13654,754831,8,46346885,74',Matthias Braunöder (Bari) Substitution at 74',2025-11-08 06:14:38
+13654,754831,9,46346886,74',Emanuele Rao (Bari) Substitution at 74',2025-11-08 06:14:38
+13654,754831,10,46347001,79',Raffaele Pucino (Bari) Yellow Card at 79',2025-11-08 06:14:38
+13654,754831,11,46347022,80',Edoardo Soleri (Spezia) Substitution at 80',2025-11-08 06:14:38
+13654,754831,12,46347023,80',Gabriele Artistico (Spezia) Substitution at 80',2025-11-08 06:14:38
+13654,754831,13,46347024,81',Anthony Partipilo (Bari) Substitution at 81',2025-11-08 06:14:38
+13654,754831,14,46347191,90',Antonio Candela (Spezia) Yellow Card at 90',2025-11-08 06:14:38
+13654,754831,15,46347228,90'+3',Pietro Beruatto (Spezia) Substitution at 93',2025-11-08 06:14:38
+13654,754831,16,46347300,90'+8',Francesco Cassata (Spezia) Yellow Card at 98',2025-11-08 06:14:38
+13654,754832,0,46355715,20',Antonio Palumbo (Palermo) Yellow Card at 20',2025-11-09 15:08:00
+13654,754832,1,46356111,31',Matteo Brunori Sandri (Palermo) Yellow Card at 31',2025-11-09 15:08:00
+13654,754832,2,46356303,38',Alessio Cacciamani (Juve Stabia) Goal at 38',2025-11-09 15:08:00
+13654,754832,3,46356693,45',Patryk Peda (Palermo) Substitution at 45',2025-11-09 15:08:00
+13654,754832,4,46356954,62',Jeremy Le Douaron (Palermo) Substitution at 62',2025-11-09 15:08:00
+13654,754832,5,46356969,62',Aljosa Vasic (Palermo) Substitution at 62',2025-11-09 15:08:00
+13654,754832,6,46357082,71',Rares Burnete (Juve Stabia) Substitution at 71',2025-11-09 15:08:00
+13654,754832,7,46357083,71',Giacomo Corona (Palermo) Substitution at 71',2025-11-09 15:08:00
+13654,754832,8,46357130,72',Tommaso Augello (Palermo) Yellow Card at 72',2025-11-09 15:08:00
+13654,754832,9,46357138,73',Niccolò Pierozzi (Palermo) Yellow Card at 73',2025-11-09 15:08:00
+13654,754832,10,46357166,76',Salim Diakite (Palermo) Substitution at 76',2025-11-09 15:08:00
+13654,754832,11,46357216,79',Christian Pierobon (Juve Stabia) Substitution at 79',2025-11-09 15:08:00
+13654,754832,12,46357252,84',Filippo Ranocchia (Palermo) Yellow Card at 84',2025-11-09 15:08:00
+13654,754832,13,46357285,87',Leonardo Candellone (Juve Stabia) Yellow Card at 87',2025-11-09 15:08:00
+13654,754832,14,46357337,90',Filippo Ranocchia (Palermo) Red Card at 90',2025-11-09 15:08:00
+13654,754832,15,46357373,90'+3',Matteo Baldi (Juve Stabia) Substitution at 93',2025-11-09 15:08:00
+13654,754832,16,46357394,90'+5',Giacomo Corona (Palermo) Yellow Card at 95',2025-11-09 15:08:00
+13654,754833,0,46357996,21',Liam Henderson (Sampdoria) Yellow Card at 21',2025-11-09 15:08:00
+13654,754833,1,46358037,24',Gianluca Busio (Venezia) Goal at 24',2025-11-09 15:08:00
+13654,754833,2,46358145,31',Fabio Depaoli (Sampdoria) Yellow Card at 31',2025-11-09 15:08:00
+13654,754833,3,46358252,34',Antoine Hainaut (Venezia) Goal at 34',2025-11-09 15:08:00
+13654,754833,4,46358401,42',Nicholas Ioannou (Sampdoria) Yellow Card at 42',2025-11-09 15:08:00
+13654,754833,5,46358771,45',Marvin Cuni (Sampdoria) Substitution at 45',2025-11-09 15:08:00
+13654,754833,6,46358805,46',Ridgeciano Haps (Venezia) Yellow Card at 46',2025-11-09 15:08:00
+13654,754833,7,46359052,59',Lorenzo Venuti (Sampdoria) Substitution at 59',2025-11-09 15:08:00
+13654,754833,8,46359116,63',Daniel Fila (Venezia) Substitution at 63',2025-11-09 15:08:00
+13654,754833,9,46359117,63',Richie Sagrado (Venezia) Substitution at 63',2025-11-09 15:08:00
+13654,754833,10,46359148,67',Liam Henderson (Sampdoria) Goal at 67',2025-11-09 15:08:00
+13654,754833,11,46359204,72',Jordan Ferri (Sampdoria) Substitution at 72',2025-11-09 15:08:00
+13654,754833,12,46359269,76',Simone Giordano (Sampdoria) Yellow Card at 76',2025-11-09 15:08:00
+13654,754833,13,46359297,77',Daniel Fila (Venezia) Goal at 77',2025-11-09 15:08:00
+13654,754833,14,46359343,80',Alfred Duncan (Venezia) Substitution at 80',2025-11-09 15:08:00
+13654,754833,15,46359512,86',Jordan Ferri (Sampdoria) Yellow Card at 86',2025-11-09 15:08:00
+13654,754833,16,46359513,87',Nunzio Lella (Venezia) Substitution at 87',2025-11-09 15:08:00
+13654,754833,17,46359514,87',Michael Venturi (Venezia) Substitution at 87',2025-11-09 15:08:00
+13654,754833,18,46359531,88',Francesco Conti (Sampdoria) Substitution at 88',2025-11-09 15:08:00
+13654,754833,19,46359532,88',Tommaso Casalino (Sampdoria) Substitution at 88',2025-11-09 15:08:00
+13654,754834,0,46370356,11',Gabriele Corbo (Pescara) Yellow Card at 11',2025-11-10 06:11:26
+13654,754834,1,46370472,16',Keita Baldé (Monza) Yellow Card at 16',2025-11-10 06:11:26
+13654,754834,2,46370659,27',Keita Baldé (Monza) Goal at 27',2025-11-10 06:11:26
+13654,754834,3,46371457,47',Andrea Colpani (Monza) Goal at 47',2025-11-10 06:11:26
+13654,754834,4,46371666,58',Mirko Maric (Monza) Substitution at 58',2025-11-10 06:11:26
+13654,754834,5,46371704,58',Gianluca Caprari (Monza) Substitution at 58',2025-11-10 06:11:26
+13654,754834,6,46371705,58',Lorenzo Sgarbi (Pescara) Substitution at 58',2025-11-10 06:11:26
+13654,754834,7,46371706,58',Niccolò Squizzato (Pescara) Substitution at 58',2025-11-10 06:11:26
+13654,754834,8,46371707,59',Andrea Oliveri (Pescara) Substitution at 59',2025-11-10 06:11:26
+13654,754834,9,46372006,69',Samuele Birindelli (Monza) Substitution at 69',2025-11-10 06:11:26
+13654,754834,10,46372156,75',Orji Okwonkwo (Pescara) Substitution at 75',2025-11-10 06:11:26
+13654,754834,11,46372298,81',Lorenzo Lucchesi (Monza) Substitution at 81',2025-11-10 06:11:26
+13654,754834,12,46372299,81',Nicolas Galazzi (Monza) Substitution at 81',2025-11-10 06:11:26
+13654,754834,13,46372333,83',Alessandro Vinciguerra (Pescara) Substitution at 83',2025-11-10 06:11:26
+13654,754835,0,46351755,29',Giangiacomo Magnani (Reggiana) Yellow Card at 29',2025-11-09 15:08:00
+13654,754835,1,46352625,57',Ivan Marconi (Virtus Entella) Yellow Card at 57',2025-11-09 15:08:00
+13654,754835,2,46352795,63',Andrija Novakovich (Reggiana) Substitution at 63',2025-11-09 15:08:00
+13654,754835,3,46352826,64',Natan Girma (Reggiana) Substitution at 64',2025-11-09 15:08:00
+13654,754835,4,46352932,66',Manuel Marras (Reggiana) Yellow Card at 66',2025-11-09 15:08:00
+13654,754835,5,46353086,72',Matto Rover (Reggiana) Substitution at 72',2025-11-09 15:08:00
+13654,754835,6,46353087,72',Francesco Mezzoni (Virtus Entella) Substitution at 72',2025-11-09 15:08:00
+13654,754835,7,46353088,72',Flavio Russo (Virtus Entella) Substitution at 72',2025-11-09 15:08:00
+13654,754835,8,46353370,78',Marco Emilio Nichetti (Virtus Entella) Substitution at 78',2025-11-09 15:08:00
+13654,754835,9,46353371,78',Bernat Guiu (Virtus Entella) Substitution at 78',2025-11-09 15:08:00
+13654,754835,10,46353595,84',Leo Stulac (Reggiana) Substitution at 84',2025-11-09 15:08:00
+13654,754836,0,46351396,9',Ilias Koutsoupias (Frosinone) Goal at 9',2025-11-09 15:08:00
+13654,754836,1,46352417,50',Giacomo Calo (Frosinone) Goal at 50',2025-11-09 15:08:00
+13654,754836,2,46352594,55',Niklas Pyyhtia (Modena) Substitution at 55',2025-11-09 15:08:00
+13654,754836,3,46352595,55',Grégoire Defrel (Modena) Substitution at 55',2025-11-09 15:08:00
+13654,754836,4,46352611,56',Francesco Zampano (Modena) Goal at 56',2025-11-09 15:08:00
+13654,754836,5,46352885,63',Giacomo Calo (Frosinone) Yellow Card at 63',2025-11-09 15:08:00
+13654,754836,6,46352985,67',Gady Beyuku (Modena) Substitution at 67',2025-11-09 15:08:00
+13654,754836,7,46353036,67',Pedro Mendes (Modena) Substitution at 67',2025-11-09 15:08:00
+13654,754836,8,46353037,67',Massimo Zilli (Frosinone) Substitution at 67',2025-11-09 15:08:00
+13654,754836,9,46353038,68',Matteo Cichella (Frosinone) Substitution at 68',2025-11-09 15:08:00
+13654,754836,10,46353241,73',Niccolò Corrado (Frosinone) Substitution at 73',2025-11-09 15:08:00
+13654,754836,11,46353415,77',Yanis Massolin (Modena) Substitution at 77',2025-11-09 15:08:00
+13654,754836,12,46353767,85',Giorgio Cittadini (Frosinone) Substitution at 85',2025-11-09 15:08:00
+13654,754836,13,46353768,85',Edoardo Vergani (Frosinone) Substitution at 85',2025-11-09 15:08:00
+13654,754836,14,46354013,89',Yanis Massolin (Modena) Goal at 89',2025-11-09 15:08:00
+13654,754836,15,46354091,89',Leandro Chichizola (Modena) Yellow Card at 89',2025-11-09 15:08:00
+13654,754836,16,46354014,90'+2',Gabriele Bracaglia (Frosinone) Yellow Card at 92',2025-11-09 15:08:00
+13654,754836,17,46354126,90'+8',Massimo Zilli (Frosinone) Yellow Card at 98',2025-11-09 15:08:00
+13654,754837,0,46351493,14',Silvio Merkaj (Suditrol) Red Card at 14',2025-11-09 15:08:00
+13654,754837,1,46351504,14',Emanuele Zuelli (Carrarese) Yellow Card at 14',2025-11-09 15:08:00
+13654,754837,2,46351824,34',Nikola Sekulov (Carrarese) Yellow Card at 34',2025-11-09 15:08:00
+13654,754837,3,46352205,45',Ernesto Torregrossa (Carrarese) Substitution at 45',2025-11-09 15:08:00
+13654,754837,4,46352311,49',Nicholas Schiavi (Carrarese) Penalty - Scored at 49',2025-11-09 15:08:00
+13654,754837,5,46352407,52',Raphael Odogwu (Suditrol) Goal at 52',2025-11-09 15:08:00
+13654,754837,6,46352872,65',Niccolò Belloni (Carrarese) Substitution at 65',2025-11-09 15:08:00
+13654,754837,7,46352873,65',Filippo Distefano (Carrarese) Substitution at 65',2025-11-09 15:08:00
+13654,754837,8,46353141,74',Mamadou Coulibaly (Suditrol) Substitution at 74',2025-11-09 15:08:00
+13654,754837,9,46353639,85',Karim Zedadka (Suditrol) Substitution at 85',2025-11-09 15:08:00
+13654,754837,10,46353640,85',Devid Eugene Bouah (Carrarese) Substitution at 85',2025-11-09 15:08:00
+13654,754837,11,46353922,90'+2',Emanuele Pecorino (Suditrol) Substitution at 92',2025-11-09 15:08:00
+13654,754837,12,46353969,90'+2',Tommaso Rubino (Carrarese) Substitution at 92',2025-11-09 15:08:00
+13654,754838,0,46352485,56',Alessandro Seghetti (Padova) Substitution at 56',2025-11-09 15:08:00
+13654,754838,1,46352523,56',Jonas Harder (Padova) Substitution at 56',2025-11-09 15:08:00
+13654,754838,2,46352820,64',Marco Perrotta (Padova) Yellow Card at 64',2025-11-09 15:08:00
+13654,754838,3,46352821,65',César Falletti (Mantova) Substitution at 65',2025-11-09 15:08:00
+13654,754838,4,46352928,69',Carlo Faedo (Padova) Substitution at 69',2025-11-09 15:08:00
+13654,754838,5,46352971,69',Paolo Ghiglione (Padova) Substitution at 69',2025-11-09 15:08:00
+13654,754838,6,46353010,70',Pietro Fusi (Padova) Yellow Card at 70',2025-11-09 15:08:00
+13654,754838,7,46353014,72',Davis Mensah (Mantova) Substitution at 72',2025-11-09 15:08:00
+13654,754838,8,46353044,72',Tommaso Marras (Mantova) Substitution at 72',2025-11-09 15:08:00
+13654,754838,9,46353142,75',Cristiano Bani (Mantova) Yellow Card at 75',2025-11-09 15:08:00
+13654,754838,10,46353218,76',Daniele Baselli (Padova) Substitution at 76',2025-11-09 15:08:00
+13654,754838,11,46353368,80',Tommaso Maggioni (Mantova) Substitution at 80',2025-11-09 15:08:00
+13654,754838,12,46353424,80',David Wieser (Mantova) Substitution at 80',2025-11-09 15:08:00
+13654,754838,13,46353558,84',Francesco Ruocco (Mantova) Goal at 84',2025-11-09 15:08:00
+13654,754838,14,46353644,85',Francesco Ruocco (Mantova) Yellow Card at 85',2025-11-09 15:08:00
+13654,754838,15,46353959,90'+4',Daniele Baselli (Padova) Yellow Card at 94',2025-11-09 15:08:00

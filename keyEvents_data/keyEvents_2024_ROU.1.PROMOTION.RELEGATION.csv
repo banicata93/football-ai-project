@@ -1,0 +1,104 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13374,735814,1,45316826,70,1,720,12',1,0,Stefan Stefanovici (Politehnica Iasi) Goal at 12',Stefan Stefanovici Goal,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,363261,2025-05-26 04:54:27
+13374,735814,2,45316894,76,2,2700,45',0,0,Razvan Milea (Metaloglobus) Substitution at 45',Razvan Milea Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,403662,2025-05-26 04:54:27
+13374,735814,2,45316894,76,2,2700,45',0,0,Razvan Milea (Metaloglobus) Substitution at 45',Razvan Milea Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,2,324240,2025-05-26 04:54:27
+13374,735814,3,45316911,94,2,3300,55',0,0,Mihai Adascalitei (Politehnica Iasi) Yellow Card at 55',Mihai Adascalitei Yellow Card,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,363233,2025-05-26 04:54:27
+13374,735814,4,45316912,76,2,3300,55',0,0,Seydou Issah (Metaloglobus) Substitution at 55',Seydou Issah Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,313041,2025-05-26 04:54:27
+13374,735814,4,45316912,76,2,3300,55',0,0,Seydou Issah (Metaloglobus) Substitution at 55',Seydou Issah Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,2,403666,2025-05-26 04:54:27
+13374,735814,5,45316913,76,2,3360,56',0,0,David Irimia (Metaloglobus) Substitution at 56',David Irimia Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,362856,2025-05-26 04:54:27
+13374,735814,5,45316913,76,2,3360,56',0,0,David Irimia (Metaloglobus) Substitution at 56',David Irimia Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,2,362857,2025-05-26 04:54:27
+13374,735814,6,45316915,94,2,3420,57',0,0,Christ Kouadio (Metaloglobus) Yellow Card at 57',Christ Kouadio Yellow Card,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,272515,2025-05-26 04:54:27
+13374,735814,7,45316916,174,2,3480,58',0,0,Alin Roman (Politehnica Iasi) Penalty - Saved at 58',Alin Roman Penalty - Saved,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,232326,2025-05-26 04:54:27
+13374,735814,8,45316931,76,2,3780,63',0,0,Stefan Visic (Metaloglobus) Substitution at 63',Stefan Visic Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,403660,2025-05-26 04:54:27
+13374,735814,8,45316931,76,2,3780,63',0,0,Stefan Visic (Metaloglobus) Substitution at 63',Stefan Visic Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,2,403663,2025-05-26 04:54:27
+13374,735814,9,45316933,76,2,3840,64',0,0,Xhuliano Skuka (Politehnica Iasi) Substitution at 64',Xhuliano Skuka Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,342530,2025-05-26 04:54:27
+13374,735814,9,45316933,76,2,3840,64',0,0,Xhuliano Skuka (Politehnica Iasi) Substitution at 64',Xhuliano Skuka Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,2,306313,2025-05-26 04:54:27
+13374,735814,9,45316933,76,2,3840,64',0,0,Xhuliano Skuka (Politehnica Iasi) Substitution at 64',Xhuliano Skuka Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,2,285119,2025-05-26 04:54:27
+13374,735814,10,45316947,94,2,4020,67',0,0,Alin Roman (Politehnica Iasi) Yellow Card at 67',Alin Roman Yellow Card,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,232326,2025-05-26 04:54:27
+13374,735814,11,45316950,76,2,4140,69',0,0,João Amaral (Politehnica Iasi) Substitution at 69',João Amaral Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,239295,2025-05-26 04:54:27
+13374,735814,11,45316950,76,2,4140,69',0,0,João Amaral (Politehnica Iasi) Substitution at 69',João Amaral Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,2,232326,2025-05-26 04:54:27
+13374,735814,12,45316959,94,2,4260,71',0,0,Matija Boben (Politehnica Iasi) Yellow Card at 71',Matija Boben Yellow Card,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,237854,2025-05-26 04:54:27
+13374,735814,13,45316980,76,2,4560,76',0,0,Catalin Cret (Politehnica Iasi) Substitution at 76',Catalin Cret Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,399308,2025-05-26 04:54:27
+13374,735814,13,45316980,76,2,4560,76',0,0,Catalin Cret (Politehnica Iasi) Substitution at 76',Catalin Cret Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,2,363233,2025-05-26 04:54:27
+13374,735814,14,45317009,70,2,5160,86',1,0,Dragos Huiban (Metaloglobus) Goal at 86',Dragos Huiban Goal,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,259667,2025-05-26 04:54:27
+13374,735814,15,45317017,76,2,5220,87',0,0,Alexandru Gheorghe (Metaloglobus) Substitution at 87',Alexandru Gheorghe Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,336567,2025-05-26 04:54:27
+13374,735814,15,45317017,76,2,5220,87',0,0,Alexandru Gheorghe (Metaloglobus) Substitution at 87',Alexandru Gheorghe Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,2,259667,2025-05-26 04:54:27
+13374,735815,1,45325538,70,1,1260,21',1,0,Vlad Andres (Voluntari) Goal at 21',Vlad Andres Goal,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,322785,2025-05-27 04:53:49
+13374,735815,2,45325542,70,1,1920,32',1,0,Jakub Vojtus (Unirea Slobozia) Goal at 32',Jakub Vojtus Goal,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,192355,2025-05-27 04:53:49
+13374,735815,3,45325543,94,1,2280,38',0,0,Jakub Vojtus (Unirea Slobozia) Yellow Card at 38',Jakub Vojtus Yellow Card,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,192355,2025-05-27 04:53:49
+13374,735815,4,45325551,94,1,2580,43',0,0,Rafael Garutti (Voluntari) Yellow Card at 43',Rafael Garutti Yellow Card,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,384442,2025-05-27 04:53:49
+13374,735815,5,45325559,76,2,2700,45',0,0,Ionut Pantiru (Voluntari) Substitution at 45',Ionut Pantiru Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,251698,2025-05-27 04:53:49
+13374,735815,5,45325559,76,2,2700,45',0,0,Ionut Pantiru (Voluntari) Substitution at 45',Ionut Pantiru Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,2,320969,2025-05-27 04:53:49
+13374,735815,6,45325561,94,2,2880,48',0,0,Andrei-Cristian Dorobantu (Unirea Slobozia) Yellow Card at 48',Andrei-Cristian Dorobantu Yellow,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,386324,2025-05-27 04:53:49
+13374,735815,7,45325575,94,2,3660,61',0,0,Andrei Pitian (Voluntari) Yellow Card at 61',Andrei Pitian Yellow Card,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,196668,2025-05-27 04:53:49
+13374,735815,9,45325585,76,2,3840,64',0,0,Laurentiu Vlasceanu (Unirea Slobozia) Substitution at 64',Laurentiu Vlasceanu Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,339105,2025-05-27 04:53:49
+13374,735815,8,45325582,76,2,3840,64',0,0,Marius Lupu (Unirea Slobozia) Substitution at 64',Marius Lupu Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,385389,2025-05-27 04:53:49
+13374,735815,9,45325585,76,2,3840,64',0,0,Laurentiu Vlasceanu (Unirea Slobozia) Substitution at 64',Laurentiu Vlasceanu Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,2,240544,2025-05-27 04:53:49
+13374,735815,8,45325582,76,2,3840,64',0,0,Marius Lupu (Unirea Slobozia) Substitution at 64',Marius Lupu Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,2,239733,2025-05-27 04:53:49
+13374,735815,10,45325589,94,2,3900,65',0,0,Rassambek Akhmatov (Unirea Slobozia) Yellow Card at 65',Rassambek Akhmatov Yellow Card,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,277390,2025-05-27 04:53:49
+13374,735815,12,45325594,76,2,4080,68',0,0,Marvin Schieb (Voluntari) Substitution at 68',Marvin Schieb Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,250642,2025-05-27 04:53:49
+13374,735815,11,45325593,76,2,4080,68',0,0,Mihael Onisa (Voluntari) Substitution at 68',Mihael Onisa Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,303915,2025-05-27 04:53:49
+13374,735815,11,45325593,76,2,4080,68',0,0,Mihael Onisa (Voluntari) Substitution at 68',Mihael Onisa Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,2,239854,2025-05-27 04:53:49
+13374,735815,12,45325594,76,2,4080,68',0,0,Marvin Schieb (Voluntari) Substitution at 68',Marvin Schieb Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,2,296560,2025-05-27 04:53:49
+13374,735815,14,45325604,76,2,4320,72',0,0,Bachana Arabuli (Unirea Slobozia) Substitution at 72',Bachana Arabuli Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,205246,2025-05-27 04:53:49
+13374,735815,13,45325602,76,2,4320,72',0,0,Ionut Coada (Unirea Slobozia) Substitution at 72',Ionut Coada Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,386321,2025-05-27 04:53:49
+13374,735815,14,45325604,76,2,4320,72',0,0,Bachana Arabuli (Unirea Slobozia) Substitution at 72',Bachana Arabuli Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,2,192355,2025-05-27 04:53:49
+13374,735815,13,45325602,76,2,4320,72',0,0,Ionut Coada (Unirea Slobozia) Substitution at 72',Ionut Coada Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,2,289835,2025-05-27 04:53:49
+13374,735815,15,45325637,70,2,5160,86',1,0,Marvin Schieb (Voluntari) Goal at 86',Marvin Schieb Goal,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,250642,2025-05-27 04:53:49
+13374,735815,16,45325640,76,2,5340,89',0,0,Vl&#259;Du&#539; Andrei Pandele (Voluntari) Substitution at 89',Vl&#259;Du&#539; Andrei Pandele ,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,301866,2025-05-27 04:53:49
+13374,735815,16,45325640,76,2,5340,89',0,0,Vl&#259;Du&#539; Andrei Pandele (Voluntari) Substitution at 89',Vl&#259;Du&#539; Andrei Pandele ,18332,0.0,0.0,0.0,0.0,0.0,0.0,2,275147,2025-05-27 04:53:49
+13374,735815,17,45325650,76,2,5400,90'+2',0,0,Dmitro Yusov (Unirea Slobozia) Substitution at 92',Dmitro Yusov Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,323774,2025-05-27 04:53:49
+13374,735815,17,45325650,76,2,5400,90'+2',0,0,Dmitro Yusov (Unirea Slobozia) Substitution at 92',Dmitro Yusov Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,2,386325,2025-05-27 04:53:49
+13374,735816,1,45344411,76,1,2100,35',0,0,Julián Marchio (Politehnica Iasi) Substitution at 35',Julián Marchio Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,200106,2025-06-03 04:52:04
+13374,735816,1,45344411,76,1,2100,35',0,0,Julián Marchio (Politehnica Iasi) Substitution at 35',Julián Marchio Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,2,288655,2025-06-03 04:52:04
+13374,735816,2,45344541,94,2,3120,52',0,0,Júnior Morais  (Metaloglobus) Yellow Card at 52',Júnior Morais  Yellow Card,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,212323,2025-06-02 04:55:15
+13374,735816,3,45344553,76,2,3360,56',0,0,Adrian Sîrbu (Metaloglobus) Substitution at 56',Adrian Sîrbu Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,403663,2025-06-02 04:55:15
+13374,735816,3,45344553,76,2,3360,56',0,0,Adrian Sîrbu (Metaloglobus) Substitution at 56',Adrian Sîrbu Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,2,362857,2025-06-02 04:55:15
+13374,735816,4,45344567,76,2,3420,57',0,0,Yassine Zakir (Metaloglobus) Substitution at 57',Yassine Zakir Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,324240,2025-06-02 04:55:15
+13374,735816,4,45344567,76,2,3420,57',0,0,Yassine Zakir (Metaloglobus) Substitution at 57',Yassine Zakir Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,2,403660,2025-06-02 04:55:15
+13374,735816,5,45344638,76,2,4020,67',0,0,Xhuliano Skuka (Politehnica Iasi) Substitution at 67',Xhuliano Skuka Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,342530,2025-06-02 04:55:15
+13374,735816,5,45344638,76,2,4020,67',0,0,Xhuliano Skuka (Politehnica Iasi) Substitution at 67',Xhuliano Skuka Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,2,306313,2025-06-02 04:55:15
+13374,735816,5,45344638,76,2,4020,67',0,0,Xhuliano Skuka (Politehnica Iasi) Substitution at 67',Xhuliano Skuka Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,2,285119,2025-06-02 04:55:15
+13374,735816,6,45344665,94,2,4140,69',0,0,Samuel Oum Gouet (Politehnica Iasi) Yellow Card at 69',Samuel Oum Gouet Yellow Card,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,232545,2025-06-02 04:55:15
+13374,735816,7,45344695,94,2,4500,75',0,0,Matija Boben (Politehnica Iasi) Yellow Card at 75',Matija Boben Yellow Card,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,237854,2025-06-02 04:55:15
+13374,735816,8,45344722,94,2,4740,79',0,0,Seydou Issah (Metaloglobus) Yellow Card at 79',Seydou Issah Yellow Card,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,313041,2025-06-02 04:55:15
+13374,735816,9,45344751,76,2,4920,82',0,0,Gabriel Dumitru (Metaloglobus) Substitution at 82',Gabriel Dumitru Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,403666,2025-06-02 04:55:15
+13374,735816,10,45344752,76,2,4920,82',0,0,David Irimia (Metaloglobus) Substitution at 82',David Irimia Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,362856,2025-06-02 04:55:15
+13374,735816,9,45344751,76,2,4920,82',0,0,Gabriel Dumitru (Metaloglobus) Substitution at 82',Gabriel Dumitru Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,2,313041,2025-06-02 04:55:15
+13374,735816,10,45344752,76,2,4920,82',0,0,David Irimia (Metaloglobus) Substitution at 82',David Irimia Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,2,403662,2025-06-02 04:55:15
+13374,735816,11,45344780,70,2,5100,85',1,0,Dragos Huiban (Metaloglobus) Goal at 85',Dragos Huiban Goal,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,259667,2025-06-02 04:55:15
+13374,735816,12,45344798,94,2,5160,86',0,0,Dragos Huiban (Metaloglobus) Yellow Card at 86',Dragos Huiban Yellow Card,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,259667,2025-06-02 04:55:15
+13374,735816,13,45344799,94,2,5220,87',0,0,Dragos Irimia (Metaloglobus) Yellow Card at 87',Dragos Irimia Yellow Card,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,362857,2025-06-02 04:55:15
+13374,735816,14,45344820,76,2,5340,89',0,0,Catalin Cret (Politehnica Iasi) Substitution at 89',Catalin Cret Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,399308,2025-06-02 04:55:15
+13374,735816,14,45344820,76,2,5340,89',0,0,Catalin Cret (Politehnica Iasi) Substitution at 89',Catalin Cret Substitution,18320,0.0,0.0,0.0,0.0,0.0,0.0,2,232545,2025-06-02 04:55:15
+13374,735816,15,45344848,94,2,5400,90'+2',0,0,Sékou Amadou Camara (Politehnica Iasi) Yellow Card at 92',Sékou Amadou Camara Yellow Card,18320,0.0,0.0,0.0,0.0,0.0,0.0,1,74522,2025-06-02 04:55:15
+13374,735816,16,45344849,76,2,5400,90'+3',0,0,Alexandru Gheorghe (Metaloglobus) Substitution at 93',Alexandru Gheorghe Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,1,336567,2025-06-02 04:55:15
+13374,735816,16,45344849,76,2,5400,90'+3',0,0,Alexandru Gheorghe (Metaloglobus) Substitution at 93',Alexandru Gheorghe Substitution,130880,0.0,0.0,0.0,0.0,0.0,0.0,2,259667,2025-06-02 04:55:15
+13374,735817,1,45347962,76,1,1260,21',0,0,Mihael Onisa (Voluntari) Substitution at 21',Mihael Onisa Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,303915,2025-06-03 04:52:04
+13374,735817,1,45347962,76,1,1260,21',0,0,Mihael Onisa (Voluntari) Substitution at 21',Mihael Onisa Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,2,196668,2025-06-03 04:52:04
+13374,735817,2,45347963,76,1,1560,26',0,0,Jakub Vojtus (Unirea Slobozia) Substitution at 26',Jakub Vojtus Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,192355,2025-06-03 04:52:04
+13374,735817,2,45347963,76,1,1560,26',0,0,Jakub Vojtus (Unirea Slobozia) Substitution at 26',Jakub Vojtus Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,2,277390,2025-06-03 04:52:04
+13374,735817,3,45347964,70,1,2460,41',1,0,Bachana Arabuli (Unirea Slobozia) Goal at 41',Bachana Arabuli Goal,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,205246,2025-06-03 04:52:04
+13374,735817,4,45347965,76,2,2700,45',0,0,Cristian Barbut (Unirea Slobozia) Substitution at 45',Cristian Barbut Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,240544,2025-06-03 04:52:04
+13374,735817,4,45347965,76,2,2700,45',0,0,Cristian Barbut (Unirea Slobozia) Substitution at 45',Cristian Barbut Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,2,386325,2025-06-03 04:52:04
+13374,735817,6,45347967,76,2,3300,55',0,0,Marvin Schieb (Voluntari) Substitution at 55',Marvin Schieb Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,250642,2025-06-03 04:52:04
+13374,735817,5,45347966,76,2,3300,55',0,0,Ioan Andrei Vasile Dumiter (Voluntari) Substitution at 55',Ioan Andrei Vasile Dumiter Subst,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,289921,2025-06-03 04:52:04
+13374,735817,6,45347967,76,2,3300,55',0,0,Marvin Schieb (Voluntari) Substitution at 55',Marvin Schieb Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,2,239854,2025-06-03 04:52:04
+13374,735817,5,45347966,76,2,3300,55',0,0,Ioan Andrei Vasile Dumiter (Voluntari) Substitution at 55',Ioan Andrei Vasile Dumiter Subst,18332,0.0,0.0,0.0,0.0,0.0,0.0,2,111956,2025-06-03 04:52:04
+13374,735817,7,45347969,94,2,3660,61',0,0,Alexandru Dinu (Unirea Slobozia) Yellow Card at 61',Alexandru Dinu Yellow Card,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,345298,2025-06-03 04:52:04
+13374,735817,8,45347970,76,2,4020,67',0,0,Ionut Coada (Unirea Slobozia) Substitution at 67',Ionut Coada Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,386321,2025-06-03 04:52:04
+13374,735817,8,45347970,76,2,4020,67',0,0,Ionut Coada (Unirea Slobozia) Substitution at 67',Ionut Coada Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,2,239733,2025-06-03 04:52:04
+13374,735817,9,45347971,76,2,4260,71',0,0,Remus Gutea (Voluntari) Substitution at 71',Remus Gutea Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,355530,2025-06-03 04:52:04
+13374,735817,9,45347971,76,2,4260,71',0,0,Remus Gutea (Voluntari) Substitution at 71',Remus Gutea Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,2,296560,2025-06-03 04:52:04
+13374,735817,10,45347972,76,2,4680,78',0,0,Florinel Ibrian (Unirea Slobozia) Substitution at 78',Florinel Ibrian Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,386328,2025-06-03 04:52:04
+13374,735817,10,45347972,76,2,4680,78',0,0,Florinel Ibrian (Unirea Slobozia) Substitution at 78',Florinel Ibrian Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,2,386324,2025-06-03 04:52:04
+13374,735817,11,45347974,94,2,4980,83',0,0,Florinel Ibrian (Unirea Slobozia) Yellow Card at 83',Florinel Ibrian Yellow Card,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,386328,2025-06-03 04:52:04
+13374,735817,12,45347980,76,3,5400,90',0,0,Constantin Toma (Unirea Slobozia) Substitution at 90',Constantin Toma Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,386327,2025-06-03 04:52:04
+13374,735817,12,45347980,76,3,5400,90',0,0,Constantin Toma (Unirea Slobozia) Substitution at 90',Constantin Toma Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,2,305769,2025-06-03 04:52:04
+13374,735817,13,45347981,94,3,5640,94',0,0,Rafael Garutti (Voluntari) Yellow Card at 94',Rafael Garutti Yellow Card,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,384442,2025-06-03 04:52:04
+13374,735817,15,45347988,76,3,6180,103',0,0,Ionut Pantiru (Voluntari) Substitution at 103',Ionut Pantiru Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,251698,2025-06-03 04:52:04
+13374,735817,14,45347985,76,3,6180,103',0,0,Radu Crisan (Voluntari) Substitution at 103',Radu Crisan Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,1,239579,2025-06-03 04:52:04
+13374,735817,14,45347985,76,3,6180,103',0,0,Radu Crisan (Voluntari) Substitution at 103',Radu Crisan Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,2,322785,2025-06-03 04:52:04
+13374,735817,15,45347988,76,3,6180,103',0,0,Ionut Pantiru (Voluntari) Substitution at 103',Ionut Pantiru Substitution,18332,0.0,0.0,0.0,0.0,0.0,0.0,2,320969,2025-06-03 04:52:04
+13374,735817,16,45347990,76,4,6420,107',0,0,Laurentiu Vlasceanu (Unirea Slobozia) Substitution at 107',Laurentiu Vlasceanu Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,1,339105,2025-06-03 04:52:04
+13374,735817,16,45347990,76,4,6420,107',0,0,Laurentiu Vlasceanu (Unirea Slobozia) Substitution at 107',Laurentiu Vlasceanu Substitution,22314,0.0,0.0,0.0,0.0,0.0,0.0,2,239443,2025-06-03 04:52:04

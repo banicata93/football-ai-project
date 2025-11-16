@@ -1,0 +1,151 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+12854,733139,1,44823391,97,Sandra Estévez (Granada) Own Goal at 14',Sandra Estévez Own Goal,1,840,14',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,,Sandra Estévez,2025-03-13 04:50:45
+12854,733139,2,44814381,94,Silvia Lloris (Atlético Madrid) Yellow Card at 23',Silvia Lloris Yellow Card,1,1380,23',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335780.0,Silvia Lloris,2025-03-13 04:50:45
+12854,733139,3,44814398,94,Laura Requena (Granada) Yellow Card at 27',Laura Requena Yellow Card,1,1620,27',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334526.0,Laura Requena,2025-03-13 04:50:45
+12854,733139,4,44814422,94,Cristina Postigo (Granada) Yellow Card at 37',Cristina Postigo Yellow Card,1,2220,37',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328657.0,Cristina Postigo,2025-03-13 04:50:45
+12854,733139,5,44814493,94,Gaby García (Atlético Madrid) Yellow Card at 55',Gaby García Yellow Card,2,3300,55',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,331162.0,Gaby García,2025-03-13 04:50:45
+12854,733139,6,44814497,70,Giovana (Atlético Madrid) Goal at 61',Giovana Goal,2,3660,61',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,305982.0,Giovana,2025-03-13 04:50:45
+12854,733139,7,44814507,76,Lauren (Atlético Madrid) Substitution at 63',Lauren Substitution,2,3780,63',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328198.0,Lauren,2025-03-13 04:50:45
+12854,733139,7,44814507,76,Lauren (Atlético Madrid) Substitution at 63',Lauren Substitution,2,3780,63',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,252363.0,Vilde Boe Risa,2025-03-13 04:50:45
+12854,733139,8,44814508,76,Edna Imade (Granada) Substitution at 64',Edna Imade Substitution,2,3840,64',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,371856.0,Edna Imade,2025-03-13 04:50:45
+12854,733139,9,44814509,76,Fiamma Iannuzzi (Atlético Madrid) Substitution at 64',Fiamma Iannuzzi Substitution,2,3840,64',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335788.0,Fiamma Iannuzzi,2025-03-13 04:50:45
+12854,733139,8,44814508,76,Edna Imade (Granada) Substitution at 64',Edna Imade Substitution,2,3840,64',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279210.0,Andrea Gómez,2025-03-13 04:50:45
+12854,733139,9,44814509,76,Fiamma Iannuzzi (Atlético Madrid) Substitution at 64',Fiamma Iannuzzi Substitution,2,3840,64',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,252358.0,Synne Jensen,2025-03-13 04:50:45
+12854,733139,10,44814541,76,Paula Arana (Granada) Substitution at 74',Paula Arana Substitution,2,4440,74',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333474.0,Paula Arana,2025-03-13 04:50:45
+12854,733139,11,44814542,76,Miku Ito (Granada) Substitution at 74',Miku Ito Substitution,2,4440,74',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333448.0,Miku Ito,2025-03-13 04:50:45
+12854,733139,10,44814541,76,Paula Arana (Granada) Substitution at 74',Paula Arana Substitution,2,4440,74',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334526.0,Laura Requena,2025-03-13 04:50:45
+12854,733139,11,44814542,76,Miku Ito (Granada) Substitution at 74',Miku Ito Substitution,2,4440,74',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333519.0,Leles,2025-03-13 04:50:45
+12854,733139,12,44814557,76,Marta Cardona (Atlético Madrid) Substitution at 78',Marta Cardona Substitution,2,4680,78',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,296499.0,Marta Cardona,2025-03-13 04:50:45
+12854,733139,12,44814557,76,Marta Cardona (Atlético Madrid) Substitution at 78',Marta Cardona Substitution,2,4680,78',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,305982.0,Giovana,2025-03-13 04:50:45
+12854,733139,13,44814607,174,Lauren (Atlético Madrid) Penalty - Saved at 93',Lauren Penalty - Saved,2,5400,90'+3',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328198.0,Lauren,2025-03-13 04:50:45
+12854,733139,14,44814608,94,Luany (Atlético Madrid) Yellow Card at 94',Luany Yellow Card,2,5400,90'+4',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,358743.0,Luany,2025-03-13 04:50:45
+12854,733140,1,44863839,70,Giovana  (Atlético Madrid) Goal at 15',Giovana  Goal,1,900,15',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,305982.0,Giovana,2025-03-14 04:55:06
+12854,733140,2,44863905,94,Giovana  (Atlético Madrid) Yellow Card at 22',Giovana  Yellow Card,1,1320,22',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,305982.0,Giovana,2025-03-14 04:55:06
+12854,733140,3,44864320,94,Alba Pérez (Granada) Yellow Card at 43',Alba Pérez Yellow Card,1,2580,43',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334507.0,Alba Pérez,2025-03-14 04:55:06
+12854,733140,4,44864343,94,Vilde Boe Risa (Atlético Madrid) Yellow Card at 45',Vilde Boe Risa Yellow Card,1,2700,45',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,252363.0,Vilde Boe Risa,2025-03-14 04:55:06
+12854,733140,5,44864668,94,Lauren  (Atlético Madrid) Yellow Card at 47',Lauren  Yellow Card,2,2820,47',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328198.0,Lauren,2025-03-14 04:55:06
+12854,733140,6,44864736,94,Andrea Medina (Atlético Madrid) Yellow Card at 51',Andrea Medina Yellow Card,2,3060,51',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333528.0,Andrea Medina,2025-03-14 04:55:06
+12854,733140,7,44864752,70,Giovana  (Atlético Madrid) Goal at 53',Giovana  Goal,2,3180,53',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,305982.0,Giovana,2025-03-14 04:55:06
+12854,733140,8,44864792,76,Ana Vitória (Atlético Madrid) Substitution at 59',Ana Vitória Substitution,2,3540,59',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,310885.0,Ana Vitória,2025-03-14 04:55:06
+12854,733140,9,44864793,76,Sheila Guijarro (Atlético Madrid) Substitution at 59',Sheila Guijarro Substitution,2,3540,59',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333578.0,Sheila Guijarro,2025-03-14 04:55:06
+12854,733140,10,44864794,76,Synne Jensen (Atlético Madrid) Substitution at 59',Synne Jensen Substitution,2,3540,59',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,252358.0,Synne Jensen,2025-03-14 04:55:06
+12854,733140,8,44864792,76,Ana Vitória (Atlético Madrid) Substitution at 59',Ana Vitória Substitution,2,3540,59',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,305982.0,Giovana,2025-03-14 04:55:06
+12854,733140,9,44864793,76,Sheila Guijarro (Atlético Madrid) Substitution at 59',Sheila Guijarro Substitution,2,3540,59',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,252363.0,Vilde Boe Risa,2025-03-14 04:55:06
+12854,733140,10,44864794,76,Synne Jensen (Atlético Madrid) Substitution at 59',Synne Jensen Substitution,2,3540,59',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,358743.0,Luany,2025-03-14 04:55:06
+12854,733140,11,44864797,70,Synne Jensen (Atlético Madrid) Goal at 60',Synne Jensen Goal,2,3600,60',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,252358.0,Synne Jensen,2025-03-14 04:55:06
+12854,733140,12,44864808,76,Andrea Gómez (Granada) Substitution at 65',Andrea Gómez Substitution,2,3900,65',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279210.0,Andrea Gómez,2025-03-14 04:55:06
+12854,733140,13,44864809,76,Isabel Álvarez (Granada) Substitution at 65',Isabel Álvarez Substitution,2,3900,65',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335770.0,Isabel Álvarez,2025-03-14 04:55:06
+12854,733140,12,44864808,76,Andrea Gómez (Granada) Substitution at 65',Andrea Gómez Substitution,2,3900,65',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,355154.0,Alexia Fernández,2025-03-14 04:55:06
+12854,733140,13,44864809,76,Isabel Álvarez (Granada) Substitution at 65',Isabel Álvarez Substitution,2,3900,65',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334507.0,Alba Pérez,2025-03-14 04:55:06
+12854,733140,14,44864810,76,Fiamma Iannuzzi (Atlético Madrid) Substitution at 66',Fiamma Iannuzzi Substitution,2,3960,66',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335788.0,Fiamma Iannuzzi,2025-03-14 04:55:06
+12854,733140,15,44864811,76,Laura Tanarro (Atlético Madrid) Substitution at 66',Laura Tanarro Substitution,2,3960,66',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,311208.0,Laura Tanarro,2025-03-14 04:55:06
+12854,733140,14,44864810,76,Fiamma Iannuzzi (Atlético Madrid) Substitution at 66',Fiamma Iannuzzi Substitution,2,3960,66',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333528.0,Andrea Medina,2025-03-14 04:55:06
+12854,733140,15,44864811,76,Laura Tanarro (Atlético Madrid) Substitution at 66',Laura Tanarro Substitution,2,3960,66',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,259762.0,Tatiana Pinto,2025-03-14 04:55:06
+12854,733140,16,44864842,76,Miku Ito (Granada) Substitution at 70',Miku Ito Substitution,2,4200,70',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333448.0,Miku Ito,2025-03-14 04:55:06
+12854,733140,16,44864842,76,Miku Ito (Granada) Substitution at 70',Miku Ito Substitution,2,4200,70',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,371856.0,Edna Imade,2025-03-14 04:55:06
+12854,733140,17,44864843,76,Paula Arana (Granada) Substitution at 71',Paula Arana Substitution,2,4260,71',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333474.0,Paula Arana,2025-03-14 04:55:06
+12854,733140,17,44864843,76,Paula Arana (Granada) Substitution at 71',Paula Arana Substitution,2,4260,71',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333519.0,Leles,2025-03-14 04:55:06
+12854,733140,18,44864871,70,Ornella Vignola (Granada) Goal at 75',Ornella Vignola Goal,2,4500,75',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,330985.0,Ornella Vignola,2025-03-14 04:55:06
+12854,733140,19,44864956,94,Laura Requena (Granada) Yellow Card at 77',Laura Requena Yellow Card,2,4620,77',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334526.0,Laura Requena,2025-03-14 04:55:06
+12854,733140,20,44864957,76,Amaia Iribarren (Granada) Substitution at 78',Amaia Iribarren Substitution,2,4680,78',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,368307.0,Amaia Iribarren,2025-03-14 04:55:06
+12854,733140,20,44864957,76,Amaia Iribarren (Granada) Substitution at 78',Amaia Iribarren Substitution,2,4680,78',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334526.0,Laura Requena,2025-03-14 04:55:06
+12854,733140,21,44865080,70,Andrea Gómez (Granada) Goal at 86',Andrea Gómez Goal,2,5160,86',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279210.0,Andrea Gómez,2025-03-14 04:55:06
+12854,733140,22,44865156,94,Gaby García (Atlético Madrid) Yellow Card at 90',Gaby García Yellow Card,2,5400,90',20093,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,331162.0,Gaby García,2025-03-14 04:55:06
+12854,733141,1,44818737,70,Salma Paralluelo (Barcelona) Goal at 2',Salma Paralluelo Goal,1,120,2',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333582.0,Salma Paralluelo,2025-03-14 04:55:06
+12854,733141,2,44818886,70,Ewa Pajor (Barcelona) Goal at 13',Ewa Pajor Goal,1,780,13',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282874.0,Ewa Pajor,2025-03-14 04:55:06
+12854,733141,3,44819120,70,Ewa Pajor (Barcelona) Goal at 29',Ewa Pajor Goal,1,1740,29',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282874.0,Ewa Pajor,2025-03-14 04:55:06
+12854,733141,4,44819199,70,Salma Paralluelo (Barcelona) Goal at 42',Salma Paralluelo Goal,1,2520,42',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333582.0,Salma Paralluelo,2025-03-14 04:55:06
+12854,733141,5,44819468,76,Sheila García (Real Madrid) Substitution at 45',Sheila García Substitution,2,2700,45',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288442.0,Sheila García,2025-03-14 04:55:06
+12854,733141,6,44819469,76,Irune Dorado (Real Madrid) Substitution at 45',Irune Dorado Substitution,2,2700,45',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,386682.0,Irune Dorado,2025-03-14 04:55:06
+12854,733141,5,44819468,76,Sheila García (Real Madrid) Substitution at 45',Sheila García Substitution,2,2700,45',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,258818.0,Antônia,2025-03-14 04:55:06
+12854,733141,6,44819469,76,Irune Dorado (Real Madrid) Substitution at 45',Irune Dorado Substitution,2,2700,45',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,248832.0,Sandie Toletti,2025-03-14 04:55:06
+12854,733141,7,44819651,76,Athenea del Castillo (Real Madrid) Substitution at 55',Athenea del Castillo Substitutio,2,3300,55',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,320355.0,Athenea del Castillo,2025-03-14 04:55:06
+12854,733141,7,44819651,76,Athenea del Castillo (Real Madrid) Substitution at 55',Athenea del Castillo Substitutio,2,3300,55',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,264719.0,Signe Bruun,2025-03-14 04:55:06
+12854,733141,8,44819652,76,Eva Navarro (Real Madrid) Substitution at 56',Eva Navarro Substitution,2,3360,56',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288443.0,Eva Navarro,2025-03-14 04:55:06
+12854,733141,8,44819652,76,Eva Navarro (Real Madrid) Substitution at 56',Eva Navarro Substitution,2,3360,56',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,268328.0,Yasmim,2025-03-14 04:55:06
+12854,733141,9,44819691,76,Ingrid Syrstad Engen (Barcelona) Substitution at 58',Ingrid Syrstad Engen Substitutio,2,3480,58',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,280988.0,Ingrid Syrstad Engen,2025-03-14 04:55:06
+12854,733141,10,44819692,76,Fridolina Rolfö (Barcelona) Substitution at 58',Fridolina Rolfö Substitution,2,3480,58',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,240277.0,Fridolina Rolfö,2025-03-14 04:55:06
+12854,733141,9,44819691,76,Ingrid Syrstad Engen (Barcelona) Substitution at 58',Ingrid Syrstad Engen Substitutio,2,3480,58',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333582.0,Salma Paralluelo,2025-03-14 04:55:06
+12854,733141,10,44819692,76,Fridolina Rolfö (Barcelona) Substitution at 58',Fridolina Rolfö Substitution,2,3480,58',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,309952.0,Esmee Brugts,2025-03-14 04:55:06
+12854,733141,11,44819871,94,Fridolina Rolfö (Barcelona) Yellow Card at 69',Fridolina Rolfö Yellow Card,2,4140,69',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,240277.0,Fridolina Rolfö,2025-03-14 04:55:06
+12854,733141,12,44819937,76,Jana Fernández (Barcelona) Substitution at 74',Jana Fernández Substitution,2,4440,74',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,305983.0,Jana Fernández,2025-03-14 04:55:06
+12854,733141,13,44819938,76,Sydney Schertenleib (Barcelona) Substitution at 74',Sydney Schertenleib Substitution,2,4440,74',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,362990.0,Sydney Schertenleib,2025-03-14 04:55:06
+12854,733141,12,44819937,76,Jana Fernández (Barcelona) Substitution at 74',Jana Fernández Substitution,2,4440,74',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,286327.0,Ona Batlle,2025-03-14 04:55:06
+12854,733141,13,44819938,76,Sydney Schertenleib (Barcelona) Substitution at 74',Sydney Schertenleib Substitution,2,4440,74',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,295641.0,Clàudia Pina,2025-03-14 04:55:06
+12854,733141,14,44819977,76,Alba Redondo (Real Madrid) Substitution at 77',Alba Redondo Substitution,2,4620,77',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,283001.0,Alba Redondo,2025-03-14 04:55:06
+12854,733141,14,44819977,76,Alba Redondo (Real Madrid) Substitution at 77',Alba Redondo Substitution,2,4620,77',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,330335.0,Naomie Feller,2025-03-14 04:55:06
+12854,733141,15,44819997,70,Ewa Pajor (Barcelona) Goal at 78',Ewa Pajor Goal,2,4680,78',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282874.0,Ewa Pajor,2025-03-14 04:55:06
+12854,733141,16,44820050,76,Marta Torrejón (Barcelona) Substitution at 84',Marta Torrejón Substitution,2,5040,84',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219989.0,Marta Torrejón,2025-03-14 04:55:06
+12854,733141,16,44820050,76,Marta Torrejón (Barcelona) Substitution at 84',Marta Torrejón Substitution,2,5040,84',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,253699.0,Caroline Graham Hansen,2025-03-14 04:55:06
+12854,733142,1,44859929,70,Patri Guijarro (Barcelona) Goal at 24',Patri Guijarro Goal,1,1440,24',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,264734.0,Patri Guijarro,2025-03-13 04:50:45
+12854,733142,2,44859941,94,María Méndez (Real Madrid) Yellow Card at 31',María Méndez Yellow Card,1,1860,31',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335785.0,María Méndez,2025-03-13 04:50:45
+12854,733142,3,44859951,94,Olga Carmona (Real Madrid) Yellow Card at 36',Olga Carmona Yellow Card,1,2160,36',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,317946.0,Olga Carmona,2025-03-13 04:50:45
+12854,733142,4,44859997,76,Ewa Pajor (Barcelona) Substitution at 45',Ewa Pajor Substitution,2,2700,45',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282874.0,Ewa Pajor,2025-03-13 04:50:45
+12854,733142,5,44859998,76,Caroline Weir (Real Madrid) Substitution at 45',Caroline Weir Substitution,2,2700,45',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,257531.0,Caroline Weir,2025-03-13 04:50:45
+12854,733142,4,44859997,76,Ewa Pajor (Barcelona) Substitution at 45',Ewa Pajor Substitution,2,2700,45',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,320145.0,Kika Nazareth,2025-03-13 04:50:45
+12854,733142,5,44859998,76,Caroline Weir (Real Madrid) Substitution at 45',Caroline Weir Substitution,2,2700,45',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,188395.0,Melanie Leupolz,2025-03-13 04:50:45
+12854,733142,6,44859999,70,Ewa Pajor (Barcelona) Goal at 48',Ewa Pajor Goal,2,2880,48',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282874.0,Ewa Pajor,2025-03-13 04:50:45
+12854,733142,7,44860034,76,Yasmim (Real Madrid) Substitution at 57',Yasmim Substitution,2,3420,57',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,268328.0,Yasmim,2025-03-14 04:55:06
+12854,733142,7,44860034,76,Yasmim (Real Madrid) Substitution at 57',Yasmim Substitution,2,3420,57',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,283001.0,Alba Redondo,2025-03-14 04:55:06
+12854,733142,8,44860061,94,Ona Batlle (Barcelona) Yellow Card at 62',Ona Batlle Yellow Card,2,3720,62',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,286327.0,Ona Batlle,2025-03-13 04:50:45
+12854,733142,9,44860071,76,Vicky López (Barcelona) Substitution at 65',Vicky López Substitution,2,3900,65',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335806.0,Vicky López,2025-03-13 04:50:45
+12854,733142,10,44860072,76,Fridolina Rolfö (Barcelona) Substitution at 65',Fridolina Rolfö Substitution,2,3900,65',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,240277.0,Fridolina Rolfö,2025-03-13 04:50:45
+12854,733142,9,44860071,76,Vicky López (Barcelona) Substitution at 65',Vicky López Substitution,2,3900,65',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,253699.0,Caroline Graham Hansen,2025-03-13 04:50:45
+12854,733142,10,44860072,76,Fridolina Rolfö (Barcelona) Substitution at 65',Fridolina Rolfö Substitution,2,3900,65',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333582.0,Salma Paralluelo,2025-03-13 04:50:45
+12854,733142,11,44860078,70,Ewa Pajor (Barcelona) Goal at 68',Ewa Pajor Goal,2,4080,68',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282874.0,Ewa Pajor,2025-03-13 04:50:45
+12854,733142,12,44860101,76,Sydney Schertenleib (Barcelona) Substitution at 69',Sydney Schertenleib Substitution,2,4140,69',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,362990.0,Sydney Schertenleib,2025-03-13 04:50:45
+12854,733142,13,44860102,76,Jana Fernández (Barcelona) Substitution at 69',Jana Fernández Substitution,2,4140,69',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,305983.0,Jana Fernández,2025-03-13 04:50:45
+12854,733142,14,44860103,76,Sheila García (Real Madrid) Substitution at 69',Sheila García Substitution,2,4140,69',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288442.0,Sheila García,2025-03-13 04:50:45
+12854,733142,15,44860104,76,Signe Bruun (Real Madrid) Substitution at 69',Signe Bruun Substitution,2,4140,69',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,264719.0,Signe Bruun,2025-03-13 04:50:45
+12854,733142,12,44860101,76,Sydney Schertenleib (Barcelona) Substitution at 69',Sydney Schertenleib Substitution,2,4140,69',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,268537.0,Aitana Bonmatí,2025-03-13 04:50:45
+12854,733142,13,44860102,76,Jana Fernández (Barcelona) Substitution at 69',Jana Fernández Substitution,2,4140,69',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,286327.0,Ona Batlle,2025-03-13 04:50:45
+12854,733142,14,44860103,76,Sheila García (Real Madrid) Substitution at 69',Sheila García Substitution,2,4140,69',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,258818.0,Antônia,2025-03-13 04:50:45
+12854,733142,15,44860104,76,Signe Bruun (Real Madrid) Substitution at 69',Signe Bruun Substitution,2,4140,69',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,330335.0,Naomie Feller,2025-03-13 04:50:45
+12854,733142,16,44860161,70,Signe Bruun (Real Madrid) Goal at 91',Signe Bruun Goal,2,5400,90'+1',21128,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,264719.0,Signe Bruun,2025-03-13 04:50:45
+12855,730955,1,44688536,70,Cristina Postigo (Granada) Goal at 40',Cristina Postigo Goal,1,2400,40',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,328657.0,Cristina Postigo,2025-03-13 04:50:45
+12855,730955,2,44688973,94,Érika González (Levante) Yellow Card at 58',Érika González Yellow Card,2,3480,58',21426,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335792.0,Érika González,2025-03-13 04:50:45
+12855,730955,3,44689039,76,Paula Fernández (Levante) Substitution at 61',Paula Fernández Substitution,2,3660,61',21426,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333509.0,Paula Fernández,2025-03-13 04:50:45
+12855,730955,3,44689039,76,Paula Fernández (Levante) Substitution at 61',Paula Fernández Substitution,2,3660,61',21426,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334488.0,Daniela Arques,2025-03-13 04:50:45
+12855,730955,4,44689040,76,Inés Rizo (Levante) Substitution at 62',Inés Rizo Substitution,2,3720,62',21426,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,385177.0,Inés Rizo,2025-03-13 04:50:45
+12855,730955,4,44689040,76,Inés Rizo (Levante) Substitution at 62',Inés Rizo Substitution,2,3720,62',21426,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,349415.0,Ivonne Chacón,2025-03-13 04:50:45
+12855,730955,5,44689206,76,Estela Carbonell (Levante) Substitution at 71',Estela Carbonell Substitution,2,4260,71',21426,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335781.0,Estela Carbonell,2025-03-13 04:50:45
+12855,730955,6,44689207,76,Ángela Sosa (Levante) Substitution at 71',Ángela Sosa Substitution,2,4260,71',21426,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282852.0,Ángela Sosa,2025-03-13 04:50:45
+12855,730955,5,44689206,76,Estela Carbonell (Levante) Substitution at 71',Estela Carbonell Substitution,2,4260,71',21426,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,343666.0,Raiderlin Carrasco,2025-03-13 04:50:45
+12855,730955,6,44689207,76,Ángela Sosa (Levante) Substitution at 71',Ángela Sosa Substitution,2,4260,71',21426,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,286331.0,Anna Torrodá,2025-03-13 04:50:45
+12855,730955,7,44689222,76,Andrea Gómez (Granada) Substitution at 72',Andrea Gómez Substitution,2,4320,72',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279210.0,Andrea Gómez,2025-03-13 04:50:45
+12855,730955,7,44689222,76,Andrea Gómez (Granada) Substitution at 72',Andrea Gómez Substitution,2,4320,72',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334527.0,Laura Pérez,2025-03-13 04:50:45
+12855,730955,8,44689352,76,Isabel Álvarez (Granada) Substitution at 78',Isabel Álvarez Substitution,2,4680,78',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335770.0,Isabel Álvarez,2025-03-13 04:50:45
+12855,730955,9,44689353,76,Miku Ito (Granada) Substitution at 78',Miku Ito Substitution,2,4680,78',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333448.0,Miku Ito,2025-03-13 04:50:45
+12855,730955,8,44689352,76,Isabel Álvarez (Granada) Substitution at 78',Isabel Álvarez Substitution,2,4680,78',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,330985.0,Ornella Vignola,2025-03-13 04:50:45
+12855,730955,9,44689353,76,Miku Ito (Granada) Substitution at 78',Miku Ito Substitution,2,4680,78',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312952.0,Ariadna Mingueza,2025-03-13 04:50:45
+12855,730955,10,44689390,76,Anissa Lahmari (Levante) Substitution at 81',Anissa Lahmari Substitution,2,4860,81',21426,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,295676.0,Anissa Lahmari,2025-03-13 04:50:45
+12855,730955,10,44689390,76,Anissa Lahmari (Levante) Substitution at 81',Anissa Lahmari Substitution,2,4860,81',21426,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,349940.0,María Gabaldón,2025-03-13 04:50:45
+12855,730955,11,44689413,94,Edna Imade (Granada) Yellow Card at 84',Edna Imade Yellow Card,2,5040,84',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,371856.0,Edna Imade,2025-03-13 04:50:45
+12855,730955,12,44689436,76,Marta Carrasco (Granada) Substitution at 89',Marta Carrasco Substitution,2,5340,89',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334493.0,Marta Carrasco,2025-03-13 04:50:45
+12855,730955,13,44689437,76,Paula Arana (Granada) Substitution at 89',Paula Arana Substitution,2,5340,89',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333474.0,Paula Arana,2025-03-13 04:50:45
+12855,730955,12,44689436,76,Marta Carrasco (Granada) Substitution at 89',Marta Carrasco Substitution,2,5340,89',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,355154.0,Alexia Fernández,2025-03-13 04:50:45
+12855,730955,13,44689437,76,Paula Arana (Granada) Substitution at 89',Paula Arana Substitution,2,5340,89',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,334526.0,Laura Requena,2025-03-13 04:50:45
+12855,730955,14,44689438,94,Andrea Gómez (Granada) Yellow Card at 90',Andrea Gómez Yellow Card,2,5400,90',21140,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279210.0,Andrea Gómez,2025-03-13 04:50:45
+12855,730956,1,44682173,70,Ewa Pajor (Barcelona) Goal at 6',Ewa Pajor Goal,1,360,6',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282874.0,Ewa Pajor,2025-03-13 04:50:45
+12855,730956,2,44682223,70,Marta Torrejón (Barcelona) Goal at 41',Marta Torrejón Goal,1,2460,41',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219989.0,Marta Torrejón,2025-03-13 04:50:45
+12855,730956,3,44682282,76,Cristina Librán (Madrid CFF) Substitution at 62',Cristina Librán Substitution,2,3720,62',21425,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335800.0,Cristina Librán,2025-03-13 04:50:45
+12855,730956,3,44682282,76,Cristina Librán (Madrid CFF) Substitution at 62',Cristina Librán Substitution,2,3720,62',21425,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,390022.0,Kamilla Melgard,2025-03-13 04:50:45
+12855,730956,4,44682285,76,Clàudia Pina (Barcelona) Substitution at 65',Clàudia Pina Substitution,2,3900,65',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,295641.0,Clàudia Pina,2025-03-13 04:50:45
+12855,730956,5,44682286,76,Fridolina Rolfö (Barcelona) Substitution at 65',Fridolina Rolfö Substitution,2,3900,65',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,240277.0,Fridolina Rolfö,2025-03-13 04:50:45
+12855,730956,4,44682285,76,Clàudia Pina (Barcelona) Substitution at 65',Clàudia Pina Substitution,2,3900,65',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282874.0,Ewa Pajor,2025-03-13 04:50:45
+12855,730956,5,44682286,76,Fridolina Rolfö (Barcelona) Substitution at 65',Fridolina Rolfö Substitution,2,3900,65',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333582.0,Salma Paralluelo,2025-03-13 04:50:45
+12855,730956,6,44682295,76,Karen Araya (Madrid CFF) Substitution at 67',Karen Araya Substitution,2,4020,67',21425,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,264855.0,Karen Araya,2025-03-13 04:50:45
+12855,730956,6,44682295,76,Karen Araya (Madrid CFF) Substitution at 67',Karen Araya Substitution,2,4020,67',21425,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,280993.0,Emilie Nautnes,2025-03-13 04:50:45
+12855,730956,7,44682296,76,Ásdís Halldórsdóttir (Madrid CFF) Substitution at 68',Ásdís Halldórsdóttir Substitutio,2,4080,68',21425,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,278366.0,Ásdís Halldórsdóttir,2025-03-13 04:50:45
+12855,730956,7,44682296,76,Ásdís Halldórsdóttir (Madrid CFF) Substitution at 68',Ásdís Halldórsdóttir Substitutio,2,4080,68',21425,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,315068.0,Malou Rylov,2025-03-13 04:50:45
+12855,730956,8,44682314,76,Sydney Schertenleib (Barcelona) Substitution at 73',Sydney Schertenleib Substitution,2,4380,73',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,362990.0,Sydney Schertenleib,2025-03-13 04:50:45
+12855,730956,9,44682315,76,Jana Fernández (Barcelona) Substitution at 73',Jana Fernández Substitution,2,4380,73',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,305983.0,Jana Fernández,2025-03-13 04:50:45
+12855,730956,8,44682314,76,Sydney Schertenleib (Barcelona) Substitution at 73',Sydney Schertenleib Substitution,2,4380,73',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,320145.0,Kika Nazareth,2025-03-13 04:50:45
+12855,730956,9,44682315,76,Jana Fernández (Barcelona) Substitution at 73',Jana Fernández Substitution,2,4380,73',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,286327.0,Ona Batlle,2025-03-13 04:50:45
+12855,730956,10,44682331,76,Alba Ruiz (Madrid CFF) Substitution at 77',Alba Ruiz Substitution,2,4620,77',21425,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,335799.0,Alba Ruiz,2025-03-13 04:50:45
+12855,730956,10,44682331,76,Alba Ruiz (Madrid CFF) Substitution at 77',Alba Ruiz Substitution,2,4620,77',21425,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344371.0,Sandra Villafañe,2025-03-13 04:50:45
+12855,730956,11,44682332,76,Bárbara López (Madrid CFF) Substitution at 78',Bárbara López Substitution,2,4680,78',21425,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,349954.0,Bárbara López,2025-03-13 04:50:45
+12855,730956,11,44682332,76,Bárbara López (Madrid CFF) Substitution at 78',Bárbara López Substitution,2,4680,78',21425,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,284157.0,Florencia Bonsegundo,2025-03-13 04:50:45
+12855,730956,12,44682352,76,Alba Caño (Barcelona) Substitution at 84',Alba Caño Substitution,2,5040,84',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,351070.0,Alba Caño,2025-03-13 04:50:45
+12855,730956,12,44682352,76,Alba Caño (Barcelona) Substitution at 84',Alba Caño Substitution,2,5040,84',20091,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,268537.0,Aitana Bonmatí,2025-03-13 04:50:45
+12855,730956,13,44682442,70,Aldana Cometti (Madrid CFF) Goal at 95',Aldana Cometti Goal,2,5400,90'+5',21425,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,284172.0,Aldana Cometti,2025-03-13 04:50:45

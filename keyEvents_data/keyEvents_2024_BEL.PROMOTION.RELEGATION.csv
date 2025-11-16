@@ -1,0 +1,140 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13358,735734,1,45288333,70,1,480,8',1,0,Lawrence Agyekum (Cercle Brugge KSV) Goal at 8',Lawrence Agyekum Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,334129,2025-05-19 04:56:11
+13358,735734,2,45288667,70,1,1500,25',1,0,Paris Brunner (Cercle Brugge KSV) Goal at 25',Paris Brunner Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,365789,2025-05-19 04:56:11
+13358,735734,3,45288939,76,1,2700,45'+5',0,0,Ibrahim Diakité (Cercle Brugge KSV) Substitution at 50',Ibrahim Diakité Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,311004,2025-05-19 04:56:11
+13358,735734,4,45289321,76,2,2700,45',0,0,Bruno Gonçalves (Cercle Brugge KSV) Substitution at 45',Bruno Gonçalves Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,319950,2025-05-19 04:56:11
+13358,735734,4,45289321,76,2,2700,45',0,0,Bruno Gonçalves (Cercle Brugge KSV) Substitution at 45',Bruno Gonçalves Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,334129,2025-05-19 04:56:11
+13358,735734,3,45288939,76,1,2700,45'+5',0,0,Ibrahim Diakité (Cercle Brugge KSV) Substitution at 50',Ibrahim Diakité Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,310407,2025-05-19 04:56:11
+13358,735734,5,45289410,70,2,3060,51',1,0,Paris Brunner (Cercle Brugge KSV) Goal at 51',Paris Brunner Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,365789,2025-05-19 04:56:11
+13358,735734,6,45289533,94,2,3420,57',0,0,Tom Pietermaat (Patro Eisden Maasmechelen) Yellow Card at 57',Tom Pietermaat Yellow Card,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,158012,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,75126,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,24978,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,379552,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,367136,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,319675,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,318137,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,315626,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,307942,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,269494,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,268692,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,256786,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,255709,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,236101,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,205463,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,196843,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,136335,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,130293,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,126619,2025-05-19 04:56:11
+13358,735734,7,45289539,70,2,3480,58',1,0,Felipe (Cercle Brugge KSV) Goal at 58',Felipe Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,119200,2025-05-19 04:56:11
+13358,735734,8,45289690,76,2,3900,65',0,0,Reno Wilmots (Patro Eisden Maasmechelen) Substitution at 65',Reno Wilmots Substitution,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,231750,2025-05-19 04:56:11
+13358,735734,9,45289721,76,2,3900,65',0,0,Jellert Van Landschoot (Patro Eisden Maasmechelen) Substitution at 65',Jellert Van Landschoot Substitut,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,258882,2025-05-19 04:56:11
+13358,735734,9,45289721,76,2,3900,65',0,0,Jellert Van Landschoot (Patro Eisden Maasmechelen) Substitution at 65',Jellert Van Landschoot Substitut,130877,0.0,0.0,0.0,0.0,0.0,0.0,2,350347,2025-05-19 04:56:11
+13358,735734,8,45289690,76,2,3900,65',0,0,Reno Wilmots (Patro Eisden Maasmechelen) Substitution at 65',Reno Wilmots Substitution,130877,0.0,0.0,0.0,0.0,0.0,0.0,2,158012,2025-05-19 04:56:11
+13358,735734,12,45289976,76,2,4380,73',0,0,Hannes Van Der Bruggen (Cercle Brugge KSV) Substitution at 73',Hannes Van Der Bruggen Substitut,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,177363,2025-05-20 04:55:27
+13358,735734,10,45289924,76,2,4380,73',0,0,Alan Minda (Cercle Brugge KSV) Substitution at 73',Alan Minda Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,319422,2025-05-19 04:56:11
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,345528,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,75126,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,24978,2025-05-20 04:55:27
+13358,735734,12,45289976,76,2,4380,73',0,0,Hannes Van Der Bruggen (Cercle Brugge KSV) Substitution at 73',Hannes Van Der Bruggen Substitut,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,290030,2025-05-20 04:55:27
+13358,735734,10,45289924,76,2,4380,73',0,0,Alan Minda (Cercle Brugge KSV) Substitution at 73',Alan Minda Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,316559,2025-05-19 04:56:11
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,379552,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,367136,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,319675,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,318137,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,315626,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,307942,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,269494,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,268692,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,256786,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,255709,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,236101,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,205463,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,196843,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,136335,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,130293,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,126619,2025-05-20 04:55:27
+13358,735734,11,45289975,76,2,4380,73',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 73',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,119200,2025-05-20 04:55:27
+13358,735734,14,45290164,94,2,4680,78',0,0,Simon Bammens (Patro Eisden Maasmechelen) Yellow Card at 78',Simon Bammens Yellow Card,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,403508,2025-05-19 04:56:11
+13358,735734,13,45290163,94,2,4680,78',0,0,Jordan Renson (Patro Eisden Maasmechelen) Yellow Card at 78',Jordan Renson Yellow Card,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,403507,2025-05-19 04:56:11
+13358,735734,15,45290217,76,2,4740,79',0,0,Vancy Mabanza (Patro Eisden Maasmechelen) Substitution at 79',Vancy Mabanza Substitution,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,403511,2025-05-19 04:56:11
+13358,735734,15,45290217,76,2,4740,79',0,0,Vancy Mabanza (Patro Eisden Maasmechelen) Substitution at 79',Vancy Mabanza Substitution,130877,0.0,0.0,0.0,0.0,0.0,0.0,2,127911,2025-05-19 04:56:11
+13358,735734,16,45290328,70,2,5040,84',1,0,Thibo Somers (Cercle Brugge KSV) Goal at 84',Thibo Somers Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,298354,2025-05-19 04:56:11
+13358,735734,17,45290641,70,2,5400,90'+3',1,0,Vancy Mabanza (Patro Eisden Maasmechelen) Goal at 93',Vancy Mabanza Goal,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,403511,2025-05-19 04:56:11
+13358,735735,1,45306593,70,1,300,5',1,0,Názinho (Cercle Brugge KSV) Goal at 5',Názinho Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,316559,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,75126,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,24978,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,379552,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,367136,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,319675,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,318137,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,315626,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,307942,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,269494,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,268692,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,256786,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,255709,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,236101,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,205463,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,196843,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,136335,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,130293,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,126619,2025-05-24 04:58:00
+13358,735735,2,45306688,98,1,1440,24',1,0,Felipe (Cercle Brugge KSV) Penalty - Scored at 24',Felipe Penalty - Scored,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,119200,2025-05-24 04:58:00
+13358,735735,3,45306723,94,1,1740,29',0,0,Vancy Mabanza (Patro Eisden Maasmechelen) Yellow Card at 29',Vancy Mabanza Yellow Card,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,403511,2025-05-24 04:58:00
+13358,735735,4,45306765,76,1,2160,36',0,0,Tom Pietermaat (Patro Eisden Maasmechelen) Substitution at 36',Tom Pietermaat Substitution,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,158012,2025-05-24 04:58:00
+13358,735735,4,45306765,76,1,2160,36',0,0,Tom Pietermaat (Patro Eisden Maasmechelen) Substitution at 36',Tom Pietermaat Substitution,130877,0.0,0.0,0.0,0.0,0.0,0.0,2,403511,2025-05-24 04:58:00
+13358,735735,5,45306896,94,2,3120,52',0,0,Kevin Kis (Patro Eisden Maasmechelen) Yellow Card at 52',Kevin Kis Yellow Card,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,106037,2025-05-24 04:58:00
+13358,735735,6,45306903,76,2,3240,54',0,0,Henk Dijkhuizen (Patro Eisden Maasmechelen) Substitution at 54',Henk Dijkhuizen Substitution,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,153472,2025-05-24 04:58:00
+13358,735735,6,45306903,76,2,3240,54',0,0,Henk Dijkhuizen (Patro Eisden Maasmechelen) Substitution at 54',Henk Dijkhuizen Substitution,130877,0.0,0.0,0.0,0.0,0.0,0.0,2,106037,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,346520,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,75126,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,24978,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,379552,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,367136,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,319675,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,318137,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,315626,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,307942,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,269494,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,268692,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,256786,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,255709,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,236101,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,205463,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,196843,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,136335,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,130293,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,126619,2025-05-24 04:58:00
+13358,735735,7,45306922,76,2,3600,60',0,0,Steve Ngoura (Cercle Brugge KSV) Substitution at 60',Steve Ngoura Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,119200,2025-05-24 04:58:00
+13358,735735,8,45306923,76,2,3660,61',0,0,Abu Francis (Cercle Brugge KSV) Substitution at 61',Abu Francis Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,290030,2025-05-24 04:58:00
+13358,735735,8,45306923,76,2,3660,61',0,0,Abu Francis (Cercle Brugge KSV) Substitution at 61',Abu Francis Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,177363,2025-05-24 04:58:00
+13358,735735,9,45306936,94,2,3900,65',0,0,Reno Wilmots (Patro Eisden Maasmechelen) Yellow Card at 65',Reno Wilmots Yellow Card,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,231750,2025-05-24 04:58:00
+13358,735735,10,45306942,70,2,4020,67',1,0,Jellert Van Landschoot (Patro Eisden Maasmechelen) Goal at 67',Jellert Van Landschoot Goal,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,258882,2025-05-24 04:58:00
+13358,735735,11,45306960,76,2,4140,69',0,0,William Simba (Patro Eisden Maasmechelen) Substitution at 69',William Simba Substitution,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,304764,2025-05-24 04:58:00
+13358,735735,11,45306960,76,2,4140,69',0,0,William Simba (Patro Eisden Maasmechelen) Substitution at 69',William Simba Substitution,130877,0.0,0.0,0.0,0.0,0.0,0.0,2,127911,2025-05-24 04:58:00
+13358,735735,12,45306968,76,2,4200,70',0,0,Papa Demba Ndior (Patro Eisden Maasmechelen) Substitution at 70',Papa Demba Ndior Substitution,130877,0.0,0.0,0.0,0.0,0.0,0.0,1,403512,2025-05-24 04:58:00
+13358,735735,12,45306968,76,2,4200,70',0,0,Papa Demba Ndior (Patro Eisden Maasmechelen) Substitution at 70',Papa Demba Ndior Substitution,130877,0.0,0.0,0.0,0.0,0.0,0.0,2,403508,2025-05-24 04:58:00
+13358,735735,13,45306999,76,2,4500,75',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 75',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,345528,2025-05-24 04:58:00
+13358,735735,14,45307000,76,2,4500,75',0,0,Erick (Cercle Brugge KSV) Substitution at 75',Erick Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,401334,2025-05-24 04:58:00
+13358,735735,14,45307000,76,2,4500,75',0,0,Erick (Cercle Brugge KSV) Substitution at 75',Erick Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,400639,2025-05-24 04:58:00
+13358,735735,14,45307000,76,2,4500,75',0,0,Erick (Cercle Brugge KSV) Substitution at 75',Erick Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,361440,2025-05-24 04:58:00
+13358,735735,14,45307000,76,2,4500,75',0,0,Erick (Cercle Brugge KSV) Substitution at 75',Erick Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,317656,2025-05-24 04:58:00
+13358,735735,14,45307000,76,2,4500,75',0,0,Erick (Cercle Brugge KSV) Substitution at 75',Erick Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,271407,2025-05-24 04:58:00
+13358,735735,14,45307000,76,2,4500,75',0,0,Erick (Cercle Brugge KSV) Substitution at 75',Erick Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,256044,2025-05-24 04:58:00
+13358,735735,14,45307000,76,2,4500,75',0,0,Erick (Cercle Brugge KSV) Substitution at 75',Erick Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,253796,2025-05-24 04:58:00
+13358,735735,14,45307000,76,2,4500,75',0,0,Erick (Cercle Brugge KSV) Substitution at 75',Erick Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,252753,2025-05-24 04:58:00
+13358,735735,14,45307000,76,2,4500,75',0,0,Erick (Cercle Brugge KSV) Substitution at 75',Erick Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,218787,2025-05-24 04:58:00
+13358,735735,14,45307000,76,2,4500,75',0,0,Erick (Cercle Brugge KSV) Substitution at 75',Erick Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,334129,2025-05-24 04:58:00
+13358,735735,13,45306999,76,2,4500,75',0,0,Malamine Efekele (Cercle Brugge KSV) Substitution at 75',Malamine Efekele Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,316559,2025-05-24 04:58:00
+13358,735735,15,45307018,70,2,4680,78',1,0,Erick (Cercle Brugge KSV) Goal at 78',Erick Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,401334,2025-05-24 04:58:00
+13358,735735,15,45307018,70,2,4680,78',1,0,Erick (Cercle Brugge KSV) Goal at 78',Erick Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,400639,2025-05-24 04:58:00
+13358,735735,15,45307018,70,2,4680,78',1,0,Erick (Cercle Brugge KSV) Goal at 78',Erick Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,361440,2025-05-24 04:58:00
+13358,735735,15,45307018,70,2,4680,78',1,0,Erick (Cercle Brugge KSV) Goal at 78',Erick Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,317656,2025-05-24 04:58:00
+13358,735735,15,45307018,70,2,4680,78',1,0,Erick (Cercle Brugge KSV) Goal at 78',Erick Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,271407,2025-05-24 04:58:00
+13358,735735,15,45307018,70,2,4680,78',1,0,Erick (Cercle Brugge KSV) Goal at 78',Erick Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,256044,2025-05-24 04:58:00
+13358,735735,15,45307018,70,2,4680,78',1,0,Erick (Cercle Brugge KSV) Goal at 78',Erick Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,253796,2025-05-24 04:58:00
+13358,735735,15,45307018,70,2,4680,78',1,0,Erick (Cercle Brugge KSV) Goal at 78',Erick Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,252753,2025-05-24 04:58:00
+13358,735735,15,45307018,70,2,4680,78',1,0,Erick (Cercle Brugge KSV) Goal at 78',Erick Goal,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,218787,2025-05-24 04:58:00
+13358,735735,16,45307046,76,2,4920,82',0,0,Nils De Wilde (Cercle Brugge KSV) Substitution at 82',Nils De Wilde Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,321828,2025-05-24 04:58:00
+13358,735735,16,45307046,76,2,4920,82',0,0,Nils De Wilde (Cercle Brugge KSV) Substitution at 82',Nils De Wilde Substitution,3610,0.0,0.0,0.0,0.0,0.0,0.0,2,298354,2025-05-24 04:58:00
+13358,735735,17,45307061,94,2,5040,84',0,0,Edgaras Utkus (Cercle Brugge KSV) Yellow Card at 84',Edgaras Utkus Yellow Card,3610,0.0,0.0,0.0,0.0,0.0,0.0,1,310407,2025-05-24 04:58:00

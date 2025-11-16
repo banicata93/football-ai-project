@@ -1,0 +1,408 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+12768,712932,1,43475714,94,Blair Mackenzie (Aberdeen B) Yellow Card at 32',Blair Mackenzie Yellow Card,1,1920,32',19302,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,324732.0,Blair Mackenzie,2024-08-03 09:27:20
+12768,712932,2,43475715,70,Michael Phillipson (Banks O'Dee) Goal at 33',Michael Phillipson Goal,1,1980,33',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,248873.0,Michael Phillipson,2024-08-03 09:27:20
+12768,712932,3,43475908,76,Darryn Kelly (Banks O'Dee) Substitution at 53',Darryn Kelly Substitution,2,3180,53',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,44214.0,Darryn Kelly,2024-08-03 09:27:20
+12768,712932,4,43475909,76,Mark Gilmour (Banks O'Dee) Substitution at 53',Mark Gilmour Substitution,2,3180,53',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,139820.0,Mark Gilmour,2024-08-03 09:27:20
+12768,712932,3,43475908,76,Darryn Kelly (Banks O'Dee) Substitution at 53',Darryn Kelly Substitution,2,3180,53',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,43705.0,Mark Reynolds,2024-08-03 09:27:20
+12768,712932,4,43475909,76,Mark Gilmour (Banks O'Dee) Substitution at 53',Mark Gilmour Substitution,2,3180,53',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,297713.0,Kacper Lewecki,2024-08-03 09:27:20
+12768,712932,5,43475922,76,Ellis Clark (Aberdeen B) Substitution at 61',Ellis Clark Substitution,2,3660,61',19302,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366750.0,Ellis Clark,2024-08-03 09:27:20
+12768,712932,5,43475922,76,Ellis Clark (Aberdeen B) Substitution at 61',Ellis Clark Substitution,2,3660,61',19302,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,324735.0,Alfie Bavidge,2024-08-03 09:27:20
+12768,712932,6,43475939,94,Iain Vigurs (Banks O'Dee) Yellow Card at 63',Iain Vigurs Yellow Card,2,3780,63',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,42145.0,Iain Vigurs,2024-08-03 09:27:20
+12768,712932,7,43475940,76,Scott Milne (Banks O'Dee) Substitution at 64',Scott Milne Substitution,2,3840,64',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,370309.0,Scott Milne,2024-08-03 09:27:20
+12768,712932,7,43475940,76,Scott Milne (Banks O'Dee) Substitution at 64',Scott Milne Substitution,2,3840,64',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,42145.0,Iain Vigurs,2024-08-03 09:27:20
+12768,712932,8,43475992,76,Alasdair Stark (Banks O'Dee) Substitution at 74',Alasdair Stark Substitution,2,4440,74',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239260.0,Alasdair Stark,2024-08-03 09:27:20
+12768,712932,9,43476022,76,Jason Selbie (Banks O'Dee) Substitution at 74',Jason Selbie Substitution,2,4440,74',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,370302.0,Jason Selbie,2024-08-03 09:27:20
+12768,712932,8,43475992,76,Alasdair Stark (Banks O'Dee) Substitution at 74',Alasdair Stark Substitution,2,4440,74',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,249182.0,Lachie Macleod,2024-08-03 09:27:20
+12768,712932,9,43476022,76,Jason Selbie (Banks O'Dee) Substitution at 74',Jason Selbie Substitution,2,4440,74',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,275902.0,Luke Emmett,2024-08-03 09:27:20
+12768,712932,10,43476023,76,Fraser Mackie (Aberdeen B) Substitution at 78',Fraser Mackie Substitution,2,4680,78',19302,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366763.0,Fraser Mackie,2024-08-03 09:27:20
+12768,712932,10,43476023,76,Fraser Mackie (Aberdeen B) Substitution at 78',Fraser Mackie Substitution,2,4680,78',19302,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366762.0,Fletcher Boyd,2024-08-03 09:27:20
+12768,712932,11,43476086,94,Alfie Stewart (Aberdeen B) Yellow Card at 84',Alfie Stewart Yellow Card,2,5040,84',19302,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,26027.0,Alfie Stewart,2024-08-03 09:27:20
+12768,712932,12,43476132,94,Nathan Cooney (Banks O'Dee) Yellow Card at 90',Nathan Cooney Yellow Card,2,5400,90',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277676.0,Nathan Cooney,2024-08-03 09:27:20
+12768,712933,1,43475543,70,Ethan Sutherland (St Mirren B) Goal at 4',Ethan Sutherland Goal,1,240,4',19311,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,345845.0,Ethan Sutherland,2024-08-03 09:27:20
+12768,712933,2,43475574,70,Evan Mooney (St Mirren B) Goal at 7',Evan Mooney Goal,1,420,7',19311,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,379450.0,Evan Mooney,2024-08-03 09:27:20
+12768,712933,3,43475608,70,Theo Mccormick (St Mirren B) Goal at 12',Theo Mccormick Goal,1,720,12',19311,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388256.0,Theo Mccormick,2024-08-03 09:27:20
+12768,712933,4,43475666,94,Lyle Hunter (St Mirren B) Yellow Card at 24',Lyle Hunter Yellow Card,1,1440,24',19311,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388136.0,Lyle Hunter,2024-08-03 09:27:20
+12768,712933,5,43475707,76,Cai Mcnamara (Berwick Rangers) Substitution at 29',Cai Mcnamara Substitution,1,1740,29',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,359846.0,Cai Mcnamara,2024-08-03 09:27:20
+12768,712933,5,43475707,76,Cai Mcnamara (Berwick Rangers) Substitution at 29',Cai Mcnamara Substitution,1,1740,29',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,309553.0,Aaron Laidlaw,2024-08-03 09:27:20
+12768,712933,6,43475728,70,Cai Mcnamara (Berwick Rangers) Goal at 34',Cai Mcnamara Goal,1,2040,34',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,359846.0,Cai Mcnamara,2024-08-03 09:27:20
+12768,712933,7,43475761,94,Alfie Robinson (Berwick Rangers) Yellow Card at 38',Alfie Robinson Yellow Card,1,2280,38',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,316555.0,Alfie Robinson,2024-08-03 09:27:20
+12768,712933,8,43475888,70,Jonathan Devers (Berwick Rangers) Goal at 50',Jonathan Devers Goal,2,3000,50',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,266997.0,Jonathan Devers,2024-08-03 09:27:20
+12768,712933,9,43475907,94,Liam Buchanan (Berwick Rangers) Yellow Card at 51',Liam Buchanan Yellow Card,2,3060,51',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,22132.0,Liam Buchanan,2024-08-03 09:27:20
+12768,712933,10,43476021,76,Josh Farquhar (St Mirren B) Substitution at 77',Josh Farquhar Substitution,2,4620,77',19311,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388135.0,Josh Farquhar,2024-08-03 09:27:20
+12768,712933,10,43476021,76,Josh Farquhar (St Mirren B) Substitution at 77',Josh Farquhar Substitution,2,4620,77',19311,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388256.0,Theo Mccormick,2024-08-03 09:27:20
+12768,712933,11,43476118,94,Ethan Sutherland (St Mirren B) Yellow Card at 88',Ethan Sutherland Yellow Card,2,5280,88',19311,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,345845.0,Ethan Sutherland,2024-08-03 09:27:20
+12768,712933,12,43476167,94,Josh Farquhar (St Mirren B) Yellow Card at 93',Josh Farquhar Yellow Card,2,5400,90'+3',19311,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388135.0,Josh Farquhar,2024-08-03 09:27:20
+12768,712933,13,43476206,94,Max Mcginley (Berwick Rangers) Yellow Card at 94',Max Mcginley Yellow Card,2,5400,90'+4',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,362471.0,Max Mcginley,2024-08-03 09:27:20
+12768,712934,1,43479829,94,Aaron Essel (St. Johnstone B) Yellow Card at 16',Aaron Essel Yellow Card,1,960,16',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,341628.0,Aaron Essel,2024-08-03 09:27:20
+12768,712934,2,43479939,70,Dayle Robertson (Brechin City) Goal at 28',Dayle Robertson Goal,1,1680,28',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,229806.0,Dayle Robertson,2024-08-03 09:27:20
+12768,712934,3,43479968,94,Dayle Robertson (Brechin City) Yellow Card at 34',Dayle Robertson Yellow Card,1,2040,34',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,229806.0,Dayle Robertson,2024-08-03 09:27:20
+12768,712934,4,43479978,94,John Moreland (Brechin City) Yellow Card at 35',John Moreland Yellow Card,1,2100,35',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,324545.0,John Moreland,2024-08-03 09:27:20
+12768,712934,5,43479979,94,Seth Patrick (Brechin City) Yellow Card at 36',Seth Patrick Yellow Card,1,2160,36',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,345982.0,Seth Patrick,2024-08-03 09:27:20
+12768,712934,6,43480152,70,Aaron Essel (St. Johnstone B) Goal at 50',Aaron Essel Goal,2,3000,50',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,341628.0,Aaron Essel,2024-08-03 09:27:20
+12768,712934,7,43480168,94,Mark Scott (Brechin City) Yellow Card at 51',Mark Scott Yellow Card,2,3060,51',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,241095.0,Mark Scott,2024-08-03 09:27:20
+12768,712934,8,43480184,76,Ewan Loudon (Brechin City) Substitution at 63',Ewan Loudon Substitution,2,3780,63',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,324917.0,Ewan Loudon,2024-08-03 09:27:20
+12768,712934,8,43480184,76,Ewan Loudon (Brechin City) Substitution at 63',Ewan Loudon Substitution,2,3780,63',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,382827.0,Craig Tosh,2024-08-03 09:27:20
+12768,712934,9,43480242,94,Scott Logan (Brechin City) Yellow Card at 73',Scott Logan Yellow Card,2,4380,73',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,22029.0,Scott Logan,2024-08-03 09:27:20
+12768,712934,10,43480251,76,Jackson Mylchreest (St. Johnstone B) Substitution at 75',Jackson Mylchreest Substitution,2,4500,75',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,347007.0,Jackson Mylchreest,2024-08-03 09:27:20
+12768,712934,10,43480251,76,Jackson Mylchreest (St. Johnstone B) Substitution at 75',Jackson Mylchreest Substitution,2,4500,75',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,225203.0,Taylor Steven,2024-08-03 09:27:20
+12768,712934,11,43480252,76,Ruari Henry (Brechin City) Substitution at 76',Ruari Henry Substitution,2,4560,76',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388195.0,Ruari Henry,2024-08-03 09:27:20
+12768,712934,12,43480253,76,Fraser Macleod (Brechin City) Substitution at 76',Fraser Macleod Substitution,2,4560,76',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260041.0,Fraser Macleod,2024-08-03 09:27:20
+12768,712934,11,43480252,76,Ruari Henry (Brechin City) Substitution at 76',Ruari Henry Substitution,2,4560,76',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,324545.0,John Moreland,2024-08-03 09:27:20
+12768,712934,12,43480253,76,Fraser Macleod (Brechin City) Substitution at 76',Fraser Macleod Substitution,2,4560,76',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,229806.0,Dayle Robertson,2024-08-03 09:27:20
+12768,712934,13,43480284,94,Liam Parker (St. Johnstone B) Yellow Card at 80',Liam Parker Yellow Card,2,4800,80',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,324849.0,Liam Parker,2024-08-03 09:27:20
+12768,712934,14,43480326,76,Anthony McDonald (Brechin City) Substitution at 88',Anthony McDonald Substitution,2,5280,88',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,263637.0,Anthony McDonald,2024-08-03 09:27:20
+12768,712934,15,43480327,76,Ben Mccrystal (St. Johnstone B) Substitution at 88',Ben Mccrystal Substitution,2,5280,88',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,347006.0,Ben Mccrystal,2024-08-03 09:27:20
+12768,712934,14,43480326,76,Anthony McDonald (Brechin City) Substitution at 88',Anthony McDonald Substitution,2,5280,88',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,22029.0,Scott Logan,2024-08-03 09:27:20
+12768,712934,15,43480327,76,Ben Mccrystal (St. Johnstone B) Substitution at 88',Ben Mccrystal Substitution,2,5280,88',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,341628.0,Aaron Essel,2024-08-03 09:27:20
+12768,712934,16,43480330,70,Connot Smith (St. Johnstone B) Goal at 90',Connot Smith Goal,2,5400,90',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,261410.0,Connot Smith,2024-08-03 09:27:20
+12768,712934,17,43480361,94,Connot Smith (St. Johnstone B) Yellow Card at 95',Connot Smith Yellow Card,2,5400,90'+5',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,261410.0,Connot Smith,2024-08-03 09:27:20
+12768,712934,18,43480388,93,Lewis Martin (Brechin City) Red Card at 95',Lewis Martin Red Card,2,5400,90'+5',413,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,179657.0,Lewis Martin,2024-08-03 09:27:20
+12768,712935,1,43475615,70,Finlay Malcolm (Bo'ness United) Goal at 1',Finlay Malcolm Goal,1,60,1',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,311112.0,Finlay Malcolm,2024-08-03 09:27:20
+12768,712935,2,43475688,76,Lucas Stenhouse (Bo'ness United) Substitution at 13',Lucas Stenhouse Substitution,1,780,13',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,347274.0,Lucas Stenhouse,2024-08-03 09:27:20
+12768,712935,2,43475688,76,Lucas Stenhouse (Bo'ness United) Substitution at 13',Lucas Stenhouse Substitution,1,780,13',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,321147.0,Kieran Mitchell,2024-08-03 09:27:20
+12768,712935,3,43475702,94,Ryan Porteous (Bo'ness United) Yellow Card at 16',Ryan Porteous Yellow Card,1,960,16',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239175.0,Ryan Porteous,2024-08-03 09:27:20
+12768,712935,4,43475737,70,Paul Nsio (Rangers B) Goal at 24',Paul Nsio Goal,1,1440,24',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,349119.0,Paul Nsio,2024-08-03 09:27:20
+12768,712935,5,43475782,70,Archie Stevens (Rangers B) Goal at 32',Archie Stevens Goal,1,1920,32',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,349118.0,Archie Stevens,2024-08-03 09:27:20
+12768,712935,6,43475842,70,Findlay Curtis (Rangers B) Goal at 43',Findlay Curtis Goal,1,2580,43',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,368045.0,Findlay Curtis,2024-08-03 09:27:20
+12768,712935,7,43475926,76,Kyle Johnston (Bo'ness United) Substitution at 45',Kyle Johnston Substitution,2,2700,45',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,316542.0,Kyle Johnston,2024-08-03 09:27:20
+12768,712935,7,43475926,76,Kyle Johnston (Bo'ness United) Substitution at 45',Kyle Johnston Substitution,2,2700,45',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,311112.0,Finlay Malcolm,2024-08-03 09:27:20
+12768,712935,8,43475958,76,Thomas Grant (Bo'ness United) Substitution at 53',Thomas Grant Substitution,2,3180,53',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,179646.0,Thomas Grant,2024-08-03 09:27:20
+12768,712935,8,43475958,76,Thomas Grant (Bo'ness United) Substitution at 53',Thomas Grant Substitution,2,3180,53',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,43214.0,Michael Gemmell,2024-08-03 09:27:20
+12768,712935,9,43476099,76,Zander Hutton (Rangers B) Substitution at 70',Zander Hutton Substitution,2,4200,70',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366794.0,Zander Hutton,2024-08-03 09:27:20
+12768,712935,10,43476100,76,Callum Burnside (Rangers B) Substitution at 70',Callum Burnside Substitution,2,4200,70',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388242.0,Callum Burnside,2024-08-03 09:27:20
+12768,712935,11,43476101,76,Christopher Eadie (Rangers B) Substitution at 70',Christopher Eadie Substitution,2,4200,70',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,368046.0,Christopher Eadie,2024-08-03 09:27:20
+12768,712935,9,43476099,76,Zander Hutton (Rangers B) Substitution at 70',Zander Hutton Substitution,2,4200,70',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291487.0,Alexander Lowry,2024-08-03 09:27:20
+12768,712935,10,43476100,76,Callum Burnside (Rangers B) Substitution at 70',Callum Burnside Substitution,2,4200,70',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,368045.0,Findlay Curtis,2024-08-03 09:27:20
+12768,712935,11,43476101,76,Christopher Eadie (Rangers B) Substitution at 70',Christopher Eadie Substitution,2,4200,70',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,179739.0,Jack Harkness,2024-08-03 09:27:20
+12768,712935,12,43476123,94,Keir Macaulay (Bo'ness United) Yellow Card at 74',Keir Macaulay Yellow Card,2,4440,74',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,327809.0,Keir Macaulay,2024-08-03 09:27:20
+12768,712935,13,43476149,76,Daniel Irving (Bo'ness United) Substitution at 74',Daniel Irving Substitution,2,4440,74',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260618.0,Daniel Irving,2024-08-03 09:27:20
+12768,712935,14,43476150,76,Louis Kennedy (Bo'ness United) Substitution at 74',Louis Kennedy Substitution,2,4440,74',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,294415.0,Louis Kennedy,2024-08-03 09:27:20
+12768,712935,13,43476149,76,Daniel Irving (Bo'ness United) Substitution at 74',Daniel Irving Substitution,2,4440,74',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,347274.0,Lucas Stenhouse,2024-08-03 09:27:20
+12768,712935,14,43476150,76,Louis Kennedy (Bo'ness United) Substitution at 74',Louis Kennedy Substitution,2,4440,74',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260159.0,John-James Henderson,2024-08-03 09:27:20
+12768,712935,15,43476133,94,Paul Nsio (Rangers B) Yellow Card at 76',Paul Nsio Yellow Card,2,4560,76',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,349119.0,Paul Nsio,2024-08-03 09:27:20
+12768,712935,16,43476148,94,Daniel Irving (Bo'ness United) Yellow Card at 76',Daniel Irving Yellow Card,2,4560,76',20850,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260618.0,Daniel Irving,2024-08-03 09:27:20
+12768,712935,17,43476189,76,Greig Allen (Rangers B) Substitution at 83',Greig Allen Substitution,2,4980,83',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,336377.0,Greig Allen,2024-08-03 09:27:20
+12768,712935,18,43476190,76,Blaine Mcclure (Rangers B) Substitution at 83',Blaine Mcclure Substitution,2,4980,83',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,376393.0,Blaine Mcclure,2024-08-03 09:27:20
+12768,712935,17,43476189,76,Greig Allen (Rangers B) Substitution at 83',Greig Allen Substitution,2,4980,83',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,322991.0,Connor Allan,2024-08-03 09:27:20
+12768,712935,18,43476190,76,Blaine Mcclure (Rangers B) Substitution at 83',Blaine Mcclure Substitution,2,4980,83',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,266978.0,Kerr Robertson,2024-08-03 09:27:20
+12768,712936,1,43475590,94,Marvin Kaleta (Motherwell B) Yellow Card at 12',Marvin Kaleta Yellow Card,1,720,12',19307,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,326213.0,Marvin Kaleta,2024-08-03 09:27:20
+12768,712936,2,43475628,76,Nathan Lawson (Motherwell B) Substitution at 18',Nathan Lawson Substitution,1,1080,18',19307,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388129.0,Nathan Lawson,2024-08-03 09:27:20
+12768,712936,2,43475628,76,Nathan Lawson (Motherwell B) Substitution at 18',Nathan Lawson Substitution,1,1080,18',19307,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,347021.0,Luca Ross,2024-08-03 09:27:20
+12768,712936,3,43475751,94,Greig Spence (East Stirlingshire) Yellow Card at 41',Greig Spence Yellow Card,1,2460,41',418,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,153935.0,Greig Spence,2024-08-03 09:27:20
+12768,712936,4,43475925,76,Che Reilly (East Stirlingshire) Substitution at 61',Che Reilly Substitution,2,3660,61',418,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,347272.0,Che Reilly,2024-08-03 09:27:20
+12768,712936,4,43475925,76,Che Reilly (East Stirlingshire) Substitution at 61',Che Reilly Substitution,2,3660,61',418,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,294416.0,Jamie Penker,2024-08-03 09:27:20
+12768,712936,5,43475931,76,Derin Marshall (Motherwell B) Substitution at 64',Derin Marshall Substitution,2,3840,64',19307,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366704.0,Derin Marshall,2024-08-03 09:27:20
+12768,712936,6,43475932,76,Zack Tomany (Motherwell B) Substitution at 64',Zack Tomany Substitution,2,3840,64',19307,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366705.0,Zack Tomany,2024-08-03 09:27:20
+12768,712936,7,43475933,76,Ross Nelson (Motherwell B) Substitution at 64',Ross Nelson Substitution,2,3840,64',19307,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366701.0,Ross Nelson,2024-08-03 09:27:20
+12768,712936,8,43475934,76,Scott Williamson (Motherwell B) Substitution at 64',Scott Williamson Substitution,2,3840,64',19307,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,344858.0,Scott Williamson,2024-08-03 09:27:20
+12768,712936,5,43475931,76,Derin Marshall (Motherwell B) Substitution at 64',Derin Marshall Substitution,2,3840,64',19307,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,326213.0,Marvin Kaleta,2024-08-03 09:27:20
+12768,712936,6,43475932,76,Zack Tomany (Motherwell B) Substitution at 64',Zack Tomany Substitution,2,3840,64',19307,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,126345.0,Paul McGinn,2024-08-03 09:27:20
+12768,712936,7,43475933,76,Ross Nelson (Motherwell B) Substitution at 64',Ross Nelson Substitution,2,3840,64',19307,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,347017.0,Dylan Wells,2024-08-03 09:27:20
+12768,712936,8,43475934,76,Scott Williamson (Motherwell B) Substitution at 64',Scott Williamson Substitution,2,3840,64',19307,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,319094.0,Tom Sparrow,2024-08-03 09:27:20
+12768,712936,9,43475978,76,Matt Flynn (East Stirlingshire) Substitution at 71',Matt Flynn Substitution,2,4260,71',418,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,26586.0,Matt Flynn,2024-08-03 09:27:20
+12768,712936,9,43475978,76,Matt Flynn (East Stirlingshire) Substitution at 71',Matt Flynn Substitution,2,4260,71',418,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,194207.0,Callum Murray,2024-08-03 09:27:20
+12768,712936,10,43475989,94,Kieran Curtis (East Stirlingshire) Yellow Card at 75',Kieran Curtis Yellow Card,2,4500,75',418,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,345193.0,Kieran Curtis,2024-08-03 09:27:20
+12768,712936,11,43476088,94,Zack Tomany (Motherwell B) Yellow Card at 84',Zack Tomany Yellow Card,2,5040,84',19307,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366705.0,Zack Tomany,2024-08-03 09:27:20
+12768,712937,1,43475634,70,Dom Mcmahon (Albion Rovers) Goal at 18',Dom Mcmahon Goal,1,1080,18',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,308894.0,Dom Mcmahon,2024-08-03 09:27:20
+12768,712937,2,43475647,70,Reuben Mcallister (Hibernian B) Goal at 21',Reuben Mcallister Goal,1,1260,21',19306,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366227.0,Reuben Mcallister,2024-08-03 09:27:20
+12768,712937,3,43475910,70,Callum Home (Albion Rovers) Goal at 53',Callum Home Goal,2,3180,53',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,212697.0,Callum Home,2024-08-03 09:27:20
+12768,712937,4,43475948,76,Adam Mcmillan (Albion Rovers) Substitution at 63',Adam Mcmillan Substitution,2,3780,63',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,347003.0,Adam Mcmillan,2024-08-03 09:27:20
+12768,712937,4,43475948,76,Adam Mcmillan (Albion Rovers) Substitution at 63',Adam Mcmillan Substitution,2,3780,63',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,39309.0,Nathan Brown,2024-08-03 09:27:20
+12768,712937,5,43475987,70,Jamie Mcmurdo (Hibernian B) Goal at 72',Jamie Mcmurdo Goal,2,4320,72',19306,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,370556.0,Jamie Mcmurdo,2024-08-03 09:27:20
+12768,712937,6,43476005,94,Reuben Mcallister (Hibernian B) Yellow Card at 75',Reuben Mcallister Yellow Card,2,4500,75',19306,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366227.0,Reuben Mcallister,2024-08-03 09:27:20
+12768,712937,7,43476017,94,Barry Duncan (Albion Rovers) Yellow Card at 76',Barry Duncan Yellow Card,2,4560,76',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,345199.0,Barry Duncan,2024-08-03 09:27:20
+12768,712937,8,43476030,76,Luke Davidson (Hibernian B) Substitution at 77',Luke Davidson Substitution,2,4620,77',19306,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,271403.0,Luke Davidson,2024-08-03 09:27:20
+12768,712937,8,43476030,76,Luke Davidson (Hibernian B) Substitution at 77',Luke Davidson Substitution,2,4620,77',19306,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388131.0,Josh Mcdonald,2024-08-03 09:27:20
+12768,712937,9,43476031,76,Michael Paton (Albion Rovers) Substitution at 78',Michael Paton Substitution,2,4680,78',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,88678.0,Michael Paton,2024-08-03 09:27:20
+12768,712937,9,43476031,76,Michael Paton (Albion Rovers) Substitution at 78',Michael Paton Substitution,2,4680,78',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277546.0,Paul Kennedy,2024-08-03 09:27:20
+12768,712937,10,43476035,70,Jamie Mcmurdo (Hibernian B) Goal at 79',Jamie Mcmurdo Goal,2,4740,79',19306,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,370556.0,Jamie Mcmurdo,2024-08-03 09:27:20
+12768,712937,11,43476139,94,Ross Connelly (Albion Rovers) Yellow Card at 88',Ross Connelly Yellow Card,2,5280,88',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,240904.0,Ross Connelly,2024-08-03 09:27:20
+12768,712937,12,43476145,117,Michael Paton (Albion Rovers) Shot Off Target at 91',Michael Paton Shot Off Target,2,5400,90'+1',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,88678.0,Michael Paton,2024-08-03 09:27:20
+12768,712937,13,43476163,70,Michael Paton (Albion Rovers) Goal at 92',Michael Paton Goal,2,5400,90'+2',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,88678.0,Michael Paton,2024-08-03 09:27:20
+12768,712938,1,43475598,70,Mackenzie Ross (Heart of Midlothian B) Goal at 29',Mackenzie Ross Goal,1,1740,29',19309,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,365875.0,Mackenzie Ross,2024-08-03 09:27:20
+12768,712938,2,43475823,76,Gus Stevenson (Heart of Midlothian B) Substitution at 54',Gus Stevenson Substitution,2,3240,54',19309,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,365869.0,Gus Stevenson,2024-08-03 09:27:20
+12768,712938,2,43475823,76,Gus Stevenson (Heart of Midlothian B) Substitution at 54',Gus Stevenson Substitution,2,3240,54',19309,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,346188.0,Bobby Mcluckie,2024-08-03 09:27:20
+12768,712938,3,43475855,76,Alfie Osborne (Heart of Midlothian B) Substitution at 61',Alfie Osborne Substitution,2,3660,61',19309,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388249.0,Alfie Osborne,2024-08-03 09:27:20
+12768,712938,3,43475855,76,Alfie Osborne (Heart of Midlothian B) Substitution at 61',Alfie Osborne Substitution,2,3660,61',19309,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,43235.0,Ryan Duncan,2024-08-03 09:27:20
+12768,712938,4,43475901,76,William West (Fraserburgh) Substitution at 69',William West Substitution,2,4140,69',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,127295.0,William West,2024-08-03 09:27:20
+12768,712938,5,43475902,76,Aiden Sopel (Fraserburgh) Substitution at 69',Aiden Sopel Substitution,2,4140,69',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,249012.0,Aiden Sopel,2024-08-03 09:27:20
+12768,712938,6,43475903,76,Sean Butcher (Fraserburgh) Substitution at 69',Sean Butcher Substitution,2,4140,69',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,276903.0,Sean Butcher,2024-08-03 09:27:20
+12768,712938,4,43475901,76,William West (Fraserburgh) Substitution at 69',William West Substitution,2,4140,69',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,245410.0,Joshua Hawkins,2024-08-03 09:27:20
+12768,712938,5,43475902,76,Aiden Sopel (Fraserburgh) Substitution at 69',Aiden Sopel Substitution,2,4140,69',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312425.0,Josh Bolton,2024-08-03 09:27:20
+12768,712938,6,43475903,76,Sean Butcher (Fraserburgh) Substitution at 69',Sean Butcher Substitution,2,4140,69',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,167993.0,Scott Barbour,2024-08-03 09:27:20
+12768,712938,7,43475913,70,Sean Butcher (Fraserburgh) Goal at 73',Sean Butcher Goal,2,4380,73',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,276903.0,Sean Butcher,2024-08-03 09:27:20
+12768,712938,8,43475927,76,Gregor Crookston (Heart of Midlothian B) Substitution at 79',Gregor Crookston Substitution,2,4740,79',19309,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,365872.0,Gregor Crookston,2024-08-03 09:27:20
+12768,712938,8,43475927,76,Gregor Crookston (Heart of Midlothian B) Substitution at 79',Gregor Crookston Substitution,2,4740,79',19309,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,387534.0,Matthew Gillies,2024-08-03 09:27:20
+12768,712938,9,43475979,76,Bryan Hay (Fraserburgh) Substitution at 86',Bryan Hay Substitution,2,5160,86',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,228881.0,Bryan Hay,2024-08-03 09:27:20
+12768,712938,9,43475979,76,Bryan Hay (Fraserburgh) Substitution at 86',Bryan Hay Substitution,2,5160,86',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388031.0,Jake Garden,2024-08-03 09:27:20
+12768,712938,10,43475980,76,Flynn Mckay (Fraserburgh) Substitution at 87',Flynn Mckay Substitution,2,5220,87',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388030.0,Flynn Mckay,2024-08-03 09:27:20
+12768,712938,10,43475980,76,Flynn Mckay (Fraserburgh) Substitution at 87',Flynn Mckay Substitution,2,5220,87',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291526.0,Logan Watt,2024-08-03 09:27:20
+12768,712939,1,43475706,70,Owen Stirton (Dundee United B) Goal at 18',Owen Stirton Goal,1,1080,18',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,368872.0,Owen Stirton,2024-08-03 09:27:20
+12768,712939,2,43475768,94,Joe McCabe (Buckie Thistle) Yellow Card at 29',Joe McCabe Yellow Card,1,1740,29',650,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,228897.0,Joe McCabe,2024-08-03 09:27:20
+12768,712939,3,43475957,70,Josh Peters (Buckie Thistle) Goal at 54',Josh Peters Goal,2,3240,54',650,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,211932.0,Josh Peters,2024-08-03 09:27:20
+12768,712939,4,43476024,76,Marcus Goodall (Buckie Thistle) Substitution at 63',Marcus Goodall Substitution,2,3780,63',650,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291497.0,Marcus Goodall,2024-08-03 09:27:20
+12768,712939,5,43476025,76,Darryl Mchardy (Buckie Thistle) Substitution at 63',Darryl Mchardy Substitution,2,3780,63',650,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,176456.0,Darryl Mchardy,2024-08-03 09:27:20
+12768,712939,6,43476026,76,Cohen Ramsey (Buckie Thistle) Substitution at 63',Cohen Ramsey Substitution,2,3780,63',650,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,240687.0,Cohen Ramsey,2024-08-03 09:27:20
+12768,712939,4,43476024,76,Marcus Goodall (Buckie Thistle) Substitution at 63',Marcus Goodall Substitution,2,3780,63',650,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,228787.0,Fraser Robertson,2024-08-03 09:27:20
+12768,712939,5,43476025,76,Darryl Mchardy (Buckie Thistle) Substitution at 63',Darryl Mchardy Substitution,2,3780,63',650,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,327828.0,Innes Mckay,2024-08-03 09:27:20
+12768,712939,6,43476026,76,Cohen Ramsey (Buckie Thistle) Substitution at 63',Cohen Ramsey Substitution,2,3780,63',650,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,206497.0,Dale Wood,2024-08-03 09:27:20
+12768,712939,7,43476027,76,Zeke Cameron (Dundee United B) Substitution at 64',Zeke Cameron Substitution,2,3840,64',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388282.0,Zeke Cameron,2024-08-03 09:27:20
+12768,712939,7,43476027,76,Zeke Cameron (Dundee United B) Substitution at 64',Zeke Cameron Substitution,2,3840,64',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,346442.0,Sean Borland,2024-08-03 09:27:20
+12768,712939,8,43476057,94,Andy MacAskill (Buckie Thistle) Yellow Card at 67',Andy MacAskill Yellow Card,2,4020,67',650,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,228941.0,Andy MacAskill,2024-08-03 09:27:20
+12768,712939,9,43476153,76,Kevin Fraser (Buckie Thistle) Substitution at 77',Kevin Fraser Substitution,2,4620,77',650,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,40472.0,Kevin Fraser,2024-08-03 09:27:20
+12768,712939,9,43476153,76,Kevin Fraser (Buckie Thistle) Substitution at 77',Kevin Fraser Substitution,2,4620,77',650,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,324746.0,Jack Maciver,2024-08-03 09:27:20
+12768,712939,10,43476168,76,Calvin Beattie (Dundee United B) Substitution at 79',Calvin Beattie Substitution,2,4740,79',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388146.0,Calvin Beattie,2024-08-03 09:27:20
+12768,712939,10,43476168,76,Calvin Beattie (Dundee United B) Substitution at 79',Calvin Beattie Substitution,2,4740,79',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,346439.0,Alan Domeracki,2024-08-03 09:27:20
+12768,712939,11,43476174,70,Zeke Cameron (Dundee United B) Goal at 81',Zeke Cameron Goal,2,4860,81',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388282.0,Zeke Cameron,2024-08-03 09:27:20
+12768,712939,12,43476198,76,Liam Harvey (Buckie Thistle) Substitution at 85',Liam Harvey Substitution,2,5100,85',650,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,324749.0,Liam Harvey,2024-08-03 09:27:20
+12768,712939,12,43476198,76,Liam Harvey (Buckie Thistle) Substitution at 85',Liam Harvey Substitution,2,5100,85',650,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366521.0,Lyall Keir,2024-08-03 09:27:20
+12768,712939,13,43476205,70,Lewis O'Donnell (Dundee United B) Goal at 88',Lewis O'Donnell Goal,2,5280,88',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,332860.0,Lewis O'Donnell,2024-08-03 09:27:20
+12768,712940,1,43475595,70,Paul Mclean (Cowdenbeath) Goal at 11',Paul Mclean Goal,1,660,11',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,137443.0,Paul Mclean,2024-08-03 09:27:20
+12768,712940,2,43475736,97,Paul Mclean (Cowdenbeath) Own Goal at 37',Paul Mclean Own Goal,1,2220,37',21579,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,,Paul Mclean,2024-08-03 09:27:20
+12768,712940,3,43475752,70,Reuben Cooper (Kilmarnock B) Goal at 41',Reuben Cooper Goal,1,2460,41',21579,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388263.0,Reuben Cooper,2024-08-03 09:27:20
+12768,712940,4,43475914,94,Aiden Mclaughlin (Cowdenbeath) Yellow Card at 56',Aiden Mclaughlin Yellow Card,2,3360,56',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,308685.0,Aiden Mclaughlin,2024-08-03 09:27:20
+12768,712940,5,43475943,76,Jake Sutherland (Cowdenbeath) Substitution at 63',Jake Sutherland Substitution,2,3780,63',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,370589.0,Jake Sutherland,2024-08-03 09:27:20
+12768,712940,5,43475943,76,Jake Sutherland (Cowdenbeath) Substitution at 63',Jake Sutherland Substitution,2,3780,63',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,252069.0,Daryl Healy,2024-08-03 09:27:20
+12768,712940,6,43475960,76,Gregor Jordan (Cowdenbeath) Substitution at 68',Gregor Jordan Substitution,2,4080,68',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277551.0,Gregor Jordan,2024-08-03 09:27:20
+12768,712940,6,43475960,76,Gregor Jordan (Cowdenbeath) Substitution at 68',Gregor Jordan Substitution,2,4080,68',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,308685.0,Aiden Mclaughlin,2024-08-03 09:27:20
+12768,712940,7,43475983,70,Matthew Mcdonald (Cowdenbeath) Goal at 72',Matthew Mcdonald Goal,2,4320,72',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,231790.0,Matthew Mcdonald,2024-08-03 09:27:20
+12768,712940,8,43475993,70,Paul Mclean (Cowdenbeath) Goal at 74',Paul Mclean Goal,2,4440,74',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,137443.0,Paul Mclean,2024-08-03 09:27:20
+12768,712940,9,43476000,76,Cole Burke (Kilmarnock B) Substitution at 75',Cole Burke Substitution,2,4500,75',21579,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388266.0,Cole Burke,2024-08-03 09:27:20
+12768,712940,9,43476000,76,Cole Burke (Kilmarnock B) Substitution at 75',Cole Burke Substitution,2,4500,75',21579,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388145.0,Grant Marchant,2024-08-03 09:27:20
+12768,712940,10,43476084,94,Gregor Jordan (Cowdenbeath) Yellow Card at 82',Gregor Jordan Yellow Card,2,4920,82',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277551.0,Gregor Jordan,2024-08-03 09:27:20
+12768,712940,11,43476102,76,Jack Allan (Kilmarnock B) Substitution at 83',Jack Allan Substitution,2,4980,83',21579,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,268977.0,Jack Allan,2024-08-03 09:27:20
+12768,712940,12,43476111,76,Samuel Duruh (Kilmarnock B) Substitution at 83',Samuel Duruh Substitution,2,4980,83',21579,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388268.0,Samuel Duruh,2024-08-03 09:27:20
+12768,712940,11,43476102,76,Jack Allan (Kilmarnock B) Substitution at 83',Jack Allan Substitution,2,4980,83',21579,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,350930.0,Zander Craik,2024-08-03 09:27:20
+12768,712940,12,43476111,76,Samuel Duruh (Kilmarnock B) Substitution at 83',Samuel Duruh Substitution,2,4980,83',21579,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,387973.0,Archie Traynor,2024-08-03 09:27:20
+12768,712940,13,43476125,76,Logan Burgues (Kilmarnock B) Substitution at 88',Logan Burgues Substitution,2,5280,88',21579,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388267.0,Logan Burgues,2024-08-03 09:27:20
+12768,712940,13,43476125,76,Logan Burgues (Kilmarnock B) Substitution at 88',Logan Burgues Substitution,2,5280,88',21579,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388268.0,Samuel Duruh,2024-08-03 09:27:20
+12768,712940,14,43476143,70,Ethan Kerr (Cowdenbeath) Goal at 90',Ethan Kerr Goal,2,5400,90',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388032.0,Ethan Kerr,2024-08-03 09:27:20
+12768,712941,1,43475607,70,Rayan Mohammed (Dundee B) Goal at 14',Rayan Mohammed Goal,1,840,14',19305,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,358589.0,Rayan Mohammed,2024-08-03 09:27:20
+12768,712941,2,43475629,70,Marley Sweenie-Rowe (Dundee B) Goal at 19',Marley Sweenie-Rowe Goal,1,1140,19',19305,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366853.0,Marley Sweenie-Rowe,2024-08-03 09:27:20
+12768,712941,3,43475900,94,Aaron Norris (Formartine United) Yellow Card at 54',Aaron Norris Yellow Card,2,3240,54',13397,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,238858.0,Aaron Norris,2024-10-14 07:04:32
+12768,712941,4,43475918,76,Paul Campbell (Formartine United) Substitution at 59',Paul Campbell Substitution,2,3540,59',13397,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,228937.0,Paul Campbell,2024-08-03 09:27:20
+12768,712941,4,43475918,76,Paul Campbell (Formartine United) Substitution at 59',Paul Campbell Substitution,2,3540,59',13397,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,248908.0,Scott Lisle,2024-08-03 09:27:20
+12768,712941,5,43475956,94,Matthew Mclean (Formartine United) Yellow Card at 69',Matthew Mclean Yellow Card,2,4140,69',13397,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,329392.0,Matthew Mclean,2024-08-03 09:27:20
+12768,712941,6,43475961,76,Ryan Spink (Formartine United) Substitution at 70',Ryan Spink Substitution,2,4200,70',13397,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,232297.0,Ryan Spink,2024-08-03 09:27:20
+12768,712941,7,43475962,76,Scott Adams (Formartine United) Substitution at 70',Scott Adams Substitution,2,4200,70',13397,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,126247.0,Scott Adams,2024-08-03 09:27:20
+12768,712941,8,43475963,76,Kieran Lawrence (Formartine United) Substitution at 70',Kieran Lawrence Substitution,2,4200,70',13397,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,228826.0,Kieran Lawrence,2024-08-03 09:27:20
+12768,712941,9,43475964,76,Brody Alberts (Formartine United) Substitution at 70',Brody Alberts Substitution,2,4200,70',13397,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,353053.0,Brody Alberts,2024-08-03 09:27:20
+12768,712941,6,43475961,76,Ryan Spink (Formartine United) Substitution at 70',Ryan Spink Substitution,2,4200,70',13397,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,159215.0,Julian Wade,2024-08-03 09:27:20
+12768,712941,7,43475962,76,Scott Adams (Formartine United) Substitution at 70',Scott Adams Substitution,2,4200,70',13397,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,228883.0,Aidan Combe,2024-08-03 09:27:20
+12768,712941,8,43475963,76,Kieran Lawrence (Formartine United) Substitution at 70',Kieran Lawrence Substitution,2,4200,70',13397,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388028.0,Callum Youngson,2024-08-03 09:27:20
+12768,712941,9,43475964,76,Brody Alberts (Formartine United) Substitution at 70',Brody Alberts Substitution,2,4200,70',13397,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,228833.0,Stuart Smith,2024-08-03 09:27:20
+12768,712941,10,43476126,76,Michael Hunter (Dundee B) Substitution at 89',Michael Hunter Substitution,2,5340,89',19305,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,143786.0,Michael Hunter,2024-08-03 09:27:20
+12768,712941,10,43476126,76,Michael Hunter (Dundee B) Substitution at 89',Michael Hunter Substitution,2,5340,89',19305,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388254.0,Finlay Corrigan,2024-08-03 09:27:20
+12768,712942,1,43475531,70,Cameron Elliott (East Kilbride) Goal at 5',Cameron Elliott Goal,1,300,5',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,248903.0,Cameron Elliott,2024-08-03 09:27:20
+12768,712942,2,43475651,70,John Robertson (East Kilbride) Goal at 22',John Robertson Goal,1,1320,22',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,261415.0,John Robertson,2024-08-03 09:27:20
+12768,712942,3,43475873,94,Cameron Elliott (East Kilbride) Yellow Card at 48',Cameron Elliott Yellow Card,2,2880,48',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,248903.0,Cameron Elliott,2024-08-03 09:27:20
+12768,712942,4,43475924,70,Jack Leitch (East Kilbride) Goal at 61',Jack Leitch Goal,2,3660,61',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,190864.0,Jack Leitch,2024-08-03 09:27:20
+12768,712942,5,43475944,76,Joao Balde (East Kilbride) Substitution at 64',Joao Balde Substitution,2,3840,64',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291490.0,Joao Balde,2024-08-03 09:27:20
+12768,712942,6,43475945,76,Keir Samson (East Kilbride) Substitution at 64',Keir Samson Substitution,2,3840,64',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,227710.0,Keir Samson,2024-08-03 09:27:20
+12768,712942,7,43475946,76,Tiwi Daramola (East Kilbride) Substitution at 64',Tiwi Daramola Substitution,2,3840,64',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,289617.0,Tiwi Daramola,2024-08-03 09:27:20
+12768,712942,8,43475947,76,Samuel Isiguzo (Celtic B) Substitution at 64',Samuel Isiguzo Substitution,2,3840,64',20991,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,380989.0,Samuel Isiguzo,2024-08-03 09:27:20
+12768,712942,5,43475944,76,Joao Balde (East Kilbride) Substitution at 64',Joao Balde Substitution,2,3840,64',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,190864.0,Jack Leitch,2024-08-03 09:27:20
+12768,712942,6,43475945,76,Keir Samson (East Kilbride) Substitution at 64',Keir Samson Substitution,2,3840,64',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,248903.0,Cameron Elliott,2024-08-03 09:27:20
+12768,712942,7,43475946,76,Tiwi Daramola (East Kilbride) Substitution at 64',Tiwi Daramola Substitution,2,3840,64',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,261415.0,John Robertson,2024-08-03 09:27:20
+12768,712942,8,43475947,76,Samuel Isiguzo (Celtic B) Substitution at 64',Samuel Isiguzo Substitution,2,3840,64',20991,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,354875.0,Daniel Cummings,2024-08-03 09:27:20
+12768,712942,9,43475988,76,Andrew Kyle (Celtic B) Substitution at 73',Andrew Kyle Substitution,2,4380,73',20991,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,387201.0,Andrew Kyle,2024-08-03 09:27:20
+12768,712942,9,43475988,76,Andrew Kyle (Celtic B) Substitution at 73',Andrew Kyle Substitution,2,4380,73',20991,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,387203.0,Liam Bonetig,2024-08-03 09:27:20
+12768,712942,10,43476016,76,Robert Thomson (East Kilbride) Substitution at 77',Robert Thomson Substitution,2,4620,77',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,94004.0,Robert Thomson,2024-08-03 09:27:20
+12768,712942,10,43476016,76,Robert Thomson (East Kilbride) Substitution at 77',Robert Thomson Substitution,2,4620,77',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,308688.0,Callum Biggar,2024-08-03 09:27:20
+12768,712942,11,43476094,76,Aiden Haddow (Celtic B) Substitution at 83',Aiden Haddow Substitution,2,4980,83',20991,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388271.0,Aiden Haddow,2024-08-03 09:27:20
+12768,712942,11,43476094,76,Aiden Haddow (Celtic B) Substitution at 83',Aiden Haddow Substitution,2,4980,83',20991,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,227438.0,Daniel Kelly,2024-08-03 09:27:20
+12768,712942,12,43476155,94,Lewis Spence (East Kilbride) Yellow Card at 92',Lewis Spence Yellow Card,2,5400,90'+2',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,179662.0,Lewis Spence,2024-08-03 09:27:20
+12767,712943,1,43548662,94,Paul Nsio (Rangers B) Yellow Card at 42',Paul Nsio Yellow Card,1,2520,42',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,349119.0,Paul Nsio,2024-08-16 09:42:02
+12767,712943,2,43548663,98,Logan Dunachie (Clyde) Penalty - Scored at 43',Logan Dunachie Penalty - Scored,1,2580,43',255,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,347020.0,Logan Dunachie,2024-08-16 09:42:02
+12767,712943,3,43548696,94,Kyle Connell (Clyde) Yellow Card at 47',Kyle Connell Yellow Card,1,2700,45'+2',255,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,292265.0,Kyle Connell,2024-08-16 09:42:02
+12767,712943,4,43548791,70,Alexander Lowry (Rangers B) Goal at 59',Alexander Lowry Goal,2,3540,59',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291487.0,Alexander Lowry,2024-08-16 09:42:02
+12767,712943,5,43548804,76,Zak Lovelace (Rangers B) Substitution at 60',Zak Lovelace Substitution,2,3600,60',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,333022.0,Zak Lovelace,2024-08-16 09:42:02
+12767,712943,6,43548805,76,Callum Burnside (Rangers B) Substitution at 60',Callum Burnside Substitution,2,3600,60',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388242.0,Callum Burnside,2024-08-16 09:42:02
+12767,712943,5,43548804,76,Zak Lovelace (Rangers B) Substitution at 60',Zak Lovelace Substitution,2,3600,60',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,376392.0,Josh Gentles,2024-08-16 09:42:02
+12767,712943,6,43548805,76,Callum Burnside (Rangers B) Substitution at 60',Callum Burnside Substitution,2,3600,60',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,285387.0,Calum Adamson,2024-08-16 09:42:02
+12767,712943,7,43548855,70,Callum Burnside (Rangers B) Goal at 69',Callum Burnside Goal,2,4140,69',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388242.0,Callum Burnside,2024-08-16 09:42:02
+12767,712943,8,43548862,76,Martin Rennie (Clyde) Substitution at 70',Martin Rennie Substitution,2,4200,70',255,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,270016.0,Martin Rennie,2024-08-16 09:42:02
+12767,712943,9,43548863,76,Jordan Houston (Clyde) Substitution at 70',Jordan Houston Substitution,2,4200,70',255,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239326.0,Jordan Houston,2024-08-16 09:42:02
+12767,712943,8,43548862,76,Martin Rennie (Clyde) Substitution at 70',Martin Rennie Substitution,2,4200,70',255,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,292265.0,Kyle Connell,2024-08-16 09:42:02
+12767,712943,9,43548863,76,Jordan Houston (Clyde) Substitution at 70',Jordan Houston Substitution,2,4200,70',255,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,263664.0,Liam Scullion,2024-08-16 09:42:02
+12767,712943,10,43548882,76,Jordan Allan (Clyde) Substitution at 73',Jordan Allan Substitution,2,4380,73',255,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,186044.0,Jordan Allan,2024-08-16 09:42:02
+12767,712943,11,43548883,76,Robbie Leitch (Clyde) Substitution at 73',Robbie Leitch Substitution,2,4380,73',255,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,220706.0,Robbie Leitch,2024-08-16 09:42:02
+12767,712943,10,43548882,76,Jordan Allan (Clyde) Substitution at 73',Jordan Allan Substitution,2,4380,73',255,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,347020.0,Logan Dunachie,2024-08-16 09:42:02
+12767,712943,11,43548883,76,Robbie Leitch (Clyde) Substitution at 73',Robbie Leitch Substitution,2,4380,73',255,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291653.0,Marley Redfern,2024-08-16 09:42:02
+12767,712943,12,43548892,94,Adam Devine (Rangers B) Yellow Card at 75',Adam Devine Yellow Card,2,4500,75',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291482.0,Adam Devine,2024-08-16 09:42:02
+12767,712943,13,43548905,76,Connor Allan (Rangers B) Substitution at 76',Connor Allan Substitution,2,4560,76',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,322991.0,Connor Allan,2024-08-16 09:42:02
+12767,712943,13,43548905,76,Connor Allan (Rangers B) Substitution at 76',Connor Allan Substitution,2,4560,76',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,309104.0,Leon Thomson King,2024-08-16 09:42:02
+12767,712943,14,43548906,93,Callum Burnside (Rangers B) Red Card at 77',Callum Burnside Red Card,2,4620,77',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388242.0,Callum Burnside,2024-08-16 09:42:02
+12767,712943,15,43548929,76,Thomas Robson (Clyde) Substitution at 79',Thomas Robson Substitution,2,4740,79',255,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,213552.0,Thomas Robson,2024-08-16 09:42:02
+12767,712943,15,43548929,76,Thomas Robson (Clyde) Substitution at 79',Thomas Robson Substitution,2,4740,79',255,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239326.0,Jordan Houston,2024-08-16 09:42:02
+12767,712943,16,43548947,76,Kristian Webster (Rangers B) Substitution at 82',Kristian Webster Substitution,2,4920,82',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,271188.0,Kristian Webster,2024-08-16 09:42:02
+12767,712943,16,43548947,76,Kristian Webster (Rangers B) Substitution at 82',Kristian Webster Substitution,2,4920,82',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,349119.0,Paul Nsio,2024-08-16 09:42:02
+12767,712943,17,43548956,70,Robbie Leitch (Clyde) Goal at 85',Robbie Leitch Goal,2,5100,85',255,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,220706.0,Robbie Leitch,2024-08-16 09:42:02
+12767,712943,18,43549002,70,Alexander Lowry (Rangers B) Goal at 91',Alexander Lowry Goal,2,5400,90'+1',20993,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291487.0,Alexander Lowry,2024-08-16 09:42:02
+12767,712944,1,43541233,94,Deryn Lang (Stranraer) Yellow Card at 23',Deryn Lang Yellow Card,1,1380,23',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366556.0,Deryn Lang,2024-08-14 09:10:59
+12767,712944,2,43541357,94,Dean Watson (Bonnyrigg Rose) Yellow Card at 24',Dean Watson Yellow Card,1,1440,24',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,275907.0,Dean Watson,2024-08-14 09:10:59
+12767,712944,3,43541002,70,Mark Russell (Stranraer) Goal at 32',Mark Russell Goal,1,1920,32',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,118401.0,Mark Russell,2024-08-14 09:10:59
+12767,712944,4,43542156,76,Kerr Young (Bonnyrigg Rose) Substitution at 45',Kerr Young Substitution,2,2700,45',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,163102.0,Kerr Young,2024-08-14 09:10:59
+12767,712944,5,43542157,76,Lee Currie (Bonnyrigg Rose) Substitution at 45',Lee Currie Substitution,2,2700,45',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,137315.0,Lee Currie,2024-08-14 09:10:59
+12767,712944,6,43542158,76,Bradley Barrett (Bonnyrigg Rose) Substitution at 45',Bradley Barrett Substitution,2,2700,45',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312345.0,Bradley Barrett,2024-08-14 09:10:59
+12767,712944,7,43542159,76,Kallum Higginbotham (Bonnyrigg Rose) Substitution at 45',Kallum Higginbotham Substitution,2,2700,45',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,107564.0,Kallum Higginbotham,2024-08-14 09:10:59
+12767,712944,4,43542156,76,Kerr Young (Bonnyrigg Rose) Substitution at 45',Kerr Young Substitution,2,2700,45',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,375257.0,Ben Scarborough,2024-08-14 09:10:59
+12767,712944,5,43542157,76,Lee Currie (Bonnyrigg Rose) Substitution at 45',Lee Currie Substitution,2,2700,45',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,275907.0,Dean Watson,2024-08-14 09:10:59
+12767,712944,6,43542158,76,Bradley Barrett (Bonnyrigg Rose) Substitution at 45',Bradley Barrett Substitution,2,2700,45',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,249014.0,Keiran Mcgachie,2024-08-14 09:10:59
+12767,712944,7,43542159,76,Kallum Higginbotham (Bonnyrigg Rose) Substitution at 45',Kallum Higginbotham Substitution,2,2700,45',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366797.0,Owen Waddell,2024-08-14 09:10:59
+12767,712944,8,43542937,70,Craig Ross (Stranraer) Goal at 57',Craig Ross Goal,2,3420,57',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,40479.0,Craig Ross,2024-08-14 09:10:59
+12767,712944,9,43543081,94,Bradley Barrett (Bonnyrigg Rose) Yellow Card at 59',Bradley Barrett Yellow Card,2,3540,59',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,312345.0,Bradley Barrett,2024-08-14 09:10:59
+12767,712944,10,43544024,76,Kirk Mcknight (Stranraer) Substitution at 71',Kirk Mcknight Substitution,2,4260,71',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,322782.0,Kirk Mcknight,2024-08-14 09:10:59
+12767,712944,11,43544025,76,Grant Gallagher (Stranraer) Substitution at 71',Grant Gallagher Substitution,2,4260,71',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,149794.0,Grant Gallagher,2024-08-14 09:10:59
+12767,712944,10,43544024,76,Kirk Mcknight (Stranraer) Substitution at 71',Kirk Mcknight Substitution,2,4260,71',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366556.0,Deryn Lang,2024-08-14 09:10:59
+12767,712944,11,43544025,76,Grant Gallagher (Stranraer) Substitution at 71',Grant Gallagher Substitution,2,4260,71',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277580.0,Tomas Brindley,2024-08-14 09:10:59
+12767,712944,12,43544026,94,Kieran Sommerville (Bonnyrigg Rose) Yellow Card at 73',Kieran Sommerville Yellow Card,2,4380,73',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,224288.0,Kieran Sommerville,2024-08-14 09:10:59
+12767,712944,13,43544249,94,Kallum Higginbotham (Bonnyrigg Rose) Yellow Card at 76',Kallum Higginbotham Yellow Card,2,4560,76',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,107564.0,Kallum Higginbotham,2024-08-14 09:10:59
+12767,712944,14,43544507,93,Kerr Young (Bonnyrigg Rose) Red Card at 78',Kerr Young Red Card,2,4680,78',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,163102.0,Kerr Young,2024-08-14 09:10:59
+12767,712944,15,43544577,94,Ryan Edgar (Stranraer) Yellow Card at 80',Ryan Edgar Yellow Card,2,4800,80',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,115743.0,Ryan Edgar,2024-08-14 09:10:59
+12767,712944,16,43544717,76,Sean Mcintosh (Stranraer) Substitution at 82',Sean Mcintosh Substitution,2,4920,82',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,77132.0,Sean Mcintosh,2024-08-14 09:10:59
+12767,712944,17,43544718,76,Finn Ecrepont (Stranraer) Substitution at 82',Finn Ecrepont Substitution,2,4920,82',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277541.0,Finn Ecrepont,2024-08-14 09:10:59
+12767,712944,18,43544719,76,Ben Hughes (Stranraer) Substitution at 82',Ben Hughes Substitution,2,4920,82',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,301424.0,Ben Hughes,2024-08-14 09:10:59
+12767,712944,16,43544717,76,Sean Mcintosh (Stranraer) Substitution at 82',Sean Mcintosh Substitution,2,4920,82',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,191438.0,Dean Hawkshaw,2024-08-14 09:10:59
+12767,712944,17,43544718,76,Finn Ecrepont (Stranraer) Substitution at 82',Finn Ecrepont Substitution,2,4920,82',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,118401.0,Mark Russell,2024-08-14 09:10:59
+12767,712944,18,43544719,76,Ben Hughes (Stranraer) Substitution at 82',Ben Hughes Substitution,2,4920,82',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,228783.0,Matthew Grant,2024-08-14 09:10:59
+12767,712944,19,43544838,97,Craig Ross (Stranraer) Own Goal at 84',Craig Ross Own Goal,2,5040,84',10605,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,,Craig Ross,2024-08-14 09:10:59
+12767,712944,20,43545147,94,Adam Cummins (Stranraer) Yellow Card at 89',Adam Cummins Yellow Card,2,5340,89',407,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,162854.0,Adam Cummins,2024-08-14 09:10:59
+12767,712945,1,43539162,94,Iain Vigurs (Banks O'Dee) Yellow Card at 5',Iain Vigurs Yellow Card,1,300,5',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,42145.0,Iain Vigurs,2024-08-14 09:10:59
+12767,712945,2,43540171,70,Christian Antoniazzi (Banks O'Dee) Goal at 22',Christian Antoniazzi Goal,1,1320,22',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260526.0,Christian Antoniazzi,2024-08-14 09:10:59
+12767,712945,3,43541551,94,Brian Cameron (Elgin City) Yellow Card at 44',Brian Cameron Yellow Card,1,2640,44',419,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,223428.0,Brian Cameron,2024-08-14 09:10:59
+12767,712945,4,43542071,76,Mark Gilmour (Banks O'Dee) Substitution at 45',Mark Gilmour Substitution,2,2700,45',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,139820.0,Mark Gilmour,2024-08-14 09:10:59
+12767,712945,5,43542072,76,Dylan Gavin (Elgin City) Substitution at 45',Dylan Gavin Substitution,2,2700,45',419,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,310333.0,Dylan Gavin,2024-08-14 09:10:59
+12767,712945,6,43542073,76,Lewis Hyde (Elgin City) Substitution at 45',Lewis Hyde Substitution,2,2700,45',419,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,286576.0,Lewis Hyde,2024-08-14 09:10:59
+12767,712945,4,43542071,76,Mark Gilmour (Banks O'Dee) Substitution at 45',Mark Gilmour Substitution,2,2700,45',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,228754.0,Kain Winton,2024-08-14 09:10:59
+12767,712945,5,43542072,76,Dylan Gavin (Elgin City) Substitution at 45',Dylan Gavin Substitution,2,2700,45',419,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,266928.0,Ryan Sargent,2024-08-14 09:10:59
+12767,712945,6,43542073,76,Lewis Hyde (Elgin City) Substitution at 45',Lewis Hyde Substitution,2,2700,45',419,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,223428.0,Brian Cameron,2024-08-14 09:10:59
+12767,712945,7,43542742,94,Daniel Hoban (Banks O'Dee) Yellow Card at 55',Daniel Hoban Yellow Card,2,3300,55',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,207490.0,Daniel Hoban,2024-08-14 09:10:59
+12767,712945,8,43542743,98,Russell Dingwall (Elgin City) Penalty - Scored at 56',Russell Dingwall Penalty - Score,2,3360,56',419,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239334.0,Russell Dingwall,2024-08-14 09:10:59
+12767,712945,9,43542996,76,Owen Cairns (Elgin City) Substitution at 60',Owen Cairns Substitution,2,3600,60',419,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,231546.0,Owen Cairns,2024-08-14 09:10:59
+12767,712945,9,43542996,76,Owen Cairns (Elgin City) Substitution at 60',Owen Cairns Substitution,2,3600,60',419,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,282120.0,Kyle Girvan,2024-08-14 09:10:59
+12767,712945,10,43543344,70,Dylan Gavin (Elgin City) Goal at 65',Dylan Gavin Goal,2,3900,65',419,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,310333.0,Dylan Gavin,2024-08-14 09:10:59
+12767,712945,11,43543475,76,Kacper Lewecki (Banks O'Dee) Substitution at 66',Kacper Lewecki Substitution,2,3960,66',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,297713.0,Kacper Lewecki,2024-08-14 09:10:59
+12767,712945,12,43543476,76,Hamish MacLeod (Banks O'Dee) Substitution at 66',Hamish MacLeod Substitution,2,3960,66',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,276787.0,Hamish MacLeod,2024-08-14 09:10:59
+12767,712945,11,43543475,76,Kacper Lewecki (Banks O'Dee) Substitution at 66',Kacper Lewecki Substitution,2,3960,66',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,212708.0,Max Alexander,2024-08-14 09:10:59
+12767,712945,12,43543476,76,Hamish MacLeod (Banks O'Dee) Substitution at 66',Hamish MacLeod Substitution,2,3960,66',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260526.0,Christian Antoniazzi,2024-08-14 09:10:59
+12767,712945,13,43544090,76,Ramsay Davidson (Banks O'Dee) Substitution at 75',Ramsay Davidson Substitution,2,4500,75',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,370301.0,Ramsay Davidson,2024-08-14 09:10:59
+12767,712945,14,43544091,76,Alasdair Stark (Banks O'Dee) Substitution at 75',Alasdair Stark Substitution,2,4500,75',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239260.0,Alasdair Stark,2024-08-14 09:10:59
+12767,712945,13,43544090,76,Ramsay Davidson (Banks O'Dee) Substitution at 75',Ramsay Davidson Substitution,2,4500,75',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,42145.0,Iain Vigurs,2024-08-14 09:10:59
+12767,712945,14,43544091,76,Alasdair Stark (Banks O'Dee) Substitution at 75',Alasdair Stark Substitution,2,4500,75',9980,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,370309.0,Scott Milne,2024-08-14 09:10:59
+12767,712945,15,43544849,76,Oliver Mcdonald (Elgin City) Substitution at 85',Oliver Mcdonald Substitution,2,5100,85',419,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,240716.0,Oliver Mcdonald,2024-08-14 09:10:59
+12767,712945,16,43544850,76,Ryan Macleman (Elgin City) Substitution at 85',Ryan Macleman Substitution,2,5100,85',419,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,323715.0,Ryan Macleman,2024-08-14 09:10:59
+12767,712945,15,43544849,76,Oliver Mcdonald (Elgin City) Substitution at 85',Oliver Mcdonald Substitution,2,5100,85',419,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,249323.0,Dajon Golding,2024-08-14 09:10:59
+12767,712945,16,43544850,76,Ryan Macleman (Elgin City) Substitution at 85',Ryan Macleman Substitution,2,5100,85',419,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239334.0,Russell Dingwall,2024-08-14 09:10:59
+12767,712946,1,43539378,70,Mackenzie Kirk (St. Johnstone B) Goal at 9',Mackenzie Kirk Goal,1,540,9',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,325134.0,Mackenzie Kirk,2024-08-14 09:10:59
+12767,712946,2,43541299,94,Reis Peggie (East Fife) Yellow Card at 39',Reis Peggie Yellow Card,1,2340,39',421,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260603.0,Reis Peggie,2024-08-14 09:10:59
+12767,712946,3,43541387,94,Fran Franczak (St. Johnstone B) Yellow Card at 40',Fran Franczak Yellow Card,1,2400,40',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,371814.0,Fran Franczak,2024-08-14 09:10:59
+12767,712946,4,43542048,76,Kyle Thomson (St. Johnstone B) Substitution at 45',Kyle Thomson Substitution,2,2700,45',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,256417.0,Kyle Thomson,2024-08-14 09:10:59
+12767,712946,4,43542048,76,Kyle Thomson (St. Johnstone B) Substitution at 45',Kyle Thomson Substitution,2,2700,45',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,324855.0,Craig Hepburn,2024-08-14 09:10:59
+12767,712946,5,43542250,70,Nathan Austin (East Fife) Goal at 49',Nathan Austin Goal,2,2940,49',421,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,190432.0,Nathan Austin,2024-08-14 09:10:59
+12767,712946,6,43542393,70,Scott Shepherd (East Fife) Goal at 51',Scott Shepherd Goal,2,3060,51',421,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,190256.0,Scott Shepherd,2024-08-14 09:10:59
+12767,712946,7,43542751,76,Brian Easton (East Fife) Substitution at 56',Brian Easton Substitution,2,3360,56',421,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,84408.0,Brian Easton,2024-08-14 09:10:59
+12767,712946,7,43542751,76,Brian Easton (East Fife) Substitution at 56',Brian Easton Substitution,2,3360,56',421,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,321345.0,Sean Docherty,2024-08-14 09:10:59
+12767,712946,8,43543064,94,Liam Parker (St. Johnstone B) Yellow Card at 60',Liam Parker Yellow Card,2,3600,60',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,324849.0,Liam Parker,2024-08-14 09:10:59
+12767,712946,9,43543340,76,Liam Newton (East Fife) Substitution at 63',Liam Newton Substitution,2,3780,63',421,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,299920.0,Liam Newton,2024-08-14 09:10:59
+12767,712946,9,43543340,76,Liam Newton (East Fife) Substitution at 63',Liam Newton Substitution,2,3780,63',421,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260603.0,Reis Peggie,2024-08-14 09:10:59
+12767,712946,10,43543341,76,Jess Norey (East Fife) Substitution at 64',Jess Norey Substitution,2,3840,64',421,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,365402.0,Jess Norey,2024-08-14 09:10:59
+12767,712946,11,43543342,76,Kieran Millar (East Fife) Substitution at 64',Kieran Millar Substitution,2,3840,64',421,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,158096.0,Kieran Millar,2024-08-14 09:10:59
+12767,712946,12,43543343,76,Brodie Dair (St. Johnstone B) Substitution at 64',Brodie Dair Substitution,2,3840,64',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388331.0,Brodie Dair,2024-08-14 09:10:59
+12767,712946,10,43543341,76,Jess Norey (East Fife) Substitution at 64',Jess Norey Substitution,2,3840,64',421,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,221694.0,Conor Mcmanus,2024-08-14 09:10:59
+12767,712946,11,43543342,76,Kieran Millar (East Fife) Substitution at 64',Kieran Millar Substitution,2,3840,64',421,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,144447.0,Patrick Slattery,2024-08-14 09:10:59
+12767,712946,12,43543343,76,Brodie Dair (St. Johnstone B) Substitution at 64',Brodie Dair Substitution,2,3840,64',19301,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,154789.0,Nicholas Clark,2024-08-14 09:10:59
+12767,712946,13,43543846,76,Alan Trouten (East Fife) Substitution at 72',Alan Trouten Substitution,2,4320,72',421,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,30013.0,Alan Trouten,2024-08-14 09:10:59
+12767,712946,13,43543846,76,Alan Trouten (East Fife) Substitution at 72',Alan Trouten Substitution,2,4320,72',421,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,190432.0,Nathan Austin,2024-08-14 09:10:59
+12767,712947,1,43540363,70,Craig McGuffie (Dumbarton) Goal at 7',Craig McGuffie Goal,1,420,7',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,206454.0,Craig McGuffie,2024-08-14 09:10:59
+12767,712947,2,43541283,70,Michael Ruth (Dumbarton) Goal at 23',Michael Ruth Goal,1,1380,23',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,272509.0,Michael Ruth,2024-08-14 09:10:59
+12767,712947,3,43541809,70,Craig McGuffie (Dumbarton) Goal at 31',Craig McGuffie Goal,1,1860,31',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,206454.0,Craig McGuffie,2024-08-14 09:10:59
+12767,712947,4,43541943,70,David Wilson (Dumbarton) Goal at 37',David Wilson Goal,1,2220,37',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,197374.0,David Wilson,2024-08-14 09:10:59
+12767,712947,5,43542973,76,Findlay Gray (Dumbarton) Substitution at 45',Findlay Gray Substitution,2,2700,45',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291515.0,Findlay Gray,2024-08-14 09:10:59
+12767,712947,6,43542974,76,Kalvin Orsi (Dumbarton) Substitution at 45',Kalvin Orsi Substitution,2,2700,45',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,207443.0,Kalvin Orsi,2024-08-14 09:10:59
+12767,712947,7,43542975,76,Panos Grivas (Dumbarton) Substitution at 45',Panos Grivas Substitution,2,2700,45',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,387698.0,Panos Grivas,2024-08-14 09:10:59
+12767,712947,5,43542973,76,Findlay Gray (Dumbarton) Substitution at 45',Findlay Gray Substitution,2,2700,45',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,289987.0,Mouhamed Niang,2024-08-14 09:10:59
+12767,712947,6,43542974,76,Kalvin Orsi (Dumbarton) Substitution at 45',Kalvin Orsi Substitution,2,2700,45',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,206454.0,Craig McGuffie,2024-08-14 09:10:59
+12767,712947,7,43542975,76,Panos Grivas (Dumbarton) Substitution at 45',Panos Grivas Substitution,2,2700,45',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,272509.0,Michael Ruth,2024-08-14 09:10:59
+12767,712947,8,43544147,76,Jacob Shields (Dumbarton) Substitution at 61',Jacob Shields Substitution,2,3660,61',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,387697.0,Jacob Shields,2024-08-14 09:10:59
+12767,712947,8,43544147,76,Jacob Shields (Dumbarton) Substitution at 61',Jacob Shields Substitution,2,3660,61',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,199730.0,Michael Miller,2024-08-14 09:10:59
+12767,712947,9,43544298,76,Matthew Collins (Berwick Rangers) Substitution at 63',Matthew Collins Substitution,2,3780,63',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,32344.0,Matthew Collins,2024-08-14 09:10:59
+12767,712947,9,43544298,76,Matthew Collins (Berwick Rangers) Substitution at 63',Matthew Collins Substitution,2,3780,63',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,22132.0,Liam Buchanan,2024-08-14 09:10:59
+12767,712947,10,43544504,76,Carlo Pignatiello (Dumbarton) Substitution at 65',Carlo Pignatiello Substitution,2,3900,65',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,239317.0,Carlo Pignatiello,2024-08-14 09:10:59
+12767,712947,10,43544504,76,Carlo Pignatiello (Dumbarton) Substitution at 65',Carlo Pignatiello Substitution,2,3900,65',415,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,179626.0,Aron Lynas,2024-08-14 09:10:59
+12767,712947,11,43544505,76,Jonathan Devers (Berwick Rangers) Substitution at 66',Jonathan Devers Substitution,2,3960,66',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,266997.0,Jonathan Devers,2024-08-14 09:10:59
+12767,712947,11,43544505,76,Jonathan Devers (Berwick Rangers) Substitution at 66',Jonathan Devers Substitution,2,3960,66',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,171823.0,Jamie McCormack,2024-08-14 09:10:59
+12767,712947,12,43545346,76,Sulaiman Ashraf (Berwick Rangers) Substitution at 78',Sulaiman Ashraf Substitution,2,4680,78',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388851.0,Sulaiman Ashraf,2024-08-14 09:10:59
+12767,712947,13,43545347,76,Fraser Armstrong (Berwick Rangers) Substitution at 78',Fraser Armstrong Substitution,2,4680,78',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388265.0,Fraser Armstrong,2024-08-14 09:10:59
+12767,712947,12,43545346,76,Sulaiman Ashraf (Berwick Rangers) Substitution at 78',Sulaiman Ashraf Substitution,2,4680,78',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,309553.0,Aaron Laidlaw,2024-08-14 09:10:59
+12767,712947,13,43545347,76,Fraser Armstrong (Berwick Rangers) Substitution at 78',Fraser Armstrong Substitution,2,4680,78',412,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,353161.0,Corrie Fellows,2024-08-14 09:10:59
+12767,712948,1,43540889,70,Scott Reekie (Forfar Athletic) Goal at 19',Scott Reekie Goal,1,1140,19',408,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260277.0,Scott Reekie,2024-08-14 09:10:59
+12767,712948,2,43544075,117,Kieran Simpson (Fraserburgh) Shot Off Target at 64',Kieran Simpson Shot Off Target,2,3840,64',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,279131.0,Kieran Simpson,2024-08-14 09:10:59
+12767,712948,3,43544457,76,Filip Franczak (Forfar Athletic) Substitution at 69',Filip Franczak Substitution,2,4140,69',408,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,348308.0,Filip Franczak,2024-08-14 09:10:59
+12767,712948,3,43544457,76,Filip Franczak (Forfar Athletic) Substitution at 69',Filip Franczak Substitution,2,4140,69',408,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,208168.0,Blair Malcolm,2024-08-14 09:10:59
+12767,712948,4,43544776,76,Logan Watt (Fraserburgh) Substitution at 74',Logan Watt Substitution,2,4440,74',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291526.0,Logan Watt,2024-08-14 09:10:59
+12767,712948,5,43544777,76,Connor Wood (Fraserburgh) Substitution at 74',Connor Wood Substitution,2,4440,74',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,150582.0,Connor Wood,2024-08-14 09:10:59
+12767,712948,6,43544778,76,William West (Fraserburgh) Substitution at 74',William West Substitution,2,4440,74',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,127295.0,William West,2024-08-14 09:10:59
+12767,712948,4,43544776,76,Logan Watt (Fraserburgh) Substitution at 74',Logan Watt Substitution,2,4440,74',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,245410.0,Joshua Hawkins,2024-08-14 09:10:59
+12767,712948,5,43544777,76,Connor Wood (Fraserburgh) Substitution at 74',Connor Wood Substitution,2,4440,74',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388031.0,Jake Garden,2024-08-14 09:10:59
+12767,712948,6,43544778,76,William West (Fraserburgh) Substitution at 74',William West Substitution,2,4440,74',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,276903.0,Sean Butcher,2024-08-14 09:10:59
+12767,712948,7,43544871,70,Scott Barbour (Fraserburgh) Goal at 76',Scott Barbour Goal,2,4560,76',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,167993.0,Scott Barbour,2024-08-14 09:10:59
+12767,712948,8,43545562,70,Connor Wood (Fraserburgh) Goal at 86',Connor Wood Goal,2,5160,86',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,150582.0,Connor Wood,2024-08-14 09:10:59
+12767,712948,9,43545601,94,Nathan Cannon (Forfar Athletic) Yellow Card at 88',Nathan Cannon Yellow Card,2,5280,88',408,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,362390.0,Nathan Cannon,2024-08-14 09:10:59
+12767,712948,10,43545662,76,Flynn Mckay (Fraserburgh) Substitution at 94',Flynn Mckay Substitution,2,5400,90'+4',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388030.0,Flynn Mckay,2024-08-14 09:10:59
+12767,712948,10,43545662,76,Flynn Mckay (Fraserburgh) Substitution at 94',Flynn Mckay Substitution,2,5400,90'+4',7170,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,249012.0,Aiden Sopel,2024-08-14 09:10:59
+12767,717716,1,43548479,70,Greig Spence (East Stirlingshire) Goal at 18',Greig Spence Goal,1,1080,18',418,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,153935.0,Greig Spence,2024-08-15 09:24:39
+12767,717716,2,43548565,93,Tiwi Daramola (East Kilbride) Red Card at 30',Tiwi Daramola Red Card,1,1800,30',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,289617.0,Tiwi Daramola,2024-08-15 09:24:39
+12767,717716,3,43548654,70,Cameron Elliott (East Kilbride) Goal at 43',Cameron Elliott Goal,1,2580,43',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,248903.0,Cameron Elliott,2024-08-16 09:42:02
+12767,717716,4,43548768,76,John Robertson (East Kilbride) Substitution at 45',John Robertson Substitution,2,2700,45',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,261415.0,John Robertson,2024-08-16 09:42:02
+12767,717716,5,43548769,76,Andrew Mcdonald (East Kilbride) Substitution at 45',Andrew Mcdonald Substitution,2,2700,45',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,240490.0,Andrew Mcdonald,2024-08-16 09:42:02
+12767,717716,4,43548768,76,John Robertson (East Kilbride) Substitution at 45',John Robertson Substitution,2,2700,45',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,248903.0,Cameron Elliott,2024-08-16 09:42:02
+12767,717716,5,43548769,76,Andrew Mcdonald (East Kilbride) Substitution at 45',Andrew Mcdonald Substitution,2,2700,45',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,162825.0,Sean Fagan,2024-08-16 09:42:02
+12767,717716,6,43548755,70,Lewis Spence (East Kilbride) Goal at 47',Lewis Spence Goal,2,2820,47',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,179662.0,Lewis Spence,2024-08-16 09:42:02
+12767,717716,7,43548837,94,Sam Campbell (East Stirlingshire) Yellow Card at 54',Sam Campbell Yellow Card,2,3240,54',418,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,143389.0,Sam Campbell,2024-08-16 09:42:02
+12767,717716,8,43548789,70,Jamie Penker (East Stirlingshire) Goal at 55',Jamie Penker Goal,2,3300,55',418,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,294416.0,Jamie Penker,2024-08-16 09:42:02
+12767,717716,9,43548792,94,Andrew Mcdonald (East Kilbride) Yellow Card at 61',Andrew Mcdonald Yellow Card,2,3660,61',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,240490.0,Andrew Mcdonald,2024-08-16 09:42:02
+12767,717716,10,43548921,76,Steven Boyd (East Kilbride) Substitution at 75',Steven Boyd Substitution,2,4500,75',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,303782.0,Steven Boyd,2024-08-16 09:42:02
+12767,717716,10,43548921,76,Steven Boyd (East Kilbride) Substitution at 75',Steven Boyd Substitution,2,4500,75',17582,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,308688.0,Callum Biggar,2024-08-16 09:42:02
+12767,717716,11,43548955,76,Callum Murray (East Stirlingshire) Substitution at 79',Callum Murray Substitution,2,4740,79',418,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,194207.0,Callum Murray,2024-08-16 09:42:02
+12767,717716,11,43548955,76,Callum Murray (East Stirlingshire) Substitution at 79',Callum Murray Substitution,2,4740,79',418,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,15899.0,Stephen O'Neill,2024-08-16 09:42:02
+12767,717717,1,43540309,70,Alan Reid (Albion Rovers) Goal at 22',Alan Reid Goal,1,1320,22',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,223426.0,Alan Reid,2024-08-14 09:10:59
+12767,717717,2,43541895,94,Robbie McNab (Cowdenbeath) Yellow Card at 22',Robbie McNab Yellow Card,1,1320,22',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,190255.0,Robbie McNab,2024-08-14 09:10:59
+12767,717717,3,43542572,94,Adam Fernie (Albion Rovers) Yellow Card at 52',Adam Fernie Yellow Card,2,3120,52',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,308578.0,Adam Fernie,2024-08-14 09:10:59
+12767,717717,4,43542774,76,Nathan Brown (Albion Rovers) Substitution at 55',Nathan Brown Substitution,2,3300,55',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,39309.0,Nathan Brown,2024-08-14 09:10:59
+12767,717717,4,43542774,76,Nathan Brown (Albion Rovers) Substitution at 55',Nathan Brown Substitution,2,3300,55',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,207456.0,Conner Duthie,2024-08-14 09:10:59
+12767,717717,5,43542888,97,Adam Fernie (Albion Rovers) Own Goal at 58',Adam Fernie Own Goal,2,3480,58',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,,Adam Fernie,2024-08-14 09:10:59
+12767,717717,6,43543300,76,Greg Macpherson (Cowdenbeath) Substitution at 63',Greg Macpherson Substitution,2,3780,63',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,327810.0,Greg Macpherson,2024-08-14 09:10:59
+12767,717717,6,43543300,76,Greg Macpherson (Cowdenbeath) Substitution at 63',Greg Macpherson Substitution,2,3780,63',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,357861.0,Shay Burke,2024-08-14 09:10:59
+12767,717717,7,43543301,76,Jake Sutherland (Cowdenbeath) Substitution at 64',Jake Sutherland Substitution,2,3840,64',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,370589.0,Jake Sutherland,2024-08-14 09:10:59
+12767,717717,8,43543302,70,Jake Sutherland (Cowdenbeath) Goal at 64',Jake Sutherland Goal,2,3840,64',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,370589.0,Jake Sutherland,2024-08-14 09:10:59
+12767,717717,7,43543301,76,Jake Sutherland (Cowdenbeath) Substitution at 64',Jake Sutherland Substitution,2,3840,64',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,365557.0,Rhys Walker,2024-08-14 09:10:59
+12767,717717,9,43543425,76,Bright Prince (Albion Rovers) Substitution at 65',Bright Prince Substitution,2,3900,65',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,356365.0,Bright Prince,2024-08-14 09:10:59
+12767,717717,10,43543426,70,Paul Kennedy (Albion Rovers) Goal at 65',Paul Kennedy Goal,2,3900,65',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277546.0,Paul Kennedy,2024-08-14 09:10:59
+12767,717717,9,43543425,76,Bright Prince (Albion Rovers) Substitution at 65',Bright Prince Substitution,2,3900,65',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,88678.0,Michael Paton,2024-08-14 09:10:59
+12767,717717,11,43543630,117,Paul Kennedy (Albion Rovers) Shot Off Target at 67',Paul Kennedy Shot Off Target,2,4020,67',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277546.0,Paul Kennedy,2024-08-14 09:10:59
+12767,717717,12,43543631,70,Paul Kennedy (Albion Rovers) Goal at 68',Paul Kennedy Goal,2,4080,68',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277546.0,Paul Kennedy,2024-08-14 09:10:59
+12767,717717,13,43543918,76,Ethan Kerr (Cowdenbeath) Substitution at 71',Ethan Kerr Substitution,2,4260,71',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388032.0,Ethan Kerr,2024-08-14 09:10:59
+12767,717717,13,43543918,76,Ethan Kerr (Cowdenbeath) Substitution at 71',Ethan Kerr Substitution,2,4260,71',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,287238.0,Samuel Newman,2024-08-14 09:10:59
+12767,717717,14,43544586,76,Alexander Mccaw (Albion Rovers) Substitution at 80',Alexander Mccaw Substitution,2,4800,80',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291517.0,Alexander Mccaw,2024-08-14 09:10:59
+12767,717717,14,43544586,76,Alexander Mccaw (Albion Rovers) Substitution at 80',Alexander Mccaw Substitution,2,4800,80',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,235779.0,Murray Mackintosh,2024-08-14 09:10:59
+12767,717717,15,43544647,94,Kai Kirkpatrick (Albion Rovers) Yellow Card at 82',Kai Kirkpatrick Yellow Card,2,4920,82',420,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,370251.0,Kai Kirkpatrick,2024-08-14 09:10:59
+12767,717717,16,43544648,98,Jamie Docherty (Cowdenbeath) Penalty - Scored at 83',Jamie Docherty Penalty - Scored,2,4980,83',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,126337.0,Jamie Docherty,2024-08-14 09:10:59
+12767,717717,17,43544949,94,Ethan Kerr (Cowdenbeath) Yellow Card at 86',Ethan Kerr Yellow Card,2,5160,86',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388032.0,Ethan Kerr,2024-08-14 09:10:59
+12767,717717,18,43544984,70,Paul Mclean (Cowdenbeath) Goal at 88',Paul Mclean Goal,2,5280,88',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,137443.0,Paul Mclean,2024-08-14 09:10:59
+12767,717717,19,43545470,76,Gregor Jordan (Cowdenbeath) Substitution at 93',Gregor Jordan Substitution,2,5400,90'+3',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,277551.0,Gregor Jordan,2024-08-14 09:10:59
+12767,717717,20,43545471,94,Aaron Dunsmore (Cowdenbeath) Yellow Card at 94',Aaron Dunsmore Yellow Card,2,5400,90'+4',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,207473.0,Aaron Dunsmore,2024-08-14 09:10:59
+12767,717717,19,43545470,76,Gregor Jordan (Cowdenbeath) Substitution at 93',Gregor Jordan Substitution,2,5400,90'+3',410,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,327810.0,Greg Macpherson,2024-08-14 09:10:59
+12767,717718,1,43538414,94,Finlay Allan (Dundee B) Yellow Card at 8',Finlay Allan Yellow Card,1,480,8',19305,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366855.0,Finlay Allan,2024-08-14 09:10:59
+12767,717718,2,43538496,94,Lewis O'Donnell (Dundee United B) Yellow Card at 27',Lewis O'Donnell Yellow Card,1,1620,27',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,332860.0,Lewis O'Donnell,2024-08-14 09:10:59
+12767,717718,3,43538913,76,Ashton Leiper (Dundee B) Substitution at 59',Ashton Leiper Substitution,2,3540,59',19305,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388257.0,Ashton Leiper,2024-08-14 09:10:59
+12767,717718,3,43538913,76,Ashton Leiper (Dundee B) Substitution at 59',Ashton Leiper Substitution,2,3540,59',19305,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388254.0,Finlay Corrigan,2024-08-14 09:10:59
+12767,717718,4,43539350,76,Calvin Beattie (Dundee United B) Substitution at 67',Calvin Beattie Substitution,2,4020,67',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388146.0,Calvin Beattie,2024-08-14 09:10:59
+12767,717718,5,43539351,76,Bryan Mwangi (Dundee United B) Substitution at 67',Bryan Mwangi Substitution,2,4020,67',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,324826.0,Bryan Mwangi,2024-08-14 09:10:59
+12767,717718,4,43539350,76,Calvin Beattie (Dundee United B) Substitution at 67',Calvin Beattie Substitution,2,4020,67',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,343887.0,Meshack Izuchukwu Ubochioma,2024-08-14 09:10:59
+12767,717718,5,43539351,76,Bryan Mwangi (Dundee United B) Substitution at 67',Bryan Mwangi Substitution,2,4020,67',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,313025.0,Richard Odada,2024-08-14 09:10:59
+12767,717718,6,43540147,76,Harry Welsh (Dundee United B) Substitution at 79',Harry Welsh Substitution,2,4740,79',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388149.0,Harry Welsh,2024-08-14 09:10:59
+12767,717718,6,43540147,76,Harry Welsh (Dundee United B) Substitution at 79',Harry Welsh Substitution,2,4740,79',20992,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388282.0,Zeke Cameron,2024-08-14 09:10:59
+12767,717718,7,43540331,76,Chase Scott (Dundee B) Substitution at 81',Chase Scott Substitution,2,4860,81',19305,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388277.0,Chase Scott,2024-08-14 09:10:59
+12767,717718,7,43540331,76,Chase Scott (Dundee B) Substitution at 81',Chase Scott Substitution,2,4860,81',19305,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,358589.0,Rayan Mohammed,2024-08-14 09:10:59
+12767,717718,8,43540774,94,Marley Sweenie-Rowe (Dundee B) Yellow Card at 89',Marley Sweenie-Rowe Yellow Card,2,5340,89',19305,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,366853.0,Marley Sweenie-Rowe,2024-08-14 09:10:59

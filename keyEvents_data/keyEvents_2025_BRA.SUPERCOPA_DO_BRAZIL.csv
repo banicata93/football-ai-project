@@ -1,0 +1,106 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12998,723487,1,44623618,98,1,780,13',1,0,Bruno Henrique (Flamengo) Penalty - Scored at 13',Bruno Henrique Penalty - Scored,819,0.0,0.0,0.0,0.0,0.0,0.0,1,398641,2025-02-04 05:37:11
+12998,723487,1,44623618,98,1,780,13',1,0,Bruno Henrique (Flamengo) Penalty - Scored at 13',Bruno Henrique Penalty - Scored,819,0.0,0.0,0.0,0.0,0.0,0.0,1,379272,2025-02-04 05:37:11
+12998,723487,1,44623618,98,1,780,13',1,0,Bruno Henrique (Flamengo) Penalty - Scored at 13',Bruno Henrique Penalty - Scored,819,0.0,0.0,0.0,0.0,0.0,0.0,1,201683,2025-02-04 05:37:11
+12998,723487,1,44623618,98,1,780,13',1,0,Bruno Henrique (Flamengo) Penalty - Scored at 13',Bruno Henrique Penalty - Scored,819,0.0,0.0,0.0,0.0,0.0,0.0,1,188485,2025-02-04 05:37:11
+12998,723487,2,44624508,70,1,1200,20',1,0,Bruno Henrique (Flamengo) Goal at 20',Bruno Henrique Goal,819,0.0,0.0,0.0,0.0,0.0,0.0,1,398641,2025-02-04 05:37:11
+12998,723487,2,44624508,70,1,1200,20',1,0,Bruno Henrique (Flamengo) Goal at 20',Bruno Henrique Goal,819,0.0,0.0,0.0,0.0,0.0,0.0,1,379272,2025-02-04 05:37:11
+12998,723487,2,44624508,70,1,1200,20',1,0,Bruno Henrique (Flamengo) Goal at 20',Bruno Henrique Goal,819,0.0,0.0,0.0,0.0,0.0,0.0,1,201683,2025-02-04 05:37:11
+12998,723487,2,44624508,70,1,1200,20',1,0,Bruno Henrique (Flamengo) Goal at 20',Bruno Henrique Goal,819,0.0,0.0,0.0,0.0,0.0,0.0,1,188485,2025-02-04 05:37:11
+12998,723487,3,44624831,94,1,2700,45'+2',0,0,Erick Pulgar (Flamengo) Yellow Card at 47',Erick Pulgar Yellow Card,819,0.0,0.0,0.0,0.0,0.0,0.0,1,202533,2025-02-03 14:53:13
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,400350,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,382962,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,380102,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,379562,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,357174,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,352257,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,341345,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,334369,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,325901,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,320823,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,319721,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,317869,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,307677,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,304362,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,287903,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,285065,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,282181,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,268700,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,266673,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,236453,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,215801,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,203104,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,193923,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,171652,2025-02-04 05:37:11
+12998,723487,4,44624993,76,2,2700,45',0,0,Vitinho (Botafogo) Substitution at 45',Vitinho Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,359977,2025-02-04 05:37:11
+12998,723487,5,44625277,94,2,4080,68',0,0,Igor Jesus (Botafogo) Yellow Card at 68',Igor Jesus Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,322658,2025-02-04 05:37:11
+12998,723487,5,44625277,94,2,4080,68',0,0,Igor Jesus (Botafogo) Yellow Card at 68',Igor Jesus Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,287869,2025-02-04 05:37:11
+12998,723487,6,44625300,94,2,4080,68',0,0,Nicolás de la Cruz (Flamengo) Yellow Card at 68',Nicolás de la Cruz Yellow Card,819,0.0,0.0,0.0,0.0,0.0,0.0,1,251889,2025-02-03 14:53:13
+12998,723487,7,44625334,76,2,4260,71',0,0,Giorgian de Arrascaeta (Flamengo) Substitution at 71',Giorgian de Arrascaeta Substitut,819,0.0,0.0,0.0,0.0,0.0,0.0,1,179767,2025-02-03 14:53:13
+12998,723487,7,44625334,76,2,4260,71',0,0,Giorgian de Arrascaeta (Flamengo) Substitution at 71',Giorgian de Arrascaeta Substitut,819,0.0,0.0,0.0,0.0,0.0,0.0,2,277352,2025-02-03 14:53:13
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,74815,2025-02-04 05:37:11
+12998,723487,8,44625446,76,2,4800,80',0,0,Luiz Araújo (Flamengo) Substitution at 80',Luiz Araújo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,234765,2025-02-03 14:53:13
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,398533,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,380101,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,379558,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,372202,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,317663,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,315290,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,312639,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,303244,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,302860,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,301889,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,301775,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,285090,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,271083,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,269624,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,251370,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,239983,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,237485,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,224213,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,222664,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,216422,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,216051,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,205939,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,198471,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,185753,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,162445,2025-02-04 05:37:11
+12998,723487,10,44625448,76,2,4800,80',0,0,Rafael Lobato (Botafogo) Substitution at 80',Rafael Lobato Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,361652,2025-02-03 14:53:13
+12998,723487,8,44625446,76,2,4800,80',0,0,Luiz Araújo (Flamengo) Substitution at 80',Luiz Araújo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,2,255617,2025-02-03 14:53:13
+12998,723487,10,44625448,76,2,4800,80',0,0,Rafael Lobato (Botafogo) Substitution at 80',Rafael Lobato Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,358780,2025-02-03 14:53:13
+12998,723487,10,44625448,76,2,4800,80',0,0,Rafael Lobato (Botafogo) Substitution at 80',Rafael Lobato Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,314841,2025-02-03 14:53:13
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,2,398641,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,2,379272,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,2,201683,2025-02-04 05:37:11
+12998,723487,9,44625447,76,2,4800,80',0,0,Juninho (Flamengo) Substitution at 80',Juninho Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,2,188485,2025-02-04 05:37:11
+12998,723487,11,44625458,70,2,4980,83',1,0,Luiz Araújo (Flamengo) Goal at 83',Luiz Araújo Goal,819,0.0,0.0,0.0,0.0,0.0,0.0,1,234765,2025-02-03 14:53:13
+12998,723487,12,44625477,94,2,5040,84',0,0,Luiz Araújo (Flamengo) Yellow Card at 84',Luiz Araújo Yellow Card,819,0.0,0.0,0.0,0.0,0.0,0.0,1,234765,2025-02-03 14:53:13
+12998,723487,13,44625481,94,2,5100,85',0,0,Alex Telles (Botafogo) Yellow Card at 85',Alex Telles Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,199734,2025-02-03 14:53:13
+12998,723487,14,44625497,76,2,5160,86',0,0,Patrick de Paula (Botafogo) Substitution at 86',Patrick de Paula Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,301543,2025-02-03 14:53:13
+12998,723487,14,44625497,76,2,5160,86',0,0,Patrick de Paula (Botafogo) Substitution at 86',Patrick de Paula Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,177219,2025-02-03 14:53:13
+12998,723487,15,44625498,70,2,5220,87',1,0,Patrick de Paula (Botafogo) Goal at 87',Patrick de Paula Goal,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,301543,2025-02-03 14:53:13
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,75542,2025-02-04 05:37:11
+12998,723487,17,44625526,76,2,5400,90'+2',0,0,Evertton (Flamengo) Substitution at 92',Evertton Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,334752,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,358269,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,346966,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,344844,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,306764,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,304654,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,272224,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,271431,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,258370,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,170369,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,155691,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,137777,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,1,99236,2025-02-04 05:37:11
+12998,723487,16,44625515,94,2,5400,90',0,0,Alexander Barboza (Botafogo) Yellow Card at 90',Alexander Barboza Yellow Card,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,222631,2025-02-03 14:53:13
+12998,723487,19,44625528,76,2,5400,90'+3',0,0,Kayke (Botafogo) Substitution at 93',Kayke Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,381279,2025-02-03 14:53:13
+12998,723487,19,44625528,76,2,5400,90'+3',0,0,Kayke (Botafogo) Substitution at 93',Kayke Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,1,198195,2025-02-03 14:53:13
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,2,299742,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,2,201792,2025-02-04 05:37:11
+12998,723487,18,44625527,76,2,5400,90'+3',0,0,Danilo (Flamengo) Substitution at 93',Danilo Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,2,145405,2025-02-04 05:37:11
+12998,723487,17,44625526,76,2,5400,90'+2',0,0,Evertton (Flamengo) Substitution at 92',Evertton Substitution,819,0.0,0.0,0.0,0.0,0.0,0.0,2,251889,2025-02-04 05:37:11
+12998,723487,19,44625528,76,2,5400,90'+3',0,0,Kayke (Botafogo) Substitution at 93',Kayke Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,236596,2025-02-03 14:53:13
+12998,723487,19,44625528,76,2,5400,90'+3',0,0,Kayke (Botafogo) Substitution at 93',Kayke Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,236342,2025-02-03 14:53:13
+12998,723487,19,44625528,76,2,5400,90'+3',0,0,Kayke (Botafogo) Substitution at 93',Kayke Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,224593,2025-02-03 14:53:13
+12998,723487,19,44625528,76,2,5400,90'+3',0,0,Kayke (Botafogo) Substitution at 93',Kayke Substitution,6086,0.0,0.0,0.0,0.0,0.0,0.0,2,196882,2025-02-03 14:53:13

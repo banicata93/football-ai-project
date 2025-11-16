@@ -1,0 +1,111 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13331,735729,1,45254799,70,1,300,5',1,0,Alan Trouten (East Fife) Goal at 5',Alan Trouten Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,30013,2025-05-14 04:52:54
+13331,735729,2,45254866,94,1,1200,20',0,0,Paul Smith (Annan Athletic) Yellow Card at 20',Paul Smith Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,302704,2025-05-14 04:52:54
+13331,735729,3,45254913,70,1,1980,33',1,0,Andrew Munro (East Fife) Goal at 33',Andrew Munro Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,194882,2025-05-14 04:52:54
+13331,735729,4,45254923,76,1,2220,37',0,0,Mackenzie Strachan (Annan Athletic) Substitution at 37',Mackenzie Strachan Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,324916,2025-05-14 04:52:54
+13331,735729,4,45254923,76,1,2220,37',0,0,Mackenzie Strachan (Annan Athletic) Substitution at 37',Mackenzie Strachan Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,2,302704,2025-05-14 04:52:54
+13331,735729,5,45254944,97,1,2580,43',1,0,Michael McKenna (East Fife) Own Goal at 43',Michael McKenna Own Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,206336,2025-05-14 04:52:54
+13331,735729,6,45255076,70,2,2940,49',1,0,Aidan Smith (Annan Athletic) Goal at 49',Aidan Smith Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,190469,2025-05-14 04:52:54
+13331,735729,7,45255167,94,2,3480,58',0,0,Scott Hooper (Annan Athletic) Yellow Card at 58',Scott Hooper Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,168169,2025-05-14 04:52:54
+13331,735729,8,45255227,94,2,3960,66',0,0,Nathan Austin (East Fife) Yellow Card at 66',Nathan Austin Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,190432,2025-05-14 04:52:54
+13331,735729,9,45255233,76,2,4020,67',0,0,Robert Jones (East Fife) Substitution at 67',Robert Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,9599,2025-05-14 04:52:54
+13331,735729,10,45255242,76,2,4020,67',0,0,Jack Healy (East Fife) Substitution at 67',Jack Healy Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,293874,2025-05-14 04:52:54
+13331,735729,10,45255242,76,2,4020,67',0,0,Jack Healy (East Fife) Substitution at 67',Jack Healy Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,387696,2025-05-14 04:52:54
+13331,735729,9,45255233,76,2,4020,67',0,0,Robert Jones (East Fife) Substitution at 67',Robert Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,158096,2025-05-14 04:52:54
+13331,735729,11,45255243,76,2,4080,68',0,0,Jess Norey (East Fife) Substitution at 68',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,365402,2025-05-14 04:52:54
+13331,735729,11,45255243,76,2,4080,68',0,0,Jess Norey (East Fife) Substitution at 68',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,190432,2025-05-14 04:52:54
+13331,735729,12,45255287,93,2,4320,72',0,0,Scott Hooper (Annan Athletic) Red Card at 72',Scott Hooper Red Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,168169,2025-05-14 04:52:54
+13331,735729,13,45255332,70,2,4800,80',1,0,Andrew Munro (East Fife) Goal at 80',Andrew Munro Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,194882,2025-05-14 04:52:54
+13331,735729,15,45255371,76,2,4980,83',0,0,Charlei Maxwell (Annan Athletic) Substitution at 83',Charlei Maxwell Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,363431,2025-05-14 04:52:54
+13331,735729,14,45255345,76,2,4980,83',0,0,Layton Bisland (Annan Athletic) Substitution at 83',Layton Bisland Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,317304,2025-05-14 04:52:54
+13331,735729,14,45255345,76,2,4980,83',0,0,Layton Bisland (Annan Athletic) Substitution at 83',Layton Bisland Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,2,291491,2025-05-14 04:52:54
+13331,735729,15,45255371,76,2,4980,83',0,0,Charlei Maxwell (Annan Athletic) Substitution at 83',Charlei Maxwell Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,2,290854,2025-05-14 04:52:54
+13331,735729,16,45255398,94,2,5160,86',0,0,Layton Bisland (Annan Athletic) Yellow Card at 86',Layton Bisland Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,317304,2025-05-14 04:52:54
+13331,735729,17,45255408,93,2,5220,87',0,0,Layton Bisland (Annan Athletic) Red Card at 87',Layton Bisland Red Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,317304,2025-05-14 04:52:54
+13331,735729,18,45255409,94,2,5220,87',0,0,Jack Healy (East Fife) Yellow Card at 87',Jack Healy Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,293874,2025-05-14 04:52:54
+13331,735729,19,45255412,94,2,5340,89',0,0,Alan Trouten (East Fife) Yellow Card at 89',Alan Trouten Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,30013,2025-05-14 04:52:54
+13331,735729,20,45255419,76,2,5400,90',0,0,Scott Shepherd (East Fife) Substitution at 90',Scott Shepherd Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,190256,2025-05-14 04:52:54
+13331,735729,20,45255419,76,2,5400,90',0,0,Scott Shepherd (East Fife) Substitution at 90',Scott Shepherd Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,30013,2025-05-14 04:52:54
+13331,735730,1,45270588,70,1,360,6',1,0,Tommy Goss (Annan Athletic) Goal at 6',Tommy Goss Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,306142,2025-05-17 04:51:14
+13331,735730,2,45270622,94,1,660,11',0,0,Adam Laaref (East Fife) Yellow Card at 11',Adam Laaref Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,387696,2025-05-17 04:51:14
+13331,735730,3,45270669,94,1,1320,22',0,0,Tommy Goss (Annan Athletic) Yellow Card at 22',Tommy Goss Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,306142,2025-05-17 04:51:14
+13331,735730,4,45270720,70,1,2220,37',1,0,Adam Laaref (East Fife) Goal at 37',Adam Laaref Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,387696,2025-05-17 04:51:14
+13331,735730,6,45271045,76,2,3720,62',0,0,Daniel Carmichael (Annan Athletic) Substitution at 62',Daniel Carmichael Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,139840,2025-05-17 04:51:14
+13331,735730,5,45271044,76,2,3720,62',0,0,Aaron Brown (Annan Athletic) Substitution at 62',Aaron Brown Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,282270,2025-05-17 04:51:14
+13331,735730,5,45271044,76,2,3720,62',0,0,Aaron Brown (Annan Athletic) Substitution at 62',Aaron Brown Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,346990,2025-05-17 04:51:14
+13331,735730,6,45271045,76,2,3720,62',0,0,Daniel Carmichael (Annan Athletic) Substitution at 62',Daniel Carmichael Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,2,291491,2025-05-17 04:51:14
+13331,735730,5,45271044,76,2,3720,62',0,0,Aaron Brown (Annan Athletic) Substitution at 62',Aaron Brown Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,2,290854,2025-05-17 04:51:14
+13331,735730,7,45271067,76,2,3780,63',0,0,Rob Jones (East Fife) Substitution at 63',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,26883,2025-05-22 01:24:18
+13331,735730,8,45271076,76,2,3780,63',0,0,Jack Healy (East Fife) Substitution at 63',Jack Healy Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,293874,2025-05-17 04:51:14
+13331,735730,8,45271076,76,2,3780,63',0,0,Jack Healy (East Fife) Substitution at 63',Jack Healy Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,387696,2025-05-17 04:51:14
+13331,735730,7,45271067,76,2,3780,63',0,0,Rob Jones (East Fife) Substitution at 63',Rob Jones Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,190432,2025-05-22 01:24:18
+13331,735730,9,45271119,76,2,4380,73',0,0,Scott Shepherd (East Fife) Substitution at 73',Scott Shepherd Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,190256,2025-05-17 04:51:14
+13331,735730,10,45271129,76,2,4380,73',0,0,Stewart Murdoch (East Fife) Substitution at 73',Stewart Murdoch Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,113568,2025-05-17 04:51:14
+13331,735730,10,45271129,76,2,4380,73',0,0,Stewart Murdoch (East Fife) Substitution at 73',Stewart Murdoch Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,260603,2025-05-17 04:51:14
+13331,735730,9,45271119,76,2,4380,73',0,0,Scott Shepherd (East Fife) Substitution at 73',Scott Shepherd Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,30013,2025-05-17 04:51:14
+13331,735730,11,45271136,76,2,4740,79',0,0,Charlei Maxwell (Annan Athletic) Substitution at 79',Charlei Maxwell Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,363431,2025-05-17 04:51:14
+13331,735730,11,45271136,76,2,4740,79',0,0,Charlei Maxwell (Annan Athletic) Substitution at 79',Charlei Maxwell Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,2,310608,2025-05-17 04:51:14
+13331,735730,13,45271141,76,2,4800,80',0,0,Jess Norey (East Fife) Substitution at 80',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,365402,2025-05-17 04:51:14
+13331,735730,12,45271140,94,2,4800,80',0,0,Tommy Muir (Annan Athletic) Yellow Card at 80',Tommy Muir Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,231464,2025-05-17 04:51:14
+13331,735730,13,45271141,76,2,4800,80',0,0,Jess Norey (East Fife) Substitution at 80',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,158096,2025-05-17 04:51:14
+13331,735730,14,45271158,94,2,5100,85',0,0,Paul Mcgowan (Annan Athletic) Yellow Card at 85',Paul Mcgowan Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,86441,2025-05-17 04:51:14
+13332,735636,1,45210207,70,1,1020,17',1,0,Tommy Goss (Annan Athletic) Goal at 17',Tommy Goss Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,306142,2025-05-07 04:56:00
+13332,735636,2,45210227,70,1,1320,22',1,0,Ryan Sargent (Elgin City) Goal at 22',Ryan Sargent Goal,419,0.0,0.0,0.0,0.0,0.0,0.0,1,266928,2025-05-07 04:56:00
+13332,735636,3,45210228,70,1,1380,23',1,0,Max Kilsby (Annan Athletic) Goal at 23',Max Kilsby Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,310608,2025-05-07 04:56:00
+13332,735636,4,45210230,70,1,1560,26',1,0,Tommy Muir (Annan Athletic) Goal at 26',Tommy Muir Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,231464,2025-05-07 04:56:00
+13332,735636,5,45210248,76,1,2040,34',0,0,Dylan Gavin (Elgin City) Substitution at 34',Dylan Gavin Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,1,310333,2025-05-07 04:56:00
+13332,735636,5,45210248,76,1,2040,34',0,0,Dylan Gavin (Elgin City) Substitution at 34',Dylan Gavin Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,2,282120,2025-05-07 04:56:00
+13332,735636,6,45210256,70,1,2160,36',1,0,Tommy Muir (Annan Athletic) Goal at 36',Tommy Muir Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,231464,2025-05-07 04:56:00
+13332,735636,7,45210262,76,1,2220,37',0,0,Daniel Carmichael (Annan Athletic) Substitution at 37',Daniel Carmichael Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,139840,2025-05-07 04:56:00
+13332,735636,7,45210262,76,1,2220,37',0,0,Daniel Carmichael (Annan Athletic) Substitution at 37',Daniel Carmichael Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,2,306142,2025-05-07 04:56:00
+13332,735636,8,45210281,70,1,2700,45'+1',1,0,Jack Murray (Elgin City) Goal at 46',Jack Murray Goal,419,0.0,0.0,0.0,0.0,0.0,0.0,1,152253,2025-05-07 04:56:00
+13332,735636,9,45210337,94,2,4140,69',0,0,Dajon Golding (Elgin City) Yellow Card at 69',Dajon Golding Yellow Card,419,0.0,0.0,0.0,0.0,0.0,0.0,1,249323,2025-05-07 04:56:00
+13332,735636,10,45210339,76,2,4260,71',0,0,Oliver Mcdonald (Elgin City) Substitution at 71',Oliver Mcdonald Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,1,240716,2025-05-07 04:56:00
+13332,735636,10,45210339,76,2,4260,71',0,0,Oliver Mcdonald (Elgin City) Substitution at 71',Oliver Mcdonald Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,2,249323,2025-05-07 04:56:00
+13332,735636,11,45210348,94,2,4440,74',0,0,William Gibson (Annan Athletic) Yellow Card at 74',William Gibson Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,7191,2025-05-07 04:56:00
+13332,735636,12,45210375,76,2,5040,84',0,0,Kane Hester (Elgin City) Substitution at 84',Kane Hester Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,1,223017,2025-05-07 04:56:00
+13332,735636,12,45210375,76,2,5040,84',0,0,Kane Hester (Elgin City) Substitution at 84',Kane Hester Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,2,266928,2025-05-07 04:56:00
+13332,735637,1,45227109,70,1,60,1',1,0,Tommy Muir (Annan Athletic) Goal at 1',Tommy Muir Goal,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,231464,2025-05-12 04:51:47
+13332,735637,2,45227408,70,1,1320,22',1,0,Ryan Sargent (Elgin City) Goal at 22',Ryan Sargent Goal,419,0.0,0.0,0.0,0.0,0.0,0.0,1,266928,2025-05-12 04:51:47
+13332,735637,3,45227698,94,1,2280,38',0,0,Aidan Smith (Annan Athletic) Yellow Card at 38',Aidan Smith Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,190469,2025-05-12 04:51:47
+13332,735637,4,45228281,76,2,2880,48',0,0,Daniel Carmichael (Annan Athletic) Substitution at 48',Daniel Carmichael Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,139840,2025-05-12 04:51:47
+13332,735637,4,45228281,76,2,2880,48',0,0,Daniel Carmichael (Annan Athletic) Substitution at 48',Daniel Carmichael Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,2,363431,2025-05-12 04:51:47
+13332,735637,5,45228529,76,2,3420,57',0,0,Dajon Golding (Elgin City) Substitution at 57',Dajon Golding Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,1,249323,2025-05-12 04:51:47
+13332,735637,5,45228529,76,2,3420,57',0,0,Dajon Golding (Elgin City) Substitution at 57',Dajon Golding Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,2,310333,2025-05-12 04:51:47
+13332,735637,6,45228583,70,2,3540,59',1,0,Oliver Mcdonald (Elgin City) Goal at 59',Oliver Mcdonald Goal,419,0.0,0.0,0.0,0.0,0.0,0.0,1,240716,2025-05-12 04:51:47
+13332,735637,7,45228820,76,2,4260,71',0,0,Layton Bisland (Annan Athletic) Substitution at 71',Layton Bisland Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,317304,2025-05-12 04:51:47
+13332,735637,7,45228820,76,2,4260,71',0,0,Layton Bisland (Annan Athletic) Substitution at 71',Layton Bisland Substitution,7166,0.0,0.0,0.0,0.0,0.0,0.0,2,302704,2025-05-12 04:51:47
+13332,735637,8,45228924,94,2,4620,77',0,0,Oliver Mcdonald (Elgin City) Yellow Card at 77',Oliver Mcdonald Yellow Card,419,0.0,0.0,0.0,0.0,0.0,0.0,1,240716,2025-05-12 04:51:47
+13332,735637,9,45228926,76,2,4680,78',0,0,Kane Hester (Elgin City) Substitution at 78',Kane Hester Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,1,223017,2025-05-12 04:51:47
+13332,735637,9,45228926,76,2,4680,78',0,0,Kane Hester (Elgin City) Substitution at 78',Kane Hester Substitution,419,0.0,0.0,0.0,0.0,0.0,0.0,2,240716,2025-05-12 04:51:47
+13332,735637,10,45228999,94,2,4920,82',0,0,Brian Cameron (Elgin City) Yellow Card at 82',Brian Cameron Yellow Card,419,0.0,0.0,0.0,0.0,0.0,0.0,1,223428,2025-05-12 04:51:47
+13332,735637,12,45229212,94,2,5400,90'+1',0,0,Josh Dixon (Annan Athletic) Yellow Card at 91',Josh Dixon Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,290854,2025-05-12 04:51:47
+13332,735637,11,45229211,94,2,5400,90'+1',0,0,Daniel Carmichael (Annan Athletic) Yellow Card at 91',Daniel Carmichael Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,139840,2025-05-12 04:51:47
+13332,735637,13,45229311,94,2,5400,90'+5',0,0,William Gibson (Annan Athletic) Yellow Card at 95',William Gibson Yellow Card,7166,0.0,0.0,0.0,0.0,0.0,0.0,1,7191,2025-05-12 04:51:47
+13332,735637,14,45229327,94,2,5400,90'+5',0,0,Kane Hester (Elgin City) Yellow Card at 95',Kane Hester Yellow Card,419,0.0,0.0,0.0,0.0,0.0,0.0,1,223017,2025-05-12 04:51:47
+13332,735638,1,45227315,94,1,900,15',0,0,Conor Mcmanus (East Fife) Yellow Card at 15',Conor Mcmanus Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,221694,2025-05-13 04:54:35
+13332,735638,2,45227446,70,1,1560,26',1,0,Adam Laaref (East Fife) Goal at 26',Adam Laaref Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,387696,2025-05-12 04:51:47
+13332,735638,3,45227770,94,1,2520,42',0,0,Edin Lynch (Edinburgh City) Yellow Card at 42',Edin Lynch Yellow Card,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,277672,2025-05-12 04:51:47
+13332,735638,4,45228226,76,2,2700,45',0,0,Jess Norey (East Fife) Substitution at 45',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,365402,2025-05-12 04:51:47
+13332,735638,4,45228226,76,2,2700,45',0,0,Jess Norey (East Fife) Substitution at 45',Jess Norey Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,221694,2025-05-12 04:51:47
+13332,735638,5,45228456,94,2,3120,52',0,0,Mamadou Bah (East Fife) Yellow Card at 52',Mamadou Bah Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,362297,2025-05-12 04:51:47
+13332,735638,5,45228456,94,2,3120,52',0,0,Mamadou Bah (East Fife) Yellow Card at 52',Mamadou Bah Yellow Card,421,0.0,0.0,0.0,0.0,0.0,0.0,1,387071,2025-05-12 04:51:47
+13332,735638,6,45228477,70,2,3300,55',1,0,Michael McKenna (East Fife) Goal at 55',Michael McKenna Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,206336,2025-05-12 04:51:47
+13332,735638,7,45228556,70,2,3480,58',1,0,Alan Trouten (East Fife) Goal at 58',Alan Trouten Goal,421,0.0,0.0,0.0,0.0,0.0,0.0,1,30013,2025-05-12 04:51:47
+13332,735638,8,45228584,76,2,3600,60',0,0,Tiwi Daramola (Edinburgh City) Substitution at 60',Tiwi Daramola Substitution,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,289617,2025-05-12 04:51:47
+13332,735638,8,45228584,76,2,3600,60',0,0,Tiwi Daramola (Edinburgh City) Substitution at 60',Tiwi Daramola Substitution,2832,0.0,0.0,0.0,0.0,0.0,0.0,2,336766,2025-05-12 04:51:47
+13332,735638,9,45228663,94,2,3780,63',0,0,John Robertson (Edinburgh City) Yellow Card at 63',John Robertson Yellow Card,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,223320,2025-05-12 04:51:47
+13332,735638,9,45228663,94,2,3780,63',0,0,John Robertson (Edinburgh City) Yellow Card at 63',John Robertson Yellow Card,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,261415,2025-05-12 04:51:47
+13332,735638,10,45228752,76,2,4020,67',0,0,Scott Shepherd (East Fife) Substitution at 67',Scott Shepherd Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,190256,2025-05-12 04:51:47
+13332,735638,10,45228752,76,2,4020,67',0,0,Scott Shepherd (East Fife) Substitution at 67',Scott Shepherd Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,190432,2025-05-12 04:51:47
+13332,735638,12,45228852,76,2,4320,72',0,0,Kallum Higginbotham (East Fife) Substitution at 72',Kallum Higginbotham Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,107564,2025-05-12 04:51:47
+13332,735638,11,45228851,76,2,4320,72',0,0,Jack Healy (East Fife) Substitution at 72',Jack Healy Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,293874,2025-05-12 04:51:47
+13332,735638,11,45228851,76,2,4320,72',0,0,Jack Healy (East Fife) Substitution at 72',Jack Healy Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,387696,2025-05-12 04:51:47
+13332,735638,12,45228852,76,2,4320,72',0,0,Kallum Higginbotham (East Fife) Substitution at 72',Kallum Higginbotham Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,30013,2025-05-12 04:51:47
+13332,735638,13,45228853,76,2,4500,75',0,0,Josh Grigor (Edinburgh City) Substitution at 75',Josh Grigor Substitution,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,308696,2025-05-12 04:51:47
+13332,735638,15,45228909,76,2,4500,75',0,0,Gregor Nicol (East Fife) Substitution at 75',Gregor Nicol Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,1,322904,2025-05-12 04:51:47
+13332,735638,14,45228908,76,2,4500,75',0,0,Robbie Hamilton (Edinburgh City) Substitution at 75',Robbie Hamilton Substitution,2832,0.0,0.0,0.0,0.0,0.0,0.0,1,324796,2025-05-12 04:51:47
+13332,735638,14,45228908,76,2,4500,75',0,0,Robbie Hamilton (Edinburgh City) Substitution at 75',Robbie Hamilton Substitution,2832,0.0,0.0,0.0,0.0,0.0,0.0,2,352383,2025-05-12 04:51:47
+13332,735638,15,45228909,76,2,4500,75',0,0,Gregor Nicol (East Fife) Substitution at 75',Gregor Nicol Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,362297,2025-05-12 04:51:47
+13332,735638,13,45228853,76,2,4500,75',0,0,Josh Grigor (Edinburgh City) Substitution at 75',Josh Grigor Substitution,2832,0.0,0.0,0.0,0.0,0.0,0.0,2,347066,2025-05-12 04:51:47
+13332,735638,15,45228909,76,2,4500,75',0,0,Gregor Nicol (East Fife) Substitution at 75',Gregor Nicol Substitution,421,0.0,0.0,0.0,0.0,0.0,0.0,2,387071,2025-05-12 04:51:47

@@ -1,0 +1,46 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13009,723969,1,44344451,94,1,1080,18',0,0,Sebastian Tounekti (Haugesund) Yellow Card at 18',Sebastian Tounekti Yellow Card,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,303702,2024-12-06 05:59:49
+13009,723969,2,44344733,94,2,3600,60',0,0,Marius Cassidy (Moss FK) Yellow Card at 60',Marius Cassidy Yellow Card,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,397308,2024-12-06 05:59:49
+13009,723969,3,44344743,76,2,3720,62',0,0,Troy Nyhammer (Haugesund) Substitution at 62',Troy Nyhammer Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,354800,2024-12-06 05:59:49
+13009,723969,4,44344744,76,2,3720,62',0,0,Sander Innvær (Haugesund) Substitution at 62',Sander Innvær Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,338770,2024-12-06 05:59:49
+13009,723969,3,44344743,76,2,3720,62',0,0,Troy Nyhammer (Haugesund) Substitution at 62',Troy Nyhammer Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,2,305122,2024-12-06 05:59:49
+13009,723969,4,44344744,76,2,3720,62',0,0,Sander Innvær (Haugesund) Substitution at 62',Sander Innvær Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,2,319484,2024-12-06 05:59:49
+13009,723969,5,44344753,76,2,4080,68',0,0,Aksel Potur (Moss FK) Substitution at 68',Aksel Potur Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,369973,2024-12-06 05:59:49
+13009,723969,5,44344753,76,2,4080,68',0,0,Aksel Potur (Moss FK) Substitution at 68',Aksel Potur Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,2,289428,2024-12-06 05:59:49
+13009,723969,6,44344754,76,2,4140,69',0,0,Martin Samuelsen (Haugesund) Substitution at 69',Martin Samuelsen Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,222531,2024-12-06 05:59:49
+13009,723969,6,44344754,76,2,4140,69',0,0,Martin Samuelsen (Haugesund) Substitution at 69',Martin Samuelsen Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,2,285940,2024-12-06 05:59:49
+13009,723969,8,44344832,76,2,4860,81',0,0,Benarfa  (Moss FK) Substitution at 81',Benarfa  Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,318608,2024-12-06 05:59:49
+13009,723969,7,44344831,76,2,4860,81',0,0,Håkon Krohg (Moss FK) Substitution at 81',Håkon Krohg Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,397299,2024-12-06 05:59:49
+13009,723969,7,44344831,76,2,4860,81',0,0,Håkon Krohg (Moss FK) Substitution at 81',Håkon Krohg Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,2,397300,2024-12-06 05:59:49
+13009,723969,8,44344832,76,2,4860,81',0,0,Benarfa  (Moss FK) Substitution at 81',Benarfa  Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,2,227440,2024-12-06 05:59:49
+13009,723969,9,44344886,76,2,5100,85',0,0,Sory Diarra (Haugesund) Substitution at 85',Sory Diarra Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,342786,2024-12-06 05:59:49
+13009,723969,9,44344886,76,2,5100,85',0,0,Sory Diarra (Haugesund) Substitution at 85',Sory Diarra Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,2,303702,2024-12-06 05:59:49
+13009,723969,10,44344902,94,2,5340,89',0,0,Ilir Kukleci (Moss FK) Yellow Card at 89',Ilir Kukleci Yellow Card,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,397305,2024-12-06 05:59:49
+13009,723969,11,44344977,94,2,5400,90'+2',0,0,Oscar Krusnell (Haugesund) Yellow Card at 92',Oscar Krusnell Yellow Card,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,243517,2024-12-06 05:59:49
+13009,723970,1,44362187,97,1,1440,24',1,0,Mathias Ranmarks (Moss FK) Own Goal at 24',Mathias Ranmarks Own Goal,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,260055,2024-12-11 05:57:50
+13009,723970,2,44362272,70,1,2040,34',1,0,Sondre Liseth (Haugesund) Goal at 34',Sondre Liseth Goal,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,285940,2024-12-09 12:54:56
+13009,723970,5,44362820,76,2,2700,45',0,0,Håkon Krohg (Moss FK) Substitution at 45',Håkon Krohg Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,397299,2024-12-09 12:54:56
+13009,723970,3,44362818,76,2,2700,45',0,0,Marius Andresen (Moss FK) Substitution at 45',Marius Andresen Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,397296,2024-12-09 12:54:56
+13009,723970,4,44362819,76,2,2700,45',0,0,Noah Alexandersson (Moss FK) Substitution at 45',Noah Alexandersson Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,289428,2024-12-09 12:54:56
+13009,723970,5,44362820,76,2,2700,45',0,0,Håkon Krohg (Moss FK) Substitution at 45',Håkon Krohg Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,2,369973,2024-12-09 12:54:56
+13009,723970,4,44362819,76,2,2700,45',0,0,Noah Alexandersson (Moss FK) Substitution at 45',Noah Alexandersson Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,2,397303,2024-12-09 12:54:56
+13009,723970,3,44362818,76,2,2700,45',0,0,Marius Andresen (Moss FK) Substitution at 45',Marius Andresen Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,2,397308,2024-12-09 12:54:56
+13009,723970,6,44363043,76,2,3600,60',0,0,Mathias Dahl Sauer (Haugesund) Substitution at 60',Mathias Dahl Sauer Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,319484,2024-12-09 12:54:56
+13009,723970,7,44363044,76,2,3600,60',0,0,Martin Samuelsen (Haugesund) Substitution at 60',Martin Samuelsen Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,222531,2024-12-09 12:54:56
+13009,723970,6,44363043,76,2,3600,60',0,0,Mathias Dahl Sauer (Haugesund) Substitution at 60',Mathias Dahl Sauer Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,2,338770,2024-12-09 12:54:56
+13009,723970,7,44363044,76,2,3600,60',0,0,Martin Samuelsen (Haugesund) Substitution at 60',Martin Samuelsen Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,2,342786,2024-12-09 12:54:56
+13009,723970,8,44363260,76,2,4440,74',0,0,Anton Logi Lúdvíksson (Haugesund) Substitution at 74',Anton Logi Lúdvíksson Substituti,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,305122,2024-12-09 12:54:56
+13009,723970,8,44363260,76,2,4440,74',0,0,Anton Logi Lúdvíksson (Haugesund) Substitution at 74',Anton Logi Lúdvíksson Substituti,3327,0.0,0.0,0.0,0.0,0.0,0.0,2,202676,2024-12-09 12:54:56
+13009,723970,9,44363261,76,2,4500,75',0,0,Troy Nyhammer (Haugesund) Substitution at 75',Troy Nyhammer Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,354800,2024-12-09 12:54:56
+13009,723970,9,44363261,76,2,4500,75',0,0,Troy Nyhammer (Haugesund) Substitution at 75',Troy Nyhammer Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,2,285940,2024-12-09 12:54:56
+13009,723970,10,44363281,76,2,4620,77',0,0,Benarfa  (Moss FK) Substitution at 77',Benarfa  Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,318608,2024-12-09 12:54:56
+13009,723970,10,44363281,76,2,4620,77',0,0,Benarfa  (Moss FK) Substitution at 77',Benarfa  Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,2,289428,2024-12-09 12:54:56
+13009,723970,11,44363315,94,2,4680,78',0,0,Kristoffer Lassen Harrison (Moss FK) Yellow Card at 78',Kristoffer Lassen Harrison Yello,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,323707,2024-12-09 12:54:56
+13009,723970,12,44363348,76,2,4860,81',0,0,João Barros (Moss FK) Substitution at 81',João Barros Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,346716,2024-12-09 12:54:56
+13009,723970,12,44363348,76,2,4860,81',0,0,João Barros (Moss FK) Substitution at 81',João Barros Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,388019,2024-12-09 12:54:56
+13009,723970,12,44363348,76,2,4860,81',0,0,João Barros (Moss FK) Substitution at 81',João Barros Substitution,22475,0.0,0.0,0.0,0.0,0.0,0.0,2,320485,2024-12-09 12:54:56
+13009,723970,13,44363404,76,2,5040,84',0,0,Mikkel Fischer (Haugesund) Substitution at 84',Mikkel Fischer Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,358514,2024-12-09 12:54:56
+13009,723970,13,44363404,76,2,5040,84',0,0,Mikkel Fischer (Haugesund) Substitution at 84',Mikkel Fischer Substitution,3327,0.0,0.0,0.0,0.0,0.0,0.0,2,303702,2024-12-09 12:54:56
+13009,723970,14,44363493,93,2,5340,89',0,0,Kristoffer Lassen Harrison (Moss FK) Red Card at 89',Kristoffer Lassen Harrison Red C,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,323707,2024-12-09 12:54:56
+13009,723970,15,44363571,94,2,5400,90'+3',0,0,Troy Nyhammer (Haugesund) Yellow Card at 93',Troy Nyhammer Yellow Card,3327,0.0,0.0,0.0,0.0,0.0,0.0,1,354800,2024-12-09 12:54:56
+13009,723970,16,44363594,94,2,5400,90'+3',0,0,Marius Andresen (Moss FK) Yellow Card at 93',Marius Andresen Yellow Card,22475,0.0,0.0,0.0,0.0,0.0,0.0,1,397296,2024-12-09 12:54:56

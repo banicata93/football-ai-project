@@ -1,0 +1,47 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13373,735808,1,45304704,70,1,1080,18',1,0,Lukas Petkov (SV 07 Elversberg) Goal at 18',Lukas Petkov Goal,10388,0.0,0.0,0.0,0.0,0.0,0.0,1,310692,2025-05-23 04:56:55
+13373,735808,2,45304711,94,1,1560,26',0,0,Adrian Beck (1. FC Heidenheim 1846) Yellow Card at 26',Adrian Beck Yellow Card,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,277999,2025-05-23 04:56:55
+13373,735808,3,45304739,70,1,2520,42',1,0,Fisnik Asllani (SV 07 Elversberg) Goal at 42',Fisnik Asllani Goal,10388,0.0,0.0,0.0,0.0,0.0,0.0,1,331057,2025-05-23 04:56:55
+13373,735808,5,45304786,76,2,2700,45',0,0,Léo Scienza (1. FC Heidenheim 1846) Substitution at 45',Léo Scienza Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,343995,2025-05-23 04:56:55
+13373,735808,4,45304782,76,2,2700,45',0,0,Budu Zivzivadze (1. FC Heidenheim 1846) Substitution at 45',Budu Zivzivadze Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,237727,2025-05-23 04:56:55
+13373,735808,6,45304787,76,2,2700,45',0,0,Paul Wanner (1. FC Heidenheim 1846) Substitution at 45',Paul Wanner Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,333399,2025-05-23 04:56:55
+13373,735808,5,45304786,76,2,2700,45',0,0,Léo Scienza (1. FC Heidenheim 1846) Substitution at 45',Léo Scienza Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,2,225567,2025-05-23 04:56:55
+13373,735808,6,45304787,76,2,2700,45',0,0,Paul Wanner (1. FC Heidenheim 1846) Substitution at 45',Paul Wanner Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,2,277999,2025-05-23 04:56:55
+13373,735808,4,45304782,76,2,2700,45',0,0,Budu Zivzivadze (1. FC Heidenheim 1846) Substitution at 45',Budu Zivzivadze Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,2,312389,2025-05-23 04:56:55
+13373,735808,7,45304829,70,2,3720,62',1,0,Tim Siersleben (1. FC Heidenheim 1846) Goal at 62',Tim Siersleben Goal,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,290208,2025-05-24 04:58:00
+13373,735808,8,45304832,70,2,3840,64',1,0,Mathias Honsak (1. FC Heidenheim 1846) Goal at 64',Mathias Honsak Goal,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,234457,2025-05-23 04:56:55
+13373,735808,9,45304855,76,2,4560,76',0,0,Sirlord Conteh (1. FC Heidenheim 1846) Substitution at 76',Sirlord Conteh Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,307508,2025-05-23 04:56:55
+13373,735808,9,45304855,76,2,4560,76',0,0,Sirlord Conteh (1. FC Heidenheim 1846) Substitution at 76',Sirlord Conteh Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,2,234457,2025-05-23 04:56:55
+13373,735808,10,45304856,76,2,4680,78',0,0,Luca Schnellbacher (SV 07 Elversberg) Substitution at 78',Luca Schnellbacher Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,1,207335,2025-05-23 04:56:55
+13373,735808,11,45304857,76,2,4680,78',0,0,Carlo Sickinger (SV 07 Elversberg) Substitution at 78',Carlo Sickinger Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,1,268973,2025-05-23 04:56:55
+13373,735808,10,45304856,76,2,4680,78',0,0,Luca Schnellbacher (SV 07 Elversberg) Substitution at 78',Luca Schnellbacher Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,2,364790,2025-05-23 04:56:55
+13373,735808,11,45304857,76,2,4680,78',0,0,Carlo Sickinger (SV 07 Elversberg) Substitution at 78',Carlo Sickinger Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,2,306928,2025-05-23 04:56:55
+13373,735808,12,45304883,76,2,5160,86',0,0,Frederik Schmahl (SV 07 Elversberg) Substitution at 86',Frederik Schmahl Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,1,386454,2025-05-23 04:56:55
+13373,735808,12,45304883,76,2,5160,86',0,0,Frederik Schmahl (SV 07 Elversberg) Substitution at 86',Frederik Schmahl Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,2,310692,2025-05-23 04:56:55
+13373,735808,13,45304896,76,2,5340,89',0,0,Younes Ebnoutalib (SV 07 Elversberg) Substitution at 89',Younes Ebnoutalib Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,1,359793,2025-05-23 04:56:55
+13373,735808,13,45304896,76,2,5340,89',0,0,Younes Ebnoutalib (SV 07 Elversberg) Substitution at 89',Younes Ebnoutalib Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,2,331057,2025-05-23 04:56:55
+13373,735809,1,45325617,70,1,540,9',1,0,Mathias Honsak (1. FC Heidenheim 1846) Goal at 9',Mathias Honsak Goal,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,234457,2025-05-27 04:53:49
+13373,735809,2,45325642,76,1,1080,18',0,0,Carlo Sickinger (SV 07 Elversberg) Substitution at 18',Carlo Sickinger Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,1,268973,2025-05-27 04:53:49
+13373,735809,2,45325642,76,1,1080,18',0,0,Carlo Sickinger (SV 07 Elversberg) Substitution at 18',Carlo Sickinger Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,2,344743,2025-05-27 04:53:49
+13373,735809,3,45325653,76,1,1380,23',0,0,Budu Zivzivadze (1. FC Heidenheim 1846) Substitution at 23',Budu Zivzivadze Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,237727,2025-05-27 04:53:49
+13373,735809,3,45325653,76,1,1380,23',0,0,Budu Zivzivadze (1. FC Heidenheim 1846) Substitution at 23',Budu Zivzivadze Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,2,312389,2025-05-27 04:53:49
+13373,735809,4,45325658,70,1,1800,30',1,0,Robin Fellhauer (SV 07 Elversberg) Goal at 30',Robin Fellhauer Goal,10388,0.0,0.0,0.0,0.0,0.0,0.0,1,306928,2025-05-28 04:50:58
+13373,735809,5,45325673,94,1,2580,43',0,0,Omar Haktab Traoré (1. FC Heidenheim 1846) Yellow Card at 43',Omar Haktab Traoré Yellow Card,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,291914,2025-05-27 04:53:49
+13373,735809,6,45325761,94,2,3300,55',0,0,Luca Kerber (1. FC Heidenheim 1846) Yellow Card at 55',Luca Kerber Yellow Card,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,364791,2025-05-27 04:53:49
+13373,735809,7,45325787,94,2,4080,68',0,0,Tom Zimmerschied (SV 07 Elversberg) Yellow Card at 68',Tom Zimmerschied Yellow Card,10388,0.0,0.0,0.0,0.0,0.0,0.0,1,364790,2025-05-27 04:53:49
+13373,735809,9,45325794,76,2,4680,78',0,0,Niklas Dorsch (1. FC Heidenheim 1846) Substitution at 78',Niklas Dorsch Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,225567,2025-05-27 04:53:49
+13373,735809,8,45325792,76,2,4680,78',0,0,Paul Wanner (1. FC Heidenheim 1846) Substitution at 78',Paul Wanner Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,333399,2025-05-27 04:53:49
+13373,735809,9,45325794,76,2,4680,78',0,0,Niklas Dorsch (1. FC Heidenheim 1846) Substitution at 78',Niklas Dorsch Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,2,364791,2025-05-27 04:53:49
+13373,735809,8,45325792,76,2,4680,78',0,0,Paul Wanner (1. FC Heidenheim 1846) Substitution at 78',Paul Wanner Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,2,234457,2025-05-27 04:53:49
+13373,735809,10,45325796,94,2,4740,79',0,0,Paul Wanner (1. FC Heidenheim 1846) Yellow Card at 79',Paul Wanner Yellow Card,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,333399,2025-05-27 04:53:49
+13373,735809,11,45325798,76,2,5160,86',0,0,Luca Schnellbacher (SV 07 Elversberg) Substitution at 86',Luca Schnellbacher Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,1,207335,2025-05-27 04:53:49
+13373,735809,11,45325798,76,2,5160,86',0,0,Luca Schnellbacher (SV 07 Elversberg) Substitution at 86',Luca Schnellbacher Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,2,364790,2025-05-27 04:53:49
+13373,735809,15,45325805,76,2,5400,90'+7',0,0,Benedikt Gimber (1. FC Heidenheim 1846) Substitution at 97',Benedikt Gimber Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,220716,2025-05-27 04:53:49
+13373,735809,16,45325806,76,2,5400,90'+7',0,0,Jonas Föhrenbach (1. FC Heidenheim 1846) Substitution at 97',Jonas Föhrenbach Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,220815,2025-05-27 04:53:49
+13373,735809,14,45325804,76,2,5400,90'+7',0,0,Younes Ebnoutalib (SV 07 Elversberg) Substitution at 97',Younes Ebnoutalib Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,1,359793,2025-05-27 04:53:49
+13373,735809,13,45325802,76,2,5400,90'+7',0,0,Manuel Feil (SV 07 Elversberg) Substitution at 97',Manuel Feil Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,1,278014,2025-05-27 04:53:49
+13373,735809,12,45325801,70,2,5400,90'+5',1,0,Léo Scienza (1. FC Heidenheim 1846) Goal at 95',Léo Scienza Goal,6418,0.0,0.0,0.0,0.0,0.0,0.0,1,343995,2025-05-27 04:53:49
+13373,735809,16,45325806,76,2,5400,90'+7',0,0,Jonas Föhrenbach (1. FC Heidenheim 1846) Substitution at 97',Jonas Föhrenbach Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,2,346749,2025-05-27 04:53:49
+13373,735809,13,45325802,76,2,5400,90'+7',0,0,Manuel Feil (SV 07 Elversberg) Substitution at 97',Manuel Feil Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,2,310692,2025-05-27 04:53:49
+13373,735809,15,45325805,76,2,5400,90'+7',0,0,Benedikt Gimber (1. FC Heidenheim 1846) Substitution at 97',Benedikt Gimber Substitution,6418,0.0,0.0,0.0,0.0,0.0,0.0,2,343995,2025-05-27 04:53:49
+13373,735809,14,45325804,76,2,5400,90'+7',0,0,Younes Ebnoutalib (SV 07 Elversberg) Substitution at 97',Younes Ebnoutalib Substitution,10388,0.0,0.0,0.0,0.0,0.0,0.0,2,346928,2025-05-27 04:53:49

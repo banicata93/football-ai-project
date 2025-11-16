@@ -1,0 +1,31 @@
+{
+  "model_type": "ensemble",
+  "version": "v1",
+  "trained_date": "2025-11-11T10:28:09.886909",
+  "weights": {
+    "poisson": 0.3,
+    "ml": 0.5,
+    "elo": 0.2
+  },
+  "fii_weights": {
+    "elo_diff": 0.25,
+    "form_diff": 0.2,
+    "xg_efficiency_diff": 0.2,
+    "finishing_efficiency_diff": 0.15,
+    "home_advantage": 0.2
+  },
+  "fii_thresholds": {
+    "low": [
+      0,
+      4
+    ],
+    "medium": [
+      4,
+      7
+    ],
+    "high": [
+      7,
+      10
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+13180,729467,1,44617212,94,Marco Montaño (El Nacional) Yellow Card at 5',Marco Montaño Yellow Card,1,300,5',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,180888,Marco Montaño,2025-02-02 14:52:12
+13180,729467,2,44617237,94,Bryan Ramirez (Liga de Quito) Yellow Card at 11',Bryan Ramirez Yellow Card,1,660,11',4816,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,236049,Bryan Ramirez,2025-02-02 14:52:12
+13180,729467,3,44617299,93,Rommel Cabezas (El Nacional) Red Card at 18',Rommel Cabezas Red Card,1,1080,18',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,314924,Rommel Cabezas,2025-02-02 14:52:12
+13180,729467,4,44617347,76,José Flor (El Nacional) Substitution at 22',José Flor Substitution,1,1320,22',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,228489,José Flor,2025-02-02 14:52:12
+13180,729467,4,44617347,76,José Flor (El Nacional) Substitution at 22',José Flor Substitution,1,1320,22',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,302172,Eddy Mejía,2025-02-02 14:52:12
+13180,729467,5,44617361,94,Leonel Quiñonez (Liga de Quito) Yellow Card at 23',Leonel Quiñonez Yellow Card,1,1380,23',4816,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,269885,Leonel Quiñonez,2025-02-02 14:52:12
+13180,729467,6,44617410,76,Lisandro Alzugaray (Liga de Quito) Substitution at 28',Lisandro Alzugaray Substitution,1,1680,28',4816,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,216651,Lisandro Alzugaray,2025-02-02 14:52:12
+13180,729467,6,44617410,76,Lisandro Alzugaray (Liga de Quito) Substitution at 28',Lisandro Alzugaray Substitution,1,1680,28',4816,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,338866,Lautaro Pastran,2025-02-02 14:52:12
+13180,729467,7,44617585,94,Alexander Domínguez (Liga de Quito) Yellow Card at 44',Alexander Domínguez Yellow Card,1,2640,44',4816,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,95614,Alexander Domínguez,2025-02-02 14:52:12
+13180,729467,8,44617616,94,David Cabezas (El Nacional) Yellow Card at 46',David Cabezas Yellow Card,1,2700,45'+1',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,253655,David Cabezas,2025-02-02 14:52:12
+13180,729467,9,44617863,76,Michael Estrada (Liga de Quito) Substitution at 45',Michael Estrada Substitution,2,2700,45',4816,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,249848,Michael Estrada,2025-02-02 14:52:12
+13180,729467,9,44617863,76,Michael Estrada (Liga de Quito) Substitution at 45',Michael Estrada Substitution,2,2700,45',4816,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,283647,Gabriel Villamil,2025-02-02 14:52:12
+13180,729467,10,44618165,76,Alexander Alvarado (Liga de Quito) Substitution at 71',Alexander Alvarado Substitution,2,4260,71',4816,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,287404,Alexander Alvarado,2025-02-02 14:52:12
+13180,729467,10,44618165,76,Alexander Alvarado (Liga de Quito) Substitution at 71',Alexander Alvarado Substitution,2,4260,71',4816,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,82355,Fernando Cornejo,2025-02-02 14:52:12
+13180,729467,11,44618281,76,Marcos Olmedo (El Nacional) Substitution at 78',Marcos Olmedo Substitution,2,4680,78',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,302170,Marcos Olmedo,2025-02-02 14:52:12
+13180,729467,12,44618282,76,Edison Caicedo (El Nacional) Substitution at 78',Edison Caicedo Substitution,2,4680,78',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,104678,Edison Caicedo,2025-02-02 14:52:12
+13180,729467,13,44618283,76,Adrián Cela (El Nacional) Substitution at 78',Adrián Cela Substitution,2,4680,78',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,248859,Adrián Cela,2025-02-02 14:52:12
+13180,729467,11,44618281,76,Marcos Olmedo (El Nacional) Substitution at 78',Marcos Olmedo Substitution,2,4680,78',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,388380,Jawer Guisamano,2025-02-02 14:52:12
+13180,729467,12,44618282,76,Edison Caicedo (El Nacional) Substitution at 78',Edison Caicedo Substitution,2,4680,78',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,180888,Marco Montaño,2025-02-02 14:52:12
+13180,729467,13,44618283,76,Adrián Cela (El Nacional) Substitution at 78',Adrián Cela Substitution,2,4680,78',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,302189,Darío Pazmiño,2025-02-02 14:52:12
+13180,729467,14,44618352,76,Fidel Martínez (El Nacional) Substitution at 89',Fidel Martínez Substitution,2,5340,89',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,130615,Fidel Martínez,2025-02-02 14:52:12
+13180,729467,15,44618353,76,Ángel Ledesma (El Nacional) Substitution at 89',Ángel Ledesma Substitution,2,5340,89',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,144900,Ángel Ledesma,2025-02-02 14:52:12
+13180,729467,14,44618352,76,Fidel Martínez (El Nacional) Substitution at 89',Fidel Martínez Substitution,2,5340,89',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,399458,José Ceballos,2025-02-02 14:52:12
+13180,729467,15,44618353,76,Ángel Ledesma (El Nacional) Substitution at 89',Ángel Ledesma Substitution,2,5340,89',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,241243,Jhon Cifuente,2025-02-02 14:52:12
+13180,729467,16,44618389,93,Edison Caicedo (El Nacional) Red Card at 94',Edison Caicedo Red Card,2,5400,90'+4',882,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,104678,Edison Caicedo,2025-02-02 14:52:12
+13180,729467,17,44618392,76,Freddy Mina (Liga de Quito) Substitution at 96',Freddy Mina Substitution,2,5400,90'+6',4816,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,269890,Freddy Mina,2025-02-02 14:52:12
+13180,729467,17,44618392,76,Freddy Mina (Liga de Quito) Substitution at 96',Freddy Mina Substitution,2,5400,90'+6',4816,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,236049,Bryan Ramirez,2025-02-02 14:52:12

@@ -1,0 +1,369 @@
+seasonType,eventId,commentaryOrder,playId,clockDisplayValue,commentaryText,updateDateTime
+13720,758415,0,46156112,16',Al Hassan Toure (Sydney FC) Yellow Card at 16',2025-10-18 05:22:43
+13720,758415,1,46156113,41',Alex Grant (Sydney FC) Yellow Card at 41',2025-10-18 05:22:43
+13720,758415,2,46156114,55',Ryan Kitto (Adelaide United) Goal at 55',2025-10-18 05:22:43
+13720,758415,3,46156115,60',Abel Walatee (Sydney FC) Substitution at 60',2025-10-18 05:22:43
+13720,758415,4,46156116,65',Ethan Alagich (Adelaide United) Goal at 65',2025-10-18 05:22:43
+13720,758415,5,46156117,71',Panashe Madanha (Adelaide United) Substitution at 71',2025-10-18 05:22:43
+13720,758415,6,46156118,76',Harry Crawford (Adelaide United) Substitution at 76',2025-10-18 05:22:43
+13720,758415,7,46156119,76',Juan Muñiz (Adelaide United) Substitution at 76',2025-10-18 05:22:43
+13720,758415,8,46156120,80',Patrick Wood (Sydney FC) Substitution at 80',2025-10-18 05:22:43
+13720,758415,9,46156121,87',Tiago Quintal (Sydney FC) Substitution at 87',2025-10-18 05:22:43
+13720,758415,10,46156122,87',Alexandar Popovic (Sydney FC) Substitution at 87',2025-10-18 05:22:43
+13720,758415,11,46156123,88',Jordan Courtney-Perkins (Sydney FC) Substitution at 88',2025-10-18 05:22:43
+13720,758415,12,46156124,89',Fabian Talladira (Adelaide United) Substitution at 89',2025-10-18 05:22:43
+13720,758415,13,46156125,90'+1',Joe Lolley (Sydney FC) Goal at 91',2025-10-18 05:22:43
+13720,758416,0,46156136,17',Dimitrios Valkanis (Brisbane Roar) Yellow Card at 17',2025-10-18 05:22:43
+13720,758416,1,46156137,17',James McGarry (Brisbane Roar) Yellow Card at 17',2025-10-18 05:22:43
+13720,758416,2,46156141,32',Chris Long (Brisbane Roar) Yellow Card at 32',2025-10-18 05:22:43
+13720,758416,3,46156144,37',Jay O'Shea (Brisbane Roar) Penalty - Scored at 37',2025-10-18 05:22:43
+13720,758416,4,46156147,45'+1',Luke Brattan (Macarthur FC) Yellow Card at 46',2025-10-18 05:22:43
+13720,758416,5,46156152,52',Tomislav Uskok (Macarthur FC) Yellow Card at 52',2025-10-18 05:22:43
+13720,758416,6,46156153,54',Justin Vidic (Brisbane Roar) Substitution at 54',2025-10-18 05:22:43
+13720,758416,7,46156154,54',Michael Ruhs (Brisbane Roar) Substitution at 54',2025-10-18 05:22:43
+13720,758416,8,46156157,55',Walter Scott (Macarthur FC) Substitution at 55',2025-10-18 05:22:43
+13720,758416,9,46156155,56',Sime Grzan (Macarthur FC) Substitution at 56',2025-10-18 05:22:43
+13720,758416,10,46156162,58',Dimitrios Valkanis (Brisbane Roar) Red Card at 58',2025-10-18 05:22:43
+13720,758416,11,46156163,60',Lucas Herrington (Brisbane Roar) Substitution at 60',2025-10-18 05:22:43
+13720,758416,12,46156168,65',Ji Dong-Won (Macarthur FC) Substitution at 65',2025-10-18 05:22:43
+13720,758416,13,46156169,65',Rafael Durán (Macarthur FC) Substitution at 65',2025-10-18 05:22:43
+13720,758416,14,46156175,73',Christopher Ikonomidis (Macarthur FC) Yellow Card at 73',2025-10-18 05:22:43
+13720,758416,15,46156178,75',Ji Dong-Won (Macarthur FC) Yellow Card at 75',2025-10-18 05:22:43
+13720,758416,16,46156182,82',Noah Maieroni (Brisbane Roar) Substitution at 82',2025-10-18 05:22:43
+13720,758416,17,46156187,82',Jordan Lauton (Brisbane Roar) Substitution at 82',2025-10-18 05:22:43
+13720,758416,18,46156198,89',Matthew Jurman (Macarthur FC) Substitution at 89',2025-10-18 05:22:43
+13720,758416,19,46156202,90'+9',Walter Scott (Macarthur FC) Yellow Card at 99',2025-10-18 05:22:43
+13720,758417,0,46160329,11',Kosta Barbarouses (Western Sydney Wanderers) Goal at 11',2025-10-19 05:22:21
+13720,758417,1,46160331,13',Max Caputo (Melbourne City FC) Goal at 13',2025-10-19 05:22:21
+13720,758417,2,46160370,34',Takeshi Kanamori (Melbourne City FC) Yellow Card at 34',2025-10-19 05:22:21
+13720,758417,3,46160415,57',Angus Thurgate (Western Sydney Wanderers) Yellow Card at 57',2025-10-19 05:22:21
+13720,758417,4,46160416,65',Alou Kuol (Western Sydney Wanderers) Substitution at 65',2025-10-19 05:22:21
+13720,758417,5,46160417,65',Gabriel Cleur (Western Sydney Wanderers) Substitution at 65',2025-10-19 05:22:21
+13720,758417,6,46160418,70',Zane Schreiber (Melbourne City FC) Substitution at 70',2025-10-19 05:22:21
+13720,758417,7,46160419,70',Emin Durakovic (Melbourne City FC) Substitution at 70',2025-10-19 05:22:21
+13720,758417,8,46160420,70',Kavian Rahmani (Melbourne City FC) Substitution at 70',2025-10-19 05:22:21
+13720,758417,9,46160421,71',Kavian Rahmani (Melbourne City FC) Yellow Card at 71',2025-10-19 05:22:21
+13720,758417,10,46160422,80',Beckham Baker (Melbourne City FC) Substitution at 80',2025-10-19 05:22:21
+13720,758417,11,46160423,80',Aydan Hammond (Western Sydney Wanderers) Substitution at 80',2025-10-19 05:22:21
+13720,758417,12,46160424,84',Alou Kuol (Western Sydney Wanderers) Yellow Card at 84',2025-10-19 05:22:21
+13720,758417,13,46160425,90'+1',Dylan Scicluna (Western Sydney Wanderers) Substitution at 91',2025-10-19 05:22:21
+13720,758417,14,46160426,90'+1',Awan Lual (Western Sydney Wanderers) Substitution at 91',2025-10-19 05:22:21
+13720,758417,15,46160427,90'+1',Harrison Shillington (Melbourne City FC) Substitution at 91',2025-10-19 05:22:21
+13720,758418,0,46160436,35',Sam Cosgrove (Auckland FC) Yellow Card at 35',2025-10-19 05:22:21
+13720,758418,1,46160437,38',Louis Verstraete (Auckland FC) Yellow Card at 38',2025-10-19 05:22:21
+13720,758418,2,46160445,53',Marlee Francois (Auckland FC) Yellow Card at 53',2025-10-19 05:22:21
+13720,758418,3,46160447,68',Juan Mata (Melbourne Victory) Substitution at 68',2025-10-19 05:22:21
+13720,758418,4,46160448,68',Matthew Grimaldi (Melbourne Victory) Substitution at 68',2025-10-19 05:22:21
+13720,758418,5,46160449,68',Guillermo May (Auckland FC) Substitution at 68',2025-10-19 05:22:21
+13720,758418,6,46160450,68',Logan Rogerson (Auckland FC) Substitution at 68',2025-10-19 05:22:21
+13720,758418,7,46160451,78',William Gillion (Auckland FC) Substitution at 78',2025-10-19 05:22:21
+13720,758418,8,46160452,79',Cameron Howieson (Auckland FC) Substitution at 79',2025-10-19 05:22:21
+13720,758418,9,46160453,83',Jing Lual (Melbourne Victory) Substitution at 83',2025-10-19 05:22:21
+13720,758419,0,46160456,16',Jaiden Kucharski (Perth Glory) Goal at 16',2025-10-19 05:22:21
+13720,758419,1,46160459,26',Adam Taggart (Perth Glory) Goal at 26',2025-10-19 05:22:21
+13720,758419,2,46160514,45'+3',Ifeanyi Eze (Wellington Phoenix FC) Goal at 48',2025-10-19 05:22:21
+13720,758419,3,46160647,45',William Freney (Perth Glory) Substitution at 45',2025-10-19 05:22:21
+13720,758419,4,46160690,49',William Freney (Perth Glory) Yellow Card at 49',2025-10-19 05:22:21
+13720,758419,5,46160726,53',Rhys Bozinovski (Perth Glory) Yellow Card at 53',2025-10-19 05:22:21
+13720,758419,6,46160811,63',Nathanael Blair (Perth Glory) Substitution at 63',2025-10-19 05:22:21
+13720,758419,7,46160822,63',Nicholas Pennington (Perth Glory) Substitution at 63',2025-10-19 05:22:21
+13720,758419,8,46160826,64',Hideki Ishige (Wellington Phoenix FC) Substitution at 64',2025-10-19 05:22:21
+13720,758419,9,46160879,69',Carlo Armiento (Wellington Phoenix FC) Goal at 69',2025-10-19 05:22:21
+13720,758419,10,46160913,70',Joshua Risdon (Perth Glory) Yellow Card at 70',2025-10-19 05:22:21
+13720,758419,11,46160902,72',Luke Brooke-Smith (Wellington Phoenix FC) Substitution at 72',2025-10-19 05:22:21
+13720,758419,12,46160926,76',Joel Anasmo (Perth Glory) Substitution at 76',2025-10-19 05:22:21
+13720,758419,13,46160944,80',Xuan Loke (Wellington Phoenix FC) Substitution at 80',2025-10-19 05:22:21
+13720,758419,14,46160948,80',Corban Piper (Wellington Phoenix FC) Substitution at 80',2025-10-19 05:22:21
+13720,758419,15,46160953,82',Josh Oluwayemi (Wellington Phoenix FC) Yellow Card at 82',2025-10-19 05:22:21
+13720,758419,16,46161070,90'+5',Scott Wootton (Perth Glory) Yellow Card at 95',2025-10-19 05:22:21
+13720,758419,17,46161101,90'+6',Carlo Armiento (Wellington Phoenix FC) Yellow Card at 96',2025-10-19 05:22:21
+13720,758420,0,46178475,14',Alexander Badolato (Newcastle Jets) Goal at 14',2025-10-19 05:22:21
+13720,758420,1,46178482,24',Lachlan Bayliss (Newcastle Jets) Yellow Card at 24',2025-10-19 05:22:21
+13720,758420,2,46178488,28',Alfie McCalmont (Central Coast Mariners) Penalty - Scored at 28',2025-10-19 05:22:21
+13720,758420,3,46178499,30',Miguel Di Pizio (Central Coast Mariners) Goal at 30',2025-10-19 05:22:21
+13720,758420,4,46178528,45'+3',Max Cooper (Newcastle Jets) Yellow Card at 48',2025-10-20 05:22:45
+13720,758420,5,46178574,55',Alfie McCalmont (Central Coast Mariners) Yellow Card at 55',2025-10-20 05:22:45
+13720,758420,6,46178575,56',Lachlan Rose (Newcastle Jets) Substitution at 56',2025-10-20 05:22:45
+13720,758420,7,46178576,56',Eli Adams (Newcastle Jets) Substitution at 56',2025-10-20 05:22:45
+13720,758420,8,46178577,56',Christian Bracco (Newcastle Jets) Substitution at 56',2025-10-20 05:22:45
+13720,758420,9,46178580,63',Arthur De Lima (Central Coast Mariners) Substitution at 63',2025-10-20 05:22:45
+13720,758420,10,46178581,63',Nicholas Duarte (Central Coast Mariners) Substitution at 63',2025-10-20 05:22:45
+13720,758420,11,46178583,66',Harrison Steele (Central Coast Mariners) Yellow Card at 66',2025-10-20 05:22:45
+13720,758420,12,46178587,72',Joel Bertolissio (Newcastle Jets) Substitution at 72',2025-10-20 05:22:45
+13720,758420,13,46178588,72',Alex Nunes (Newcastle Jets) Substitution at 72',2025-10-20 05:22:45
+13720,758420,14,46178590,79',Christian Theoharous (Central Coast Mariners) Substitution at 79',2025-10-20 05:22:45
+13720,758420,15,46178591,79',Haine Eames (Central Coast Mariners) Substitution at 79',2025-10-20 05:22:45
+13720,758420,16,46178592,80',Lachlan Rose (Newcastle Jets) Goal at 80',2025-10-20 05:22:45
+13720,758420,17,46178593,90'+2',Will Kennedy (Central Coast Mariners) Substitution at 92',2025-10-20 05:22:45
+13720,758420,18,46178594,90'+7',Eli Adams (Newcastle Jets) Penalty - Saved at 97',2025-10-20 05:22:45
+13720,758420,19,46178595,90'+8',Nicholas Duarte (Central Coast Mariners) Goal at 98',2025-10-20 05:22:45
+13720,758421,0,46219488,14',Ben Gibson (Newcastle Jets) Goal at 14',2025-10-25 05:18:56
+13720,758421,1,46219489,20',Alexander Badolato (Newcastle Jets) Goal at 20',2025-10-25 05:18:56
+13720,758421,2,46219490,25',Denis Genreau (Melbourne Victory) Goal at 25',2025-10-25 05:18:56
+13720,758421,3,46219494,35',Jason Davidson (Melbourne Victory) Yellow Card at 35',2025-10-25 05:18:56
+13720,758421,4,46219495,45'+2',Alexander Badolato (Newcastle Jets) Goal at 47',2025-10-25 05:18:56
+13720,758421,5,46219496,45',Joshua Rawlins (Melbourne Victory) Substitution at 45',2025-10-25 05:18:56
+13720,758421,6,46219497,45',Matthew Grimaldi (Melbourne Victory) Substitution at 45',2025-10-25 05:18:56
+13720,758421,7,46219654,55',Keegan Jelacic (Melbourne Victory) Goal at 55',2025-10-25 05:18:56
+13720,758421,8,46219655,56',Lachlan Rose (Newcastle Jets) Substitution at 56',2025-10-25 05:18:56
+13720,758421,9,46219656,57',Oscar Fryer (Newcastle Jets) Substitution at 57',2025-10-25 05:18:56
+13720,758421,10,46219658,69',Juan Mata (Melbourne Victory) Substitution at 69',2025-10-25 05:18:56
+13720,758421,11,46219659,70',Christian Bracco (Newcastle Jets) Substitution at 70',2025-10-25 05:18:56
+13720,758421,12,46219660,70',Joel Bertolissio (Newcastle Jets) Substitution at 70',2025-10-25 05:18:56
+13720,758421,13,46219662,79',Alexander Badolato (Newcastle Jets) Goal at 79',2025-10-25 05:18:56
+13720,758421,14,46219663,85',Jing Lual (Melbourne Victory) Substitution at 85',2025-10-25 05:18:56
+13720,758421,15,46219664,90'+1',Oscar Fryer (Newcastle Jets) Goal at 91',2025-10-25 05:18:56
+13720,758421,16,46219665,90'+2',Oliver Dragicevic (Melbourne Victory) Substitution at 92',2025-10-25 05:18:56
+13720,758422,0,46225662,21',Jesse Randall (Auckland FC) Goal at 21',2025-10-25 05:18:56
+13720,758422,1,46225756,66',Alou Kuol (Western Sydney Wanderers) Substitution at 66',2025-10-26 05:23:25
+13720,758422,2,46225757,66',Dylan Scicluna (Western Sydney Wanderers) Substitution at 66',2025-10-26 05:23:25
+13720,758422,3,46225760,73',Sam Cosgrove (Auckland FC) Yellow Card at 73',2025-10-26 05:23:25
+13720,758422,4,46225761,77',Aydan Hammond (Western Sydney Wanderers) Substitution at 77',2025-10-26 05:23:25
+13720,758422,5,46225762,77',Ruon Tongyik (Western Sydney Wanderers) Substitution at 77',2025-10-26 05:23:25
+13720,758422,6,46225763,77',Logan Rogerson (Auckland FC) Substitution at 77',2025-10-26 05:23:25
+13720,758422,7,46225768,86',Callan Elliot (Auckland FC) Substitution at 86',2025-10-26 05:23:25
+13720,758422,8,46225769,88',Dylan Scicluna (Western Sydney Wanderers) Yellow Card at 88',2025-10-26 05:23:25
+13720,758422,9,46225770,90'+1',Marlee Francois (Auckland FC) Substitution at 91',2025-10-26 05:23:25
+13720,758422,10,46225771,90'+1',Cameron Howieson (Auckland FC) Substitution at 91',2025-10-26 05:23:25
+13720,758423,0,46225775,5',Max Caputo (Melbourne City FC) Goal at 5',2025-10-26 05:23:25
+13720,758423,1,46225784,9',Nathaniel Atkinson (Melbourne City FC) Yellow Card at 9',2025-10-26 05:23:25
+13720,758423,2,46225822,34',Nathanael Blair (Perth Glory) Substitution at 34',2025-10-26 05:23:25
+13720,758423,3,46225829,35',Rhys Bozinovski (Perth Glory) Yellow Card at 35',2025-10-26 05:23:25
+13720,758423,4,46225830,36',Max Caputo (Melbourne City FC) Goal at 36',2025-10-26 05:23:25
+13720,758423,5,46225872,61',Arion Sulemani (Perth Glory) Substitution at 61',2025-10-26 05:23:25
+13720,758423,6,46225873,61',William Freney (Perth Glory) Substitution at 61',2025-10-26 05:23:25
+13720,758423,7,46225874,61',Callum Timmins (Perth Glory) Substitution at 61',2025-10-26 05:23:25
+13720,758423,8,46225876,68',Joshua Risdon (Perth Glory) Yellow Card at 68',2025-10-26 05:23:25
+13720,758423,9,46225877,68',Besian Kutleshi (Melbourne City FC) Substitution at 68',2025-10-26 05:23:25
+13720,758423,10,46225878,68',Zane Schreiber (Melbourne City FC) Substitution at 68',2025-10-26 05:23:25
+13720,758423,11,46225881,71',Andreas Kuen (Melbourne City FC) Yellow Card at 71',2025-10-26 05:23:25
+13720,758423,12,46225882,73',Kavian Rahmani (Melbourne City FC) Substitution at 73',2025-10-26 05:23:25
+13720,758423,13,46225883,73',Emin Durakovic (Melbourne City FC) Substitution at 73',2025-10-26 05:23:25
+13720,758423,14,46225887,81',Beckham Baker (Melbourne City FC) Substitution at 81',2025-10-26 05:23:25
+13720,758423,15,46225888,84',Zane Schreiber (Melbourne City FC) Goal at 84',2025-10-26 05:23:25
+13720,758423,16,46225896,86',Charbel Shamoon (Perth Glory) Substitution at 86',2025-10-26 05:23:25
+13720,758423,17,46225899,90'+1',Kavian Rahmani (Melbourne City FC) Goal at 91',2025-10-26 05:23:25
+13720,758424,0,46226077,58',Víctor Campuzano (Sydney FC) Goal at 58',2025-10-26 05:23:25
+13720,758424,1,46226078,65',Haine Eames (Central Coast Mariners) Substitution at 65',2025-10-26 05:23:25
+13720,758424,2,46226079,65',Arthur De Lima (Central Coast Mariners) Substitution at 65',2025-10-26 05:23:25
+13720,758424,3,46226080,69',Abel Walatee (Sydney FC) Substitution at 69',2025-10-26 05:23:25
+13720,758424,4,46226081,70',Storm Roux (Central Coast Mariners) Yellow Card at 70',2025-10-26 05:23:25
+13720,758424,5,46226082,74',Nicholas Duarte (Central Coast Mariners) Substitution at 74',2025-10-26 05:23:25
+13720,758424,6,46226083,74',Abdul Faisal (Central Coast Mariners) Substitution at 74',2025-10-26 05:23:25
+13720,758424,7,46226084,75',Alexandar Popovic (Sydney FC) Substitution at 75',2025-10-26 05:23:25
+13720,758424,8,46226085,75',Patrick Wood (Sydney FC) Substitution at 75',2025-10-26 05:23:25
+13720,758424,9,46226086,83',Bradley Tapp (Central Coast Mariners) Yellow Card at 83',2025-10-26 05:23:25
+13720,758424,10,46226087,88',Christian Theoharous (Central Coast Mariners) Substitution at 88',2025-10-26 05:23:25
+13720,758424,11,46226092,88',Wataru Kamijo (Sydney FC) Substitution at 88',2025-10-26 05:23:25
+13720,758424,12,46226093,90',Patrick Wood (Sydney FC) Goal at 90',2025-10-26 05:23:25
+13720,758425,0,46240344,17',Xuan Loke (Wellington Phoenix FC) Substitution at 17',2025-10-26 05:23:25
+13720,758425,1,46240515,42',Justin Vidic (Brisbane Roar) Goal at 42',2025-10-26 05:23:25
+13720,758425,2,46240550,45'+3',James McGarry (Brisbane Roar) Yellow Card at 48',2025-10-26 05:23:25
+13720,758425,3,46240707,59',Ifeanyi Eze (Wellington Phoenix FC) Yellow Card at 59',2025-10-26 05:23:25
+13720,758425,4,46240708,61',Luke Brooke-Smith (Wellington Phoenix FC) Substitution at 61',2025-10-26 05:23:25
+13720,758425,5,46240718,64',Justin Vidic (Brisbane Roar) Yellow Card at 64',2025-10-26 05:23:25
+13720,758425,6,46240722,66',Corban Piper (Wellington Phoenix FC) Substitution at 66',2025-10-26 05:23:25
+13720,758425,7,46240726,66',Jordan Lauton (Brisbane Roar) Substitution at 66',2025-10-26 05:23:25
+13720,758425,8,46240727,66',Michael Ruhs (Brisbane Roar) Substitution at 66',2025-10-26 05:23:25
+13720,758425,9,46240728,66',Antonee Burke-Gilroy (Brisbane Roar) Substitution at 66',2025-10-26 05:23:25
+13720,758425,10,46240776,76',Kazuki Nagasawa (Wellington Phoenix FC) Goal at 76',2025-10-26 05:23:25
+13720,758425,11,46240791,80',Noah Maieroni (Brisbane Roar) Substitution at 80',2025-10-26 05:23:25
+13720,758425,12,46240810,87',Ben Warland (Brisbane Roar) Substitution at 87',2025-10-26 05:23:25
+13720,758425,13,46240822,90'+1',Noah Maieroni (Brisbane Roar) Yellow Card at 91',2025-10-26 05:23:25
+13720,758425,14,46240835,90'+6',Carlo Armiento (Wellington Phoenix FC) Goal at 96',2025-10-26 05:23:25
+13720,758426,0,46252915,11',Liam Rose (Macarthur FC) Goal at 11',2025-10-28 05:16:01
+13720,758426,1,46252916,19',Luke Vickery (Macarthur FC) Substitution at 19',2025-10-28 05:16:01
+13720,758426,2,46252919,24',Harrison Sawyer (Macarthur FC) Yellow Card at 24',2025-10-28 05:16:01
+13720,758426,3,46252922,45'+1',Jonny Yull (Adelaide United) Goal at 46',2025-10-28 05:16:01
+13720,758426,4,46252923,45'+3',Panagiotis Kikianis (Adelaide United) Yellow Card at 48',2025-10-28 05:16:01
+13720,758426,5,46252929,45',Ji Dong-Won (Macarthur FC) Substitution at 45',2025-10-28 05:16:01
+13720,758426,6,46252930,48',Liam Rose (Macarthur FC) Yellow Card at 48',2025-10-28 05:16:01
+13720,758426,7,46253092,64',Ji Dong-Won (Macarthur FC) Goal at 64',2025-10-28 05:16:01
+13720,758426,8,46253093,70',Austin Ayoubi (Adelaide United) Substitution at 70',2025-10-28 05:16:01
+13720,758426,9,46253094,70',Juan Muñiz (Adelaide United) Substitution at 70',2025-10-28 05:16:01
+13720,758426,10,46253095,72',Bart Vriends (Adelaide United) Yellow Card at 72',2025-10-28 05:16:01
+13720,758426,11,46253101,81',Panashe Madanha (Adelaide United) Substitution at 81',2025-10-28 05:16:01
+13720,758426,12,46253102,81',Fabian Talladira (Adelaide United) Substitution at 81',2025-10-28 05:16:01
+13720,758426,13,46253103,81',Ryan White (Adelaide United) Substitution at 81',2025-10-28 05:16:01
+13720,758426,14,46253104,83',Zane Helweh (Macarthur FC) Substitution at 83',2025-10-28 05:16:01
+13720,758426,15,46253105,87',Harry Politidis (Macarthur FC) Substitution at 87',2025-10-28 05:16:01
+13720,758426,16,46253106,88',Tomislav Uskok (Macarthur FC) Substitution at 88',2025-10-28 05:16:01
+13720,758427,0,46281900,18',Jordan Lauton (Brisbane Roar) Yellow Card at 18',2025-11-01 05:18:07
+13720,758427,1,46281901,35',Lucas Herrington (Brisbane Roar) Yellow Card at 35',2025-11-01 05:18:07
+13720,758427,2,46282222,45',Zane Schreiber (Melbourne City FC) Substitution at 45',2025-11-01 05:18:07
+13720,758427,3,46282223,45',Georgios Vrakas (Brisbane Roar) Substitution at 45',2025-11-01 05:18:07
+13720,758427,4,46282411,59',Michael Ruhs (Brisbane Roar) Substitution at 59',2025-11-01 05:18:07
+13720,758427,5,46282412,65',Kavian Rahmani (Melbourne City FC) Substitution at 65',2025-11-01 05:18:07
+13720,758427,6,46282413,69',Quinn Macnicol (Brisbane Roar) Substitution at 69',2025-11-01 05:18:07
+13720,758427,7,46282414,74',Andrew Nabbout (Melbourne City FC) Substitution at 74',2025-11-01 05:18:07
+13720,758427,8,46282415,74',Emin Durakovic (Melbourne City FC) Substitution at 74',2025-11-01 05:18:07
+13720,758427,9,46282417,81',Peter Antoniou (Melbourne City FC) Substitution at 81',2025-11-01 05:18:07
+13720,758427,10,46282418,84',Jacob Brazete (Brisbane Roar) Substitution at 84',2025-11-01 05:18:07
+13720,758427,11,46282420,90'+5',Milorad Stajic (Brisbane Roar) Yellow Card at 95',2025-11-01 05:18:07
+13720,758427,12,46282423,90'+5',Nathaniel Atkinson (Melbourne City FC) Yellow Card at 95',2025-11-01 05:18:07
+13720,758428,0,46282428,3',Callum Timmins (Perth Glory) Yellow Card at 3',2025-11-01 05:18:07
+13720,758428,1,46282432,11',Keegan Jelacic (Melbourne Victory) Goal at 11',2025-11-01 05:18:07
+13720,758428,2,46282438,25',Jason Davidson (Melbourne Victory) Yellow Card at 25',2025-11-01 05:18:07
+13720,758428,3,46282440,40',Jordi Valadon (Melbourne Victory) Yellow Card at 40',2025-11-01 05:18:07
+13720,758428,4,46282450,45',Sebastian Despotovski (Perth Glory) Substitution at 45',2025-11-01 05:18:07
+13720,758428,5,46282455,51',Keegan Jelacic (Melbourne Victory) Yellow Card at 51',2025-11-01 05:18:07
+13720,758428,6,46282456,54',Juan Mata (Melbourne Victory) Goal at 54',2025-11-01 05:18:07
+13720,758428,7,46282459,63',Trent Ostler (Perth Glory) Substitution at 63',2025-11-01 05:18:07
+13720,758428,8,46282460,63',Adam Bugarija (Perth Glory) Substitution at 63',2025-11-01 05:18:07
+13720,758428,9,46282461,69',Clarismario Rodrigues (Melbourne Victory) Substitution at 69',2025-11-01 05:18:07
+13720,758428,10,46282462,69',Xavier Stella (Melbourne Victory) Substitution at 69',2025-11-01 05:18:07
+13720,758428,11,46282463,80',Jing Lual (Melbourne Victory) Substitution at 80',2025-11-01 05:18:07
+13720,758428,12,46282464,80',Oliver Dragicevic (Melbourne Victory) Substitution at 80',2025-11-01 05:18:07
+13720,758428,13,46282611,84',Brandon O'Neill (Perth Glory) Substitution at 84',2025-11-01 05:18:07
+13720,758428,14,46282612,87',Joshua Risdon (Perth Glory) Yellow Card at 87',2025-11-01 05:18:07
+13720,758428,15,46282613,89',Sebastian Esposito (Melbourne Victory) Substitution at 89',2025-11-01 05:18:07
+13720,758429,0,46287880,14',Callan Elliot (Auckland FC) Substitution at 14',2025-11-01 05:18:07
+13720,758429,1,46287913,25',Sam Cosgrove (Auckland FC) Goal at 25',2025-11-01 05:18:07
+13720,758429,2,46287937,31',Luke Duzel (Adelaide United) Yellow Card at 31',2025-11-01 05:18:07
+13720,758429,3,46288010,45',Luka Jovanovic (Adelaide United) Goal at 45',2025-11-02 05:18:08
+13720,758429,4,46288123,64',Amlani Tatu (Adelaide United) Substitution at 64',2025-11-02 05:18:08
+13720,758429,5,46288124,64',Ryan White (Adelaide United) Substitution at 64',2025-11-02 05:18:08
+13720,758429,6,46288128,70',Logan Rogerson (Auckland FC) Substitution at 70',2025-11-02 05:18:08
+13720,758429,7,46288129,76',Juan Muñiz (Adelaide United) Substitution at 76',2025-11-02 05:18:08
+13720,758429,8,46288130,76',Fabian Talladira (Adelaide United) Substitution at 76',2025-11-02 05:18:08
+13720,758429,9,46288131,77',Louis Verstraete (Auckland FC) Yellow Card at 77',2025-11-02 05:18:08
+13720,758429,10,46288132,79',Louis Verstraete (Auckland FC) Goal at 79',2025-11-02 05:18:08
+13720,758429,11,46288133,83',Cameron Howieson (Auckland FC) Substitution at 83',2025-11-02 05:18:08
+13720,758429,12,46288134,83',Felipe Gallegos (Auckland FC) Substitution at 83',2025-11-02 05:18:08
+13720,758429,13,46288135,87',Austin Ayoubi (Adelaide United) Substitution at 87',2025-11-02 05:18:08
+13720,758429,14,46288136,88',Logan Rogerson (Auckland FC) Yellow Card at 88',2025-11-02 05:18:08
+13720,758430,0,46288138,8',Ben Gibson (Newcastle Jets) Goal at 8',2025-11-02 05:18:08
+13720,758430,1,46288139,11',Al Hassan Toure (Sydney FC) Goal at 11',2025-11-02 05:18:08
+13720,758430,2,46288145,51',Al Hassan Toure (Sydney FC) Goal at 51',2025-11-02 05:18:08
+13720,758430,3,46288146,55',Oscar Fryer (Newcastle Jets) Substitution at 55',2025-11-02 05:18:08
+13720,758430,4,46288147,55',Joel Bertolissio (Newcastle Jets) Substitution at 55',2025-11-02 05:18:08
+13720,758430,5,46288148,55',Lachlan Bayliss (Newcastle Jets) Substitution at 55',2025-11-02 05:18:08
+13720,758430,6,46288149,58',Al Hassan Toure (Sydney FC) Goal at 58',2025-11-02 05:18:08
+13720,758430,7,46288150,59',Abel Walatee (Sydney FC) Substitution at 59',2025-11-02 05:18:08
+13720,758430,8,46288152,67',Lachlan Rose (Newcastle Jets) Substitution at 67',2025-11-02 05:18:08
+13720,758430,9,46288153,68',Rhyan Grant (Sydney FC) Yellow Card at 68',2025-11-02 05:18:08
+13720,758430,10,46288154,72',Patrick Wood (Sydney FC) Substitution at 72',2025-11-02 05:18:08
+13720,758430,11,46288155,74',Patrick Wood (Sydney FC) Goal at 74',2025-11-02 05:18:08
+13720,758430,12,46288156,75',Christian Bracco (Newcastle Jets) Substitution at 75',2025-11-02 05:18:08
+13720,758430,13,46288162,83',Tiago Quintal (Sydney FC) Substitution at 83',2025-11-02 05:18:08
+13720,758431,0,46288180,2',Harrison Sawyer (Macarthur FC) Goal at 2',2025-11-02 05:18:08
+13720,758431,1,46288205,40',Callum Talbot (Macarthur FC) Yellow Card at 40',2025-11-02 05:18:08
+13720,758431,2,46288211,54',Alex Gersbach (Western Sydney Wanderers) Yellow Card at 54',2025-11-02 05:18:08
+13720,758431,3,46288212,56',Anthony Pantazopoulos (Western Sydney Wanderers) Yellow Card at 56',2025-11-02 05:18:08
+13720,758431,4,46288213,60',Harry Politidis (Macarthur FC) Yellow Card at 60',2025-11-02 05:18:08
+13720,758431,5,46288215,66',Dylan Scicluna (Western Sydney Wanderers) Substitution at 66',2025-11-02 05:18:08
+13720,758431,6,46288214,67',Aydan Hammond (Western Sydney Wanderers) Substitution at 67',2025-11-02 05:18:08
+13720,758431,7,46288216,67',Nathan Barrie (Western Sydney Wanderers) Substitution at 67',2025-11-02 05:18:08
+13720,758431,8,46288217,68',Brandon Borrello (Western Sydney Wanderers) Yellow Card at 68',2025-11-02 05:18:08
+13720,758431,9,46288218,69',Luke Vickery (Macarthur FC) Substitution at 69',2025-11-02 05:18:08
+13720,758431,10,46288219,69',Ji Dong-Won (Macarthur FC) Substitution at 69',2025-11-02 05:18:08
+13720,758431,11,46288220,78',Frans Deli (Macarthur FC) Substitution at 78',2025-11-02 05:18:08
+13720,758431,12,46288221,82',Anthony Pantazopoulos (Western Sydney Wanderers) Goal at 82',2025-11-02 05:18:08
+13720,758431,13,46288222,87',Zane Helweh (Macarthur FC) Substitution at 87',2025-11-02 05:18:08
+13720,758431,14,46288223,87',Will Mckay (Macarthur FC) Substitution at 87',2025-11-02 05:18:08
+13720,758431,15,46288224,88',Awan Lual (Western Sydney Wanderers) Substitution at 88',2025-11-02 05:18:08
+13720,758431,16,46288225,88',Jarrod Carluccio (Western Sydney Wanderers) Substitution at 88',2025-11-02 05:18:08
+13720,758432,0,46304632,4',Ifeanyi Eze (Wellington Phoenix FC) Goal at 4',2025-11-03 06:17:05
+13720,758432,1,46304634,18',Anaru Cassidy (Wellington Phoenix FC) Substitution at 18',2025-11-03 06:17:05
+13720,758432,2,46304644,45',Luke Brooke-Smith (Wellington Phoenix FC) Substitution at 45',2025-11-03 06:17:05
+13720,758432,3,46304645,52',Sabit Ngor (Central Coast Mariners) Goal at 52',2025-11-03 06:17:05
+13720,758432,4,46304647,62',Bailey Brandtman (Central Coast Mariners) Substitution at 62',2025-11-03 06:17:05
+13720,758432,5,46304648,72',Corban Piper (Wellington Phoenix FC) Substitution at 72',2025-11-03 06:17:05
+13720,758432,6,46304649,75',Harrison Steele (Central Coast Mariners) Yellow Card at 75',2025-11-03 06:17:05
+13720,758432,7,46304650,76',Arthur De Lima (Central Coast Mariners) Substitution at 76',2025-11-03 06:17:05
+13720,758432,8,46304652,84',Christian Theoharous (Central Coast Mariners) Substitution at 84',2025-11-03 06:17:05
+13720,758433,0,46365544,6',Justin Vidic (Brisbane Roar) Yellow Card at 6',2025-11-09 15:08:00
+13720,758433,1,46365563,30',Georgios Vrakas (Brisbane Roar) Yellow Card at 30',2025-11-09 15:08:00
+13720,758433,2,46365564,31',Lucas Herrington (Brisbane Roar) Goal at 31',2025-11-09 15:08:00
+13720,758433,3,46365576,42',Aleksandar Susnjar (Newcastle Jets) Yellow Card at 42',2025-11-09 15:08:00
+13720,758433,4,46365592,60',Xavier Bertoncello (Newcastle Jets) Substitution at 60',2025-11-09 15:08:00
+13720,758433,5,46365593,60',Joel Bertolissio (Newcastle Jets) Substitution at 60',2025-11-09 15:08:00
+13720,758433,6,46365594,62',Henry Hore (Brisbane Roar) Substitution at 62',2025-11-09 15:08:00
+13720,758433,7,46365596,63',Lachlan Bayliss (Newcastle Jets) Yellow Card at 63',2025-11-09 15:08:00
+13720,758433,8,46365597,67',Jordan Lauton (Brisbane Roar) Substitution at 67',2025-11-09 15:08:00
+13720,758433,9,46365602,71',Christian Bracco (Newcastle Jets) Substitution at 71',2025-11-09 15:08:00
+13720,758433,10,46365604,71',Clayton Taylor (Newcastle Jets) Substitution at 71',2025-11-09 15:08:00
+13720,758433,11,46365605,79',Jay O'Shea (Brisbane Roar) Penalty - Scored at 79',2025-11-09 15:08:00
+13720,758433,12,46365608,80',Lachlan Rose (Newcastle Jets) Substitution at 80',2025-11-09 15:08:00
+13720,758433,13,46365615,81',Milorad Stajic (Brisbane Roar) Yellow Card at 81',2025-11-09 15:08:00
+13720,758433,14,46365619,83',Dean Bouzanis (Brisbane Roar) Yellow Card at 83',2025-11-09 15:08:00
+13720,758433,15,46365621,84',Youstin Salas (Brisbane Roar) Yellow Card at 84',2025-11-09 15:08:00
+13720,758433,16,46365623,86',Noah Maieroni (Brisbane Roar) Substitution at 86',2025-11-09 15:08:00
+13720,758433,17,46365631,86',Quinn Macnicol (Brisbane Roar) Substitution at 86',2025-11-09 15:08:00
+13720,758433,18,46365633,89',James Delianov (Newcastle Jets) Own Goal at 89',2025-11-09 15:08:00
+13720,758434,0,46344786,29',Juan Muñiz (Adelaide United) Yellow Card at 29',2025-11-08 06:14:38
+13720,758434,1,46344787,31',Alex Gersbach (Western Sydney Wanderers) Yellow Card at 31',2025-11-08 06:14:38
+13720,758434,2,46344794,45',Nathan Barrie (Western Sydney Wanderers) Substitution at 45',2025-11-08 06:14:38
+13720,758434,3,46344797,57',Aydan Hammond (Western Sydney Wanderers) Substitution at 57',2025-11-08 06:14:38
+13720,758434,4,46344798,57',Dylan Scicluna (Western Sydney Wanderers) Substitution at 57',2025-11-08 06:14:38
+13720,758434,5,46344799,59',Craig Goodwin (Adelaide United) Yellow Card at 59',2025-11-08 06:14:38
+13720,758434,6,46344800,63',Luka Jovanovic (Adelaide United) Goal at 63',2025-11-08 06:14:38
+13720,758434,7,46344801,68',Craig Goodwin (Adelaide United) Goal at 68',2025-11-08 06:14:38
+13720,758434,8,46344802,71',Jay Barnett (Adelaide United) Substitution at 71',2025-11-08 06:14:38
+13720,758434,9,46344803,71',Jonny Yull (Adelaide United) Substitution at 71',2025-11-08 06:14:38
+13720,758434,10,46344804,72',Anthony Pantazopoulos (Western Sydney Wanderers) Yellow Card at 72',2025-11-08 06:14:38
+13720,758434,11,46344805,77',Jarrod Carluccio (Western Sydney Wanderers) Substitution at 77',2025-11-08 06:14:38
+13720,758434,12,46344806,79',Jake Najdovski (Adelaide United) Substitution at 79',2025-11-08 06:14:38
+13720,758434,13,46344807,86',Awan Lual (Western Sydney Wanderers) Substitution at 86',2025-11-08 06:14:38
+13720,758434,14,46344808,86',Panashe Madanha (Adelaide United) Substitution at 86',2025-11-08 06:14:38
+13720,758434,15,46344809,86',Fabian Talladira (Adelaide United) Substitution at 86',2025-11-08 06:14:38
+13720,758435,0,46345038,53',Nicholas Pennington (Perth Glory) Substitution at 53',2025-11-08 06:14:38
+13720,758435,1,46345039,54',Nicholas Duarte (Central Coast Mariners) Yellow Card at 54',2025-11-08 06:14:38
+13720,758435,2,46345040,57',Bailey Brandtman (Central Coast Mariners) Goal at 57',2025-11-08 06:14:38
+13720,758435,3,46345041,61',Alfie McCalmont (Central Coast Mariners) Yellow Card at 61',2025-11-08 06:14:38
+13720,758435,4,46345042,63',Adam Taggart (Perth Glory) Yellow Card at 63',2025-11-08 06:14:38
+13720,758435,5,46345043,66',Bailey Brandtman (Central Coast Mariners) Yellow Card at 66',2025-11-08 06:14:38
+13720,758435,6,46345044,66',Adam Bugarija (Perth Glory) Substitution at 66',2025-11-08 06:14:38
+13720,758435,7,46345045,66',Khoa Ngo (Perth Glory) Substitution at 66',2025-11-08 06:14:38
+13720,758435,8,46345046,70',Abdul Faisal (Central Coast Mariners) Substitution at 70',2025-11-08 06:14:38
+13720,758435,9,46345047,70',Ryan Edmondson (Central Coast Mariners) Substitution at 70',2025-11-08 06:14:38
+13720,758435,10,46345048,77',Arthur De Lima (Central Coast Mariners) Substitution at 77',2025-11-08 06:14:38
+13720,758435,11,46345049,77',Brandon O'Neill (Perth Glory) Substitution at 77',2025-11-08 06:14:38
+13720,758435,12,46345050,83',Nicholas Pennington (Perth Glory) Yellow Card at 83',2025-11-08 06:14:38
+13720,758435,13,46345051,84',Christian Theoharous (Central Coast Mariners) Substitution at 84',2025-11-08 06:14:38
+13720,758436,0,46349757,1',Sam Cosgrove (Auckland FC) Goal at 1',2025-11-09 15:08:00
+13720,758436,1,46349762,9',Ifeanyi Eze (Wellington Phoenix FC) Goal at 9',2025-11-09 15:08:00
+13720,758436,2,46349793,34',Sam Cosgrove (Auckland FC) Goal at 34',2025-11-09 15:08:00
+13720,758436,3,46349813,45',Corban Piper (Wellington Phoenix FC) Substitution at 45',2025-11-09 15:08:00
+13720,758436,4,46349815,49',Daniel Hall (Auckland FC) Red Card at 49',2025-11-09 15:08:00
+13720,758436,5,46349818,50',Isaac Hughes (Wellington Phoenix FC) Yellow Card at 50',2025-11-09 15:08:00
+13720,758436,6,46349819,54',Nando Pijnaker (Auckland FC) Substitution at 54',2025-11-09 15:08:00
+13720,758436,7,46349827,65',Logan Rogerson (Auckland FC) Substitution at 65',2025-11-09 15:08:00
+13720,758436,8,46349830,71',Luke Brooke-Smith (Wellington Phoenix FC) Substitution at 71',2025-11-09 15:08:00
+13720,758436,9,46349834,72',Guillermo May (Auckland FC) Yellow Card at 72',2025-11-09 15:08:00
+13720,758436,10,46349837,76',Dan Edwards (Wellington Phoenix FC) Substitution at 76',2025-11-09 15:08:00
+13720,758436,11,46349838,77',Felipe Gallegos (Auckland FC) Substitution at 77',2025-11-09 15:08:00
+13720,758436,12,46349839,77',Cameron Howieson (Auckland FC) Substitution at 77',2025-11-09 15:08:00
+13720,758436,13,46349845,79',Logan Rogerson (Auckland FC) Red Card at 79',2025-11-09 15:08:00
+13720,758436,14,46349852,90'+1',Gabriel Sloane-Rodrigues (Wellington Phoenix FC) Substitution at 91',2025-11-09 15:08:00
+13720,758437,0,46349866,2',Max Caputo (Melbourne City FC) Goal at 2',2025-11-09 15:08:00
+13720,758437,1,46349868,15',Peter Antoniou (Melbourne City FC) Substitution at 15',2025-11-09 15:08:00
+13720,758437,2,46349873,30',Denis Genreau (Melbourne Victory) Yellow Card at 30',2025-11-09 15:08:00
+13720,758437,3,46349874,45',Liam Bonetig (Melbourne City FC) Substitution at 45',2025-11-09 15:08:00
+13720,758437,4,46349875,55',Peter Antoniou (Melbourne City FC) Goal at 55',2025-11-09 15:08:00
+13720,758437,5,46349876,57',Jing Lual (Melbourne Victory) Substitution at 57',2025-11-09 15:08:00
+13720,758437,6,46349877,60',Max Caputo (Melbourne City FC) Yellow Card at 60',2025-11-09 15:08:00
+13720,758437,7,46349878,62',Andrew Nabbout (Melbourne City FC) Substitution at 62',2025-11-09 15:08:00
+13720,758437,8,46349879,62',Harrison Shillington (Melbourne City FC) Substitution at 62',2025-11-09 15:08:00
+13720,758437,9,46349880,64',Clarismario Rodrigues (Melbourne Victory) Substitution at 64',2025-11-09 15:08:00
+13720,758437,10,46349881,75',Emin Durakovic (Melbourne City FC) Substitution at 75',2025-11-09 15:08:00
+13720,758437,11,46349882,80',Oliver Dragicevic (Melbourne Victory) Substitution at 80',2025-11-09 15:08:00
+13720,758437,12,46349883,80',Xavier Stella (Melbourne Victory) Substitution at 80',2025-11-09 15:08:00
+13720,758437,13,46349884,83',Andreas Kuen (Melbourne City FC) Yellow Card at 83',2025-11-09 15:08:00
+13720,758437,14,46349885,90'+3',Peter Antoniou (Melbourne City FC) Yellow Card at 93',2025-11-09 15:08:00
+13720,758438,0,46365401,31',Tomislav Uskok (Macarthur FC) Yellow Card at 31',2025-11-09 15:08:00
+13720,758438,1,46365412,39',Rhys Youlley (Sydney FC) Yellow Card at 39',2025-11-09 15:08:00
+13720,758438,2,46365500,63',Ji Dong-Won (Macarthur FC) Substitution at 63',2025-11-09 15:08:00
+13720,758438,3,46365509,69',Abel Walatee (Sydney FC) Substitution at 69',2025-11-09 15:08:00
+13720,758438,4,46365510,69',Tiago Quintal (Sydney FC) Substitution at 69',2025-11-09 15:08:00
+13720,758438,5,46365511,73',Luke Vickery (Macarthur FC) Substitution at 73',2025-11-09 15:08:00
+13720,758438,6,46365516,76',Marcel Tisserand (Sydney FC) Goal at 76',2025-11-09 15:08:00
+13720,758438,7,46365520,78',Patrick Wood (Sydney FC) Substitution at 78',2025-11-09 15:08:00
+13720,758438,8,46365522,80',Luke Brattan (Macarthur FC) Yellow Card at 80',2025-11-09 15:08:00
+13720,758438,9,46365525,83',Henrique Oliveira (Macarthur FC) Substitution at 83',2025-11-09 15:08:00
+13720,758438,10,46365526,83',Walter Scott (Macarthur FC) Substitution at 83',2025-11-09 15:08:00
+13720,758438,11,46365527,83',Oliver Randazzo (Macarthur FC) Substitution at 83',2025-11-09 15:08:00
+13720,758438,12,46365532,86',Víctor Campuzano (Sydney FC) Yellow Card at 86',2025-11-09 15:08:00
+13720,758438,13,46365534,88',Wataru Kamijo (Sydney FC) Substitution at 88',2025-11-09 15:08:00
+13720,758438,14,46365539,90'+3',Joe Lolley (Sydney FC) Goal at 93',2025-11-09 15:08:00
+13720,758438,15,46365540,90'+3',Paul Okon (Sydney FC) Yellow Card at 93',2025-11-09 15:08:00

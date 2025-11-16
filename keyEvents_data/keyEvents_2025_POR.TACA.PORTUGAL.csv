@@ -1,0 +1,574 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13765,759136,1,46183195,70,1,60,1',1,0,Yefrei Rodriguez (Tondela) Goal at 1',Yefrei Rodriguez Goal,12706,0.0,0.0,0.0,0.0,0.0,0.0,1,353247.0,2025-10-20 05:22:27
+13765,759136,2,46183196,98,1,1860,31',1,0,Francisco Pedro Batista Pinto Leite (Vila Real) Penalty - Scored at 31',Francisco Pedro Batista Pinto Le,22395,0.0,0.0,0.0,0.0,0.0,0.0,1,412901.0,2025-10-20 05:22:27
+13765,759136,3,46183197,70,1,2700,45'+2',1,0,João Afonso (Tondela) Goal at 47',João Afonso Goal,12706,0.0,0.0,0.0,0.0,0.0,0.0,1,396599.0,2025-10-20 05:22:27
+13765,759136,3,46183197,70,1,2700,45'+2',1,0,João Afonso (Tondela) Goal at 47',João Afonso Goal,12706,0.0,0.0,0.0,0.0,0.0,0.0,1,340182.0,2025-10-20 05:22:27
+13765,759136,3,46183197,70,1,2700,45'+2',1,0,João Afonso (Tondela) Goal at 47',João Afonso Goal,12706,0.0,0.0,0.0,0.0,0.0,0.0,1,206735.0,2025-10-20 05:22:27
+13765,759136,3,46183197,70,1,2700,45'+2',1,0,João Afonso (Tondela) Goal at 47',João Afonso Goal,12706,0.0,0.0,0.0,0.0,0.0,0.0,1,196866.0,2025-10-20 05:22:27
+13765,759136,4,46183198,70,2,3300,55',1,0,Yarlen (Tondela) Goal at 55',Yarlen Goal,12706,0.0,0.0,0.0,0.0,0.0,0.0,1,381139.0,2025-10-20 05:22:27
+13765,759136,5,46183199,70,2,3420,57',1,0,Jordan Pefok (Tondela) Goal at 57',Jordan Pefok Goal,12706,0.0,0.0,0.0,0.0,0.0,0.0,1,216035.0,2025-10-20 05:22:27
+13765,759136,6,46183200,70,2,5040,84',1,0,Yaya Sithole (Tondela) Goal at 84',Yaya Sithole Goal,12706,0.0,0.0,0.0,0.0,0.0,0.0,1,228595.0,2025-10-20 05:22:27
+13765,759137,1,46170011,70,1,180,3',1,0,Gustavo Varela (Gil Vicente) Goal at 3',Gustavo Varela Goal,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,384482.0,2025-10-19 05:22:01
+13765,759137,2,46170012,70,1,420,7',1,0,André Clóvis (Viseu) Goal at 7',André Clóvis Goal,21607,0.0,0.0,0.0,0.0,0.0,0.0,1,270648.0,2025-10-19 05:22:01
+13765,759137,3,46170013,70,1,1620,27',1,0,André Clóvis (Viseu) Goal at 27',André Clóvis Goal,21607,0.0,0.0,0.0,0.0,0.0,0.0,1,270648.0,2025-10-19 05:22:01
+13765,759137,5,46170375,76,2,2700,45',0,0,Ghislain Konan (Gil Vicente) Substitution at 45',Ghislain Konan Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,250888.0,2025-10-19 05:22:01
+13765,759137,4,46170374,76,2,2700,45',0,0,Agustín Moreira (Gil Vicente) Substitution at 45',Agustín Moreira Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,407341.0,2025-10-19 05:22:01
+13765,759137,5,46170375,76,2,2700,45',0,0,Ghislain Konan (Gil Vicente) Substitution at 45',Ghislain Konan Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,338296.0,2025-10-19 05:22:01
+13765,759137,5,46170375,76,2,2700,45',0,0,Ghislain Konan (Gil Vicente) Substitution at 45',Ghislain Konan Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,304634.0,2025-10-19 05:22:01
+13765,759137,5,46170375,76,2,2700,45',0,0,Ghislain Konan (Gil Vicente) Substitution at 45',Ghislain Konan Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,204055.0,2025-10-19 05:22:01
+13765,759137,5,46170375,76,2,2700,45',0,0,Ghislain Konan (Gil Vicente) Substitution at 45',Ghislain Konan Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,173599.0,2025-10-19 05:22:01
+13765,759137,4,46170374,76,2,2700,45',0,0,Agustín Moreira (Gil Vicente) Substitution at 45',Agustín Moreira Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,303866.0,2025-10-19 05:22:01
+13765,759137,6,46170376,76,2,4020,67',0,0,Sergio Bermejo Lillo (Gil Vicente) Substitution at 67',Sergio Bermejo Lillo Substitutio,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,279658.0,2025-10-19 05:22:01
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,398790.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,384093.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,383981.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,383898.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,379269.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,379072.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,357957.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,334157.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,314643.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,313229.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,312180.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,301618.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,297043.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,272527.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,253152.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,240834.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,228624.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,204062.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,202784.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,202364.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,199053.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,186937.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,165692.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,124637.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,338296.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,304634.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,204055.0,2025-10-20 05:22:27
+13765,759137,7,46170377,76,2,4020,67',0,0,Pablo (Gil Vicente) Substitution at 67',Pablo Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,173599.0,2025-10-20 05:22:27
+13765,759137,6,46170376,76,2,4020,67',0,0,Sergio Bermejo Lillo (Gil Vicente) Substitution at 67',Sergio Bermejo Lillo Substitutio,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,400825.0,2025-10-19 05:22:01
+13765,759137,6,46170376,76,2,4020,67',0,0,Sergio Bermejo Lillo (Gil Vicente) Substitution at 67',Sergio Bermejo Lillo Substitutio,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,399086.0,2025-10-19 05:22:01
+13765,759137,6,46170376,76,2,4020,67',0,0,Sergio Bermejo Lillo (Gil Vicente) Substitution at 67',Sergio Bermejo Lillo Substitutio,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,399056.0,2025-10-19 05:22:01
+13765,759137,6,46170376,76,2,4020,67',0,0,Sergio Bermejo Lillo (Gil Vicente) Substitution at 67',Sergio Bermejo Lillo Substitutio,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,337141.0,2025-10-19 05:22:01
+13765,759137,6,46170376,76,2,4020,67',0,0,Sergio Bermejo Lillo (Gil Vicente) Substitution at 67',Sergio Bermejo Lillo Substitutio,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,307927.0,2025-10-19 05:22:01
+13765,759137,6,46170376,76,2,4020,67',0,0,Sergio Bermejo Lillo (Gil Vicente) Substitution at 67',Sergio Bermejo Lillo Substitutio,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,252609.0,2025-10-19 05:22:01
+13765,759137,6,46170376,76,2,4020,67',0,0,Sergio Bermejo Lillo (Gil Vicente) Substitution at 67',Sergio Bermejo Lillo Substitutio,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,244940.0,2025-10-19 05:22:01
+13765,759137,6,46170376,76,2,4020,67',0,0,Sergio Bermejo Lillo (Gil Vicente) Substitution at 67',Sergio Bermejo Lillo Substitutio,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,239294.0,2025-10-19 05:22:01
+13765,759137,6,46170376,76,2,4020,67',0,0,Sergio Bermejo Lillo (Gil Vicente) Substitution at 67',Sergio Bermejo Lillo Substitutio,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,227098.0,2025-10-19 05:22:01
+13765,759137,6,46170376,76,2,4020,67',0,0,Sergio Bermejo Lillo (Gil Vicente) Substitution at 67',Sergio Bermejo Lillo Substitutio,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,207128.0,2025-10-19 05:22:01
+13765,759137,6,46170376,76,2,4020,67',0,0,Sergio Bermejo Lillo (Gil Vicente) Substitution at 67',Sergio Bermejo Lillo Substitutio,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,172285.0,2025-10-19 05:22:01
+13765,759137,8,46170378,76,2,5100,85',0,0,Tidjany Touré (Gil Vicente) Substitution at 85',Tidjany Touré Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,1,358444.0,2025-10-19 05:22:01
+13765,759137,8,46170378,76,2,5100,85',0,0,Tidjany Touré (Gil Vicente) Substitution at 85',Tidjany Touré Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,332042.0,2025-10-19 05:22:01
+13765,759137,8,46170378,76,2,5100,85',0,0,Tidjany Touré (Gil Vicente) Substitution at 85',Tidjany Touré Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,130590.0,2025-10-19 05:22:01
+13765,759137,8,46170378,76,2,5100,85',0,0,Tidjany Touré (Gil Vicente) Substitution at 85',Tidjany Touré Substitution,3699,0.0,0.0,0.0,0.0,0.0,0.0,2,116335.0,2025-10-19 05:22:01
+13765,759138,1,46167081,98,1,360,6',1,0,Rodrigo Pinho (Estrela) Penalty - Scored at 6',Rodrigo Pinho Penalty - Scored,21610,0.0,0.0,0.0,0.0,0.0,0.0,1,216290.0,2025-10-19 05:22:01
+13765,759138,2,46167082,70,1,2580,43',1,0,Pedro Pauleta (Alpendorada) Goal at 43',Pedro Pauleta Goal,22402,0.0,0.0,0.0,0.0,0.0,0.0,1,373705.0,2025-10-19 05:22:01
+13765,759138,3,46167083,70,2,3120,52',1,0,Pedro Pauleta (Alpendorada) Goal at 52',Pedro Pauleta Goal,22402,0.0,0.0,0.0,0.0,0.0,0.0,1,373705.0,2025-10-19 05:22:01
+13765,759138,4,46167084,70,2,4140,69',1,0,Mário Borges (Alpendorada) Goal at 69',Mário Borges Goal,22402,0.0,0.0,0.0,0.0,0.0,0.0,1,352723.0,2025-10-19 05:22:01
+13765,759141,1,46185089,98,1,1620,27',1,0,Pizzi (Estoril) Penalty - Scored at 27',Pizzi Penalty - Scored,12216,0.0,0.0,0.0,0.0,0.0,0.0,1,144046.0,2025-10-20 05:22:27
+13765,759141,2,46185090,94,1,2700,45',0,0,Jordan Holsgrove (Estoril) Yellow Card at 45',Jordan Holsgrove Yellow Card,12216,0.0,0.0,0.0,0.0,0.0,0.0,1,243734.0,2025-10-20 05:22:27
+13765,759141,3,46185091,76,2,2700,45',0,0,Kévin Boma (Estoril) Substitution at 45',Kévin Boma Substitution,12216,0.0,0.0,0.0,0.0,0.0,0.0,1,306030.0,2025-10-20 05:22:27
+13765,759141,3,46185091,76,2,2700,45',0,0,Kévin Boma (Estoril) Substitution at 45',Kévin Boma Substitution,12216,0.0,0.0,0.0,0.0,0.0,0.0,2,238901.0,2025-10-20 05:22:27
+13765,759141,4,46185092,70,2,3000,50',1,0,Eduardo Fabrício De Souza (Os Belenenses) Goal at 50',Eduardo Fabrício De Souza Goal,21596,0.0,0.0,0.0,0.0,0.0,0.0,1,412905.0,2025-10-20 05:22:27
+13765,759141,5,46185093,76,2,3600,60',0,0,Yanis Begraoui (Estoril) Substitution at 60',Yanis Begraoui Substitution,12216,0.0,0.0,0.0,0.0,0.0,0.0,1,272488.0,2025-10-20 05:22:27
+13765,759141,6,46185094,76,2,3600,60',0,0,Nodar Lominadze (Estoril) Substitution at 60',Nodar Lominadze Substitution,12216,0.0,0.0,0.0,0.0,0.0,0.0,1,307733.0,2025-10-20 05:22:27
+13765,759141,7,46185095,76,2,3600,60',0,0,Pedro Carvalho (Estoril) Substitution at 60',Pedro Carvalho Substitution,12216,0.0,0.0,0.0,0.0,0.0,0.0,1,373605.0,2025-10-20 05:22:27
+13765,759141,7,46185095,76,2,3600,60',0,0,Pedro Carvalho (Estoril) Substitution at 60',Pedro Carvalho Substitution,12216,0.0,0.0,0.0,0.0,0.0,0.0,2,367588.0,2025-10-20 05:22:27
+13765,759141,5,46185093,76,2,3600,60',0,0,Yanis Begraoui (Estoril) Substitution at 60',Yanis Begraoui Substitution,12216,0.0,0.0,0.0,0.0,0.0,0.0,2,144046.0,2025-10-20 05:22:27
+13765,759141,6,46185094,76,2,3600,60',0,0,Nodar Lominadze (Estoril) Substitution at 60',Nodar Lominadze Substitution,12216,0.0,0.0,0.0,0.0,0.0,0.0,2,361726.0,2025-10-20 05:22:27
+13765,759141,8,46185096,76,2,4080,68',0,0,Peixinho (Estoril) Substitution at 68',Peixinho Substitution,12216,0.0,0.0,0.0,0.0,0.0,0.0,1,365812.0,2025-10-20 05:22:27
+13765,759141,8,46185096,76,2,4080,68',0,0,Peixinho (Estoril) Substitution at 68',Peixinho Substitution,12216,0.0,0.0,0.0,0.0,0.0,0.0,2,294295.0,2025-10-20 05:22:27
+13765,759141,9,46185097,70,2,5400,90'+4',1,0,André Lacximicant (Estoril) Goal at 94',André Lacximicant Goal,12216,0.0,0.0,0.0,0.0,0.0,0.0,1,379981.0,2025-10-20 05:22:27
+13765,759141,10,46185098,94,2,5400,90'+6',0,0,Goncalo Costa (Estoril) Yellow Card at 96',Goncalo Costa Yellow Card,12216,0.0,0.0,0.0,0.0,0.0,0.0,1,352277.0,2025-10-20 05:22:27
+13765,759141,10,46185098,94,2,5400,90'+6',0,0,Goncalo Costa (Estoril) Yellow Card at 96',Goncalo Costa Yellow Card,12216,0.0,0.0,0.0,0.0,0.0,0.0,1,345515.0,2025-10-20 05:22:27
+13765,759143,1,46156550,70,1,480,8',1,0,Vangelis Pavlidis (Benfica) Goal at 8',Vangelis Pavlidis Goal,1929,0.0,0.0,0.0,0.0,0.0,0.0,1,220819.0,2025-10-18 05:22:28
+13765,759143,2,46156647,94,1,1740,29',0,0,João Rêgo (Benfica) Yellow Card at 29',João Rêgo Yellow Card,1929,0.0,0.0,0.0,0.0,0.0,0.0,1,384419.0,2025-10-19 05:22:01
+13765,759143,3,46156776,94,1,2520,42',0,0,Ricardo Alves (GD Chaves) Yellow Card at 42',Ricardo Alves Yellow Card,12705,0.0,0.0,0.0,0.0,0.0,0.0,1,222540.0,2025-10-18 05:22:28
+13765,759143,3,46156776,94,1,2520,42',0,0,Ricardo Alves (GD Chaves) Yellow Card at 42',Ricardo Alves Yellow Card,12705,0.0,0.0,0.0,0.0,0.0,0.0,1,189466.0,2025-10-18 05:22:28
+13765,759143,5,46156999,76,2,2700,45',0,0,Tiago Simões (GD Chaves) Substitution at 45',Tiago Simões Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,1,411408.0,2025-10-19 05:22:01
+13765,759143,4,46156991,76,2,2700,45',0,0,Andreas Schjelderup (Benfica) Substitution at 45',Andreas Schjelderup Substitution,1929,0.0,0.0,0.0,0.0,0.0,0.0,1,313415.0,2025-10-18 05:22:28
+13765,759143,5,46156999,76,2,2700,45',0,0,Tiago Simões (GD Chaves) Substitution at 45',Tiago Simões Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,222540.0,2025-10-19 05:22:01
+13765,759143,5,46156999,76,2,2700,45',0,0,Tiago Simões (GD Chaves) Substitution at 45',Tiago Simões Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,189466.0,2025-10-19 05:22:01
+13765,759143,4,46156991,76,2,2700,45',0,0,Andreas Schjelderup (Benfica) Substitution at 45',Andreas Schjelderup Substitution,1929,0.0,0.0,0.0,0.0,0.0,0.0,2,384419.0,2025-10-18 05:22:28
+13765,759143,6,46157188,76,2,3600,60',0,0,David Kusso (GD Chaves) Substitution at 60',David Kusso Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,1,392836.0,2025-10-18 05:22:28
+13765,759143,6,46157188,76,2,3600,60',0,0,David Kusso (GD Chaves) Substitution at 60',David Kusso Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,386925.0,2025-10-18 05:22:28
+13765,759143,7,46157247,94,2,4080,68',0,0,Bruno Rodrigues (GD Chaves) Yellow Card at 68',Bruno Rodrigues Yellow Card,12705,0.0,0.0,0.0,0.0,0.0,0.0,1,373974.0,2025-10-18 05:22:28
+13765,759143,7,46157247,94,2,4080,68',0,0,Bruno Rodrigues (GD Chaves) Yellow Card at 68',Bruno Rodrigues Yellow Card,12705,0.0,0.0,0.0,0.0,0.0,0.0,1,313382.0,2025-10-18 05:22:28
+13765,759143,7,46157247,94,2,4080,68',0,0,Bruno Rodrigues (GD Chaves) Yellow Card at 68',Bruno Rodrigues Yellow Card,12705,0.0,0.0,0.0,0.0,0.0,0.0,1,311491.0,2025-10-18 05:22:28
+13765,759143,7,46157247,94,2,4080,68',0,0,Bruno Rodrigues (GD Chaves) Yellow Card at 68',Bruno Rodrigues Yellow Card,12705,0.0,0.0,0.0,0.0,0.0,0.0,1,227737.0,2025-10-18 05:22:28
+13765,759143,7,46157247,94,2,4080,68',0,0,Bruno Rodrigues (GD Chaves) Yellow Card at 68',Bruno Rodrigues Yellow Card,12705,0.0,0.0,0.0,0.0,0.0,0.0,1,124069.0,2025-10-18 05:22:28
+13765,759143,8,46157257,94,2,4260,71',0,0,Enzo Barrenechea (Benfica) Yellow Card at 71',Enzo Barrenechea Yellow Card,1929,0.0,0.0,0.0,0.0,0.0,0.0,1,292921.0,2025-10-18 05:22:28
+13765,759143,10,46157270,76,2,4440,74',0,0,Wellington Carvalho (GD Chaves) Substitution at 74',Wellington Carvalho Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,1,200646.0,2025-10-18 05:22:28
+13765,759143,9,46157269,76,2,4440,74',0,0,Mamadou Tounkara (GD Chaves) Substitution at 74',Mamadou Tounkara Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,1,192457.0,2025-10-18 05:22:28
+13765,759143,9,46157269,76,2,4440,74',0,0,Mamadou Tounkara (GD Chaves) Substitution at 74',Mamadou Tounkara Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,373974.0,2025-10-18 05:22:28
+13765,759143,9,46157269,76,2,4440,74',0,0,Mamadou Tounkara (GD Chaves) Substitution at 74',Mamadou Tounkara Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,313382.0,2025-10-18 05:22:28
+13765,759143,9,46157269,76,2,4440,74',0,0,Mamadou Tounkara (GD Chaves) Substitution at 74',Mamadou Tounkara Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,311491.0,2025-10-18 05:22:28
+13765,759143,9,46157269,76,2,4440,74',0,0,Mamadou Tounkara (GD Chaves) Substitution at 74',Mamadou Tounkara Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,227737.0,2025-10-18 05:22:28
+13765,759143,9,46157269,76,2,4440,74',0,0,Mamadou Tounkara (GD Chaves) Substitution at 74',Mamadou Tounkara Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,124069.0,2025-10-18 05:22:28
+13765,759143,10,46157270,76,2,4440,74',0,0,Wellington Carvalho (GD Chaves) Substitution at 74',Wellington Carvalho Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,352721.0,2025-10-18 05:22:28
+13765,759143,11,46157295,76,2,4560,76',0,0,Leandro Barreiro (Benfica) Substitution at 76',Leandro Barreiro Substitution,1929,0.0,0.0,0.0,0.0,0.0,0.0,1,271854.0,2025-10-18 05:22:28
+13765,759143,11,46157295,76,2,4560,76',0,0,Leandro Barreiro (Benfica) Substitution at 76',Leandro Barreiro Substitution,1929,0.0,0.0,0.0,0.0,0.0,0.0,2,229443.0,2025-10-18 05:22:28
+13765,759143,12,46157340,70,2,4740,79',1,0,Vangelis Pavlidis (Benfica) Goal at 79',Vangelis Pavlidis Goal,1929,0.0,0.0,0.0,0.0,0.0,0.0,1,220819.0,2025-10-18 05:22:28
+13765,759143,13,46157358,76,2,4860,81',0,0,Gabi Rodrigues (GD Chaves) Substitution at 81',Gabi Rodrigues Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,1,411413.0,2025-10-18 05:22:28
+13765,759143,13,46157358,76,2,4860,81',0,0,Gabi Rodrigues (GD Chaves) Substitution at 81',Gabi Rodrigues Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,343496.0,2025-10-18 05:22:28
+13765,759143,13,46157358,76,2,4860,81',0,0,Gabi Rodrigues (GD Chaves) Substitution at 81',Gabi Rodrigues Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,334161.0,2025-10-18 05:22:28
+13765,759143,13,46157358,76,2,4860,81',0,0,Gabi Rodrigues (GD Chaves) Substitution at 81',Gabi Rodrigues Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,319731.0,2025-10-18 05:22:28
+13765,759143,13,46157358,76,2,4860,81',0,0,Gabi Rodrigues (GD Chaves) Substitution at 81',Gabi Rodrigues Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,301717.0,2025-10-18 05:22:28
+13765,759143,13,46157358,76,2,4860,81',0,0,Gabi Rodrigues (GD Chaves) Substitution at 81',Gabi Rodrigues Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,252544.0,2025-10-18 05:22:28
+13765,759143,13,46157358,76,2,4860,81',0,0,Gabi Rodrigues (GD Chaves) Substitution at 81',Gabi Rodrigues Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,252229.0,2025-10-18 05:22:28
+13765,759143,13,46157358,76,2,4860,81',0,0,Gabi Rodrigues (GD Chaves) Substitution at 81',Gabi Rodrigues Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,217663.0,2025-10-18 05:22:28
+13765,759143,13,46157358,76,2,4860,81',0,0,Gabi Rodrigues (GD Chaves) Substitution at 81',Gabi Rodrigues Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,143774.0,2025-10-18 05:22:28
+13765,759143,13,46157358,76,2,4860,81',0,0,Gabi Rodrigues (GD Chaves) Substitution at 81',Gabi Rodrigues Substitution,12705,0.0,0.0,0.0,0.0,0.0,0.0,2,116745.0,2025-10-18 05:22:28
+13765,759143,14,46157362,76,2,4920,82',0,0,Franjo Ivanovic (Benfica) Substitution at 82',Franjo Ivanovic Substitution,1929,0.0,0.0,0.0,0.0,0.0,0.0,1,364180.0,2025-10-18 05:22:28
+13765,759143,14,46157362,76,2,4920,82',0,0,Franjo Ivanovic (Benfica) Substitution at 82',Franjo Ivanovic Substitution,1929,0.0,0.0,0.0,0.0,0.0,0.0,2,220819.0,2025-10-18 05:22:28
+13765,759143,15,46157443,76,2,5400,90',0,0,Ivan Lima (Benfica) Substitution at 90',Ivan Lima Substitution,1929,0.0,0.0,0.0,0.0,0.0,0.0,1,411910.0,2025-10-18 05:22:28
+13765,759143,16,46157463,76,2,5400,90',0,0,João Veloso (Benfica) Substitution at 90',João Veloso Substitution,1929,0.0,0.0,0.0,0.0,0.0,0.0,1,403154.0,2025-10-18 05:22:28
+13765,759143,16,46157463,76,2,5400,90',0,0,João Veloso (Benfica) Substitution at 90',João Veloso Substitution,1929,0.0,0.0,0.0,0.0,0.0,0.0,2,212900.0,2025-10-18 05:22:28
+13765,759143,15,46157443,76,2,5400,90',0,0,Ivan Lima (Benfica) Substitution at 90',Ivan Lima Substitution,1929,0.0,0.0,0.0,0.0,0.0,0.0,2,308603.0,2025-10-18 05:22:28
+13765,759144,1,46175333,94,1,1380,23',0,0,Serginho (Santa Clara) Yellow Card at 23',Serginho Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,83867.0,2025-10-19 05:22:01
+13765,759144,1,46175333,94,1,1380,23',0,0,Serginho (Santa Clara) Yellow Card at 23',Serginho Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,387894.0,2025-10-19 05:22:01
+13765,759144,1,46175333,94,1,1380,23',0,0,Serginho (Santa Clara) Yellow Card at 23',Serginho Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,379526.0,2025-10-19 05:22:01
+13765,759144,1,46175333,94,1,1380,23',0,0,Serginho (Santa Clara) Yellow Card at 23',Serginho Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,351573.0,2025-10-19 05:22:01
+13765,759144,1,46175333,94,1,1380,23',0,0,Serginho (Santa Clara) Yellow Card at 23',Serginho Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,346843.0,2025-10-19 05:22:01
+13765,759144,1,46175333,94,1,1380,23',0,0,Serginho (Santa Clara) Yellow Card at 23',Serginho Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,264237.0,2025-10-19 05:22:01
+13765,759144,1,46175333,94,1,1380,23',0,0,Serginho (Santa Clara) Yellow Card at 23',Serginho Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,223439.0,2025-10-19 05:22:01
+13765,759144,1,46175333,94,1,1380,23',0,0,Serginho (Santa Clara) Yellow Card at 23',Serginho Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,201497.0,2025-10-19 05:22:01
+13765,759144,1,46175333,94,1,1380,23',0,0,Serginho (Santa Clara) Yellow Card at 23',Serginho Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,198476.0,2025-10-19 05:22:01
+13765,759144,1,46175333,94,1,1380,23',0,0,Serginho (Santa Clara) Yellow Card at 23',Serginho Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,99143.0,2025-10-19 05:22:01
+13765,759144,2,46175334,76,2,3180,53',0,0,Pedro Ferreira (Santa Clara) Substitution at 53',Pedro Ferreira Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,399075.0,2025-10-19 05:22:01
+13765,759144,2,46175334,76,2,3180,53',0,0,Pedro Ferreira (Santa Clara) Substitution at 53',Pedro Ferreira Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,306663.0,2025-10-19 05:22:01
+13765,759144,2,46175334,76,2,3180,53',0,0,Pedro Ferreira (Santa Clara) Substitution at 53',Pedro Ferreira Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,83867.0,2025-10-19 05:22:01
+13765,759144,2,46175334,76,2,3180,53',0,0,Pedro Ferreira (Santa Clara) Substitution at 53',Pedro Ferreira Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,387894.0,2025-10-19 05:22:01
+13765,759144,2,46175334,76,2,3180,53',0,0,Pedro Ferreira (Santa Clara) Substitution at 53',Pedro Ferreira Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,379526.0,2025-10-19 05:22:01
+13765,759144,2,46175334,76,2,3180,53',0,0,Pedro Ferreira (Santa Clara) Substitution at 53',Pedro Ferreira Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,351573.0,2025-10-19 05:22:01
+13765,759144,2,46175334,76,2,3180,53',0,0,Pedro Ferreira (Santa Clara) Substitution at 53',Pedro Ferreira Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,346843.0,2025-10-19 05:22:01
+13765,759144,2,46175334,76,2,3180,53',0,0,Pedro Ferreira (Santa Clara) Substitution at 53',Pedro Ferreira Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,264237.0,2025-10-19 05:22:01
+13765,759144,2,46175334,76,2,3180,53',0,0,Pedro Ferreira (Santa Clara) Substitution at 53',Pedro Ferreira Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,223439.0,2025-10-19 05:22:01
+13765,759144,2,46175334,76,2,3180,53',0,0,Pedro Ferreira (Santa Clara) Substitution at 53',Pedro Ferreira Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,201497.0,2025-10-19 05:22:01
+13765,759144,2,46175334,76,2,3180,53',0,0,Pedro Ferreira (Santa Clara) Substitution at 53',Pedro Ferreira Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,198476.0,2025-10-19 05:22:01
+13765,759144,2,46175334,76,2,3180,53',0,0,Pedro Ferreira (Santa Clara) Substitution at 53',Pedro Ferreira Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,99143.0,2025-10-19 05:22:01
+13765,759144,4,46175336,76,2,4560,76',0,0,Anthony Carter (Santa Clara) Substitution at 76',Anthony Carter Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,346462.0,2025-10-19 05:22:01
+13765,759144,3,46175335,76,2,4560,76',0,0,Luquinhas  (Santa Clara) Substitution at 76',Luquinhas  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-10-19 05:22:01
+13765,759144,4,46175336,76,2,4560,76',0,0,Anthony Carter (Santa Clara) Substitution at 76',Anthony Carter Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,403567.0,2025-10-19 05:22:01
+13765,759144,4,46175336,76,2,4560,76',0,0,Anthony Carter (Santa Clara) Substitution at 76',Anthony Carter Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,382171.0,2025-10-19 05:22:01
+13765,759144,3,46175335,76,2,4560,76',0,0,Luquinhas  (Santa Clara) Substitution at 76',Luquinhas  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,338644.0,2025-10-19 05:22:01
+13765,759144,3,46175335,76,2,4560,76',0,0,Luquinhas  (Santa Clara) Substitution at 76',Luquinhas  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,257744.0,2025-10-19 05:22:01
+13765,759144,3,46175335,76,2,4560,76',0,0,Luquinhas  (Santa Clara) Substitution at 76',Luquinhas  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,202313.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,398538.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,380772.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,379528.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,379465.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,358807.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,340098.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,318148.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,312635.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,307476.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,302835.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,301815.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,298067.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,287197.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,286701.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,285116.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,269939.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,258801.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,254127.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,252967.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,250379.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,236360.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,234055.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,233385.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,217041.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,216982.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,201385.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,178578.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,174395.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,149637.0,2025-10-19 05:22:01
+13765,759144,5,46175337,94,2,4620,77',0,0,Vinícius (Santa Clara) Yellow Card at 77',Vinícius Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,146269.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,398538.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,380772.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,379528.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,379465.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,358807.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,340098.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,318148.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,312635.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,307476.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,302835.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,301815.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,298067.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,287197.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,286701.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,285116.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,269939.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,258801.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,254127.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,252967.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,250379.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,236360.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,234055.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,233385.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,217041.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,216982.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,201385.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,178578.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,174395.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,149637.0,2025-10-19 05:22:01
+13765,759144,6,46175338,76,2,4740,79',0,0,Elias Manoel  (Santa Clara) Substitution at 79',Elias Manoel  Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,146269.0,2025-10-19 05:22:01
+13765,759144,9,46175341,93,2,5400,90'+6',0,0,Anthony Carter (Santa Clara) Red Card at 96',Anthony Carter Red Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,346462.0,2025-10-19 05:22:01
+13765,759144,7,46175339,76,2,5400,90',0,0,Sidney (Santa Clara) Substitution at 90',Sidney Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,376490.0,2025-10-19 05:22:01
+13765,759144,7,46175339,76,2,5400,90',0,0,Sidney (Santa Clara) Substitution at 90',Sidney Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,373576.0,2025-10-19 05:22:01
+13765,759144,7,46175339,76,2,5400,90',0,0,Sidney (Santa Clara) Substitution at 90',Sidney Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,269955.0,2025-10-19 05:22:01
+13765,759144,8,46175340,94,2,5400,90'+1',0,0,Paulo Victor (Santa Clara) Yellow Card at 91',Paulo Victor Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,343496.0,2025-10-19 05:22:01
+13765,759144,8,46175340,94,2,5400,90'+1',0,0,Paulo Victor (Santa Clara) Yellow Card at 91',Paulo Victor Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,334161.0,2025-10-19 05:22:01
+13765,759144,8,46175340,94,2,5400,90'+1',0,0,Paulo Victor (Santa Clara) Yellow Card at 91',Paulo Victor Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,319731.0,2025-10-19 05:22:01
+13765,759144,8,46175340,94,2,5400,90'+1',0,0,Paulo Victor (Santa Clara) Yellow Card at 91',Paulo Victor Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,301717.0,2025-10-19 05:22:01
+13765,759144,8,46175340,94,2,5400,90'+1',0,0,Paulo Victor (Santa Clara) Yellow Card at 91',Paulo Victor Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,252544.0,2025-10-19 05:22:01
+13765,759144,8,46175340,94,2,5400,90'+1',0,0,Paulo Victor (Santa Clara) Yellow Card at 91',Paulo Victor Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,252229.0,2025-10-19 05:22:01
+13765,759144,8,46175340,94,2,5400,90'+1',0,0,Paulo Victor (Santa Clara) Yellow Card at 91',Paulo Victor Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,217663.0,2025-10-19 05:22:01
+13765,759144,8,46175340,94,2,5400,90'+1',0,0,Paulo Victor (Santa Clara) Yellow Card at 91',Paulo Victor Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,143774.0,2025-10-19 05:22:01
+13765,759144,8,46175340,94,2,5400,90'+1',0,0,Paulo Victor (Santa Clara) Yellow Card at 91',Paulo Victor Yellow Card,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,116745.0,2025-10-19 05:22:01
+13765,759144,7,46175339,76,2,5400,90',0,0,Sidney (Santa Clara) Substitution at 90',Sidney Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,412880.0,2025-10-19 05:22:01
+13765,759144,10,46175342,76,3,5880,98',0,0,João Costa (Santa Clara) Substitution at 98',João Costa Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,74855.0,2025-10-19 05:22:01
+13765,759144,10,46175342,76,3,5880,98',0,0,João Costa (Santa Clara) Substitution at 98',João Costa Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,28261.0,2025-10-19 05:22:01
+13765,759144,10,46175342,76,3,5880,98',0,0,João Costa (Santa Clara) Substitution at 98',João Costa Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,386928.0,2025-10-19 05:22:01
+13765,759144,10,46175342,76,3,5880,98',0,0,João Costa (Santa Clara) Substitution at 98',João Costa Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,373999.0,2025-10-19 05:22:01
+13765,759144,10,46175342,76,3,5880,98',0,0,João Costa (Santa Clara) Substitution at 98',João Costa Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,373806.0,2025-10-19 05:22:01
+13765,759144,10,46175342,76,3,5880,98',0,0,João Costa (Santa Clara) Substitution at 98',João Costa Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,1,334273.0,2025-10-19 05:22:01
+13765,759144,10,46175342,76,3,5880,98',0,0,João Costa (Santa Clara) Substitution at 98',João Costa Substitution,12215,0.0,0.0,0.0,0.0,0.0,0.0,2,177918.0,2025-10-19 05:22:01
+13765,759145,1,46182659,94,1,1140,19',0,0,Bernardo Martins (Moreirense) Yellow Card at 19',Bernardo Martins Yellow Card,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,289695.0,2025-10-20 05:22:27
+13765,759145,2,46182660,76,1,2400,40',0,0,Rodri Alonso (Moreirense) Substitution at 40',Rodri Alonso Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,343635.0,2025-10-20 05:22:27
+13765,759145,2,46182660,76,1,2400,40',0,0,Rodri Alonso (Moreirense) Substitution at 40',Rodri Alonso Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,289695.0,2025-10-20 05:22:27
+13765,759145,3,46182661,76,2,3480,58',0,0,Landerson  (Moreirense) Substitution at 58',Landerson  Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,359433.0,2025-10-20 05:22:27
+13765,759145,4,46182662,76,2,3480,58',0,0,Mateja Stjepanovic (Moreirense) Substitution at 58',Mateja Stjepanovic Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,359248.0,2025-10-20 05:22:27
+13765,759145,3,46182661,76,2,3480,58',0,0,Landerson  (Moreirense) Substitution at 58',Landerson  Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,276645.0,2025-10-20 05:22:27
+13765,759145,4,46182662,76,2,3480,58',0,0,Mateja Stjepanovic (Moreirense) Substitution at 58',Mateja Stjepanovic Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,398750.0,2025-10-20 05:22:27
+13765,759145,5,46182663,94,2,4020,67',0,0,Mateja Stjepanovic (Moreirense) Yellow Card at 67',Mateja Stjepanovic Yellow Card,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,359248.0,2025-10-20 05:22:27
+13765,759145,6,46182664,70,2,4020,67',1,0,João Batista (Fafe) Goal at 67',João Batista Goal,21616,0.0,0.0,0.0,0.0,0.0,0.0,1,373978.0,2025-10-20 05:22:27
+13765,759145,6,46182664,70,2,4020,67',1,0,João Batista (Fafe) Goal at 67',João Batista Goal,21616,0.0,0.0,0.0,0.0,0.0,0.0,1,352298.0,2025-10-20 05:22:27
+13765,759145,8,46182666,76,2,4140,69',0,0,Jimi Gower (Moreirense) Substitution at 69',Jimi Gower Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,351061.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,406868.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,400845.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,376065.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,373901.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,331391.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,262073.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,250608.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,169607.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,129711.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,69190.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,398648.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,334531.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,304706.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,287637.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,285731.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,272717.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,266670.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,233532.0,2025-10-20 05:22:27
+13765,759145,7,46182665,76,2,4140,69',0,0,Kiko (Moreirense) Substitution at 69',Kiko Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,162231.0,2025-10-20 05:22:27
+13765,759145,8,46182666,76,2,4140,69',0,0,Jimi Gower (Moreirense) Substitution at 69',Jimi Gower Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,393761.0,2025-10-20 05:22:27
+13765,759145,8,46182666,76,2,4140,69',0,0,Jimi Gower (Moreirense) Substitution at 69',Jimi Gower Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,338921.0,2025-10-20 05:22:27
+13765,759145,8,46182666,76,2,4140,69',0,0,Jimi Gower (Moreirense) Substitution at 69',Jimi Gower Substitution,3696,0.0,0.0,0.0,0.0,0.0,0.0,2,332088.0,2025-10-20 05:22:27
+13765,759145,9,46182667,94,2,5400,90'+1',0,0,Landerson  (Moreirense) Yellow Card at 91',Landerson  Yellow Card,3696,0.0,0.0,0.0,0.0,0.0,0.0,1,359433.0,2025-10-20 05:22:27
+13765,759146,1,46168507,76,2,2700,45',0,0,Leonardo Lelo (Braga) Substitution at 45',Leonardo Lelo Substitution,2994,0.0,0.0,0.0,0.0,0.0,0.0,1,344843.0,2025-10-19 05:22:01
+13765,759146,2,46168508,76,2,2700,45',0,0,Gustaf Lagerbielke (Braga) Substitution at 45',Gustaf Lagerbielke Substitution,2994,0.0,0.0,0.0,0.0,0.0,0.0,1,324930.0,2025-10-19 05:22:01
+13765,759146,3,46168509,76,2,2700,45',0,0,Ricardo Horta (Braga) Substitution at 45',Ricardo Horta Substitution,2994,0.0,0.0,0.0,0.0,0.0,0.0,1,184423.0,2025-10-19 05:22:01
+13765,759146,3,46168509,76,2,2700,45',0,0,Ricardo Horta (Braga) Substitution at 45',Ricardo Horta Substitution,2994,0.0,0.0,0.0,0.0,0.0,0.0,2,347459.0,2025-10-19 05:22:01
+13765,759146,1,46168507,76,2,2700,45',0,0,Leonardo Lelo (Braga) Substitution at 45',Leonardo Lelo Substitution,2994,0.0,0.0,0.0,0.0,0.0,0.0,2,219304.0,2025-10-19 05:22:01
+13765,759146,2,46168508,76,2,2700,45',0,0,Gustaf Lagerbielke (Braga) Substitution at 45',Gustaf Lagerbielke Substitution,2994,0.0,0.0,0.0,0.0,0.0,0.0,2,379945.0,2025-10-19 05:22:01
+13765,759146,4,46168510,76,2,3420,57',0,0,Rodrigo Zalazar (Braga) Substitution at 57',Rodrigo Zalazar Substitution,2994,0.0,0.0,0.0,0.0,0.0,0.0,1,287494.0,2025-10-19 05:22:01
+13765,759146,4,46168510,76,2,3420,57',0,0,Rodrigo Zalazar (Braga) Substitution at 57',Rodrigo Zalazar Substitution,2994,0.0,0.0,0.0,0.0,0.0,0.0,2,303808.0,2025-10-19 05:22:01
+13765,759146,5,46171887,76,2,4380,73',0,0,Fran Navarro (Braga) Substitution at 73',Fran Navarro Substitution,2994,0.0,0.0,0.0,0.0,0.0,0.0,1,285434.0,2025-10-19 05:22:01
+13765,759146,5,46171887,76,2,4380,73',0,0,Fran Navarro (Braga) Substitution at 73',Fran Navarro Substitution,2994,0.0,0.0,0.0,0.0,0.0,0.0,2,326029.0,2025-10-19 05:22:01
+13765,759146,6,46167368,70,2,5040,84',1,0,Ricardo Horta (Braga) Goal at 84',Ricardo Horta Goal,2994,0.0,0.0,0.0,0.0,0.0,0.0,1,184423.0,2025-10-19 05:22:01
+13765,759150,1,46172159,94,1,1020,17',0,0,Georgios Vagiannidis (Sporting CP) Yellow Card at 17',Georgios Vagiannidis Yellow Card,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,300514.0,2025-10-19 05:22:01
+13765,759150,2,46172095,70,1,1080,18',1,0,Ronaldo Afonso (Paços de Ferreira) Goal at 18',Ronaldo Afonso Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,369519.0,2025-10-19 05:22:01
+13765,759150,2,46172095,70,1,1080,18',1,0,Ronaldo Afonso (Paços de Ferreira) Goal at 18',Ronaldo Afonso Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,310481.0,2025-10-19 05:22:01
+13765,759150,3,46172096,70,1,1320,22',1,0,Pedro Gonçalves (Sporting CP) Goal at 22',Pedro Gonçalves Goal,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,262591.0,2025-10-19 05:22:01
+13765,759150,4,46172160,94,1,2700,45'+1',0,0,Hidemasa Morita (Sporting CP) Yellow Card at 46',Hidemasa Morita Yellow Card,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,270752.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,402659.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,401234.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,400951.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,400924.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,400638.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,379358.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,379242.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,376479.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,362129.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,354055.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,337162.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,334320.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,319662.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,318256.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,308480.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,301800.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,286078.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,270673.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,259879.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,229640.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,212699.0,2025-10-19 05:22:01
+13765,759150,5,46172097,70,2,2940,49',1,0,João Victor (Paços de Ferreira) Goal at 49',João Victor Goal,3713,0.0,0.0,0.0,0.0,0.0,0.0,1,152003.0,2025-10-19 05:22:01
+13765,759150,6,46172161,76,2,3480,58',0,0,Francisco Trincão (Sporting CP) Substitution at 58',Francisco Trincão Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,274159.0,2025-10-19 05:22:01
+13765,759150,7,46172162,76,2,3480,58',0,0,Iván Fresneda (Sporting CP) Substitution at 58',Iván Fresneda Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,333209.0,2025-10-19 05:22:01
+13765,759150,7,46172162,76,2,3480,58',0,0,Iván Fresneda (Sporting CP) Substitution at 58',Iván Fresneda Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,2,300514.0,2025-10-19 05:22:01
+13765,759150,6,46172161,76,2,3480,58',0,0,Francisco Trincão (Sporting CP) Substitution at 58',Francisco Trincão Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,2,270752.0,2025-10-19 05:22:01
+13765,759150,8,46172098,70,2,3660,61',1,0,Fotis Ioannidis (Sporting CP) Goal at 61',Fotis Ioannidis Goal,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,266318.0,2025-10-19 05:22:01
+13765,759150,10,46172164,76,2,4380,73',0,0,Zeno Debast (Sporting CP) Substitution at 73',Zeno Debast Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,314473.0,2025-10-19 05:22:01
+13765,759150,9,46172163,76,2,4380,73',0,0,Geny Catamo (Sporting CP) Substitution at 73',Geny Catamo Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,296969.0,2025-10-19 05:22:01
+13765,759150,9,46172163,76,2,4380,73',0,0,Geny Catamo (Sporting CP) Substitution at 73',Geny Catamo Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,2,259871.0,2025-10-19 05:22:01
+13765,759150,10,46172164,76,2,4380,73',0,0,Zeno Debast (Sporting CP) Substitution at 73',Zeno Debast Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,2,290590.0,2025-10-19 05:22:01
+13765,759150,11,46172165,94,2,4620,77',0,0,Ousmane Diomande (Sporting CP) Yellow Card at 77',Ousmane Diomande Yellow Card,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,343964.0,2025-10-19 05:22:01
+13765,759150,12,46172166,76,2,4740,79',0,0,Luis Suárez (Sporting CP) Substitution at 79',Luis Suárez Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,272722.0,2025-10-19 05:22:01
+13765,759150,12,46172166,76,2,4740,79',0,0,Luis Suárez (Sporting CP) Substitution at 79',Luis Suárez Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,125088.0,2025-10-19 05:22:01
+13765,759150,12,46172166,76,2,4740,79',0,0,Luis Suárez (Sporting CP) Substitution at 79',Luis Suárez Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,2,319697.0,2025-10-19 05:22:01
+13765,759150,13,46172167,76,3,5400,90',0,0,Matheus Reis (Sporting CP) Substitution at 90',Matheus Reis Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,371529.0,2025-10-19 05:22:01
+13765,759150,13,46172167,76,3,5400,90',0,0,Matheus Reis (Sporting CP) Substitution at 90',Matheus Reis Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,200939.0,2025-10-19 05:22:01
+13765,759150,13,46172167,76,3,5400,90',0,0,Matheus Reis (Sporting CP) Substitution at 90',Matheus Reis Substitution,2250,0.0,0.0,0.0,0.0,0.0,0.0,2,343964.0,2025-10-19 05:22:01
+13765,759150,14,46172168,94,3,6120,102',0,0,Pedro Gonçalves (Sporting CP) Yellow Card at 102',Pedro Gonçalves Yellow Card,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,262591.0,2025-10-19 05:22:01
+13765,759150,15,46172099,97,3,6240,104',1,0,Tiago Ferreira (Paços de Ferreira) Own Goal at 104',Tiago Ferreira Own Goal,2250,0.0,0.0,0.0,0.0,0.0,0.0,1,201975.0,2025-10-19 05:22:01
+13765,759151,1,46168747,94,1,1080,18',0,0,Pablo Gozálbez (Arouca) Yellow Card at 18',Pablo Gozálbez Yellow Card,15784,0.0,0.0,0.0,0.0,0.0,0.0,1,300121.0,2025-10-19 05:22:01
+13765,759151,2,46168748,94,1,1620,27',0,0,Alfonso Trezza (Arouca) Yellow Card at 27',Alfonso Trezza Yellow Card,15784,0.0,0.0,0.0,0.0,0.0,0.0,1,284853.0,2025-10-19 05:22:01
+13765,759151,3,46168749,70,2,2940,49',1,0,Miguel Puche (Arouca) Goal at 49',Miguel Puche Goal,15784,0.0,0.0,0.0,0.0,0.0,0.0,1,324959.0,2025-10-19 05:22:01
+13765,759151,4,46168750,98,2,3720,62',1,0,Tamble Monteiro (Portimonense) Penalty - Scored at 62',Tamble Monteiro Penalty - Scored,3719,0.0,0.0,0.0,0.0,0.0,0.0,1,353127.0,2025-10-19 05:22:01
+13765,759151,5,46168751,76,2,4020,67',0,0,Lee Hyun-Ju (Arouca) Substitution at 67',Lee Hyun-Ju Substitution,15784,0.0,0.0,0.0,0.0,0.0,0.0,1,346774.0,2025-10-19 05:22:01
+13765,759151,5,46168751,76,2,4020,67',0,0,Lee Hyun-Ju (Arouca) Substitution at 67',Lee Hyun-Ju Substitution,15784,0.0,0.0,0.0,0.0,0.0,0.0,2,300121.0,2025-10-19 05:22:01
+13765,759151,6,46168752,70,2,4080,68',1,0,Miguel Puche (Arouca) Goal at 68',Miguel Puche Goal,15784,0.0,0.0,0.0,0.0,0.0,0.0,1,324959.0,2025-10-19 05:22:01
+13765,759151,7,46168753,76,2,4500,75',0,0,Näis Djouahra (Arouca) Substitution at 75',Näis Djouahra Substitution,15784,0.0,0.0,0.0,0.0,0.0,0.0,1,281113.0,2025-10-19 05:22:01
+13765,759151,7,46168753,76,2,4500,75',0,0,Näis Djouahra (Arouca) Substitution at 75',Näis Djouahra Substitution,15784,0.0,0.0,0.0,0.0,0.0,0.0,2,324959.0,2025-10-19 05:22:01
+13765,759151,8,46168754,76,2,4980,83',0,0,Romualdas Jansonas (Arouca) Substitution at 83',Romualdas Jansonas Substitution,15784,0.0,0.0,0.0,0.0,0.0,0.0,1,359824.0,2025-10-19 05:22:01
+13765,759151,9,46168755,76,2,4980,83',0,0,Alex Pinto (Arouca) Substitution at 83',Alex Pinto Substitution,15784,0.0,0.0,0.0,0.0,0.0,0.0,1,256725.0,2025-10-19 05:22:01
+13765,759151,9,46168755,76,2,4980,83',0,0,Alex Pinto (Arouca) Substitution at 83',Alex Pinto Substitution,15784,0.0,0.0,0.0,0.0,0.0,0.0,2,284853.0,2025-10-19 05:22:01
+13765,759151,8,46168754,76,2,4980,83',0,0,Romualdas Jansonas (Arouca) Substitution at 83',Romualdas Jansonas Substitution,15784,0.0,0.0,0.0,0.0,0.0,0.0,2,178579.0,2025-10-19 05:22:01
+13765,759152,1,46170472,94,1,1740,29',0,0,Marcos Peña (FC Famalicao) Yellow Card at 29',Marcos Peña Yellow Card,12698,0.0,0.0,0.0,0.0,0.0,0.0,1,338888.0,2025-10-19 05:22:01
+13765,759152,2,46167035,70,2,2760,46',1,0,Sorriso (FC Famalicao) Goal at 46',Sorriso Goal,12698,0.0,0.0,0.0,0.0,0.0,0.0,1,399100.0,2025-10-20 05:22:27
+13765,759152,2,46167035,70,2,2760,46',1,0,Sorriso (FC Famalicao) Goal at 46',Sorriso Goal,12698,0.0,0.0,0.0,0.0,0.0,0.0,1,382869.0,2025-10-20 05:22:27
+13765,759152,2,46167035,70,2,2760,46',1,0,Sorriso (FC Famalicao) Goal at 46',Sorriso Goal,12698,0.0,0.0,0.0,0.0,0.0,0.0,1,314606.0,2025-10-20 05:22:27
+13765,759152,2,46167035,70,2,2760,46',1,0,Sorriso (FC Famalicao) Goal at 46',Sorriso Goal,12698,0.0,0.0,0.0,0.0,0.0,0.0,1,301623.0,2025-10-20 05:22:27
+13765,759152,3,46167036,70,2,3240,54',1,0,Mathias De Amorim (FC Famalicao) Goal at 54',Mathias De Amorim Goal,12698,0.0,0.0,0.0,0.0,0.0,0.0,1,368008.0,2025-10-19 05:22:01
+13765,759152,4,46170473,76,2,4020,67',0,0,Rochinha (FC Famalicao) Substitution at 67',Rochinha Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,1,215742.0,2025-10-20 05:22:27
+13765,759152,5,46170474,76,2,4020,67',0,0,Simon Elisor (FC Famalicao) Substitution at 67',Simon Elisor Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,1,306034.0,2025-10-19 05:22:01
+13765,759152,4,46170473,76,2,4020,67',0,0,Rochinha (FC Famalicao) Substitution at 67',Rochinha Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,2,338888.0,2025-10-20 05:22:27
+13765,759152,5,46170474,76,2,4020,67',0,0,Simon Elisor (FC Famalicao) Substitution at 67',Simon Elisor Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,2,407398.0,2025-10-19 05:22:01
+13765,759152,6,46170475,76,2,4560,76',0,0,Rodrigo Ribeiro (FC Famalicao) Substitution at 76',Rodrigo Ribeiro Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,1,366083.0,2025-10-19 05:22:01
+13765,759152,6,46170475,76,2,4560,76',0,0,Rodrigo Ribeiro (FC Famalicao) Substitution at 76',Rodrigo Ribeiro Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,1,365227.0,2025-10-19 05:22:01
+13765,759152,6,46170475,76,2,4560,76',0,0,Rodrigo Ribeiro (FC Famalicao) Substitution at 76',Rodrigo Ribeiro Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,1,332689.0,2025-10-19 05:22:01
+13765,759152,7,46170476,76,2,4560,76',0,0,Otar Mamageishvili (FC Famalicao) Substitution at 76',Otar Mamageishvili Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,1,342743.0,2025-10-19 05:22:01
+13765,759152,7,46170476,76,2,4560,76',0,0,Otar Mamageishvili (FC Famalicao) Substitution at 76',Otar Mamageishvili Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,2,385615.0,2025-10-19 05:22:01
+13765,759152,7,46170476,76,2,4560,76',0,0,Otar Mamageishvili (FC Famalicao) Substitution at 76',Otar Mamageishvili Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,2,370133.0,2025-10-19 05:22:01
+13765,759152,7,46170476,76,2,4560,76',0,0,Otar Mamageishvili (FC Famalicao) Substitution at 76',Otar Mamageishvili Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,2,355525.0,2025-10-19 05:22:01
+13765,759152,7,46170476,76,2,4560,76',0,0,Otar Mamageishvili (FC Famalicao) Substitution at 76',Otar Mamageishvili Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,2,271447.0,2025-10-19 05:22:01
+13765,759152,7,46170476,76,2,4560,76',0,0,Otar Mamageishvili (FC Famalicao) Substitution at 76',Otar Mamageishvili Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,2,198678.0,2025-10-19 05:22:01
+13765,759152,7,46170476,76,2,4560,76',0,0,Otar Mamageishvili (FC Famalicao) Substitution at 76',Otar Mamageishvili Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,2,177694.0,2025-10-19 05:22:01
+13765,759152,6,46170475,76,2,4560,76',0,0,Rodrigo Ribeiro (FC Famalicao) Substitution at 76',Rodrigo Ribeiro Substitution,12698,0.0,0.0,0.0,0.0,0.0,0.0,2,368008.0,2025-10-19 05:22:01
+13765,759152,8,46167037,70,2,4680,78',1,0,Rochinha (FC Famalicao) Goal at 78',Rochinha Goal,12698,0.0,0.0,0.0,0.0,0.0,0.0,1,215742.0,2025-10-20 05:22:27
+13765,759153,1,46183931,70,1,1200,20',1,0,Marc Gual (Rio Ave) Goal at 20',Marc Gual Goal,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,250068.0,2025-10-20 05:22:27
+13765,759153,2,46183932,70,1,2340,39',1,0,Henrique Henriques (Sintrense) Goal at 39',Henrique Henriques Goal,21595,0.0,0.0,0.0,0.0,0.0,0.0,1,352256.0,2025-10-20 05:22:27
+13765,759153,3,46188172,94,1,2400,40',0,0,Tamás Nikitscher (Rio Ave) Yellow Card at 40',Tamás Nikitscher Yellow Card,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,364176.0,2025-10-20 05:22:27
+13765,759153,4,46188173,94,2,3240,54',0,0,Francisco Petrasso (Rio Ave) Yellow Card at 54',Francisco Petrasso Yellow Card,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,358393.0,2025-10-20 05:22:27
+13765,759153,5,46183933,70,2,3420,57',1,0,Valdumar Té (Sintrense) Goal at 57',Valdumar Té Goal,21595,0.0,0.0,0.0,0.0,0.0,0.0,1,263332.0,2025-10-20 05:22:27
+13765,759153,6,46188174,76,2,3480,58',0,0,Andreas Ntoi (Rio Ave) Substitution at 58',Andreas Ntoi Substitution,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,325226.0,2025-10-20 05:22:27
+13765,759153,7,46188175,76,2,3480,58',0,0,André Luiz  (Rio Ave) Substitution at 58',André Luiz  Substitution,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,340153.0,2025-10-20 05:22:27
+13765,759153,7,46188175,76,2,3480,58',0,0,André Luiz  (Rio Ave) Substitution at 58',André Luiz  Substitution,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,324574.0,2025-10-20 05:22:27
+13765,759153,7,46188175,76,2,3480,58',0,0,André Luiz  (Rio Ave) Substitution at 58',André Luiz  Substitution,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,304691.0,2025-10-20 05:22:27
+13765,759153,7,46188175,76,2,3480,58',0,0,André Luiz  (Rio Ave) Substitution at 58',André Luiz  Substitution,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,301608.0,2025-10-20 05:22:27
+13765,759153,7,46188175,76,2,3480,58',0,0,André Luiz  (Rio Ave) Substitution at 58',André Luiz  Substitution,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,287779.0,2025-10-20 05:22:27
+13765,759153,6,46188174,76,2,3480,58',0,0,Andreas Ntoi (Rio Ave) Substitution at 58',Andreas Ntoi Substitution,3822,0.0,0.0,0.0,0.0,0.0,0.0,2,358393.0,2025-10-20 05:22:27
+13765,759153,7,46188175,76,2,3480,58',0,0,André Luiz  (Rio Ave) Substitution at 58',André Luiz  Substitution,3822,0.0,0.0,0.0,0.0,0.0,0.0,2,364176.0,2025-10-20 05:22:27
+13765,759153,8,46183934,70,2,3600,60',1,0,Valdumar Té (Sintrense) Goal at 60',Valdumar Té Goal,21595,0.0,0.0,0.0,0.0,0.0,0.0,1,263332.0,2025-10-20 05:22:27
+13765,759153,9,46188176,94,2,3840,64',0,0,Andreas Ntoi (Rio Ave) Yellow Card at 64',Andreas Ntoi Yellow Card,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,325226.0,2025-10-20 05:22:27
+13765,759153,10,46188177,76,2,4200,70',0,0,Karem Zoabi (Rio Ave) Substitution at 70',Karem Zoabi Substitution,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,386927.0,2025-10-20 05:22:27
+13765,759153,11,46188178,76,2,4200,70',0,0,Joao Graça (Rio Ave) Substitution at 70',Joao Graça Substitution,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,234940.0,2025-10-20 05:22:27
+13765,759153,11,46188178,76,2,4200,70',0,0,Joao Graça (Rio Ave) Substitution at 70',Joao Graça Substitution,3822,0.0,0.0,0.0,0.0,0.0,0.0,2,306864.0,2025-10-20 05:22:27
+13765,759153,10,46188177,76,2,4200,70',0,0,Karem Zoabi (Rio Ave) Substitution at 70',Karem Zoabi Substitution,3822,0.0,0.0,0.0,0.0,0.0,0.0,2,277705.0,2025-10-20 05:22:27
+13765,759153,12,46188179,76,2,4740,79',0,0,Antonis Papakanellos (Rio Ave) Substitution at 79',Antonis Papakanellos Substitutio,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,387656.0,2025-10-20 05:22:27
+13765,759153,12,46188179,76,2,4740,79',0,0,Antonis Papakanellos (Rio Ave) Substitution at 79',Antonis Papakanellos Substitutio,3822,0.0,0.0,0.0,0.0,0.0,0.0,2,345224.0,2025-10-20 05:22:27
+13765,759153,13,46183935,70,2,4860,81',1,0,Karem Zoabi (Rio Ave) Goal at 81',Karem Zoabi Goal,3822,0.0,0.0,0.0,0.0,0.0,0.0,1,386927.0,2025-10-20 05:22:27
+13765,759156,1,46168418,70,1,480,8',1,0,Francisco Gonçalves (C.D. Nacional) Goal at 8',Francisco Gonçalves Goal,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,351581.0,2025-10-19 05:22:01
+13765,759156,2,46168419,70,1,1680,28',1,0,Witi (C.D. Nacional) Goal at 28',Witi Goal,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,215279.0,2025-10-20 05:22:27
+13765,759156,3,46168420,70,1,2100,35',1,0,Martim Gustavo (C.D. Nacional) Goal at 35',Martim Gustavo Goal,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,351579.0,2025-10-20 05:22:27
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,400313.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,399089.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,398650.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,398514.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,376211.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,361950.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,360108.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,357703.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,357390.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,353125.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,340152.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,338665.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,335241.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,332432.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,314651.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,314417.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,309224.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,304707.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,304700.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,243832.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,233992.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,224675.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,218971.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,217020.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,211700.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,187016.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,169905.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,99330.0,2025-10-19 05:22:01
+13765,759156,5,46168422,76,2,2700,45',0,0,Jota (C.D. Nacional) Substitution at 45',Jota Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,376032.0,2025-10-20 05:22:27
+13765,759156,5,46168422,76,2,2700,45',0,0,Jota (C.D. Nacional) Substitution at 45',Jota Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,354337.0,2025-10-20 05:22:27
+13765,759156,5,46168422,76,2,2700,45',0,0,Jota (C.D. Nacional) Substitution at 45',Jota Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,353911.0,2025-10-20 05:22:27
+13765,759156,5,46168422,76,2,2700,45',0,0,Jota (C.D. Nacional) Substitution at 45',Jota Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,339036.0,2025-10-20 05:22:27
+13765,759156,5,46168422,76,2,2700,45',0,0,Jota (C.D. Nacional) Substitution at 45',Jota Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,258915.0,2025-10-20 05:22:27
+13765,759156,5,46168422,76,2,2700,45',0,0,Jota (C.D. Nacional) Substitution at 45',Jota Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,173228.0,2025-10-20 05:22:27
+13765,759156,5,46168422,76,2,2700,45',0,0,Jota (C.D. Nacional) Substitution at 45',Jota Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,155771.0,2025-10-20 05:22:27
+13765,759156,4,46168421,76,2,2700,45',0,0,Motez Nourani (C.D. Nacional) Substitution at 45',Motez Nourani Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,379304.0,2025-10-19 05:22:01
+13765,759156,5,46168422,76,2,2700,45',0,0,Jota (C.D. Nacional) Substitution at 45',Jota Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,2,383950.0,2025-10-20 05:22:27
+13765,759156,5,46168422,76,2,2700,45',0,0,Jota (C.D. Nacional) Substitution at 45',Jota Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,2,338895.0,2025-10-20 05:22:27
+13765,759156,5,46168422,76,2,2700,45',0,0,Jota (C.D. Nacional) Substitution at 45',Jota Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,2,334384.0,2025-10-20 05:22:27
+13765,759156,5,46168422,76,2,2700,45',0,0,Jota (C.D. Nacional) Substitution at 45',Jota Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,2,319741.0,2025-10-20 05:22:27
+13765,759156,5,46168422,76,2,2700,45',0,0,Jota (C.D. Nacional) Substitution at 45',Jota Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,2,317232.0,2025-10-20 05:22:27
+13765,759156,5,46168422,76,2,2700,45',0,0,Jota (C.D. Nacional) Substitution at 45',Jota Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,2,274381.0,2025-10-20 05:22:27
+13765,759156,4,46168421,76,2,2700,45',0,0,Motez Nourani (C.D. Nacional) Substitution at 45',Motez Nourani Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,2,215279.0,2025-10-19 05:22:01
+13765,759156,6,46168423,76,2,2700,45',0,0,Daniel (C.D. Nacional) Substitution at 45',Daniel Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,2,351579.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,400313.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,399089.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,398650.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,398514.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,376211.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,361950.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,360108.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,357703.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,357390.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,353125.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,340152.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,338665.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,335241.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,332432.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,314651.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,314417.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,309224.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,304707.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,304700.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,243832.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,233992.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,224675.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,218971.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,217020.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,211700.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,187016.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,169905.0,2025-10-19 05:22:01
+13765,759156,7,46168424,94,2,3300,55',0,0,Daniel (C.D. Nacional) Yellow Card at 55',Daniel Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,99330.0,2025-10-19 05:22:01
+13765,759156,8,46178621,94,2,3480,58',0,0,Francisco Gonçalves (C.D. Nacional) Yellow Card at 58',Francisco Gonçalves Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,351581.0,2025-10-20 05:22:27
+13765,759156,9,46178622,76,2,3600,60',0,0,Deivison (C.D. Nacional) Substitution at 60',Deivison Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,406871.0,2025-10-20 05:22:27
+13765,759156,9,46178622,76,2,3600,60',0,0,Deivison (C.D. Nacional) Substitution at 60',Deivison Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,2,346832.0,2025-10-20 05:22:27
+13765,759156,9,46178622,76,2,3600,60',0,0,Deivison (C.D. Nacional) Substitution at 60',Deivison Substitution,3472,0.0,0.0,0.0,0.0,0.0,0.0,2,101325.0,2025-10-20 05:22:27
+13765,759156,10,46178623,76,2,4260,71',0,0,Josue Souza Dos Santos (C.D. Nacional) Substitution at 71',Josue Souza Dos Santos Substitut,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,374726.0,2025-10-20 05:22:27
+13765,759156,10,46178623,76,2,4260,71',0,0,Josue Souza Dos Santos (C.D. Nacional) Substitution at 71',Josue Souza Dos Santos Substitut,3472,0.0,0.0,0.0,0.0,0.0,0.0,2,318200.0,2025-10-20 05:22:27
+13765,759156,11,46168682,70,2,4860,81',1,0,Mário Leonardo Santos Pereira (Rebordelo) Goal at 81',Mário Leonardo Santos Pereira Go,131442,0.0,0.0,0.0,0.0,0.0,0.0,1,412876.0,2025-10-20 05:22:27
+13765,759156,12,46168425,94,2,5400,90'+5',0,0,Jota (C.D. Nacional) Yellow Card at 95',Jota Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,376032.0,2025-10-20 05:22:27
+13765,759156,12,46168425,94,2,5400,90'+5',0,0,Jota (C.D. Nacional) Yellow Card at 95',Jota Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,354337.0,2025-10-20 05:22:27
+13765,759156,12,46168425,94,2,5400,90'+5',0,0,Jota (C.D. Nacional) Yellow Card at 95',Jota Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,353911.0,2025-10-20 05:22:27
+13765,759156,12,46168425,94,2,5400,90'+5',0,0,Jota (C.D. Nacional) Yellow Card at 95',Jota Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,339036.0,2025-10-20 05:22:27
+13765,759156,12,46168425,94,2,5400,90'+5',0,0,Jota (C.D. Nacional) Yellow Card at 95',Jota Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,258915.0,2025-10-20 05:22:27
+13765,759156,12,46168425,94,2,5400,90'+5',0,0,Jota (C.D. Nacional) Yellow Card at 95',Jota Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,173228.0,2025-10-20 05:22:27
+13765,759156,12,46168425,94,2,5400,90'+5',0,0,Jota (C.D. Nacional) Yellow Card at 95',Jota Yellow Card,3472,0.0,0.0,0.0,0.0,0.0,0.0,1,155771.0,2025-10-20 05:22:27
+13765,759157,1,46169609,70,1,480,8',1,0,Jan Bednarek (FC Porto) Goal at 8',Jan Bednarek Goal,437,0.0,0.0,0.0,0.0,0.0,0.0,1,221788.0,2025-10-19 05:22:01
+13765,759157,2,46169811,76,2,2700,45',0,0,Dominik Prpic (FC Porto) Substitution at 45',Dominik Prpic Substitution,437,0.0,0.0,0.0,0.0,0.0,0.0,1,345752.0,2025-10-19 05:22:01
+13765,759157,2,46169811,76,2,2700,45',0,0,Dominik Prpic (FC Porto) Substitution at 45',Dominik Prpic Substitution,437,0.0,0.0,0.0,0.0,0.0,0.0,2,304965.0,2025-10-19 05:22:01
+13765,759157,3,46169812,94,2,3360,56',0,0,Jan Bednarek (FC Porto) Yellow Card at 56',Jan Bednarek Yellow Card,437,0.0,0.0,0.0,0.0,0.0,0.0,1,221788.0,2025-10-19 05:22:01
+13765,759157,6,46169815,76,2,3600,60',0,0,Samu Aghehowa (FC Porto) Substitution at 60',Samu Aghehowa Substitution,437,0.0,0.0,0.0,0.0,0.0,0.0,1,364815.0,2025-10-19 05:22:01
+13765,759157,5,46169814,76,2,3600,60',0,0,Rodrigo Mora (FC Porto) Substitution at 60',Rodrigo Mora Substitution,437,0.0,0.0,0.0,0.0,0.0,0.0,1,387204.0,2025-10-21 05:16:54
+13765,759157,5,46169814,76,2,3600,60',0,0,Rodrigo Mora (FC Porto) Substitution at 60',Rodrigo Mora Substitution,437,0.0,0.0,0.0,0.0,0.0,0.0,1,164714.0,2025-10-21 05:16:54
+13765,759157,4,46169813,76,2,3600,60',0,0,William Gomes (FC Porto) Substitution at 60',William Gomes Substitution,437,0.0,0.0,0.0,0.0,0.0,0.0,1,376664.0,2025-10-21 05:16:54
+13765,759157,5,46169814,76,2,3600,60',0,0,Rodrigo Mora (FC Porto) Substitution at 60',Rodrigo Mora Substitution,437,0.0,0.0,0.0,0.0,0.0,0.0,2,307381.0,2025-10-21 05:16:54
+13765,759157,4,46169813,76,2,3600,60',0,0,William Gomes (FC Porto) Substitution at 60',William Gomes Substitution,437,0.0,0.0,0.0,0.0,0.0,0.0,2,292268.0,2025-10-21 05:16:54
+13765,759157,6,46169815,76,2,3600,60',0,0,Samu Aghehowa (FC Porto) Substitution at 60',Samu Aghehowa Substitution,437,0.0,0.0,0.0,0.0,0.0,0.0,2,350513.0,2025-10-19 05:22:01
+13765,759157,7,46169610,70,2,3720,62',1,0,Samu Aghehowa (FC Porto) Goal at 62',Samu Aghehowa Goal,437,0.0,0.0,0.0,0.0,0.0,0.0,1,364815.0,2025-10-19 05:22:01
+13765,759157,8,46169611,70,2,4260,71',1,0,Samu Aghehowa (FC Porto) Goal at 71',Samu Aghehowa Goal,437,0.0,0.0,0.0,0.0,0.0,0.0,1,364815.0,2025-10-19 05:22:01
+13765,759157,9,46169612,70,2,4380,73',1,0,Samu Aghehowa (FC Porto) Goal at 73',Samu Aghehowa Goal,437,0.0,0.0,0.0,0.0,0.0,0.0,1,364815.0,2025-10-19 05:22:01
+13765,759157,10,46169816,76,2,4440,74',0,0,Stephen Eustáquio (FC Porto) Substitution at 74',Stephen Eustáquio Substitution,437,0.0,0.0,0.0,0.0,0.0,0.0,1,270505.0,2025-10-19 05:22:01
+13765,759157,10,46169816,76,2,4440,74',0,0,Stephen Eustáquio (FC Porto) Substitution at 74',Stephen Eustáquio Substitution,437,0.0,0.0,0.0,0.0,0.0,0.0,2,373520.0,2025-10-19 05:22:01
+13765,759158,1,46187831,94,1,1260,21',0,0,Miguel Maga (Guimaraes) Yellow Card at 21',Miguel Maga Yellow Card,5309,0.0,0.0,0.0,0.0,0.0,0.0,1,324007.0,2025-11-09 15:07:42
+13765,759158,3,46187833,76,2,2700,45',0,0,Oumar Camara (Guimaraes) Substitution at 45',Oumar Camara Substitution,5309,0.0,0.0,0.0,0.0,0.0,0.0,1,252095.0,2025-11-09 15:07:42
+13765,759158,2,46187832,76,2,2700,45',0,0,Tony Strata (Guimaraes) Substitution at 45',Tony Strata Substitution,5309,0.0,0.0,0.0,0.0,0.0,0.0,1,362062.0,2025-11-09 15:07:42
+13765,759158,2,46187832,76,2,2700,45',0,0,Tony Strata (Guimaraes) Substitution at 45',Tony Strata Substitution,5309,0.0,0.0,0.0,0.0,0.0,0.0,2,324007.0,2025-11-09 15:07:42
+13765,759158,3,46187833,76,2,2700,45',0,0,Oumar Camara (Guimaraes) Substitution at 45',Oumar Camara Substitution,5309,0.0,0.0,0.0,0.0,0.0,0.0,2,410817.0,2025-11-09 15:07:42
+13765,759158,4,46183449,70,2,3060,51',1,0,Óscar Rivas (Guimaraes) Goal at 51',Óscar Rivas Goal,5309,0.0,0.0,0.0,0.0,0.0,0.0,1,332660.0,2025-11-09 15:07:42
+13765,759158,5,46187834,94,2,3360,56',0,0,Diogo Sousa (Guimaraes) Yellow Card at 56',Diogo Sousa Yellow Card,5309,0.0,0.0,0.0,0.0,0.0,0.0,1,368325.0,2025-11-09 15:07:42
+13765,759158,5,46187834,94,2,3360,56',0,0,Diogo Sousa (Guimaraes) Yellow Card at 56',Diogo Sousa Yellow Card,5309,0.0,0.0,0.0,0.0,0.0,0.0,1,156808.0,2025-11-09 15:07:42
+13765,759158,6,46187835,76,2,4020,67',0,0,Miguel Nogueira (Guimaraes) Substitution at 67',Miguel Nogueira Substitution,5309,0.0,0.0,0.0,0.0,0.0,0.0,1,409828.0,2025-11-09 15:07:42
+13765,759158,6,46187835,76,2,4020,67',0,0,Miguel Nogueira (Guimaraes) Substitution at 67',Miguel Nogueira Substitution,5309,0.0,0.0,0.0,0.0,0.0,0.0,2,320918.0,2025-11-09 15:07:42
+13765,759158,7,46187836,94,2,4080,68',0,0,Orest Lebedenko (Guimaraes) Yellow Card at 68',Orest Lebedenko Yellow Card,5309,0.0,0.0,0.0,0.0,0.0,0.0,1,286545.0,2025-11-09 15:07:42
+13765,759158,8,46187837,76,2,4560,76',0,0,Rica Rocha (Guimaraes) Substitution at 76',Rica Rocha Substitution,5309,0.0,0.0,0.0,0.0,0.0,0.0,1,410818.0,2025-11-09 15:07:42
+13765,759158,8,46187837,76,2,4560,76',0,0,Rica Rocha (Guimaraes) Substitution at 76',Rica Rocha Substitution,5309,0.0,0.0,0.0,0.0,0.0,0.0,2,368325.0,2025-11-09 15:07:42
+13765,759158,8,46187837,76,2,4560,76',0,0,Rica Rocha (Guimaraes) Substitution at 76',Rica Rocha Substitution,5309,0.0,0.0,0.0,0.0,0.0,0.0,2,156808.0,2025-11-09 15:07:42
+13765,759158,9,46187838,76,2,5340,89',0,0,Nélson Oliveira (Guimaraes) Substitution at 89',Nélson Oliveira Substitution,5309,0.0,0.0,0.0,0.0,0.0,0.0,1,127575.0,2025-11-09 15:07:42
+13765,759158,9,46187838,76,2,5340,89',0,0,Nélson Oliveira (Guimaraes) Substitution at 89',Nélson Oliveira Substitution,5309,0.0,0.0,0.0,0.0,0.0,0.0,2,322491.0,2025-11-09 15:07:42
+13765,759158,10,46187839,94,2,5400,90'+4',0,0,Óscar Rivas (Guimaraes) Yellow Card at 94',Óscar Rivas Yellow Card,5309,0.0,0.0,0.0,0.0,0.0,0.0,1,332660.0,2025-11-09 15:07:42
+13765,759159,1,46167549,70,1,480,8',1,0,Diogo Filipe Spencer Marques (AVS) Goal at 8',Diogo Filipe Spencer Marques Goa,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,381436.0,2025-10-19 05:22:01
+13765,759159,2,46167550,70,1,720,12',1,0,Pedro Lima (AVS) Goal at 12',Pedro Lima Goal,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,400938.0,2025-10-19 05:22:01
+13765,759159,2,46167550,70,1,720,12',1,0,Pedro Lima (AVS) Goal at 12',Pedro Lima Goal,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,376489.0,2025-10-19 05:22:01
+13765,759159,2,46167550,70,1,720,12',1,0,Pedro Lima (AVS) Goal at 12',Pedro Lima Goal,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,307930.0,2025-10-19 05:22:01
+13765,759159,3,46176235,76,2,2700,45',0,0,Rafael Barbosa (AVS) Substitution at 45',Rafael Barbosa Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,271823.0,2025-10-19 05:22:01
+13765,759159,3,46176235,76,2,2700,45',0,0,Rafael Barbosa (AVS) Substitution at 45',Rafael Barbosa Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,2,284914.0,2025-10-19 05:22:01
+13765,759159,4,46167551,70,2,3780,63',1,0,Rafael Barbosa (AVS) Goal at 63',Rafael Barbosa Goal,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,271823.0,2025-10-19 05:22:01
+13765,759159,5,46176236,76,2,3840,64',0,0,Nenê  (AVS) Substitution at 64',Nenê  Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,36805.0,2025-10-20 05:22:27
+13765,759159,7,46176238,76,2,3840,64',0,0,Bruno Lourenco (AVS) Substitution at 64',Bruno Lourenco Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,130792.0,2025-10-19 05:22:01
+13765,759159,5,46176236,76,2,3840,64',0,0,Nenê  (AVS) Substitution at 64',Nenê  Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,395024.0,2025-10-20 05:22:27
+13765,759159,5,46176236,76,2,3840,64',0,0,Nenê  (AVS) Substitution at 64',Nenê  Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,374625.0,2025-10-20 05:22:27
+13765,759159,5,46176236,76,2,3840,64',0,0,Nenê  (AVS) Substitution at 64',Nenê  Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,353930.0,2025-10-20 05:22:27
+13765,759159,5,46176236,76,2,3840,64',0,0,Nenê  (AVS) Substitution at 64',Nenê  Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,289514.0,2025-10-20 05:22:27
+13765,759159,5,46176236,76,2,3840,64',0,0,Nenê  (AVS) Substitution at 64',Nenê  Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,258369.0,2025-10-20 05:22:27
+13765,759159,5,46176236,76,2,3840,64',0,0,Nenê  (AVS) Substitution at 64',Nenê  Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,124021.0,2025-10-20 05:22:27
+13765,759159,6,46176237,76,2,3840,64',0,0,Kiki (AVS) Substitution at 64',Kiki Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,353958.0,2025-10-19 05:22:01
+13765,759159,6,46176237,76,2,3840,64',0,0,Kiki (AVS) Substitution at 64',Kiki Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,185902.0,2025-10-19 05:22:01
+13765,759159,5,46176236,76,2,3840,64',0,0,Nenê  (AVS) Substitution at 64',Nenê  Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,2,151321.0,2025-10-20 05:22:27
+13765,759159,7,46176238,76,2,3840,64',0,0,Bruno Lourenco (AVS) Substitution at 64',Bruno Lourenco Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,2,362144.0,2025-10-19 05:22:01
+13765,759159,6,46176237,76,2,3840,64',0,0,Kiki (AVS) Substitution at 64',Kiki Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,2,241197.0,2025-10-19 05:22:01
+13765,759159,8,46176239,76,2,4560,76',0,0,Tiago Galletto (AVS) Substitution at 76',Tiago Galletto Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,302630.0,2025-10-19 05:22:01
+13765,759159,8,46176239,76,2,4560,76',0,0,Tiago Galletto (AVS) Substitution at 76',Tiago Galletto Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,2,400938.0,2025-10-19 05:22:01
+13765,759159,8,46176239,76,2,4560,76',0,0,Tiago Galletto (AVS) Substitution at 76',Tiago Galletto Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,2,376489.0,2025-10-19 05:22:01
+13765,759159,8,46176239,76,2,4560,76',0,0,Tiago Galletto (AVS) Substitution at 76',Tiago Galletto Substitution,22064,0.0,0.0,0.0,0.0,0.0,0.0,2,307930.0,2025-10-19 05:22:01
+13765,759159,9,46167552,70,2,4920,82',1,0,Bruno Lourenco (AVS) Goal at 82',Bruno Lourenco Goal,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,130792.0,2025-10-19 05:22:01
+13765,759159,10,46167553,70,2,4980,83',1,0,Kobamelo Kodisang (AVS) Goal at 83',Kobamelo Kodisang Goal,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,225168.0,2025-10-19 05:22:01
+13765,759159,11,46167554,70,2,5160,86',1,0,Diogo Filipe Spencer Marques (AVS) Goal at 86',Diogo Filipe Spencer Marques Goa,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,381436.0,2025-10-19 05:22:01
+13765,759159,12,46176240,94,2,5280,88',0,0,Tiago Galletto (AVS) Yellow Card at 88',Tiago Galletto Yellow Card,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,302630.0,2025-10-19 05:22:01
+13765,759159,13,46167555,70,2,5400,90'+1',1,0,Kiki (AVS) Goal at 91',Kiki Goal,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,353958.0,2025-10-19 05:22:01
+13765,759159,13,46167555,70,2,5400,90'+1',1,0,Kiki (AVS) Goal at 91',Kiki Goal,22064,0.0,0.0,0.0,0.0,0.0,0.0,1,185902.0,2025-10-19 05:22:01
+13765,759160,1,46183729,70,1,600,10',1,0,Gaizka Larrazabal (Casa Pia) Goal at 10',Gaizka Larrazabal Goal,21581,0.0,0.0,0.0,0.0,0.0,0.0,1,248860.0,2025-10-20 05:22:27
+13765,759160,2,46183842,94,1,1860,31',0,0,Miguel Sousa (Casa Pia) Yellow Card at 31',Miguel Sousa Yellow Card,21581,0.0,0.0,0.0,0.0,0.0,0.0,1,333001.0,2025-10-20 05:22:27
+13765,759160,3,46183730,70,1,2700,45',1,0,Gaizka Larrazabal (Casa Pia) Goal at 45',Gaizka Larrazabal Goal,21581,0.0,0.0,0.0,0.0,0.0,0.0,1,248860.0,2025-10-20 05:22:27
+13765,759160,4,46183843,76,2,2700,45',0,0,Tiago Morais  (Casa Pia) Substitution at 45',Tiago Morais  Substitution,21581,0.0,0.0,0.0,0.0,0.0,0.0,1,307846.0,2025-10-20 05:22:27
+13765,759160,4,46183843,76,2,2700,45',0,0,Tiago Morais  (Casa Pia) Substitution at 45',Tiago Morais  Substitution,21581,0.0,0.0,0.0,0.0,0.0,0.0,2,333001.0,2025-10-20 05:22:27
+13765,759160,5,46183844,76,2,4440,74',0,0,Rafael Brito (Casa Pia) Substitution at 74',Rafael Brito Substitution,21581,0.0,0.0,0.0,0.0,0.0,0.0,1,336585.0,2025-10-20 05:22:27
+13765,759160,6,46183845,76,2,4440,74',0,0,Xander Severina (Casa Pia) Substitution at 74',Xander Severina Substitution,21581,0.0,0.0,0.0,0.0,0.0,0.0,1,316614.0,2025-10-20 05:22:27
+13765,759160,6,46183845,76,2,4440,74',0,0,Xander Severina (Casa Pia) Substitution at 74',Xander Severina Substitution,21581,0.0,0.0,0.0,0.0,0.0,0.0,2,337004.0,2025-10-20 05:22:27
+13765,759160,5,46183844,76,2,4440,74',0,0,Rafael Brito (Casa Pia) Substitution at 74',Rafael Brito Substitution,21581,0.0,0.0,0.0,0.0,0.0,0.0,2,300592.0,2025-10-20 05:22:27
+13765,759160,7,46183846,76,2,5040,84',0,0,André Geraldes (Casa Pia) Substitution at 84',André Geraldes Substitution,21581,0.0,0.0,0.0,0.0,0.0,0.0,1,149660.0,2025-10-20 05:22:27
+13765,759160,8,46183847,76,2,5040,84',0,0,Iyad Mohamed (Casa Pia) Substitution at 84',Iyad Mohamed Substitution,21581,0.0,0.0,0.0,0.0,0.0,0.0,1,324002.0,2025-10-20 05:22:27
+13765,759160,8,46183847,76,2,5040,84',0,0,Iyad Mohamed (Casa Pia) Substitution at 84',Iyad Mohamed Substitution,21581,0.0,0.0,0.0,0.0,0.0,0.0,2,402986.0,2025-10-20 05:22:27
+13765,759160,7,46183846,76,2,5040,84',0,0,André Geraldes (Casa Pia) Substitution at 84',André Geraldes Substitution,21581,0.0,0.0,0.0,0.0,0.0,0.0,2,248860.0,2025-10-20 05:22:27
+13765,759160,9,46183731,70,2,5400,90'+4',1,0,Tiago Morais  (Casa Pia) Goal at 94',Tiago Morais  Goal,21581,0.0,0.0,0.0,0.0,0.0,0.0,1,307846.0,2025-10-20 05:22:27
+13765,759162,1,46167688,70,1,420,7',1,0,Juan Muñoz (Uniao Leiria) Goal at 7',Juan Muñoz Goal,2724,0.0,0.0,0.0,0.0,0.0,0.0,1,209602.0,2025-10-19 05:22:01
+13765,759162,2,46168381,94,1,1260,21',0,0,Sergi Gómez (Alverca) Yellow Card at 21',Sergi Gómez Yellow Card,21613,0.0,0.0,0.0,0.0,0.0,0.0,1,120708.0,2025-10-19 05:22:01
+13765,759162,3,46168382,76,2,3660,61',0,0,Figueiredo  (Alverca) Substitution at 61',Figueiredo  Substitution,21613,0.0,0.0,0.0,0.0,0.0,0.0,1,314864.0,2025-10-19 05:22:01
+13765,759162,3,46168382,76,2,3660,61',0,0,Figueiredo  (Alverca) Substitution at 61',Figueiredo  Substitution,21613,0.0,0.0,0.0,0.0,0.0,0.0,2,406867.0,2025-10-19 05:22:01
+13765,759162,4,46168383,94,2,3840,64',0,0,Gonçalo Esteves (Alverca) Yellow Card at 64',Gonçalo Esteves Yellow Card,21613,0.0,0.0,0.0,0.0,0.0,0.0,1,324296.0,2025-10-19 05:22:01
+13765,759162,7,46168386,76,2,4140,69',0,0,Nabili Touaizi (Alverca) Substitution at 69',Nabili Touaizi Substitution,21613,0.0,0.0,0.0,0.0,0.0,0.0,1,276256.0,2025-10-19 05:22:01
+13765,759162,6,46168385,76,2,4140,69',0,0,Marko Milovanovic (Alverca) Substitution at 69',Marko Milovanovic Substitution,21613,0.0,0.0,0.0,0.0,0.0,0.0,1,97026.0,2025-10-19 05:22:01
+13765,759162,5,46168384,76,2,4140,69',0,0,Stephan Diarra (Alverca) Substitution at 69',Stephan Diarra Substitution,21613,0.0,0.0,0.0,0.0,0.0,0.0,1,234912.0,2025-10-19 05:22:01
+13765,759162,7,46168386,76,2,4140,69',0,0,Nabili Touaizi (Alverca) Substitution at 69',Nabili Touaizi Substitution,21613,0.0,0.0,0.0,0.0,0.0,0.0,2,324296.0,2025-10-19 05:22:01
+13765,759162,6,46168385,76,2,4140,69',0,0,Marko Milovanovic (Alverca) Substitution at 69',Marko Milovanovic Substitution,21613,0.0,0.0,0.0,0.0,0.0,0.0,2,192505.0,2025-10-19 05:22:01
+13765,759162,5,46168384,76,2,4140,69',0,0,Stephan Diarra (Alverca) Substitution at 69',Stephan Diarra Substitution,21613,0.0,0.0,0.0,0.0,0.0,0.0,2,120708.0,2025-10-19 05:22:01
+13765,759162,8,46167690,70,2,4440,74',1,0,Dieu-Merci Michel (Uniao Leiria) Goal at 74',Dieu-Merci Michel Goal,2724,0.0,0.0,0.0,0.0,0.0,0.0,1,397537.0,2025-10-19 05:22:01
+13765,759162,10,46167699,70,2,5400,90'+8',1,0,Kaiky Naves (Alverca) Goal at 98',Kaiky Naves Goal,21613,0.0,0.0,0.0,0.0,0.0,0.0,1,332351.0,2025-10-19 05:22:01
+13765,759162,9,46167695,98,2,5400,90'+6',1,0,Marko Milovanovic (Alverca) Penalty - Scored at 96',Marko Milovanovic Penalty - Scor,21613,0.0,0.0,0.0,0.0,0.0,0.0,1,97026.0,2025-10-19 05:22:01
+13765,759162,11,46168387,94,3,5580,93',0,0,Francisco Chissumba (Alverca) Yellow Card at 93',Francisco Chissumba Yellow Card,21613,0.0,0.0,0.0,0.0,0.0,0.0,1,379620.0,2025-10-19 05:22:01
+13765,759162,12,46168388,76,4,6660,111',0,0,Diogo Martins (Alverca) Substitution at 111',Diogo Martins Substitution,21613,0.0,0.0,0.0,0.0,0.0,0.0,1,352184.0,2025-10-19 05:22:01
+13765,759162,12,46168388,76,4,6660,111',0,0,Diogo Martins (Alverca) Substitution at 111',Diogo Martins Substitution,21613,0.0,0.0,0.0,0.0,0.0,0.0,2,360283.0,2025-10-19 05:22:01
+13765,759162,12,46168388,76,4,6660,111',0,0,Diogo Martins (Alverca) Substitution at 111',Diogo Martins Substitution,21613,0.0,0.0,0.0,0.0,0.0,0.0,2,266663.0,2025-10-19 05:22:01
+13765,759162,12,46168388,76,4,6660,111',0,0,Diogo Martins (Alverca) Substitution at 111',Diogo Martins Substitution,21613,0.0,0.0,0.0,0.0,0.0,0.0,2,264158.0,2025-10-19 05:22:01
+13765,759162,12,46168388,76,4,6660,111',0,0,Diogo Martins (Alverca) Substitution at 111',Diogo Martins Substitution,21613,0.0,0.0,0.0,0.0,0.0,0.0,2,216021.0,2025-10-19 05:22:01
+13765,759162,13,46168389,94,4,6840,114',0,0,Kaiky Naves (Alverca) Yellow Card at 114',Kaiky Naves Yellow Card,21613,0.0,0.0,0.0,0.0,0.0,0.0,1,332351.0,2025-10-19 05:22:01
+13765,759162,14,46168390,94,4,7200,120',0,0,Nabili Touaizi (Alverca) Yellow Card at 120',Nabili Touaizi Yellow Card,21613,0.0,0.0,0.0,0.0,0.0,0.0,1,276256.0,2025-10-19 05:22:01
