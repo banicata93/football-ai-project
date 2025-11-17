@@ -40,6 +40,7 @@ sys.path.insert(0, str(project_root))
 
 # Import our modules
 from core.data_loader import ESPNDataLoader
+from core.data_mapper import DataMapper
 from core.feature_engineering import FeatureEngineer
 from core.features_1x2 import Features1X2
 from core.poisson_v2 import PoissonV2Model
@@ -79,6 +80,7 @@ class Train1X2V2:
         
         # Initialize components
         self.data_loader = ESPNDataLoader()
+        self.data_mapper = DataMapper()
         self.feature_engineering = FeatureEngineer()
         self.features_1x2 = Features1X2()
         
@@ -145,12 +147,8 @@ class Train1X2V2:
         
         logger.info(f"📊 Loaded {len(df)} matches")
         
-        # Add league column (use league_id as league for now)
-        df['league'] = df['league_id'].astype(str)
-        
-        # Add team names (use team_id as team names for now)
-        df['home_team'] = df['home_team_id'].astype(str)
-        df['away_team'] = df['away_team_id'].astype(str)
+        # Enrich with team and league names using DataMapper
+        df = self.data_mapper.enrich_fixtures(df)
         
         # Filter recent data (last 3 years for training)
         cutoff_date = datetime.now() - timedelta(days=3*365)
@@ -469,8 +467,25 @@ class Train1X2V2:
             # Load and prepare data
             df = self.load_and_prepare_data()
             
-            # Filter for league
-            league_data = df[df['league'] == league].copy()
+            # Map league slug to league_id
+            league_mapping = {
+                'premier_league': 700,
+                'la_liga': 3907,
+                'serie_a': 630,
+                'bundesliga': 3907,
+                'ligue_1': 710,
+                'eredivisie': 725,
+                'primeira_liga': 715,
+                'championship': 5672
+            }
+            
+            league_id = league_mapping.get(league)
+            if not league_id:
+                logger.error(f"❌ Unknown league: {league}")
+                return False
+            
+            # Filter for league using league_id
+            league_data = df[df['league_id'] == league_id].copy()
             
             if len(league_data) < self.config['min_matches_per_league']:
                 logger.warning(f"⚠️ Insufficient data for {league}: {len(league_data)} matches")

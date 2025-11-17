@@ -344,18 +344,29 @@ class PredictionService:
     def _load_poisson_v2_models(self):
         """Зареждане на Poisson v2 модели"""
         try:
-            poisson_dir = Path("models/leagues/poisson_v2")
+            leagues_dir = Path("models/leagues")
             
-            if not poisson_dir.exists():
-                self.logger.warning("⚠️ Poisson v2 директория не съществува")
+            if not leagues_dir.exists():
+                self.logger.warning("⚠️ Leagues директория не съществува")
                 return
             
-            # Зареждане на всички Poisson v2 модели
-            for poisson_file in poisson_dir.glob("*_poisson_v2.pkl"):
-                league = poisson_file.stem.replace('_poisson_v2', '')
+            # Зареждане на всички Poisson v2 модели от per-league структурата
+            for league_dir in leagues_dir.iterdir():
+                if not league_dir.is_dir():
+                    continue
+                
+                poisson_v2_dir = league_dir / "poisson_v2"
+                if not poisson_v2_dir.exists():
+                    continue
+                
+                poisson_file = poisson_v2_dir / "poisson_model.pkl"
+                if not poisson_file.exists():
+                    continue
+                
+                league = league_dir.name
                 
                 try:
-                    poisson_model = PoissonV2Model.load_model(str(poisson_file))
+                    poisson_model = joblib.load(poisson_file)
                     self.poisson_v2_models[league] = poisson_model
                     self.logger.info(f"✅ Зареден Poisson v2 за {league}")
                 except Exception as e:
@@ -1278,12 +1289,39 @@ class PredictionService:
         loaded = leagues_trained > 0
         errors = [] if loaded else ['no_leagues_trained']
         
+        # Collect metrics from all leagues
+        total_matches = 0
+        latest_date = None
+        
+        if loaded:
+            leagues_dir = Path("models/leagues")
+            for league_dir in leagues_dir.iterdir():
+                if not league_dir.is_dir():
+                    continue
+                
+                metrics_file = league_dir / "poisson_v2" / "metrics.json"
+                if metrics_file.exists():
+                    try:
+                        with open(metrics_file, 'r') as f:
+                            metrics = json.load(f)
+                            total_matches += metrics.get('total_matches', 0)
+                            
+                            trained_date = metrics.get('trained_date')
+                            if trained_date and (not latest_date or trained_date > latest_date):
+                                latest_date = trained_date
+                    except:
+                        pass
+        
         return {
             'model_name': 'Poisson',
             'version': 'v2',
-            'trained_date': 'N/A',
+            'trained_date': latest_date or 'N/A',
             'accuracy': None,
-            'metrics': {},
+            'metrics': {
+                'total_matches': total_matches,
+                'leagues_trained': leagues_trained,
+                'time_decay_factor': 0.8
+            },
             'loaded': loaded,
             'errors': errors,
             'leagues_trained': leagues_trained
