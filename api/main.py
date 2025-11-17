@@ -31,6 +31,16 @@ from core.service_manager import (
 )
 from core.utils import setup_logging
 
+# SAFE MODE: Import mapping system (optional, no breaking changes)
+try:
+    from core.mapping import normalize_team_name, normalize_league_name
+    MAPPING_AVAILABLE = True
+except ImportError:
+    MAPPING_AVAILABLE = False
+    # Safe fallback - no normalization
+    def normalize_team_name(name): return name
+    def normalize_league_name(name): return name
+
 
 # Инициализация
 logger = setup_logging()
@@ -168,11 +178,16 @@ async def predict_match(
     try:
         logger.info(f"Prediction request: {match.home_team} vs {match.away_team}")
         
+        # SAFE MODE: Normalize team and league names (optional, no breaking changes)
+        home_team = normalize_team_name(match.home_team) if MAPPING_AVAILABLE else match.home_team
+        away_team = normalize_team_name(match.away_team) if MAPPING_AVAILABLE else match.away_team
+        league = normalize_league_name(match.league) if match.league and MAPPING_AVAILABLE else match.league
+        
         # Prediction
         result = prediction_service.predict(
-            home_team=match.home_team,
-            away_team=match.away_team,
-            league=match.league,
+            home_team=home_team,
+            away_team=away_team,
+            league=league,
             date=match.date
         )
         

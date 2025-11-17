@@ -38,6 +38,9 @@ from core.draw_features import DrawFeatures
 from core.utils import setup_logging
 from sklearn.base import BaseEstimator, ClassifierMixin
 
+# Import LGBWrapper from shim for backward compatibility
+from core.lgb_wrapper_shim import LGBWrapper as LGBWrapperShim
+
 
 class LGBWrapper(BaseEstimator, ClassifierMixin):
     """
@@ -549,10 +552,21 @@ class DrawModelTrainer:
         model_dir = Path(self.config.get('output', {}).get('model_path', 'models/draw_model_v1/draw_model.pkl')).parent
         model_dir.mkdir(parents=True, exist_ok=True)
         
-        # Save model
+        # Save model (unwrap if it's a calibrated model to avoid pickle issues)
         model_file = model_dir / "draw_model.pkl"
+        
+        # Extract the base LightGBM model to avoid wrapper pickle issues
+        model_to_save = self.model
+        if hasattr(self.model, 'calibrated_classifiers_'):
+            # It's a CalibratedClassifierCV - save it as is (it's sklearn standard)
+            self.logger.info("💾 Saving calibrated model (sklearn CalibratedClassifierCV)")
+        elif hasattr(self.model, 'lgb_model'):
+            # It's our LGBWrapper - extract the LightGBM model
+            self.logger.info("💾 Extracting LightGBM model from wrapper")
+            model_to_save = self.model.lgb_model
+        
         with open(model_file, 'wb') as f:
-            pickle.dump(self.model, f)
+            pickle.dump(model_to_save, f)
         
         # Save feature list
         feature_file = model_dir / "feature_list.json"

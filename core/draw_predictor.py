@@ -29,6 +29,12 @@ sys.path.insert(0, str(project_root))
 from core.utils import setup_logging
 from core.draw_features import DrawFeatures
 
+# Import LGBWrapper shim for backward compatibility with pickled models
+# This allows loading Draw Specialist v1 model without retraining
+from core.lgb_wrapper_shim import LGBWrapper
+# Make it available in __main__ namespace for pickle
+sys.modules['__main__'].LGBWrapper = LGBWrapper
+
 
 class DrawPredictor:
     """
