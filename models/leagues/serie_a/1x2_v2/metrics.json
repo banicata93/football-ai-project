@@ -1,0 +1,13 @@
+{
+  "train": {
+    "homewin_accuracy": 1.0,
+    "homewin_logloss": 0.014273400519033285,
+    "draw_accuracy": 0.8317757009345794,
+    "draw_logloss": 0.3200726956886841,
+    "awaywin_accuracy": 1.0,
+    "awaywin_logloss": 0.010780557172504396
+  },
+  "league": "serie_a",
+  "trained_date": "2025-11-17 12:21:54",
+  "model_type": "1x2_v2_binary"
+}

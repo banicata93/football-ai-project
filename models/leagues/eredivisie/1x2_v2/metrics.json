@@ -1,0 +1,13 @@
+{
+  "train": {
+    "homewin_accuracy": 0.9883720930232558,
+    "homewin_logloss": 0.053343171439624276,
+    "draw_accuracy": 0.8837209302325582,
+    "draw_logloss": 0.24868424517240983,
+    "awaywin_accuracy": 1.0,
+    "awaywin_logloss": 0.03821823445507697
+  },
+  "league": "eredivisie",
+  "trained_date": "2025-11-17 12:23:13",
+  "model_type": "1x2_v2_binary"
+}

@@ -1,0 +1,13 @@
+{
+  "train": {
+    "homewin_accuracy": 0.9767441860465116,
+    "homewin_logloss": 0.03717821627007828,
+    "draw_accuracy": 0.8604651162790697,
+    "draw_logloss": 0.295072674841573,
+    "awaywin_accuracy": 1.0,
+    "awaywin_logloss": 0.021052803961215213
+  },
+  "league": "primeira_liga",
+  "trained_date": "2025-11-17 12:23:44",
+  "model_type": "1x2_v2_binary"
+}

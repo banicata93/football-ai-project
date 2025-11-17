@@ -1205,8 +1205,11 @@ class PredictionService:
                 'model_name': '1X2',
                 'version': 'v2',
                 'trained_date': 'N/A',
-                'accuracy': None,
-                'metrics': {},
+                'accuracy': 0.0,
+                'metrics': {
+                    'accuracy': 0.0,
+                    'log_loss': 0.0
+                },
                 'loaded': False,
                 'errors': errors,
                 'leagues_trained': 0
@@ -1230,8 +1233,8 @@ class PredictionService:
             except:
                 pass
         
-        avg_accuracy = sum(accuracies) / len(accuracies) if accuracies else None
-        avg_log_loss = sum(log_losses) / len(log_losses) if log_losses else None
+        avg_accuracy = sum(accuracies) / len(accuracies) if accuracies else 0.0
+        avg_log_loss = sum(log_losses) / len(log_losses) if log_losses else 0.0
         
         return {
             'model_name': '1X2',
@@ -1396,17 +1399,35 @@ class PredictionService:
         # Провери дали е зареден
         loaded = hasattr(self, 'draw_predictor') and self.draw_predictor is not None
         errors = []
+        accuracy = 0.0
+        metrics = {}
+        trained_date = 'N/A'
         
-        if not loaded:
-            errors.append('optional_feature_not_trained')
+        # Try to load metrics from draw model
+        try:
+            metrics_path = 'models/draw_model_v1/metrics.json'
+            with open(metrics_path, 'r') as f:
+                metrics_data = json.load(f)
+                val_metrics = metrics_data.get('validation_metrics', {})
+                accuracy = val_metrics.get('accuracy', 0.0)
+                metrics = {
+                    'accuracy': val_metrics.get('accuracy', 0.0),
+                    'precision': val_metrics.get('precision', 0.0),
+                    'recall': val_metrics.get('recall', 0.0),
+                    'roc_auc': val_metrics.get('roc_auc', 0.0)
+                }
+                trained_date = metrics_data.get('training_date', 'N/A')
+        except:
+            if not loaded:
+                errors.append('optional_feature_not_trained')
         
         # Draw Specialist е optional feature - не е критичен за системата
         return {
             'model_name': 'Draw Specialist',
             'version': 'v1',
-            'trained_date': 'N/A',
-            'accuracy': None,
-            'metrics': {},
+            'trained_date': trained_date,
+            'accuracy': accuracy,
+            'metrics': metrics,
             'loaded': loaded,
             'errors': errors
         }

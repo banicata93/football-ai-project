@@ -1,0 +1,23 @@
+[
+  "league_id",
+  "match_id",
+  "home_team_id",
+  "away_team_id",
+  "home_score",
+  "away_score",
+  "match_difficulty_index",
+  "expected_points_home",
+  "expected_points_away",
+  "form_momentum_home",
+  "form_momentum_away",
+  "possession_balance",
+  "shot_balance",
+  "home_advantage_league_mean",
+  "league_competitiveness",
+  "league_avg_goals",
+  "league_draw_rate",
+  "expected_points_diff",
+  "form_momentum_diff",
+  "fatigue_diff",
+  "vulnerability_diff"
+]

@@ -1,0 +1,13 @@
+{
+  "train": {
+    "homewin_accuracy": 1.0,
+    "homewin_logloss": 0.01943834553372951,
+    "draw_accuracy": 0.8837209302325582,
+    "draw_logloss": 0.27564984613269844,
+    "awaywin_accuracy": 1.0,
+    "awaywin_logloss": 0.027115243029415658
+  },
+  "league": "ligue_1",
+  "trained_date": "2025-11-17 12:22:45",
+  "model_type": "1x2_v2_binary"
+}
