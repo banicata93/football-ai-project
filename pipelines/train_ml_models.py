@@ -351,8 +351,8 @@ def train_btts_model_v2(
     feature_cols = get_btts_feature_columns()
     
     # Prepare features
-    X_train = prepare_features(train_df, feature_cols)
-    X_val = prepare_features(val_df, feature_cols)
+    X_train, train_metadata = prepare_features(train_df, feature_cols)
+    X_val, val_metadata = prepare_features(val_df, feature_cols)
     
     # Target
     y_train = train_df['btts'].values

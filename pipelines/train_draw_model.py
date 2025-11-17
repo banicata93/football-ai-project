@@ -36,6 +36,39 @@ sys.path.insert(0, str(project_root))
 from core.data_loader import ESPNDataLoader
 from core.draw_features import DrawFeatures
 from core.utils import setup_logging
+from sklearn.base import BaseEstimator, ClassifierMixin
+
+
+class LGBWrapper(BaseEstimator, ClassifierMixin):
+    """
+    Sklearn-compatible wrapper for LightGBM model
+    Makes it compatible with CalibratedClassifierCV
+    """
+    def __init__(self, lgb_model=None):
+        self.lgb_model = lgb_model
+        self.classes_ = np.array([0, 1])
+        self.n_classes_ = 2
+    
+    def fit(self, X, y):
+        self.classes_ = np.unique(y)
+        self.n_classes_ = len(self.classes_)
+        return self
+    
+    def predict_proba(self, X):
+        preds = self.lgb_model.predict(X)
+        preds = np.clip(preds, 1e-7, 1 - 1e-7)
+        return np.column_stack([1 - preds, preds])
+    
+    def predict(self, X):
+        return (self.lgb_model.predict(X) > 0.5).astype(int)
+    
+    def decision_function(self, X):
+        preds = self.lgb_model.predict(X)
+        return np.log(np.clip(preds / (1 - preds), 1e-7, 1e7))
+    
+    @property
+    def _estimator_type(self):
+        return "classifier"
 
 
 class DrawModelTrainer:
@@ -335,41 +368,7 @@ class DrawModelTrainer:
         if training_config.get('calibration', True):
             self.logger.info("🔧 Applying probability calibration...")
             
-            # Create sklearn-compatible wrapper
-            from sklearn.base import BaseEstimator, ClassifierMixin
-            
-            class LGBWrapper(BaseEstimator, ClassifierMixin):
-                def __init__(self, lgb_model):
-                    self.lgb_model = lgb_model
-                    self.classes_ = np.array([0, 1])  # Required for ClassifierMixin
-                    self.n_classes_ = 2  # Required for ClassifierMixin
-                
-                def fit(self, X, y):
-                    # Already fitted, but set required attributes
-                    self.classes_ = np.unique(y)
-                    self.n_classes_ = len(self.classes_)
-                    return self
-                
-                def predict_proba(self, X):
-                    preds = self.lgb_model.predict(X)
-                    # Ensure predictions are probabilities [0, 1]
-                    preds = np.clip(preds, 1e-7, 1 - 1e-7)
-                    # Convert to 2D array for binary classification
-                    return np.column_stack([1 - preds, preds])
-                
-                def predict(self, X):
-                    return (self.lgb_model.predict(X) > 0.5).astype(int)
-                
-                def decision_function(self, X):
-                    # Required for some calibration methods
-                    preds = self.lgb_model.predict(X)
-                    # Convert probabilities to decision function scores
-                    return np.log(np.clip(preds / (1 - preds), 1e-7, 1e7))
-                
-                @property
-                def _estimator_type(self):
-                    return "classifier"
-            
+            # Use global LGBWrapper class
             lgb_wrapper = LGBWrapper(self.model)
             
             # Test wrapper before calibration
@@ -399,16 +398,16 @@ class DrawModelTrainer:
                 calibrated_model.fit(X_train, y_train)
                 
                 self.logger.info("✅ Calibration applied successfully")
+                self.model = calibrated_model
+                self.logger.info("✅ Model calibration completed")
                 
             except Exception as e:
                 self.logger.error(f"❌ Calibration failed: {e}")
                 self.logger.warning("⚠️ Using uncalibrated model")
-                return
-            
-            self.model = calibrated_model
-            self.logger.info("✅ Model calibration completed")
+                # Keep the original lgb_wrapper model
+                self.model = lgb_wrapper
         
-        # Store feature list
+        # Store feature list (MUST be set regardless of calibration success)
         self.feature_list = feature_names
         
         self.logger.info("✅ Model training completed")
