@@ -149,10 +149,10 @@ class PredictionService:
         """Зареждане на BTTS модели с приоритет на improved версията"""
         btts_loaded = False
         
-        # Опит за зареждане на improved BTTS модел
+        # Опит за зареждане на BTTS v2 (improved) модел
         try:
-            improved_btts_path = 'models/model_btts_improved/btts_model_improved.pkl'
-            improved_features_path = 'models/model_btts_improved/feature_columns.json'
+            improved_btts_path = 'models/model_btts_v2/btts_model.pkl'
+            improved_features_path = 'models/model_btts_v2/feature_list.json'
             
             if os.path.exists(improved_btts_path):
                 self.improved_btts_model = joblib.load(improved_btts_path)
@@ -166,13 +166,13 @@ class PredictionService:
                         else:
                             self.feature_lists['btts'] = feature_data
                 
-                self.logger.info(f"✓ Improved BTTS model зареден като основен с {len(self.feature_lists.get('btts', []))} features")
+                self.logger.info(f"✓ BTTS v2 model зареден като основен с {len(self.feature_lists.get('btts', []))} features")
                 btts_loaded = True
             else:
-                self.logger.warning("⚠ Improved BTTS model файл не съществува")
+                self.logger.warning("⚠ BTTS v2 model файл не съществува")
                 
         except Exception as e:
-            self.logger.warning(f"⚠ Грешка при зареждане на improved BTTS: {e}")
+            self.logger.warning(f"⚠ Грешка при зареждане на BTTS v2: {e}")
         
         # Fallback към legacy BTTS модел ако improved не е зареден
         if not btts_loaded:
@@ -1133,7 +1133,14 @@ class PredictionService:
         metrics = {}
         accuracy = None
         trained_date = 'N/A'
-        loaded = model_key in self.models
+        
+        # Check if model is loaded (special handling for BTTS v2)
+        if model_key == 'btts_improved':
+            loaded = self.improved_btts_model is not None
+        elif model_key == 'btts':
+            loaded = model_key in self.models or self.improved_btts_model is not None
+        else:
+            loaded = model_key in self.models
         
         try:
             with open(metrics_path, 'r') as f:
