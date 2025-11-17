@@ -200,22 +200,14 @@ class Train1X2V2:
             
             for idx, row in batch_df.iterrows():
                 try:
-                    # Standard features (simplified for now)
-                    standard_features = {
-                        'home_team_id': float(row['home_team_id']),
-                        'away_team_id': float(row['away_team_id']),
-                        'league_id': float(row['league_id']),
-                        'venue_id': float(row.get('venue_id', 0))
-                    }
-                    
-                    # 1X2-specific features
+                    # 1X2-specific features (don't include ID columns - they're already in df)
                     x1x2_features = self.features_1x2.create_1x2_features(
                         row['home_team'], row['away_team'], row['league'],
                         df, row['date']
                     )
                     
-                    # Combine features
-                    combined_features = {**standard_features, **x1x2_features}
+                    # Use features directly (no standard_features to avoid duplicates)
+                    combined_features = x1x2_features.copy()
                     combined_features['match_id'] = idx
                     
                     batch_features.append(combined_features)
@@ -508,6 +500,7 @@ class Train1X2V2:
             )
             
             # Save models
+            output_dir = Path(output_dir)
             output_dir.mkdir(parents=True, exist_ok=True)
             
             for model_name, model in league_models['models'].items():

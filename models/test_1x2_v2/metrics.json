@@ -1,0 +1,13 @@
+{
+  "train": {
+    "homewin_accuracy": 0.9813084112149533,
+    "homewin_logloss": 0.052863308554930925,
+    "draw_accuracy": 0.8504672897196262,
+    "draw_logloss": 0.29955494727734194,
+    "awaywin_accuracy": 0.9906542056074766,
+    "awaywin_logloss": 0.031100955878951043
+  },
+  "league": "premier_league",
+  "trained_date": "2025-11-17 11:18:27",
+  "model_type": "1x2_v2_binary"
+}
